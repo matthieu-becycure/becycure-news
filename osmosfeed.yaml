@@ -5,5 +5,6 @@
 
 cacheUrl: https://matthieu-becycure.github.io/becycure-news/cache.json
 sources:
-  - href: https://www.ssi.gouv.fr/feed/publication/ # Get new feature announcement via this feed
+  - href: https://feeds.feedburner.com/TheHackersNews # Get new feature announcement via this feed
+  - href: https://www.cert.ssi.gouv.fr/feed/
 
