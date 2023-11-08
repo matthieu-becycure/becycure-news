@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new set of malicious Python packages has slithered their way to the Python Package Index (PyPI) repository with the ultimate aim of stealing sensitive information from compromised developer systems.\nThe packages masquerade as seemingly innocuous obfuscation tools, but harbor a piece of malware called BlazeStealer, Checkmarx said in a report shared with The Hacker News.\n\"[BlazeStealer]",
+          "link": "https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html",
+          "publishedOn": "2023-11-08T12:57:00.000Z",
+          "wordCount": null,
+          "title": "Beware, Developers: BlazeStealer Malware Discovered in Python Packages on PyPI",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtHjH8c7miMelieiYkjIMmI9Yqn7KgBA6UCoSbcgw9bmHbhxBEtUXX4tU501VfwV3ITnTedfAgCm6Wosj7uOfvk2K9lxwQFPGHTNrf8DXDdi-Fnjwos2szMeBtCYL404roFkUCfxl3AdwjrrKlm6goFCNMSySfNFWOgAwIHV5IxkMFw4y45eWr8RrNF9OH/s1600/python.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtHjH8c7miMelieiYkjIMmI9Yqn7KgBA6UCoSbcgw9bmHbhxBEtUXX4tU501VfwV3ITnTedfAgCm6Wosj7uOfvk2K9lxwQFPGHTNrf8DXDdi-Fnjwos2szMeBtCYL404roFkUCfxl3AdwjrrKlm6goFCNMSySfNFWOgAwIHV5IxkMFw4y45eWr8RrNF9OH/s1600/python.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Download the free guide, \"It's a Generative AI World: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks.\"\nChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sales, marketing, HR, IT executive, technical support, operations, finance and other functions are feeding data prompts and queries into generative AI engines. They use these tools to write",
