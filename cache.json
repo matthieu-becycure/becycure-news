@@ -1,0 +1,386 @@
+{
+  "sources": [
+    {
+      "title": "Release notes from osmosfeed",
+      "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
+      "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
+      "articles": []
+    },
+    {
+      "title": "CSS-Tricks",
+      "feedUrl": "https://css-tricks.com/feed/",
+      "siteUrl": "https://css-tricks.com",
+      "articles": []
+    },
+    {
+      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
+      "feedUrl": "https://www.smashingmagazine.com/feed/",
+      "siteUrl": "https://www.smashingmagazine.com/",
+      "articles": [
+        {
+          "id": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "author": "hello@smashingmagazine.com (Maxwell Barvian)",
+          "description": "The CSS `clamp()` function is often paired with viewport units for “fluid” font sizing that scales the text up and down at different viewport sizes. As common as this technique is, several voices warn that it opens up situations where text can fail WCAG Success Criterion 1.4.4, which specifies that text should scale up to at least 200% when the user’s browser reaches its 500% maximum zoom level. Max Barvian takes a deep look at the issue and offers ideas to help address it.",
+          "link": "https://smashingmagazine.com/2023/11/addressing-accessibility-concerns-fluid-type/",
+          "publishedOn": "2023-11-07T18:00:00.000Z",
+          "wordCount": 4859,
+          "title": "Addressing Accessibility Concerns With Using Fluid Type",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/addressing-accessibility-concerns-fluid-type/addressing-accessibility-concerns-fluid-type.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "Icons are capable of enhancing the content that surrounds them, but they have to be self-explanatory for that to happen. We have icons for things we like (a thumbs up), things we can share (a box topped with an up arrow), and even for protection against malicious online attacks (a shield), but what are the options we have for representing “privacy”?",
+          "link": "https://smashingmagazine.com/2023/11/search-ideal-privacy-icon/",
+          "publishedOn": "2023-11-02T15:00:00.000Z",
+          "wordCount": 5563,
+          "title": "In Search Of The Ideal Privacy Icon",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/search-ideal-privacy-icon/search-ideal-privacy-icon.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/search-ideal-privacy-icon/search-ideal-privacy-icon.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Take a closer look at how various performance tools audit and report on performance metrics, such as core web vitals. Geoff Graham answers a set of common questions that pop up during performance audits.",
+          "link": "https://smashingmagazine.com/2023/10/answering-questions-interpreting-page-speed-reports/",
+          "publishedOn": "2023-10-31T16:00:00.000Z",
+          "wordCount": 5490,
+          "title": "Answering Common Questions About Interpreting Page Speed Reports",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/answering-questions-interpreting-page-speed-reports/answering-questions-interpreting-page-speed-reports.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/answering-questions-interpreting-page-speed-reports/answering-questions-interpreting-page-speed-reports.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "November is just around the corner, and with it, a new collection of desktop wallpapers to celebrate the beginning of the month. Designed by creatives from all across the globe, they come in versions with and without a calendar. Let’s make this November colorful!",
+          "link": "https://smashingmagazine.com/2023/10/desktop-wallpaper-calendars-november-2023/",
+          "publishedOn": "2023-10-31T09:45:00.000Z",
+          "wordCount": 4991,
+          "title": "Tales Of November (2023 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2023/nov-23-transition-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2023/nov-23-transition-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/",
+          "author": "hello@smashingmagazine.com (Neal Fennimore)",
+          "description": "Passkeys are beginning to make their way into popular apps, from password managers to multi-factor authenticators, but what exactly are they? As this new technology promises to make passwords a thing of the past, Neal Fennimore explains the concepts behind passkeys, demonstrates how they work, and speculates what we might expect from them in the future.",
+          "link": "https://smashingmagazine.com/2023/10/passkeys-explainer-future-password-less-authentication/",
+          "publishedOn": "2023-10-30T10:00:00.000Z",
+          "wordCount": 6379,
+          "title": "Passkeys: A No-Frills Explainer On The Future Of Password-Less Authentication",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/passkeys-explainer-future-password-less-authentication/passkeys-explainer-future-password-less-authentication.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/passkeys-explainer-future-password-less-authentication/passkeys-explainer-future-password-less-authentication.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/beginner-web-development-working-career/",
+          "author": "hello@smashingmagazine.com (Victoria Johnson)",
+          "description": "Victoria Johnson began a career in front-end development upon graduating from college. Now, roughly one year later, she reflects back on the decisions she made to crack into the field and find her first full-time job. This is her story, and she’s sharing it to provide those who are just starting out with another beginner’s perspective.",
+          "link": "https://smashingmagazine.com/2023/10/beginner-web-development-working-career/",
+          "publishedOn": "2023-10-27T15:00:00.000Z",
+          "wordCount": 4945,
+          "title": "What I Wish I Knew About Working In Development Right Out Of School",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/beginner-web-development-working-career/beginner-web-development-working-career.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
+          "author": "hello@smashingmagazine.com (Maximilian Speicher & Johanna Jagow)",
+          "description": "Inuit (short for “**In**terface **U**sability **I**nstrumen**t**”) is a new questionnaire you can use to assess the usability of your user interface. It has been designed to be more diagnostic than existing usability instruments like, e.g., SUS and for use with machine learning, all the while asking fewer questions than other questionnaires. This article explores how and why Inuit has been developed and why we can be sure that it actually measures usability, and reliably so.",
+          "link": "https://smashingmagazine.com/2023/10/actionable-reliable-usability-questionnaire-inuit/",
+          "publishedOn": "2023-10-26T10:00:00.000Z",
+          "wordCount": 5920,
+          "title": "An Actionable And Reliable Usability Questionnaire With Only 7 Items: <span style=\"font-variant: small-caps\">Inuit</span>",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/actionable-reliable-usability-questionnaire-inuit/reliable-usability-questionnaire-inuit.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "Having access to a free reporting tool like Lighthouse in DevTools is a great start for diagnosing performance issues by identifying bottlenecks on the main thread. Even better are paid tools like [SpeedCurve](https://www.speedcurve.com/?utm_source=smashingmag&utm_medium=magazine&utm_campaign=sm7_2023&utm_id=sm7_2023&utm_term=sm7_2023) to dig deeper into the data for more targeted insights and to produce visual reports to help make a case for performance improvements for your team and other stakeholders.",
+          "link": "https://smashingmagazine.com/2023/10/speedcurve-fight-main-thread/",
+          "publishedOn": "2023-10-24T18:00:00.000Z",
+          "wordCount": 6098,
+          "title": "The Fight For The Main Thread",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/fight-main-thread/speedcurve-fight-main-thread.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "Removing properties from an object in JavaScript might not be the most exciting job, but there are many ways to achieve it, each revealing a fundamental aspect of how JavaScript works. Juan Diego Rodríguez explores each technique in this article.",
+          "link": "https://smashingmagazine.com/2023/10/removing-object-properties-javascript/",
+          "publishedOn": "2023-10-23T13:00:00.000Z",
+          "wordCount": 5432,
+          "title": "What Removing Object Properties Tells Us About JavaScript",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/removing-object-properties-javascript/removing-object-properties-javascript.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "description": "WCAG 2.2 officially became a “W3C Recommended” web standard on October 5, 2023, and with it, new success criteria and changes to existing guidelines for accessible user experiences. What are the changes, and how can you conform to them? This roundup provides links to WCAG 2.2 explainers that have been published or updated since the release.",
+          "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "publishedOn": "2023-10-20T13:00:00.000Z",
+          "wordCount": 3917,
+          "title": "A Roundup Of WCAG 2.2 Explainers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
+          "author": "hello@smashingmagazine.com (Daria Karpenko)",
+          "description": "Finding the right typeface is tricky as a whole. Dividing the process into steps and having the right information at hand will make this journey a design adventure full of surprises. To avoid sinking into unnecessary details, use this guide as a map for your path. Review various font paraments and learn how to apply them to your designs.",
+          "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
+          "publishedOn": "2023-10-20T09:00:00.000Z",
+          "wordCount": 5554,
+          "title": "How To Choose Typefaces For Fintech Products: Best Practices Guide (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "CSS loaders and progress indicators are some of the most widely used examples in tutorials and documentation. In this article, Preethi demonstrates an approach using animated custom properties, a conic gradient, CSS `offset`, and emoji to create the illusion of a scooter racing along a donut track.",
+          "link": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "publishedOn": "2023-10-18T12:00:00.000Z",
+          "wordCount": 4973,
+          "title": "How To Animate Along A Path In CSS",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
+          "author": "hello@smashingmagazine.com (Drew McLellan)",
+          "description": "In today’s Smashing Podcast episode, we’re talking about Tech Unions. What part can unions play in a modern tech workplace? Drew McLellan talks to Ethan Marcotte to find out.",
+          "link": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
+          "publishedOn": "2023-10-17T16:00:00.000Z",
+          "wordCount": 8428,
+          "title": "Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-podcast-episode-66/smashing-podcast-episode-66.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "description": "In the final part of this two-part series on solving headaches when working with media files in Gatsby projects, Juan Rodriguez demonstrates strategies and techniques for handling various types of documents, including Markdown files, PDFs, and 3D models.",
+          "link": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
+          "publishedOn": "2023-10-16T13:00:00.000Z",
+          "wordCount": 7220,
+          "title": "Gatsby Headaches: Working With Media (Part 2)",
+          "enclosure": {
+            "url": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://smashing-files.ams3.digitaloceanspaces.com/articles/gatsby-headaches-working-media-part2/gatsby-headaches-working-media.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
+          "author": "hello@smashingmagazine.com (Daria Karpenko)",
+          "description": "Fintech products are systems that are overloaded by many types of data like numerals, texts, spreadsheets, and so on. Working with these products requires the designer to pay a high level of attention and responsibility, as he becomes a provider between user and data. Daria shares her approach to digital product typography and reviews the key points to consider when choosing typefaces.",
+          "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
+          "publishedOn": "2023-10-13T11:00:00.000Z",
+          "wordCount": 5417,
+          "title": "How To Choose Typefaces For Fintech Products: Our Best Practices Guide (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
+          "author": "hello@smashingmagazine.com (Slava Shestopalov)",
+          "description": "Working in the area of UX sometimes feels like a crime drama. Can’t believe it? Then look at these fun parallels between modern UX practices and a classical TV detective.",
+          "link": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
+          "publishedOn": "2023-10-12T08:00:00.000Z",
+          "wordCount": 5349,
+          "title": "Everything I Know About UX Research I First Learned From Lt. Columbo",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-research-learn-from-lt-columbo/ux-research-learn-from-lt-columbo.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "description": "Discuss the concept of large language models (LLMs) and how they are implemented with a set of data to develop an application. Joas compares a collection of no-code and low-code apps designed to help you get a feel for not only how the concept works but also to get a sense of what types of models are available to train AI on different skill sets.",
+          "link": "https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/",
+          "publishedOn": "2023-10-10T13:00:00.000Z",
+          "wordCount": 6881,
+          "title": "A High-Level Overview Of Large Language Model Concepts, Use Cases, And Tools",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg"
+        }
+      ]
+    },
+    {
+      "title": "freeCodeCamp.org",
+      "feedUrl": "https://www.freecodecamp.org/news/rss/",
+      "siteUrl": "https://www.freecodecamp.org/news/",
+      "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/aws-project-build-a-resume/",
+          "author": "Amber Israelsen",
+          "description": "If you're new to AWS, you can probably appreciate the sense of overwhelm that comes from trying to understand all the different services (seriously, like,  hundreds of them). What are they all for, and how do they work together?  And then once you've conquered some basic skills, the",
+          "link": "https://www.freecodecamp.org/news/aws-project-build-a-resume/",
+          "publishedOn": "2023-11-08T00:38:02.000Z",
+          "wordCount": 5685,
+          "title": "How to Build an Online Résumé on AWS Using S3, Route 53, CloudFront, and ACM",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/thumbnail-final-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/",
+          "author": "Ogundiran Ayobami",
+          "description": "In order to write scalable, reusable, and maintainable applications with React, you'll need to go beyond the surface of using React components, useEffect, useContext, useState, and the like. It involves learning in detail how React works in more depth.  And if you don't properly understand these key React concepts,",
+          "link": "https://www.freecodecamp.org/news/avoid-prop-drilling-in-react/",
+          "publishedOn": "2023-11-07T22:58:39.000Z",
+          "wordCount": 3017,
+          "title": "How to Avoid Prop Drilling in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Purple-Creative-Livestream-YouTube-Thumbnail.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/build-a-whiteboard-app/",
+          "author": "Juan P. Romano",
+          "description": "In this tutorial, you will learn how to build a simple whiteboard app using Python and Tkinter. Some months ago, I was teaching a Python course. I was struggling to convey certain concepts because it was an online course, and I couldn't use a whiteboard or even a traditional board.",
+          "link": "https://www.freecodecamp.org/news/build-a-whiteboard-app/",
+          "publishedOn": "2023-11-07T22:23:59.000Z",
+          "wordCount": 2629,
+          "title": "How to Build a Whiteboard App with Python and Tkinter",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/whiteboard_tkinter_python_banner_pic.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/",
+          "author": "Furkan Emin Can",
+          "description": "Declaring variables is something you'll do all the time in JavaScript. And if you know the variable declaration process inside and out, you'll have the confidence to start writing great JS code. Through this article, you will learn how to declare and mutate variables using  var, let, and const,",
+          "link": "https://www.freecodecamp.org/news/how-to-declare-variables-in-javascript/",
+          "publishedOn": "2023-11-07T22:16:57.000Z",
+          "wordCount": 2861,
+          "title": "How to Declare Variables in JavaScript – var, let, and const Explained",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Cover-1.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
+          "author": "Yazdun Fadali",
+          "description": "If you're looking to add some polished animations to your React apps, Framer Motion is the tool for the job.  In this tutorial, I'll walk you through creating a fully animated mobile menu using Framer Motion in React. What Are We Going to Build? In this tutorial, I'll guide",
+          "link": "https://www.freecodecamp.org/news/how-to-create-an-animated-hamburger-menu-in-react/",
+          "publishedOn": "2023-11-07T17:15:20.000Z",
+          "wordCount": 2378,
+          "title": "How to Create an Animated Hamburger Menu in React",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Frame-14.jpg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
+          "author": "Beau Carnes",
+          "description": "The combination of artificial intelligence (AI) and web development has revolutionized the way we create and manage online content. I just created and released a course on the freeCodeCamp.org YouTube channel that will teach you how to use AI to help create an e-commerce store powered by WordPress. You will",
+          "link": "https://www.freecodecamp.org/news/create-a-wordpress-store-that-sells-real-ai-generated-products/",
+          "publishedOn": "2023-11-07T15:52:15.000Z",
+          "wordCount": 877,
+          "title": "Create a WordPress Store that Sells Real AI-Generated Products",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/aiwordpress2.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "author": "Andrico Karoulla",
+          "description": "The browser has a built-in way of writing reusable components in the form of web components. They’re an excellent choice for building interactive and reusable components that work in any frontend framework.  With that said, writing highly interactive and robust web components isn’t simple. They require a lot of",
+          "link": "https://www.freecodecamp.org/news/write-components-that-work-in-any-framework/",
+          "publishedOn": "2023-11-06T20:25:12.000Z",
+          "wordCount": 3089,
+          "title": "How to Write Components that Work in Any Framework",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/og-button.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/",
+          "author": "Quincy Larson",
+          "description": "Today I'm joined by Joel Spolsky. He's co-founder of Trello and Stack Overflow, and author of the iconic developer blog Joel on Software. I hung out with Joel in his New York City home to discuss his 4-decade-long career as a developer and a CEO. He shared his insights",
+          "link": "https://www.freecodecamp.org/news/trello-stack-overflow-founder-joel-spolsky-podcast-interview/",
+          "publishedOn": "2023-11-04T00:08:30.000Z",
+          "wordCount": 787,
+          "title": "Podcast: Trello and Stack Overflow Founder Joel Spolsky",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Signal.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/make-api-calls-in-javascript/",
+          "author": "Joan Ayebola",
+          "description": "Calling an API (Application Programming Interface) in JavaScript is a fundamental action that web developers need to know how to perform. It allows you to fetch data from external sources and integrate it into your web applications.  In this tutorial, I'll walk you through the process of making API",
+          "link": "https://www.freecodecamp.org/news/make-api-calls-in-javascript/",
+          "publishedOn": "2023-11-03T18:34:49.000Z",
+          "wordCount": 2447,
+          "title": "How to Call an API in JavaScript – with Examples",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/Brown-Aesthetic-Scrapbook-Vintage-Group-Project-Presentation.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/benefits-of-typescript/",
+          "author": "Hunor Márton Borbély",
+          "description": "TypeScript is taking over the web. In this article I'll give you a high-level overview of the benefits of TypeScript and how can it help you create websites with fewer bugs.  You'll learn how TypeScript helps with handling edge cases, catching typos, refactoring code, and how types make code",
+          "link": "https://www.freecodecamp.org/news/benefits-of-typescript/",
+          "publishedOn": "2023-11-03T15:16:26.000Z",
+          "wordCount": 4099,
+          "title": "How TypeScript Helps You Write Better Code",
+          "imageUrl": "https://www.freecodecamp.org/news/content/images/2023/11/thumbnail.001.jpeg"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
