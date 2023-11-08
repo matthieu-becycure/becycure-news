@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft Azure Automation service without racking up any charges.\nCybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention.\n\"While this",
+          "link": "https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html",
+          "publishedOn": "2023-11-08T14:19:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqF3y0Pe4yO_0YCngrCkx76yumKbZ5DIhoqoySNUHWpeKKZ7GzLgd2hr66T1BN2DBPrFYzpd1mdx7VRZxxm4xNW7gPQVuuB9LBgJcA3iilAHfBgmj9OvloWOb2zquo79cez8hSFA-yhA8qhzmrqOhTTmIMYqltsAij4RkgVUrp3etHD7CXuiFLa67SJikH/s1600/cloudminer.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqF3y0Pe4yO_0YCngrCkx76yumKbZ5DIhoqoySNUHWpeKKZ7GzLgd2hr66T1BN2DBPrFYzpd1mdx7VRZxxm4xNW7gPQVuuB9LBgJcA3iilAHfBgmj9OvloWOb2zquo79cez8hSFA-yhA8qhzmrqOhTTmIMYqltsAij4RkgVUrp3etHD7CXuiFLa67SJikH/s1600/cloudminer.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Meta-owned WhatsApp is officially rolling out a new privacy feature in its messaging service called \"Protect IP Address in Calls\" that masks users' IP addresses to other parties by relaying the calls through its servers.\n\"Calls are end-to-end encrypted, so even if a call is relayed through WhatsApp servers, WhatsApp cannot listen to your calls,\" the company said in a statement shared with The",
+          "link": "https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html",
+          "publishedOn": "2023-11-08T13:57:00.000Z",
+          "wordCount": null,
+          "title": "WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWd-DTRdutmsf7x5M8519RcZtVuJYdk6j7HTuCpXDh-I0dr9YdHunWg7WTBh5OMCu9CmDT0cpcEdJd7d31ESjsrcjJIj55et-iMSappbbmmCizjMPn_J0fZL646lc-1jBOBpHEsu6gpcOiUwOBM-lKRo_IW4IMeekVC15aAeSSc61VrIjeQEk6DzV7-wX_/s1600/whatsapp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWd-DTRdutmsf7x5M8519RcZtVuJYdk6j7HTuCpXDh-I0dr9YdHunWg7WTBh5OMCu9CmDT0cpcEdJd7d31ESjsrcjJIj55et-iMSappbbmmCizjMPn_J0fZL646lc-1jBOBpHEsu6gpcOiUwOBM-lKRo_IW4IMeekVC15aAeSSc61VrIjeQEk6DzV7-wX_/s1600/whatsapp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new set of malicious Python packages has slithered their way to the Python Package Index (PyPI) repository with the ultimate aim of stealing sensitive information from compromised developer systems.\nThe packages masquerade as seemingly innocuous obfuscation tools, but harbor a piece of malware called BlazeStealer, Checkmarx said in a report shared with The Hacker News.\n\"[BlazeStealer]",
@@ -828,6 +860,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/",
+          "publishedOn": "2023-11-08T10:00:55.000Z",
+          "wordCount": 949,
+          "title": "CERTFR-2023-AVI-0922 : Multiples vulnérabilités dans IBM AIX (08 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/",
+          "publishedOn": "2023-11-08T10:00:02.000Z",
+          "wordCount": 939,
+          "title": "CERTFR-2023-AVI-0921 : Vulnérabilité dans Google Chrome (08 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/",
+          "author": null,
+          "description": "Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/",
+          "publishedOn": "2023-11-08T09:47:45.000Z",
+          "wordCount": 950,
+          "title": "CERTFR-2023-AVI-0920 : Vulnérabilité dans OpenSSL (08 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits SolarWinds. Elle permet à un attaquant une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/",
+          "publishedOn": "2023-11-08T09:34:41.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2023-AVI-0919 : Vulnérabilité dans les produits SolarWinds (08 novembre 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/",
           "author": null,
