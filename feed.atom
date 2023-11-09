@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-09T11:25:30.185Z</updated>
+    <updated>2023-11-09T11:43:35.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules]]></title>
+        <id>https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html</id>
+        <link href="https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html"/>
+        <updated>2023-11-09T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[While intended for convenience and efficient communication, email auto-forwarding rules can inadvertently lead to the unauthorized dissemination of sensitive information to external entities, putting confidential data at risk of exposure to unauthorized parties. Wing Security (Wing), a SaaS security company, announced yesterday that their SaaS shadow IT discovery methods now include a solution]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel]]></title>
+        <id>https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html</id>
+        <link href="https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html"/>
+        <updated>2023-11-09T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Iranian nation-state actors have been observed using a previously undocumented command-and-control (C2) framework called MuddyC2Go as part of attacks targeting Israel.
+"The framework's web component is written in the Go programming language," Deep Instinct security researcher Simon Kenin said in a technical report published Wednesday.
+The tool has been attributed to MuddyWater, an Iranian]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation]]></title>
         <id>https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html</id>
