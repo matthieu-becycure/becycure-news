@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw in the Service Location Protocol (SLP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2023-29552 (CVSS score: 7.5), the issue relates to a denial-of-service (DoS) vulnerability that could be weaponized to launch massive DoS",
+          "link": "https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html",
+          "publishedOn": "2023-11-09T05:33:00.000Z",
+          "wordCount": null,
+          "title": "CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2gd3rp-2VLlxVCqOFD3QAblwGpzZLr5PCgjigmgTeLIgMQ7DjgeK1EMIfMhL9Bum5s4QAMrfU7HYwKlGbe8zh0pQw_uwBCv88ZdxXMb37psS2dI85dYYnvM6WZ6SUuG36Njny1uBZVnBD0xh0O_NXZ_iUTqTRZws0PyuCOEYecle5pBiJws7WT4DS9xs/s1600/server.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2gd3rp-2VLlxVCqOFD3QAblwGpzZLr5PCgjigmgTeLIgMQ7DjgeK1EMIfMhL9Bum5s4QAMrfU7HYwKlGbe8zh0pQw_uwBCv88ZdxXMb37psS2dI85dYYnvM6WZ6SUuG36Njny1uBZVnBD0xh0O_NXZ_iUTqTRZws0PyuCOEYecle5pBiJws7WT4DS9xs/s1600/server.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft Azure Automation service without racking up any charges.\nCybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention.\n\"While this",
