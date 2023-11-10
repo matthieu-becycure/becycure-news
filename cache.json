@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/stealthy-kamran-spyware-targeting-urdu.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Urdu-speaking readers of a regional news website that caters to the Gilgit-Baltistan region have likely emerged as a target of a watering hole attack designed to deliver a previously undocumented Android spyware dubbed Kamran.\nThe campaign, ESET has discovered, leverages Hunza News (urdu.hunzanews[.]net), which, when opened on a mobile device, prompts visitors of the Urdu version to install its",
+          "link": "https://thehackernews.com/2023/11/stealthy-kamran-spyware-targeting-urdu.html",
+          "publishedOn": "2023-11-10T05:09:00.000Z",
+          "wordCount": null,
+          "title": "Stealthy Kamran Spyware Targeting Urdu-speaking Users in Gilgit-Baltistan",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqoWohksMvKbN9PyfJ_WauZYkyAmMk8SSlZrPJCgC7fwYm89OSGF5rgz75tWnMqsc3VFWTHQkPf94HLCEVFPZ0bR8jRXsXWajBAZWc7EWxHQ_VwXtaCX2kOQZJjAmqatRgu3C6UEcuuO6TvJI6XgZNRd6lWU9YXudeWYw_cTBqW3cTYSFbhIPOEZN1R3D/s1600/android-spyware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilqoWohksMvKbN9PyfJ_WauZYkyAmMk8SSlZrPJCgC7fwYm89OSGF5rgz75tWnMqsc3VFWTHQkPf94HLCEVFPZ0bR8jRXsXWajBAZWc7EWxHQ_VwXtaCX2kOQZJjAmqatRgu3C6UEcuuO6TvJI6XgZNRd6lWU9YXudeWYw_cTBqW3cTYSFbhIPOEZN1R3D/s1600/android-spyware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as Lace Tempest has been linked to the exploitation of a zero-day flaw in SysAid IT support software in limited attacks, according to new findings from Microsoft.\nLace Tempest, which is known for distributing the Cl0p ransomware, has in the past leveraged zero-day flaws in MOVEit Transfer and PaperCut servers.\nThe issue, tracked as CVE-2023-47246, concerns a path traversal",
