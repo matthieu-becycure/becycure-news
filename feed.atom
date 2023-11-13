@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-13T15:43:45.009Z</updated>
+    <updated>2023-11-13T16:35:10.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-ACT-049 : Bulletin d’actualité CERTFR-2023-ACT-049 (13 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-049/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-049/"/>
+        <updated>2023-11-13T13:03:53.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Ransomware Group Emerges with Hive's Source Code and Infrastructure]]></title>
         <id>https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html</id>
@@ -26,6 +36,46 @@
 These apps serve as the digital command centers for marketing]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0932 : Vulnérabilité dans Microsoft Edge (13 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0932/"/>
+        <updated>2023-11-13T09:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0931 : Multiples vulnérabilités dans les produits Qnap (13 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0931/"/>
+        <updated>2023-11-13T09:04:50.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0930 : Multiples vulnérabilités dans Symfony (13 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0930/"/>
+        <updated>2023-11-13T09:04:30.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Symfony. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0929 : Vulnérabilité dans SolarWinds Network Configuration Manager (13 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0929/"/>
+        <updated>2023-11-13T09:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Network Configuration Manager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
