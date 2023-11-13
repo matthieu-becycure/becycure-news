@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-13T04:43:52.820Z</updated>
+    <updated>2023-11-13T05:26:47.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks]]></title>
+        <id>https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html</id>
+        <link href="https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html"/>
+        <updated>2023-11-13T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have warned about a Windows version of a wiper malware that was previously observed targeting Linux systems in cyber attacks aimed at Israel.
+Dubbed BiBi-Windows Wiper by BlackBerry, the wiper is the Windows counterpart of BiBi-Linux Wiper, which has been put to use by a pro-Hamas hacktivist group in the wake of the Israel-Hamas war last month.
+"The Windows variant [...]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers]]></title>
         <id>https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html</id>
