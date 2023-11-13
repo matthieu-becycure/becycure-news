@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-13T11:43:33.529Z</updated>
+    <updated>2023-11-13T12:54:28.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Ransomware Group Emerges with Hive's Source Code and Infrastructure]]></title>
+        <id>https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html</id>
+        <link href="https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html"/>
+        <updated>2023-11-13T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind a new ransomware group called Hunters International have acquired the source code and infrastructure from the now-dismantled Hive operation to kick-start its own efforts in the threat landscape.
+"It appears that the leadership of the Hive group made the strategic decision to cease their operations and transfer their remaining assets to another group, Hunters]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Marketing Tech SaaS Security Challenges]]></title>
+        <id>https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html</id>
+        <link href="https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html"/>
+        <updated>2023-11-13T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Effective marketing operations today are driven by the use of Software-as-a-Service (SaaS) applications. Marketing apps such as Salesforce, Hubspot, Outreach, Asana, Monday, and Box empower marketing teams, agencies, freelancers, and subject matter experts to collaborate seamlessly on campaigns and marketing initiatives. 
+These apps serve as the digital command centers for marketing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations]]></title>
         <id>https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html</id>
