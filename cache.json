@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A group of academics has disclosed a new \"software fault attack\" on AMD's Secure Encrypted Virtualization (SEV) technology that could be potentially exploited by threat actors to infiltrate encrypted virtual machines (VMs) and even perform privilege escalation.\nThe attack has been codenamed CacheWarp (CVE-2023-20592) by researchers from the CISPA Helmholtz Center for Information Security. It",
+          "link": "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html",
+          "publishedOn": "2023-11-14T18:40:00.000Z",
+          "wordCount": null,
+          "title": "CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfRFABea5euS_7AmlqtSssUpwbk_2Wis8Xgp32Q_GuXDV0JMiuj9MIqMnqnzzr26EME3erTFOS-3hxwavm0nvoXGz3ogr0huMxzjh5PmTiqypQ4Gos9IE24Ij4-NE4GphYNBDDKjLT04omLbmVB60gHgTSVhEtpfczOi3SuktR5TUiU0rOeYCp_t2U45l/s1600/cache.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfRFABea5euS_7AmlqtSssUpwbk_2Wis8Xgp32Q_GuXDV0JMiuj9MIqMnqnzzr26EME3erTFOS-3hxwavm0nvoXGz3ogr0huMxzjh5PmTiqypQ4Gos9IE24Ij4-NE4GphYNBDDKjLT04omLbmVB60gHgTSVhEtpfczOi3SuktR5TUiU0rOeYCp_t2U45l/s1600/cache.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/the-importance-of-continuous-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In 2023, the global average cost of a data breach reached $4.45 million. Beyond the immediate financial loss, there are long-term consequences like diminished customer trust, weakened brand value, and derailed business operations.\nIn a world where the frequency and cost of data breaches are skyrocketing, organizations are coming face-to-face with a harsh reality: traditional cybersecurity",
