@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/cisa-sets-deadline-patch-juniper-junos.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given a November 17, 2023, deadline for federal agencies and organizations to apply mitigations to secure against a number of security flaws in Juniper Junos OS that came to light in August.\nThe agency on Monday added five vulnerabilities to the Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active",
+          "link": "https://thehackernews.com/2023/11/cisa-sets-deadline-patch-juniper-junos.html",
+          "publishedOn": "2023-11-14T06:03:00.000Z",
+          "wordCount": null,
+          "title": "CISA Sets a Deadline - Patch Juniper Junos OS Flaws Before November 17",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy0dc4VQ7ePras82nJjZN0wxCtE2-vKtEqJC1vtRbpF1wZOOPKnGJbEGsvb0K4N3wvh7OEbeUodhyEHaGtBOreOJOluiz7qLwVPzmHkYIx7mEuZiDpF4cEoc5GYzxl88Q1pizXf9uhzQeoLaqGlhyphenhyphenAnySlDhUyJz1-RyeBOvoll-l02Sdf7f9apbk6TD7j/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy0dc4VQ7ePras82nJjZN0wxCtE2-vKtEqJC1vtRbpF1wZOOPKnGJbEGsvb0K4N3wvh7OEbeUodhyEHaGtBOreOJOluiz7qLwVPzmHkYIx7mEuZiDpF4cEoc5GYzxl88Q1pizXf9uhzQeoLaqGlhyphenhyphenAnySlDhUyJz1-RyeBOvoll-l02Sdf7f9apbk6TD7j/s1600/hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind a new ransomware group called Hunters International have acquired the source code and infrastructure from the now-dismantled Hive operation to kick-start its own efforts in the threat landscape.\n\"It appears that the leadership of the Hive group made the strategic decision to cease their operations and transfer their remaining assets to another group, Hunters",
