@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-15T05:43:32.200Z</updated>
+    <updated>2023-11-15T06:30:55.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: Microsoft Releases Patch Updates for 5 New Zero-Day Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2023/11/alert-microsoft-releases-patch-updates.html</id>
+        <link href="https://thehackernews.com/2023/11/alert-microsoft-releases-patch-updates.html"/>
+        <updated>2023-11-15T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released fixes to address 63 security bugs in its software for the month of November 2023, including three vulnerabilities that have come under active exploitation in the wild.
+Of the 63 flaws, three are rated Critical, 56 are rated Important, and four are rated Moderate in severity. Two of them have been listed as publicly known at the time of the release.
+The updates are in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability]]></title>
         <id>https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html</id>
