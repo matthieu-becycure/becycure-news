@@ -1309,6 +1309,126 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données, une élévation de privilèges, un contournement de la fonctionnalité de …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/",
+          "publishedOn": "2023-11-15T14:22:19.000Z",
+          "wordCount": 1423,
+          "title": "CERTFR-2023-AVI-0947 : Multiples vulnérabilités dans les produits Microsoft (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/",
+          "author": null,
+          "description": "Une vulnérabilité a été corrigée dans Microsoft Azure. Elle permet à un attaquant de provoquer une exécution de code à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/",
+          "publishedOn": "2023-11-15T14:22:17.000Z",
+          "wordCount": 933,
+          "title": "CERTFR-2023-AVI-0946 : Vulnérabilité dans Microsoft Azure (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service, une élévation de privilèges et un contournement de la fonctionnalité de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/",
+          "publishedOn": "2023-11-15T14:22:15.000Z",
+          "wordCount": 1072,
+          "title": "CERTFR-2023-AVI-0945 : Multiples vulnérabilités dans Microsoft .Net (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données, une élévation de privilèges, un contournement de la fonctionnalité de sécurité, …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/",
+          "publishedOn": "2023-11-15T14:22:14.000Z",
+          "wordCount": 1688,
+          "title": "CERTFR-2023-AVI-0944 : Multiples vulnérabilités dans Microsoft Windows (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une exécution de code à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/",
+          "publishedOn": "2023-11-15T14:22:12.000Z",
+          "wordCount": 1078,
+          "title": "CERTFR-2023-AVI-0943 : Multiples vulnérabilités dans Microsoft Office (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/",
+          "publishedOn": "2023-11-15T10:00:39.000Z",
+          "wordCount": 1152,
+          "title": "CERTFR-2023-AVI-0942 : Multiples vulnérabilités dans les produits SAP (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Aruba. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/",
+          "publishedOn": "2023-11-15T09:54:43.000Z",
+          "wordCount": 1068,
+          "title": "CERTFR-2023-AVI-0941 : Multiples vulnérabilités dans les produits Aruba (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/",
+          "publishedOn": "2023-11-15T09:49:29.000Z",
+          "wordCount": 947,
+          "title": "CERTFR-2023-AVI-0940 : Multiples vulnérabilités dans Google Chrome (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et une exécution de code arbitraire …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/",
+          "publishedOn": "2023-11-15T09:23:27.000Z",
+          "wordCount": 1114,
+          "title": "CERTFR-2023-AVI-0939 : Multiples vulnérabilités dans les produits Adobe (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/",
+          "publishedOn": "2023-11-15T09:22:55.000Z",
+          "wordCount": 988,
+          "title": "CERTFR-2023-AVI-0938 : Multiples vulnérabilités dans Xen (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0937/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Kibana et Logstash. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0937/",
+          "publishedOn": "2023-11-15T09:22:43.000Z",
+          "wordCount": 974,
+          "title": "CERTFR-2023-AVI-0937 : Multiples vulnérabilités dans Kibana et Logstash (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0936/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans VMware Cloud Director Appliance. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0936/",
+          "publishedOn": "2023-11-15T09:22:33.000Z",
+          "wordCount": 955,
+          "title": "CERTFR-2023-AVI-0936 : Vulnérabilité dans VMware Cloud Director Appliance (15 novembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0935/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une exécution de code arbitraire à distance.",
