@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "VMware is warning of a critical and unpatched security flaw in Cloud Director that could be exploited by a malicious actor to get around authentication protections.\nTracked as CVE-2023-34060 (CVSS score: 9.8), the vulnerability impacts instances that have been upgraded to version 10.5 from an older version.\n\"On an upgraded version of VMware Cloud Director Appliance 10.5, a malicious actor with",
+          "link": "https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html",
+          "publishedOn": "2023-11-15T04:18:00.000Z",
+          "wordCount": null,
+          "title": "Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A group of academics has disclosed a new \"software fault attack\" on AMD's Secure Encrypted Virtualization (SEV) technology that could be potentially exploited by threat actors to infiltrate encrypted virtual machines (VMs) and even perform privilege escalation.\nThe attack has been codenamed CacheWarp (CVE-2023-20592) by researchers from the CISPA Helmholtz Center for Information Security. It",
