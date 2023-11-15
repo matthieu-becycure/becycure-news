@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "What do basketball teams, government agencies, and car manufacturers have in common?\nEach one has been breached, having confidential, proprietary, or private information stolen and exposed by insiders. In each case, the motivations and methods varied, but the risk remained the same: insiders have access to too much data with too few controls.\nInsider threats continue to prove difficult for",
+          "link": "https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html",
+          "publishedOn": "2023-11-15T10:39:00.000Z",
+          "wordCount": null,
+          "title": "Three Ways Varonis Helps You Fight Insider Threats",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOUQ5dPjrWhWgw2ry3dX9ZEOWtrbGuwXvtR3DyvEEbhnShrQ7ThUD_u3Eaj_R2vSHsaSbqDdESQEIuj90YTxmjFrxUoTqV3ozt1BAZH7KPMxe-zH5IAsKA-QVEO-01wZYR2zgakn9ccY9Y6F6LPCL3HLE1M7bEKcN131W8MTGYaQM5jXyekGswOTsWYNE/s1600/indider.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOUQ5dPjrWhWgw2ry3dX9ZEOWtrbGuwXvtR3DyvEEbhnShrQ7ThUD_u3Eaj_R2vSHsaSbqDdESQEIuj90YTxmjFrxUoTqV3ozt1BAZH7KPMxe-zH5IAsKA-QVEO-01wZYR2zgakn9ccY9Y6F6LPCL3HLE1M7bEKcN131W8MTGYaQM5jXyekGswOTsWYNE/s1600/indider.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Intel has released fixes to close out a high-severity flaw codenamed Reptar that impacts its desktop, mobile, and server CPUs.\nTracked as CVE-2023-23583 (CVSS score: 8.8), the issue has the potential to \"allow escalation of privilege and/or information disclosure and/or denial of service via local access.\"\nSuccessful exploitation of the vulnerability could also permit a bypass of the CPU's",
