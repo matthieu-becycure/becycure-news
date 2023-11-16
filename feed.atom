@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-16T12:55:16.789Z</updated>
+    <updated>2023-11-16T13:32:33.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks]]></title>
+        <id>https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html</id>
+        <link href="https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html"/>
+        <updated>2023-11-16T12:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the Rhysida ransomware engage in opportunistic attacks targeting organizations spanning various industry sectors.
+The advisory comes courtesy of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC).
+"Observed as a ransomware-as-a-service (RaaS)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate the Hardest Parts of Employee Offboarding]]></title>
         <id>https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html</id>
