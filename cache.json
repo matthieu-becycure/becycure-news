@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A zero-day flaw in the Zimbra Collaboration email software was exploited by four different groups in real-world attacks to pilfer email data, user credentials, and authentication tokens.\n\"Most of this activity occurred after the initial fix became public on GitHub,\" Google Threat Analysis Group (TAG) said in a report shared with The Hacker News.\nThe flaw, tracked as CVE-2023-37580 (CVSS score:",
+          "link": "https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html",
+          "publishedOn": "2023-11-16T16:09:00.000Z",
+          "wordCount": null,
+          "title": "Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9oG4U8xGYxd3OGWNGj294qRa598S-YXSg-9frTuURsQty3S6Ovot9UeoghyphenhyphenDvHVx5fEc3U_29f5sWTM2PEl_i9ouksVC9q8wJgLIMCmYE9ZXIAH6qO1k1DckbMXt0EE2ZnuJnmYR57jphUxCoUrRAvvdxyDyjly19eqoNeV8QykkugIWxifzzN_7F_mM7/s1600/email-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9oG4U8xGYxd3OGWNGj294qRa598S-YXSg-9frTuURsQty3S6Ovot9UeoghyphenhyphenDvHVx5fEc3U_29f5sWTM2PEl_i9ouksVC9q8wJgLIMCmYE9ZXIAH6qO1k1DckbMXt0EE2ZnuJnmYR57jphUxCoUrRAvvdxyDyjly19eqoNeV8QykkugIWxifzzN_7F_mM7/s1600/email-hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A hacking group that leveraged a recently disclosed security flaw in the WinRAR software as a zero-day has now been categorized as an entirely new advanced persistent threat (APT).\nCybersecurity company NSFOCUS has described DarkCasino as an \"economically motivated\" actor that first came to light in 2021.\n\"DarkCasino is an APT threat actor with strong technical and learning ability, who is good",
@@ -1404,6 +1420,66 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/",
+          "publishedOn": "2023-11-16T11:05:01.000Z",
+          "wordCount": 1786,
+          "title": "CERTFR-2023-AVI-0953 : Multiples vulnérabilités dans les produits Intel (16 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/",
+          "publishedOn": "2023-11-16T10:41:00.000Z",
+          "wordCount": 956,
+          "title": "CERTFR-2023-AVI-0952 : Vulnérabilité dans Progress WS_FTP Server (16 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Android et Pixel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/",
+          "publishedOn": "2023-11-16T10:04:02.000Z",
+          "wordCount": 1078,
+          "title": "CERTFR-2023-AVI-0951 : Multiples vulnérabilités dans Android et Pixel (16 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0950/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0950/",
+          "publishedOn": "2023-11-16T09:32:19.000Z",
+          "wordCount": 1007,
+          "title": "CERTFR-2023-AVI-0950 : Multiples vulnérabilités dans Juniper Secure Analytics (16 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0949/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Wireshark NetScreen file parser. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0949/",
+          "publishedOn": "2023-11-16T09:31:56.000Z",
+          "wordCount": 938,
+          "title": "CERTFR-2023-AVI-0949 : Vulnérabilité dans Wireshark NetScreen file parser (16 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0948/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Citrix Hypervisor. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0948/",
+          "publishedOn": "2023-11-16T09:29:48.000Z",
+          "wordCount": 948,
+          "title": "CERTFR-2023-AVI-0948 : Multiples vulnérabilités dans Citrix Hypervisor (16 novembre 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/",
           "author": null,
