@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-16T05:43:49.472Z</updated>
+    <updated>2023-11-16T06:31:15.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Launch 'Largest Ever Cyber Attack' on Danish Critical Infrastructure]]></title>
+        <id>https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html</id>
+        <link href="https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html"/>
+        <updated>2023-11-16T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian threat actors have been possibly linked to what's been described as the "largest cyber attack against Danish critical infrastructure," in which 22 companies associated with the operation of the country's energy sector were targeted in May 2023. 
+"22 simultaneous, successful cyberattacks against Danish critical infrastructure are not commonplace," Denmark's SektorCERT said [PDF]. "The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty]]></title>
         <id>https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html</id>
