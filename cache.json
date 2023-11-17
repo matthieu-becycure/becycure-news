@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Federal Communications Commission (FCC) is adopting new rules that aim to protect consumers from cell phone account scams that make it possible for malicious actors to orchestrate SIM-swapping attacks and port-out fraud.\n“The rules will help protect consumers from scammers who target data and personal information by covertly swapping SIM cards to a new device or porting phone numbers to",
+          "link": "https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html",
+          "publishedOn": "2023-11-17T12:37:00.000Z",
+          "wordCount": null,
+          "title": "FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhwHEYUwuc4SIu8Qf9IZ0LTBShia61f2pgc7Zg5friUlHZLgokcOpf26ZtS3KvzzZieZTcxhWusuzOaU92Vp2tCOeX3wXypvyHxsjmm7l2tk4yByS2tmIwxKXleLXqJYqIV1z12emXUK1TxMVXZTRponVyF6101JZX3M9oIpd2yA3rCkem6KSlIsB51SgQ/s1600/sim-swapping.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhwHEYUwuc4SIu8Qf9IZ0LTBShia61f2pgc7Zg5friUlHZLgokcOpf26ZtS3KvzzZieZTcxhWusuzOaU92Vp2tCOeX3wXypvyHxsjmm7l2tk4yByS2tmIwxKXleLXqJYqIV1z12emXUK1TxMVXZTRponVyF6101JZX3M9oIpd2yA3rCkem6KSlIsB51SgQ/s1600/sim-swapping.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/discover-2023s-cloud-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In 2023, the cloud isn't just a technology—it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone.\nIn collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: 'Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics.'\nJoin us for an",
