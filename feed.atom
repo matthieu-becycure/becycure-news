@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-18T11:43:30.789Z</updated>
+    <updated>2023-11-18T12:49:31.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader]]></title>
+        <id>https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html</id>
+        <link href="https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html"/>
+        <updated>2023-11-18T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the 8Base ransomware are leveraging a variant of the Phobos ransomware to conduct their financially motivated attacks.
+The findings come from Cisco Talos, which has recorded an increase in activity carried out by cybercriminals.
+“Most of the group’s Phobos variants are distributed by SmokeLoader, a backdoor trojan," security researcher Guilherme Venere said in an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks]]></title>
         <id>https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html</id>
