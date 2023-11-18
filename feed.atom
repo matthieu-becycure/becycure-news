@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-18T07:17:32.710Z</updated>
+    <updated>2023-11-18T07:26:06.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html</id>
+        <link href="https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"/>
+        <updated>2023-11-18T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian cyber espionage actors affiliated with the Federal Security Service (FSB) have been observed using a USB propagating worm called LitterDrifter in attacks targeting Ukrainian entities.
+Check Point, which detailed Gamaredon's (aka Aqua Blizzard, Iron Tilden, Primitive Bear, Shuckworm, and Winterflounder) latest tactics, branded the group as engaging in large-scale campaigns that are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware]]></title>
         <id>https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html</id>
