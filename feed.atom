@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-20T09:24:21.527Z</updated>
+    <updated>2023-11-20T09:43:33.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking]]></title>
+        <id>https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html</id>
+        <link href="https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html"/>
+        <updated>2023-11-20T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Bitcoin wallets created between 2011 and 2015 are susceptible to a new kind of exploit called Randstorm that makes it possible to recover passwords and gain unauthorized access to a multitude of wallets spanning several blockchain platforms.
+"Randstorm() is a term we coined to describe a collection of bugs, design decisions, and API changes that, when brought in contact with each other, combine]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years]]></title>
         <id>https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html</id>
