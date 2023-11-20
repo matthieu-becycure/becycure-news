@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are targeting the education, government and business services sectors with a remote access trojan called NetSupport RAT.\n\"The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as GHOSTPULSE), and various forms of phishing campaigns,\" VMware Carbon Black researchers said in a report shared with The",
+          "link": "https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html",
+          "publishedOn": "2023-11-20T15:19:00.000Z",
+          "wordCount": null,
+          "title": "NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQ-QZTyteozhL7HtkboFMAmOPM01FGWJfipmMPuaCnLPO8ehU68x_mdRkmQbE5C_YzhmtUA0QLJMHQyof0cCdNEpKSH4r3-sKHXqKiVZ2HhGorDd9Q8uhoj85KEhwLrQ8boZbLHzoRinNBrawT2lP2Z4RfvlGG95MaWWnIvl7__WsZnfqCBP4GkyaXkUw/s1600/trojan.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxQ-QZTyteozhL7HtkboFMAmOPM01FGWJfipmMPuaCnLPO8ehU68x_mdRkmQbE5C_YzhmtUA0QLJMHQyof0cCdNEpKSH4r3-sKHXqKiVZ2HhGorDd9Q8uhoj85KEhwLrQ8boZbLHzoRinNBrawT2lP2Z4RfvlGG95MaWWnIvl7__WsZnfqCBP4GkyaXkUw/s1600/trojan.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Phishing campaigns delivering malware families such as DarkGate and PikaBot are following the same tactics previously used in attacks leveraging the now-defunct QakBot trojan.\n“These include hijacked email threads as the initial infection, URLs with unique patterns that limit user access, and an infection chain nearly identical to what we have seen with QakBot delivery,” Cofense said in a report",

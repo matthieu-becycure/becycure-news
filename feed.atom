@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-20T15:43:38.247Z</updated>
+    <updated>2023-11-20T16:32:30.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors]]></title>
+        <id>https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html</id>
+        <link href="https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html"/>
+        <updated>2023-11-20T15:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are targeting the education, government and business services sectors with a remote access trojan called NetSupport RAT.
+"The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as GHOSTPULSE), and various forms of phishing campaigns," VMware Carbon Black researchers said in a report shared with The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DarkGate and PikaBot Malware Resurrect QakBot's Tactics in New Phishing Attacks]]></title>
         <id>https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html</id>
