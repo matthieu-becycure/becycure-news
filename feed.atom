@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-20T06:43:50.656Z</updated>
+    <updated>2023-11-20T07:20:15.099Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian Hack-for-Hire Group Targeted U.S., China, and More for Over 10 Years]]></title>
+        <id>https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html</id>
+        <link href="https://thehackernews.com/2023/11/indian-hack-for-hire-group-targeted-us.html"/>
+        <updated>2023-11-20T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[An Indian hack-for-hire group targeted the U.S., China, Myanmar, Pakistan, Kuwait, and other countries as part of a wide-ranging espionage, surveillance, and disruptive operation for over a decade.
+The Appin Software Security (aka Appin Security Group), according to an in-depth analysis from SentinelOne, began as an educational startup offering offensive security training programs, while]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader]]></title>
         <id>https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html</id>
