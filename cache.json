@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Today’s security leaders must manage a constantly evolving attack surface and a dynamic threat environment due to interconnected devices, cloud services, IoT technologies, and hybrid work environments. Adversaries are constantly introducing new attack techniques, and not all companies have internal Red Teams or unlimited security resources to stay on top of the latest threats. On top of that,",
+          "link": "https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html",
+          "publishedOn": "2023-11-20T11:02:00.000Z",
+          "wordCount": null,
+          "title": "Why Defenders Should Embrace a Hacker Mindset",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiviQL2b0_ZKJdSKQ8cyKPSKh7FLULEJBNgJliL_BrgvNK8TPDxTFSOU7VPfvQTJCu0Fl_PfYd1B0532LhK84369dh_7NO4OOFJLOVuBhGGrhTVla6tWioIeRfRf-Vp5pGBl7pzIvfh3SkgeXd87Up3lTtE0__Hdw15CuqHuZGDHgobWY4M1imVDuC88_E/s1600/pentera.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiviQL2b0_ZKJdSKQ8cyKPSKh7FLULEJBNgJliL_BrgvNK8TPDxTFSOU7VPfvQTJCu0Fl_PfYd1B0532LhK84369dh_7NO4OOFJLOVuBhGGrhTVla6tWioIeRfRf-Vp5pGBl7pzIvfh3SkgeXd87Up3lTtE0__Hdw15CuqHuZGDHgobWY4M1imVDuC88_E/s1600/pentera.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The stealer malware known as LummaC2 (aka Lumma Stealer) now features a new anti-sandbox technique that leverages the mathematical principle of trigonometry to evade detection and exfiltrate valuable information from infected hosts.\nThe method is designed to \"delay detonation of the sample until human mouse activity is detected,\" Outpost24 security researcher Alberto Marín said in a technical",
+          "link": "https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html",
+          "publishedOn": "2023-11-20T10:49:00.000Z",
+          "wordCount": null,
+          "title": "LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMFViIUR8jphoPGdQcLpQJHRDsMTQJ-bB7Ouku3wEQDeHkNROgFsHDAsHrRR6z85VIIlV4RYBd1pyJTZgfNHp9ruVOoKxm8Cofy5ZtQIPIcsFcIL4_v1wsuo4Qw2MdrQzUiDj6ArX2RiQ72TZYE0hQtiBGmfwCUopHAh0htJt4dcjendWqnnNh4UpcBmGn/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMFViIUR8jphoPGdQcLpQJHRDsMTQJ-bB7Ouku3wEQDeHkNROgFsHDAsHrRR6z85VIIlV4RYBd1pyJTZgfNHp9ruVOoKxm8Cofy5ZtQIPIcsFcIL4_v1wsuo4Qw2MdrQzUiDj6ArX2RiQ72TZYE0hQtiBGmfwCUopHAh0htJt4dcjendWqnnNh4UpcBmGn/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Bitcoin wallets created between 2011 and 2015 are susceptible to a new kind of exploit called Randstorm that makes it possible to recover passwords and gain unauthorized access to a multitude of wallets spanning several blockchain platforms.\n\"Randstorm() is a term we coined to describe a collection of bugs, design decisions, and API changes that, when brought in contact with each other, combine",

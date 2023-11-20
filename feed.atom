@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-20T11:26:48.269Z</updated>
+    <updated>2023-11-20T11:43:40.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Defenders Should Embrace a Hacker Mindset]]></title>
+        <id>https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html</id>
+        <link href="https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html"/>
+        <updated>2023-11-20T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Today’s security leaders must manage a constantly evolving attack surface and a dynamic threat environment due to interconnected devices, cloud services, IoT technologies, and hybrid work environments. Adversaries are constantly introducing new attack techniques, and not all companies have internal Red Teams or unlimited security resources to stay on top of the latest threats. On top of that,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique]]></title>
+        <id>https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html</id>
+        <link href="https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html"/>
+        <updated>2023-11-20T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The stealer malware known as LummaC2 (aka Lumma Stealer) now features a new anti-sandbox technique that leverages the mathematical principle of trigonometry to evade detection and exfiltrate valuable information from infected hosts.
+The method is designed to "delay detonation of the sample until human mouse activity is detected," Outpost24 security researcher Alberto Marín said in a technical]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking]]></title>
         <id>https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html</id>
