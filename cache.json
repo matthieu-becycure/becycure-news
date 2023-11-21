@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Android smartphone users in India are the target of a new malware campaign that employs social engineering lures to install fraudulent apps that are capable of harvesting sensitive data.\n“Using social media platforms like WhatsApp and Telegram, attackers are sending messages designed to lure users into installing a malicious app on their mobile device by impersonating legitimate organizations,",
+          "link": "https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html",
+          "publishedOn": "2023-11-21T07:46:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhssg2fOFczGhwKFBNLdFuFV_vdhmet3iW4_IxZNHwD_2WJPPe_2ugph4yZmxtRpQB1SKNJpmsklvIIqlvq2FK50RqbtX5ONqXfy-sBepvUf1_gMvPiPUmNHELLT7KjuiHdz2mZNqeLRIgo7UDvwj6OO_KpIoMbFyCJxmaOfoEhdH-wVoHCLhDsQQB-kGaP/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhssg2fOFczGhwKFBNLdFuFV_vdhmet3iW4_IxZNHwD_2WJPPe_2ugph4yZmxtRpQB1SKNJpmsklvIIqlvq2FK50RqbtX5ONqXfy-sBepvUf1_gMvPiPUmNHELLT7KjuiHdz2mZNqeLRIgo7UDvwj6OO_KpIoMbFyCJxmaOfoEhdH-wVoHCLhDsQQB-kGaP/s1600/android.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/mustang-panda-hackers-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-linked Mustang Panda actor has been linked to a cyber attack targeting a Philippines government entity amid rising tensions between the two countries over the disputed South China Sea.\nPalo Alto Networks Unit 42 attributed the adversarial collective to three campaigns in August 2023, primarily singling out organizations in the South Pacific.\n\"The campaigns leveraged legitimate software",
