@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Phishing attacks are steadily becoming more sophisticated, with cybercriminals investing in new ways of deceiving victims into revealing sensitive information or installing malicious software. One of the latest trends in phishing is the use of QR codes, CAPTCHAs, and steganography. See how they are carried out and learn to detect them.\nQuishing\nQuishing, a phishing technique resulting from the",
+          "link": "https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html",
+          "publishedOn": "2023-11-21T10:40:00.000Z",
+          "wordCount": null,
+          "title": "How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__IpcNTdAmk3LLwu9Zng3otmsknQGFhVn08Q2pPViIVv7EeDHOZayzN8BEkpNZKyPfrJ-Z5rrXUvZ59MqZNzVxLVgHf-ii6KLNk-hMDAfv7XU846uSVC1OILGgKXgHeMxT-lZdOPienK8BO72ZuKI31GLpYfUp3IY07e22WBduDVSCq9mFdzPZUcvULBp/s1600/anyrun.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__IpcNTdAmk3LLwu9Zng3otmsknQGFhVn08Q2pPViIVv7EeDHOZayzN8BEkpNZKyPfrJ-Z5rrXUvZ59MqZNzVxLVgHf-ii6KLNk-hMDAfv7XU846uSVC1OILGgKXgHeMxT-lZdOPienK8BO72ZuKI31GLpYfUp3IY07e22WBduDVSCq9mFdzPZUcvULBp/s1600/anyrun.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Kinsing threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits.\n\"Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative",

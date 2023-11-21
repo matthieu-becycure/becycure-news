@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-21T11:18:43.040Z</updated>
+    <updated>2023-11-21T11:27:20.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography]]></title>
+        <id>https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html</id>
+        <link href="https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html"/>
+        <updated>2023-11-21T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Phishing attacks are steadily becoming more sophisticated, with cybercriminals investing in new ways of deceiving victims into revealing sensitive information or installing malicious software. One of the latest trends in phishing is the use of QR codes, CAPTCHAs, and steganography. See how they are carried out and learn to detect them.
+Quishing
+Quishing, a phishing technique resulting from the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits]]></title>
         <id>https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html</id>
