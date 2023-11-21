@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-21T13:43:35.068Z</updated>
+    <updated>2023-11-21T14:30:37.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Play Ransomware Goes Commercial - Now Offered as a Service to Cybercriminals]]></title>
+        <id>https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html</id>
+        <link href="https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html"/>
+        <updated>2023-11-21T13:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware strain known as Play is now being offered to other threat actors "as a service," new evidence unearthed by Adlumin has revealed.
+"The unusual lack of even small variations between attacks suggests that they are being carried out by affiliates who have purchased the ransomware-as-a-service (RaaS) and are following step-by-step instructions from playbooks delivered with it," the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Agent Tesla Malware Variant Using ZPAQ Compression in Email Attacks]]></title>
         <id>https://thehackernews.com/2023/11/new-agent-tesla-malware-variant-using.html</id>
