@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-21T09:43:46.590Z</updated>
+    <updated>2023-11-21T10:39:58.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits]]></title>
+        <id>https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html</id>
+        <link href="https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html"/>
+        <updated>2023-11-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Kinsing threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits.
+"Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users]]></title>
         <id>https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html</id>
