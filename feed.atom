@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-21T14:43:30.006Z</updated>
+    <updated>2023-11-21T15:25:34.869Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -15,6 +15,16 @@
 "The unusual lack of even small variations between attacks suggests that they are being carried out by affiliates who have purchased the ransomware-as-a-service (RaaS) and are following step-by-step instructions from playbooks delivered with it," the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0968 : Multiples vulnérabilités dans les produits Nextcloud (21 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/"/>
+        <updated>2023-11-21T12:50:36.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -49,6 +59,36 @@ Quishing, a phishing technique resulting from the]]></summary>
 "Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0967 : Vulnérabilité dans les produits StrongSwan (21 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/"/>
+        <updated>2023-11-21T09:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits StrongSwan. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0966 : Multiples vulnérabilités dans les produits Tenable (21 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/"/>
+        <updated>2023-11-21T09:46:46.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0965 : Vulnérabilité dans Microsoft Powershell (21 novembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/"/>
+        <updated>2023-11-21T09:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
