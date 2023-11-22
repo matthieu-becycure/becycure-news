@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new research has uncovered multiple vulnerabilities that could be exploited to bypass Windows Hello authentication on Dell Inspiron 15, Lenovo ThinkPad T14, and Microsoft Surface Pro X laptops.\nThe flaws were discovered by researchers at hardware and software product security and offensive research firm Blackwing Intelligence, who found the weaknesses in the fingerprint sensors from Goodix,",
+          "link": "https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html",
+          "publishedOn": "2023-11-22T15:23:00.000Z",
+          "wordCount": null,
+          "title": "New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyMk7tK94dePgQejrp-RiF1uzbkDidBGwg2FPNbwEelR-0JE6iGA3BEEcubKuJqT2yQjoMzIq3b-9kSsA7z2eWzYpMV11xQ-cFpWx5ZHhNYo1zPWdJnf6UzF7imX2fct__a_h4YyVi9S7e6dSCD35vlyJE7T16lG4f3lxIPuHr2kffkqERtu1Dhi3pae2/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQyMk7tK94dePgQejrp-RiF1uzbkDidBGwg2FPNbwEelR-0JE6iGA3BEEcubKuJqT2yQjoMzIq3b-9kSsA7z2eWzYpMV11xQ-cFpWx5ZHhNYo1zPWdJnf6UzF7imX2fct__a_h4YyVi9S7e6dSCD35vlyJE7T16lG4f3lxIPuHr2kffkqERtu1Dhi3pae2/s1600/windows.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "North Korean threat actors have been linked to two campaigns in which they masquerade as both job recruiters and seekers to distribute malware and obtain unauthorized employment with organizations based in the U.S. and other parts of the world.\nThe activity clusters have been codenamed Contagious Interview and Wagemole, respectively, by Palo Alto Networks Unit 42.\nWhile the first set of attacks",
@@ -1820,6 +1836,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/",
+          "publishedOn": "2023-11-22T12:34:51.000Z",
+          "wordCount": 979,
+          "title": "CERTFR-2023-AVI-0972 : Multiples vulnérabilités dans les produits Foxit (22 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans ElasticSearch. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/",
+          "publishedOn": "2023-11-22T12:24:24.000Z",
+          "wordCount": 930,
+          "title": "CERTFR-2023-AVI-0971 : Vulnérabilité dans ElasticSearch (22 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/",
+          "publishedOn": "2023-11-22T11:59:16.000Z",
+          "wordCount": 1061,
+          "title": "CERTFR-2023-AVI-0970 : Multiples vulnérabilités dans les produits OwnCloud (22 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/",
+          "publishedOn": "2023-11-22T08:29:54.000Z",
+          "wordCount": 1075,
+          "title": "CERTFR-2023-AVI-0969 : Multiples vulnérabilités dans les produits Mozilla (22 novembre 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0968/",
           "author": null,
