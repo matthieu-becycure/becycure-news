@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-22T11:43:29.756Z</updated>
+    <updated>2023-11-22T12:55:40.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns]]></title>
+        <id>https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html</id>
+        <link href="https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html"/>
+        <updated>2023-11-22T12:14:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korean threat actors have been linked to two campaigns in which they masquerade as both job recruiters and seekers to distribute malware and obtain unauthorized employment with organizations based in the U.S. and other parts of the world.
+The activity clusters have been codenamed Contagious Interview and Wagemole, respectively, by Palo Alto Networks Unit 42.
+While the first set of attacks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Solutions Are the New Shadow IT]]></title>
+        <id>https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html</id>
+        <link href="https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html"/>
+        <updated>2023-11-22T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Ambitious Employees Tout New AI Tools, Ignore Serious SaaS Security RisksLike the SaaS shadow IT of the past, AI is placing CISOs and cybersecurity teams in a tough but familiar spot. 
+Employees are covertly using AI with little regard for established IT and cybersecurity review procedures. Considering ChatGPT’s meteoric rise to 100 million users within 60 days of launch, especially with little]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ClearFake Campaign Expands to Deliver Atomic Stealer on Macs Systems]]></title>
         <id>https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html</id>
