@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/north-korean-hackers-distribute.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A North Korean state-sponsored threat actor tracked as Diamond Sleet is distributing a trojanized version of a legitimate application developed by a Taiwanese multimedia software developer called CyberLink to target downstream customers via a supply chain attack.\n\"This malicious file is a legitimate CyberLink application installer that has been modified to include malicious code that downloads,",
+          "link": "https://thehackernews.com/2023/11/north-korean-hackers-distribute.html",
+          "publishedOn": "2023-11-23T05:46:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQOE81BNj5x_e_veTeHxfXLzixxC_GTIZiyppFXnU8TU-uHeaRj-VsIdQCcICzbSm4x8p14ngGlKPPzJGvZighku7QBNQ-ko4gQoqNijXtuCi_G8AqkKGxlxEYEah3dK7NpQ4GKSJR6aVOfbxV43hBUOcwit_4Va00m_SpWiA88hSeNx82Ktc4kntETXS6/s1600/software.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQOE81BNj5x_e_veTeHxfXLzixxC_GTIZiyppFXnU8TU-uHeaRj-VsIdQCcICzbSm4x8p14ngGlKPPzJGvZighku7QBNQ-ko4gQoqNijXtuCi_G8AqkKGxlxEYEah3dK7NpQ4GKSJR6aVOfbxV43hBUOcwit_4Va00m_SpWiA88hSeNx82Ktc4kntETXS6/s1600/software.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new research has uncovered multiple vulnerabilities that could be exploited to bypass Windows Hello authentication on Dell Inspiron 15, Lenovo ThinkPad T14, and Microsoft Surface Pro X laptops.\nThe flaws were discovered by researchers at hardware and software product security and offensive research firm Blackwing Intelligence, who found the weaknesses in the fingerprint sensors from Goodix,",

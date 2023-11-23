@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-23T05:43:45.166Z</updated>
+    <updated>2023-11-23T06:30:31.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack]]></title>
+        <id>https://thehackernews.com/2023/11/north-korean-hackers-distribute.html</id>
+        <link href="https://thehackernews.com/2023/11/north-korean-hackers-distribute.html"/>
+        <updated>2023-11-23T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[A North Korean state-sponsored threat actor tracked as Diamond Sleet is distributing a trojanized version of a legitimate application developed by a Taiwanese multimedia software developer called CyberLink to target downstream customers via a supply chain attack.
+"This malicious file is a legitimate CyberLink application installer that has been modified to include malicious code that downloads,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login]]></title>
         <id>https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html</id>
