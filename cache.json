@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Delivery- and shipping-themed email messages are being used to deliver a sophisticated malware loader known as WailingCrab.\n\"The malware itself is split into multiple components, including a loader, injector, downloader and backdoor, and successful requests to C2-controlled servers are often necessary to retrieve the next stage,\" IBM X-Force researchers Charlotte Hammond, Ole Villadsen, and Kat",
+          "link": "https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html",
+          "publishedOn": "2023-11-23T12:54:00.000Z",
+          "wordCount": null,
+          "title": "Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Modern security tools continue to improve in their ability to defend organizations’ networks and endpoints against cybercriminals. But the bad actors still occasionally find a way in.\nSecurity teams must be able to stop threats and restore normal operations as quickly as possible. That’s why it’s essential that these teams not only have the right tools but also understand how to effectively",
