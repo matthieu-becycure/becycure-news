@@ -2875,46 +2875,6 @@
           "wordCount": 1025,
           "title": "CERTFR-2023-AVI-0886 : Multiples vulnérabilités dans Tenable Identity Exposure (25 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0885/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans VMware vCenter. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0885/",
-          "publishedOn": "2023-10-25T10:08:38.000Z",
-          "wordCount": 1048,
-          "title": "CERTFR-2023-AVI-0885 : Multiples vulnérabilités dans VMware vCenter (25 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0884/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0884/",
-          "publishedOn": "2023-10-25T10:03:14.000Z",
-          "wordCount": 1023,
-          "title": "CERTFR-2023-AVI-0884 : Multiples vulnérabilités dans Aruba ClearPass Policy Manager (25 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0883/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0883/",
-          "publishedOn": "2023-10-25T09:57:22.000Z",
-          "wordCount": 942,
-          "title": "CERTFR-2023-AVI-0883 : Multiples vulnérabilités dans Google Chrome (25 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0882/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0882/",
-          "publishedOn": "2023-10-25T09:53:29.000Z",
-          "wordCount": 930,
-          "title": "CERTFR-2023-AVI-0882 : Vulnérabilité dans OpenSSL (25 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
