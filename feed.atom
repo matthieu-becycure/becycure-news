@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-23T10:43:29.616Z</updated>
+    <updated>2023-11-23T11:17:31.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Steps to Accelerate Cybersecurity Incident Response]]></title>
+        <id>https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html</id>
+        <link href="https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html"/>
+        <updated>2023-11-23T10:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Modern security tools continue to improve in their ability to defend organizations’ networks and endpoints against cybercriminals. But the bad actors still occasionally find a way in.
+Security teams must be able to stop threats and restore normal operations as quickly as possible. That’s why it’s essential that these teams not only have the right tools but also understand how to effectively]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks]]></title>
+        <id>https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html</id>
+        <link href="https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html"/>
+        <updated>2023-11-23T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[An active malware campaign is leveraging two zero-day vulnerabilities with remote code execution (RCE) functionality to rope routers and video recorders into a Mirai-based distributed denial-of-service (DDoS) botnet.
+“The payload targets routers and network video recorder (NVR) devices with default admin credentials and installs Mirai variants when successful,” Akamai said in an advisory]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack]]></title>
         <id>https://thehackernews.com/2023/11/north-korean-hackers-distribute.html</id>
