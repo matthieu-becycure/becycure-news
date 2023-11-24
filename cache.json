@@ -1965,6 +1965,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/",
+          "publishedOn": "2023-11-24T12:21:16.000Z",
+          "wordCount": 934,
+          "title": "CERTFR-2023-AVI-0979 : Vulnérabilité dans les produits NetApp (24 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0978/",
+          "publishedOn": "2023-11-24T09:25:52.000Z",
+          "wordCount": 1531,
+          "title": "CERTFR-2023-AVI-0978 : Multiples vulnérabilités dans le noyau Linux de RedHat (24 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0977/",
+          "publishedOn": "2023-11-24T09:24:13.000Z",
+          "wordCount": 1126,
+          "title": "CERTFR-2023-AVI-0977 : Multiples vulnérabilités dans le noyau Linux de Ubuntu (24 novembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0976/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
