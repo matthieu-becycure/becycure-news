@@ -2949,16 +2949,6 @@
           "wordCount": 973,
           "title": "CERTFR-2023-AVI-0887 : Multiples vulnérabilités dans les produits SonicWall (26 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-009/",
-          "author": null,
-          "description": "Lors de ses investigations, l'ANSSI a analysé plusieurs chaînes de compromission du mode opératoire d'attaque (MOA) APT28 utilisées à des fins d'espionnage. …",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-009/",
-          "publishedOn": "2023-10-26T07:30:50.000Z",
-          "wordCount": 1049,
-          "title": "CERTFR-2023-CTI-009 : Campagnes d’attaques du mode opératoire APT28 depuis 2021 (26 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
