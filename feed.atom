@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-24T15:43:32.686Z</updated>
+    <updated>2023-11-24T16:33:07.478Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale]]></title>
+        <id>https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html</id>
+        <link href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"/>
+        <updated>2023-11-24T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[More details have emerged about a malicious Telegram bot called Telekopye that's used by threat actors to pull off large-scale phishing scams.
+"Telekopye can craft phishing websites, emails, SMS messages, and more," ESET security researcher Radek Jizba said in a new analysis.
+The threat actors behind the operation – codenamed Neanderthals – are known to run the criminal enterprise as a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-AVI-0979 : Vulnérabilité dans les produits NetApp (24 novembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "More details have emerged about a malicious Telegram bot called Telekopye that's used by threat actors to pull off large-scale phishing scams.\n\"Telekopye can craft phishing websites, emails, SMS messages, and more,\" ESET security researcher Radek Jizba said in a new analysis.\nThe threat actors behind the operation – codenamed Neanderthals – are known to run the criminal enterprise as a",
+          "link": "https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html",
+          "publishedOn": "2023-11-24T15:32:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGTIO-gM4oWkqp5Npfyq9NcNsz_OpqJGfosoIM98Lln7ntX6tAP4wHzLdkrLOzhGmhyW_rrZhEWo2pUBwHk0I4QQIlqQuYKQXW1SNtJDrEbB_mXqRQgkuJHODpfY9eNY5uvpA5GB4eIp2o9uiz2gl1WE9z0wEeyvpheiEX0xUy67YaKHt-Bc6dHIE5wG9R/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGTIO-gM4oWkqp5Npfyq9NcNsz_OpqJGfosoIM98Lln7ntX6tAP4wHzLdkrLOzhGmhyW_rrZhEWo2pUBwHk0I4QQIlqQuYKQXW1SNtJDrEbB_mXqRQgkuJHODpfY9eNY5uvpA5GB4eIp2o9uiz2gl1WE9z0wEeyvpheiEX0xUy67YaKHt-Bc6dHIE5wG9R/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The title of this article probably sounds like the caption to a meme. Instead, this is an actual problem GitGuardian's engineers had to solve in implementing the mechanisms for their new HasMySecretLeaked service. They wanted to help developers find out if their secrets (passwords, API keys, private keys, cryptographic certificates, etc.) had found their way into public GitHub repositories. How",
