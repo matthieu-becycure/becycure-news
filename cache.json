@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called SysJoker, which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region.\n“Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar",
+          "link": "https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html",
+          "publishedOn": "2023-11-24T10:31:00.000Z",
+          "wordCount": null,
+          "title": "Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks.\n“These encoded Kubernetes configuration secrets were uploaded to public repositories,” Aqua security researchers Yakir Kadkoda and Assaf Morag said in a new research published earlier this week.\nSome of those impacted include two top blockchain",
