@@ -2909,46 +2909,6 @@
           "wordCount": 1014,
           "title": "CERTFR-2023-AVI-0891 : Multiples vulnérabilités dans les produits Ivanti (26 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une exécution de code arbitraire …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0890/",
-          "publishedOn": "2023-10-26T08:19:33.000Z",
-          "wordCount": 1353,
-          "title": "CERTFR-2023-AVI-0890 : Multiples vulnérabilités dans les produits Apple (26 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0889/",
-          "publishedOn": "2023-10-26T08:14:04.000Z",
-          "wordCount": 1026,
-          "title": "CERTFR-2023-AVI-0889 : Multiples vulnérabilités dans les produits Tenable (26 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0888/",
-          "publishedOn": "2023-10-26T08:12:31.000Z",
-          "wordCount": 942,
-          "title": "CERTFR-2023-AVI-0888 : Multiples vulnérabilités dans ClamAV (26 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0887/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0887/",
-          "publishedOn": "2023-10-26T08:08:20.000Z",
-          "wordCount": 973,
-          "title": "CERTFR-2023-AVI-0887 : Multiples vulnérabilités dans les produits SonicWall (26 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
