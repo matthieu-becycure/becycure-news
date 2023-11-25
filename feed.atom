@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-25T03:43:27.703Z</updated>
+    <updated>2023-11-25T04:28:34.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches]]></title>
+        <id>https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html</id>
+        <link href="https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html"/>
+        <updated>2023-11-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of the open-source file-sharing software ownCloud have warned of three critical security flaws that could be exploited to disclose sensitive information and modify files.
+A brief description of the vulnerabilities is as follows -
+
+Disclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale]]></title>
         <id>https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html</id>

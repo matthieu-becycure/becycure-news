@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The maintainers of the open-source file-sharing software ownCloud have warned of three critical security flaws that could be exploited to disclose sensitive information and modify files.\nA brief description of the vulnerabilities is as follows -\n\nDisclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0)",
+          "link": "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html",
+          "publishedOn": "2023-11-25T04:00:00.000Z",
+          "wordCount": null,
+          "title": "Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZHmgmYrjeIKUYGcGpUYef_gVM74ELBMb8-1a-U2tLNwD5iAC7JkFwX1IC5N7Bkl9lnXGJKwhzRsfDRIt5HUU1-VG2xzROb_YCGPIUzrJ5d2I3R9rJmx0aSULU-cH20vKieOHfSce89VW9w3CV3wIKMzPx_Jqw-7hyphenhyphensOBAUvqClPMyTZZ-63kG7Gkf42R/s1600/clod.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZHmgmYrjeIKUYGcGpUYef_gVM74ELBMb8-1a-U2tLNwD5iAC7JkFwX1IC5N7Bkl9lnXGJKwhzRsfDRIt5HUU1-VG2xzROb_YCGPIUzrJ5d2I3R9rJmx0aSULU-cH20vKieOHfSce89VW9w3CV3wIKMzPx_Jqw-7hyphenhyphensOBAUvqClPMyTZZ-63kG7Gkf42R/s1600/clod.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More details have emerged about a malicious Telegram bot called Telekopye that's used by threat actors to pull off large-scale phishing scams.\n\"Telekopye can craft phishing websites, emails, SMS messages, and more,\" ESET security researcher Radek Jizba said in a new analysis.\nThe threat actors behind the operation – codenamed Neanderthals – are known to run the criminal enterprise as a",
