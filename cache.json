@@ -2911,26 +2911,6 @@
           "wordCount": 1325,
           "title": "CERTFR-2023-AVI-0894 : Multiples vulnérabilités dans le noyau Linux de SUSE (27 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0893/",
-          "publishedOn": "2023-10-26T21:23:29.000Z",
-          "wordCount": 966,
-          "title": "CERTFR-2023-AVI-0893 : Vulnérabilité dans Roundcube Webmail (26 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/",
-          "publishedOn": "2023-10-26T21:19:13.000Z",
-          "wordCount": 1090,
-          "title": "CERTFR-2023-AVI-0892 : Multiples vulnérabilités dans les produits Liferay (26 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
