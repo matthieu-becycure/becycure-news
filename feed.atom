@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-25T08:43:50.308Z</updated>
+    <updated>2023-11-25T09:18:57.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2342,16 +2342,6 @@ CVE-2023-5043 (]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0892/"/>
         <updated>2023-10-26T21:19:13.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Liferay. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0891 : Multiples vulnérabilités dans les produits Ivanti (26 octobre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/"/>
-        <updated>2023-10-26T20:55:37.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

@@ -2931,16 +2931,6 @@
           "wordCount": 1090,
           "title": "CERTFR-2023-AVI-0892 : Multiples vulnérabilités dans les produits Liferay (26 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0891/",
-          "publishedOn": "2023-10-26T20:55:37.000Z",
-          "wordCount": 1014,
-          "title": "CERTFR-2023-AVI-0891 : Multiples vulnérabilités dans les produits Ivanti (26 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
