@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-26T19:14:58.906Z</updated>
+    <updated>2023-11-26T19:23:28.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2271,17 +2271,6 @@ CVE-2023-5043 (]]></summary>
         <updated>2023-10-30T04:21:00.000Z</updated>
         <summary type="html"><![CDATA[A new cyber attack campaign has been observed using spurious MSIX Windows app package files for popular software such as Google Chrome, Microsoft Edge, Brave, Grammarly, and Cisco Webex to distribute a novel malware loader dubbed GHOSTPULSE.
 "MSIX is a Windows app package format that developers can leverage to package, distribute, and install their applications to Windows users," Elastic]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service]]></title>
-        <id>https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html</id>
-        <link href="https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html"/>
-        <updated>2023-10-28T07:20:00.000Z</updated>
-        <summary type="html"><![CDATA[New findings have shed light on what's said to be a lawful attempt to covertly intercept traffic originating from jabber[.]ru (aka xmpp[.]ru), an XMPP-based instant messaging service, via servers hosted on Hetzner and Linode (a subsidiary of Akamai) in Germany.
-"The attacker has issued several new TLS certificates using Let's Encrypt service which were used to hijack encrypted STARTTLS]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

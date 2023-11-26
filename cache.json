@@ -1988,22 +1988,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTwJnrdCzd9Mdu9ujJ-6n9BJjdSSp8NP7khky47GPLxGhQM4EEOqB5LWvX6wmi4mJRhvds2aOdeCagWKLabWQ9TfH3osAtpkwaebwF9ypGEzdFl6MTGodvGiy2XlRbc0OOsSGIm0Lvrzm57zQMUHdorXv2roJzByTUp091dPFp9jfuODd_8I-if6gRAQF/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTwJnrdCzd9Mdu9ujJ-6n9BJjdSSp8NP7khky47GPLxGhQM4EEOqB5LWvX6wmi4mJRhvds2aOdeCagWKLabWQ9TfH3osAtpkwaebwF9ypGEzdFl6MTGodvGiy2XlRbc0OOsSGIm0Lvrzm57zQMUHdorXv2roJzByTUp091dPFp9jfuODd_8I-if6gRAQF/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New findings have shed light on what's said to be a lawful attempt to covertly intercept traffic originating from jabber[.]ru (aka xmpp[.]ru), an XMPP-based instant messaging service, via servers hosted on Hetzner and Linode (a subsidiary of Akamai) in Germany.\n\"The attacker has issued several new TLS certificates using Let's Encrypt service which were used to hijack encrypted STARTTLS",
-          "link": "https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html",
-          "publishedOn": "2023-10-28T07:20:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipFuEDMwpgWrQBu-7L2Tr40FmWIwDF5w6ASf4ufg7KAQlm2NMFYGns1u8apfhYuxrTci84bQDbzlh12UMcfRKHWWpBsSbja34joMX3AlphbJq1dltegzFa371P6OoEtDCH8yCnXmOwPYiqKv4k6ow1CN1AiYsFskEP0TL8Axhre2kHmGvKRem8MmG18VJq/s1600/phone.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipFuEDMwpgWrQBu-7L2Tr40FmWIwDF5w6ASf4ufg7KAQlm2NMFYGns1u8apfhYuxrTci84bQDbzlh12UMcfRKHWWpBsSbja34joMX3AlphbJq1dltegzFa371P6OoEtDCH8yCnXmOwPYiqKv4k6ow1CN1AiYsFskEP0TL8Axhre2kHmGvKRem8MmG18VJq/s1600/phone.jpg"
         }
       ]
     },
