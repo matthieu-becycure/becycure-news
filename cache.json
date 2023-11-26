@@ -2871,46 +2871,6 @@
           "wordCount": 969,
           "title": "CERTFR-2023-AVI-0898 : Multiples vulnérabilités dans Microsoft Edge (30 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans F5 BIG-IP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0897/",
-          "publishedOn": "2023-10-27T14:12:57.000Z",
-          "wordCount": 988,
-          "title": "CERTFR-2023-AVI-0897 : Vulnérabilité dans F5 BIG-IP (27 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans VMware Tools. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0896/",
-          "publishedOn": "2023-10-27T13:40:36.000Z",
-          "wordCount": 968,
-          "title": "CERTFR-2023-AVI-0896 : Multiples vulnérabilités dans VMware Tools (27 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0895/",
-          "publishedOn": "2023-10-27T13:22:15.000Z",
-          "wordCount": 1244,
-          "title": "CERTFR-2023-AVI-0895 : Multiples vulnérabilités dans le noyau Linux de Ubuntu (27 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0894/",
-          "publishedOn": "2023-10-27T12:56:57.000Z",
-          "wordCount": 1325,
-          "title": "CERTFR-2023-AVI-0894 : Multiples vulnérabilités dans le noyau Linux de SUSE (27 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
