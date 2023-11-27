@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-27T12:55:53.027Z</updated>
+    <updated>2023-11-27T13:27:31.745Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections]]></title>
+        <id>https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html</id>
+        <link href="https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html"/>
+        <updated>2023-11-27T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A new study has demonstrated that it's possible for passive network attackers to obtain private RSA host keys from a vulnerable SSH server by observing when naturally occurring computational faults that occur while the connection is being established.
+The Secure Shell (SSH) protocol is a method for securely transmitting commands and logging in to a computer over an unsecured network. Based on a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S., U.K., and Global Partners Release Secure AI System Development Guidelines]]></title>
         <id>https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html</id>
