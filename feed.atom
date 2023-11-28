@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-28T22:43:47.161Z</updated>
+    <updated>2023-11-28T23:21:34.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2355,17 +2355,6 @@ The ad-free subscription, which costs €9.99/month on the web or €12.99/month
         <updated>2023-10-30T11:47:00.000Z</updated>
         <summary type="html"><![CDATA[Earlier this week, ServiceNow announced on its support site that misconfigurations within the platform could result in “unintended access” to sensitive data. For organizations that use ServiceNow, this security exposure is a critical concern that could have resulted in major data leakage of sensitive corporate data. ServiceNow has since taken steps to fix this issue. 
 This article fully analyzes]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EleKtra-Leak Cryptojacking Attacks Exploit AWS IAM Credentials Exposed on GitHub]]></title>
-        <id>https://thehackernews.com/2023/10/elektra-leak-cryptojacking-attacks.html</id>
-        <link href="https://thehackernews.com/2023/10/elektra-leak-cryptojacking-attacks.html"/>
-        <updated>2023-10-30T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A new ongoing campaign dubbed EleKtra-Leak has set its eyes on exposed Amazon Web Service (AWS) identity and access management (IAM) credentials within public GitHub repositories to facilitate cryptojacking activities.
-"As a result of this, the threat actor associated with the campaign was able to create multiple AWS Elastic Compute (EC2) instances that they used for wide-ranging and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
