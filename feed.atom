@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-28T12:52:31.548Z</updated>
+    <updated>2023-11-28T13:27:01.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transform Your Data Security Posture – Learn from SoFi's DSPM Success]]></title>
+        <id>https://thehackernews.com/2023/11/transform-your-data-security-posture.html</id>
+        <link href="https://thehackernews.com/2023/11/transform-your-data-security-posture.html"/>
+        <updated>2023-11-28T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[As cloud technology evolves, so does the challenge of securing sensitive data. In a world where data duplication and sprawl are common, organizations face increased risks of non-compliance and unauthorized data breaches.
+Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solution, offering continuous discovery and accurate classification of sensitive data in the cloud.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Flaw in Google Workspace Could Let Attackers Gain Unauthorized Access]]></title>
+        <id>https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html</id>
+        <link href="https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html"/>
+        <updated>2023-11-28T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed a "severe design flaw" in Google Workspace's domain-wide delegation (DWD) feature that could be exploited by threat actors to facilitate privilege escalation and obtain unauthorized access to Workspace APIs without super admin privileges.
+"Such exploitation could result in theft of emails from Gmail, data exfiltration from Google Drive, or other]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Hackers Phish for Your Users' Credentials and Sell Them]]></title>
         <id>https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html</id>
