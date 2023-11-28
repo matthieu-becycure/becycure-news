@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-28T18:43:43.039Z</updated>
+    <updated>2023-11-28T19:16:31.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2378,20 +2378,6 @@ This article fully analyzes]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: New Security Flaws Discovered in NGINX Ingress Controller for Kubernetes]]></title>
-        <id>https://thehackernews.com/2023/10/urgent-new-security-flaws-discovered-in.html</id>
-        <link href="https://thehackernews.com/2023/10/urgent-new-security-flaws-discovered-in.html"/>
-        <updated>2023-10-30T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Three unpatched high-severity security flaws have been disclosed in the NGINX Ingress controller for Kubernetes that could be weaponized by a threat actor to steal secret credentials from the cluster.
-The vulnerabilities are as follows - 
-
-CVE-2022-4886 (CVSS score: 8.8) - Ingress-nginx path sanitization can be bypassed to obtain the credentials of the ingress-nginx controller
-CVE-2023-5043 (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
