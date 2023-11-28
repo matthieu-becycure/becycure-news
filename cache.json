@@ -2993,16 +2993,6 @@
           "wordCount": 1810,
           "title": "CERTFR-2023-ACT-047 : Bulletin d’actualité CERTFR-2023-ACT-047 (30 octobre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0898/",
-          "publishedOn": "2023-10-30T09:13:19.000Z",
-          "wordCount": 969,
-          "title": "CERTFR-2023-AVI-0898 : Multiples vulnérabilités dans Microsoft Edge (30 octobre 2023)",
-          "imageUrl": null
         }
       ]
     }
