@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-28T15:43:37.378Z</updated>
+    <updated>2023-11-28T16:37:02.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2390,17 +2390,6 @@ The vulnerabilities are as follows - 
 
 CVE-2022-4886 (CVSS score: 8.8) - Ingress-nginx path sanitization can be bypassed to obtain the credentials of the ingress-nginx controller
 CVE-2023-5043 (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Malware]]></title>
-        <id>https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html</id>
-        <link href="https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html"/>
-        <updated>2023-10-30T04:21:00.000Z</updated>
-        <summary type="html"><![CDATA[A new cyber attack campaign has been observed using spurious MSIX Windows app package files for popular software such as Google Chrome, Microsoft Edge, Brave, Grammarly, and Cisco Webex to distribute a novel malware loader dubbed GHOSTPULSE.
-"MSIX is a Windows app package format that developers can leverage to package, distribute, and install their applications to Windows users," Elastic]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

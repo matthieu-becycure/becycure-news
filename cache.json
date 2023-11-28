@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6714uZt1NOprNz9JMzxDlNdbNjatPlJ6ACFEJGOu-vRfSUA7I4k1tCoruNpQ8T4jtgfZBDuZzbdBTbsTgBcNgo221P3xdtQl6nQaOPGoHtl0QKz-Rwcfb1JZkUcqqbDpe0VTx1DlmYCRUSO8NjGWDYcsftyRsWNVMa6YbaQJh0_FHPWhb4oWljY1e3fg/s1600/server-security.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh6714uZt1NOprNz9JMzxDlNdbNjatPlJ6ACFEJGOu-vRfSUA7I4k1tCoruNpQ8T4jtgfZBDuZzbdBTbsTgBcNgo221P3xdtQl6nQaOPGoHtl0QKz-Rwcfb1JZkUcqqbDpe0VTx1DlmYCRUSO8NjGWDYcsftyRsWNVMa6YbaQJh0_FHPWhb4oWljY1e3fg/s1600/server-security.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new cyber attack campaign has been observed using spurious MSIX Windows app package files for popular software such as Google Chrome, Microsoft Edge, Brave, Grammarly, and Cisco Webex to distribute a novel malware loader dubbed GHOSTPULSE.\n\"MSIX is a Windows app package format that developers can leverage to package, distribute, and install their applications to Windows users,\" Elastic",
-          "link": "https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html",
-          "publishedOn": "2023-10-30T04:21:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTwJnrdCzd9Mdu9ujJ-6n9BJjdSSp8NP7khky47GPLxGhQM4EEOqB5LWvX6wmi4mJRhvds2aOdeCagWKLabWQ9TfH3osAtpkwaebwF9ypGEzdFl6MTGodvGiy2XlRbc0OOsSGIm0Lvrzm57zQMUHdorXv2roJzByTUp091dPFp9jfuODd_8I-if6gRAQF/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdTwJnrdCzd9Mdu9ujJ-6n9BJjdSSp8NP7khky47GPLxGhQM4EEOqB5LWvX6wmi4mJRhvds2aOdeCagWKLabWQ9TfH3osAtpkwaebwF9ypGEzdFl6MTGodvGiy2XlRbc0OOsSGIm0Lvrzm57zQMUHdorXv2roJzByTUp091dPFp9jfuODd_8I-if6gRAQF/s1600/cyberattack.jpg"
         }
       ]
     },
