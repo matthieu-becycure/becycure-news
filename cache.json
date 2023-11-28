@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Account credentials, a popular initial access vector, have become a valuable commodity in cybercrime. As a result, a single set of stolen credentials can put your organization’s entire network at risk.\nAccording to the 2023 Verizon Data Breach Investigation Report, external parties were responsible for 83 percent of breaches that occurred between November 2021 and October 2022. Forty-nine",
+          "link": "https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html",
+          "publishedOn": "2023-11-28T11:13:00.000Z",
+          "wordCount": null,
+          "title": "How Hackers Phish for Your Users' Credentials and Sell Them",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE1DCaf2KHA64rDkNaYdnj2T1VcQ0SqHfJ1IY1-u7YXc5Li2tnOsj0ZYRwfGzQBeTmZu6sPdzg0FSTRZzjZMSi2yWzZCvYux6-OKbU784e8UoT7BRcFIzI4RQh1_-2WsikrXcGf90qhfWkQrTrg24-npiMxmPRITdRv9mzMFg0kbtBdEq-tnKNZgliacU/s1600/password.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE1DCaf2KHA64rDkNaYdnj2T1VcQ0SqHfJ1IY1-u7YXc5Li2tnOsj0ZYRwfGzQBeTmZu6sPdzg0FSTRZzjZMSi2yWzZCvYux6-OKbU784e8UoT7BRcFIzI4RQh1_-2WsikrXcGf90qhfWkQrTrg24-npiMxmPRITdRv9mzMFg0kbtBdEq-tnKNZgliacU/s1600/password.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A coordinated law enforcement operation has led to the arrest of key individuals in Ukraine who are alleged to be a part of several ransomware schemes.\n\"On 21 November, 30 properties were searched in the regions of Kyiv, Cherkasy, Rivne, and Vinnytsia, resulting in the arrest of the 32-year-old ringleader,\" Europol said in a statement today. \"Four of the ringleader's most active accomplices were",
+          "link": "https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html",
+          "publishedOn": "2023-11-28T10:33:00.000Z",
+          "wordCount": null,
+          "title": "Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0xEg-xXaZxZh3ZIrgHJCcL_t5uAkaVgCDJMRLt2yGnrXPZX6hDGUJ8CeuC6ZHjzjD5qlvO4ow05UA7qgjJDv-ryUcS0l658fQGp8s8IXi2WmM2ON3NGywjd4TtLVODQ-6sJ9HGoIX5GILGbzW4fAfvhz6XGoBcXDCghBf9fANCCoNrz6TzIzl_J-lMb52/s1600/hacker-arrested.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0xEg-xXaZxZh3ZIrgHJCcL_t5uAkaVgCDJMRLt2yGnrXPZX6hDGUJ8CeuC6ZHjzjD5qlvO4ow05UA7qgjJDv-ryUcS0l658fQGp8s8IXi2WmM2ON3NGywjd4TtLVODQ-6sJ9HGoIX5GILGbzW4fAfvhz6XGoBcXDCghBf9fANCCoNrz6TzIzl_J-lMb52/s1600/hacker-arrested.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identity and Access Management (IAM) systems are a staple to ensure only authorized individuals or entities have access to specific resources in order to protect sensitive information and secure business assets.\nBut did you know that today over 80% of attacks now involve identity, compromised credentials or bypassing the authentication mechanism? Recent breaches at MGM and Caesars have",
