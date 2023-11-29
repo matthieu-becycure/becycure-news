@@ -2173,6 +2173,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/",
+          "publishedOn": "2023-11-29T12:40:31.000Z",
+          "wordCount": 1045,
+          "title": "CERTFR-2023-AVI-0984 : Multiples vulnérabilités dans les produits Axis (29 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0983/",
+          "publishedOn": "2023-11-29T10:26:55.000Z",
+          "wordCount": 964,
+          "title": "CERTFR-2023-AVI-0983 : Multiples vulnérabilités dans Google Chrome (29 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0982/",
+          "publishedOn": "2023-11-29T10:22:42.000Z",
+          "wordCount": 987,
+          "title": "CERTFR-2023-AVI-0982 : Vulnérabilité dans Apache Tomcat (29 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Joomla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0981/",
+          "publishedOn": "2023-11-29T10:12:50.000Z",
+          "wordCount": 938,
+          "title": "CERTFR-2023-AVI-0981 : Vulnérabilité dans Joomla (29 novembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-051/",
           "author": null,
           "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
