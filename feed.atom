@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T04:43:48.608Z</updated>
+    <updated>2023-11-29T05:26:59.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html</id>
+        <link href="https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html"/>
+        <updated>2023-11-29T05:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The recently disclosed critical security flaw impacting Apache ActiveMQ is being actively exploited by threat actors to distribute a new Go-based botnet called GoTitan as well as a .NET program known as PrCtrl Rat that's capable of remotely commandeering the infected hosts.
+The attacks involve the exploitation of a remote code execution bug (CVE-2023-46604, CVSS score: 10.0) that has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Day Alert: Google Chrome Under Active Attack, Exploiting New Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html</id>
+        <link href="https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html"/>
+        <updated>2023-11-29T04:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has rolled out security updates to fix seven security issues in its Chrome browser, including a zero-day that has come under active exploitation in the wild.
+Tracked as CVE-2023-6345, the high-severity vulnerability has been described as an integer overflow bug in Skia, an open source 2D graphics library.
+Benoît Sevens and Clément Lecigne of Google's Threat Analysis Group (TAG) have been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transform Your Data Security Posture – Learn from SoFi's DSPM Success]]></title>
         <id>https://thehackernews.com/2023/11/transform-your-data-security-posture.html</id>
