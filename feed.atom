@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T05:43:51.166Z</updated>
+    <updated>2023-11-29T06:30:53.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DJVU Ransomware's Latest Variant 'Xaro' Disguised as Cracked Software]]></title>
+        <id>https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html</id>
+        <link href="https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html"/>
+        <updated>2023-11-29T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[A variant of a ransomware strain known as DJVU has been observed to be distributed in the form of cracked software.
+"While this attack pattern is not new, incidents involving a DJVU variant that appends the .xaro extension to affected files and demanding ransom for a decryptor have been observed infecting systems alongside a host of various commodity loaders and infostealers," Cybereason]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability]]></title>
         <id>https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html</id>
