@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T22:43:44.746Z</updated>
+    <updated>2023-11-29T23:22:24.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2378,40 +2378,6 @@ Tracked as CVE-2023-46747 (CVSS score: 9.8), the vulnerability allows an una
         <updated>2023-10-31T12:04:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new set of malicious packages published to the NuGet package manager using a lesser-known method for malware deployment.
 Software supply chain security firm ReversingLabs described the campaign as coordinated and ongoing since August 1, 2023, while linking it to a host of rogue NuGet packages that were observed delivering a remote access trojan called]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PentestPad: Platform for Pentest Teams]]></title>
-        <id>https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html</id>
-        <link href="https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html"/>
-        <updated>2023-10-31T11:21:00.000Z</updated>
-        <summary type="html"><![CDATA[In the ever-evolving cybersecurity landscape, the game-changers are those who adapt and innovate swiftly.
-Pen test solutions not only supercharge productivity but also provide a crucial layer of objectivity, ensuring efficiency and exceptional accuracy. The synergy between a skilled penetration tester and the precision of pen testing solutions are crucial for staying on top of today’s high]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian Warns of New Critical Confluence Vulnerability Threatening Data Loss]]></title>
-        <id>https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html</id>
-        <link href="https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html"/>
-        <updated>2023-10-31T11:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Atlassian has warned of a critical security flaw in Confluence Data Center and Server that could result in "significant data loss if exploited by an unauthenticated attacker."
-Tracked as CVE-2023-22518, the vulnerability is rated 9.1 out of a maximum of 10 on the CVSS scoring system. It has been described as an instance of "improper authorization vulnerability."
-All versions of Confluence Data]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trojanized PyCharm Software Version Delivered via Google Search Ads]]></title>
-        <id>https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html</id>
-        <link href="https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html"/>
-        <updated>2023-10-31T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A new malvertising campaign has been observed capitalizing on a compromised website to promote spurious versions of PyCharm on Google search results by leveraging Dynamic Search Ads.
-"Unbeknownst to the site owner, one of their ads was automatically created to promote a popular program for Python developers, and visible to people doing a Google search for it," Jérôme Segura, director of threat]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
