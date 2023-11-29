@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T03:43:58.499Z</updated>
+    <updated>2023-11-29T04:29:46.366Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2313,17 +2313,6 @@ To that end,]]></summary>
         <updated>2023-10-31T06:29:00.000Z</updated>
         <summary type="html"><![CDATA[Meta on Monday announced plans to offer an ad-free option to access Facebook and Instagram for users in the European Union (EU), European Economic Area (EEA), and Switzerland to comply with "evolving" data protection regulations in the region.
 The ad-free subscription, which costs €9.99/month on the web or €12.99/month on iOS and Android, is expected to be officially available starting next]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware]]></title>
-        <id>https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html</id>
-        <link href="https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html"/>
-        <updated>2023-10-30T16:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A pro-Hamas hacktivist group has been observed using a new Linux-based wiper malware dubbed BiBi-Linux Wiper, targeting Israeli entities amidst the ongoing Israeli-Hamas war.
-"This malware is an x64 ELF executable, lacking obfuscation or protective measures," Security Joes said in a new report published today. "It allows attackers to specify target folders and can potentially destroy an entire]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
