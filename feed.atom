@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T19:43:37.973Z</updated>
+    <updated>2023-11-29T20:24:03.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2412,18 +2412,6 @@ All versions of Confluence Data]]></summary>
         <updated>2023-10-31T10:55:00.000Z</updated>
         <summary type="html"><![CDATA[A new malvertising campaign has been observed capitalizing on a compromised website to promote spurious versions of PyCharm on Google search results by leveraging Dynamic Search Ads.
 "Unbeknownst to the site owner, one of their ads was automatically created to promote a popular program for Python developers, and visible to people doing a Google search for it," Jérôme Segura, director of threat]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canada Bans WeChat and Kaspersky Apps On Government Devices]]></title>
-        <id>https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html</id>
-        <link href="https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html"/>
-        <updated>2023-10-31T08:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Canada on Monday announced a ban on the use of apps from Tencent and Kaspersky on government mobile devices, citing an "unacceptable level of risk to privacy and security."
-"The Government of Canada is committed to keeping government information and networks secure," the Canadian government said. "We regularly monitor potential threats and take immediate action to address risks."
-To that end,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
