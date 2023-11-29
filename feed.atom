@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-28T23:43:29.703Z</updated>
+    <updated>2023-11-29T02:16:22.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2324,37 +2324,6 @@ The ad-free subscription, which costs €9.99/month on the web or €12.99/month
         <updated>2023-10-30T16:25:00.000Z</updated>
         <summary type="html"><![CDATA[A pro-Hamas hacktivist group has been observed using a new Linux-based wiper malware dubbed BiBi-Linux Wiper, targeting Israeli entities amidst the ongoing Israeli-Hamas war.
 "This malware is an x64 ELF executable, lacking obfuscation or protective measures," Security Joes said in a new report published today. "It allows attackers to specify target folders and can potentially destroy an entire]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-ACT-047 : Bulletin d’actualité CERTFR-2023-ACT-047 (30 octobre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-047/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-047/"/>
-        <updated>2023-10-30T14:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Webinar: 5 Must-Know Trends Impacting AppSec]]></title>
-        <id>https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html</id>
-        <link href="https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html"/>
-        <updated>2023-10-30T12:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern web app development relies on cloud infrastructure and containerization. These technologies scale on demand, handling millions of daily file transfers – it's almost impossible to imagine a world without them. However, they also introduce multiple attack vectors that exploit file uploads when working with public clouds, vulnerabilities in containers hosting web applications, and many other]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ServiceNow Data Exposure: A Wake-Up Call for Companies]]></title>
-        <id>https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html</id>
-        <link href="https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html"/>
-        <updated>2023-10-30T11:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this week, ServiceNow announced on its support site that misconfigurations within the platform could result in “unintended access” to sensitive data. For organizations that use ServiceNow, this security exposure is a critical concern that could have resulted in major data leakage of sensitive corporate data. ServiceNow has since taken steps to fix this issue. 
-This article fully analyzes]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

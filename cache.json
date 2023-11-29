@@ -2068,38 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIQIQfRc4ZUGRGMpG1c7_y4J-bCc06H1nld44x2MjDJpJ3XNaKVA_jYgwTS5wlSrfxxrZuRf8pe_8KMCSnsmOdMcSVUBe0snQdBNHbS1h7DmI2w7ksVncs5DxhiLgQnWfDwTyMo9XZBOa0kZU11kgTUn0l6BgcIb5_3gCS3AVGWbB2gsn9_0-bKZa66sle/s1600/wiper-malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIQIQfRc4ZUGRGMpG1c7_y4J-bCc06H1nld44x2MjDJpJ3XNaKVA_jYgwTS5wlSrfxxrZuRf8pe_8KMCSnsmOdMcSVUBe0snQdBNHbS1h7DmI2w7ksVncs5DxhiLgQnWfDwTyMo9XZBOa0kZU11kgTUn0l6BgcIb5_3gCS3AVGWbB2gsn9_0-bKZa66sle/s1600/wiper-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Modern web app development relies on cloud infrastructure and containerization. These technologies scale on demand, handling millions of daily file transfers – it's almost impossible to imagine a world without them. However, they also introduce multiple attack vectors that exploit file uploads when working with public clouds, vulnerabilities in containers hosting web applications, and many other",
-          "link": "https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html",
-          "publishedOn": "2023-10-30T12:09:00.000Z",
-          "wordCount": null,
-          "title": "New Webinar: 5 Must-Know Trends Impacting AppSec",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHuX9PB5-XDAI8G4l79AzpzhnIeRQiimFUi4dmg7CK5tEj8B3cmXIZ7TH1y0UebXEN5-7Hs4GoBgTyYUemHShqHqMHXuo2RQCOICpCGJEuYu-VfYfRwXavPRNufQxg6vJWfi-F6jZBOI8SgMkCyITZn9wJ3TK2X4H-SJ_aXnRkElPJriqd0Jm_iuiD4o/s1600/OPSWAT.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgHuX9PB5-XDAI8G4l79AzpzhnIeRQiimFUi4dmg7CK5tEj8B3cmXIZ7TH1y0UebXEN5-7Hs4GoBgTyYUemHShqHqMHXuo2RQCOICpCGJEuYu-VfYfRwXavPRNufQxg6vJWfi-F6jZBOI8SgMkCyITZn9wJ3TK2X4H-SJ_aXnRkElPJriqd0Jm_iuiD4o/s1600/OPSWAT.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Earlier this week, ServiceNow announced on its support site that misconfigurations within the platform could result in “unintended access” to sensitive data. For organizations that use ServiceNow, this security exposure is a critical concern that could have resulted in major data leakage of sensitive corporate data. ServiceNow has since taken steps to fix this issue. \nThis article fully analyzes",
-          "link": "https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html",
-          "publishedOn": "2023-10-30T11:47:00.000Z",
-          "wordCount": null,
-          "title": "ServiceNow Data Exposure: A Wake-Up Call for Companies",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT7rkAypCF1lkgmolI6IdgaBIhvKJLqE4jIUPxs8nNIKWkgnzIT8xHQ-t8w8PcwEa8ibxvV-PX09QoSLnJxmdFfYK8Iewq5kQFDYjiyu_TMHrI0lI50KEm78qtiI5_l0tz6kQe3PAQfMRYgB_mA1Ikm0FUdnYCX3zA8eVgAND1aozBpNzSeBJEkSP3r0/s1600/asss.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKT7rkAypCF1lkgmolI6IdgaBIhvKJLqE4jIUPxs8nNIKWkgnzIT8xHQ-t8w8PcwEa8ibxvV-PX09QoSLnJxmdFfYK8Iewq5kQFDYjiyu_TMHrI0lI50KEm78qtiI5_l0tz6kQe3PAQfMRYgB_mA1Ikm0FUdnYCX3zA8eVgAND1aozBpNzSeBJEkSP3r0/s1600/asss.jpg"
         }
       ]
     },
@@ -2966,16 +2934,6 @@
           "publishedOn": "2023-10-31T12:55:52.000Z",
           "wordCount": 987,
           "title": "CERTFR-2023-AVI-0899 : Vulnérabilité dans Atlassian Confluence Data Center et Server (31 octobre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-047/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-047/",
-          "publishedOn": "2023-10-30T14:01:40.000Z",
-          "wordCount": 1810,
-          "title": "CERTFR-2023-ACT-047 : Bulletin d’actualité CERTFR-2023-ACT-047 (30 octobre 2023)",
           "imageUrl": null
         }
       ]
