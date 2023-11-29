@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T12:54:51.289Z</updated>
+    <updated>2023-11-29T13:26:50.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.]]></title>
+        <id>https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html</id>
+        <link href="https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html"/>
+        <updated>2023-11-29T13:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) revealed that it's responding to a cyber attack that involved the active exploitation of Unitronics programmable logic controllers (PLCs) to target the Municipal Water Authority of Aliquippa in western Pennsylvania.
+The attack has been attributed to an Iranian-backed hacktivist collective known as Cyber Av3ngers.
+"Cyber threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[200+ Malicious Apps on Iranian Android Store Installed by Millions of Banking Users]]></title>
         <id>https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html</id>

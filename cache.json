@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) revealed that it's responding to a cyber attack that involved the active exploitation of Unitronics programmable logic controllers (PLCs) to target the Municipal Water Authority of Aliquippa in western Pennsylvania.\nThe attack has been attributed to an Iranian-backed hacktivist collective known as Cyber Av3ngers.\n\"Cyber threat",
+          "link": "https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html",
+          "publishedOn": "2023-11-29T13:02:00.000Z",
+          "wordCount": null,
+          "title": "Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtFyPrVJY-k5-hIuXwgMBaJf6vIbO4r7eIKS0c-Imt77pAYlqKTdzdD2pcPo_qI9gKLlxn1BXYS-u0QchB-YR8v7jVT5HYYZkY0-_Y26NuJ_APQTUaVn_ENN1tyiFZg6UOKJs2SsJV6MpKLsTuYd4kbdvw5k1Xl1xH21BNXFHL_-9pqxo-uviqOiOTNMml/s1600/water.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtFyPrVJY-k5-hIuXwgMBaJf6vIbO4r7eIKS0c-Imt77pAYlqKTdzdD2pcPo_qI9gKLlxn1BXYS-u0QchB-YR8v7jVT5HYYZkY0-_Y26NuJ_APQTUaVn_ENN1tyiFZg6UOKJs2SsJV6MpKLsTuYd4kbdvw5k1Xl1xH21BNXFHL_-9pqxo-uviqOiOTNMml/s1600/water.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An Android malware campaign targeting Iranian banks has expanded its capabilities and incorporated additional evasion tactics to fly under the radar.\nThat's according to a new report from Zimperium, which discovered more than 200 malicious apps associated with the malicious operation, with the threat actor also observed carrying out phishing attacks against the targeted financial institutions.",
