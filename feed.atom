@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-29T09:43:40.312Z</updated>
+    <updated>2023-11-29T10:32:19.860Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[200+ Malicious Apps on Iranian Android Store Installed by Millions of Banking Users]]></title>
+        <id>https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html</id>
+        <link href="https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html"/>
+        <updated>2023-11-29T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[An Android malware campaign targeting Iranian banks has expanded its capabilities and incorporated additional evasion tactics to fly under the radar.
+That's according to a new report from Zimperium, which discovered more than 200 malicious apps associated with the malicious operation, with the threat actor also observed carrying out phishing attacks against the targeted financial institutions.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discover Why Proactive Web Security Outsmarts Traditional Antivirus Solutions]]></title>
+        <id>https://thehackernews.com/2023/11/discover-why-proactive-web-security.html</id>
+        <link href="https://thehackernews.com/2023/11/discover-why-proactive-web-security.html"/>
+        <updated>2023-11-29T09:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In a rapidly evolving digital landscape, it's crucial to reevaluate how we secure web environments. Traditional antivirus-approach solutions have their merits, but they're reactive. A new report delves into the reasons for embracing proactive web security solutions, ensuring you stay ahead of emerging threats. 
+To learn more, download the full report here.
+The New Paradigm
+If you’ve been relying]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta Discloses Broader Impact Linked to October 2023 Support System Breach]]></title>
         <id>https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html</id>
