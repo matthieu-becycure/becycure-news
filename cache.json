@@ -2157,6 +2157,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/",
+          "publishedOn": "2023-11-30T15:13:10.000Z",
+          "wordCount": 952,
+          "title": "CERTFR-2023-AVI-0986 : Multiples vulnérabilités dans Tenable Nessus Network Monitor (30 novembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0985/",
+          "publishedOn": "2023-11-30T15:06:10.000Z",
+          "wordCount": 1019,
+          "title": "CERTFR-2023-AVI-0985 : Multiples vulnérabilités dans Microsoft Edge (30 novembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
