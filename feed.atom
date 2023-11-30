@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-30T20:43:38.569Z</updated>
+    <updated>2023-11-30T21:19:15.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2400,17 +2400,6 @@ Prolific Puma creates "domain names with an RDGA [registered domain generation
         <updated>2023-11-01T11:22:00.000Z</updated>
         <summary type="html"><![CDATA[A threat actor affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been observed waging a sophisticated cyber espionage campaign targeting financial, government, military, and telecommunications sectors in the Middle East for at least a year.
 Israeli cybersecurity firm Check Point, which discovered the campaign alongside Sygnia, is tracking the actor under the name Scarred]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware]]></title>
-        <id>https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html</id>
-        <link href="https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html"/>
-        <updated>2023-11-01T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[State-sponsored threat actors from the Democratic People's Republic of Korea (DPRK) have been found targeting blockchain engineers of an unnamed crypto exchange platform via Discord with a novel macOS malware dubbed KANDYKORN.
-Elastic Security Labs said the activity, traced back to April 2023, exhibits overlaps with the infamous adversarial collective Lazarus Group, citing an analysis of the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
