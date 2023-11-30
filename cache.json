@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZ86SWGHvE_QHWSxtWzS2RZZni1dtymYCKJh9INkTtCW42mbVlebeCjY0spY2yxO9jE6A5OuBT0h20Y5fqPhynCCv1Q3suESeMeGNxcgFFGnG1tZtGBndoGIFZVA_wjrFGF6xlf1mMwCkiFsL_liHCUq7Bb7kpA5gLuDaHRnqWQeJwR9lA934r6RVJrjB/s1600/russian-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghZ86SWGHvE_QHWSxtWzS2RZZni1dtymYCKJh9INkTtCW42mbVlebeCjY0spY2yxO9jE6A5OuBT0h20Y5fqPhynCCv1Q3suESeMeGNxcgFFGnG1tZtGBndoGIFZVA_wjrFGF6xlf1mMwCkiFsL_liHCUq7Bb7kpA5gLuDaHRnqWQeJwR9lA934r6RVJrjB/s1600/russian-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "F5 is warning of active abuse of a critical security flaw in BIG-IP less than a week after its public disclosure, resulting in the execution of arbitrary system commands as part of an exploit chain.\nTracked as CVE-2023-46747 (CVSS score: 9.8), the vulnerability allows an unauthenticated attacker with network access to the BIG-IP system through the management port to achieve code execution. A",
-          "link": "https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html",
-          "publishedOn": "2023-11-01T04:53:00.000Z",
-          "wordCount": null,
-          "title": "Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLz_aHTE12tSdIeOJer1qgxNOeWW9ydjZohufPaENYeUREqhwi_x2C-jMjffJSNawL-CjsSyU_f8Dbjj2MBc9q8_Py8seTHRKYYvZTPsUXUFYS2ZlYgfAuDWl0trcoDlKpz4X9eelW31wn3PtHyuxfbM7S0T0fzi4-rzBBlK1s6ATsKnlH9_bErTaq2hBb/s1600/f5-servers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLz_aHTE12tSdIeOJer1qgxNOeWW9ydjZohufPaENYeUREqhwi_x2C-jMjffJSNawL-CjsSyU_f8Dbjj2MBc9q8_Py8seTHRKYYvZTPsUXUFYS2ZlYgfAuDWl0trcoDlKpz4X9eelW31wn3PtHyuxfbM7S0T0fzi4-rzBBlK1s6ATsKnlH9_bErTaq2hBb/s1600/f5-servers.jpg"
         }
       ]
     },
