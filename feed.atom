@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-30T19:15:32.881Z</updated>
+    <updated>2023-11-30T19:24:13.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2411,18 +2411,6 @@ Israeli cybersecurity firm Check Point, which discovered the campaign alongside 
         <updated>2023-11-01T09:02:00.000Z</updated>
         <summary type="html"><![CDATA[State-sponsored threat actors from the Democratic People's Republic of Korea (DPRK) have been found targeting blockchain engineers of an unnamed crypto exchange platform via Discord with a novel macOS malware dubbed KANDYKORN.
 Elastic Security Labs said the activity, traced back to April 2023, exhibits overlaps with the infamous adversarial collective Lazarus Group, citing an analysis of the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection]]></title>
-        <id>https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html</id>
-        <link href="https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html"/>
-        <updated>2023-11-01T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked hacking crew known as Turla has been observed using an updated version of a known second-stage backdoor referred to as Kazuar.
-The new findings come from Palo Alto Networks Unit 42, which is tracking the adversary under its constellation-themed moniker Pensive Ursa.
-"As the code of the upgraded revision of Kazuar reveals, the authors put special emphasis on Kazuar's ability to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
