@@ -2052,38 +2052,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLz_aHTE12tSdIeOJer1qgxNOeWW9ydjZohufPaENYeUREqhwi_x2C-jMjffJSNawL-CjsSyU_f8Dbjj2MBc9q8_Py8seTHRKYYvZTPsUXUFYS2ZlYgfAuDWl0trcoDlKpz4X9eelW31wn3PtHyuxfbM7S0T0fzi4-rzBBlK1s6ATsKnlH9_bErTaq2hBb/s1600/f5-servers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLz_aHTE12tSdIeOJer1qgxNOeWW9ydjZohufPaENYeUREqhwi_x2C-jMjffJSNawL-CjsSyU_f8Dbjj2MBc9q8_Py8seTHRKYYvZTPsUXUFYS2ZlYgfAuDWl0trcoDlKpz4X9eelW31wn3PtHyuxfbM7S0T0fzi4-rzBBlK1s6ATsKnlH9_bErTaq2hBb/s1600/f5-servers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Arid Viper (aka APT-C-23, Desert Falcon, or TAG-63) has been attributed as behind an Android spyware campaign targeting Arabic-speaking users with a counterfeit dating app designed to harvest data from infected handsets.\n\"Arid Viper's Android malware has a number of features that enable the operators to surreptitiously collect sensitive information from victims' devices",
-          "link": "https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html",
-          "publishedOn": "2023-10-31T14:16:00.000Z",
-          "wordCount": null,
-          "title": "Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fuT-a82PBlj1vOFtU4kk8fizbb9QD3bVqPdge7u5dshwKxrOYkfk2F_qBIq8nKySCrgu2z_KHAObMTgUGyRMDTJy6eXDz28m13BfvJvSVyTn_5CqIoWB_sn2MuIXMYGGrmJaFg5NCWZi6DH0lnKweVppC4j6dqqhPOyS-Fm7pS-fkjYTAvt0vt50k0tw/s1600/android.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fuT-a82PBlj1vOFtU4kk8fizbb9QD3bVqPdge7u5dshwKxrOYkfk2F_qBIq8nKySCrgu2z_KHAObMTgUGyRMDTJy6eXDz28m13BfvJvSVyTn_5CqIoWB_sn2MuIXMYGGrmJaFg5NCWZi6DH0lnKweVppC4j6dqqhPOyS-Fm7pS-fkjYTAvt0vt50k0tw/s1600/android.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new set of malicious packages published to the NuGet package manager using a lesser-known method for malware deployment.\nSoftware supply chain security firm ReversingLabs described the campaign as coordinated and ongoing since August 1, 2023, while linking it to a host of rogue NuGet packages that were observed delivering a remote access trojan called",
-          "link": "https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html",
-          "publishedOn": "2023-10-31T12:04:00.000Z",
-          "wordCount": null,
-          "title": "Malicious NuGet Packages Caught Distributing SeroXen RAT Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFzGOd-FkaZKPr65NNTtx8Cm75n1FFy7U5vwD6St2BGnogW_mwyd6qdNoKPzp95Hrox1KLz8X_wkb5QUbF4eVeqfV2SEf5Z0zegOEfnVidymKDB_hJCMEnkJk5kRrKWCrf8mm-SuP8ldcWLehvU4u2LDzY4AqJwsKZ5gDi2JAGR2VrhsAafmMpouZ9p3M/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAFzGOd-FkaZKPr65NNTtx8Cm75n1FFy7U5vwD6St2BGnogW_mwyd6qdNoKPzp95Hrox1KLz8X_wkb5QUbF4eVeqfV2SEf5Z0zegOEfnVidymKDB_hJCMEnkJk5kRrKWCrf8mm-SuP8ldcWLehvU4u2LDzY4AqJwsKZ5gDi2JAGR2VrhsAafmMpouZ9p3M/s1600/malware.jpg"
         }
       ]
     },
@@ -2980,16 +2948,6 @@
           "publishedOn": "2023-11-02T12:14:24.000Z",
           "wordCount": 970,
           "title": "CERTFR-2023-AVI-0900 : Multiples vulnérabilités dans Nagios XI (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Atlassian Confluence Data Center et Server. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0899/",
-          "publishedOn": "2023-10-31T12:55:52.000Z",
-          "wordCount": 987,
-          "title": "CERTFR-2023-AVI-0899 : Vulnérabilité dans Atlassian Confluence Data Center et Server (31 octobre 2023)",
           "imageUrl": null
         }
       ]
