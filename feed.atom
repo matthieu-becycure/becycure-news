@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-30T06:30:51.021Z</updated>
+    <updated>2023-11-30T06:43:27.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury Sanctions Sinbad Cryptocurrency Mixer Used by North Korean Hackers]]></title>
+        <id>https://thehackernews.com/2023/11/us-treasury-sanctions-sinbad.html</id>
+        <link href="https://thehackernews.com/2023/11/us-treasury-sanctions-sinbad.html"/>
+        <updated>2023-11-30T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury Department on Wednesday imposed sanctions against Sinbad, a virtual currency mixer that has been put to use by the North Korea-linked Lazarus Group to launder ill-gotten proceeds.
+"Sinbad has processed millions of dollars' worth of virtual currency from Lazarus Group heists, including the Horizon Bridge and Axie Infinity heists," the department said.
+"Sinbad is also used by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.]]></title>
         <id>https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html</id>
