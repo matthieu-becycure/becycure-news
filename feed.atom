@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-11-30T12:54:01.468Z</updated>
+    <updated>2023-11-30T13:31:48.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Unveils RETVec - Gmail's New Defense Against Spam and Malicious Emails]]></title>
+        <id>https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html</id>
+        <link href="https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html"/>
+        <updated>2023-11-30T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has revealed a new multilingual text vectorizer called RETVec (short for Resilient and Efficient Text Vectorizer) to help detect potentially harmful content such as spam and malicious emails in Gmail.
+"RETVec is trained to be resilient against character-level manipulations including insertion, deletion, typos, homoglyphs, LEET substitution, and more," according to the project's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Free Solution Provides Essential Third-Party Risk Management for SaaS]]></title>
         <id>https://thehackernews.com/2023/11/this-free-solution-provides-essential.html</id>
