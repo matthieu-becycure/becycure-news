@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T13:43:33.610Z</updated>
+    <updated>2023-12-01T14:28:07.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0993 : Multiples vulnérabilités dans les produits Fortinet (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/"/>
+        <updated>2023-12-01T13:19:21.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia]]></title>
         <id>https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html</id>
@@ -49,6 +59,26 @@ The activity, which commenced no later than August 2023, leverages two different
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0992 : Vulnérabilité dans SolarWinds Platform (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/"/>
+        <updated>2023-12-01T10:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0991 : Multiples vulnérabilités dans GitLab (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/"/>
+        <updated>2023-12-01T10:15:43.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WhatsApp's New Secret Code Feature Lets Users Protect Private Chats with Password]]></title>
         <id>https://thehackernews.com/2023/12/whatsapps-new-secret-code-feature-lets.html</id>
         <link href="https://thehackernews.com/2023/12/whatsapps-new-secret-code-feature-lets.html"/>
@@ -58,6 +88,47 @@ The feature has been described as an "additional way to protect those chats an
 Secret Code builds on another feature]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0990 : Multiples vulnérabilités dans les produits IBM (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0990/"/>
+        <updated>2023-12-01T09:48:01.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une exécution de code arbitraire à …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0989 : Multiples vulnérabilités dans le noyau Linux de RedHat (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/"/>
+        <updated>2023-12-01T09:32:47.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0988 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/"/>
+        <updated>2023-12-01T09:25:42.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0987 : Multiples vulnérabilités dans les produits Apple (01 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/"/>
+        <updated>2023-12-01T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire.
+ D'après l'éditeur, ces vulnérabilités sont<span …]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
