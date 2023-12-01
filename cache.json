@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a new sophisticated Android malware called FjordPhantom that has been observed targeting users in Southeast Asian countries like Indonesia, Thailand, and Vietnam since early September 2023.\n\"Spreading primarily through messaging services, it combines app-based malware with social engineering to defraud banking customers,\" Oslo-based mobile app",
+          "link": "https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html",
+          "publishedOn": "2023-12-01T12:40:00.000Z",
+          "wordCount": null,
+          "title": "New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4PnwLqSkt5xoX-B0qCerjOBRmEvEkKmYMa9NJZJGo2w_3DN_tqrC7t3wWcfq6aeuL-OcapLmY9REkeImtdCwcBP0uXaSTjUg7RQGSBB0aI40FCACETOuWHIUDkr0Ckc_gM0ZgezrBG7DZMHRZkWuDleYt6wnlZFq15TQuFK_J6WgvwHfVPX9ju6JxFaDC/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4PnwLqSkt5xoX-B0qCerjOBRmEvEkKmYMa9NJZJGo2w_3DN_tqrC7t3wWcfq6aeuL-OcapLmY9REkeImtdCwcBP0uXaSTjUg7RQGSBB0aI40FCACETOuWHIUDkr0Ckc_gM0ZgezrBG7DZMHRZkWuDleYt6wnlZFq15TQuFK_J6WgvwHfVPX9ju6JxFaDC/s1600/android.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DOJ) and the FBI recently collaborated in a multinational operation to dismantle the notorious Qakbot malware and botnet. While the operation was successful in disrupting this long-running threat, concerns have arisen as it appears that Qakbot may still pose a danger in a reduced form. This article discusses the aftermath of the takedown, provides mitigation",
