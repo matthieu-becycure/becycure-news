@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T10:43:29.361Z</updated>
+    <updated>2023-12-01T11:18:32.662Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks]]></title>
+        <id>https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html</id>
+        <link href="https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html"/>
+        <updated>2023-12-01T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The most recent Gcore Radar report and its aftermath have highlighted a dramatic increase in DDoS attacks across multiple industries. At the beginning of 2023, the average strength of attacks reached 800 Gbps, but now, even a peak as high as 1.5+ Tbps is unsurprising. To try and break through Gcore’s defenses, perpetrators made two attempts with two different strategies.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp's New Secret Code Feature Lets Users Protect Private Chats with Password]]></title>
+        <id>https://thehackernews.com/2023/12/whatsapps-new-secret-code-feature-lets.html</id>
+        <link href="https://thehackernews.com/2023/12/whatsapps-new-secret-code-feature-lets.html"/>
+        <updated>2023-12-01T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta-owned WhatsApp has launched a new Secret Code feature to help users protect sensitive conversations with a custom password on the messaging platform.
+The feature has been described as an "additional way to protect those chats and make them harder to find if someone has access to your phone or you share a phone with someone else."
+Secret Code builds on another feature]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Treasury Sanctions North Korean Kimsuky Hackers and 8 Foreign Agents]]></title>
         <id>https://thehackernews.com/2023/12/us-treasury-sanctions-north-korean.html</id>
