@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T15:43:42.429Z</updated>
+    <updated>2023-12-01T16:33:51.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2519,17 +2519,6 @@ Cybersecurity firm Deep Instinct, which disclosed details of the attacks, said�
         <updated>2023-11-02T05:19:00.000Z</updated>
         <summary type="html"><![CDATA[The Forum of Incident Response and Security Teams (FIRST) has officially announced CVSS v4.0, the next generation of the Common Vulnerability Scoring System standard, more than eight years after the release of CVSS v3.0 in June 2015.
 "This latest version of CVSS 4.0 seeks to provide the highest fidelity of vulnerability assessment for both industry and the public," FIRST said in a statement.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability]]></title>
-        <id>https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html</id>
-        <link href="https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html"/>
-        <updated>2023-11-02T04:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are warning of suspected exploitation of a recently disclosed critical security flaw in the Apache ActiveMQ open-source message broker service that could result in remote code execution.
-"In both instances, the adversary attempted to deploy ransomware binaries on target systems in an effort to ransom the victim organizations," cybersecurity firm Rapid7 disclosed in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

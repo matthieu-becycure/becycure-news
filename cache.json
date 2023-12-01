@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvGBbjjvVFwI-zaRIffZIZNamC_2KHllLtfqa0OWdJG5_5UfutTZrjI4gNXAxUX3iEn1eQd-uwwbyX7gN59m-F63ru-Rf0H-cyL8KSEwdRTT-FbcjIt2rtJQDSrh9OgZ8v5vpZBV3R2MV1x2sAuwPw0olrJANhxKS0foo7Da2H_-wG3hWZw8cQXrIZkAJ/s1600/score.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrvGBbjjvVFwI-zaRIffZIZNamC_2KHllLtfqa0OWdJG5_5UfutTZrjI4gNXAxUX3iEn1eQd-uwwbyX7gN59m-F63ru-Rf0H-cyL8KSEwdRTT-FbcjIt2rtJQDSrh9OgZ8v5vpZBV3R2MV1x2sAuwPw0olrJANhxKS0foo7Da2H_-wG3hWZw8cQXrIZkAJ/s1600/score.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning of suspected exploitation of a recently disclosed critical security flaw in the Apache ActiveMQ open-source message broker service that could result in remote code execution.\n\"In both instances, the adversary attempted to deploy ransomware binaries on target systems in an effort to ransom the victim organizations,\" cybersecurity firm Rapid7 disclosed in a",
-          "link": "https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html",
-          "publishedOn": "2023-11-02T04:27:00.000Z",
-          "wordCount": null,
-          "title": "HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwT3lc0OX9w6kumbecmDJxLdhwlBPP2w-pZikQqH6GGcHDiym8qE64V4X0GyiO6KDlM5Spkc3SbpLCyweqAPOjSDW5JkDr5Cwu8rQi42NpW8dUTMLf6HGVN6n362PXYe0QHOHfW5CDvEXNw6OUHPWpROqklFcdrfgS-rNaHfGdfs1w7CokS2HJ_HLIsvE/s1600/ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFwT3lc0OX9w6kumbecmDJxLdhwlBPP2w-pZikQqH6GGcHDiym8qE64V4X0GyiO6KDlM5Spkc3SbpLCyweqAPOjSDW5JkDr5Cwu8rQi42NpW8dUTMLf6HGVN6n362PXYe0QHOHfW5CDvEXNw6OUHPWpROqklFcdrfgS-rNaHfGdfs1w7CokS2HJ_HLIsvE/s1600/ransomware.jpg"
         }
       ]
     },
