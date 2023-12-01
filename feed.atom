@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T02:48:44.133Z</updated>
+    <updated>2023-12-01T03:24:03.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2368,17 +2368,6 @@ Cybersecurity firm Deep Instinct, which disclosed details of the attacks, said�
         <updated>2023-11-02T04:27:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning of suspected exploitation of a recently disclosed critical security flaw in the Apache ActiveMQ open-source message broker service that could result in remote code execution.
 "In both instances, the adversary attempted to deploy ransomware binaries on target systems in an effort to ransom the victim organizations," cybersecurity firm Rapid7 disclosed in a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Expose Prolific Puma's Underground Link Shortening Service]]></title>
-        <id>https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html</id>
-        <link href="https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html"/>
-        <updated>2023-11-01T14:55:00.000Z</updated>
-        <summary type="html"><![CDATA[A threat actor known as Prolific Puma has been maintaining a low profile and operating an underground link shortening service that's offered to other threat actors for at least over the past four years.
-Prolific Puma creates "domain names with an RDGA [registered domain generation algorithm] and use these domains to provide a link shortening service to other malicious actors, helping them evade]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
