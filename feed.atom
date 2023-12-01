@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T16:43:33.470Z</updated>
+    <updated>2023-12-01T17:26:39.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2508,17 +2508,6 @@ Cybersecurity firm Deep Instinct, which disclosed details of the attacks, said�
         <updated>2023-11-02T08:59:00.000Z</updated>
         <summary type="html"><![CDATA[As many as 34 unique vulnerable Windows Driver Model (WDM) and Windows Driver Frameworks (WDF) drivers could be exploited by non-privileged threat actors to gain full control of the devices and execute arbitrary code on the underlying systems.
 "By exploiting the drivers, an attacker without privilege may erase/alter firmware, and/or elevate [operating system] privileges," Takahiro Haruyama, a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIRST Announces CVSS 4.0 - New Vulnerability Scoring System]]></title>
-        <id>https://thehackernews.com/2023/11/first-announces-cvss-40-new.html</id>
-        <link href="https://thehackernews.com/2023/11/first-announces-cvss-40-new.html"/>
-        <updated>2023-11-02T05:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The Forum of Incident Response and Security Teams (FIRST) has officially announced CVSS v4.0, the next generation of the Common Vulnerability Scoring System standard, more than eight years after the release of CVSS v3.0 in June 2015.
-"This latest version of CVSS 4.0 seeks to provide the highest fidelity of vulnerability assessment for both industry and the public," FIRST said in a statement.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
