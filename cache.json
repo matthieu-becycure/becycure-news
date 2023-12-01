@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHiuVJVmPQaFrRxCHEu1FzKsaCa9cYpIo0c5tVh8o6tNGojTwwjCmTBUKYb2nuusDWqzhmgsMt5n0zmPk1Qy4U9GvAXTEPliklM4ZS3K-pEafGGkeMi_GDhxz180AoCnSSrEXI93oUm-tcVqEtkXBZNRHYE8uK6giKJP7B0FOK938zwfFMVMhvQuge-OsJ/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHiuVJVmPQaFrRxCHEu1FzKsaCa9cYpIo0c5tVh8o6tNGojTwwjCmTBUKYb2nuusDWqzhmgsMt5n0zmPk1Qy4U9GvAXTEPliklM4ZS3K-pEafGGkeMi_GDhxz180AoCnSSrEXI93oUm-tcVqEtkXBZNRHYE8uK6giKJP7B0FOK938zwfFMVMhvQuge-OsJ/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/researchers-find-34-windows-drivers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As many as 34 unique vulnerable Windows Driver Model (WDM) and Windows Driver Frameworks (WDF) drivers could be exploited by non-privileged threat actors to gain full control of the devices and execute arbitrary code on the underlying systems.\n\"By exploiting the drivers, an attacker without privilege may erase/alter firmware, and/or elevate [operating system] privileges,\" Takahiro Haruyama, a",
-          "link": "https://thehackernews.com/2023/11/researchers-find-34-windows-drivers.html",
-          "publishedOn": "2023-11-02T08:59:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Find 34 Windows Drivers Vulnerable to Full Device Takeover",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRLHY9novLYaataPSjeUmgFhnZYZ9H4uYANfgZVVOXO7LxfjPXZjB9NnmZU4q-q5WhYAxIxll_cdWCohRNY4CYj6taDKuQAAsimM858kBJ5gn3tbyJkTm2xAjO8X7hDdn7ygj2GwCRRK3xwJijGyvtZXWfCOhPo9PHjt3IBwLIRQf2Jp40S2EJe5Foeoc_/s1600/windows.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRLHY9novLYaataPSjeUmgFhnZYZ9H4uYANfgZVVOXO7LxfjPXZjB9NnmZU4q-q5WhYAxIxll_cdWCohRNY4CYj6taDKuQAAsimM858kBJ5gn3tbyJkTm2xAjO8X7hDdn7ygj2GwCRRK3xwJijGyvtZXWfCOhPo9PHjt3IBwLIRQf2Jp40S2EJe5Foeoc_/s1600/windows.jpg"
         }
       ]
     },
