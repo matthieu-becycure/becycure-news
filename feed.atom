@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T08:30:17.474Z</updated>
+    <updated>2023-12-01T08:43:30.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury Sanctions North Korean Kimsuky Hackers and 8 Foreign Agents]]></title>
+        <id>https://thehackernews.com/2023/12/us-treasury-sanctions-north-korean.html</id>
+        <link href="https://thehackernews.com/2023/12/us-treasury-sanctions-north-korean.html"/>
+        <updated>2023-12-01T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) on Thursday sanctioned the North Korea-linked adversarial collective known as Kimsuky as well as eight foreign-based agents who are alleged to have facilitated sanctions evasion.
+The agents, the Treasury said, helped in "revenue generation and missile-related technology procurement that support the DPRK's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zyxel Releases Patches to Fix 15 Flaws in NAS, Firewall, and AP Devices]]></title>
         <id>https://thehackernews.com/2023/12/zyxel-releases-patches-to-fix-15-flaws.html</id>
