@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-01T04:30:15.042Z</updated>
+    <updated>2023-12-01T04:43:28.904Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws]]></title>
+        <id>https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html</id>
+        <link href="https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html"/>
+        <updated>2023-12-01T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released software updates for iOS, iPadOS, macOS, and Safari web browser to address two security flaws that it said have come under active exploitation in the wild on older versions of its software.
+The vulnerabilities, both of which reside in the WebKit web browser engine, are described below -
+
+CVE-2023-42916 - An out-of-bounds read issue that could be exploited to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-AVI-0986 : Multiples vulnérabilités dans Tenable Nessus Network Monitor (30 novembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0986/</id>
