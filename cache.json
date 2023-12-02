@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcCYW15IJ__3-QfwURDi7LC1wf0wuICwQrT3rtOlcuHibTE14dmY2euG2IOTRzxe6dKMwcc3SGM4J-mMBW2SKPqJt8ndRTH9JKv2bnpMPvJJBXY9sXiLMct-VkKYScyMESRHEBtqDc4z35Dbym0jCkiM2mIDn5n2rY6VcMSZ1JLKncZfYVkyjUoNC9LuLs/s1600/whatsapp-spyware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcCYW15IJ__3-QfwURDi7LC1wf0wuICwQrT3rtOlcuHibTE14dmY2euG2IOTRzxe6dKMwcc3SGM4J-mMBW2SKPqJt8ndRTH9JKv2bnpMPvJJBXY9sXiLMct-VkKYScyMESRHEBtqDc4z35Dbym0jCkiM2mIDn5n2rY6VcMSZ1JLKncZfYVkyjUoNC9LuLs/s1600/whatsapp-spyware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new set of 48 malicious npm packages have been discovered in the npm repository with capabilities to deploy a reverse shell on compromised systems.\n\"These packages, deceptively named to appear legitimate, contained obfuscated JavaScript designed to initiate a reverse shell on package install,\" software supply chain security firm Phylum said.\nAll the counterfeit packages have been published by",
-          "link": "https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html",
-          "publishedOn": "2023-11-03T06:03:00.000Z",
-          "wordCount": null,
-          "title": "48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfdgOr2z2cbMKCyoiegHFFtYGgjmvu11-My3q5oq3T60qnMIPh-JVFoxCsgDyW9FRmNFauL7HaMCFkH9zQgEasrdFjcn9w3-7ZoIOvg4ve9djqKjuW_A0Qh3XHKEETAe7any_gW2ZhNIK4kvQcuvygFEWrL2kWxWcVv9i7W5TsH7zBwMSKtrsZPUD69xy/s1600/trojan.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfdgOr2z2cbMKCyoiegHFFtYGgjmvu11-My3q5oq3T60qnMIPh-JVFoxCsgDyW9FRmNFauL7HaMCFkH9zQgEasrdFjcn9w3-7ZoIOvg4ve9djqKjuW_A0Qh3XHKEETAe7any_gW2ZhNIK4kvQcuvygFEWrL2kWxWcVv9i7W5TsH7zBwMSKtrsZPUD69xy/s1600/trojan.jpg"
         }
       ]
     },

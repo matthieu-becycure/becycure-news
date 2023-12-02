@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-02T17:43:29.082Z</updated>
+    <updated>2023-12-02T18:26:35.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2404,18 +2404,6 @@ As the threat landscape evolves and generative AI is added to the toolsets ava
         <summary type="html"><![CDATA[Cybersecurity researchers have unearthed a number of WhatsApp mods for Android that come fitted with a spyware module dubbed CanesSpy.
 These modified versions of the instant messaging app have been observed propagated via sketchy websites advertising such modded software as well as Telegram channels used primarily by Arabic and Azerbaijani speakers, one of which boasts of two million users.
 "The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems]]></title>
-        <id>https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html</id>
-        <link href="https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html"/>
-        <updated>2023-11-03T06:03:00.000Z</updated>
-        <summary type="html"><![CDATA[A new set of 48 malicious npm packages have been discovered in the npm repository with capabilities to deploy a reverse shell on compromised systems.
-"These packages, deceptively named to appear legitimate, contained obfuscated JavaScript designed to initiate a reverse shell on package install," software supply chain security firm Phylum said.
-All the counterfeit packages have been published by]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
