@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-02T23:19:57.147Z</updated>
+    <updated>2023-12-02T23:28:14.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2361,17 +2361,6 @@ It further noted that the unauthorized intruder gained access to its systems fro
         <updated>2023-11-03T12:12:00.000Z</updated>
         <summary type="html"><![CDATA[Compromised Facebook business accounts are being used to run bogus ads that employ "revealing photos of young women" as lures to trick victims into downloading an updated version of a malware called NodeStealer.
 "Clicking on ads immediately downloads an archive containing a malicious .exe 'Photo Album' file which also drops a second executable written in .NET – this payload is in charge of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally]]></title>
-        <id>https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html</id>
-        <link href="https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html"/>
-        <updated>2023-11-03T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Here is what matters most when it comes to artificial intelligence (AI) in cybersecurity: Outcomes. 
-As the threat landscape evolves and generative AI is added to the toolsets available to defenders and attackers alike, evaluating the relative effectiveness of various AI-based security offerings is increasingly important — and difficult. Asking the right questions can help you spot solutions]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
