@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-02T21:25:32.336Z</updated>
+    <updated>2023-12-02T21:43:46.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2394,18 +2394,6 @@ As the threat landscape evolves and generative AI is added to the toolsets ava
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CanesSpy Spyware Discovered in Modified WhatsApp Versions]]></title>
-        <id>https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html</id>
-        <link href="https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html"/>
-        <updated>2023-11-03T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed a number of WhatsApp mods for Android that come fitted with a spyware module dubbed CanesSpy.
-These modified versions of the instant messaging app have been observed propagated via sketchy websites advertising such modded software as well as Telegram channels used primarily by Arabic and Azerbaijani speakers, one of which boasts of two million users.
-"The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
