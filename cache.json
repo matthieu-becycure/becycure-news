@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Russian national has been found guilty in connection with his role in developing and deploying a malware known as TrickBot, the U.S. Department of Justice (DoJ) announced.\nVladimir Dunaev, 40, was arrested in South Korea in September 2021 and extradited to the U.S. a month later.\n\"Dunaev developed browser modifications and malicious tools that aided in credential harvesting and data",
+          "link": "https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html",
+          "publishedOn": "2023-12-02T07:52:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTzmDPr5Yt38MbBRiirks3r8aScsGiJM0r_Fzr46D2Ms-VldUVA_KVPhQ-iSBhz0IUrvhlh-cR7UHT4ytRFzd-zbSJk3Z7plyN57ZIwaDDfrjctHOC2QPKybHXFwKTNQWefHhx0G8dXx6akQvM0JvHd4ooGOKefW1EXFMURJD37lSfmoxTZwqrbriyFrOc/s1600/russian-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTzmDPr5Yt38MbBRiirks3r8aScsGiJM0r_Fzr46D2Ms-VldUVA_KVPhQ-iSBhz0IUrvhlh-cR7UHT4ytRFzd-zbSJk3Z7plyN57ZIwaDDfrjctHOC2QPKybHXFwKTNQWefHhx0G8dXx6akQvM0JvHd4ooGOKefW1EXFMURJD37lSfmoxTZwqrbriyFrOc/s1600/russian-hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a new sophisticated Android malware called FjordPhantom that has been observed targeting users in Southeast Asian countries like Indonesia, Thailand, and Vietnam since early September 2023.\n\"Spreading primarily through messaging services, it combines app-based malware with social engineering to defraud banking customers,\" Oslo-based mobile app",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-02T07:43:33.607Z</updated>
+    <updated>2023-12-02T08:26:14.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware]]></title>
+        <id>https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html</id>
+        <link href="https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html"/>
+        <updated>2023-12-02T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A Russian national has been found guilty in connection with his role in developing and deploying a malware known as TrickBot, the U.S. Department of Justice (DoJ) announced.
+Vladimir Dunaev, 40, was arrested in South Korea in September 2021 and extradited to the U.S. a month later.
+"Dunaev developed browser modifications and malicious tools that aided in credential harvesting and data]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-AVI-0993 : Multiples vulnérabilités dans les produits Fortinet (01 décembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/</id>
