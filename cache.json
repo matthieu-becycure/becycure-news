@@ -2981,26 +2981,6 @@
           "wordCount": 1003,
           "title": "CERTFR-2023-AVI-0910 : Multiples vulnérabilités dans IBM QRadar (03 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un problème de sécurité non spécifié par l'éditeur et une usurpation d'identité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0909/",
-          "publishedOn": "2023-11-03T10:21:29.000Z",
-          "wordCount": 1186,
-          "title": "CERTFR-2023-AVI-0909 : Multiples vulnérabilités dans Microsoft Edge (03 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0908/",
-          "publishedOn": "2023-11-03T10:18:31.000Z",
-          "wordCount": 1046,
-          "title": "CERTFR-2023-AVI-0908 : Multiples vulnérabilités dans les produits NetApp (03 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
