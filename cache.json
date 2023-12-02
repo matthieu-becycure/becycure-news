@@ -2084,22 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfdgOr2z2cbMKCyoiegHFFtYGgjmvu11-My3q5oq3T60qnMIPh-JVFoxCsgDyW9FRmNFauL7HaMCFkH9zQgEasrdFjcn9w3-7ZoIOvg4ve9djqKjuW_A0Qh3XHKEETAe7any_gW2ZhNIK4kvQcuvygFEWrL2kWxWcVv9i7W5TsH7zBwMSKtrsZPUD69xy/s1600/trojan.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZfdgOr2z2cbMKCyoiegHFFtYGgjmvu11-My3q5oq3T60qnMIPh-JVFoxCsgDyW9FRmNFauL7HaMCFkH9zQgEasrdFjcn9w3-7ZoIOvg4ve9djqKjuW_A0Qh3XHKEETAe7any_gW2ZhNIK4kvQcuvygFEWrL2kWxWcVv9i7W5TsH7zBwMSKtrsZPUD69xy/s1600/trojan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/mysterious-kill-switch-disrupts-mozi.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The unexpected drop in malicious activity connected with the Mozi botnet in August 2023 was due to a kill switch that was distributed to the bots.\n\"First, the drop manifested in India on August 8,\" ESET said in an analysis published this week. \"A week later, on August 16, the same thing happened in China. While the mysterious control payload – aka kill switch – stripped Mozi bots of most",
-          "link": "https://thehackernews.com/2023/11/mysterious-kill-switch-disrupts-mozi.html",
-          "publishedOn": "2023-11-02T13:45:00.000Z",
-          "wordCount": null,
-          "title": "Mysterious Kill Switch Disrupts Mozi IoT Botnet Operations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTAL092rm_USWap8YHhmgCQK9i60W6Y3fkpkyv_RhRW1c3CTCdHgzXaJGwl4QLRuAE8LIxsT-DAwumAG2qkhk33cVIpmy1zBYvD34IPUwvmZ8Z4edx37hFwoSB-e0BBk1yU8haYhGOIA3G9kYF0QjrFv4XsuqmZQtkdBAOiACDFzlqdxK0O1WHDEBEgrK9/s1600/kill.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTAL092rm_USWap8YHhmgCQK9i60W6Y3fkpkyv_RhRW1c3CTCdHgzXaJGwl4QLRuAE8LIxsT-DAwumAG2qkhk33cVIpmy1zBYvD34IPUwvmZ8Z4edx37hFwoSB-e0BBk1yU8haYhGOIA3G9kYF0QjrFv4XsuqmZQtkdBAOiACDFzlqdxK0O1WHDEBEgrK9/s1600/kill.jpg"
         }
       ]
     },
@@ -3016,76 +3000,6 @@
           "publishedOn": "2023-11-03T10:18:31.000Z",
           "wordCount": 1046,
           "title": "CERTFR-2023-AVI-0908 : Multiples vulnérabilités dans les produits NetApp (03 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.\n Dans le bulletin de sécurité Cisco …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0906/",
-          "publishedOn": "2023-11-02T12:58:40.000Z",
-          "wordCount": 1313,
-          "title": "CERTFR-2023-AVI-0906 : Multiples vulnérabilités dans les produits Cisco (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0905/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0905/",
-          "publishedOn": "2023-11-02T12:41:53.000Z",
-          "wordCount": 1017,
-          "title": "CERTFR-2023-AVI-0905 : Multiples vulnérabilités dans GitLab (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0904/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0904/",
-          "publishedOn": "2023-11-02T12:37:38.000Z",
-          "wordCount": 1086,
-          "title": "CERTFR-2023-AVI-0904 : Multiples vulnérabilités dans les produits Tenable (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Workspace ONE UEM. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0903/",
-          "publishedOn": "2023-11-02T12:23:41.000Z",
-          "wordCount": 972,
-          "title": "CERTFR-2023-AVI-0903 : Vulnérabilité dans VMware Workspace ONE UEM (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0902/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0902/",
-          "publishedOn": "2023-11-02T12:20:24.000Z",
-          "wordCount": 926,
-          "title": "CERTFR-2023-AVI-0902 : Vulnérabilité dans Squid (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0901/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0901/",
-          "publishedOn": "2023-11-02T12:18:18.000Z",
-          "wordCount": 995,
-          "title": "CERTFR-2023-AVI-0901 : [SCADA] Multiples vulnérabilités dans les produits Moxa (02 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0900/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0900/",
-          "publishedOn": "2023-11-02T12:14:24.000Z",
-          "wordCount": 970,
-          "title": "CERTFR-2023-AVI-0900 : Multiples vulnérabilités dans Nagios XI (02 novembre 2023)",
           "imageUrl": null
         }
       ]
