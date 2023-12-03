@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-03T17:43:29.480Z</updated>
+    <updated>2023-12-03T18:26:40.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2276,18 +2276,6 @@ Ekaterina Zhdanova, per the department, is said to have facilitated large cross 
         <summary type="html"><![CDATA[An advanced strain of malware masquerading as a cryptocurrency miner has managed to fly the radar for over five years, infecting no less than one million devices around the world in the process.
 That's according to findings from Kaspersky, which has codenamed the threat StripedFly, describing it as an "intricate modular framework that supports both Linux and Windows."
 The Russian cybersecurity]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta's Recent Customer Support Data Breach Impacted 134 Customers]]></title>
-        <id>https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html</id>
-        <link href="https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html"/>
-        <updated>2023-11-04T06:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Identity and authentication management provider Okta on Friday disclosed that the recent support case management system breach affected 134 of its 18,400 customers.
-It further noted that the unauthorized intruder gained access to its systems from September 28 to October 17, 2023, and ultimately accessed HAR files containing session tokens that could be used for session hijacking attacks.
-"The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
