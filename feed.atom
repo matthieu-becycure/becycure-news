@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-03T21:25:29.437Z</updated>
+    <updated>2023-12-03T21:43:36.637Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2264,18 +2264,6 @@ The tool, called Google Calendar RAT (GCR), employs Google Calendar Events for C
         <updated>2023-11-06T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of the Treasury imposed sanctions against a 37-year-old Russian woman for taking part in the laundering of virtual currency for the country's elites and cybercriminal crews, including the Ryuk ransomware group.
 Ekaterina Zhdanova, per the department, is said to have facilitated large cross border transactions to assist Russian individuals to gain access to Western financial]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices]]></title>
-        <id>https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html</id>
-        <link href="https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html"/>
-        <updated>2023-11-04T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[An advanced strain of malware masquerading as a cryptocurrency miner has managed to fly the radar for over five years, infecting no less than one million devices around the world in the process.
-That's according to findings from Kaspersky, which has codenamed the threat StripedFly, describing it as an "intricate modular framework that supports both Linux and Windows."
-The Russian cybersecurity]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
