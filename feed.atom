@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-04T04:43:42.313Z</updated>
+    <updated>2023-12-04T05:27:47.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html"/>
+        <updated>2023-12-04T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has warned of a new wave of CACTUS ransomware attacks that leverage malvertising lures to deploy DanaBot as an initial access vector.
+The DanaBot infections led to "hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of CACTUS ransomware," the Microsoft Threat Intelligence team said in a series of posts on X (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.]]></title>
         <id>https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has warned of a new wave of CACTUS ransomware attacks that leverage malvertising lures to deploy DanaBot as an initial access vector.\nThe DanaBot infections led to \"hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of CACTUS ransomware,\" the Microsoft Threat Intelligence team said in a series of posts on X (",
+          "link": "https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html",
+          "publishedOn": "2023-12-04T04:20:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqPM-uN-FX6PpElB38EjgMR11j4OyHgTiXt5qU8H75zol0nGJQIqv3aQJCswofBKpfpkzHYBVd9eB2kZcxp2GcDixa7A3mocWoPKhBpi0aOL6kvtUfYsWo5Z_UPtKSOEDhLm-0C-mPrySFdSOxMFBtFQCCAB9HNduk4O_bNudLXWws9kR2GXTiyAW0H1b/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqPM-uN-FX6PpElB38EjgMR11j4OyHgTiXt5qU8H75zol0nGJQIqv3aQJCswofBKpfpkzHYBVd9eB2kZcxp2GcDixa7A3mocWoPKhBpi0aOL6kvtUfYsWo5Z_UPtKSOEDhLm-0C-mPrySFdSOxMFBtFQCCAB9HNduk4O_bNudLXWws9kR2GXTiyAW0H1b/s1600/ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Organizations in the Middle East, Africa, and the U.S. have been targeted by an unknown threat actor to distribute a new backdoor called Agent Racoon.\n\"This malware family is written using the .NET framework and leverages the domain name service (DNS) protocol to create a covert channel and provide different backdoor functionalities,\" Palo Alto Networks Unit 42 researcher Chema Garcia",
