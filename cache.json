@@ -2077,6 +2077,16 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-052/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-052/",
+          "publishedOn": "2023-12-04T09:17:39.000Z",
+          "wordCount": 1373,
+          "title": "CERTFR-2023-ACT-052 : Bulletin d’actualité CERTFR-2023-ACT-052 (04 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0993/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
