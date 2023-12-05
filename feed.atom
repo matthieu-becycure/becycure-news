@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T17:27:35.959Z</updated>
+    <updated>2023-12-05T17:43:27.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2416,17 +2416,6 @@ The intrusions, which took place as recently as October, have been attributed to
         <summary type="html"><![CDATA[Google is warning of multiple threat actors sharing a public proof-of-concept (PoC) exploit that leverages its Calendar service to host command-and-control (C2) infrastructure.
 The tool, called Google Calendar RAT (GCR), employs Google Calendar Events for C2 using a Gmail account. It was first published to GitHub in June 2023.
 "The script creates a 'Covert Channel' by exploiting the event]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown]]></title>
-        <id>https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html</id>
-        <link href="https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html"/>
-        <updated>2023-11-06T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of the Treasury imposed sanctions against a 37-year-old Russian woman for taking part in the laundering of virtual currency for the country's elites and cybercriminal crews, including the Ryuk ransomware group.
-Ekaterina Zhdanova, per the department, is said to have facilitated large cross border transactions to assist Russian individuals to gain access to Western financial]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
