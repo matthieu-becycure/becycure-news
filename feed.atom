@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T07:43:35.009Z</updated>
+    <updated>2023-12-05T08:30:24.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace]]></title>
+        <id>https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html</id>
+        <link href="https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html"/>
+        <updated>2023-12-05T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented threat actor has been linked to a cyber attack targeting an aerospace organization in the U.S. as part of what's suspected to be a cyber espionage mission.
+The BlackBerry Threat Research and Intelligence team is tracking the activity cluster as AeroBlade. Its origin is currently unknown and it's not clear if the attack was successful.
+"The actor used spear-phishing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html"/>
+        <updated>2023-12-05T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers.
+The tech giant attributed the intrusions to a threat actor it called Forest Blizzard (formerly Strontium), which is also widely tracked under the monikers APT28,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks]]></title>
         <id>https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html</id>

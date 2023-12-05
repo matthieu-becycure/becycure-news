@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor has been linked to a cyber attack targeting an aerospace organization in the U.S. as part of what's suspected to be a cyber espionage mission.\nThe BlackBerry Threat Research and Intelligence team is tracking the activity cluster as AeroBlade. Its origin is currently unknown and it's not clear if the attack was successful.\n\"The actor used spear-phishing",
+          "link": "https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html",
+          "publishedOn": "2023-12-05T07:55:00.000Z",
+          "wordCount": null,
+          "title": "New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEy4-aiml5Xrp2yNZ7KO7Esjd-qa-3vXhAoQaMLDuQX7mszzWfttQ91N7UjT4bXXuhuP_f1wHeFGByHhP9-7zrri7-cVDqK3GDuPkE9sdVMrXtF7JTygJJQcPERUysArGgE1T_648tQi3yupKhWoOsiyYDD0_PuDmkmHG5Co_gMaJk9O4SJVwMoRRmFVS/s1600/aero.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqEy4-aiml5Xrp2yNZ7KO7Esjd-qa-3vXhAoQaMLDuQX7mszzWfttQ91N7UjT4bXXuhuP_f1wHeFGByHhP9-7zrri7-cVDqK3GDuPkE9sdVMrXtF7JTygJJQcPERUysArGgE1T_648tQi3yupKhWoOsiyYDD0_PuDmkmHG5Co_gMaJk9O4SJVwMoRRmFVS/s1600/aero.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers.\nThe tech giant attributed the intrusions to a threat actor it called Forest Blizzard (formerly Strontium), which is also widely tracked under the monikers APT28,",
+          "link": "https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html",
+          "publishedOn": "2023-12-05T06:59:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "New research has unearthed multiple novel attacks that break Bluetooth Classic's forward secrecy and future secrecy guarantees, resulting in adversary-in-the-middle (AitM) scenarios between two already connected peers.\nThe issues, collectively named BLUFFS, impact Bluetooth Core Specification 4.2 through 5.4. They are tracked under the identifier CVE-2023-24023 (CVSS score: 6.8)",
