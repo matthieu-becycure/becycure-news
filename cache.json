@@ -2989,16 +2989,6 @@
           "wordCount": 928,
           "title": "CERTFR-2023-AVI-0916 : Vulnérabilité dans Roundcube (06 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-048/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-048/",
-          "publishedOn": "2023-11-06T09:58:41.000Z",
-          "wordCount": 1673,
-          "title": "CERTFR-2023-ACT-048 : Bulletin d’actualité CERTFR-2023-ACT-048 (06 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
