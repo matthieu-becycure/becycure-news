@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T20:24:40.029Z</updated>
+    <updated>2023-12-05T20:43:31.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2406,18 +2406,6 @@ The intrusions, which took place as recently as October, have been attributed to
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel]]></title>
-        <id>https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html</id>
-        <link href="https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html"/>
-        <updated>2023-11-06T08:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is warning of multiple threat actors sharing a public proof-of-concept (PoC) exploit that leverages its Calendar service to host command-and-control (C2) infrastructure.
-The tool, called Google Calendar RAT (GCR), employs Google Calendar Events for C2 using a Gmail account. It was first published to GitHub in June 2023.
-"The script creates a 'Covert Channel' by exploiting the event]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

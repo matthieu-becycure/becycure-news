@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwZmWXvEbbjrX7d7eFq5IbmlBrBgyneIEOaF-VmV9jy9axLyU8eArUv-FbaKyxRt3pasi9HvM-vWNhrt1QgJmbnR1Bk-_yYDbD8tkDlu5VLXnTOIaUitJMoJkTl-GjqbM-kPkwVhmamTGj3KgjaZYsvLsxhcXB90aLkMJMVWfKwX6jDoP8PZV2Ultft4SF/s1600/Image.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwZmWXvEbbjrX7d7eFq5IbmlBrBgyneIEOaF-VmV9jy9axLyU8eArUv-FbaKyxRt3pasi9HvM-vWNhrt1QgJmbnR1Bk-_yYDbD8tkDlu5VLXnTOIaUitJMoJkTl-GjqbM-kPkwVhmamTGj3KgjaZYsvLsxhcXB90aLkMJMVWfKwX6jDoP8PZV2Ultft4SF/s1600/Image.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google is warning of multiple threat actors sharing a public proof-of-concept (PoC) exploit that leverages its Calendar service to host command-and-control (C2) infrastructure.\nThe tool, called Google Calendar RAT (GCR), employs Google Calendar Events for C2 using a Gmail account. It was first published to GitHub in June 2023.\n\"The script creates a 'Covert Channel' by exploiting the event",
-          "link": "https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html",
-          "publishedOn": "2023-11-06T08:25:00.000Z",
-          "wordCount": null,
-          "title": "Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVLIzCHPGRjxtC7_Lx_ignvAdE98aK31IRPAvurrwihgcsNAw44DhfWUhF5Dyor0x1c9vhymA9vnF21ehqsCjIHYQQ8QkhClpP969G2miAKyUqB_KpFLARxZpNHuvciuSrC_0GRiMSL6QUV6sAh32Tddk1oqK3ie_6hHtXOZAOoG9xBv3lB6PXeigomuy/s1600/google.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVLIzCHPGRjxtC7_Lx_ignvAdE98aK31IRPAvurrwihgcsNAw44DhfWUhF5Dyor0x1c9vhymA9vnF21ehqsCjIHYQQ8QkhClpP969G2miAKyUqB_KpFLARxZpNHuvciuSrC_0GRiMSL6QUV6sAh32Tddk1oqK3ie_6hHtXOZAOoG9xBv3lB6PXeigomuy/s1600/google.jpg"
         }
       ]
     },
