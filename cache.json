@@ -2999,36 +2999,6 @@
           "wordCount": 1673,
           "title": "CERTFR-2023-ACT-048 : Bulletin d’actualité CERTFR-2023-ACT-048 (06 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0915/",
-          "publishedOn": "2023-11-06T09:38:10.000Z",
-          "wordCount": 1173,
-          "title": "CERTFR-2023-AVI-0915 : Multiples vulnérabilités dans les produits Qnap (06 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Roundcube Webmail. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0914/",
-          "publishedOn": "2023-11-06T09:37:27.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2023-AVI-0914 : Vulnérabilité dans Roundcube Webmail (06 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0913/",
-          "publishedOn": "2023-11-06T09:33:46.000Z",
-          "wordCount": 1029,
-          "title": "CERTFR-2023-AVI-0913 : Multiples vulnérabilités dans les produits SolarWinds (06 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
