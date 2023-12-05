@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T10:32:36.278Z</updated>
+    <updated>2023-12-05T10:43:28.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack]]></title>
+        <id>https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html</id>
+        <link href="https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html"/>
+        <updated>2023-12-05T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[New research has found that over 15,000 Go module repositories on GitHub are vulnerable to an attack called repojacking.
+"More than 9,000 repositories are vulnerable to repojacking due to GitHub username changes," Jacob Baines, chief technology officer at VulnCheck, said in a report shared with The Hacker News. "More than 6,000 repositories were vulnerable to repojacking due to account]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace]]></title>
         <id>https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html</id>
