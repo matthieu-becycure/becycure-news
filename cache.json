@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/generative-ai-security-preventing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft Copilot has been called one of the most powerful productivity tools on the planet.\nCopilot is an AI assistant that lives inside each of your Microsoft 365 apps — Word, Excel, PowerPoint, Teams, Outlook, and so on. Microsoft's dream is to take the drudgery out of daily work and let humans focus on being creative problem-solvers.\nWhat makes Copilot a different beast than ChatGPT and",
+          "link": "https://thehackernews.com/2023/12/generative-ai-security-preventing.html",
+          "publishedOn": "2023-12-05T11:29:00.000Z",
+          "wordCount": null,
+          "title": "Generative AI Security: Preventing Microsoft Copilot Data Exposure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihWOhqZKfuOgE_iNJmC7UijptAhsOPft9oGGGXBdoLo9_KNfqAcewnjgXStjNHIk6qHS_azxxfCDr_cEPDWPwlCZTjMIciWWaDJq_s9gSE1wxn7AJjZ7p91FcHXH3o0hEzjsBqBmWQsF2VHojWjbou4ifAXjGm8fSSKPcZZefKO33pb5RUhzOgiPHK3T8/s1600/copilot.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihWOhqZKfuOgE_iNJmC7UijptAhsOPft9oGGGXBdoLo9_KNfqAcewnjgXStjNHIk6qHS_azxxfCDr_cEPDWPwlCZTjMIciWWaDJq_s9gSE1wxn7AJjZ7p91FcHXH3o0hEzjsBqBmWQsF2VHojWjbou4ifAXjGm8fSSKPcZZefKO33pb5RUhzOgiPHK3T8/s1600/copilot.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "New research has found that over 15,000 Go module repositories on GitHub are vulnerable to an attack called repojacking.\n\"More than 9,000 repositories are vulnerable to repojacking due to GitHub username changes,\" Jacob Baines, chief technology officer at VulnCheck, said in a report shared with The Hacker News. \"More than 6,000 repositories were vulnerable to repojacking due to account",

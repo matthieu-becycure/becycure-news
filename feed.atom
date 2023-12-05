@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T11:26:17.446Z</updated>
+    <updated>2023-12-05T11:43:25.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Security: Preventing Microsoft Copilot Data Exposure]]></title>
+        <id>https://thehackernews.com/2023/12/generative-ai-security-preventing.html</id>
+        <link href="https://thehackernews.com/2023/12/generative-ai-security-preventing.html"/>
+        <updated>2023-12-05T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft Copilot has been called one of the most powerful productivity tools on the planet.
+Copilot is an AI assistant that lives inside each of your Microsoft 365 apps — Word, Excel, PowerPoint, Teams, Outlook, and so on. Microsoft's dream is to take the drudgery out of daily work and let humans focus on being creative problem-solvers.
+What makes Copilot a different beast than ChatGPT and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack]]></title>
         <id>https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html</id>
