@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors can take advantage of Amazon Web Services Security Token Service (AWS STS) as a way to infiltrate cloud accounts and conduct follow-on attacks.\nThe service enables threat actors to impersonate user identities and roles in cloud environments, Red Canary researchers Thomas Gardner and Cody Betsworth said in a Tuesday analysis.\nAWS STS is a web service that enables",
+          "link": "https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html",
+          "publishedOn": "2023-12-06T13:38:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoF88S-I3eBqImArhTD6hkF9v_REuOZ5Zg-LZhYjhXmEtmhBtrRPsNFUyP7Juf3X719D8qp5MkgCNi3L47TL0MkULO2dUqBCeHLhG5Ad2hp5Wm82ZdkEGnk3b5aABBkRUj_3Xn8TpJJM4lphyphenhyphenl64oTXhg4Rupkn-6kAae6f_-FaTMC3h_L1W78pR9dftg5/s1600/aws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoF88S-I3eBqImArhTD6hkF9v_REuOZ5Zg-LZhYjhXmEtmhBtrRPsNFUyP7Juf3X719D8qp5MkgCNi3L47TL0MkULO2dUqBCeHLhG5Ad2hp5Wm82ZdkEGnk3b5aABBkRUj_3Xn8TpJJM4lphyphenhyphenl64oTXhg4Rupkn-6kAae6f_-FaTMC3h_L1W78pR9dftg5/s1600/aws.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Compromising the browser is a high-return target for adversaries. Browser extensions, which are small software modules that are added to the browser and can enhance browsing experiences, have become a popular browser attack vector. This is because they are widely adopted among users and can easily turn malicious through developer actions or attacks on legitimate extensions.\nRecent incidents like",

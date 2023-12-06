@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T13:43:36.987Z</updated>
+    <updated>2023-12-06T14:28:52.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts]]></title>
+        <id>https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html</id>
+        <link href="https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html"/>
+        <updated>2023-12-06T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors can take advantage of Amazon Web Services Security Token Service (AWS STS) as a way to infiltrate cloud accounts and conduct follow-on attacks.
+The service enables threat actors to impersonate user identities and roles in cloud environments, Red Canary researchers Thomas Gardner and Cody Betsworth said in a Tuesday analysis.
+AWS STS is a web service that enables]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Report: Unveiling the Threat of Malicious Browser Extensions]]></title>
         <id>https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html</id>
