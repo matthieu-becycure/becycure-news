@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOI8Xm6bBxb9l9MHH_hC1diPihH9DO3sE95BjduEDfXeczyh0mAVhHVhAs47_vIwGOymFBCDvQTQpu-LKq-MY49CVdfcFj46lvywp_kaWGA4vnLHNLtr1JfQ5GENKSg_stXa12_YFXo-dF1eQncXalA-L_0BX7057htis4UYav7PY2_erN2y5L8HZPUKOV/s1600/featured.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOI8Xm6bBxb9l9MHH_hC1diPihH9DO3sE95BjduEDfXeczyh0mAVhHVhAs47_vIwGOymFBCDvQTQpu-LKq-MY49CVdfcFj46lvywp_kaWGA4vnLHNLtr1JfQ5GENKSg_stXa12_YFXo-dF1eQncXalA-L_0BX7057htis4UYav7PY2_erN2y5L8HZPUKOV/s1600/featured.png"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "ChatGPT: Productivity tool, great for writing poems, and… a security risk?! In this article, we show how threat actors can exploit ChatGPT, but also how defenders can use it for leveling up their game.\nChatGPT is the most swiftly growing consumer application to date. The extremely popular generative AI chatbot has the ability to generate human-like, coherent and contextually relevant responses.",
-          "link": "https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html",
-          "publishedOn": "2023-11-07T10:21:00.000Z",
-          "wordCount": null,
-          "title": "Offensive and Defensive AI: Let’s Chat(GPT) About It",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVO3lV0w_tSFAKjQVvaaRvGeRzWKKPH0UdloF6J9EFw2SDTH7EwfaiYsORJeBIFjR6XYgPPQUGNPcbeqx8Xjhxw1cSRDIgaeIV3iB1yH8gsOlU7nfajOUUTT3ZipqLD8035bk7iM1vOOvAib0YiEONgt2Wj82joTkheEmDwiaffAGjTmvVKVJkYi-bcLE/s1600/openi.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVO3lV0w_tSFAKjQVvaaRvGeRzWKKPH0UdloF6J9EFw2SDTH7EwfaiYsORJeBIFjR6XYgPPQUGNPcbeqx8Xjhxw1cSRDIgaeIV3iB1yH8gsOlU7nfajOUUTT3ZipqLD8035bk7iM1vOOvAib0YiEONgt2Wj82joTkheEmDwiaffAGjTmvVKVJkYi-bcLE/s1600/openi.jpg"
         }
       ]
     },
@@ -3008,26 +2992,6 @@
           "publishedOn": "2023-11-08T09:34:41.000Z",
           "wordCount": 936,
           "title": "CERTFR-2023-AVI-0919 : Vulnérabilité dans les produits SolarWinds (08 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/",
-          "publishedOn": "2023-11-07T09:51:47.000Z",
-          "wordCount": 995,
-          "title": "CERTFR-2023-AVI-0918 : Multiples vulnérabilités dans TrendMicro Apex One (07 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Veeam ONE. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/",
-          "publishedOn": "2023-11-07T09:51:40.000Z",
-          "wordCount": 991,
-          "title": "CERTFR-2023-AVI-0917 : Multiples vulnérabilités dans Veeam ONE (07 novembre 2023)",
           "imageUrl": null
         }
       ]

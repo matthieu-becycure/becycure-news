@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T21:43:41.360Z</updated>
+    <updated>2023-12-06T22:28:25.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2377,37 +2377,6 @@ OPSWAT's 2023 Web Application Security report reveals:
 78% have]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Offensive and Defensive AI: Let’s Chat(GPT) About It]]></title>
-        <id>https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html</id>
-        <link href="https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html"/>
-        <updated>2023-11-07T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[ChatGPT: Productivity tool, great for writing poems, and… a security risk?! In this article, we show how threat actors can exploit ChatGPT, but also how defenders can use it for leveling up their game.
-ChatGPT is the most swiftly growing consumer application to date. The extremely popular generative AI chatbot has the ability to generate human-like, coherent and contextually relevant responses.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0918 : Multiples vulnérabilités dans TrendMicro Apex One (07 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0918/"/>
-        <updated>2023-11-07T09:51:47.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans TrendMicro Apex One. Elles permettent à un attaquant de provoquer une élévation de privilèges.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0917 : Multiples vulnérabilités dans Veeam ONE (07 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0917/"/>
-        <updated>2023-11-07T09:51:40.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Veeam ONE. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
