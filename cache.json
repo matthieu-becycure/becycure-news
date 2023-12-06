@@ -2189,6 +2189,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/",
+          "publishedOn": "2023-12-06T13:57:51.000Z",
+          "wordCount": 975,
+          "title": "CERTFR-2023-AVI-1001 : Vulnérabilité dans Atlassian Confluence (06 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Progress MOVEit <span class=\"uiOutputText\" data-aura-rendered-by=\"9:485;a\" …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/",
+          "publishedOn": "2023-12-06T13:43:40.000Z",
+          "wordCount": 971,
+          "title": "CERTFR-2023-AVI-1000 : Multiples vulnérabilités dans Progress MOVEit Transfer (06 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/",
+          "publishedOn": "2023-12-06T13:34:27.000Z",
+          "wordCount": 937,
+          "title": "CERTFR-2023-AVI-0999 : Vulnérabilité dans ElasticSearch pour Hadoop (06 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/",
+          "publishedOn": "2023-12-06T11:13:15.000Z",
+          "wordCount": 975,
+          "title": "CERTFR-2023-AVI-0998 : Multiples vulnérabilités dans Google Chrome (06 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/",
+          "publishedOn": "2023-12-06T10:43:30.000Z",
+          "wordCount": 924,
+          "title": "CERTFR-2023-AVI-0997 : Vulnérabilité dans SolarWinds Serv-U (06 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.",

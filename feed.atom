@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T14:43:37.094Z</updated>
+    <updated>2023-12-06T15:26:09.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1001 : Vulnérabilité dans Atlassian Confluence (06 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/"/>
+        <updated>2023-12-06T13:57:51.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Atlassian Confluence. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1000 : Multiples vulnérabilités dans Progress MOVEit Transfer (06 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/"/>
+        <updated>2023-12-06T13:43:40.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Progress MOVEit <span class="uiOutputText" data-aura-rendered-by="9:485;a" …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts]]></title>
         <id>https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html</id>
@@ -16,6 +36,16 @@ The service enables threat actors to impersonate user identities and roles in cl
 AWS STS is a web service that enables]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0999 : Vulnérabilité dans ElasticSearch pour Hadoop (06 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/"/>
+        <updated>2023-12-06T13:34:27.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -38,6 +68,26 @@ Recent incidents like]]></summary>
 Collectively tracked as Sierra:21, the issues expose over 86,000 devices across critical sectors like energy, healthcare, waste management, retail, emergency services, and vehicle tracking to cyber threats, according]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0998 : Multiples vulnérabilités dans Google Chrome (06 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0998/"/>
+        <updated>2023-12-06T11:13:15.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-0997 : Vulnérabilité dans SolarWinds Serv-U (06 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/"/>
+        <updated>2023-12-06T10:43:30.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
