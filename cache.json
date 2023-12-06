@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/atlassian-releases-critical-software.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Atlassian has released software fixes to address four critical flaws in its software that, if successfully exploited, could result in remote code execution.\nThe list of vulnerabilities is below -\n\nCVE-2022-1471 (CVSS score: 9.8) - Deserialization vulnerability in SnakeYAML library that can lead to remote code execution in multiple products\nCVE-2023-22522 (CVSS score",
+          "link": "https://thehackernews.com/2023/12/atlassian-releases-critical-software.html",
+          "publishedOn": "2023-12-06T09:18:00.000Z",
+          "wordCount": null,
+          "title": "Atlassian Releases Critical Software Fixes to Prevent Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhgcnFuQEwAIHtJSoJHID60fhY9QLSfbL42akEoLOVYSHM7dRy1kkUMW-bz36iJs1Vz2PDWta4cTFosSDVfS-332KCKJlpKEpGWvB7wpLoSM0izu9RHYfoTkjNVa9a1a_t6RxTD0UIK1l7rtSlIOS1LFHQc24Eia84g96OM2uVDkIF-4lyPO6SZ4Ge2Aco/s1600/patch.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhgcnFuQEwAIHtJSoJHID60fhY9QLSfbL42akEoLOVYSHM7dRy1kkUMW-bz36iJs1Vz2PDWta4cTFosSDVfS-332KCKJlpKEpGWvB7wpLoSM0izu9RHYfoTkjNVa9a1a_t6RxTD0UIK1l7rtSlIOS1LFHQc24Eia84g96OM2uVDkIF-4lyPO6SZ4Ge2Aco/s1600/patch.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Chipmaker Qualcomm has released more information about three high-severity security flaws that it said came under \"limited, targeted exploitation\" back in October 2023.\nThe vulnerabilities are as follows -\n\nCVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.\nCVE-2023-33106 (CVSS score: 8.4) - Memory corruption in",
