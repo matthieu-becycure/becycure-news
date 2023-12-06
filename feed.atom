@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T05:27:48.273Z</updated>
+    <updated>2023-12-06T05:43:46.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html</id>
+        <link href="https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html"/>
+        <updated>2023-12-06T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Chipmaker Qualcomm has released more information about three high-severity security flaws that it said came under "limited, targeted exploitation" back in October 2023.
+The vulnerabilities are as follows -
+
+CVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.
+CVE-2023-33106 (CVSS score: 8.4) - Memory corruption in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack]]></title>
         <id>https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html</id>

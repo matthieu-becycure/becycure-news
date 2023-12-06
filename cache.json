@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chipmaker Qualcomm has released more information about three high-severity security flaws that it said came under \"limited, targeted exploitation\" back in October 2023.\nThe vulnerabilities are as follows -\n\nCVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.\nCVE-2023-33106 (CVSS score: 8.4) - Memory corruption in",
+          "link": "https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html",
+          "publishedOn": "2023-12-06T05:23:00.000Z",
+          "wordCount": null,
+          "title": "Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOML9jxyoADXx3l_PRPFxTA4UlX1cX5uP5XpRBx_IxeJAY9q2hr7dQd8lB4rqvkYqJOL_-UKBlYuF5_Rs7KUeyIBbjdH5RavxBDKDHlOanxdwljOjWiVgBZzIq7RjlYUZ7HRz6h6MwiG-TCIvh3TWfUc_-HM-JUMf8qslmreAP5Z6Hrei6LJ_S20-fzu_k/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOML9jxyoADXx3l_PRPFxTA4UlX1cX5uP5XpRBx_IxeJAY9q2hr7dQd8lB4rqvkYqJOL_-UKBlYuF5_Rs7KUeyIBbjdH5RavxBDKDHlOanxdwljOjWiVgBZzIq7RjlYUZ7HRz6h6MwiG-TCIvh3TWfUc_-HM-JUMf8qslmreAP5Z6Hrei6LJ_S20-fzu_k/s1600/android.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new \"post-exploitation tampering technique\" can be abused by malicious actors to visually deceive a target into believing that their Apple iPhone is running in Lockdown Mode when it's actually not and carry out covert attacks.\nThe novel, detailed by Jamf Threat Labs in a report shared with The Hacker News, \"shows that if a hacker has already infiltrated your device, they can cause",
