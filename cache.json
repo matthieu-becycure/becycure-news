@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPJEY3Yoh2KcphsZU8ge87I4lEtDV40QSUf6SiguWOgjQgJl3evknt5DNV6ma8M0tqWigY-FZOEz5fRDhnXPoSBADNrmXu9Ck3Kn5aokBGIOoCrQtuEVkgidpz-j123c8zqqaEnu-OvLK9spG6u-mY3oxFyFZ8-U_RVHkUhBotlmL2lg0nljOxiz45AND/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRPJEY3Yoh2KcphsZU8ge87I4lEtDV40QSUf6SiguWOgjQgJl3evknt5DNV6ma8M0tqWigY-FZOEz5fRDhnXPoSBADNrmXu9Ck3Kn5aokBGIOoCrQtuEVkgidpz-j123c8zqqaEnu-OvLK9spG6u-mY3oxFyFZ8-U_RVHkUhBotlmL2lg0nljOxiz45AND/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Veeam has released security updates to address four flaws in its ONE IT monitoring and analytics platform, two of which are rated critical in severity.\nThe list of vulnerabilities is as follows -\n\nCVE-2023-38547 (CVSS score: 9.9) - An unspecified flaw that can be leveraged by an unauthenticated user to gain information about the SQL server connection Veeam ONE uses to access its configuration",
-          "link": "https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html",
-          "publishedOn": "2023-11-07T05:08:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmti-uIwjWPuEWZWV9Bms3cMKr2_JN7vr2r7oIrGNu2r0lOUd_HrRPYeV-08rm1TUZGlUOVVJw_bcDK3DUQN89uCSa_uyJfF04qOSUYJWwLoZZCWxCq3ay-xqPQWGoaJ8bnPCnCg9ej-UfJu6PCHWFUG64EjgA6omsZxGzi8hA3QEvzHoOdzn4RkOOrdA/s1600/veeam.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmti-uIwjWPuEWZWV9Bms3cMKr2_JN7vr2r7oIrGNu2r0lOUd_HrRPYeV-08rm1TUZGlUOVVJw_bcDK3DUQN89uCSa_uyJfF04qOSUYJWwLoZZCWxCq3ay-xqPQWGoaJ8bnPCnCg9ej-UfJu6PCHWFUG64EjgA6omsZxGzi8hA3QEvzHoOdzn4RkOOrdA/s1600/veeam.jpg"
         }
       ]
     },

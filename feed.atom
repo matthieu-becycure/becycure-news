@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T16:46:21.404Z</updated>
+    <updated>2023-12-06T17:25:36.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2429,19 +2429,6 @@ Enterprise security firm SEQRITE described the campaign as multi-platform, with 
         <summary type="html"><![CDATA[Multiple ransomware groups have begun to actively exploit recently disclosed flaws in Atlassian Confluence and Apache ActiveMQ.
 Cybersecurity firm Rapid7 said it observed the exploitation of CVE-2023-22518 and CVE-2023-22515 in multiple customer environments, some of which have been leveraged for the deployment of Cerber (aka C3RB3R) ransomware.
 Both vulnerabilities are critical, allowing threat]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now]]></title>
-        <id>https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html</id>
-        <link href="https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html"/>
-        <updated>2023-11-07T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Veeam has released security updates to address four flaws in its ONE IT monitoring and analytics platform, two of which are rated critical in severity.
-The list of vulnerabilities is as follows -
-
-CVE-2023-38547 (CVSS score: 9.9) - An unspecified flaw that can be leveraged by an unauthenticated user to gain information about the SQL server connection Veeam ONE uses to access its configuration]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
