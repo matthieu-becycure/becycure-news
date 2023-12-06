@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T18:43:35.330Z</updated>
+    <updated>2023-12-06T19:16:59.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2417,18 +2417,6 @@ ChatGPT is the most swiftly growing consumer application to date. The extremely 
         <updated>2023-11-07T08:59:00.000Z</updated>
         <summary type="html"><![CDATA[The Pakistan-linked threat actor known as SideCopy has been observed leveraging the recent WinRAR security vulnerability in its attacks targeting Indian government entities to deliver various remote access trojans such as AllaKore RAT, Ares RAT, and DRat.
 Enterprise security firm SEQRITE described the campaign as multi-platform, with the attacks also designed to infiltrate Linux systems with a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws]]></title>
-        <id>https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html</id>
-        <link href="https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html"/>
-        <updated>2023-11-07T07:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple ransomware groups have begun to actively exploit recently disclosed flaws in Atlassian Confluence and Apache ActiveMQ.
-Cybersecurity firm Rapid7 said it observed the exploitation of CVE-2023-22518 and CVE-2023-22515 in multiple customer environments, some of which have been leveraged for the deployment of Cerber (aka C3RB3R) ransomware.
-Both vulnerabilities are critical, allowing threat]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
