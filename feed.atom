@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T20:43:52.448Z</updated>
+    <updated>2023-12-06T21:19:18.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2408,17 +2408,6 @@ ChatGPT is the most swiftly growing consumer application to date. The extremely 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Veeam ONE. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities]]></title>
-        <id>https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html</id>
-        <link href="https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html"/>
-        <updated>2023-11-07T08:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The Pakistan-linked threat actor known as SideCopy has been observed leveraging the recent WinRAR security vulnerability in its attacks targeting Indian government entities to deliver various remote access trojans such as AllaKore RAT, Ares RAT, and DRat.
-Enterprise security firm SEQRITE described the campaign as multi-platform, with the attacks also designed to infiltrate Linux systems with a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
