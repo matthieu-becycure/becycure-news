@@ -2068,38 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmti-uIwjWPuEWZWV9Bms3cMKr2_JN7vr2r7oIrGNu2r0lOUd_HrRPYeV-08rm1TUZGlUOVVJw_bcDK3DUQN89uCSa_uyJfF04qOSUYJWwLoZZCWxCq3ay-xqPQWGoaJ8bnPCnCg9ej-UfJu6PCHWFUG64EjgA6omsZxGzi8hA3QEvzHoOdzn4RkOOrdA/s1600/veeam.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmti-uIwjWPuEWZWV9Bms3cMKr2_JN7vr2r7oIrGNu2r0lOUd_HrRPYeV-08rm1TUZGlUOVVJw_bcDK3DUQN89uCSa_uyJfF04qOSUYJWwLoZZCWxCq3ay-xqPQWGoaJ8bnPCnCg9ej-UfJu6PCHWFUG64EjgA6omsZxGzi8hA3QEvzHoOdzn4RkOOrdA/s1600/veeam.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An updated version of an information stealer malware known as Jupyter has resurfaced with \"simple yet impactful changes\" that aim to stealthily establish a persistent foothold on compromised systems.\n\"The team has discovered new waves of Jupyter Infostealer attacks which leverage PowerShell command modifications and signatures of private keys in attempts to pass off the malware as a legitimately",
-          "link": "https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html",
-          "publishedOn": "2023-11-06T17:23:00.000Z",
-          "wordCount": null,
-          "title": "New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4Y-P7cX8HIcgdpdTKwut3AQNAVqzkBGQYly61_D0KgmQcVfwCIljQh1tHa6q-HaSQIGgbb1fuYlW9OTwv3j_FnCCS539G6oi9VBVf_LVCYE9wwFCWlRjQzpT9vD9KTcIxUasH7LZpP_RpYYJSZJ-b44m_9dBOU3e_iL6LZ-iv9dFy7tUN8NQ9Bz6mQDy/s1600/infostealer.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu4Y-P7cX8HIcgdpdTKwut3AQNAVqzkBGQYly61_D0KgmQcVfwCIljQh1tHa6q-HaSQIGgbb1fuYlW9OTwv3j_FnCCS539G6oi9VBVf_LVCYE9wwFCWlRjQzpT9vD9KTcIxUasH7LZpP_RpYYJSZJ-b44m_9dBOU3e_iL6LZ-iv9dFy7tUN8NQ9Bz6mQDy/s1600/infostealer.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "QNAP has released security updates to address two critical security flaws impacting its operating system that could result in arbitrary code execution.\nTracked as CVE-2023-23368 (CVSS score: 9.8), the vulnerability is described as a command injection bug affecting QTS, QuTS hero, and QuTScloud.\n\"If exploited, the vulnerability could allow remote attackers to execute commands via a network,\" the",
-          "link": "https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html",
-          "publishedOn": "2023-11-06T16:55:00.000Z",
-          "wordCount": null,
-          "title": "QNAP Releases Patch for 2 Critical Flaws Threatening Your NAS Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivN3J97RJbZRiPslbAmbscamZ3AN1HAVrY3gcoqXyOiosoa5QqXA29_Qjjh3YQDfoX7P-pwaRmrFIqQWytBUS5Am_vddpQrPpPkO8tSwZMKYGOegKRYSfdcIYd0anIPQsXQLPWx9yT9izJP-y9Gyj_nj9DUFysjMR0eb8R1Voae91SsPUWMwWDD-PtKDZM/s1600/data.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivN3J97RJbZRiPslbAmbscamZ3AN1HAVrY3gcoqXyOiosoa5QqXA29_Qjjh3YQDfoX7P-pwaRmrFIqQWytBUS5Am_vddpQrPpPkO8tSwZMKYGOegKRYSfdcIYd0anIPQsXQLPWx9yT9izJP-y9Gyj_nj9DUFysjMR0eb8R1Voae91SsPUWMwWDD-PtKDZM/s1600/data.jpg"
         }
       ]
     },
