@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-05T23:43:48.563Z</updated>
+    <updated>2023-12-06T02:17:08.303Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2344,17 +2344,6 @@ Tracked as CVE-2023-23368 (CVSS score: 9.8), the vulnerability is described as
         <summary type="html"><![CDATA[[A REMPLIR - AUCUNE CVE TROUVÉE] Une vulnérabilité a été découverte dans les produits Roundcube. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses]]></title>
-        <id>https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html</id>
-        <link href="https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html"/>
-        <updated>2023-11-06T14:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new dropper-as-a-service (DaaS) for Android called SecuriDropper that bypasses new security restrictions imposed by Google and delivers the malware.
-Dropper malware on Android is designed to function as a conduit to install a payload on a compromised device, making it a lucrative business model for threat actors, who can advertise the capabilities]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
