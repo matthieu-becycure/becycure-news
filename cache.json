@@ -3055,16 +3055,6 @@
           "wordCount": 950,
           "title": "CERTFR-2023-AVI-0920 : Vulnérabilité dans OpenSSL (08 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits SolarWinds. Elle permet à un attaquant une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/",
-          "publishedOn": "2023-11-08T09:34:41.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2023-AVI-0919 : Vulnérabilité dans les produits SolarWinds (08 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }

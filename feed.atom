@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-07T21:27:53.057Z</updated>
+    <updated>2023-12-07T21:43:29.320Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2424,16 +2424,6 @@ ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sa
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/"/>
         <updated>2023-11-08T09:47:45.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0919 : Vulnérabilité dans les produits SolarWinds (08 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0919/"/>
-        <updated>2023-11-08T09:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits SolarWinds. Elle permet à un attaquant une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
