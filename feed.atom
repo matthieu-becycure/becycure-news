@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-07T10:43:54.757Z</updated>
+    <updated>2023-12-07T11:18:32.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building a Robust Threat Intelligence with Wazuh]]></title>
+        <id>https://thehackernews.com/2023/12/building-robust-threat-intelligence.html</id>
+        <link href="https://thehackernews.com/2023/12/building-robust-threat-intelligence.html"/>
+        <updated>2023-12-07T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat intelligence refers to gathering, processing, and analyzing cyber threats, along with proactive defensive measures aimed at strengthening security. It enables organizations to gain a comprehensive insight into historical, present, and anticipated threats, providing context about the constantly evolving threat landscape.
+Importance of threat intelligence in the cybersecurity ecosystem]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Governments May Spy on You by Requesting Push Notifications from Apple and Google]]></title>
+        <id>https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html</id>
+        <link href="https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html"/>
+        <updated>2023-12-07T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Unspecified governments have demanded mobile push notification records from Apple and Google users to pursue people of interest, according to U.S. Senator Ron Wyden.
+"Push notifications are alerts sent by phone apps to users' smartphones," Wyden said.
+"These alerts pass through a digital post office run by the phone operating system provider -- overwhelmingly Apple or Google. Because of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Stealthy 'Krasue' Linux Trojan Targeting Telecom Firms in Thailand]]></title>
         <id>https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html</id>
