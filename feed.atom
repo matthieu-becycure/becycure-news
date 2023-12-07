@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-07T20:43:40.828Z</updated>
+    <updated>2023-12-07T21:19:15.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2436,16 +2436,6 @@ ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sa
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits SolarWinds. Elle permet à un attaquant une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Kickstarting Your SaaS Security Strategy & Program]]></title>
-        <id>https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html</id>
-        <link href="https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html"/>
-        <updated>2023-11-08T09:18:00.000Z</updated>
-        <summary type="html"><![CDATA[SaaS applications make up 70% of total company software usage, and as businesses increase their reliance on SaaS apps, they also increase their reliance on those applications being secure. These SaaS apps store an incredibly large volume of data so safeguarding the organization's SaaS app stack and data within is paramount. Yet, the path to implementing an effective SaaS security program is not]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
