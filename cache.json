@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as COLDRIVER has continued to engage in credential theft activities against entities that are of strategic interests to Russia while simultaneously improving its detection evasion capabilities.\nThe Microsoft Threat Intelligence team is tracking under the cluster as Star Blizzard (formerly SEABORGIUM). It's also called Blue Callisto, BlueCharlie (or TAG-53),",
+          "link": "https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html",
+          "publishedOn": "2023-12-07T14:36:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of COLDRIVER's Evolving Evading and Credential-Stealing Tactics",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwgc0uVLH-nZmauBTpf0mp-8ye7-y3xD-DxZAEU7ODeVGBi54vcOHeCLX2AvFbXvaw3m07IzB1CpsCLAlH-F_d0fSsGLpxEdc3TE5rSCWki0YQUIKZCrUr1uOkfBxb-vXTz_lwMaNbtaSOKVKPMR3_wJtonJAkNE6hLFKJyVyEH4LxWBGxzCqm4ydMp0/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwgc0uVLH-nZmauBTpf0mp-8ye7-y3xD-DxZAEU7ODeVGBi54vcOHeCLX2AvFbXvaw3m07IzB1CpsCLAlH-F_d0fSsGLpxEdc3TE5rSCWki0YQUIKZCrUr1uOkfBxb-vXTz_lwMaNbtaSOKVKPMR3_wJtonJAkNE6hLFKJyVyEH4LxWBGxzCqm4ydMp0/s1600/hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A critical Bluetooth security flaw could be exploited by threat actors to take control of Android, Linux, macOS and iOS devices.\nTracked as CVE-2023-45866, the issue relates to a case of authentication bypass that enables attackers to connect to susceptible devices and inject keystrokes to achieve code execution as the victim.\n\"Multiple Bluetooth stacks have authentication bypass",
@@ -2172,6 +2188,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/",
+          "publishedOn": "2023-12-07T11:37:14.000Z",
+          "wordCount": 940,
+          "title": "CERTFR-2023-AVI-1005 : Vulnérabilité dans Apache Struts 2 (07 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/",
+          "publishedOn": "2023-12-07T09:51:37.000Z",
+          "wordCount": 949,
+          "title": "CERTFR-2023-AVI-1004 : Multiples vulnérabilités dans Nagios XI (07 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/",
+          "publishedOn": "2023-12-07T09:46:40.000Z",
+          "wordCount": 921,
+          "title": "CERTFR-2023-AVI-1003 : Vulnérabilité dans WordPress (07 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/",
+          "publishedOn": "2023-12-07T09:41:35.000Z",
+          "wordCount": 925,
+          "title": "CERTFR-2023-AVI-1002 : Vulnérabilité dans MISP (07 décembre 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1001/",
           "author": null,
