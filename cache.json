@@ -3025,36 +3025,6 @@
           "wordCount": 958,
           "title": "CERTFR-2023-AVI-0923 : Vulnérabilité dans Palo Alto Networks Cortex XSOAR (09 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans IBM AIX. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0922/",
-          "publishedOn": "2023-11-08T10:00:55.000Z",
-          "wordCount": 949,
-          "title": "CERTFR-2023-AVI-0922 : Multiples vulnérabilités dans IBM AIX (08 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0921/",
-          "publishedOn": "2023-11-08T10:00:02.000Z",
-          "wordCount": 939,
-          "title": "CERTFR-2023-AVI-0921 : Vulnérabilité dans Google Chrome (08 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/",
-          "author": null,
-          "description": "Une vulnérabilités a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0920/",
-          "publishedOn": "2023-11-08T09:47:45.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2023-AVI-0920 : Vulnérabilité dans OpenSSL (08 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
