@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-06T23:43:29.518Z</updated>
+    <updated>2023-12-07T02:17:26.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2337,44 +2337,6 @@ ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sa
         <updated>2023-11-08T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have unmasked a prolific threat actor known as farnetwork, who has been linked to five different ransomware-as-a-service (RaaS) programs over the past four years in various capacities.
 Singapore-headquartered Group-IB, which attempted to infiltrate a private RaaS program that uses the Nokoyawa ransomware strain, said it underwent a "job interview" process with the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware]]></title>
-        <id>https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html</id>
-        <link href="https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html"/>
-        <updated>2023-11-07T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korea-linked nation-state group called BlueNoroff has been attributed to a previously undocumented macOS malware strain dubbed ObjCShellz.
-Jamf Threat Labs, which disclosed details of the malware, said it's used as part of the RustBucket malware campaign, which came to light earlier this year.
-"Based on previous attacks performed by BlueNoroff, we suspect that this malware was a late]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New GootLoader Malware Variant Evades Detection and Spreads Rapidly]]></title>
-        <id>https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html</id>
-        <link href="https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html"/>
-        <updated>2023-11-07T12:28:00.000Z</updated>
-        <summary type="html"><![CDATA[A new variant of the GootLoader malware called GootBot has been found to facilitate lateral movement on compromised systems and evade detection.
-"The GootLoader group's introduction of their own custom bot into the late stages of their attack chain is an attempt to avoid detections when using off-the-shelf tools for C2 such as CobaltStrike or RDP," IBM X-Force researchers Golo Mühr and Ole]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Confidence in File Upload Security is Alarmingly Low. Why?]]></title>
-        <id>https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html</id>
-        <link href="https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html"/>
-        <updated>2023-11-07T11:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Numerous industries—including technology, financial services, energy, healthcare, and government—are rushing to incorporate cloud-based and containerized web applications. 
-The benefits are undeniable; however, this shift presents new security challenges. 
-OPSWAT's 2023 Web Application Security report reveals:
-
-75% of organizations have modernized their infrastructure this year.
-78% have]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

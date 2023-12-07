@@ -2068,54 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVPnJrIAyKbF3-_r-LS3IiN7W2yG_SoZRe_TY9ennkHU1cmC7nRWxziZEeXJcGUuPLMq-tLQUiyuUXEi_UlJElviC9z8AXTcn79uqWMmhyphenhyphenFlithyphenhyphenfdSZWASmGzvxVLreOkNR9aiJL_3oyddb5g9-ULGpvcXFbG5dd8zo5lvuwYM3elu6fTskRjecpQ68c_/s1600/profile.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVPnJrIAyKbF3-_r-LS3IiN7W2yG_SoZRe_TY9ennkHU1cmC7nRWxziZEeXJcGUuPLMq-tLQUiyuUXEi_UlJElviC9z8AXTcn79uqWMmhyphenhyphenFlithyphenhyphenfdSZWASmGzvxVLreOkNR9aiJL_3oyddb5g9-ULGpvcXFbG5dd8zo5lvuwYM3elu6fTskRjecpQ68c_/s1600/profile.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The North Korea-linked nation-state group called BlueNoroff has been attributed to a previously undocumented macOS malware strain dubbed ObjCShellz.\nJamf Threat Labs, which disclosed details of the malware, said it's used as part of the RustBucket malware campaign, which came to light earlier this year.\n\"Based on previous attacks performed by BlueNoroff, we suspect that this malware was a late",
-          "link": "https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html",
-          "publishedOn": "2023-11-07T13:58:00.000Z",
-          "wordCount": null,
-          "title": "N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcLfo0Is9DugbeB9KuhmoU-mr9vymkQSwLdRBZUqtGedersdmXNu9IJb19KHz4_te5fnu-NwxRU1I68e9gpp-s6ERAj_WklxxJLNzV-nD1eIiSCj1o9UUjPFHTi1WKduC_FlSxzZha44GdDRp4cN5PDVkw30lkIUnD42sqGrVomP53j0Pz9bNQBHtxlglx/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcLfo0Is9DugbeB9KuhmoU-mr9vymkQSwLdRBZUqtGedersdmXNu9IJb19KHz4_te5fnu-NwxRU1I68e9gpp-s6ERAj_WklxxJLNzV-nD1eIiSCj1o9UUjPFHTi1WKduC_FlSxzZha44GdDRp4cN5PDVkw30lkIUnD42sqGrVomP53j0Pz9bNQBHtxlglx/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new variant of the GootLoader malware called GootBot has been found to facilitate lateral movement on compromised systems and evade detection.\n\"The GootLoader group's introduction of their own custom bot into the late stages of their attack chain is an attempt to avoid detections when using off-the-shelf tools for C2 such as CobaltStrike or RDP,\" IBM X-Force researchers Golo Mühr and Ole",
-          "link": "https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html",
-          "publishedOn": "2023-11-07T12:28:00.000Z",
-          "wordCount": null,
-          "title": "New GootLoader Malware Variant Evades Detection and Spreads Rapidly",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN6ayIan0x6HDKESNqXUV3T5VheE6pwASWdWCWr2QRzSb6tLYUpYQOjtBqtcd4cltx1pddm34Ee2qYAAec97b4ft5v9DZCE79spXHY6_2TkdP2mmpgTxyr5rCLmlglYVJU8hS2Rkq5D3q20SAwMD5HHeQtLI2iH6kksL7uX0yYpPLXKm_83V75sBJBYWbM/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN6ayIan0x6HDKESNqXUV3T5VheE6pwASWdWCWr2QRzSb6tLYUpYQOjtBqtcd4cltx1pddm34Ee2qYAAec97b4ft5v9DZCE79spXHY6_2TkdP2mmpgTxyr5rCLmlglYVJU8hS2Rkq5D3q20SAwMD5HHeQtLI2iH6kksL7uX0yYpPLXKm_83V75sBJBYWbM/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Numerous industries—including technology, financial services, energy, healthcare, and government—are rushing to incorporate cloud-based and containerized web applications. \nThe benefits are undeniable; however, this shift presents new security challenges. \nOPSWAT's 2023 Web Application Security report reveals:\n\n75% of organizations have modernized their infrastructure this year.\n78% have",
-          "link": "https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html",
-          "publishedOn": "2023-11-07T11:56:00.000Z",
-          "wordCount": null,
-          "title": "Confidence in File Upload Security is Alarmingly Low. Why?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOI8Xm6bBxb9l9MHH_hC1diPihH9DO3sE95BjduEDfXeczyh0mAVhHVhAs47_vIwGOymFBCDvQTQpu-LKq-MY49CVdfcFj46lvywp_kaWGA4vnLHNLtr1JfQ5GENKSg_stXa12_YFXo-dF1eQncXalA-L_0BX7057htis4UYav7PY2_erN2y5L8HZPUKOV/s1600/featured.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOI8Xm6bBxb9l9MHH_hC1diPihH9DO3sE95BjduEDfXeczyh0mAVhHVhAs47_vIwGOymFBCDvQTQpu-LKq-MY49CVdfcFj46lvywp_kaWGA4vnLHNLtr1JfQ5GENKSg_stXa12_YFXo-dF1eQncXalA-L_0BX7057htis4UYav7PY2_erN2y5L8HZPUKOV/s1600/featured.png"
         }
       ]
     },
