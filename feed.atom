@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-07T19:43:47.490Z</updated>
+    <updated>2023-12-07T20:24:48.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2444,17 +2444,6 @@ ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sa
         <link href="https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html"/>
         <updated>2023-11-08T09:18:00.000Z</updated>
         <summary type="html"><![CDATA[SaaS applications make up 70% of total company software usage, and as businesses increase their reliance on SaaS apps, they also increase their reliance on those applications being secure. These SaaS apps store an incredibly large volume of data so safeguarding the organization's SaaS app stack and data within is paramount. Yet, the path to implementing an effective SaaS security program is not]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Expose Farnetwork's Ransomware-as-a-Service Business Model]]></title>
-        <id>https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html</id>
-        <link href="https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html"/>
-        <updated>2023-11-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have unmasked a prolific threat actor known as farnetwork, who has been linked to five different ransomware-as-a-service (RaaS) programs over the past four years in various capacities.
-Singapore-headquartered Group-IB, which attempted to infiltrate a private RaaS program that uses the Nokoyawa ransomware strain, said it underwent a "job interview" process with the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
