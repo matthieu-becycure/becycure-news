@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-08T22:43:33.769Z</updated>
+    <updated>2023-12-08T23:10:18.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2410,28 +2410,6 @@ The issue, tracked as CVE-2023-47246, concerns a path traversal]]></summary>
         <updated>2023-11-09T13:26:00.000Z</updated>
         <summary type="html"><![CDATA[A new malvertising campaign has been found to employ fake sites that masquerade as legitimate Windows news portal to propagate a malicious installer for a popular system profiling tool called CPU-Z.
 "This incident is a part of a larger malvertising campaign that targets other utilities like Notepad++, Citrix, and VNC Viewer as seen in its infrastructure (domain names) and cloaking templates used]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules]]></title>
-        <id>https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html</id>
-        <link href="https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html"/>
-        <updated>2023-11-09T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[While intended for convenience and efficient communication, email auto-forwarding rules can inadvertently lead to the unauthorized dissemination of sensitive information to external entities, putting confidential data at risk of exposure to unauthorized parties. Wing Security (Wing), a SaaS security company, announced yesterday that their SaaS shadow IT discovery methods now include a solution]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel]]></title>
-        <id>https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html</id>
-        <link href="https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html"/>
-        <updated>2023-11-09T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Iranian nation-state actors have been observed using a previously undocumented command-and-control (C2) framework called MuddyC2Go as part of attacks targeting Israel.
-"The framework's web component is written in the Go programming language," Deep Instinct security researcher Simon Kenin said in a technical report published Wednesday.
-The tool has been attributed to MuddyWater, an Iranian]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
