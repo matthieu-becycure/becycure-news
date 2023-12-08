@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new Trojan-Proxy malware.\n\"Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit",
+          "link": "https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html",
+          "publishedOn": "2023-12-08T09:52:00.000Z",
+          "wordCount": null,
+          "title": "Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjadPt_So-Gi3FTtQ1Gn4CiA1xmADZYhioIaXniCQrEIsUvYugGTJzjgXkEcHMTUI3bYLKibGKCDa3c6ZdXl4Td2LQZOigJvStDUcXvXeRNl4G2mTP6vK6nlCisjIp0CP3UBXdhfT1pgI38lgJFwCP4RcGrF1A8WRPUyc6fPeE8-BgzQU1XsUoWYGFVH_Hr/s1600/malware-code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjadPt_So-Gi3FTtQ1Gn4CiA1xmADZYhioIaXniCQrEIsUvYugGTJzjgXkEcHMTUI3bYLKibGKCDa3c6ZdXl4Td2LQZOigJvStDUcXvXeRNl4G2mTP6vK6nlCisjIp0CP3UBXdhfT1pgI38lgJFwCP4RcGrF1A8WRPUyc6fPeE8-BgzQU1XsUoWYGFVH_Hr/s1600/malware-code.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "WordPress has released version 6.4.2 with a patch for a critical security flaw that could be exploited by threat actors by combining it with another bug to execute arbitrary PHP code on vulnerable sites.\n\"A remote code execution vulnerability that is not directly exploitable in core; however, the security team feels that there is a potential for high severity when combined with some plugins,",

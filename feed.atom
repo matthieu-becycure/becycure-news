@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-08T10:31:02.061Z</updated>
+    <updated>2023-12-08T10:43:24.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software]]></title>
+        <id>https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html</id>
+        <link href="https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html"/>
+        <updated>2023-12-08T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new Trojan-Proxy malware.
+"Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability]]></title>
         <id>https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html</id>
