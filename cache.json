@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean threat actor known as Kimsuky has been observed targeting research institutes in South Korea as part of a spear-phishing campaign with the ultimate goal of distributing backdoors on compromised systems.\n\"The threat actor ultimately uses a backdoor to steal information and execute commands,\" the AhnLab Security Emergency Response Center (ASEC) said in an",
+          "link": "https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html",
+          "publishedOn": "2023-12-08T13:33:00.000Z",
+          "wordCount": null,
+          "title": "N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifD26XZT8DlNHI9oy5JOxz7h7LZ9nF55kuIoH6LaYjIRtqdzWMVUyqD5n9mGFn9WCvxAwbRjf-QKnoUbkGqTbfThVsBRhC82cY0X87YKiTZY4P5MNuC-qXCmctxhEf435iOzCwpSE46jucBgCFoYUtA7MKhGlBY69MpwmcPgCx4_ECuge0W4k1MTN9kT9/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifD26XZT8DlNHI9oy5JOxz7h7LZ9nF55kuIoH6LaYjIRtqdzWMVUyqD5n9mGFn9WCvxAwbRjf-QKnoUbkGqTbfThVsBRhC82cY0X87YKiTZY4P5MNuC-qXCmctxhEf435iOzCwpSE46jucBgCFoYUtA7MKhGlBY69MpwmcPgCx4_ECuge0W4k1MTN9kT9/s1600/hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ransomware attacks have become a significant and pervasive threat in the ever-evolving realm of cybersecurity. Among the various iterations of ransomware, one trend that has gained prominence is Ransomware-as-a-Service (RaaS). This alarming development has transformed the cybercrime landscape, enabling individuals with limited technical expertise to carry out devastating attacks.",
@@ -2156,6 +2172,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/",
+          "publishedOn": "2023-12-08T12:49:11.000Z",
+          "wordCount": 1403,
+          "title": "CERTFR-2023-AVI-1009 : Multiples vulnérabilités dans le noyau Linux de SUSE (08 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1008/",
+          "publishedOn": "2023-12-08T12:48:17.000Z",
+          "wordCount": 1136,
+          "title": "CERTFR-2023-AVI-1008 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (08 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1007/",
+          "publishedOn": "2023-12-08T12:19:42.000Z",
+          "wordCount": 1237,
+          "title": "CERTFR-2023-AVI-1007 : Multiples vulnérabilités dans les produits IBM (08 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges et une atteinte à la confidentialité des données .",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/",
+          "publishedOn": "2023-12-08T10:05:09.000Z",
+          "wordCount": 1061,
+          "title": "CERTFR-2023-AVI-1006 : Multiples vulnérabilités dans Microsoft Edge (08 décembre 2023)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/",
           "author": null,
