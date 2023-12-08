@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "WordPress has released version 6.4.2 with a patch for a critical security flaw that could be exploited by threat actors by combining it with another bug to execute arbitrary PHP code on vulnerable sites.\n\"A remote code execution vulnerability that is not directly exploitable in core; however, the security team feels that there is a potential for high severity when combined with some plugins,",
+          "link": "https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html",
+          "publishedOn": "2023-12-08T09:23:00.000Z",
+          "wordCount": null,
+          "title": "WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_dGTi6f6cAFI1NjW5Jxtj4rjCoingwtF7HPIBR3fuyj5MrRVVuJzGX8D_rA0U8u25rpPmmZVWmRG94-nF7ePVe7dP2GRMstKkgABAUNRFVkCmFDcEBDg44TjpDzQWiahtUngYKlqz4IQeRBvk3L_Gz1oL4eOeIW0aZ61c52ysb_BpreaST5i2CidRe1i/s1600/wordpress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV_dGTi6f6cAFI1NjW5Jxtj4rjCoingwtF7HPIBR3fuyj5MrRVVuJzGX8D_rA0U8u25rpPmmZVWmRG94-nF7ePVe7dP2GRMstKkgABAUNRFVkCmFDcEBDg44TjpDzQWiahtUngYKlqz4IQeRBvk3L_Gz1oL4eOeIW0aZ61c52ysb_BpreaST5i2CidRe1i/s1600/wordpress.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Russian founder of the now-defunct Bitzlato cryptocurrency exchange has pleaded guilty, nearly 11 months after he was arrested in Miami earlier this year.\nAnatoly Legkodymov (aka Anatolii Legkodymov, Gandalf, and Tolik), according to the U.S. Justice Department, admitted to operating an unlicensed money-transmitting business that enabled other criminal actors to launder their",

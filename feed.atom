@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-08T09:22:31.950Z</updated>
+    <updated>2023-12-08T09:43:36.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability]]></title>
+        <id>https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html</id>
+        <link href="https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html"/>
+        <updated>2023-12-08T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress has released version 6.4.2 with a patch for a critical security flaw that could be exploited by threat actors by combining it with another bug to execute arbitrary PHP code on vulnerable sites.
+"A remote code execution vulnerability that is not directly exploitable in core; however, the security team feels that there is a potential for high severity when combined with some plugins,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme]]></title>
         <id>https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html</id>
