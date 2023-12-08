@@ -3071,16 +3071,6 @@
           "wordCount": 1018,
           "title": "CERTFR-2023-AVI-0924 : Multiples vulnérabilités dans PostgreSQL (10 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Palo Alto Networks Cortex XSOAR. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0923/",
-          "publishedOn": "2023-11-09T09:34:31.000Z",
-          "wordCount": 958,
-          "title": "CERTFR-2023-AVI-0923 : Vulnérabilité dans Palo Alto Networks Cortex XSOAR (09 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
