@@ -2084,22 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2gd3rp-2VLlxVCqOFD3QAblwGpzZLr5PCgjigmgTeLIgMQ7DjgeK1EMIfMhL9Bum5s4QAMrfU7HYwKlGbe8zh0pQw_uwBCv88ZdxXMb37psS2dI85dYYnvM6WZ6SUuG36Njny1uBZVnBD0xh0O_NXZ_iUTqTRZws0PyuCOEYecle5pBiJws7WT4DS9xs/s1600/server.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2gd3rp-2VLlxVCqOFD3QAblwGpzZLr5PCgjigmgTeLIgMQ7DjgeK1EMIfMhL9Bum5s4QAMrfU7HYwKlGbe8zh0pQw_uwBCv88ZdxXMb37psS2dI85dYYnvM6WZ6SUuG36Njny1uBZVnBD0xh0O_NXZ_iUTqTRZws0PyuCOEYecle5pBiJws7WT4DS9xs/s1600/server.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft Azure Automation service without racking up any charges.\nCybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention.\n\"While this",
-          "link": "https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html",
-          "publishedOn": "2023-11-08T14:19:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqF3y0Pe4yO_0YCngrCkx76yumKbZ5DIhoqoySNUHWpeKKZ7GzLgd2hr66T1BN2DBPrFYzpd1mdx7VRZxxm4xNW7gPQVuuB9LBgJcA3iilAHfBgmj9OvloWOb2zquo79cez8hSFA-yhA8qhzmrqOhTTmIMYqltsAij4RkgVUrp3etHD7CXuiFLa67SJikH/s1600/cloudminer.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqF3y0Pe4yO_0YCngrCkx76yumKbZ5DIhoqoySNUHWpeKKZ7GzLgd2hr66T1BN2DBPrFYzpd1mdx7VRZxxm4xNW7gPQVuuB9LBgJcA3iilAHfBgmj9OvloWOb2zquo79cez8hSFA-yhA8qhzmrqOhTTmIMYqltsAij4RkgVUrp3etHD7CXuiFLa67SJikH/s1600/cloudminer.jpg"
         }
       ]
     },

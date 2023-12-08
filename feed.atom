@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-08T02:17:45.268Z</updated>
+    <updated>2023-12-08T02:42:52.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2348,18 +2348,6 @@ The tool has been attributed to MuddyWater, an Iranian]]></summary>
         <updated>2023-11-09T05:33:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw in the Service Location Protocol (SLP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 Tracked as CVE-2023-29552 (CVSS score: 7.5), the issue relates to a denial-of-service (DoS) vulnerability that could be weaponized to launch massive DoS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation]]></title>
-        <id>https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html</id>
-        <link href="https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html"/>
-        <updated>2023-11-08T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft Azure Automation service without racking up any charges.
-Cybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention.
-"While this]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
