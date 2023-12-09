@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-09T19:07:41.668Z</updated>
+    <updated>2023-12-09T19:23:40.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2389,17 +2389,6 @@ With an estimated 80% of]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran-Linked Imperial Kitten Cyber Group Targeting Middle East's Tech Sectors]]></title>
-        <id>https://thehackernews.com/2023/11/iran-linked-imperial-kitten-cyber-group.html</id>
-        <link href="https://thehackernews.com/2023/11/iran-linked-imperial-kitten-cyber-group.html"/>
-        <updated>2023-11-10T07:11:00.000Z</updated>
-        <summary type="html"><![CDATA[A group with links to Iran targeted transportation, logistics, and technology sectors in the Middle East, including Israel, in October 2023 amid a surge in Iranian cyber activity since the onset of the Israel-Hamas war.
-The attacks have been attributed by CrowdStrike to a threat actor it tracks under the name Imperial Kitten, and which is also known as Crimson Sandstorm (previously Curium),]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
