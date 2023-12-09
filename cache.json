@@ -2068,38 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Sz5Uw0Jqx6qm0I0vZHFh47MgvEU6o8vzb5oWLO9cp8ZCPU1jZ2hRmSiE4rNlbgpmVn0-JYw1sTHqe-A370h9vnir5BPvKxBj7NSg_fqyEAhBH9RIYtL39qTB2kw8HgC_GG39tRm0qeFU9Vyj-QVe7Rqh_f-ZpY3liTyFM-CtZkvr-wRCk-B-NhRd0Y64/s1600/powergrid.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Sz5Uw0Jqx6qm0I0vZHFh47MgvEU6o8vzb5oWLO9cp8ZCPU1jZ2hRmSiE4rNlbgpmVn0-JYw1sTHqe-A370h9vnir5BPvKxBj7NSg_fqyEAhBH9RIYtL39qTB2kw8HgC_GG39tRm0qeFU9Vyj-QVe7Rqh_f-ZpY3liTyFM-CtZkvr-wRCk-B-NhRd0Y64/s1600/powergrid.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "There is a seemingly never-ending quest to find the right security tools that offer the right capabilities for your organization.\nSOC teams tend to spend about a third of their day on events that don’t pose any threat to their organization, and this has accelerated the adoption of automated solutions to take the place of (or augment) inefficient and cumbersome SIEMs.\nWith an estimated 80% of",
-          "link": "https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html",
-          "publishedOn": "2023-11-10T09:00:00.000Z",
-          "wordCount": null,
-          "title": "The New 80/20 Rule for SecOps: Customize Where it Matters, Automate the Rest",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7XOYFDo0tHIZgGTmvulQrYE1DWlkj7nwcOk5LtYlUJP0lwTI8l3Pb_nMiWYLa0PJAMgrOSWOPQHOf6u4iOeBV0Iwau-Q4bEZN6QMdtfuWJgaVF5Ds_skRfZftJlshqZ0Iqw-rXZp-sKCdRgrks667dzam9t0maHKpUh5AT6Bsdl_GJcTuDkMUU7i3AQ/s1600/secops.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7XOYFDo0tHIZgGTmvulQrYE1DWlkj7nwcOk5LtYlUJP0lwTI8l3Pb_nMiWYLa0PJAMgrOSWOPQHOf6u4iOeBV0Iwau-Q4bEZN6QMdtfuWJgaVF5Ds_skRfZftJlshqZ0Iqw-rXZp-sKCdRgrks667dzam9t0maHKpUh5AT6Bsdl_GJcTuDkMUU7i3AQ/s1600/secops.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/alert-effluence-backdoor-persists.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a stealthy backdoor named Effluence that's deployed following the successful exploitation of a recently disclosed security flaw in Atlassian Confluence Data Center and Server.\n\"The malware acts as a persistent backdoor and is not remediated by applying patches to Confluence,\" Aon's Stroz Friedberg Incident Response Services said in an analysis published",
-          "link": "https://thehackernews.com/2023/11/alert-effluence-backdoor-persists.html",
-          "publishedOn": "2023-11-10T08:58:00.000Z",
-          "wordCount": null,
-          "title": "Alert: 'Effluence' Backdoor Persists Despite Patching Atlassian Confluence Servers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeyauMOf_GZxy-_wMJ7aEgcmoX9IDdDSqM7vieTJ0RwEak0Zx-tgbU9gGBxVReLWGwxGiJjhAgTbYePJG640170HFs8b_Hpo6OMHECwSjfD5X2VmOiuVODKycTork4Wp3QMsRvaVMqPUIjOEyBT1Rc8HYhG31XptT9QTpY8-xgbgQUKW02Y2wnHC1doWg/s1600/server.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBeyauMOf_GZxy-_wMJ7aEgcmoX9IDdDSqM7vieTJ0RwEak0Zx-tgbU9gGBxVReLWGwxGiJjhAgTbYePJG640170HFs8b_Hpo6OMHECwSjfD5X2VmOiuVODKycTork4Wp3QMsRvaVMqPUIjOEyBT1Rc8HYhG31XptT9QTpY8-xgbgQUKW02Y2wnHC1doWg/s1600/server.jpg"
         }
       ]
     },
@@ -2966,46 +2934,6 @@
           "publishedOn": "2023-11-10T09:14:00.000Z",
           "wordCount": 1003,
           "title": "CERTFR-2023-AVI-0928 : Multiples vulnérabilités dans Microsoft Edge (10 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0927/",
-          "publishedOn": "2023-11-10T08:47:31.000Z",
-          "wordCount": 1296,
-          "title": "CERTFR-2023-AVI-0927 : Multiples vulnérabilités dans le noyau Linux de RedHat (10 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0926/",
-          "publishedOn": "2023-11-10T08:47:11.000Z",
-          "wordCount": 1112,
-          "title": "CERTFR-2023-AVI-0926 : Multiples vulnérabilités dans IBM (10 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0925/",
-          "publishedOn": "2023-11-10T08:46:30.000Z",
-          "wordCount": 1480,
-          "title": "CERTFR-2023-AVI-0925 : Multiples vulnérabilités dans le noyau Linux de SUSE (10 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans PostgreSQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0924/",
-          "publishedOn": "2023-11-10T08:45:37.000Z",
-          "wordCount": 1018,
-          "title": "CERTFR-2023-AVI-0924 : Multiples vulnérabilités dans PostgreSQL (10 novembre 2023)",
           "imageUrl": null
         }
       ]
