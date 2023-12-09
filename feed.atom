@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-09T11:43:26.525Z</updated>
+    <updated>2023-12-09T12:17:38.050Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs]]></title>
+        <id>https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html</id>
+        <link href="https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html"/>
+        <updated>2023-12-09T11:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers from the Vrije Universiteit Amsterdam have disclosed a new side-channel attack called SLAM that could be exploited to leak sensitive information from kernel memory on current and upcoming CPUs from Intel, AMD, and Arm.
+The attack is an end-to-end exploit for Spectre based on a new feature in Intel CPUs called Linear Address Masking (LAM) as well as its analogous]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Unveal GuLoader Malware's Latest Anti-Analysis Techniques]]></title>
         <id>https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html</id>
