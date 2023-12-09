@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-09T17:08:33.945Z</updated>
+    <updated>2023-12-09T17:25:46.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2398,17 +2398,6 @@ With an estimated 80% of]]></summary>
         <updated>2023-11-10T07:11:00.000Z</updated>
         <summary type="html"><![CDATA[A group with links to Iran targeted transportation, logistics, and technology sectors in the Middle East, including Israel, in October 2023 amid a surge in Iranian cyber activity since the onset of the Israel-Hamas war.
 The attacks have been attributed by CrowdStrike to a threat actor it tracks under the name Imperial Kitten, and which is also known as Crimson Sandstorm (previously Curium),]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stealthy Kamran Spyware Targeting Urdu-speaking Users in Gilgit-Baltistan]]></title>
-        <id>https://thehackernews.com/2023/11/stealthy-kamran-spyware-targeting-urdu.html</id>
-        <link href="https://thehackernews.com/2023/11/stealthy-kamran-spyware-targeting-urdu.html"/>
-        <updated>2023-11-10T05:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Urdu-speaking readers of a regional news website that caters to the Gilgit-Baltistan region have likely emerged as a target of a watering hole attack designed to deliver a previously undocumented Android spyware dubbed Kamran.
-The campaign, ESET has discovered, leverages Hunza News (urdu.hunzanews[.]net), which, when opened on a mobile device, prompts visitors of the Urdu version to install its]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
