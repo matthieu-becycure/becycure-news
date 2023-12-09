@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-09T00:47:49.946Z</updated>
+    <updated>2023-12-09T01:50:31.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2399,17 +2399,6 @@ The campaign, ESET has discovered, leverages Hunza News (urdu.hunzanews[.]net),
         <summary type="html"><![CDATA[The threat actor known as Lace Tempest has been linked to the exploitation of a zero-day flaw in SysAid IT support software in limited attacks, according to new findings from Microsoft.
 Lace Tempest, which is known for distributing the Cl0p ransomware, has in the past leveraged zero-day flaws in MOVEit Transfer and PaperCut servers.
 The issue, tracked as CVE-2023-47246, concerns a path traversal]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Malvertising Campaign Uses Fake Windows News Portal to Distribute Malicious Installers]]></title>
-        <id>https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html</id>
-        <link href="https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html"/>
-        <updated>2023-11-09T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[A new malvertising campaign has been found to employ fake sites that masquerade as legitimate Windows news portal to propagate a malicious installer for a popular system profiling tool called CPU-Z.
-"This incident is a part of a larger malvertising campaign that targets other utilities like Notepad++, Citrix, and VNC Viewer as seen in its infrastructure (domain names) and cloaking templates used]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
