@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters have unmasked the latest tricks adopted by a malware strain called GuLoader in an effort to make analysis more challenging.\n\"While GuLoader's core functionality hasn't changed drastically over the past few years, these constant updates in their obfuscation techniques make analyzing GuLoader a time-consuming and resource-intensive process,\" Elastic Security Labs",
+          "link": "https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html",
+          "publishedOn": "2023-12-09T07:16:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Unveal GuLoader Malware's Latest Anti-Analysis Techniques",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5_TxcyV7SUHsD2Fwm3zDxe01fM9-3qK_e4LSfRYQpjwdfbYRmqpNrazgpdx0EISNQEJBfzeDDZ5_gCcuWGzFXK6rr-QXVh6MuBXOZU83n7JtOA6KYgTC9bf0_-l9SBFdaQ8METrwSFaZf1wjd5CPKqOOm45uKRKbBDry7HwmU1AiNMDv-KCBptq9lfZHM/s1600/antivirus-bypass.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5_TxcyV7SUHsD2Fwm3zDxe01fM9-3qK_e4LSfRYQpjwdfbYRmqpNrazgpdx0EISNQEJBfzeDDZ5_gCcuWGzFXK6rr-QXVh6MuBXOZU83n7JtOA6KYgTC9bf0_-l9SBFdaQ8METrwSFaZf1wjd5CPKqOOm45uKRKbBDry7HwmU1AiNMDv-KCBptq9lfZHM/s1600/antivirus-bypass.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A collection of security flaws in the firmware implementation of 5G mobile network modems from major chipset vendors such as MediaTek and Qualcomm impact USB and IoT modems as well as hundreds of smartphone models running Android and iOS.\nOf the 14 flaws – collectively called 5Ghoul (a combination of \"5G\" and \"Ghoul\") – 10 affect 5G modems from the two companies, out of which three",
