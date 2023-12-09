@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-09T04:43:48.957Z</updated>
+    <updated>2023-12-09T05:09:46.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2387,18 +2387,6 @@ The attacks have been attributed by CrowdStrike to a threat actor it tracks unde
         <updated>2023-11-10T05:09:00.000Z</updated>
         <summary type="html"><![CDATA[Urdu-speaking readers of a regional news website that caters to the Gilgit-Baltistan region have likely emerged as a target of a watering hole attack designed to deliver a previously undocumented Android spyware dubbed Kamran.
 The campaign, ESET has discovered, leverages Hunza News (urdu.hunzanews[.]net), which, when opened on a mobile device, prompts visitors of the Urdu version to install its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Alert: Lace Tempest Exploits SysAid IT Support Software Vulnerability]]></title>
-        <id>https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html</id>
-        <link href="https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html"/>
-        <updated>2023-11-09T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as Lace Tempest has been linked to the exploitation of a zero-day flaw in SysAid IT support software in limited attacks, according to new findings from Microsoft.
-Lace Tempest, which is known for distributing the Cl0p ransomware, has in the past leveraged zero-day flaws in MOVEit Transfer and PaperCut servers.
-The issue, tracked as CVE-2023-47246, concerns a path traversal]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
