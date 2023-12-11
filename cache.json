@@ -2109,6 +2109,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans LibreOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/",
+          "publishedOn": "2023-12-11T12:48:46.000Z",
+          "wordCount": 971,
+          "title": "CERTFR-2023-AVI-1012 : Multiples vulnérabilités dans LibreOffice (11 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/",
+          "publishedOn": "2023-12-11T10:31:49.000Z",
+          "wordCount": 1112,
+          "title": "CERTFR-2023-AVI-1011 : Multiples vulnérabilités dans les produits Qnap (11 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1010/",
+          "publishedOn": "2023-12-11T10:20:15.000Z",
+          "wordCount": 1027,
+          "title": "CERTFR-2023-AVI-1010 : Multiples vulnérabilités dans les produits Ivanti (11 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-053/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-053/",
+          "publishedOn": "2023-12-11T09:11:13.000Z",
+          "wordCount": 1419,
+          "title": "CERTFR-2023-ACT-053 : Bulletin d’actualité CERTFR-2023-ACT-053 (11 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1009/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des …",
