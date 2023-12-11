@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In an increasingly digital world, no organization is spared from cyber threats. Yet, not every organization has the luxury of hiring a full-time, in-house CISO. This gap in cybersecurity leadership is where you, as a vCISO, come in. You are the person who will establish, develop, and solidify the organization's cybersecurity infrastructure, blending strategic guidance with actionable",
+          "link": "https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html",
+          "publishedOn": "2023-12-11T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Playbook: Your First 100 Days as a vCISO - 5 Steps to Success",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FWfrwcm-pjU9ySUnPYuCrQdL_xphqVjthhZuWbF7Cx44A64kMbs8dPbgOraRezjpSPvJPHbBYiXvzCcgeE9hJUqA24DAPgmumE93fn5stw2J2aGy8_BZR_Mj3aM71r-fDcBr1xEhihCQ2HqsGEeK2ihiUzAtMbgQasJckjKFyF-YgQ9UP-04wGS2jA4/s1600/cynomi.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7FWfrwcm-pjU9ySUnPYuCrQdL_xphqVjthhZuWbF7Cx44A64kMbs8dPbgOraRezjpSPvJPHbBYiXvzCcgeE9hJUqA24DAPgmumE93fn5stw2J2aGy8_BZR_Mj3aM71r-fDcBr1xEhihCQ2HqsGEeK2ihiUzAtMbgQasJckjKFyF-YgQ9UP-04wGS2jA4/s1600/cynomi.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/webinar-psychology-of-social.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the ever-evolving cybersecurity landscape, one method stands out for its chilling effectiveness – social engineering. But why does it work so well? The answer lies in the intricate dance between the attacker's mind and human psychology.\nOur upcoming webinar, \"Think Like a Hacker, Defend Like a Pro,\" highlights this alarming trend. We delve deep into social engineering, exploring its",
