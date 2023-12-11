@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-11T07:43:24.565Z</updated>
+    <updated>2023-12-11T08:14:30.770Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users]]></title>
+        <id>https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html</id>
+        <link href="https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html"/>
+        <updated>2023-12-11T07:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered 18 malicious loan apps for Android on the Google Play Store that have been collectively downloaded over 12 million times.
+"Despite their attractive appearance, these services are in fact designed to defraud users by offering them high-interest-rate loans endorsed with deceitful descriptions, all while collecting their victims' personal and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New PoolParty Process Injection Techniques Outsmart Top EDR Solutions]]></title>
         <id>https://thehackernews.com/2023/12/new-poolparty-process-injection.html</id>

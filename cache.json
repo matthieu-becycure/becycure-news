@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered 18 malicious loan apps for Android on the Google Play Store that have been collectively downloaded over 12 million times.\n\"Despite their attractive appearance, these services are in fact designed to defraud users by offering them high-interest-rate loans endorsed with deceitful descriptions, all while collecting their victims' personal and",
+          "link": "https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html",
+          "publishedOn": "2023-12-11T07:09:00.000Z",
+          "wordCount": null,
+          "title": "SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUIwksflGfrXkiTYBpIg7qYIQ6MnwD8-_sLbrZ2Wv2VIf_LnyAxXsrqjz24LYwHy_YP5GaEtyrkG3sXtoMt82GridP9PzB4kpUjQFYwiu5evFzcOT8a1vwxSH8xt_9XTQKO8727-jzgUI3T1mGMVhoifF_rxkP0b8nMQdYRdLNvs68kY-P_If-jirE4g_/s1600/spy.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUIwksflGfrXkiTYBpIg7qYIQ6MnwD8-_sLbrZ2Wv2VIf_LnyAxXsrqjz24LYwHy_YP5GaEtyrkG3sXtoMt82GridP9PzB4kpUjQFYwiu5evFzcOT8a1vwxSH8xt_9XTQKO8727-jzgUI3T1mGMVhoifF_rxkP0b8nMQdYRdLNvs68kY-P_If-jirE4g_/s1600/spy.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-poolparty-process-injection.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new collection of eight process injection techniques, collectively dubbed PoolParty, could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems.\nSafeBreach researcher Alon Leviev said the methods are \"capable of working across all processes without any limitations, making them more flexible than existing process",
