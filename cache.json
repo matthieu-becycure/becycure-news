@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/webinar-psychology-of-social.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the ever-evolving cybersecurity landscape, one method stands out for its chilling effectiveness – social engineering. But why does it work so well? The answer lies in the intricate dance between the attacker's mind and human psychology.\nOur upcoming webinar, \"Think Like a Hacker, Defend Like a Pro,\" highlights this alarming trend. We delve deep into social engineering, exploring its",
+          "link": "https://thehackernews.com/2023/12/webinar-psychology-of-social.html",
+          "publishedOn": "2023-12-11T10:53:00.000Z",
+          "wordCount": null,
+          "title": "Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivM6CY6gr5aQ0HTindiMBa2uDw1bTeQpwODOfGziRujQ45W2HecQyP5WnL0_wH_GHNtUgVDXH8K7S-bUcE8BDoBHROQezQNle58Ju-4CSgLcLcyd_53EKOkrNJsOQk3NKvQrUOQwcjd0WU7HJAo5QjgxTvFwNnrp69u2tW6HbCanmSlUx50GXKragMzW4/s1600/lacework.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivM6CY6gr5aQ0HTindiMBa2uDw1bTeQpwODOfGziRujQ45W2HecQyP5WnL0_wH_GHNtUgVDXH8K7S-bUcE8BDoBHROQezQNle58Ju-4CSgLcLcyd_53EKOkrNJsOQk3NKvQrUOQwcjd0WU7HJAo5QjgxTvFwNnrp69u2tW6HbCanmSlUx50GXKragMzW4/s1600/lacework.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered 18 malicious loan apps for Android on the Google Play Store that have been collectively downloaded over 12 million times.\n\"Despite their attractive appearance, these services are in fact designed to defraud users by offering them high-interest-rate loans endorsed with deceitful descriptions, all while collecting their victims' personal and",
