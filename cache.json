@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-poolparty-process-injection.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new collection of eight process injection techniques, collectively dubbed PoolParty, could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems.\nSafeBreach researcher Alon Leviev said the methods are \"capable of working across all processes without any limitations, making them more flexible than existing process",
+          "link": "https://thehackernews.com/2023/12/new-poolparty-process-injection.html",
+          "publishedOn": "2023-12-11T05:58:00.000Z",
+          "wordCount": null,
+          "title": "New PoolParty Process Injection Techniques Outsmart Top EDR Solutions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEj82_IWLIHOAqzd9vWcYi5VDEB4qeGysmN4s1c8D7PDL_1KTirOCqie3yHr91-qUhD3qu0p-jB1UHvo5Xz2VbBVEtc1lmKgir6c22fPFNax-rfYC1ab5j9iczx_CGZx6JAxb9OxMqeraqW8zlH-ceyC0nD3gaK-LnQGU5mL-AP_kR2y1Z8uDqZ1R_JXTQ/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEj82_IWLIHOAqzd9vWcYi5VDEB4qeGysmN4s1c8D7PDL_1KTirOCqie3yHr91-qUhD3qu0p-jB1UHvo5Xz2VbBVEtc1lmKgir6c22fPFNax-rfYC1ab5j9iczx_CGZx6JAxb9OxMqeraqW8zlH-ceyC0nD3gaK-LnQGU5mL-AP_kR2y1Z8uDqZ1R_JXTQ/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Researchers from the Vrije Universiteit Amsterdam have disclosed a new side-channel attack called SLAM that could be exploited to leak sensitive information from kernel memory on current and upcoming CPUs from Intel, AMD, and Arm.\nThe attack is an end-to-end exploit for Spectre based on a new feature in Intel CPUs called Linear Address Masking (LAM) as well as its analogous",
