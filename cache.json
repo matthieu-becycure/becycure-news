@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apache has released a security advisory warning of a critical security flaw in the Struts 2 open-source web application framework that could result in remote code execution.\nTracked as CVE-2023-50164, the vulnerability is rooted in a flawed \"file upload logic\" that could enable unauthorized path traversal and could be exploited under the circumstances to upload a malicious file",
+          "link": "https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html",
+          "publishedOn": "2023-12-12T05:23:00.000Z",
+          "wordCount": null,
+          "title": "New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWtfvyGPk0Wjzm_dUCKjDLHpNP6ms8AXQvnBXyooM80ArlGYC5GRagg1FsNXpgc6EoaF56tI-KiiZcJFJcDKUYa2IWN9nL8Hv1nYjVw-NqYh4rm7jECqq5HLzJ89y6iGe3UYXBFP2ZMrjzjw9triAbtZh78JGcI3huoTPqs8dALP2hK41gh6GJgg2VPme/s1600/apache.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWtfvyGPk0Wjzm_dUCKjDLHpNP6ms8AXQvnBXyooM80ArlGYC5GRagg1FsNXpgc6EoaF56tI-KiiZcJFJcDKUYa2IWN9nL8Hv1nYjVw-NqYh4rm7jECqq5HLzJ89y6iGe3UYXBFP2ZMrjzjw9triAbtZh78JGcI3huoTPqs8dALP2hK41gh6GJgg2VPme/s1600/apache.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Tactical and targeting overlaps have been discovered between the enigmatic advanced persistent threat (APT) called Sandman and a China-based threat cluster that's known to use a backdoor known as KEYPLUG.\nThe assessment comes jointly from SentinelOne, PwC, and the Microsoft Threat Intelligence team based on the fact that the adversary's Lua-based malware LuaDream and KEYPLUG have been",
