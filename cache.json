@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A phishing campaign has been observed delivering an information stealer malware called MrAnon Stealer to unsuspecting victims via seemingly benign booking-themed PDF lures.\n\"This malware is a Python-based information stealer compressed with cx-Freeze to evade detection,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"MrAnon Stealer steals its victims' credentials, system",
+          "link": "https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html",
+          "publishedOn": "2023-12-12T09:55:00.000Z",
+          "wordCount": null,
+          "title": "New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6_-GiAgsP1QRLa2gQBstfwpIIF3JaodB4oSAS4pK2o1LIhcREBzOA3U-KTKgowlC-ulrHvV5JPEMZoPcGPJXgzg2JO3pqdN2q2-EQZHSTLZOukXb2wu-jgw0SQ505lIIBaKSt3DAFBjZUzQ6B4zFqOCm4EiMlt8TIESsGI7PvSq65thYCFg50fia0BKLc/s1600/stealer.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6_-GiAgsP1QRLa2gQBstfwpIIF3JaodB4oSAS4pK2o1LIhcREBzOA3U-KTKgowlC-ulrHvV5JPEMZoPcGPJXgzg2JO3pqdN2q2-EQZHSTLZOukXb2wu-jgw0SQ505lIIBaKSt3DAFBjZUzQ6B4zFqOCm4EiMlt8TIESsGI7PvSq65thYCFg50fia0BKLc/s1600/stealer.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/apple-releases-security-updates-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple on Monday released security patches for iOS, iPadOS, macOS, tvOS, watchOS, and Safari web browser to address multiple security flaws, in addition to backporting fixes for two recently disclosed zero-days to older devices.\nThis includes updates for 12 security vulnerabilities in iOS and iPadOS spanning AVEVideoEncoder, ExtensionKit, Find My, ImageIO, Kernel, Safari",
