@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-12T15:11:01.790Z</updated>
+    <updated>2023-12-12T15:27:16.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign]]></title>
+        <id>https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html</id>
+        <link href="https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html"/>
+        <updated>2023-12-12T14:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian nation-state threat actor known as APT28 has been observed making use of lures related to the ongoing Israel-Hamas war to facilitate the delivery of a custom backdoor called HeadLace.
+IBM X-Force is tracking the adversary under the name ITG05, which is also known as BlueDelta, Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, Sednit, Sofacy, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-AVI-1016 : Vulnérabilité dans Xen (12 décembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/</id>
