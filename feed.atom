@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-12T07:10:06.672Z</updated>
+    <updated>2023-12-12T07:23:44.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws]]></title>
+        <id>https://thehackernews.com/2023/12/apple-releases-security-updates-to.html</id>
+        <link href="https://thehackernews.com/2023/12/apple-releases-security-updates-to.html"/>
+        <updated>2023-12-12T06:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday released security patches for iOS, iPadOS, macOS, tvOS, watchOS, and Safari web browser to address multiple security flaws, in addition to backporting fixes for two recently disclosed zero-days to older devices.
+This includes updates for 12 security vulnerabilities in iOS and iPadOS spanning AVEVideoEncoder, ExtensionKit, Find My, ImageIO, Kernel, Safari]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now]]></title>
         <id>https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html</id>
