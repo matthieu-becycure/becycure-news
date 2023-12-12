@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-12T16:44:06.771Z</updated>
+    <updated>2023-12-12T17:09:40.081Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2479,18 +2479,6 @@ These apps serve as the digital command centers for marketing]]></summary>
         <updated>2023-11-13T05:27:00.000Z</updated>
         <summary type="html"><![CDATA[Malaysian law enforcement authorities have announced the takedown of a phishing-as-a-service (PhaaS) operation called BulletProofLink.
 The Royal Malaysian Police said the effort, which was carried out with assistance from the Australian Federal Police (AFP) and the U.S. Federal Bureau of Investigation (FBI) on November 6, 2023, was based on information that the threat actors behind the platform]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks]]></title>
-        <id>https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html</id>
-        <link href="https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html"/>
-        <updated>2023-11-13T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have warned about a Windows version of a wiper malware that was previously observed targeting Linux systems in cyber attacks aimed at Israel.
-Dubbed BiBi-Windows Wiper by BlackBerry, the wiper is the Windows counterpart of BiBi-Linux Wiper, which has been put to use by a pro-Hamas hacktivist group in the wake of the Israel-Hamas war last month.
-"The Windows variant [...]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
