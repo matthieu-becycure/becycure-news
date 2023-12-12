@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "2023 has seen its fair share of cyber attacks, however there’s one attack vector that proves to be more prominent than others - non-human access. With 11 high-profile attacks in 13 months and an ever-growing ungoverned attack surface, non-human identities are the new perimeter, and 2023 is only the beginning. \nWhy non-human access is a cybercriminal’s paradise \nPeople always",
+          "link": "https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html",
+          "publishedOn": "2023-12-12T11:25:00.000Z",
+          "wordCount": null,
+          "title": "Non-Human Access is the Path of Least Resistance: A 2023 Recap",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWbS5ycnyGutc4gpBaGYeT1xivbkY4Mo5nixiiyJ9wmW3hbi4YanY9rrLPUBohXwvCloK1-gA44IwI3sRnIGjR__gX9VBXZq6JhWVWn6PjG5eQVA8aqTTfQttNcV1tRqfKTqkB1FsVjXPSuEmjsEvM8YvnI68p7S_QzwBwHgT9pdLxj6r9XuqOglTmvE/s1600/aws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWbS5ycnyGutc4gpBaGYeT1xivbkY4Mo5nixiiyJ9wmW3hbi4YanY9rrLPUBohXwvCloK1-gA44IwI3sRnIGjR__gX9VBXZq6JhWVWn6PjG5eQVA8aqTTfQttNcV1tRqfKTqkB1FsVjXPSuEmjsEvM8YvnI68p7S_QzwBwHgT9pdLxj6r9XuqOglTmvE/s1600/aws.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A phishing campaign has been observed delivering an information stealer malware called MrAnon Stealer to unsuspecting victims via seemingly benign booking-themed PDF lures.\n\"This malware is a Python-based information stealer compressed with cx-Freeze to evade detection,\" Fortinet FortiGuard Labs researcher Cara Lin said. \"MrAnon Stealer steals its victims' credentials, system",
