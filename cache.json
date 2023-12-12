@@ -2205,6 +2205,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/",
+          "publishedOn": "2023-12-12T12:45:32.000Z",
+          "wordCount": 956,
+          "title": "CERTFR-2023-AVI-1016 : Vulnérabilité dans Xen (12 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1015/",
+          "publishedOn": "2023-12-12T12:28:27.000Z",
+          "wordCount": 4414,
+          "title": "CERTFR-2023-AVI-1015 : [SCADA] Multiples vulnérabilités dans les produits Siemens (12 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Schneider. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1014/",
+          "publishedOn": "2023-12-12T08:47:58.000Z",
+          "wordCount": 1083,
+          "title": "CERTFR-2023-AVI-1014 : [SCADA] Multiples vulnérabilités dans les produits Schneider (12 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une exécution de code arbitraire à distance et un contournement de la politique …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1013/",
+          "publishedOn": "2023-12-12T08:34:19.000Z",
+          "wordCount": 1298,
+          "title": "CERTFR-2023-AVI-1013 : Multiples vulnérabilités dans les produits Apple (12 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1012/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans LibreOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
