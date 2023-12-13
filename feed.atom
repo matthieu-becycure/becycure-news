@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T10:11:17.243Z</updated>
+    <updated>2023-12-13T10:31:31.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator]]></title>
+        <id>https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html</id>
+        <link href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"/>
+        <updated>2023-12-13T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine's biggest telecom operator Kyivstar has become the victim of a cyber attack, disrupting customer access to mobile and internet services.
+"The cyberattack on Ukraine's #Kyivstar telecoms operator has impacted all regions of the country with high impact to the capital, metrics show, with knock-on impacts reported to air raid alert network and banking sector as work continues]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft's Final 2023 Patch Tuesday: 33 Flaws Fixed, Including 4 Critical]]></title>
         <id>https://thehackernews.com/2023/12/microsofts-final-2023-patch-tuesday-33.html</id>
