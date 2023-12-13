@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T17:43:26.186Z</updated>
+    <updated>2023-12-13T18:11:36.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2543,17 +2543,6 @@ The activity, detected between July and October 2023, has been attributed by P
         <updated>2023-11-14T08:03:00.000Z</updated>
         <summary type="html"><![CDATA[The Vietnamese threat actors behind the Ducktail stealer malware have been linked to a new campaign that ran between March and early October 2023, targeting marketing professionals in India with an aim to hijack Facebook business accounts.
 "An important feature that sets it apart is that, unlike previous campaigns, which relied on .NET applications, this one used Delphi as the programming]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Sets a Deadline - Patch Juniper Junos OS Flaws Before November 17]]></title>
-        <id>https://thehackernews.com/2023/11/cisa-sets-deadline-patch-juniper-junos.html</id>
-        <link href="https://thehackernews.com/2023/11/cisa-sets-deadline-patch-juniper-junos.html"/>
-        <updated>2023-11-14T06:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given a November 17, 2023, deadline for federal agencies and organizations to apply mitigations to secure against a number of security flaws in Juniper Junos OS that came to light in August.
-The agency on Monday added five vulnerabilities to the Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
