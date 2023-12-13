@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malware analysis encompasses a broad range of activities, including examining the malware's network traffic. To be effective at it, it's crucial to understand the common challenges and how to overcome them. Here are three prevalent issues you may encounter and the tools you'll need to address them.\nDecrypting HTTPS traffic\nHypertext Transfer Protocol Secure (HTTPS), the protocol for secure",
+          "link": "https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html",
+          "publishedOn": "2023-12-13T12:02:00.000Z",
+          "wordCount": null,
+          "title": "How to Analyze Malware’s Network Traffic in A Sandbox",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYC-itCzmWsUr9ukGc1IRy8UQ0GpXXFGYuB40-U2aw58ZRBthioFd8-XU0Uy1UPXf_WTmVVUKhd3EGv2LxCLi4FUTDcIVgrGqEQrKv0HXnyASfkbM0hTk3GlnoKI7eF_xKAvuQfwKghMrjks8L6RgD5aYCig7MiRyyXg9sw2Ony4DBa8WJFLFav-bWYmg/s1600/anyrun.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYC-itCzmWsUr9ukGc1IRy8UQ0GpXXFGYuB40-U2aw58ZRBthioFd8-XU0Uy1UPXf_WTmVVUKhd3EGv2LxCLi4FUTDcIVgrGqEQrKv0HXnyASfkbM0hTk3GlnoKI7eF_xKAvuQfwKghMrjks8L6RgD5aYCig7MiRyyXg9sw2Ony4DBa8WJFLFav-bWYmg/s1600/anyrun.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has warned that adversaries are using OAuth applications as an automation tool to deploy virtual machines (VMs) for cryptocurrency mining and launch phishing attacks.\n\"Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity,\" the Microsoft Threat Intelligence team said in an",
