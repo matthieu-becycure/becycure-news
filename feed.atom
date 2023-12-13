@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T21:43:46.259Z</updated>
+    <updated>2023-12-13T22:09:51.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2531,17 +2531,6 @@ In a world where the frequency and cost of data breaches are skyrocketing, organ
         <updated>2023-11-14T11:35:00.000Z</updated>
         <summary type="html"><![CDATA[Have you heard about Dependabot? If not, just ask any developer around you, and they'll likely rave about how it has revolutionized the tedious task of checking and updating outdated dependencies in software projects. 
 Dependabot not only takes care of the checks for you, but also provides suggestions for modifications that can be approved with just a single click. Although Dependabot is limited]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Campaign Targets Middle East Governments with IronWind Malware]]></title>
-        <id>https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html</id>
-        <link href="https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html"/>
-        <updated>2023-11-14T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Government entities in the Middle East are the target of new phishing campaigns that are designed to deliver a new initial access downloader dubbed IronWind.
-The activity, detected between July and October 2023, has been attributed by Proofpoint to a threat actor it tracks under the name TA402, which is also known as Molerats, Gaza Cyber Gang, and shares tactical overlaps with a pro-Hamas]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
