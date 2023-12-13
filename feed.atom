@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T11:09:05.257Z</updated>
+    <updated>2023-12-13T11:23:39.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html"/>
+        <updated>2023-12-13T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has warned that adversaries are using OAuth applications as an automation tool to deploy virtual machines (VMs) for cryptocurrency mining and launch phishing attacks.
+"Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity," the Microsoft Threat Intelligence team said in an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator]]></title>
         <id>https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html</id>
