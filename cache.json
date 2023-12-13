@@ -3035,16 +3035,6 @@
           "wordCount": 1133,
           "title": "CERTFR-2023-AVI-0933 : [SCADA] Multiples vulnérabilités dans les produits Schneider (14 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-049/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-049/",
-          "publishedOn": "2023-11-13T13:03:53.000Z",
-          "wordCount": 1353,
-          "title": "CERTFR-2023-ACT-049 : Bulletin d’actualité CERTFR-2023-ACT-049 (13 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
