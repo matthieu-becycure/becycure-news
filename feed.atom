@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T23:25:06.155Z</updated>
+    <updated>2023-12-13T23:43:48.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2520,17 +2520,6 @@ In a world where the frequency and cost of data breaches are skyrocketing, organ
         <updated>2023-11-14T11:54:00.000Z</updated>
         <summary type="html"><![CDATA[Publicly-accessible Docker Engine API instances are being targeted by threat actors as part of a campaign designed to co-opt the machines into a distributed denial-of-service (DDoS) botnet dubbed OracleIV.
 "Attackers are exploiting this misconfiguration to deliver a malicious Docker container, built from an image named 'oracleiv_latest' and containing Python malware compiled as an ELF executable]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CI/CD Risks: Protecting Your Software Development Pipelines]]></title>
-        <id>https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html</id>
-        <link href="https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html"/>
-        <updated>2023-11-14T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you heard about Dependabot? If not, just ask any developer around you, and they'll likely rave about how it has revolutionized the tedious task of checking and updating outdated dependencies in software projects. 
-Dependabot not only takes care of the checks for you, but also provides suggestions for modifications that can be approved with just a single click. Although Dependabot is limited]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
