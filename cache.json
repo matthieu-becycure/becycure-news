@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the BazaCall call back phishing attacks have been observed leveraging Google Forms to lend the scheme a veneer of credibility.\nThe method is an \"attempt to elevate the perceived authenticity of the initial malicious emails,\" cybersecurity firm Abnormal Security said in a report published today.\nBazaCall (aka BazarCall), which was first",
+          "link": "https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html",
+          "publishedOn": "2023-12-13T15:22:00.000Z",
+          "wordCount": null,
+          "title": "BazaCall Phishing Scammers Now Leveraging Google Forms for Deception",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2PARmhugBD6H-D9Zi8XCQrq3ChoDfIAx2CDUErN2SB6WJvcjFgwzyu4fy0fhorNp3no4GI6NrCvLO3IMqFbd9R1jNq9x2pOddEKBZELeFg_9IJIe8Xtuuul-SliokMZEfTdu6lXUZLzzQ1w7jidieFTZHdh6SbhxtfRDkDaFHeIvUgbAacIMFRK_DirEL/s1600/phishinggg.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2PARmhugBD6H-D9Zi8XCQrq3ChoDfIAx2CDUErN2SB6WJvcjFgwzyu4fy0fhorNp3no4GI6NrCvLO3IMqFbd9R1jNq9x2pOddEKBZELeFg_9IJIe8Xtuuul-SliokMZEfTdu6lXUZLzzQ1w7jidieFTZHdh6SbhxtfRDkDaFHeIvUgbAacIMFRK_DirEL/s1600/phishinggg.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google is highlighting the role played by Clang sanitizers in hardening the security of the cellular baseband in the Android operating system and preventing specific kinds of vulnerabilities.\nThis comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer (UBSan), a tool designed to catch various kinds of",
