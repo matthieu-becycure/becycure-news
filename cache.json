@@ -2253,6 +2253,96 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une usurpation d'identité et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/",
+          "publishedOn": "2023-12-13T15:05:28.000Z",
+          "wordCount": 1030,
+          "title": "CERTFR-2023-AVI-1025 : Multiples vulnérabilités dans les produits Microsoft (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Azure. Elles permettent à un attaquant de provoquer une usurpation d'identité, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/",
+          "publishedOn": "2023-12-13T15:05:27.000Z",
+          "wordCount": 988,
+          "title": "CERTFR-2023-AVI-1024 : Multiples vulnérabilités dans Microsoft Azure (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données, un déni de service, une usurpation d'identité et une …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/",
+          "publishedOn": "2023-12-13T15:05:26.000Z",
+          "wordCount": 1561,
+          "title": "CERTFR-2023-AVI-1023 : Multiples vulnérabilités dans Microsoft Windows (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une usurpation d'identité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/",
+          "publishedOn": "2023-12-13T15:05:24.000Z",
+          "wordCount": 1036,
+          "title": "CERTFR-2023-AVI-1022 : Multiples vulnérabilités dans Microsoft Office (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.\n La très forte …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/",
+          "publishedOn": "2023-12-13T14:31:22.000Z",
+          "wordCount": 1232,
+          "title": "CERTFR-2023-AVI-1021 : Multiples vulnérabilités dans les produits PRIM’X (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/",
+          "publishedOn": "2023-12-13T10:56:03.000Z",
+          "wordCount": 1283,
+          "title": "CERTFR-2023-AVI-1020 : Multiples vulnérabilités dans les produits SAP (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/",
+          "publishedOn": "2023-12-13T10:51:57.000Z",
+          "wordCount": 1077,
+          "title": "CERTFR-2023-AVI-1019 : Vulnérabilité dans les produits Cisco (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS), une atteinte à l'intégrité des données et …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/",
+          "publishedOn": "2023-12-13T09:05:33.000Z",
+          "wordCount": 1633,
+          "title": "CERTFR-2023-AVI-1018 : Multiples vulnérabilités dans les produits Fortinet (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/",
+          "publishedOn": "2023-12-13T08:40:26.000Z",
+          "wordCount": 1073,
+          "title": "CERTFR-2023-AVI-1017 : Multiples vulnérabilités dans les produits ElasticSearch (13 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1016/",
           "author": null,
           "description": "Une vulnérabilité a été découverte Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T16:32:38.726Z</updated>
+    <updated>2023-12-13T16:44:02.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -16,6 +16,57 @@ The method is an "attempt to elevate the perceived authenticity of the initial m
 BazaCall (aka BazarCall), which was first]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1025 : Multiples vulnérabilités dans les produits Microsoft (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/"/>
+        <updated>2023-12-13T15:05:28.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une usurpation d'identité et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1024 : Multiples vulnérabilités dans Microsoft Azure (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/"/>
+        <updated>2023-12-13T15:05:27.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Azure. Elles permettent à un attaquant de provoquer une usurpation d'identité, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1023 : Multiples vulnérabilités dans Microsoft Windows (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/"/>
+        <updated>2023-12-13T15:05:26.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données, un déni de service, une usurpation d'identité et une …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1022 : Multiples vulnérabilités dans Microsoft Office (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/"/>
+        <updated>2023-12-13T15:05:24.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une usurpation d'identité et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1021 : Multiples vulnérabilités dans les produits PRIM’X (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1021/"/>
+        <updated>2023-12-13T14:31:22.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits PRIM'X. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.
+ La très forte …]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -42,6 +93,16 @@ Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1020 : Multiples vulnérabilités dans les produits SAP (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1020/"/>
+        <updated>2023-12-13T10:56:03.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing]]></title>
         <id>https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html</id>
         <link href="https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html"/>
@@ -53,6 +114,16 @@ Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1019 : Vulnérabilité dans les produits Cisco (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1019/"/>
+        <updated>2023-12-13T10:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator]]></title>
         <id>https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html</id>
         <link href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"/>
@@ -61,6 +132,26 @@ Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
 "The cyberattack on Ukraine's #Kyivstar telecoms operator has impacted all regions of the country with high impact to the capital, metrics show, with knock-on impacts reported to air raid alert network and banking sector as work continues]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1018 : Multiples vulnérabilités dans les produits Fortinet (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/"/>
+        <updated>2023-12-13T09:05:33.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS), une atteinte à l'intégrité des données et …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-AVI-1017 : Multiples vulnérabilités dans les produits ElasticSearch (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/"/>
+        <updated>2023-12-13T08:40:26.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
