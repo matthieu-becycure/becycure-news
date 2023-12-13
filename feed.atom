@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-13T18:11:36.165Z</updated>
+    <updated>2023-12-13T18:29:21.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2023-ALE-013 : Vulnérabilité dans Apache Struts 2 (13 décembre 2023)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/</id>
+        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/"/>
+        <updated>2023-12-13T17:08:21.000Z</updated>
+        <summary type="html"><![CDATA[Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BazaCall Phishing Scammers Now Leveraging Google Forms for Deception]]></title>
         <id>https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html</id>
