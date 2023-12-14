@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T14:43:29.985Z</updated>
+    <updated>2023-12-14T15:10:54.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities]]></title>
+        <id>https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html</id>
+        <link href="https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html"/>
+        <updated>2023-12-14T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A pro-Hamas threat actor known as Gaza Cyber Gang is targeting Palestinian entities using an updated version of a backdoor dubbed Pierogi.
+The findings come from SentinelOne, which has given the malware the name Pierogi++ owing to the fact that it's implemented in the C++ programming language unlike its Delphi- and Pascal-based predecessor.
+"Recent Gaza Cybergang activities show]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders]]></title>
         <id>https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html</id>

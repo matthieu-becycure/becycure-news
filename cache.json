@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A pro-Hamas threat actor known as Gaza Cyber Gang is targeting Palestinian entities using an updated version of a backdoor dubbed Pierogi.\nThe findings come from SentinelOne, which has given the malware the name Pierogi++ owing to the fact that it's implemented in the C++ programming language unlike its Delphi- and Pascal-based predecessor.\n\"Recent Gaza Cybergang activities show",
+          "link": "https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html",
+          "publishedOn": "2023-12-14T14:01:00.000Z",
+          "wordCount": null,
+          "title": "New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLQvoGOP3c3zyI_UA1VMuPcwD1kGPVHfrMlNzZeLlm_2P3nW6yp4iDSilrjpqenoCnr3Fjbtdk073f1xXpttyXPGDx7_SGItLRIHLezAA9UXMi4q1_XRhDNPwYeTSLhms1q2XZcgT640WHr4mC5hD8hpmHqqZ1t7sdJC_pXR-9546yWiuxhUbGo3NffRf/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrLQvoGOP3c3zyI_UA1VMuPcwD1kGPVHfrMlNzZeLlm_2P3nW6yp4iDSilrjpqenoCnr3Fjbtdk073f1xXpttyXPGDx7_SGItLRIHLezAA9UXMi4q1_XRhDNPwYeTSLhms1q2XZcgT640WHr4mC5hD8hpmHqqZ1t7sdJC_pXR-9546yWiuxhUbGo3NffRf/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Iranian state-sponsored threat actor known as OilRig deployed three different downloader malware throughout 2022 to maintain persistent access to victim organizations located in Israel.\nThe three new downloaders have been named ODAgent, OilCheck, and OilBooster by Slovak cybersecurity company ESET. The attacks also involved the use of an updated version of a known OilRig downloader",
