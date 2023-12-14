@@ -3199,46 +3199,6 @@
           "wordCount": 947,
           "title": "CERTFR-2023-AVI-0940 : Multiples vulnérabilités dans Google Chrome (15 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et une exécution de code arbitraire …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0939/",
-          "publishedOn": "2023-11-15T09:23:27.000Z",
-          "wordCount": 1114,
-          "title": "CERTFR-2023-AVI-0939 : Multiples vulnérabilités dans les produits Adobe (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0938/",
-          "publishedOn": "2023-11-15T09:22:55.000Z",
-          "wordCount": 988,
-          "title": "CERTFR-2023-AVI-0938 : Multiples vulnérabilités dans Xen (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0937/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Kibana et Logstash. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0937/",
-          "publishedOn": "2023-11-15T09:22:43.000Z",
-          "wordCount": 974,
-          "title": "CERTFR-2023-AVI-0937 : Multiples vulnérabilités dans Kibana et Logstash (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0936/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Cloud Director Appliance. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0936/",
-          "publishedOn": "2023-11-15T09:22:33.000Z",
-          "wordCount": 955,
-          "title": "CERTFR-2023-AVI-0936 : Vulnérabilité dans VMware Cloud Director Appliance (15 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
