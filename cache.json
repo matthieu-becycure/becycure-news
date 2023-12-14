@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of academics has disclosed a new \"software fault attack\" on AMD's Secure Encrypted Virtualization (SEV) technology that could be potentially exploited by threat actors to infiltrate encrypted virtual machines (VMs) and even perform privilege escalation.\nThe attack has been codenamed CacheWarp (CVE-2023-20592) by researchers from the CISPA Helmholtz Center for Information Security. It",
-          "link": "https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html",
-          "publishedOn": "2023-11-14T18:40:00.000Z",
-          "wordCount": null,
-          "title": "CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfRFABea5euS_7AmlqtSssUpwbk_2Wis8Xgp32Q_GuXDV0JMiuj9MIqMnqnzzr26EME3erTFOS-3hxwavm0nvoXGz3ogr0huMxzjh5PmTiqypQ4Gos9IE24Ij4-NE4GphYNBDDKjLT04omLbmVB60gHgTSVhEtpfczOi3SuktR5TUiU0rOeYCp_t2U45l/s1600/cache.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfRFABea5euS_7AmlqtSssUpwbk_2Wis8Xgp32Q_GuXDV0JMiuj9MIqMnqnzzr26EME3erTFOS-3hxwavm0nvoXGz3ogr0huMxzjh5PmTiqypQ4Gos9IE24Ij4-NE4GphYNBDDKjLT04omLbmVB60gHgTSVhEtpfczOi3SuktR5TUiU0rOeYCp_t2U45l/s1600/cache.jpg"
         }
       ]
     },
