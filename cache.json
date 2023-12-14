@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors affiliated with the Russian Foreign Intelligence Service (SVR) have targeted unpatched JetBrains TeamCity servers in widespread attacks since September 2023.\nThe activity has been tied to a nation-state group known as APT29, which is also tracked as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. It's notable for the supply chain",
+          "link": "https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html",
+          "publishedOn": "2023-12-14T10:32:00.000Z",
+          "wordCount": null,
+          "title": "Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDKbKa72n4VotF8W9178CwTqmdHijViE9Y1GlTdT15iWOulpZkfV3vUxPbYBo8gqR1TVgAFC6Da4kQnH7WznrPNwnCvgkL7DI204zXV_hXeq4oHZMYnL8gIkLg_pAuRV98ie6ORihMsBYxZK2vstgRtcYsV0_7LV5yNI9UJOLktFVY1_Ux8mOAha_rHHb/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDKbKa72n4VotF8W9178CwTqmdHijViE9Y1GlTdT15iWOulpZkfV3vUxPbYBo8gqR1TVgAFC6Da4kQnH7WznrPNwnCvgkL7DI204zXV_hXeq4oHZMYnL8gIkLg_pAuRV98ie6ORihMsBYxZK2vstgRtcYsV0_7LV5yNI9UJOLktFVY1_Ux8mOAha_rHHb/s1600/hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A previously unknown hacker outfit called GambleForce has been attributed to a series of SQL injection attacks against companies primarily in the Asia-Pacific (APAC) region since at least September 2023.\n\"GambleForce uses a set of basic yet very effective techniques, including SQL injections and the exploitation of vulnerable website content management systems (CMS) to steal sensitive",
