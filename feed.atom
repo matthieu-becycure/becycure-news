@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T07:10:11.138Z</updated>
+    <updated>2023-12-14T07:23:41.774Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks]]></title>
+        <id>https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html</id>
+        <link href="https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html"/>
+        <updated>2023-12-14T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously unknown hacker outfit called GambleForce has been attributed to a series of SQL injection attacks against companies primarily in the Asia-Pacific (APAC) region since at least September 2023.
+"GambleForce uses a set of basic yet very effective techniques, including SQL injections and the exploitation of vulnerable website content management systems (CMS) to steal sensitive]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Takes Legal Action to Crack Down on Storm-1152's Cybercrime Network]]></title>
         <id>https://thehackernews.com/2023/12/microsoft-takes-legal-action-to-crack.html</id>
