@@ -2237,6 +2237,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/",
+          "publishedOn": "2023-12-14T15:03:19.000Z",
+          "wordCount": 928,
+          "title": "CERTFR-2023-AVI-1032 : Vulnérabilité dans Microsoft Azure (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/",
+          "publishedOn": "2023-12-14T14:53:59.000Z",
+          "wordCount": 962,
+          "title": "CERTFR-2023-AVI-1031 : Multiples vulnérabilités dans Google Chrome (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/",
+          "publishedOn": "2023-12-14T14:25:29.000Z",
+          "wordCount": 926,
+          "title": "CERTFR-2023-AVI-1030 : Vulnérabilité dans Squid (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une exécution de code arbitraire à distance, une atteinte à la …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1029/",
+          "publishedOn": "2023-12-14T12:24:01.000Z",
+          "wordCount": 1191,
+          "title": "CERTFR-2023-AVI-1029 : Multiples vulnérabilités dans les produits Palo Alto Networks (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1028/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Wallix. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1028/",
+          "publishedOn": "2023-12-14T10:39:35.000Z",
+          "wordCount": 998,
+          "title": "CERTFR-2023-AVI-1028 : Vulnérabilité dans les produits Wallix (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1027/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1027/",
+          "publishedOn": "2023-12-14T10:01:22.000Z",
+          "wordCount": 1040,
+          "title": "CERTFR-2023-AVI-1027 : Multiples vulnérabilités dans GitLab (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans VMware Workspace ONE Launcher. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/",
+          "publishedOn": "2023-12-14T09:08:27.000Z",
+          "wordCount": 939,
+          "title": "CERTFR-2023-AVI-1026 : Vulnérabilité dans VMware Workspace ONE Launcher (14 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
           "author": null,
           "description": "Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non …",
