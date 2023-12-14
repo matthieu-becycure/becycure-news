@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOUQ5dPjrWhWgw2ry3dX9ZEOWtrbGuwXvtR3DyvEEbhnShrQ7ThUD_u3Eaj_R2vSHsaSbqDdESQEIuj90YTxmjFrxUoTqV3ozt1BAZH7KPMxe-zH5IAsKA-QVEO-01wZYR2zgakn9ccY9Y6F6LPCL3HLE1M7bEKcN131W8MTGYaQM5jXyekGswOTsWYNE/s1600/indider.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOUQ5dPjrWhWgw2ry3dX9ZEOWtrbGuwXvtR3DyvEEbhnShrQ7ThUD_u3Eaj_R2vSHsaSbqDdESQEIuj90YTxmjFrxUoTqV3ozt1BAZH7KPMxe-zH5IAsKA-QVEO-01wZYR2zgakn9ccY9Y6F6LPCL3HLE1M7bEKcN131W8MTGYaQM5jXyekGswOTsWYNE/s1600/indider.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Intel has released fixes to close out a high-severity flaw codenamed Reptar that impacts its desktop, mobile, and server CPUs.\nTracked as CVE-2023-23583 (CVSS score: 8.8), the issue has the potential to \"allow escalation of privilege and/or information disclosure and/or denial of service via local access.\"\nSuccessful exploitation of the vulnerability could also permit a bypass of the CPU's",
-          "link": "https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html",
-          "publishedOn": "2023-11-15T07:52:00.000Z",
-          "wordCount": null,
-          "title": "Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLdIN1LC4oqYA9osX7NuUY_cTNx0nSjhu6f1m7BdHOsPjXFEZ32ttHBm_YeZfd24gNTn2iGRGyavmRURVN5y1GcI3KBClNVrP1J8T-w75mK2tpn24u4Ihf_GBtmvw8gJJiZwdP3ed5bv-0kr1521zbORDtzoQvwioywWkFTB-1eXK2-C_sso7EZGz6sJOB/s1600/intel.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLdIN1LC4oqYA9osX7NuUY_cTNx0nSjhu6f1m7BdHOsPjXFEZ32ttHBm_YeZfd24gNTn2iGRGyavmRURVN5y1GcI3KBClNVrP1J8T-w75mK2tpn24u4Ihf_GBtmvw8gJJiZwdP3ed5bv-0kr1521zbORDtzoQvwioywWkFTB-1eXK2-C_sso7EZGz6sJOB/s1600/intel.jpg"
         }
       ]
     },

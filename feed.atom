@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T19:43:28.206Z</updated>
+    <updated>2023-12-14T20:11:07.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2582,18 +2582,6 @@ Insider threats continue to prove difficult for]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Cloud Director Appliance. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments]]></title>
-        <id>https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html</id>
-        <link href="https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html"/>
-        <updated>2023-11-15T07:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel has released fixes to close out a high-severity flaw codenamed Reptar that impacts its desktop, mobile, and server CPUs.
-Tracked as CVE-2023-23583 (CVSS score: 8.8), the issue has the potential to "allow escalation of privilege and/or information disclosure and/or denial of service via local access."
-Successful exploitation of the vulnerability could also permit a bypass of the CPU's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
