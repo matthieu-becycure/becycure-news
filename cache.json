@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iranian state-sponsored threat actor known as OilRig deployed three different downloader malware throughout 2022 to maintain persistent access to victim organizations located in Israel.\nThe three new downloaders have been named ODAgent, OilCheck, and OilBooster by Slovak cybersecurity company ESET. The attacks also involved the use of an updated version of a known OilRig downloader",
+          "link": "https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html",
+          "publishedOn": "2023-12-14T12:30:00.000Z",
+          "wordCount": null,
+          "title": "Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4iQj0qz1Up5Rv_M_pF7nsWkLlWDh6sjyRauiKVq5ToIE259k8suP-ktQqzmcNr4AuvBtfXd5Wq4gTZW06q4fxOChGKmV0wlHX7O3D7WrzmV13MWmWZ72U7Tzt-8gMxza5F_TGlmWiOKvS2ugY7P3EMYTtBVpDn_rO9KHAxm24r_oPwcJUUhm8HDkL4/s1600/eset.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGv4iQj0qz1Up5Rv_M_pF7nsWkLlWDh6sjyRauiKVq5ToIE259k8suP-ktQqzmcNr4AuvBtfXd5Wq4gTZW06q4fxOChGKmV0wlHX7O3D7WrzmV13MWmWZ72U7Tzt-8gMxza5F_TGlmWiOKvS2ugY7P3EMYTtBVpDn_rO9KHAxm24r_oPwcJUUhm8HDkL4/s1600/eset.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Network penetration testing plays a crucial role in protecting businesses in the ever-evolving world of cybersecurity. Yet, business leaders and IT pros have misconceptions about this process, which impacts their security posture and decision-making. \nThis blog acts as a quick guide on network penetration testing, explaining what it is, debunking common myths and reimagining its role in",

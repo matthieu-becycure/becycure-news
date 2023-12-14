@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T12:46:14.683Z</updated>
+    <updated>2023-12-14T13:13:29.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders]]></title>
+        <id>https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html</id>
+        <link href="https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html"/>
+        <updated>2023-12-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Iranian state-sponsored threat actor known as OilRig deployed three different downloader malware throughout 2022 to maintain persistent access to victim organizations located in Israel.
+The three new downloaders have been named ODAgent, OilCheck, and OilBooster by Slovak cybersecurity company ESET. The attacks also involved the use of an updated version of a known OilRig downloader]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reimagining Network Pentesting With Automation]]></title>
         <id>https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html</id>
