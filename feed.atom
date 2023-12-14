@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T11:43:23.813Z</updated>
+    <updated>2023-12-14T12:19:29.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Reimagining Network Pentesting With Automation]]></title>
+        <id>https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html</id>
+        <link href="https://thehackernews.com/2023/12/reimagining-network-pentesting-with.html"/>
+        <updated>2023-12-14T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Network penetration testing plays a crucial role in protecting businesses in the ever-evolving world of cybersecurity. Yet, business leaders and IT pros have misconceptions about this process, which impacts their security posture and decision-making. 
+This blog acts as a quick guide on network penetration testing, explaining what it is, debunking common myths and reimagining its role in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks]]></title>
         <id>https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html</id>
