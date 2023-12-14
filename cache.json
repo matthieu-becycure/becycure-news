@@ -3169,36 +3169,6 @@
           "wordCount": 1078,
           "title": "CERTFR-2023-AVI-0943 : Multiples vulnérabilités dans Microsoft Office (15 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0942/",
-          "publishedOn": "2023-11-15T10:00:39.000Z",
-          "wordCount": 1152,
-          "title": "CERTFR-2023-AVI-0942 : Multiples vulnérabilités dans les produits SAP (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Aruba. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0941/",
-          "publishedOn": "2023-11-15T09:54:43.000Z",
-          "wordCount": 1068,
-          "title": "CERTFR-2023-AVI-0941 : Multiples vulnérabilités dans les produits Aruba (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0940/",
-          "publishedOn": "2023-11-15T09:49:29.000Z",
-          "wordCount": 947,
-          "title": "CERTFR-2023-AVI-0940 : Multiples vulnérabilités dans Google Chrome (15 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
