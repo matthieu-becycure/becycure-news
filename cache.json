@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRuJy8Kc8QoOVyZgeM4bbiPWk_J9robTobBwGTIraNfYpn8OMquo8NbTNTo3cp6SjbGwY04NWOCT9FbawNRGDnZ_200hkyi0lw0S3ysejEqQMDWRWsECMAUeV3eJjM1I2rT-4TX4O26L8wW-7ASiBYhS2ZfRM4RJUbOxI7OXLSC4PfEF1b0cZG08LrdKiZ/s1600/windows.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRuJy8Kc8QoOVyZgeM4bbiPWk_J9robTobBwGTIraNfYpn8OMquo8NbTNTo3cp6SjbGwY04NWOCT9FbawNRGDnZ_200hkyi0lw0S3ysejEqQMDWRWsECMAUeV3eJjM1I2rT-4TX4O26L8wW-7ASiBYhS2ZfRM4RJUbOxI7OXLSC4PfEF1b0cZG08LrdKiZ/s1600/windows.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "VMware is warning of a critical and unpatched security flaw in Cloud Director that could be exploited by a malicious actor to get around authentication protections.\nTracked as CVE-2023-34060 (CVSS score: 9.8), the vulnerability impacts instances that have been upgraded to version 10.5 from an older version.\n\"On an upgraded version of VMware Cloud Director Appliance 10.5, a malicious actor with",
-          "link": "https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html",
-          "publishedOn": "2023-11-15T04:18:00.000Z",
-          "wordCount": null,
-          "title": "Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLcEfiiZzDiwCkaj-4kSgjtNMuA1dw467mYJvHZ_F0GZdG9BgLRQ8DmDCGxtoufqV49GlbW_8ExKxQPn7D6XR1Tb3vxaxTiXtirCoj56DLR-s7cAsffTKfDxYmJwsIhhNoRGUCPlTtk38c8A4xg9nOJI1pKSwtLS2q252_zZt3nR1NjddnnRy1bY52dB6m/s1600/vmware.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-14T16:11:32.399Z</updated>
+    <updated>2023-12-14T16:30:02.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2593,18 +2593,6 @@ Successful exploitation of the vulnerability could also permit a bypass of the C
         <summary type="html"><![CDATA[Microsoft has released fixes to address 63 security bugs in its software for the month of November 2023, including three vulnerabilities that have come under active exploitation in the wild.
 Of the 63 flaws, three are rated Critical, 56 are rated Important, and four are rated Moderate in severity. Two of them have been listed as publicly known at the time of the release.
 The updates are in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability]]></title>
-        <id>https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html</id>
-        <link href="https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html"/>
-        <updated>2023-11-15T04:18:00.000Z</updated>
-        <summary type="html"><![CDATA[VMware is warning of a critical and unpatched security flaw in Cloud Director that could be exploited by a malicious actor to get around authentication protections.
-Tracked as CVE-2023-34060 (CVSS score: 9.8), the vulnerability impacts instances that have been upgraded to version 10.5 from an older version.
-"On an upgraded version of VMware Cloud Director Appliance 10.5, a malicious actor with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
