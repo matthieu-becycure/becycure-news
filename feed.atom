@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-15T14:43:30.577Z</updated>
+    <updated>2023-12-15T15:10:40.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks]]></title>
+        <id>https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html</id>
+        <link href="https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html"/>
+        <updated>2023-12-15T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A new botnet consisting of firewalls and routers from Cisco, DrayTek, Fortinet, and NETGEAR is being used as a covert data transfer network for advanced persistent threat actors, including the China-linked threat actor called Volt Typhoon.
+Dubbed KV-botnet by the Black Lotus Labs team at Lumen Technologies, the malicious network is an amalgamation of two complementary activity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft]]></title>
         <id>https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html</id>
