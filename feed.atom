@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-15T11:43:41.433Z</updated>
+    <updated>2023-12-15T12:19:14.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bug or Feature? Hidden Web Application Vulnerabilities Uncovered]]></title>
+        <id>https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html</id>
+        <link href="https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html"/>
+        <updated>2023-12-15T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Web Application Security consists of a myriad of security controls that ensure that a web application:
+
+Functions as expected.
+Cannot be exploited to operate out of bounds.
+Cannot initiate operations that it is not supposed to do.
+
+Web Applications have become ubiquitous after the expansion of Web 2.0, which Social Media Platforms, E-Commerce websites, and email clients saturating the internet]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Security Vulnerabilities Uncovered in pfSense Firewall Software - Patch Now]]></title>
+        <id>https://thehackernews.com/2023/12/new-security-vulnerabilities-uncovered.html</id>
+        <link href="https://thehackernews.com/2023/12/new-security-vulnerabilities-uncovered.html"/>
+        <updated>2023-12-15T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple security vulnerabilities have been discovered in the open-source Netgate pfSense firewall solution called pfSense that could be chained by an attacker to execute arbitrary commands on susceptible appliances.
+The issues relate to two reflected cross-site scripting (XSS) bugs and one command injection flaw, according to new findings from Sonar.
+"Security inside a local network is often]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's New Tracking Protection in Chrome Blocks Third-Party Cookies]]></title>
         <id>https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html</id>
