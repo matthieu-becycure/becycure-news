@@ -3087,56 +3087,6 @@
           "wordCount": 948,
           "title": "CERTFR-2023-AVI-0948 : Multiples vulnérabilités dans Citrix Hypervisor (16 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données, une élévation de privilèges, un contournement de la fonctionnalité de …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0947/",
-          "publishedOn": "2023-11-15T14:22:19.000Z",
-          "wordCount": 1423,
-          "title": "CERTFR-2023-AVI-0947 : Multiples vulnérabilités dans les produits Microsoft (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/",
-          "author": null,
-          "description": "Une vulnérabilité a été corrigée dans Microsoft Azure. Elle permet à un attaquant de provoquer une exécution de code à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0946/",
-          "publishedOn": "2023-11-15T14:22:17.000Z",
-          "wordCount": 933,
-          "title": "CERTFR-2023-AVI-0946 : Vulnérabilité dans Microsoft Azure (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service, une élévation de privilèges et un contournement de la fonctionnalité de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0945/",
-          "publishedOn": "2023-11-15T14:22:15.000Z",
-          "wordCount": 1072,
-          "title": "CERTFR-2023-AVI-0945 : Multiples vulnérabilités dans Microsoft .Net (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données, une élévation de privilèges, un contournement de la fonctionnalité de sécurité, …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0944/",
-          "publishedOn": "2023-11-15T14:22:14.000Z",
-          "wordCount": 1688,
-          "title": "CERTFR-2023-AVI-0944 : Multiples vulnérabilités dans Microsoft Windows (15 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et une exécution de code à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0943/",
-          "publishedOn": "2023-11-15T14:22:12.000Z",
-          "wordCount": 1078,
-          "title": "CERTFR-2023-AVI-0943 : Multiples vulnérabilités dans Microsoft Office (15 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
