@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel multi-platform threat called NKAbuse has been discovered using a decentralized, peer-to-peer network connectivity protocol known as NKN (short for New Kind of Network) as a communications channel.\n\"The malware utilizes NKN technology for data exchange between peers, functioning as a potent implant, and equipped with both flooder and backdoor capabilities,\" Russian",
+          "link": "https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html",
+          "publishedOn": "2023-12-15T05:25:00.000Z",
+          "wordCount": null,
+          "title": "New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifqYmsa3A1pm-DxfoXxSRetpzoa12pRIN7jMrYIqgzFLx6PHlZK4P_fzUuv9LYwV7u0_WqJ7YFLh8iKQ3IbxquYC-JckF_25TheDebGuWauFSPYj8Wq_ct_k8Owt2c278nWaD4C7jCDQopPEscWwK818dt6O0xMIkBuAQKVPrX0RTowDNDooXyByVEU0SG/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifqYmsa3A1pm-DxfoXxSRetpzoa12pRIN7jMrYIqgzFLx6PHlZK4P_fzUuv9LYwV7u0_WqJ7YFLh8iKQ3IbxquYC-JckF_25TheDebGuWauFSPYj8Wq_ct_k8Owt2c278nWaD4C7jCDQopPEscWwK818dt6O0xMIkBuAQKVPrX0RTowDNDooXyByVEU0SG/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have identified a set of 116 malicious packages on the Python Package Index (PyPI) repository that are designed to infect Windows and Linux systems with a custom backdoor.\n\"In some cases, the final payload is a variant of the infamous W4SP Stealer, or a simple clipboard monitor to steal cryptocurrency, or both,\" ESET researchers Marc-Etienne M.Léveillé and Rene",
