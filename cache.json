@@ -3171,16 +3171,6 @@
           "wordCount": 956,
           "title": "CERTFR-2023-AVI-0952 : Vulnérabilité dans Progress WS_FTP Server (16 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Android et Pixel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0951/",
-          "publishedOn": "2023-11-16T10:04:02.000Z",
-          "wordCount": 1078,
-          "title": "CERTFR-2023-AVI-0951 : Multiples vulnérabilités dans Android et Pixel (16 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
