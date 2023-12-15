@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Crypto hardware wallet maker Ledger published a new version of its \"@ledgerhq/connect-kit\" npm module after unidentified threat actors pushed malicious code that led to the theft of more than $600,000 in virtual assets.\nThe compromise was the result of a former employee falling victim to a phishing attack, the company said in a statement.\nThis allowed the attackers to gain",
+          "link": "https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html",
+          "publishedOn": "2023-12-15T13:01:00.000Z",
+          "wordCount": null,
+          "title": "Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNPeIEds2Yy8KQh5fB_BMbhKyf9Aq_wl3ltqOlLHuDa5ZQWXho7murXiKE0qjeokjHBbDYEov7hf8qGFNWykVdxuuf7en8BzynuYgXLs_VPbSjmjTrEnxckAt2HAXDCwKFF4pLo7Jc1apjA_OtfOPQIbc6cBDgGVmYcCPuPJ9jMYcM0JEu1-39pogQDtbQ/s1600/bitcoin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNPeIEds2Yy8KQh5fB_BMbhKyf9Aq_wl3ltqOlLHuDa5ZQWXho7murXiKE0qjeokjHBbDYEov7hf8qGFNWykVdxuuf7en8BzynuYgXLs_VPbSjmjTrEnxckAt2HAXDCwKFF4pLo7Jc1apjA_OtfOPQIbc6cBDgGVmYcCPuPJ9jMYcM0JEu1-39pogQDtbQ/s1600/bitcoin.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Web Application Security consists of a myriad of security controls that ensure that a web application:\n\nFunctions as expected.\nCannot be exploited to operate out of bounds.\nCannot initiate operations that it is not supposed to do.\n\nWeb Applications have become ubiquitous after the expansion of Web 2.0, which Social Media Platforms, E-Commerce websites, and email clients saturating the internet",

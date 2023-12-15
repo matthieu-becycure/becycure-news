@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-15T13:13:09.002Z</updated>
+    <updated>2023-12-15T13:27:51.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft]]></title>
+        <id>https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html</id>
+        <link href="https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html"/>
+        <updated>2023-12-15T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Crypto hardware wallet maker Ledger published a new version of its "@ledgerhq/connect-kit" npm module after unidentified threat actors pushed malicious code that led to the theft of more than $600,000 in virtual assets.
+The compromise was the result of a former employee falling victim to a phishing attack, the company said in a statement.
+This allowed the attackers to gain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bug or Feature? Hidden Web Application Vulnerabilities Uncovered]]></title>
         <id>https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html</id>
