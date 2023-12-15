@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-15T07:43:40.199Z</updated>
+    <updated>2023-12-15T08:13:42.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google's New Tracking Protection in Chrome Blocks Third-Party Cookies]]></title>
+        <id>https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html</id>
+        <link href="https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html"/>
+        <updated>2023-12-15T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday announced that it will start testing a new feature called "Tracking Protection" starting January 4, 2024, to 1% of Chrome users as part of its efforts to deprecate third-party cookies in the web browser.
+The setting is designed to limit "cross-site tracking by restricting website access to third-party cookies by default," Anthony Chavez, vice president of Privacy]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks]]></title>
         <id>https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html</id>
