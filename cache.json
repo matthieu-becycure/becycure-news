@@ -3151,16 +3151,6 @@
           "wordCount": 1006,
           "title": "CERTFR-2023-AVI-0954 : Multiples vulnérabilités dans Nessus et Nessus Agent (17 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0953/",
-          "publishedOn": "2023-11-16T11:05:01.000Z",
-          "wordCount": 1786,
-          "title": "CERTFR-2023-AVI-0953 : Multiples vulnérabilités dans les produits Intel (16 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
