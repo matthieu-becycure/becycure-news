@@ -3161,16 +3161,6 @@
           "wordCount": 1786,
           "title": "CERTFR-2023-AVI-0953 : Multiples vulnérabilités dans les produits Intel (16 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Progress WS_FTP Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0952/",
-          "publishedOn": "2023-11-16T10:41:00.000Z",
-          "wordCount": 956,
-          "title": "CERTFR-2023-AVI-0952 : Vulnérabilité dans Progress WS_FTP Server (16 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
