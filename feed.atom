@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T19:23:23.745Z</updated>
+    <updated>2023-12-16T19:43:25.042Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2429,17 +2429,6 @@ The 27 packages, which masqueraded as popular legitimate Python libraries, attra
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Nessus et Nessus Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Cybersecurity Agencies Warn of Scattered Spider's Gen Z Cybercrime Ecosystem]]></title>
-        <id>https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html</id>
-        <link href="https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html"/>
-        <updated>2023-11-17T07:32:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have released a joint advisory about a cybercriminal group known as Scattered Spider that's known to employ sophisticated phishing tactics to infiltrate targets.
-"Scattered Spider threat actors typically engage in data theft for extortion using multiple social engineering techniques and have recently leveraged BlackCat/ALPHV ransomware alongside their]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
