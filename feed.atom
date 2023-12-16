@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T05:27:24.269Z</updated>
+    <updated>2023-12-16T05:43:48.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Storm-0539: The Rising Threat Behind Holiday Gift Card Frauds]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html"/>
+        <updated>2023-12-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as Storm-0539 for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season.
+The goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks]]></title>
         <id>https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html</id>
