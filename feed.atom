@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T21:43:28.812Z</updated>
+    <updated>2023-12-16T22:09:04.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2346,17 +2346,6 @@ Cybersecurity company Securonix is tracking the ongoing activity under the nameÂ
         <summary type="html"><![CDATA[In 2023, the cloud isn't just a technologyâ€”it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone.
 In collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: 'Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics.'
 Join us for an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts]]></title>
-        <id>https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html</id>
-        <link href="https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html"/>
-        <updated>2023-11-17T09:56:00.000Z</updated>
-        <summary type="html"><![CDATA[An unknown threat actor has been observed publishing typosquat packages to the Python Package Index (PyPI) repository for nearly six months with an aim to deliver malware capable of gaining persistence, stealing sensitive data, and accessing cryptocurrency wallets for financial gain.
-The 27 packages, which masqueraded as popular legitimate Python libraries, attracted thousands of downloads,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

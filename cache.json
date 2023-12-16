@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxyo5rI_vHwaRirlBhtMQcDf8YeNcq5h9Mpq6SsKPeAe4aVJB2wGPps-LNIcF9cExiLH5tZVW0MTun1ROoO0PFsv-WXpdr9elG0V5ls8XCi8D08Sy9Fwc6eXn1ar7BWpRRVrsS9KzW16tqBXSX_La4LUS4y2wLtEytqniLdPIopA4r2IiokzKsnDgrE3I/s1600/lacework-webinar.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxyo5rI_vHwaRirlBhtMQcDf8YeNcq5h9Mpq6SsKPeAe4aVJB2wGPps-LNIcF9cExiLH5tZVW0MTun1ROoO0PFsv-WXpdr9elG0V5ls8XCi8D08Sy9Fwc6eXn1ar7BWpRRVrsS9KzW16tqBXSX_La4LUS4y2wLtEytqniLdPIopA4r2IiokzKsnDgrE3I/s1600/lacework-webinar.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An unknown threat actor has been observed publishing typosquat packages to the Python Package Index (PyPI) repository for nearly six months with an aim to deliver malware capable of gaining persistence, stealing sensitive data, and accessing cryptocurrency wallets for financial gain.\nThe 27 packages, which masqueraded as popular legitimate Python libraries, attracted thousands of downloads,",
-          "link": "https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html",
-          "publishedOn": "2023-11-17T09:56:00.000Z",
-          "wordCount": null,
-          "title": "27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDBkI44nHRuP0OlrxuAmiytgqVzCVq1YMAahyvpnAWJWwq7bBTB9UelXxXLSw9GwzJp3ov-6f4G5ly_PW9t4H7iabSmFESM-yvHjbcltBeDY_EWNj5GoceWHBw4tJ_itBoMK7EFe7KHsoN5Pc6Sa0SdtIRQwheSluh-RsEthFyTf6ZpQzXv962C3_MQKAV/s1600/python.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDBkI44nHRuP0OlrxuAmiytgqVzCVq1YMAahyvpnAWJWwq7bBTB9UelXxXLSw9GwzJp3ov-6f4G5ly_PW9t4H7iabSmFESM-yvHjbcltBeDY_EWNj5GoceWHBw4tJ_itBoMK7EFe7KHsoN5Pc6Sa0SdtIRQwheSluh-RsEthFyTf6ZpQzXv962C3_MQKAV/s1600/python.jpg"
         }
       ]
     },
