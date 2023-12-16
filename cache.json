@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "China's Ministry of Industry and Information Technology (MIIT) on Friday unveiled draft proposals detailing its plans to tackle data security events in the country using a color-coded system.\nThe effort is designed to \"improve the comprehensive response capacity for data security incidents, to ensure timely and effective control, mitigation and elimination of hazards and losses caused",
+          "link": "https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html",
+          "publishedOn": "2023-12-16T07:32:00.000Z",
+          "wordCount": null,
+          "title": "China's MIIT Introduces Color-Coded Action Plan for Data Security Incidents",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl-5K58mL4OFmSEANCOpZUQgyhbN6JN-hoMIBW0p0iizHScwBSkYW7JrC1JbZ7Ug3eNR2TkPn780sA-PLQTSKLpcWGe_pFPMhvkm6DX_LM0ySx0EgIOD6XJQUcHb99Ow-4WxqUQU2fanCWkaS2Bu7DlxVhsolknQ3aYKXdSxQC3AFVCbwzUpB4DacsnzLp/s1600/china.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl-5K58mL4OFmSEANCOpZUQgyhbN6JN-hoMIBW0p0iizHScwBSkYW7JrC1JbZ7Ug3eNR2TkPn780sA-PLQTSKLpcWGe_pFPMhvkm6DX_LM0ySx0EgIOD6XJQUcHb99Ow-4WxqUQU2fanCWkaS2Bu7DlxVhsolknQ3aYKXdSxQC3AFVCbwzUpB4DacsnzLp/s1600/china.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as Storm-0539 for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season.\nThe goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM",
