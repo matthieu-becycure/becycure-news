@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhwHEYUwuc4SIu8Qf9IZ0LTBShia61f2pgc7Zg5friUlHZLgokcOpf26ZtS3KvzzZieZTcxhWusuzOaU92Vp2tCOeX3wXypvyHxsjmm7l2tk4yByS2tmIwxKXleLXqJYqIV1z12emXUK1TxMVXZTRponVyF6101JZX3M9oIpd2yA3rCkem6KSlIsB51SgQ/s1600/sim-swapping.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhwHEYUwuc4SIu8Qf9IZ0LTBShia61f2pgc7Zg5friUlHZLgokcOpf26ZtS3KvzzZieZTcxhWusuzOaU92Vp2tCOeX3wXypvyHxsjmm7l2tk4yByS2tmIwxKXleLXqJYqIV1z12emXUK1TxMVXZTRponVyF6101JZX3M9oIpd2yA3rCkem6KSlIsB51SgQ/s1600/sim-swapping.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/discover-2023s-cloud-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In 2023, the cloud isn't just a technology—it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone.\nIn collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: 'Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics.'\nJoin us for an",
-          "link": "https://thehackernews.com/2023/11/discover-2023s-cloud-security.html",
-          "publishedOn": "2023-11-17T10:30:00.000Z",
-          "wordCount": null,
-          "title": "Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxyo5rI_vHwaRirlBhtMQcDf8YeNcq5h9Mpq6SsKPeAe4aVJB2wGPps-LNIcF9cExiLH5tZVW0MTun1ROoO0PFsv-WXpdr9elG0V5ls8XCi8D08Sy9Fwc6eXn1ar7BWpRRVrsS9KzW16tqBXSX_La4LUS4y2wLtEytqniLdPIopA4r2IiokzKsnDgrE3I/s1600/lacework-webinar.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxyo5rI_vHwaRirlBhtMQcDf8YeNcq5h9Mpq6SsKPeAe4aVJB2wGPps-LNIcF9cExiLH5tZVW0MTun1ROoO0PFsv-WXpdr9elG0V5ls8XCi8D08Sy9Fwc6eXn1ar7BWpRRVrsS9KzW16tqBXSX_La4LUS4y2wLtEytqniLdPIopA4r2IiokzKsnDgrE3I/s1600/lacework-webinar.jpg"
         }
       ]
     },
@@ -2974,16 +2958,6 @@
           "publishedOn": "2023-11-20T09:26:51.000Z",
           "wordCount": 1827,
           "title": "CERTFR-2023-ACT-050 : Bulletin d’actualité CERTFR-2023-ACT-050 (20 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/",
-          "publishedOn": "2023-11-17T10:30:42.000Z",
-          "wordCount": 1036,
-          "title": "CERTFR-2023-AVI-0959 : Multiples vulnérabilités dans Microsoft Edge (17 novembre 2023)",
           "imageUrl": null
         }
       ]

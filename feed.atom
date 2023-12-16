@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T22:27:36.584Z</updated>
+    <updated>2023-12-16T22:43:34.793Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2324,28 +2324,6 @@ Cybersecurity company Securonix is tracking the ongoing activity under the name�
         <updated>2023-11-17T12:37:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Federal Communications Commission (FCC) is adopting new rules that aim to protect consumers from cell phone account scams that make it possible for malicious actors to orchestrate SIM-swapping attacks and port-out fraud.
 “The rules will help protect consumers from scammers who target data and personal information by covertly swapping SIM cards to a new device or porting phone numbers to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0959 : Multiples vulnérabilités dans Microsoft Edge (17 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0959/"/>
-        <updated>2023-11-17T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot]]></title>
-        <id>https://thehackernews.com/2023/11/discover-2023s-cloud-security.html</id>
-        <link href="https://thehackernews.com/2023/11/discover-2023s-cloud-security.html"/>
-        <updated>2023-11-17T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2023, the cloud isn't just a technology—it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone.
-In collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: 'Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics.'
-Join us for an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
