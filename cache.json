@@ -3061,16 +3061,6 @@
           "wordCount": 948,
           "title": "CERTFR-2023-AVI-0955 : Vulnérabilité dans les produits Cisco (17 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0954/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nessus et Nessus Agent. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0954/",
-          "publishedOn": "2023-11-17T09:20:17.000Z",
-          "wordCount": 1006,
-          "title": "CERTFR-2023-AVI-0954 : Multiples vulnérabilités dans Nessus et Nessus Agent (17 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
