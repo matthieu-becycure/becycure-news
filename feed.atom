@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T03:43:32.463Z</updated>
+    <updated>2023-12-16T04:12:27.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2430,18 +2430,6 @@ The vulnerabilities are as follows -
 
 CVE-2023-36584 (CVSS score: 5.4) - Microsoft Windows Mark-of-the-Web (MotW) Security Feature Bypass Vulnerability
 CVE-2023-1671 (CVSS score: 9.8) -]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups]]></title>
-        <id>https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html</id>
-        <link href="https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html"/>
-        <updated>2023-11-16T16:09:00.000Z</updated>
-        <summary type="html"><![CDATA[A zero-day flaw in the Zimbra Collaboration email software was exploited by four different groups in real-world attacks to pilfer email data, user credentials, and authentication tokens.
-"Most of this activity occurred after the initial fix became public on GitHub," Google Threat Analysis Group (TAG) said in a report shared with The Hacker News.
-The flaw, tracked as CVE-2023-37580 (CVSS score:]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

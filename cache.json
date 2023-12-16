@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rDJj_oU45s5bhg6wX-OdktekVTvzeIJh62kVTkBLzgABhLluROoTkebmdE1plaGLH420QMUOaEYPhkIeQJw1gOjuJ7ftYRfoRVgTzPapHioBJtNsO-NuEyh812rT7OdU2IDTq2Q7UsvLjvXsSzr5DqyN9AqVFH8mkmSABiV_vvlAxAD7In4bXr4NJhrt/s1600/cisa.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2rDJj_oU45s5bhg6wX-OdktekVTvzeIJh62kVTkBLzgABhLluROoTkebmdE1plaGLH420QMUOaEYPhkIeQJw1gOjuJ7ftYRfoRVgTzPapHioBJtNsO-NuEyh812rT7OdU2IDTq2Q7UsvLjvXsSzr5DqyN9AqVFH8mkmSABiV_vvlAxAD7In4bXr4NJhrt/s1600/cisa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A zero-day flaw in the Zimbra Collaboration email software was exploited by four different groups in real-world attacks to pilfer email data, user credentials, and authentication tokens.\n\"Most of this activity occurred after the initial fix became public on GitHub,\" Google Threat Analysis Group (TAG) said in a report shared with The Hacker News.\nThe flaw, tracked as CVE-2023-37580 (CVSS score:",
-          "link": "https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html",
-          "publishedOn": "2023-11-16T16:09:00.000Z",
-          "wordCount": null,
-          "title": "Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9oG4U8xGYxd3OGWNGj294qRa598S-YXSg-9frTuURsQty3S6Ovot9UeoghyphenhyphenDvHVx5fEc3U_29f5sWTM2PEl_i9ouksVC9q8wJgLIMCmYE9ZXIAH6qO1k1DckbMXt0EE2ZnuJnmYR57jphUxCoUrRAvvdxyDyjly19eqoNeV8QykkugIWxifzzN_7F_mM7/s1600/email-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9oG4U8xGYxd3OGWNGj294qRa598S-YXSg-9frTuURsQty3S6Ovot9UeoghyphenhyphenDvHVx5fEc3U_29f5sWTM2PEl_i9ouksVC9q8wJgLIMCmYE9ZXIAH6qO1k1DckbMXt0EE2ZnuJnmYR57jphUxCoUrRAvvdxyDyjly19eqoNeV8QykkugIWxifzzN_7F_mM7/s1600/email-hacking.jpg"
         }
       ]
     },
