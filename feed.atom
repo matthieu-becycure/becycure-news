@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T17:43:28.622Z</updated>
+    <updated>2023-12-16T18:12:03.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2438,20 +2438,6 @@ The 27 packages, which masqueraded as popular legitimate Python libraries, attra
         <updated>2023-11-17T07:32:00.000Z</updated>
         <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have released a joint advisory about a cybercriminal group known as Scattered Spider that's known to employ sophisticated phishing tactics to infiltrate targets.
 "Scattered Spider threat actors typically engage in data theft for extortion using multiple social engineering techniques and have recently leveraged BlackCat/ALPHV ransomware alongside their]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Adds Three Security Flaws with Active Exploitation to KEV Catalog]]></title>
-        <id>https://thehackernews.com/2023/11/cisa-adds-three-security-flaws-with.html</id>
-        <link href="https://thehackernews.com/2023/11/cisa-adds-three-security-flaws-with.html"/>
-        <updated>2023-11-17T05:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added three security flaws to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation in the wild.
-The vulnerabilities are as follows -
-
-CVE-2023-36584 (CVSS score: 5.4) - Microsoft Windows Mark-of-the-Web (MotW) Security Feature Bypass Vulnerability
-CVE-2023-1671 (CVSS score: 9.8) -]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
