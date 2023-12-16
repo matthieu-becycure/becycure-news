@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-16T00:48:12.200Z</updated>
+    <updated>2023-12-16T01:51:04.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2442,18 +2442,6 @@ CVE-2023-1671 (CVSS score: 9.8) -]]></summary>
         <summary type="html"><![CDATA[A zero-day flaw in the Zimbra Collaboration email software was exploited by four different groups in real-world attacks to pilfer email data, user credentials, and authentication tokens.
 "Most of this activity occurred after the initial fix became public on GitHub," Google Threat Analysis Group (TAG) said in a report shared with The Hacker News.
 The flaw, tracked as CVE-2023-37580 (CVSS score:]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw]]></title>
-        <id>https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html</id>
-        <link href="https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html"/>
-        <updated>2023-11-16T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[A hacking group that leveraged a recently disclosed security flaw in the WinRAR software as a zero-day has now been categorized as an entirely new advanced persistent threat (APT).
-Cybersecurity company NSFOCUS has described DarkCasino as an "economically motivated" actor that first came to light in 2021.
-"DarkCasino is an APT threat actor with strong technical and learning ability, who is good]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
