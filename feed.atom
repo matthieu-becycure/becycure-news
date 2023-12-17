@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-17T18:29:32.033Z</updated>
+    <updated>2023-12-17T18:43:53.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2301,17 +2301,6 @@ The Appin Software Security (aka Appin Security Group), according to an in-dep
         <summary type="html"><![CDATA[The threat actors behind the 8Base ransomware are leveraging a variant of the Phobos ransomware to conduct their financially motivated attacks.
 The findings come from Cisco Talos, which has recorded an increase in activity carried out by cybercriminals.
 “Most of the group’s Phobos variants are distributed by SmokeLoader, a backdoor trojan," security researcher Guilherme Venere said in an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks]]></title>
-        <id>https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html</id>
-        <link href="https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"/>
-        <updated>2023-11-18T06:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Russian cyber espionage actors affiliated with the Federal Security Service (FSB) have been observed using a USB propagating worm called LitterDrifter in attacks targeting Ukrainian entities.
-Check Point, which detailed Gamaredon's (aka Aqua Blizzard, Iron Tilden, Primitive Bear, Shuckworm, and Winterflounder) latest tactics, branded the group as engaging in large-scale campaigns that are]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
