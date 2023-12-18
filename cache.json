@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/cisa-urges-manufacturers-eliminate.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is urging manufacturers to get rid of default passwords on internet-exposed systems altogether, citing severe risks that could be exploited by malicious actors to gain initial access to, and move laterally within, organizations.\nIn an alert published last week, the agency called out Iranian threat actors affiliated with",
+          "link": "https://thehackernews.com/2023/12/cisa-urges-manufacturers-eliminate.html",
+          "publishedOn": "2023-12-18T05:41:00.000Z",
+          "wordCount": null,
+          "title": "CISA Urges Manufacturers Eliminate Default Passwords to Thwart Cyber Threats",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwTQwzqZ4el-CwAGBHQ8eKB_CLZz3HrPy_Nax4c0bRSPtvUa-zqQxmhAIn2Fz3_wYq_8fKS6SwEUrLvIP_5U43ZiXozrrfMtWtkjkqxFupFeyoOBCuX-Pag4q8UdolmomFsrii_vgqT_MhT0tAPUXLy7l9Vqi3OLlXNwGVdv-iRifYP8r-T_7IzWieVBc2/s1600/passwords.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwTQwzqZ4el-CwAGBHQ8eKB_CLZz3HrPy_Nax4c0bRSPtvUa-zqQxmhAIn2Fz3_wYq_8fKS6SwEUrLvIP_5U43ZiXozrrfMtWtkjkqxFupFeyoOBCuX-Pag4q8UdolmomFsrii_vgqT_MhT0tAPUXLy7l9Vqi3OLlXNwGVdv-iRifYP8r-T_7IzWieVBc2/s1600/passwords.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/mongodb-suffers-security-breach.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "MongoDB on Saturday disclosed it's actively investigating a security incident that has led to unauthorized access to \"certain\" corporate systems, resulting in the exposure of customer account metadata and contact information.\nThe American database software company said it first detected anomalous activity on December 13, 2023, and that it immediately activated its incident response",
