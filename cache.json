@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The developers of the information stealer malware known as Rhadamanthys are actively iterating on its features, broadening its information-gathering capabilities and also incorporating a plugin system to make it more customizable.\nThis approach not only transforms it into a threat capable of delivering \"specific distributor needs,\" but also makes it more potent, Check Point said&",
+          "link": "https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html",
+          "publishedOn": "2023-12-18T14:31:00.000Z",
+          "wordCount": null,
+          "title": "Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5Q_37pcETEgLpkH4CiCsAVcoWGG3A1r0JeMo3JUQR-OeJpy19h418vQwrde_YLzSpaqu5m31b0pOFf6FViio0j-owcsciTWmTd8uUUtEJL6rAr3BjXPr1srLcvkZ3DwXQo-WVXGUSCzQ_INZmDt7ppQVBhW80CQYb23o0kgl9WOoR5wRWI6O9EddsZ0G/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5Q_37pcETEgLpkH4CiCsAVcoWGG3A1r0JeMo3JUQR-OeJpy19h418vQwrde_YLzSpaqu5m31b0pOFf6FViio0j-owcsciTWmTd8uUUtEJL6rAr3BjXPr1srLcvkZ3DwXQo-WVXGUSCzQ_INZmDt7ppQVBhW80CQYb23o0kgl9WOoR5wRWI6O9EddsZ0G/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Four U.S. nationals have been charged for participating in an illicit scheme that earned them more than $80 million via cryptocurrency investment scams.\nThe defendants – Lu Zhang, 36, of Alhambra, California; Justin Walker, 31, of Cypress, California; Joseph Wong, 32, Rosemead, California; and Hailong Zhu, 40, Naperville, Illinois – have been charged with conspiracy to commit money laundering,",
