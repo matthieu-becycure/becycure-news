@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-18T15:27:53.948Z</updated>
+    <updated>2023-12-18T15:43:24.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 7 Trends Shaping SaaS Security in 2024]]></title>
+        <id>https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html</id>
+        <link href="https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html"/>
+        <updated>2023-12-18T14:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past few years, SaaS has developed into the backbone of corporate IT. Service businesses, such as medical practices, law firms, and financial services firms, are almost entirely SaaS based. Non-service businesses, including manufacturers and retailers, have about 70% of their software in the cloud. 
+These applications contain a wealth of data, from minimally sensitive general]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges]]></title>
         <id>https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html</id>
