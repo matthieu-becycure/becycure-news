@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-18T10:43:25.614Z</updated>
+    <updated>2023-12-18T11:09:19.891Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unmasking the Dark Side of Low-Code/No-Code Applications]]></title>
+        <id>https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html</id>
+        <link href="https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html"/>
+        <updated>2023-12-18T10:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Low-code/no-code (LCNC) and robotic process automation (RPA) have gained immense popularity, but how secure are they? Is your security team paying enough attention in an era of rapid digital transformation, where business users are empowered to create applications swiftly using platforms like Microsoft PowerApps, UiPath, ServiceNow, Mendix, and OutSystems?
+The simple truth is often swept under]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry]]></title>
+        <id>https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html</id>
+        <link href="https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html"/>
+        <updated>2023-12-18T09:29:00.000Z</updated>
+        <summary type="html"><![CDATA[A new wave of phishing messages distributing the QakBot malware has been observed, more than three months after a law enforcement effort saw its infrastructure dismantled by infiltrating its command-and-control (C2) network.
+Microsoft, which made the discovery, described it as a low-volume campaign that began on December 11, 2023, and targeted the hospitality industry.
+"Targets]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-CTI-010 : État de la menace ciblant le secteur des télécommunications (18 décembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-010/</id>
