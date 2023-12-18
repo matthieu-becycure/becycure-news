@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-18T16:33:04.235Z</updated>
+    <updated>2023-12-18T16:43:46.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits]]></title>
+        <id>https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html</id>
+        <link href="https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html"/>
+        <updated>2023-12-18T15:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical details have emerged about two now-patched security flaws in Microsoft Windows that could be chained by threat actors to achieve remote code execution on the Outlook email service sans any user interaction.
+"An attacker on the internet can chain the vulnerabilities together to create a full, zero-click remote code execution (RCE) exploit against Outlook clients," Akamai security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top 7 Trends Shaping SaaS Security in 2024]]></title>
         <id>https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html</id>
