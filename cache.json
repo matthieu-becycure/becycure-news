@@ -2189,6 +2189,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/",
+          "publishedOn": "2023-12-18T13:48:53.000Z",
+          "wordCount": 1029,
+          "title": "CERTFR-2023-AVI-1043 : Multiples vulnérabilités dans Zimbra Collaboration (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans MISP. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/",
+          "publishedOn": "2023-12-18T13:15:36.000Z",
+          "wordCount": 926,
+          "title": "CERTFR-2023-AVI-1042 : Vulnérabilités dans MISP (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/",
+          "publishedOn": "2023-12-18T13:05:58.000Z",
+          "wordCount": 1005,
+          "title": "CERTFR-2023-AVI-1041 : Multiples vulnérabilités dans Nextcloud Server (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/",
+          "publishedOn": "2023-12-18T12:39:14.000Z",
+          "wordCount": 1046,
+          "title": "CERTFR-2023-AVI-1040 : Multiples vulnérabilités dans les produits Asterisk (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-054/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-054/",
+          "publishedOn": "2023-12-18T12:21:13.000Z",
+          "wordCount": 1656,
+          "title": "CERTFR-2023-ACT-054 : Bulletin d’actualité CERTFR-2023-ACT-054 (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-010/",
           "author": null,
           "description": "Le secteur des télécommunications intègre une typologie d’acteurs variée allant des opérateurs de communication électroniques (OCE) aux …",
@@ -2196,6 +2246,16 @@
           "publishedOn": "2023-12-18T09:05:35.000Z",
           "wordCount": 1039,
           "title": "CERTFR-2023-CTI-010 : État de la menace ciblant le secteur des télécommunications (18 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/",
+          "publishedOn": "2023-12-18T07:50:48.000Z",
+          "wordCount": 1053,
+          "title": "CERTFR-2023-AVI-1039 : Multiples vulnérabilités dans Stormshield Network Security (18 décembre 2023)",
           "imageUrl": null
         },
         {
