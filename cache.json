@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The malware loader known as PikaBot is being distributed as part of a malvertising campaign targeting users searching for legitimate software like AnyDesk.\n\"PikaBot was previously only distributed via malspam campaigns similarly to QakBot and emerged as one of the preferred payloads for a threat actor known as TA577,\" Malwarebytes' Jérôme Segura said.\nThe malware family,",
+          "link": "https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html",
+          "publishedOn": "2023-12-19T11:02:00.000Z",
+          "wordCount": null,
+          "title": "New Malvertising Campaign Distributing PikaBot Disguised as Popular Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOzOcqextZnjKZBvNlqemOzvdahmCMZHbB8eV20XRiPvzruXEnBaFlwW7FyyY8K8diws9ojIUz7zsKpwJP1BYhEvIugGqKTIQY9dHkMmB7kC1eiOxoTxEWCHcbsO9TP5f538RKQjetjdcdIzhjeRRfJ7unkq3O2oFUNO4E-GzDeNMhs-bGuKSCU71F0cX/s1600/ads.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOzOcqextZnjKZBvNlqemOzvdahmCMZHbB8eV20XRiPvzruXEnBaFlwW7FyyY8K8diws9ojIUz7zsKpwJP1BYhEvIugGqKTIQY9dHkMmB7kC1eiOxoTxEWCHcbsO9TP5f538RKQjetjdcdIzhjeRRfJ7unkq3O2oFUNO4E-GzDeNMhs-bGuKSCU71F0cX/s1600/ads.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors associated with the 8220 Gang have been observed exploiting a high-severity flaw in Oracle WebLogic Server to propagate their malware.\nThe security shortcoming is CVE-2020-14883 (CVSS score: 7.2), a remote code execution bug that could be exploited by authenticated attackers to take over susceptible servers.\n\"This vulnerability allows remote authenticated",

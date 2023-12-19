@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-19T11:23:44.618Z</updated>
+    <updated>2023-12-19T11:43:25.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malvertising Campaign Distributing PikaBot Disguised as Popular Software]]></title>
+        <id>https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html</id>
+        <link href="https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html"/>
+        <updated>2023-12-19T11:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The malware loader known as PikaBot is being distributed as part of a malvertising campaign targeting users searching for legitimate software like AnyDesk.
+"PikaBot was previously only distributed via malspam campaigns similarly to QakBot and emerged as one of the preferred payloads for a threat actor known as TA577," Malwarebytes' Jérôme Segura said.
+The malware family,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8220 Gang Exploiting Oracle WebLogic Server Vulnerability to Spread Malware]]></title>
         <id>https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html</id>
