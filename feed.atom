@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-19T13:27:15.324Z</updated>
+    <updated>2023-12-19T13:43:29.235Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts]]></title>
+        <id>https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html</id>
+        <link href="https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html"/>
+        <updated>2023-12-19T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are increasingly making use of GitHub for malicious purposes through novel methods, including abusing secret Gists and issuing malicious commands via git commit messages.
+"Malware authors occasionally place their samples in services like Dropbox, Google Drive, OneDrive, and Discord to host second stage malware and sidestep detection tools," ReversingLabs researcher Karlo Zanki]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are We Ready to Give Up on Security Awareness Training?]]></title>
         <id>https://thehackernews.com/2023/12/are-we-ready-to-give-up-on-security.html</id>
