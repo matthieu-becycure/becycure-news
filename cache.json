@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__IpcNTdAmk3LLwu9Zng3otmsknQGFhVn08Q2pPViIVv7EeDHOZayzN8BEkpNZKyPfrJ-Z5rrXUvZ59MqZNzVxLVgHf-ii6KLNk-hMDAfv7XU846uSVC1OILGgKXgHeMxT-lZdOPienK8BO72ZuKI31GLpYfUp3IY07e22WBduDVSCq9mFdzPZUcvULBp/s1600/anyrun.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__IpcNTdAmk3LLwu9Zng3otmsknQGFhVn08Q2pPViIVv7EeDHOZayzN8BEkpNZKyPfrJ-Z5rrXUvZ59MqZNzVxLVgHf-ii6KLNk-hMDAfv7XU846uSVC1OILGgKXgHeMxT-lZdOPienK8BO72ZuKI31GLpYfUp3IY07e22WBduDVSCq9mFdzPZUcvULBp/s1600/anyrun.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Kinsing threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits.\n\"Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative",
-          "link": "https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html",
-          "publishedOn": "2023-11-21T10:00:00.000Z",
-          "wordCount": null,
-          "title": "Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4KhzH9UnAw-GrWXeqIydcz7ULtFdgMa0awxDLUKM0aidggh89UJeJbxTpW67xFccd4KWB-mTQe4YxvSlP6-Cs1rwkdQymUj5wQV5_YAHB0yPUeR5p764mY-LXutur0Sr5yCFZkFpP2tK6N-UsRYJNKBSRoWb3g_5BVQk3sjc6SGovTH-5PoBHbCqW0LH/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4KhzH9UnAw-GrWXeqIydcz7ULtFdgMa0awxDLUKM0aidggh89UJeJbxTpW67xFccd4KWB-mTQe4YxvSlP6-Cs1rwkdQymUj5wQV5_YAHB0yPUeR5p764mY-LXutur0Sr5yCFZkFpP2tK6N-UsRYJNKBSRoWb3g_5BVQk3sjc6SGovTH-5PoBHbCqW0LH/s1600/linux.jpg"
         }
       ]
     },
@@ -3136,26 +3120,6 @@
           "publishedOn": "2023-11-21T12:50:36.000Z",
           "wordCount": 1213,
           "title": "CERTFR-2023-AVI-0968 : Multiples vulnérabilités dans les produits Nextcloud (21 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits StrongSwan. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0967/",
-          "publishedOn": "2023-11-21T09:50:03.000Z",
-          "wordCount": 940,
-          "title": "CERTFR-2023-AVI-0967 : Vulnérabilité dans les produits StrongSwan (21 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0966/",
-          "publishedOn": "2023-11-21T09:46:46.000Z",
-          "wordCount": 953,
-          "title": "CERTFR-2023-AVI-0966 : Multiples vulnérabilités dans les produits Tenable (21 novembre 2023)",
           "imageUrl": null
         }
       ]
