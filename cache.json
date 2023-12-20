@@ -3157,16 +3157,6 @@
           "wordCount": 953,
           "title": "CERTFR-2023-AVI-0966 : Multiples vulnérabilités dans les produits Tenable (21 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0965/",
-          "publishedOn": "2023-11-21T09:21:22.000Z",
-          "wordCount": 948,
-          "title": "CERTFR-2023-AVI-0965 : Vulnérabilité dans Microsoft Powershell (21 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
