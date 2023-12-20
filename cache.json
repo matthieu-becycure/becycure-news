@@ -2285,6 +2285,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données, une exécution de code arbitraire à distance …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1048/",
+          "publishedOn": "2023-12-20T07:38:04.000Z",
+          "wordCount": 1103,
+          "title": "CERTFR-2023-AVI-1048 : Multiples vulnérabilités dans les produits Mozilla (20 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans macOS Sonoma. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1047/",
+          "publishedOn": "2023-12-20T07:31:57.000Z",
+          "wordCount": 930,
+          "title": "CERTFR-2023-AVI-1047 : Vulnérabilité dans macOS Sonoma (20 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.",
