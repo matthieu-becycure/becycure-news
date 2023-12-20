@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Chinese-speaking threat actors behind Smishing Triad have been observed masquerading as the United Arab Emirates Federal Authority for Identity and Citizenship to send malicious SMS messages with the ultimate goal of gathering sensitive information from residents and foreigners in the country.\n\"These criminals send malicious links to their victims' mobile devices through SMS or",
+          "link": "https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html",
+          "publishedOn": "2023-12-20T10:20:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5KtF_syXNtch3GeqO025iHChch0UvKJaoUOFzfrupNAQacDoy78sSqMmCPvpKPupo63mmJ3To-Z8ksaAFO1KTZnM0SGm7NylHqvJfb9lnnGF_oyyli9k2_dFmy-J8WN763HDJ8O8lioUmzCMnPbtFttbuvod79LqdA2ZI0pk6uNT4fswAsXypyJ1hyphenhyphenav/s1600/rr-2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5KtF_syXNtch3GeqO025iHChch0UvKJaoUOFzfrupNAQacDoy78sSqMmCPvpKPupo63mmJ3To-Z8ksaAFO1KTZnM0SGm7NylHqvJfb9lnnGF_oyyli9k2_dFmy-J8WN763HDJ8O8lioUmzCMnPbtFttbuvod79LqdA2ZI0pk6uNT4fswAsXypyJ1hyphenhyphenav/s1600/rr-2.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A six-month-long international police operation codenamed HAECHI-IV has resulted in the arrests of nearly 3,500 individuals and seizures worth $300 million across 34 countries.\nThe exercise, which took place from July through December 2023, took aim at various types of financial crimes such as voice phishing, romance scams, online sextortion, investment fraud, money laundering",
