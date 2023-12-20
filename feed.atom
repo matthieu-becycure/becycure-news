@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-20T22:28:27.482Z</updated>
+    <updated>2023-12-20T22:43:30.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2442,18 +2442,6 @@ The joint advisory comes from the U.S. Cybersecurity and Infrastructure Security
         <updated>2023-11-21T11:57:00.000Z</updated>
         <summary type="html"><![CDATA[A new variant of the Agent Tesla malware has been observed delivered via a lure file with the ZPAQ compression format to harvest data from several email clients and nearly 40 web browsers.
 "ZPAQ is a file compression format that offers a better compression ratio and journaling function compared to widely used formats like ZIP and RAR," G Data malware analyst Anna Lvova said in a Monday analysis.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography]]></title>
-        <id>https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html</id>
-        <link href="https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html"/>
-        <updated>2023-11-21T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Phishing attacks are steadily becoming more sophisticated, with cybercriminals investing in new ways of deceiving victims into revealing sensitive information or installing malicious software. One of the latest trends in phishing is the use of QR codes, CAPTCHAs, and steganography. See how they are carried out and learn to detect them.
-Quishing
-Quishing, a phishing technique resulting from the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
