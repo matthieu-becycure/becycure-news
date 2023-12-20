@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-20T19:43:32.392Z</updated>
+    <updated>2023-12-20T20:10:53.808Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2497,17 +2497,6 @@ Quishing, a phishing technique resulting from the]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Powershell. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users]]></title>
-        <id>https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html</id>
-        <link href="https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html"/>
-        <updated>2023-11-21T07:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Android smartphone users in India are the target of a new malware campaign that employs social engineering lures to install fraudulent apps that are capable of harvesting sensitive data.
-“Using social media platforms like WhatsApp and Telegram, attackers are sending messages designed to lure users into installing a malicious app on their mobile device by impersonating legitimate organizations,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
