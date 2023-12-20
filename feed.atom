@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-20T03:08:57.349Z</updated>
+    <updated>2023-12-20T03:23:44.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2441,17 +2441,6 @@ Quishing, a phishing technique resulting from the]]></summary>
         <summary type="html"><![CDATA[The China-linked Mustang Panda actor has been linked to a cyber attack targeting a Philippines government entity amid rising tensions between the two countries over the disputed South China Sea.
 Palo Alto Networks Unit 42 attributed the adversarial collective to three campaigns in August 2023, primarily singling out organizations in the South Pacific.
 "The campaigns leveraged legitimate software]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors]]></title>
-        <id>https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html</id>
-        <link href="https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html"/>
-        <updated>2023-11-20T15:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are targeting the education, government and business services sectors with a remote access trojan called NetSupport RAT.
-"The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as GHOSTPULSE), and various forms of phishing campaigns," VMware Carbon Black researchers said in a report shared with The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
