@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers are weaponizing an old Microsoft Office vulnerability as part of phishing campaigns to distribute a strain of malware called Agent Tesla.\nThe infection chains leverage decoy Excel documents attached in invoice-themed messages to trick potential targets into opening them and activate the exploitation of CVE-2017-11882 (CVSS score: 7.8), a memory corruption vulnerability in Office's",
+          "link": "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html",
+          "publishedOn": "2023-12-21T07:22:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploiting Old MS Excel Vulnerability to Spread Agent Tesla Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPN1jwcXXFEJQpsMXxrO-JATM5IOffRPNo2fetyPiaQZpK2IFiJv60ZZjQlJgAXNInpvfiEGrSgC1DGqJdjhoI4sO5CshuH0O752qmF3fMCfkziOWktT2kkIwiGRxoIBF0SMF56yizMYeAcIQtCWxIr2dxlnY9CtnT31aISIZgUU1a8luFroU0ut20pct/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPN1jwcXXFEJQpsMXxrO-JATM5IOffRPNo2fetyPiaQZpK2IFiJv60ZZjQlJgAXNInpvfiEGrSgC1DGqJdjhoI4sO5CshuH0O752qmF3fMCfkziOWktT2kkIwiGRxoIBF0SMF56yizMYeAcIQtCWxIr2dxlnY9CtnT31aISIZgUU1a8luFroU0ut20pct/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has rolled out security updates for the Chrome web browser to address a high-severity zero-day flaw that it said has been exploited in the wild.\nThe vulnerability, assigned the CVE identifier CVE-2023-7024, has been described as a heap-based buffer overflow bug in the WebRTC framework that could be exploited to result in program crashes or arbitrary code execution.\nClément",
