@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new analysis of the sophisticated commercial spyware called Predator has revealed that its ability to persist between reboots is offered as an \"add-on feature\" and that it depends on the licensing options opted by a customer.\n\"In 2021, Predator spyware couldn't survive a reboot on the infected Android system (it had it on iOS),\" Cisco Talos researchers Mike Gentile, Asheer Malhotra, and Vitor",
+          "link": "https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html",
+          "publishedOn": "2023-12-21T16:48:00.000Z",
+          "wordCount": null,
+          "title": "Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered an updated version of an Android banking malware called Chameleon that has expanded its targeting to include users in the U.K. and Italy.\n\"Representing a restructured and enhanced iteration of its predecessor, this evolved Chameleon variant excels in executing Device Takeover (DTO) using the accessibility service, all while expanding its targeted region,",
+          "link": "https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html",
+          "publishedOn": "2023-12-21T16:21:00.000Z",
+          "wordCount": null,
+          "title": "Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_62nm8lMXg2hrYUQB5t0fDLlXHwkSJduuVz4UJ_7aboqXDV6TGcXHze-dtrUl_REoV722Mn4JhyLzuR3pUeWicu8YgnQD23MWd0CUdaG0ODquQyO2BD43tQoTqxpVeyTQvJFwQuqsP5pToHrKRTBLSNX7PKMFB9vsAcfGhyphenhyphen2osO2Oa90Fh1adpvO2lo2/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_62nm8lMXg2hrYUQB5t0fDLlXHwkSJduuVz4UJ_7aboqXDV6TGcXHze-dtrUl_REoV722Mn4JhyLzuR3pUeWicu8YgnQD23MWd0CUdaG0ODquQyO2BD43tQoTqxpVeyTQvJFwQuqsP5pToHrKRTBLSNX7PKMFB9vsAcfGhyphenhyphen2osO2Oa90Fh1adpvO2lo2/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new piece of JavaScript malware has been observed attempting to steal users' online banking account credentials as part of a campaign that has targeted more than 40 financial institutions across the world.\nThe activity cluster, which employs JavaScript web injections, is estimated to have led to at least 50,000 infected user sessions spanning North America, South America, Europe, and Japan.",
@@ -2260,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPi9W4byf1nppa1n1U72kPbzUJvvYWdSQ0hFitjOCWVjbIQQBf2dCDTaHWt-MtXrzrGaLEe-dXuTvnPngikalaHTGPnAZWvEg85I4-z_IK5qGH1nRarjohT5Tz99_z4oRxv3sAuqNQxyE7V5Sbdv0xHvhDvpUIhZ8t6Ua8LUKONLIZW6S7-aBKJIbuBgwB/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPi9W4byf1nppa1n1U72kPbzUJvvYWdSQ0hFitjOCWVjbIQQBf2dCDTaHWt-MtXrzrGaLEe-dXuTvnPngikalaHTGPnAZWvEg85I4-z_IK5qGH1nRarjohT5Tz99_z4oRxv3sAuqNQxyE7V5Sbdv0xHvhDvpUIhZ8t6Ua8LUKONLIZW6S7-aBKJIbuBgwB/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple threat actors, including LockBit ransomware affiliates, are actively exploiting a recently disclosed critical security flaw in Citrix NetScaler application delivery control (ADC) and Gateway appliances to obtain initial access to target environments.\nThe joint advisory comes from the U.S. Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI),",
-          "link": "https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html",
-          "publishedOn": "2023-11-22T04:49:00.000Z",
-          "wordCount": null,
-          "title": "LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMt71EeVDQt3HcEIpOYFql3j7sJjdZMveKNMvtjBty4GeJnyDsA_a32ZCbzrf-_DU_h7jAEWk-G6I2X7jrqjtzsvpTVuDdsvvFKCRM0klgcGTXYHHQvyCWM26n5fP3LS7t8QdCD1dQt_kadO_DUpwreVaAzt-vZcAzn5jMUWP8D1EQSItkM0mL0K97Uy2c/s1600/ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMt71EeVDQt3HcEIpOYFql3j7sJjdZMveKNMvtjBty4GeJnyDsA_a32ZCbzrf-_DU_h7jAEWk-G6I2X7jrqjtzsvpTVuDdsvvFKCRM0klgcGTXYHHQvyCWM26n5fP3LS7t8QdCD1dQt_kadO_DUpwreVaAzt-vZcAzn5jMUWP8D1EQSItkM0mL0K97Uy2c/s1600/ransomware.jpg"
         }
       ]
     },
