@@ -3163,16 +3163,6 @@
           "wordCount": 1061,
           "title": "CERTFR-2023-AVI-0970 : Multiples vulnérabilités dans les produits OwnCloud (22 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0969/",
-          "publishedOn": "2023-11-22T08:29:54.000Z",
-          "wordCount": 1075,
-          "title": "CERTFR-2023-AVI-0969 : Multiples vulnérabilités dans les produits Mozilla (22 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
