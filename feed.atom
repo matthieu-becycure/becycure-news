@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-21T22:43:40.877Z</updated>
+    <updated>2023-12-21T23:10:40.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2479,17 +2479,6 @@ While the first set of attacks]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Solutions Are the New Shadow IT]]></title>
-        <id>https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html</id>
-        <link href="https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html"/>
-        <updated>2023-11-22T11:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Ambitious Employees Tout New AI Tools, Ignore Serious SaaS Security RisksLike the SaaS shadow IT of the past, AI is placing CISOs and cybersecurity teams in a tough but familiar spot. 
-Employees are covertly using AI with little regard for established IT and cybersecurity review procedures. Considering ChatGPT’s meteoric rise to 100 million users within 60 days of launch, especially with little]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
