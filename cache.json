@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new piece of JavaScript malware has been observed attempting to steal users' online banking account credentials as part of a campaign that has targeted more than 40 financial institutions across the world.\nThe activity cluster, which employs JavaScript web injections, is estimated to have led to at least 50,000 infected user sessions spanning North America, South America, Europe, and Japan.",
+          "link": "https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html",
+          "publishedOn": "2023-12-21T12:38:00.000Z",
+          "wordCount": null,
+          "title": "New JavaScript Malware Targeted 50,000+ Users at Dozens of Banks Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgD6FAm8wmOFKfskZtB-w4nXucN4Ajf0eWHCMFCVE8EnknKiHfDNr7eZ8QTiAyLcpx88HOQFK-HR4SJbhxXOsfZu_VNwLlvAlaeFmXdVNdDAm8w8_GO_whKHGcvEulfWH1H7t6eWyRI1c_X5IgMqKm1NTc-q7cgcGMSqxYLXRVNoHKhYoKvlEGRo4t2mbN/s1600/bank.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgD6FAm8wmOFKfskZtB-w4nXucN4Ajf0eWHCMFCVE8EnknKiHfDNr7eZ8QTiAyLcpx88HOQFK-HR4SJbhxXOsfZu_VNwLlvAlaeFmXdVNdDAm8w8_GO_whKHGcvEulfWH1H7t6eWyRI1c_X5IgMqKm1NTc-q7cgcGMSqxYLXRVNoHKhYoKvlEGRo4t2mbN/s1600/bank.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "John Hanley of IBM Security shares 4 key findings from the highly acclaimed annual Cost of a Data Breach Report 2023\nWhat is the IBM Cost of a Data Breach Report?\nThe IBM Cost of a Data Breach Report is an annual report that provides organizations with quantifiable information about the financial impacts of breaches. With this data, they can make data driven decisions about how they implement",
