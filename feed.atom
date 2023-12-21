@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-21T09:43:31.171Z</updated>
+    <updated>2023-12-21T10:11:00.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[German Authorities Dismantle Dark Web Hub 'Kingdom Market' in Global Operation]]></title>
+        <id>https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html</id>
+        <link href="https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html"/>
+        <updated>2023-12-21T10:03:00.000Z</updated>
+        <summary type="html"><![CDATA[German law enforcement has announced the disruption of a dark web platform called Kingdom Market that specialized in the sales of narcotics and malware to "tens of thousands of users."
+The exercise, which involved collaboration from authorities from the U.S., Switzerland, Moldova, and Ukraine, began on December 16, 2023, the Federal Criminal Police Office (BKA) said.
+Kingdom]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploiting Old MS Excel Vulnerability to Spread Agent Tesla Malware]]></title>
         <id>https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html</id>
