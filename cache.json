@@ -2260,38 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Modern security tools continue to improve in their ability to defend organizations’ networks and endpoints against cybercriminals. But the bad actors still occasionally find a way in.\nSecurity teams must be able to stop threats and restore normal operations as quickly as possible. That’s why it’s essential that these teams not only have the right tools but also understand how to effectively",
-          "link": "https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html",
-          "publishedOn": "2023-11-23T10:48:00.000Z",
-          "wordCount": null,
-          "title": "6 Steps to Accelerate Cybersecurity Incident Response",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXVRpvrAB8nUqaCrHPEXwfx2eHH3wUXgcmlsWHnj901cqq72VOdM1WLbd31RnO9aDFL3mlyhz01qTj_eZ_Fcwdb_jW8JIGBbtGDPH8BfXti4WT80yEFxjFpw2T38AG8qXkWB0dfgJdV7vE-RuFaEx8MwS99AW6rpin2EK6bLiVdKj6aQ3UUzEozFhCDyE/s1600/cynet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXVRpvrAB8nUqaCrHPEXwfx2eHH3wUXgcmlsWHnj901cqq72VOdM1WLbd31RnO9aDFL3mlyhz01qTj_eZ_Fcwdb_jW8JIGBbtGDPH8BfXti4WT80yEFxjFpw2T38AG8qXkWB0dfgJdV7vE-RuFaEx8MwS99AW6rpin2EK6bLiVdKj6aQ3UUzEozFhCDyE/s1600/cynet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An active malware campaign is leveraging two zero-day vulnerabilities with remote code execution (RCE) functionality to rope routers and video recorders into a Mirai-based distributed denial-of-service (DDoS) botnet.\n“The payload targets routers and network video recorder (NVR) devices with default admin credentials and installs Mirai variants when successful,” Akamai said in an advisory",
-          "link": "https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html",
-          "publishedOn": "2023-11-23T10:47:00.000Z",
-          "wordCount": null,
-          "title": "Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRt7CbFWl2K7lU6CiNduEtShzzecFnCiKqpLYNv10qO9dfHfHIsCHjl7XN7mWQ7Nbv0KOvgLZNB6Iz-h0tz5GdyI1WdcxojO1hAlQJi5RC9UZLhVql8Va6XLeSAMNIR_TZ8WA9sJzSjImJlwJQszgDiQtV1SaJNbUs7b7m1ioEQjY6FK9S3nEn0QPqOAVE/s1600/botnet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRt7CbFWl2K7lU6CiNduEtShzzecFnCiKqpLYNv10qO9dfHfHIsCHjl7XN7mWQ7Nbv0KOvgLZNB6Iz-h0tz5GdyI1WdcxojO1hAlQJi5RC9UZLhVql8Va6XLeSAMNIR_TZ8WA9sJzSjImJlwJQszgDiQtV1SaJNbUs7b7m1ioEQjY6FK9S3nEn0QPqOAVE/s1600/botnet.jpg"
         }
       ]
     },
