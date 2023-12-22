@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-22T03:11:04.160Z</updated>
+    <updated>2023-12-22T03:25:27.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2416,27 +2416,6 @@ Security teams must be able to stop threats and restore normal operations as qui
 "This malicious file is a legitimate CyberLink application installer that has been modified to include malicious code that downloads,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login]]></title>
-        <id>https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html</id>
-        <link href="https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html"/>
-        <updated>2023-11-22T15:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A new research has uncovered multiple vulnerabilities that could be exploited to bypass Windows Hello authentication on Dell Inspiron 15, Lenovo ThinkPad T14, and Microsoft Surface Pro X laptops.
-The flaws were discovered by researchers at hardware and software product security and offensive research firm Blackwing Intelligence, who found the weaknesses in the fingerprint sensors from Goodix,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0973 : Multiples vulnérabilités dans les produits Fortinet (22 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/"/>
-        <updated>2023-11-22T15:18:06.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
