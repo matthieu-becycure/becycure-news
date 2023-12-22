@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-21T23:43:29.261Z</updated>
+    <updated>2023-12-22T00:47:41.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2435,48 +2435,6 @@ The flaws were discovered by researchers at hardware and software product securi
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0973/"/>
         <updated>2023-11-22T15:18:06.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0972 : Multiples vulnérabilités dans les produits Foxit (22 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0972/"/>
-        <updated>2023-11-22T12:34:51.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Foxit. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0971 : Vulnérabilité dans ElasticSearch (22 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0971/"/>
-        <updated>2023-11-22T12:24:24.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans ElasticSearch. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns]]></title>
-        <id>https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html</id>
-        <link href="https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html"/>
-        <updated>2023-11-22T12:14:00.000Z</updated>
-        <summary type="html"><![CDATA[North Korean threat actors have been linked to two campaigns in which they masquerade as both job recruiters and seekers to distribute malware and obtain unauthorized employment with organizations based in the U.S. and other parts of the world.
-The activity clusters have been codenamed Contagious Interview and Wagemole, respectively, by Palo Alto Networks Unit 42.
-While the first set of attacks]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0970 : Multiples vulnérabilités dans les produits OwnCloud (22 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0970/"/>
-        <updated>2023-11-22T11:59:16.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
