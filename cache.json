@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Indian government entities and the defense sector have been targeted by a phishing campaign that's engineered to drop Rust-based malware for intelligence gathering.\nThe activity, first detected in October 2023, has been codenamed Operation RusticWeb by enterprise security firm SEQRITE.\n\"New Rust-based payloads and encrypted PowerShell commands have been utilized to exfiltrate",
+          "link": "https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html",
+          "publishedOn": "2023-12-22T13:19:00.000Z",
+          "wordCount": null,
+          "title": "Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9NqDZztoUTfMfYFouk4hkZlKHAn1_4NojAVyIixtGzMkd5w02AavMhiuCHKxDOGbdwew5h5NRfZdmOjc5SH19-UMxxw5Z0I3rcd3XRDaw5gE85U1JA_nC27jxci1lHBUz03QnJPNtDUvShV36m7DKPeB1qmmDjpS8lluB9vfVdts-1_Ki-jeDJvA69Hg/s1600/cyberattac.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9NqDZztoUTfMfYFouk4hkZlKHAn1_4NojAVyIixtGzMkd5w02AavMhiuCHKxDOGbdwew5h5NRfZdmOjc5SH19-UMxxw5Z0I3rcd3XRDaw5gE85U1JA_nC27jxci1lHBUz03QnJPNtDUvShV36m7DKPeB1qmmDjpS8lluB9vfVdts-1_Ki-jeDJvA69Hg/s1600/cyberattac.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new phishing campaign is leveraging decoy Microsoft Word documents as bait to deliver a backdoor written in the Nim programming language.\n\"Malware written in uncommon programming languages puts the security community at a disadvantage as researchers and reverse engineers' unfamiliarity can hamper their investigation,\" Netskope researchers Ghanashyam Satpathy and Jan Michael Alcantara",
