@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-22T06:13:37.347Z</updated>
+    <updated>2023-12-22T06:30:30.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of New 'FalseFont' Backdoor Targeting the Defense Sector]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html"/>
+        <updated>2023-12-22T05:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations in the Defense Industrial Base (DIB) sector are in the crosshairs of an Iranian threat actor as part of a campaign designed to deliver a never-before-seen backdoor called FalseFont.
+The findings come from Microsoft, which is tracking the activity under its weather-themed moniker Peach Sandstorm (formerly Holmium), which is also known as APT33, Elfin, and Refined Kitten.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware]]></title>
         <id>https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</id>
