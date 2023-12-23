@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-23T22:27:20.833Z</updated>
+    <updated>2023-12-23T22:43:30.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2404,17 +2404,6 @@ The threat actors behind the operation – codenamed Neanderthals – are know
         <link href="https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html"/>
         <updated>2023-11-24T10:53:00.000Z</updated>
         <summary type="html"><![CDATA[The title of this article probably sounds like the caption to a meme. Instead, this is an actual problem GitGuardian's engineers had to solve in implementing the mechanisms for their new HasMySecretLeaked service. They wanted to help developers find out if their secrets (passwords, API keys, private keys, cryptographic certificates, etc.) had found their way into public GitHub repositories. How]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel]]></title>
-        <id>https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html</id>
-        <link href="https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html"/>
-        <updated>2023-11-24T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called SysJoker, which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region.
-“Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

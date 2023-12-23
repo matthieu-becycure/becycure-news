@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz9JpJxBl6AmRzxBw-w8_dM6ATGhdm8if4H6KQUBO-xA5EjY6LmJVNe8wJ21rr6IFeTJdvJi8YdjgjU-kuuoGsg8-q3x-sBc4LyJGyUPUgeBHZcej64xedieNLMy453XnuRTNP5uKYWlavPa9XJCsVkB5Q9nzWVVJwGAM5FJtT6b-P1g-qRL6OBOdzNlw/s1600/SECRET.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz9JpJxBl6AmRzxBw-w8_dM6ATGhdm8if4H6KQUBO-xA5EjY6LmJVNe8wJ21rr6IFeTJdvJi8YdjgjU-kuuoGsg8-q3x-sBc4LyJGyUPUgeBHZcej64xedieNLMy453XnuRTNP5uKYWlavPa9XJCsVkB5Q9nzWVVJwGAM5FJtT6b-P1g-qRL6OBOdzNlw/s1600/SECRET.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called SysJoker, which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region.\n“Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar",
-          "link": "https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html",
-          "publishedOn": "2023-11-24T10:31:00.000Z",
-          "wordCount": null,
-          "title": "Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
         }
       ]
     },
