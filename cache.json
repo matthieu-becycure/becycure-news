@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSnyoR1AFwYrgQX73IYN3-MEfYlxuN2JhSGNDpctbiCGwBGgdnvuoTQCX4cF_7qR4sMUDusUFK43elSWzmM6pPtA0DHeXaPyvqh3c4ItX55TFJXEwngtte7xMdZjcNNgVSASxutPpoylmTjm5qwfJW6uKIJMAScZja_wpdpvNz8gRjUULzwS34fg8BxGQi/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks.\n“These encoded Kubernetes configuration secrets were uploaded to public repositories,” Aqua security researchers Yakir Kadkoda and Assaf Morag said in a new research published earlier this week.\nSome of those impacted include two top blockchain",
-          "link": "https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html",
-          "publishedOn": "2023-11-24T06:44:00.000Z",
-          "wordCount": null,
-          "title": "Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Nm_g051ZHHdzR7OgNZj5PdeJq6gizRWVRwFYHhrn43nAFmQclC3VeFVsGXP7oMvtsmu2JAtvOWdc6Cq6OVC0xRu1KKULuSlXL4BMIEvOLQnqc6G8SZdlry-KVRIzNkKsAqdDKexFjlCgSTnO_EMfL7RnrZA2ul5_JjsnLEY5KO_X8ZEHRbP2jCekrza1/s1600/container.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Nm_g051ZHHdzR7OgNZj5PdeJq6gizRWVRwFYHhrn43nAFmQclC3VeFVsGXP7oMvtsmu2JAtvOWdc6Cq6OVC0xRu1KKULuSlXL4BMIEvOLQnqc6G8SZdlry-KVRIzNkKsAqdDKexFjlCgSTnO_EMfL7RnrZA2ul5_JjsnLEY5KO_X8ZEHRbP2jCekrza1/s1600/container.jpg"
         }
       ]
     },

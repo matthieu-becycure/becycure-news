@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-23T18:43:50.986Z</updated>
+    <updated>2023-12-23T19:07:38.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2437,18 +2437,6 @@ The threat actors behind the operation – codenamed Neanderthals – are know
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories]]></title>
-        <id>https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html</id>
-        <link href="https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html"/>
-        <updated>2023-11-24T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks.
-“These encoded Kubernetes configuration secrets were uploaded to public repositories,” Aqua security researchers Yakir Kadkoda and Assaf Morag said in a new research published earlier this week.
-Some of those impacted include two top blockchain]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
