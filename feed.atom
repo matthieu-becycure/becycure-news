@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-23T00:45:34.806Z</updated>
+    <updated>2023-12-23T01:43:43.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2471,17 +2471,6 @@ The activity has been attributed to a threat actor called Konni, which is assess
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails]]></title>
-        <id>https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html</id>
-        <link href="https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html"/>
-        <updated>2023-11-23T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Delivery- and shipping-themed email messages are being used to deliver a sophisticated malware loader known as WailingCrab.
-"The malware itself is split into multiple components, including a loader, injector, downloader and backdoor, and successful requests to C2-controlled servers are often necessary to retrieve the next stage," IBM X-Force researchers Charlotte Hammond, Ole Villadsen, and Kat]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

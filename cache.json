@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgSiefvHwJJ31UCfzbuFuNKiMyNKr6elLjzAKibpCdj7kjrkvCG49BTUXRRBPREyOS0KlYCcAO5-7Pc7L0QbIJrZ5gJ7_Y4lHqtFEZce2kr2ZN0kd80GrJYf8AoBQSb_7MO-wFqd7__sCDm6oMM_046cA9gfPzLdjSsJa4Ux3Xx6HRsMJuotDChs6WHfV/s1600/trojan.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlgSiefvHwJJ31UCfzbuFuNKiMyNKr6elLjzAKibpCdj7kjrkvCG49BTUXRRBPREyOS0KlYCcAO5-7Pc7L0QbIJrZ5gJ7_Y4lHqtFEZce2kr2ZN0kd80GrJYf8AoBQSb_7MO-wFqd7__sCDm6oMM_046cA9gfPzLdjSsJa4Ux3Xx6HRsMJuotDChs6WHfV/s1600/trojan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Delivery- and shipping-themed email messages are being used to deliver a sophisticated malware loader known as WailingCrab.\n\"The malware itself is split into multiple components, including a loader, injector, downloader and backdoor, and successful requests to C2-controlled servers are often necessary to retrieve the next stage,\" IBM X-Force researchers Charlotte Hammond, Ole Villadsen, and Kat",
-          "link": "https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html",
-          "publishedOn": "2023-11-23T12:54:00.000Z",
-          "wordCount": null,
-          "title": "Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL8sUFwjVzm9bZC_wfUUR8PO5dtWH-7jSBfewuLqJ7XfCQXCZrxTctE1YSy0MVpGF9SL1s6lrE0IJUdeTRDHyGdUOCiIhICxsUYGzHS2MnCEKAVqaFchQwsZscSvBB4xNbHrivJ-BIMJYcD8ncVhfOqmo97B738BwBwOofVdYNIHFDUrCVHUkYABFbB4Po/s1600/email.jpg"
         }
       ]
     },
