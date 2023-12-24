@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxSShosO_9OUDlAJJWzpUsR6-USvkyt9unLB6wFGCbwC2L_dKOjGQDpjrf4nJPwWZd1AgCi-JQ8snno1aGnzk1_e2tssvZpMbHgb2s8AMSqdBIPFdPBcT3wIfAqVD322XdhJfv79Bm2npUBkvhJ3b5fFzgoAaBWh9AEMDutAhIiNeR2mZ1jLfy0Vfe11i1/s1600/ai-cybersecurity.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxSShosO_9OUDlAJJWzpUsR6-USvkyt9unLB6wFGCbwC2L_dKOjGQDpjrf4nJPwWZd1AgCi-JQ8snno1aGnzk1_e2tssvZpMbHgb2s8AMSqdBIPFdPBcT3wIfAqVD322XdhJfv79Bm2npUBkvhJ3b5fFzgoAaBWh9AEMDutAhIiNeR2mZ1jLfy0Vfe11i1/s1600/ai-cybersecurity.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An unspecified government entity in Afghanistan was targeted by a previously undocumented web shell called HrServ in what’s suspected to be an advanced persistent threat (APT) attack.\nThe web shell, a dynamic-link library (DLL) named “hrserv.dll,” exhibits “sophisticated features such as custom encoding methods for client communication and in-memory execution,” Kaspersky security researcher Mert",
-          "link": "https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html",
-          "publishedOn": "2023-11-25T05:08:00.000Z",
-          "wordCount": null,
-          "title": "New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABT0NvULQZbPASXYw24msOskbFcpxTvhOqlkDngxj6AR9_CoLcHAsPWv14_Oshej7A5SIXU3kf4gLUTAqnbaGBPzxW_FZ2Esc2M999OKK7SA83wNIu0f0bAMoPiNPE2XRCbWTlWAFmCBBLTC8egX95IPRMlyI_zE1TnJ52hXWnRUTND8TqcetQI7l02V8/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABT0NvULQZbPASXYw24msOskbFcpxTvhOqlkDngxj6AR9_CoLcHAsPWv14_Oshej7A5SIXU3kf4gLUTAqnbaGBPzxW_FZ2Esc2M999OKK7SA83wNIu0f0bAMoPiNPE2XRCbWTlWAFmCBBLTC8egX95IPRMlyI_zE1TnJ52hXWnRUTND8TqcetQI7l02V8/s1600/cyberattack.jpg"
         }
       ]
     },

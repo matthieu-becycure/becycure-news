@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-24T16:43:43.337Z</updated>
+    <updated>2023-12-24T17:08:43.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2359,17 +2359,6 @@ The Secure Shell (SSH) protocol is a method for securely transmitting commands a
         <updated>2023-11-27T06:55:00.000Z</updated>
         <summary type="html"><![CDATA[The U.K. and U.S., along with international partners from 16 other countries, have released new guidelines for the development of secure artificial intelligence (AI) systems.
 "The approach prioritizes ownership of security outcomes for customers, embraces radical transparency and accountability, and establishes organizational structures where secure design is a top priority," the U.S.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government]]></title>
-        <id>https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html</id>
-        <link href="https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html"/>
-        <updated>2023-11-25T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[An unspecified government entity in Afghanistan was targeted by a previously undocumented web shell called HrServ in what’s suspected to be an advanced persistent threat (APT) attack.
-The web shell, a dynamic-link library (DLL) named “hrserv.dll,” exhibits “sophisticated features such as custom encoding methods for client communication and in-memory execution,” Kaspersky security researcher Mert]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
