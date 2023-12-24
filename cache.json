@@ -3027,16 +3027,6 @@
           "wordCount": 1012,
           "title": "CERTFR-2023-AVI-0980 : Multiples vulnérabilités dans les produits Spring (27 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0979/",
-          "publishedOn": "2023-11-24T12:21:16.000Z",
-          "wordCount": 934,
-          "title": "CERTFR-2023-AVI-0979 : Vulnérabilité dans les produits NetApp (24 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
