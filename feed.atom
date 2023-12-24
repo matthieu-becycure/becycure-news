@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-24T03:25:59.649Z</updated>
+    <updated>2023-12-24T03:43:32.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2372,18 +2372,6 @@ The web shell, a dynamic-link library (DLL) named “hrserv.dll,” exhibits “
 A brief description of the vulnerabilities is as follows -
 
 Disclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale]]></title>
-        <id>https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html</id>
-        <link href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"/>
-        <updated>2023-11-24T15:32:00.000Z</updated>
-        <summary type="html"><![CDATA[More details have emerged about a malicious Telegram bot called Telekopye that's used by threat actors to pull off large-scale phishing scams.
-"Telekopye can craft phishing websites, emails, SMS messages, and more," ESET security researcher Radek Jizba said in a new analysis.
-The threat actors behind the operation – codenamed Neanderthals – are known to run the criminal enterprise as a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
