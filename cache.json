@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABT0NvULQZbPASXYw24msOskbFcpxTvhOqlkDngxj6AR9_CoLcHAsPWv14_Oshej7A5SIXU3kf4gLUTAqnbaGBPzxW_FZ2Esc2M999OKK7SA83wNIu0f0bAMoPiNPE2XRCbWTlWAFmCBBLTC8egX95IPRMlyI_zE1TnJ52hXWnRUTND8TqcetQI7l02V8/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjABT0NvULQZbPASXYw24msOskbFcpxTvhOqlkDngxj6AR9_CoLcHAsPWv14_Oshej7A5SIXU3kf4gLUTAqnbaGBPzxW_FZ2Esc2M999OKK7SA83wNIu0f0bAMoPiNPE2XRCbWTlWAFmCBBLTC8egX95IPRMlyI_zE1TnJ52hXWnRUTND8TqcetQI7l02V8/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of the open-source file-sharing software ownCloud have warned of three critical security flaws that could be exploited to disclose sensitive information and modify files.\nA brief description of the vulnerabilities is as follows -\n\nDisclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0)",
-          "link": "https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html",
-          "publishedOn": "2023-11-25T04:00:00.000Z",
-          "wordCount": null,
-          "title": "Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZHmgmYrjeIKUYGcGpUYef_gVM74ELBMb8-1a-U2tLNwD5iAC7JkFwX1IC5N7Bkl9lnXGJKwhzRsfDRIt5HUU1-VG2xzROb_YCGPIUzrJ5d2I3R9rJmx0aSULU-cH20vKieOHfSce89VW9w3CV3wIKMzPx_Jqw-7hyphenhyphensOBAUvqClPMyTZZ-63kG7Gkf42R/s1600/clod.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhZHmgmYrjeIKUYGcGpUYef_gVM74ELBMb8-1a-U2tLNwD5iAC7JkFwX1IC5N7Bkl9lnXGJKwhzRsfDRIt5HUU1-VG2xzROb_YCGPIUzrJ5d2I3R9rJmx0aSULU-cH20vKieOHfSce89VW9w3CV3wIKMzPx_Jqw-7hyphenhyphensOBAUvqClPMyTZZ-63kG7Gkf42R/s1600/clod.jpg"
         }
       ]
     },
