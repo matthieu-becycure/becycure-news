@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor referred to as Cloud Atlas has been linked to a set of spear-phishing attacks on Russian enterprises.\nTargets included a Russian agro-industrial enterprise and a state-owned research company, according to a report from F.A.C.C.T., a standalone cybersecurity company formed after Group-IB's formal exit from Russia earlier this year.\nCloud Atlas, active since at",
+          "link": "https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html",
+          "publishedOn": "2023-12-25T07:47:00.000Z",
+          "wordCount": null,
+          "title": "Cloud Atlas' Spear-Phishing Attacks Target Russian Agro and Research Companies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWhJw_PNpn10CWkRJmHg6nblHsPYNoWxmJDZSM07Ar4n5LQ2ssUkSNvDH-RRmRwMBzzMvsy728THbM7nBYkR-tO6rIv6WBRf-wRdhI1H-iFvCcQ06R_qHhETDavDpPWN-ZM5YwjyfDLZgt8Wq-YBs9vxMo5JyLUSRZ7Ic_jgQUb29jf_Gk_nTmucl1CO6W/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWhJw_PNpn10CWkRJmHg6nblHsPYNoWxmJDZSM07Ar4n5LQ2ssUkSNvDH-RRmRwMBzzMvsy728THbM7nBYkR-tO6rIv6WBRf-wRdhI1H-iFvCcQ06R_qHhETDavDpPWN-ZM5YwjyfDLZgt8Wq-YBs9vxMo5JyLUSRZ7Ic_jgQUb29jf_Gk_nTmucl1CO6W/s1600/cyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two British teens part of the LAPSUS$ cyber crime and extortion gang have been sentenced for their roles in orchestrating a string of high-profile attacks against a number of companies.\nArion Kurtaj, an 18-year-old from Oxford, has been sentenced to an indefinite hospital order due to his intent to get back to cybercrime \"as soon as possible,\" BBC reported. Kurtaj, who is autistic, was",
