@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-26T18:43:28.350Z</updated>
+    <updated>2023-12-26T19:08:01.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2404,17 +2404,6 @@ The Secure Shell (SSH) protocol is a method for securely transmitting commands a
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer un déni de service.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S., U.K., and Global Partners Release Secure AI System Development Guidelines]]></title>
-        <id>https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html</id>
-        <link href="https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html"/>
-        <updated>2023-11-27T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.K. and U.S., along with international partners from 16 other countries, have released new guidelines for the development of secure artificial intelligence (AI) systems.
-"The approach prioritizes ownership of security outcomes for customers, embraces radical transparency and accountability, and establishes organizational structures where secure design is a top priority," the U.S.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
