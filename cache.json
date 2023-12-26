@@ -2189,6 +2189,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-055/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-055/",
+          "publishedOn": "2023-12-26T16:26:19.000Z",
+          "wordCount": 1563,
+          "title": "CERTFR-2023-ACT-055 : Bulletin d’actualité CERTFR-2023-ACT-055 (26 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Moxa ioLogik E1200. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de requêtes illégitimes par rebond (CSRF).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1059/",
+          "publishedOn": "2023-12-26T09:00:22.000Z",
+          "wordCount": 965,
+          "title": "CERTFR-2023-AVI-1059 : [SCADA] Multiples vulnérabilités dans Moxa ioLogik E1200 (26 décembre 2023)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1058/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1058/",
+          "publishedOn": "2023-12-26T08:57:34.000Z",
+          "wordCount": 956,
+          "title": "CERTFR-2023-AVI-1058 : Vulnérabilité dans Stormshield Network Security (26 décembre 2023)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1057/",
           "author": null,
           "description": "De multiples vulnérabilités ont été corrigées dans . Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
