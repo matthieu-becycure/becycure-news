@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE-v7pGsQxkrzQoro_6Qid3VYkPZGwGqijj9_dWG3FdSnS-NcZRM5zrE_yDDz0CwNUG6e_uTbS4pRNvHl9THYM990hC75_0oL3lTYANxflT3aMBZYFwT_Vzzsv4AIVKD_RSkgOCrLUOl9xzVx_bOLHeJjWdTbi9QZK89Yjnn2lm7H7JOVf2QAnZ1UrwaWS/s1600/windows.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE-v7pGsQxkrzQoro_6Qid3VYkPZGwGqijj9_dWG3FdSnS-NcZRM5zrE_yDDz0CwNUG6e_uTbS4pRNvHl9THYM990hC75_0oL3lTYANxflT3aMBZYFwT_Vzzsv4AIVKD_RSkgOCrLUOl9xzVx_bOLHeJjWdTbi9QZK89Yjnn2lm7H7JOVf2QAnZ1UrwaWS/s1600/windows.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The North Korean threat actors behind macOS malware strains such as RustBucket and KANDYKORN have been observed \"mixing and matching\" different elements of the two disparate attack chains, leveraging RustBucket droppers to deliver KANDYKORN.\nThe findings come from cybersecurity firm SentinelOne, which also tied a third macOS-specific malware called ObjCShellz to the RustBucket campaign.",
-          "link": "https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html",
-          "publishedOn": "2023-11-28T04:54:00.000Z",
-          "wordCount": null,
-          "title": "N. Korean Hackers 'Mixing' macOS Malware Tactics to Evade Detection",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUPuFehTkM4ec_pTiHSQd6PO5Y0aeDmhREBw4esAsPsx9ET8zb-cRLJCVOKwM_dNCixVS7lTxqZobBW0CsRqiwHyqU2AJPzaBmhvzSTtFsi1DJoPaq-FYj1WApVARxj4H_RJpqjJb7eq494FIqK4cCJTt34ZLTbjtzitrfahoUiLBOFAdE0FgHGqqW91d/s1600/macos-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGUPuFehTkM4ec_pTiHSQd6PO5Y0aeDmhREBw4esAsPsx9ET8zb-cRLJCVOKwM_dNCixVS7lTxqZobBW0CsRqiwHyqU2AJPzaBmhvzSTtFsi1DJoPaq-FYj1WApVARxj4H_RJpqjJb7eq494FIqK4cCJTt34ZLTbjtzitrfahoUiLBOFAdE0FgHGqqW91d/s1600/macos-malware.jpg"
         }
       ]
     },

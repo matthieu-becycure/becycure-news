@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-27T16:44:25.476Z</updated>
+    <updated>2023-12-27T17:08:33.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2393,17 +2393,6 @@ But did you know that today over 80% of attacks now involve identity, compromise
         <updated>2023-11-28T10:23:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a case of "forced authentication" that could be exploited to leak a Windows user's NT LAN Manager (NTLM) tokens by tricking a victim into opening a specially crafted Microsoft Access file.
 The attack takes advantage of a legitimate feature in the database management system solution that allows users to link to external data sources, such as a remote SQL]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N. Korean Hackers 'Mixing' macOS Malware Tactics to Evade Detection]]></title>
-        <id>https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html</id>
-        <link href="https://thehackernews.com/2023/11/n-korean-hackers-mixing-and-matching.html"/>
-        <updated>2023-11-28T04:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korean threat actors behind macOS malware strains such as RustBucket and KANDYKORN have been observed "mixing and matching" different elements of the two disparate attack chains, leveraging RustBucket droppers to deliver KANDYKORN.
-The findings come from cybersecurity firm SentinelOne, which also tied a third macOS-specific malware called ObjCShellz to the RustBucket campaign.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
