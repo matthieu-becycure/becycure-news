@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-27T22:27:54.537Z</updated>
+    <updated>2023-12-27T22:43:25.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2360,17 +2360,6 @@ Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solu
         <updated>2023-11-28T11:13:00.000Z</updated>
         <summary type="html"><![CDATA[Account credentials, a popular initial access vector, have become a valuable commodity in cybercrime. As a result, a single set of stolen credentials can put your organization’s entire network at risk.
 According to the 2023 Verizon Data Breach Investigation Report, external parties were responsible for 83 percent of breaches that occurred between November 2021 and October 2022. Forty-nine]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine]]></title>
-        <id>https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html</id>
-        <link href="https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html"/>
-        <updated>2023-11-28T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[A coordinated law enforcement operation has led to the arrest of key individuals in Ukraine who are alleged to be a part of several ransomware schemes.
-"On 21 November, 30 properties were searched in the regions of Kyiv, Cherkasy, Rivne, and Vinnytsia, resulting in the arrest of the 32-year-old ringleader," Europol said in a statement today. "Four of the ringleader's most active accomplices were]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
