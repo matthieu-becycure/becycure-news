@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlOEudcB8Sw6E2k_9gpMhTYFxEAXjqbPZ4pzrE4JGg_ZlU61dqSdzouqsmm0vtTixwu4c1jJGujclkaYFe1pCcX7Sk3A0iT6HM6uaYL77P116OaHOUtdcwK3wFexy6XP6lEbCKQycP5tmDtKfoXIzGXZ6f0ItfVIN92T96ssh4Cr7u6xqFDVlALrGzvRw/s1600/cybermonday.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlOEudcB8Sw6E2k_9gpMhTYFxEAXjqbPZ4pzrE4JGg_ZlU61dqSdzouqsmm0vtTixwu4c1jJGujclkaYFe1pCcX7Sk3A0iT6HM6uaYL77P116OaHOUtdcwK3wFexy6XP6lEbCKQycP5tmDtKfoXIzGXZ6f0ItfVIN92T96ssh4Cr7u6xqFDVlALrGzvRw/s1600/cybermonday.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new study has demonstrated that it's possible for passive network attackers to obtain private RSA host keys from a vulnerable SSH server by observing when naturally occurring computational faults that occur while the connection is being established.\nThe Secure Shell (SSH) protocol is a method for securely transmitting commands and logging in to a computer over an unsecured network. Based on a",
-          "link": "https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html",
-          "publishedOn": "2023-11-27T13:18:00.000Z",
-          "wordCount": null,
-          "title": "Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwI_mQJzmHJFnjrpPiFAy_o_KFTiuZPPcNFeugBAdkRZUx4NBTBuOdftSQup6NjkwoOndBQM3ExpLUolpRWAeCSAWswSsJK1MZZlz-jS99LQDNvBejSLWu5sgJUBN_cenxl-cbLGRzeNcpbUcvc83hbM1QgGKEGbn1hIH-phsoQPuO6NDkhlvcxsUQQKBA/s1600/Server.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwI_mQJzmHJFnjrpPiFAy_o_KFTiuZPPcNFeugBAdkRZUx4NBTBuOdftSQup6NjkwoOndBQM3ExpLUolpRWAeCSAWswSsJK1MZZlz-jS99LQDNvBejSLWu5sgJUBN_cenxl-cbLGRzeNcpbUcvc83hbM1QgGKEGbn1hIH-phsoQPuO6NDkhlvcxsUQQKBA/s1600/Server.jpg"
         }
       ]
     },

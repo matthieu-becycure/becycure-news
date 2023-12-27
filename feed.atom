@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-27T00:46:40.421Z</updated>
+    <updated>2023-12-27T01:48:42.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2371,17 +2371,6 @@ The findings come from cybersecurity firm SentinelOne, which also tied a third
         <updated>2023-11-27T17:57:00.000Z</updated>
         <summary type="html"><![CDATA[If forecasters are right, over the course of today, consumers will spend $13.7 billion. Just about every click, sale, and engagement will be captured by a CRM platform. Inventory applications will trigger automated re-orders; communication tools will send automated email and text messages confirming sales and sharing shipping information. 
 SaaS applications supporting retail efforts will host]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections]]></title>
-        <id>https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html</id>
-        <link href="https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html"/>
-        <updated>2023-11-27T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[A new study has demonstrated that it's possible for passive network attackers to obtain private RSA host keys from a vulnerable SSH server by observing when naturally occurring computational faults that occur while the connection is being established.
-The Secure Shell (SSH) protocol is a method for securely transmitting commands and logging in to a computer over an unsecured network. Based on a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
