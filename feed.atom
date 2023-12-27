@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-27T05:43:35.967Z</updated>
+    <updated>2023-12-27T06:13:38.557Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warning: Poorly Secured Linux SSH Servers Under Attack for Cryptocurrency Mining]]></title>
+        <id>https://thehackernews.com/2023/12/warning-poorly-secured-linux-ssh.html</id>
+        <link href="https://thehackernews.com/2023/12/warning-poorly-secured-linux-ssh.html"/>
+        <updated>2023-12-27T05:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Poorly secured Linux SSH servers are being targeted by bad actors to install port scanners and dictionary attack tools with the goal of targeting other vulnerable servers and co-opting them into a network to carry out cryptocurrency mining and distributed denial-of-service (DDoS) attacks.
+"Threat actors can also choose to install only scanners and sell the breached IP and account credentials on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2023-ACT-055 : Bulletin d’actualité CERTFR-2023-ACT-055 (26 décembre 2023)]]></title>
         <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-055/</id>
@@ -2360,17 +2371,6 @@ The attack takes advantage of a legitimate feature in the database management sy
         <updated>2023-11-28T04:54:00.000Z</updated>
         <summary type="html"><![CDATA[The North Korean threat actors behind macOS malware strains such as RustBucket and KANDYKORN have been observed "mixing and matching" different elements of the two disparate attack chains, leveraging RustBucket droppers to deliver KANDYKORN.
 The findings come from cybersecurity firm SentinelOne, which also tied a third macOS-specific malware called ObjCShellz to the RustBucket campaign.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Handle Retail SaaS Security on Cyber Monday]]></title>
-        <id>https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html</id>
-        <link href="https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html"/>
-        <updated>2023-11-27T17:57:00.000Z</updated>
-        <summary type="html"><![CDATA[If forecasters are right, over the course of today, consumers will spend $13.7 billion. Just about every click, sale, and engagement will be captured by a CRM platform. Inventory applications will trigger automated re-orders; communication tools will send automated email and text messages confirming sales and sharing shipping information. 
-SaaS applications supporting retail efforts will host]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
