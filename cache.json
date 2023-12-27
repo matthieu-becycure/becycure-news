@@ -3021,26 +3021,6 @@
           "wordCount": 938,
           "title": "CERTFR-2023-AVI-0981 : Vulnérabilité dans Joomla (29 novembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-051/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-051/",
-          "publishedOn": "2023-11-27T12:26:59.000Z",
-          "wordCount": 1526,
-          "title": "CERTFR-2023-ACT-051 : Bulletin d’actualité CERTFR-2023-ACT-051 (27 novembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0980/",
-          "publishedOn": "2023-11-27T12:15:40.000Z",
-          "wordCount": 1012,
-          "title": "CERTFR-2023-AVI-0980 : Multiples vulnérabilités dans les produits Spring (27 novembre 2023)",
-          "imageUrl": null
         }
       ]
     }
