@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Barracuda has revealed that Chinese threat actors exploited a new zero-day in its Email Security Gateway (ESG) appliances to deploy backdoor on a \"limited number\" of devices.\nTracked as CVE-2023-7102, the issue relates to a case of arbitrary code execution that resides within a third-party and open-source library Spreadsheet::ParseExcel that's used by the Amavis scanner within the",
+          "link": "https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html",
+          "publishedOn": "2023-12-27T12:35:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploited New Zero-Day in Barracuda's ESG Appliances",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUsQOGEiz1-S1hAQWegtjaSqt68ugIGM920bH_-nE_N6FDAC2-YWR2W4ckpsi5T-NEpNyoVsvJ7gaoBNXh9YnDqUS9iAGBxd9ED7HfqA-rCEWdOk2-IPGLhGXaa4yXuhUngRXrUE06tWp8h7DeGvHEP_tWuACWPz_R39awzZho1zBHGMiD9lvt3I-UQSxh/s1600/email-security.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUsQOGEiz1-S1hAQWegtjaSqt68ugIGM920bH_-nE_N6FDAC2-YWR2W4ckpsi5T-NEpNyoVsvJ7gaoBNXh9YnDqUS9iAGBxd9ED7HfqA-rCEWdOk2-IPGLhGXaa4yXuhUngRXrUE06tWp8h7DeGvHEP_tWuACWPz_R39awzZho1zBHGMiD9lvt3I-UQSxh/s1600/email-security.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new Android backdoor has been discovered with potent capabilities to carry out a range of malicious actions on infected devices.\nDubbed Xamalicious by the McAfee Mobile Research Team, the malware is so named for the fact that it's developed using an open-source mobile app framework called Xamarin and abuses the operating system's accessibility permissions to fulfill its objectives.",
