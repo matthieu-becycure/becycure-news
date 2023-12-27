@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-27T23:10:13.667Z</updated>
+    <updated>2023-12-27T23:25:02.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2349,17 +2349,6 @@ Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solu
         <updated>2023-11-28T12:34:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have detailed a "severe design flaw" in Google Workspace's domain-wide delegation (DWD) feature that could be exploited by threat actors to facilitate privilege escalation and obtain unauthorized access to Workspace APIs without super admin privileges.
 "Such exploitation could result in theft of emails from Gmail, data exfiltration from Google Drive, or other]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Hackers Phish for Your Users' Credentials and Sell Them]]></title>
-        <id>https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html</id>
-        <link href="https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html"/>
-        <updated>2023-11-28T11:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Account credentials, a popular initial access vector, have become a valuable commodity in cybercrime. As a result, a single set of stolen credentials can put your organization’s entire network at risk.
-According to the 2023 Verizon Data Breach Investigation Report, external parties were responsible for 83 percent of breaches that occurred between November 2021 and October 2022. Forty-nine]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
