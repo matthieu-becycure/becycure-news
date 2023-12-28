@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfD7YZAjUWxcbXhYz8eNXWXxIXLx6OldY7M9lKdrIRN-7ZvMTZ-qMhAOOPsjwByHVsimr87Khyz5hBiWGaPgapu-LAHZ9m1bufDCprfvD8bt4kck0KRvK8T60j6WCxPc7oYNxf_pusWmO0gCyFkW3AdLn_07bNC-ehWcMtL5OHpydTdNk93Vk3SrOoUAw/s1600/weinar.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfD7YZAjUWxcbXhYz8eNXWXxIXLx6OldY7M9lKdrIRN-7ZvMTZ-qMhAOOPsjwByHVsimr87Khyz5hBiWGaPgapu-LAHZ9m1bufDCprfvD8bt4kck0KRvK8T60j6WCxPc7oYNxf_pusWmO0gCyFkW3AdLn_07bNC-ehWcMtL5OHpydTdNk93Vk3SrOoUAw/s1600/weinar.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have detailed a \"severe design flaw\" in Google Workspace's domain-wide delegation (DWD) feature that could be exploited by threat actors to facilitate privilege escalation and obtain unauthorized access to Workspace APIs without super admin privileges.\n\"Such exploitation could result in theft of emails from Gmail, data exfiltration from Google Drive, or other",
-          "link": "https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html",
-          "publishedOn": "2023-11-28T12:34:00.000Z",
-          "wordCount": null,
-          "title": "Design Flaw in Google Workspace Could Let Attackers Gain Unauthorized Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtngoKJt8wQafhNdmdcBYhqCteuz3X9nfuyfeeo5RjMg4Xp9A7m6HUl-wzcCIhBSFNt4xeOdG5PxLK3GqKdpYlpyfceob5ZCMb2vFAQRv9Sg0BIfOOZnsNFP-a1DDF9ZJQmqJ5x8x1gbE5m1lHzxVN4iPvbZtOppMYm9BLjoZbOXfmaLSukgu-QRT65xdN/s1600/google.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtngoKJt8wQafhNdmdcBYhqCteuz3X9nfuyfeeo5RjMg4Xp9A7m6HUl-wzcCIhBSFNt4xeOdG5PxLK3GqKdpYlpyfceob5ZCMb2vFAQRv9Sg0BIfOOZnsNFP-a1DDF9ZJQmqJ5x8x1gbE5m1lHzxVN4iPvbZtOppMYm9BLjoZbOXfmaLSukgu-QRT65xdN/s1600/google.jpg"
         }
       ]
     },
