@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-28T11:23:49.445Z</updated>
+    <updated>2023-12-28T11:43:28.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature]]></title>
+        <id>https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html</id>
+        <link href="https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html"/>
+        <updated>2023-12-28T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The Operation Triangulation spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company.
+Russian cybersecurity firm Kaspersky, which discovered the campaign at the beginning of 2023 after becoming one of the targets, described it as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Rugmi Malware Loader Surges with Hundreds of Daily Detections]]></title>
         <id>https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html</id>
