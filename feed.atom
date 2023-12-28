@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-28T18:12:33.887Z</updated>
+    <updated>2023-12-28T18:29:04.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2325,18 +2325,6 @@ That's according to a new report from Zimperium, which discovered more than 200 
 To learn more, download the full report here.
 The New Paradigm
 If you’ve been relying]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okta Discloses Broader Impact Linked to October 2023 Support System Breach]]></title>
-        <id>https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html</id>
-        <link href="https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html"/>
-        <updated>2023-11-29T06:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Identity services provider Okta has disclosed that it detected "additional threat actor activity" in connection with the October 2023 breach of its support case management system.
-"The threat actor downloaded the names and email addresses of all Okta customer support system users," the company said in a statement shared with The Hacker News.
-"All Okta Workforce Identity Cloud (WIC) and Customer]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
