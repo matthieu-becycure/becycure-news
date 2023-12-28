@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-28T00:46:04.449Z</updated>
+    <updated>2023-12-28T01:48:00.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2327,17 +2327,6 @@ The attacks involve the exploitation of a remote code execution bug (CVE-2023-46
         <summary type="html"><![CDATA[Google has rolled out security updates to fix seven security issues in its Chrome browser, including a zero-day that has come under active exploitation in the wild.
 Tracked as CVE-2023-6345, the high-severity vulnerability has been described as an integer overflow bug in Skia, an open source 2D graphics library.
 Benoît Sevens and Clément Lecigne of Google's Threat Analysis Group (TAG) have been]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Transform Your Data Security Posture – Learn from SoFi's DSPM Success]]></title>
-        <id>https://thehackernews.com/2023/11/transform-your-data-security-posture.html</id>
-        <link href="https://thehackernews.com/2023/11/transform-your-data-security-posture.html"/>
-        <updated>2023-11-28T12:50:00.000Z</updated>
-        <summary type="html"><![CDATA[As cloud technology evolves, so does the challenge of securing sensitive data. In a world where data duplication and sprawl are common, organizations face increased risks of non-compliance and unauthorized data breaches.
-Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solution, offering continuous discovery and accurate classification of sensitive data in the cloud.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
