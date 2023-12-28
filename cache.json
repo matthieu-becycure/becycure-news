@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware loader is being used by threat actors to deliver a wide range of information stealers such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and Rescoms.\nCybersecurity firm ESET is tracking the trojan under the name Win/TrojanDownloader.Rugmi.\n\"This malware is a loader with three types of components: a downloader that downloads an",
+          "link": "https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html",
+          "publishedOn": "2023-12-28T05:56:00.000Z",
+          "wordCount": null,
+          "title": "New Rugmi Malware Loader Surges with Hundreds of Daily Detections",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new zero-day security flaw has been discovered in the Apache OfBiz, an open-source Enterprise Resource Planning (ERP) system that could be exploited to bypass authentication protections.\nThe vulnerability, tracked as CVE-2023-51467, resides in the login functionality and is the result of an incomplete patch for another critical vulnerability (CVE-2023-49070, CVSS score: 9.8) that was",
