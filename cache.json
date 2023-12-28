@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9HJ1TpsGoYbEpSxWe02ODflU3GV58Aku4MYFO1e9us1YSk5QNwRYdlMPuay5SyG8zCemAYHrM9xVuGZ3wmeDMe3h_iROpOcEKJ2gfS3bUwCD798XkJhkuHyJDq5DpuxKxuyUZHubDG9nDNPJaOn9ebQ-tFCMZemZ3K4zgJPK05I7jPA9i2C5z_fSo1C5X/s1600/server.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9HJ1TpsGoYbEpSxWe02ODflU3GV58Aku4MYFO1e9us1YSk5QNwRYdlMPuay5SyG8zCemAYHrM9xVuGZ3wmeDMe3h_iROpOcEKJ2gfS3bUwCD798XkJhkuHyJDq5DpuxKxuyUZHubDG9nDNPJaOn9ebQ-tFCMZemZ3K4zgJPK05I7jPA9i2C5z_fSo1C5X/s1600/server.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has rolled out security updates to fix seven security issues in its Chrome browser, including a zero-day that has come under active exploitation in the wild.\nTracked as CVE-2023-6345, the high-severity vulnerability has been described as an integer overflow bug in Skia, an open source 2D graphics library.\nBenoît Sevens and Clément Lecigne of Google's Threat Analysis Group (TAG) have been",
-          "link": "https://thehackernews.com/2023/11/zero-day-alert-google-chrome-under.html",
-          "publishedOn": "2023-11-29T04:27:00.000Z",
-          "wordCount": null,
-          "title": "Zero-Day Alert: Google Chrome Under Active Attack, Exploiting New Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHX877wLdUAFAa1nKccS4AY0HpORrdH6nWyJwFKyv8NcR6fHrnyHLBE0KzN7GC-v9i-Hl1pdZtSU2-MI5wZZatLvWiy78r_VRcjSZWurOcimNHNECGFB-Itmz5dpAdRjHMy4YWfKJJFk7WxmEBhnm5texNsjjDYxA7rJdnWofI_gQAjfKb_ds6DX49K9xs/s1600/chrome.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHX877wLdUAFAa1nKccS4AY0HpORrdH6nWyJwFKyv8NcR6fHrnyHLBE0KzN7GC-v9i-Hl1pdZtSU2-MI5wZZatLvWiy78r_VRcjSZWurOcimNHNECGFB-Itmz5dpAdRjHMy4YWfKJJFk7WxmEBhnm5texNsjjDYxA7rJdnWofI_gQAjfKb_ds6DX49K9xs/s1600/chrome.jpg"
         }
       ]
     },
