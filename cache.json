@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.\n\"An attacker who has compromised the Fluent Bit logging container could combine that access with high privileges required by Anthos Service Mesh (on clusters that have enabled it) to",
+          "link": "https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html",
+          "publishedOn": "2023-12-28T13:20:00.000Z",
+          "wordCount": null,
+          "title": "Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgxSWEb9yyLTwI7_VLPB43rAiMGYF_wY9FCVD49eDhQRM9RSFXWQ8rdnr8vO2G6A_NgrK3yrdTC33o1s9x5idRvnUh07ywmXKiIFgJFs5V2k6KTDLbiB5PYJdRKO4aurrwRG1C-praIIvchkj4LNF1D0MUJPI4ddTHllSggPGPDXhA2RbyH475c9dmK_h/s1600/google.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgxSWEb9yyLTwI7_VLPB43rAiMGYF_wY9FCVD49eDhQRM9RSFXWQ8rdnr8vO2G6A_NgrK3yrdTC33o1s9x5idRvnUh07ywmXKiIFgJFs5V2k6KTDLbiB5PYJdRKO4aurrwRG1C-praIIvchkj4LNF1D0MUJPI4ddTHllSggPGPDXhA2RbyH475c9dmK_h/s1600/google.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Operation Triangulation spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company.\nRussian cybersecurity firm Kaspersky, which discovered the campaign at the beginning of 2023 after becoming one of the targets, described it as",
