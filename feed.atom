@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-29T23:10:01.170Z</updated>
+    <updated>2023-12-29T23:24:25.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2280,29 +2280,6 @@ What exactly is]]></summary>
         <updated>2023-11-30T11:55:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors from the Democratic People's Republic of Korea (DPRK) are increasingly targeting the cryptocurrency sector as a major revenue generation mechanism since at least 2017 to get around sanctions imposed against the country.
 "Even though movement in and out of and within the country is heavily restricted, and its general population is isolated from the rest of the world, the regime's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Uses for Generative AI to Enhance Security Operations]]></title>
-        <id>https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html</id>
-        <link href="https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html"/>
-        <updated>2023-11-30T11:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to a world where Generative AI revolutionizes the field of cybersecurity.
-Generative AI refers to the use of artificial intelligence (AI) techniques to generate or create new data, such as images, text, or sounds. It has gained significant attention in recent years due to its ability to generate realistic and diverse outputs.
-When it comes to security operations, Generative AI can play]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CACTUS Ransomware Exploits Qlik Sense Vulnerabilities in Targeted Attacks]]></title>
-        <id>https://thehackernews.com/2023/11/cactus-ransomware-exploits-qlik-sense.html</id>
-        <link href="https://thehackernews.com/2023/11/cactus-ransomware-exploits-qlik-sense.html"/>
-        <updated>2023-11-30T11:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A CACTUS ransomware campaign has been observed exploiting recently disclosed security flaws in a cloud analytics and business intelligence platform called Qlik Sense to obtain a foothold into targeted environments.
-"This campaign marks the first documented instance [...] where threat actors deploying CACTUS ransomware have exploited vulnerabilities in Qlik Sense for initial access," Arctic Wolf]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
