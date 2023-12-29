@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-29T00:38:55.426Z</updated>
+    <updated>2023-12-29T01:30:34.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2251,28 +2251,6 @@ When it comes to security operations, Generative AI can play]]></summary>
 "Sinbad is also used by]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.]]></title>
-        <id>https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html</id>
-        <link href="https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html"/>
-        <updated>2023-11-29T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) revealed that it's responding to a cyber attack that involved the active exploitation of Unitronics programmable logic controllers (PLCs) to target the Municipal Water Authority of Aliquippa in western Pennsylvania.
-The attack has been attributed to an Iranian-backed hacktivist collective known as Cyber Av3ngers.
-"Cyber threat]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0984 : Multiples vulnérabilités dans les produits Axis (29 novembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0984/"/>
-        <updated>2023-11-29T12:40:31.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
