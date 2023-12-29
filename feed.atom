@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-29T11:43:43.602Z</updated>
+    <updated>2023-12-29T12:16:21.036Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK]]></title>
+        <id>https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html</id>
+        <link href="https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html"/>
+        <updated>2023-12-29T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new phishing campaign orchestrated by the Russia-linked APT28 group to deploy previously undocumented malware such as OCEANMAP, MASEPIE, and STEELHOOK to harvest sensitive information.
+The activity, which was detected by the agency between December 15 and 25, 2023, targets government entities]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks]]></title>
         <id>https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html</id>
