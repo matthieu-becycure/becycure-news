@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-29T05:43:33.214Z</updated>
+    <updated>2023-12-29T06:13:46.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks]]></title>
+        <id>https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html</id>
+        <link href="https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html"/>
+        <updated>2023-12-29T05:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Thursday said it’s once again disabling the ms-appinstaller protocol handler by default following its abuse by multiple threat actors to distribute malware.
+“The observed threat actor activity abuses the current implementation of the ms-appinstaller protocol handler as an access vector for malware that may lead to ransomware distribution,” the Microsoft Threat Intelligence]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service]]></title>
         <id>https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html</id>

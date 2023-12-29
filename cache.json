@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Thursday said it’s once again disabling the ms-appinstaller protocol handler by default following its abuse by multiple threat actors to distribute malware.\n“The observed threat actor activity abuses the current implementation of the ms-appinstaller protocol handler as an access vector for malware that may lead to ransomware distribution,” the Microsoft Threat Intelligence",
+          "link": "https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html",
+          "publishedOn": "2023-12-29T05:16:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXwqmLGXkcS8H63nOj4cL0G9wkheyfbdt_wdMDxDGEN2TdBq1v7Mg0v-0cfUMdhRiwXfyw1gsVCrYv0Vd65DD9P21L_IxVVYjWXgOWHxBdCqo7jNKaS7TliOs5CE7fTgmwyvcWwXni7QYqjI05iOmT9QX9hag1bRwr9b8d6XIrzoUP5gFaL9715P4JrPo/s1600/app-install.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXwqmLGXkcS8H63nOj4cL0G9wkheyfbdt_wdMDxDGEN2TdBq1v7Mg0v-0cfUMdhRiwXfyw1gsVCrYv0Vd65DD9P21L_IxVVYjWXgOWHxBdCqo7jNKaS7TliOs5CE7fTgmwyvcWwXni7QYqjI05iOmT9QX9hag1bRwr9b8d6XIrzoUP5gFaL9715P4JrPo/s1600/app-install.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.\n\"An attacker who has compromised the Fluent Bit logging container could combine that access with high privileges required by Anthos Service Mesh (on clusters that have enabled it) to",
