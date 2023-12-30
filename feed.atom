@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-30T22:08:49.228Z</updated>
+    <updated>2023-12-30T22:27:48.616Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2120,36 +2120,6 @@ Vladimir Dunaev, 40, was arrested in South Korea in September 2021 and extradi
 The activity, which commenced no later than August 2023, leverages two different infection sequences to deliver the malware, which is a customized variant of Gh0st RAT]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html</id>
-        <link href="https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html"/>
-        <updated>2023-12-01T10:26:00.000Z</updated>
-        <summary type="html"><![CDATA[The most recent Gcore Radar report and its aftermath have highlighted a dramatic increase in DDoS attacks across multiple industries. At the beginning of 2023, the average strength of attacks reached 800 Gbps, but now, even a peak as high as 1.5+ Tbps is unsurprising. To try and break through Gcore’s defenses, perpetrators made two attempts with two different strategies.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0992 : Vulnérabilité dans SolarWinds Platform (01 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/"/>
-        <updated>2023-12-01T10:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0991 : Multiples vulnérabilités dans GitLab (01 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/"/>
-        <updated>2023-12-01T10:15:43.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

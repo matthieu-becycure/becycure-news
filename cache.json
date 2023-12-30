@@ -1924,22 +1924,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaoqm8mskweoRejOp_15Lgmvqb6WUMtH7Jv8qsO9pR4BwIX89UckNM4JQv0Ixu0-Q04qVss9aq_Z8R114KWzYWOZBkjTb65Qwj6t6Mv9YP4OWX9V4EY5_6LGr0plWhCkepKAU49UVOH_wAC5YHsqTDRqIVawMdJIdaIvVFhoIZ_0kfoatPXn-F1BN-SA4w/s1600/talos.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaoqm8mskweoRejOp_15Lgmvqb6WUMtH7Jv8qsO9pR4BwIX89UckNM4JQv0Ixu0-Q04qVss9aq_Z8R114KWzYWOZBkjTb65Qwj6t6Mv9YP4OWX9V4EY5_6LGr0plWhCkepKAU49UVOH_wAC5YHsqTDRqIVawMdJIdaIvVFhoIZ_0kfoatPXn-F1BN-SA4w/s1600/talos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The most recent Gcore Radar report and its aftermath have highlighted a dramatic increase in DDoS attacks across multiple industries. At the beginning of 2023, the average strength of attacks reached 800 Gbps, but now, even a peak as high as 1.5+ Tbps is unsurprising. To try and break through Gcore’s defenses, perpetrators made two attempts with two different strategies.",
-          "link": "https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html",
-          "publishedOn": "2023-12-01T10:26:00.000Z",
-          "wordCount": null,
-          "title": "Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOlWzNDCffghUIBnanvTxjf1bYa0unxYySgTH_HFybtLRgLSjY5-mBkw1cjFsCRQrQ64g60_dMVpS-oRB_PT4547vIrQFJDm35OmCWmytVfLBr_Omynd7kKtzj8LpdyjK_112WEZgJsOtJCdsFl1PnOObD3p5g5OK4O7DX8-t1Le8ijUobB0pbnCpT8M/s1600/ddos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFOlWzNDCffghUIBnanvTxjf1bYa0unxYySgTH_HFybtLRgLSjY5-mBkw1cjFsCRQrQ64g60_dMVpS-oRB_PT4547vIrQFJDm35OmCWmytVfLBr_Omynd7kKtzj8LpdyjK_112WEZgJsOtJCdsFl1PnOObD3p5g5OK4O7DX8-t1Le8ijUobB0pbnCpT8M/s1600/ddos.jpg"
         }
       ]
     },
@@ -2706,26 +2690,6 @@
           "publishedOn": "2023-12-01T13:19:21.000Z",
           "wordCount": 1030,
           "title": "CERTFR-2023-AVI-0993 : Multiples vulnérabilités dans les produits Fortinet (01 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0992/",
-          "publishedOn": "2023-12-01T10:21:32.000Z",
-          "wordCount": 930,
-          "title": "CERTFR-2023-AVI-0992 : Vulnérabilité dans SolarWinds Platform (01 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0991/",
-          "publishedOn": "2023-12-01T10:15:43.000Z",
-          "wordCount": 1040,
-          "title": "CERTFR-2023-AVI-0991 : Multiples vulnérabilités dans GitLab (01 décembre 2023)",
           "imageUrl": null
         }
       ]
