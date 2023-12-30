@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-30T00:46:21.071Z</updated>
+    <updated>2023-12-30T01:45:07.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2249,17 +2249,6 @@ CVE-2023-42916 - An out-of-bounds read issue that could be exploited to]]></sum
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Unveils RETVec - Gmail's New Defense Against Spam and Malicious Emails]]></title>
-        <id>https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html</id>
-        <link href="https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html"/>
-        <updated>2023-11-30T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has revealed a new multilingual text vectorizer called RETVec (short for Resilient and Efficient Text Vectorizer) to help detect potentially harmful content such as spam and malicious emails in Gmail.
-"RETVec is trained to be resilient against character-level manipulations including insertion, deletion, typos, homoglyphs, LEET substitution, and more," according to the project's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

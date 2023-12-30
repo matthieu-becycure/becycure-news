@@ -1988,22 +1988,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has revealed a new multilingual text vectorizer called RETVec (short for Resilient and Efficient Text Vectorizer) to help detect potentially harmful content such as spam and malicious emails in Gmail.\n\"RETVec is trained to be resilient against character-level manipulations including insertion, deletion, typos, homoglyphs, LEET substitution, and more,\" according to the project's",
-          "link": "https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html",
-          "publishedOn": "2023-11-30T13:08:00.000Z",
-          "wordCount": null,
-          "title": "Google Unveils RETVec - Gmail's New Defense Against Spam and Malicious Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9dHTHrp1TmAk9gEIFOra1JNN4aTVzvFkxE3AtaWn9z2lX6eiV8jmigR9ZAD48qPkDeWMQLmwEdoMMx2ZUG1rZNl4Gn64utegia_8C92FlEKBRiwXbqMsclvlyR7kwEYmCKGL4MmFzeaDbfez-Mfi-USCtQ-SyShLmXRlc8ZDITlTXr5pBoMHd1rWVm07R/s1600/gmail.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9dHTHrp1TmAk9gEIFOra1JNN4aTVzvFkxE3AtaWn9z2lX6eiV8jmigR9ZAD48qPkDeWMQLmwEdoMMx2ZUG1rZNl4Gn64utegia_8C92FlEKBRiwXbqMsclvlyR7kwEYmCKGL4MmFzeaDbfez-Mfi-USCtQ-SyShLmXRlc8ZDITlTXr5pBoMHd1rWVm07R/s1600/gmail.jpg"
         }
       ]
     },
