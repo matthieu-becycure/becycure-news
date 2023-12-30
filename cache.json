@@ -2753,26 +2753,6 @@
           "wordCount": 1053,
           "title": "CERTFR-2023-AVI-0990 : Multiples vulnérabilités dans les produits IBM (01 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0989/",
-          "publishedOn": "2023-12-01T09:32:47.000Z",
-          "wordCount": 1366,
-          "title": "CERTFR-2023-AVI-0989 : Multiples vulnérabilités dans le noyau Linux de RedHat (01 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0988/",
-          "publishedOn": "2023-12-01T09:25:42.000Z",
-          "wordCount": 1282,
-          "title": "CERTFR-2023-AVI-0988 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (01 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
