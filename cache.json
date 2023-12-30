@@ -2773,16 +2773,6 @@
           "wordCount": 1282,
           "title": "CERTFR-2023-AVI-0988 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (01 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire.\n D'après l'éditeur, ces vulnérabilités sont<span …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0987/",
-          "publishedOn": "2023-12-01T09:03:00.000Z",
-          "wordCount": 1011,
-          "title": "CERTFR-2023-AVI-0987 : Multiples vulnérabilités dans les produits Apple (01 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
