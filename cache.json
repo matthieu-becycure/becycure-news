@@ -1988,22 +1988,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh55dIn0KFad5S0q1Op1g9pejV60Co0aZjECxg9VEwKC9Kvb6J5LKkmSu6WUKKOkFVy5FNj0QYywyDw5RWHtDDc7KZhda0f6NtZtXs_dQUh88uu8k-EqlpuN32q4i1Y5SKRtyCO7EV7ZwEEhJ4_2FB_l1eRqrCix9PAMWzAAfvTm-O8p_9GGEnprmPXdvTw/s1600/lock.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh55dIn0KFad5S0q1Op1g9pejV60Co0aZjECxg9VEwKC9Kvb6J5LKkmSu6WUKKOkFVy5FNj0QYywyDw5RWHtDDc7KZhda0f6NtZtXs_dQUh88uu8k-EqlpuN32q4i1Y5SKRtyCO7EV7ZwEEhJ4_2FB_l1eRqrCix9PAMWzAAfvTm-O8p_9GGEnprmPXdvTw/s1600/lock.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple has released software updates for iOS, iPadOS, macOS, and Safari web browser to address two security flaws that it said have come under active exploitation in the wild on older versions of its software.\nThe vulnerabilities, both of which reside in the WebKit web browser engine, are described below -\n\nCVE-2023-42916 - An out-of-bounds read issue that could be exploited to",
-          "link": "https://thehackernews.com/2023/12/zero-day-alert-apple-rolls-out-ios.html",
-          "publishedOn": "2023-12-01T04:25:00.000Z",
-          "wordCount": null,
-          "title": "Zero-Day Alert: Apple Rolls Out iOS, macOS, and Safari Patches for 2 Actively Exploited Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
         }
       ]
     },
