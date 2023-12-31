@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-30T23:43:25.962Z</updated>
+    <updated>2023-12-31T00:52:12.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2088,17 +2088,6 @@ Vladimir Dunaev, 40, was arrested in South Korea in September 2021 and extradi
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia]]></title>
-        <id>https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html</id>
-        <link href="https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html"/>
-        <updated>2023-12-01T12:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new sophisticated Android malware called FjordPhantom that has been observed targeting users in Southeast Asian countries like Indonesia, Thailand, and Vietnam since early September 2023.
-"Spreading primarily through messaging services, it combines app-based malware with social engineering to defraud banking customers," Oslo-based mobile app]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
