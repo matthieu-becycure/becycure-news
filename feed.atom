@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2023-12-31T20:24:33.484Z</updated>
+    <updated>2023-12-31T20:43:30.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2053,17 +2053,6 @@ The shortcomings, collectively labeled LogoFAIL by Binarly, "can be used by th
         <updated>2023-12-04T04:20:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft has warned of a new wave of CACTUS ransomware attacks that leverage malvertising lures to deploy DanaBot as an initial access vector.
 The DanaBot infections led to "hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of CACTUS ransomware," the Microsoft Threat Intelligence team said in a series of posts on X (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.]]></title>
-        <id>https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html</id>
-        <link href="https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html"/>
-        <updated>2023-12-02T08:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations in the Middle East, Africa, and the U.S. have been targeted by an unknown threat actor to distribute a new backdoor called Agent Racoon.
-"This malware family is written using the .NET framework and leverages the domain name service (DNS) protocol to create a covert channel and provide different backdoor functionalities," Palo Alto Networks Unit 42 researcher Chema Garcia]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

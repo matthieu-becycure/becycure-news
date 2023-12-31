@@ -1844,22 +1844,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqPM-uN-FX6PpElB38EjgMR11j4OyHgTiXt5qU8H75zol0nGJQIqv3aQJCswofBKpfpkzHYBVd9eB2kZcxp2GcDixa7A3mocWoPKhBpi0aOL6kvtUfYsWo5Z_UPtKSOEDhLm-0C-mPrySFdSOxMFBtFQCCAB9HNduk4O_bNudLXWws9kR2GXTiyAW0H1b/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvqPM-uN-FX6PpElB38EjgMR11j4OyHgTiXt5qU8H75zol0nGJQIqv3aQJCswofBKpfpkzHYBVd9eB2kZcxp2GcDixa7A3mocWoPKhBpi0aOL6kvtUfYsWo5Z_UPtKSOEDhLm-0C-mPrySFdSOxMFBtFQCCAB9HNduk4O_bNudLXWws9kR2GXTiyAW0H1b/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Organizations in the Middle East, Africa, and the U.S. have been targeted by an unknown threat actor to distribute a new backdoor called Agent Racoon.\n\"This malware family is written using the .NET framework and leverages the domain name service (DNS) protocol to create a covert channel and provide different backdoor functionalities,\" Palo Alto Networks Unit 42 researcher Chema Garcia",
-          "link": "https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html",
-          "publishedOn": "2023-12-02T08:29:00.000Z",
-          "wordCount": null,
-          "title": "Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIxPVMfoOVIcgK2ePpI1S1dPGG1SfZIbHcWCx4O5NKgUYRPWj_NBTfiU-zn-Pqr5GvXP1bDU_-m7FK0LZcvgG3qMPYI-xZLhILPMU5UNEIsf1M-GfcVognfSGXx_lqMFh28jsJWUqch02VRuQQ_Nq2x7v1D1H0NGb05d42Fw_wf_CkVnsWm8I0QvI5tu3/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIxPVMfoOVIcgK2ePpI1S1dPGG1SfZIbHcWCx4O5NKgUYRPWj_NBTfiU-zn-Pqr5GvXP1bDU_-m7FK0LZcvgG3qMPYI-xZLhILPMU5UNEIsf1M-GfcVognfSGXx_lqMFh28jsJWUqch02VRuQQ_Nq2x7v1D1H0NGb05d42Fw_wf_CkVnsWm8I0QvI5tu3/s1600/malware.jpg"
         }
       ]
     },
