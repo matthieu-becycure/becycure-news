@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new Go-based malware loader called JinxLoader is being used by threat actors to deliver next-stage payloads such as Formbook and its successor XLoader.\nThe disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and Symantec, both of which highlighted multi-step attack sequences that led to the deployment of JinxLoader through phishing attacks.\n\"The",
+          "link": "https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html",
+          "publishedOn": "2024-01-01T06:52:00.000Z",
+          "wordCount": null,
+          "title": "New JinxLoader Targeting Users with Formbook and XLoader Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleNyaJtpflSDIvKTlMAt80lK0wqbOdg_P7bTxFdXBrRZXFcdfas4w8Ap77n6TBUBdcERa2hpTQh7KdKGTsG7on7TWbRAek4mN2nmS5ZlDPP4Vt-e2dy8-wcFAiRBLNvUYitN6Z7ZUmBMGlceCmiriOeHkYstDDL09NvQUb59pCjqvA-5V0T3hkz449Q01/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleNyaJtpflSDIvKTlMAt80lK0wqbOdg_P7bTxFdXBrRZXFcdfas4w8Ap77n6TBUBdcERa2hpTQh7KdKGTsG7on7TWbRAek4mN2nmS5ZlDPP4Vt-e2dy8-wcFAiRBLNvUYitN6Z7ZUmBMGlceCmiriOeHkYstDDL09NvQUb59pCjqvA-5V0T3hkz449Q01/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are warning about an increase in phishing attacks that are capable of draining cryptocurrency wallets.\n\"These threats are unique in their approach, targeting a wide range of blockchain networks, from Ethereum and Binance Smart Chain to Polygon, Avalanche, and almost 20 other networks by using a crypto wallet-draining technique,\" Check Point researchers Oded Vanunu,",

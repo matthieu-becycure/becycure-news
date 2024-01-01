@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-01T06:43:39.285Z</updated>
+    <updated>2024-01-01T07:10:14.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New JinxLoader Targeting Users with Formbook and XLoader Malware]]></title>
+        <id>https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html</id>
+        <link href="https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"/>
+        <updated>2024-01-01T06:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Go-based malware loader called JinxLoader is being used by threat actors to deliver next-stage payloads such as Formbook and its successor XLoader.
+The disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and Symantec, both of which highlighted multi-step attack sequences that led to the deployment of JinxLoader through phishing attacks.
+"The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks]]></title>
         <id>https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html</id>
