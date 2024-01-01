@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-01T14:09:31.464Z</updated>
+    <updated>2024-01-01T14:27:57.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections]]></title>
+        <id>https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html</id>
+        <link href="https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html"/>
+        <updated>2024-01-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers have detailed a new variant of a dynamic link library (DLL) search order hijacking technique that could be used by threat actors to bypass security mechanisms and achieve execution of malicious code on systems running Microsoft Windows 10 and Windows 11.
+The approach "leverages executables commonly found in the trusted WinSxS folder and exploits them via the classic DLL]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security]]></title>
         <id>https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html</id>
