@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-02T22:43:32.700Z</updated>
+    <updated>2024-01-02T23:10:20.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2095,18 +2095,6 @@ The issues, collectively named BLUFFS, impact Bluetooth Core Specification 4.2 
         <link href="https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html"/>
         <updated>2023-12-04T11:38:00.000Z</updated>
         <summary type="html"><![CDATA[As work ebbs with the typical end-of-year slowdown, now is a good time to review user roles and privileges and remove anyone who shouldn’t have access as well as trim unnecessary permissions. In addition to saving some unnecessary license fees, a clean user inventory significantly enhances the security of your SaaS applications. From reducing risk to protecting against data leakage, here is how]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices]]></title>
-        <id>https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html</id>
-        <link href="https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html"/>
-        <updated>2023-12-04T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new variant of an emerging botnet called P2PInfect that's capable of targeting routers and IoT devices.
-The latest version, per Cado Security Labs, is compiled for Microprocessor without Interlocked Pipelined Stages (MIPS) architecture, broadening its capabilities and reach.
-"It's highly likely that by targeting MIPS, the P2PInfect developers]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
