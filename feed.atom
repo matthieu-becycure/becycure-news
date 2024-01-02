@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-02T18:43:36.370Z</updated>
+    <updated>2024-01-02T19:08:12.648Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2119,17 +2119,6 @@ The latest version, per Cado Security Labs, is compiled for Microprocessor witho
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LogoFAIL: UEFI Vulnerabilities Expose Devices to Stealth Malware Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html</id>
-        <link href="https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html"/>
-        <updated>2023-12-04T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The Unified Extensible Firmware Interface (UEFI) code from various independent firmware/BIOS vendors (IBVs) has been found vulnerable to potential attacks through high-impact flaws in image parsing libraries embedded into the firmware.
-The shortcomings, collectively labeled LogoFAIL by Binarly, "can be used by threat actors to deliver a malicious payload and bypass Secure Boot, Intel]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
