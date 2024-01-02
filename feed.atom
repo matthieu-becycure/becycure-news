@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-02T23:24:49.295Z</updated>
+    <updated>2024-01-02T23:43:42.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2085,16 +2085,6 @@ The tech giant attributed the intrusions to a threat actor it called Forest B
         <updated>2023-12-04T13:16:00.000Z</updated>
         <summary type="html"><![CDATA[New research has unearthed multiple novel attacks that break Bluetooth Classic's forward secrecy and future secrecy guarantees, resulting in adversary-in-the-middle (AitM) scenarios between two already connected peers.
 The issues, collectively named BLUFFS, impact Bluetooth Core Specification 4.2 through 5.4. They are tracked under the identifier CVE-2023-24023 (CVSS score: 6.8)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk]]></title>
-        <id>https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html</id>
-        <link href="https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html"/>
-        <updated>2023-12-04T11:38:00.000Z</updated>
-        <summary type="html"><![CDATA[As work ebbs with the typical end-of-year slowdown, now is a good time to review user roles and privileges and remove anyone who shouldn’t have access as well as trim unnecessary permissions. In addition to saving some unnecessary license fees, a clean user inventory significantly enhances the security of your SaaS applications. From reducing risk to protecting against data leakage, here is how]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
