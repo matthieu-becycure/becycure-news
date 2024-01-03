@@ -1860,22 +1860,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihWOhqZKfuOgE_iNJmC7UijptAhsOPft9oGGGXBdoLo9_KNfqAcewnjgXStjNHIk6qHS_azxxfCDr_cEPDWPwlCZTjMIciWWaDJq_s9gSE1wxn7AJjZ7p91FcHXH3o0hEzjsBqBmWQsF2VHojWjbou4ifAXjGm8fSSKPcZZefKO33pb5RUhzOgiPHK3T8/s1600/copilot.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihWOhqZKfuOgE_iNJmC7UijptAhsOPft9oGGGXBdoLo9_KNfqAcewnjgXStjNHIk6qHS_azxxfCDr_cEPDWPwlCZTjMIciWWaDJq_s9gSE1wxn7AJjZ7p91FcHXH3o0hEzjsBqBmWQsF2VHojWjbou4ifAXjGm8fSSKPcZZefKO33pb5RUhzOgiPHK3T8/s1600/copilot.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New research has found that over 15,000 Go module repositories on GitHub are vulnerable to an attack called repojacking.\n\"More than 9,000 repositories are vulnerable to repojacking due to GitHub username changes,\" Jacob Baines, chief technology officer at VulnCheck, said in a report shared with The Hacker News. \"More than 6,000 repositories were vulnerable to repojacking due to account",
-          "link": "https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html",
-          "publishedOn": "2023-12-05T10:14:00.000Z",
-          "wordCount": null,
-          "title": "15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSBn-QHX_EyZ7R-aCfD90SqZ4lFBv_KfVv43fBxK8c5K_y7j3EJqlSmttsaffrjQZfYqtvvSN3zd1_PplYkJz3g-xMUrc9V7WGIgJ7IKTOfWXIaBjT_1RUghYkvCam7JJoFPp9AjEGS966PdceqZwrpIEdnV672xxRUoUFB87VuPR9eEGh7r6vjD4RtKaT/s1600/github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSBn-QHX_EyZ7R-aCfD90SqZ4lFBv_KfVv43fBxK8c5K_y7j3EJqlSmttsaffrjQZfYqtvvSN3zd1_PplYkJz3g-xMUrc9V7WGIgJ7IKTOfWXIaBjT_1RUghYkvCam7JJoFPp9AjEGS966PdceqZwrpIEdnV672xxRUoUFB87VuPR9eEGh7r6vjD4RtKaT/s1600/github.jpg"
         }
       ]
     },
