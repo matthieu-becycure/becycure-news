@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-03T07:43:47.644Z</updated>
+    <updated>2024-01-03T08:12:55.185Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation]]></title>
+        <id>https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html</id>
+        <link href="https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html"/>
+        <updated>2024-01-03T07:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Tuesday said it reached a settlement with VoIP service provider XCast over allegations that it facilitated illegal telemarketing campaigns since at least January 2018, in contravention of the Telemarketing Sales Rule (TSR).
+In addition to prohibiting the company from violating the law, the stipulated order requires it to meet other compliance measures,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-ACT-001 : Bulletin d’actualité CERTFR-2024-ACT-001 (02 janvier 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-001/</id>
