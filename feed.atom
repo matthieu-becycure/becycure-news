@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-03T21:09:10.686Z</updated>
+    <updated>2024-01-03T21:23:24.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2086,26 +2086,6 @@ What makes Copilot a different beast than ChatGPT and]]></summary>
 "More than 9,000 repositories are vulnerable to repojacking due to GitHub username changes," Jacob Baines, chief technology officer at VulnCheck, said in a report shared with The Hacker News. "More than 6,000 repositories were vulnerable to repojacking due to account]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0995 : Multiples vulnérabilités dans Google Android (05 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0995/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0995/"/>
-        <updated>2023-12-05T09:22:26.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0994 : Multiples vulnérabilités dans SonicWall SMA (05 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0994/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0994/"/>
-        <updated>2023-12-05T09:14:10.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans SonicWall SMA. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
