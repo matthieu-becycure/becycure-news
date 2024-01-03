@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-03T00:48:47.218Z</updated>
+    <updated>2024-01-03T01:51:36.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2074,17 +2074,6 @@ The BlackBerry Threat Research and Intelligence team is tracking the activity cl
         <updated>2023-12-05T06:59:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers.
 The tech giant attributed the intrusions to a threat actor it called Forest Blizzard (formerly Strontium), which is also widely tracked under the monikers APT28,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html</id>
-        <link href="https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html"/>
-        <updated>2023-12-04T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[New research has unearthed multiple novel attacks that break Bluetooth Classic's forward secrecy and future secrecy guarantees, resulting in adversary-in-the-middle (AitM) scenarios between two already connected peers.
-The issues, collectively named BLUFFS, impact Bluetooth Core Specification 4.2 through 5.4. They are tracked under the identifier CVE-2023-24023 (CVSS score: 6.8)]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

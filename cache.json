@@ -1844,22 +1844,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo_-O_Y4uEx6cWQElaNsbR6l9bLhUELAsQGsmKehTfMRPqd-pCH6n3vee6fURoX_gLaN6dYNxB4jKgIw39wzUK9RbEMQAuHFU6nqOzaCGLFt9oA7l1CKkKsi3gT4yUHIZMqQcE2VGHyzReEe9IPXqu_x1yOzdTACFT0it1wqBbcpPLrW16e7-2o54twJva/s1600/email-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New research has unearthed multiple novel attacks that break Bluetooth Classic's forward secrecy and future secrecy guarantees, resulting in adversary-in-the-middle (AitM) scenarios between two already connected peers.\nThe issues, collectively named BLUFFS, impact Bluetooth Core Specification 4.2 through 5.4. They are tracked under the identifier CVE-2023-24023 (CVSS score: 6.8)",
-          "link": "https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html",
-          "publishedOn": "2023-12-04T13:16:00.000Z",
-          "wordCount": null,
-          "title": "New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEc2vP4S45r8C1OiQZ5LCVNxF2xkE07qU8ul1jJgBvxueqGSZsLwph1ersty8wnEePZtTH3wTOT1zEC0fKWYknorbne8AJ7-L-9WiIezq9jH77s6GpjUiqOhc0REuFs7NkI3FY_h0b8dbhVyGuHnZai5eSyYZ5GYaUA8DD3wDyTcSVX3b6LnyHx_r3bZvt/s1600/bluetooth.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEc2vP4S45r8C1OiQZ5LCVNxF2xkE07qU8ul1jJgBvxueqGSZsLwph1ersty8wnEePZtTH3wTOT1zEC0fKWYknorbne8AJ7-L-9WiIezq9jH77s6GpjUiqOhc0REuFs7NkI3FY_h0b8dbhVyGuHnZai5eSyYZ5GYaUA8DD3wDyTcSVX3b6LnyHx_r3bZvt/s1600/bluetooth.jpg"
         }
       ]
     },
