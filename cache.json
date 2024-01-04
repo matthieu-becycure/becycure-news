@@ -2601,16 +2601,6 @@
           "wordCount": 924,
           "title": "CERTFR-2023-AVI-0997 : Vulnérabilité dans SolarWinds Serv-U (06 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/",
-          "publishedOn": "2023-12-05T12:13:18.000Z",
-          "wordCount": 947,
-          "title": "CERTFR-2023-AVI-0996 : Vulnérabilité dans TheGreenBow VPN Client (05 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }

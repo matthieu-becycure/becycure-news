@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-03T23:43:52.727Z</updated>
+    <updated>2024-01-04T00:49:13.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2053,16 +2053,6 @@ The novel, detailed by Jamf Threat Labs in a report shared with The Hacker New
 These campaigns are designed to amplify content designed to undermine Ukraine as well as propagate anti-LGBTQ+ sentiment, U.S. military competence, and Germany's economic and social issues, according to a new]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-0996 : Vulnérabilité dans TheGreenBow VPN Client (05 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0996/"/>
-        <updated>2023-12-05T12:13:18.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
