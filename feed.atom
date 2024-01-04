@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-04T22:10:11.860Z</updated>
+    <updated>2024-01-04T22:29:10.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2068,16 +2068,6 @@ Collectively tracked as Sierra:21, the issues expose over 86,000 devices across
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling Security Operations with Automation]]></title>
-        <id>https://thehackernews.com/2023/12/scaling-security-operations-with.html</id>
-        <link href="https://thehackernews.com/2023/12/scaling-security-operations-with.html"/>
-        <updated>2023-12-06T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[In an increasingly complex and fast-paced digital landscape, organizations strive to protect themselves from various security threats. However, limited resources often hinder security teams when combatting these threats, making it difficult to keep up with the growing number of security incidents and alerts. Implementing automation throughout security operations helps security teams alleviate]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
