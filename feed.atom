@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-04T17:09:31.136Z</updated>
+    <updated>2024-01-04T17:27:44.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2101,20 +2101,6 @@ The list of vulnerabilities is below -
 
 CVE-2022-1471 (CVSS score: 9.8) - Deserialization vulnerability in SnakeYAML library that can lead to remote code execution in multiple products
 CVE-2023-22522 (CVSS score]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html</id>
-        <link href="https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html"/>
-        <updated>2023-12-06T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Chipmaker Qualcomm has released more information about three high-severity security flaws that it said came under "limited, targeted exploitation" back in October 2023.
-The vulnerabilities are as follows -
-
-CVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.
-CVE-2023-33106 (CVSS score: 8.4) - Memory corruption in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

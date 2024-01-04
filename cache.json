@@ -1860,22 +1860,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhgcnFuQEwAIHtJSoJHID60fhY9QLSfbL42akEoLOVYSHM7dRy1kkUMW-bz36iJs1Vz2PDWta4cTFosSDVfS-332KCKJlpKEpGWvB7wpLoSM0izu9RHYfoTkjNVa9a1a_t6RxTD0UIK1l7rtSlIOS1LFHQc24Eia84g96OM2uVDkIF-4lyPO6SZ4Ge2Aco/s1600/patch.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhgcnFuQEwAIHtJSoJHID60fhY9QLSfbL42akEoLOVYSHM7dRy1kkUMW-bz36iJs1Vz2PDWta4cTFosSDVfS-332KCKJlpKEpGWvB7wpLoSM0izu9RHYfoTkjNVa9a1a_t6RxTD0UIK1l7rtSlIOS1LFHQc24Eia84g96OM2uVDkIF-4lyPO6SZ4Ge2Aco/s1600/patch.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Chipmaker Qualcomm has released more information about three high-severity security flaws that it said came under \"limited, targeted exploitation\" back in October 2023.\nThe vulnerabilities are as follows -\n\nCVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.\nCVE-2023-33106 (CVSS score: 8.4) - Memory corruption in",
-          "link": "https://thehackernews.com/2023/12/qualcomm-releases-details-on-chip.html",
-          "publishedOn": "2023-12-06T05:23:00.000Z",
-          "wordCount": null,
-          "title": "Qualcomm Releases Details on Chip Vulnerabilities Exploited in Targeted Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOML9jxyoADXx3l_PRPFxTA4UlX1cX5uP5XpRBx_IxeJAY9q2hr7dQd8lB4rqvkYqJOL_-UKBlYuF5_Rs7KUeyIBbjdH5RavxBDKDHlOanxdwljOjWiVgBZzIq7RjlYUZ7HRz6h6MwiG-TCIvh3TWfUc_-HM-JUMf8qslmreAP5Z6Hrei6LJ_S20-fzu_k/s1600/android.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOML9jxyoADXx3l_PRPFxTA4UlX1cX5uP5XpRBx_IxeJAY9q2hr7dQd8lB4rqvkYqJOL_-UKBlYuF5_Rs7KUeyIBbjdH5RavxBDKDHlOanxdwljOjWiVgBZzIq7RjlYUZ7HRz6h6MwiG-TCIvh3TWfUc_-HM-JUMf8qslmreAP5Z6Hrei6LJ_S20-fzu_k/s1600/android.jpg"
         }
       ]
     },
