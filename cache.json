@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Section four of the \"Executive Order on Improving the Nation’s Cybersecurity\" introduced a lot of people in tech to the concept of a “Software Supply Chain” and securing it. If you make software and ever hope to sell it to one or more federal agencies, you have to pay attention to this. Even if you never plan to sell to a government, understanding your Software Supply Chain and",
+          "link": "https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html",
+          "publishedOn": "2024-01-04T12:13:00.000Z",
+          "wordCount": null,
+          "title": "Three Ways To Supercharge Your Software Supply Chain Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s1600/git.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s1600/git.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices.\nThe three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down.\n“These packages, upon initial use, deploy a CoinMiner",
@@ -1868,6 +1884,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/",
+          "publishedOn": "2024-01-04T08:10:07.000Z",
+          "wordCount": 1218,
+          "title": "CERTFR-2024-AVI-0006 : Multiples vulnérabilités dans Google Android (04 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/",
+          "publishedOn": "2024-01-04T07:54:57.000Z",
+          "wordCount": 924,
+          "title": "CERTFR-2024-AVI-0005 : Vulnérabilité dans Wireshark (04 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/",
+          "publishedOn": "2024-01-04T07:53:45.000Z",
+          "wordCount": 957,
+          "title": "CERTFR-2024-AVI-0004 : Multiples vulnérabilités dans Google Chrome (04 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant authentifié de provoquer une atteinte à la confidentialité des données.\n Synology ne propose pas de correctif pour la version 1.2 de Synology Router Manager. L'éditeur …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/",
+          "publishedOn": "2024-01-04T07:30:55.000Z",
+          "wordCount": 969,
+          "title": "CERTFR-2024-AVI-0003 : Vulnérabilité dans Synology Router Manager (04 janvier 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/",
           "author": null,
