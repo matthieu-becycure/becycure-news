@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-04T02:43:40.152Z</updated>
+    <updated>2024-01-04T03:11:16.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2029,28 +2029,6 @@ The vulnerabilities are as follows -
 
 CVE-2023-33063 (CVSS score: 7.8) - Memory corruption in DSP Services during a remote call from HLOS to DSP.
 CVE-2023-33106 (CVSS score: 8.4) - Memory corruption in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack]]></title>
-        <id>https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html</id>
-        <link href="https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html"/>
-        <updated>2023-12-05T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A new "post-exploitation tampering technique" can be abused by malicious actors to visually deceive a target into believing that their Apple iPhone is running in Lockdown Mode when it's actually not and carry out covert attacks.
-The novel, detailed by Jamf Threat Labs in a report shared with The Hacker News, "shows that if a hacker has already infiltrated your device, they can cause]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia's AI-Powered Disinformation Operation Targeting Ukraine, US, and Germany]]></title>
-        <id>https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html</id>
-        <link href="https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html"/>
-        <updated>2023-12-05T14:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked influence operation called Doppelganger has targeted Ukrainian, U.S., and German audiences through a combination of inauthentic news sites and social media accounts.
-These campaigns are designed to amplify content designed to undermine Ukraine as well as propagate anti-LGBTQ+ sentiment, U.S. military competence, and Germany's economic and social issues, according to a new]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
