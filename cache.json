@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices.\nThe three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down.\n“These packages, upon initial use, deploy a CoinMiner",
+          "link": "https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html",
+          "publishedOn": "2024-01-04T10:35:00.000Z",
+          "wordCount": null,
+          "title": "Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgASpIoZfMw5qX6IE2cATLrF0xBhhtjFtsjZkNLU6qd-JUEuplrbcrkyKHhC-mtqHu5AnYBzBqaCbUtQQQjDKPQzeucAo2lehmTIIUrXOBh8_gZmtsq6FgGn4vDqkOL5-nKgzsCt6YqYWbdrl9a6R0SMv3cYsAsE6RxRj72XPLn6fa8yvIeWo3uobYWuX/s1600/code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgASpIoZfMw5qX6IE2cATLrF0xBhhtjFtsjZkNLU6qd-JUEuplrbcrkyKHhC-mtqHu5AnYBzBqaCbUtQQQjDKPQzeucAo2lehmTIIUrXOBh8_gZmtsq6FgGn4vDqkOL5-nKgzsCt6YqYWbdrl9a6R0SMv3cYsAsE6RxRj72XPLn6fa8yvIeWo3uobYWuX/s1600/code.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as UAC-0050 is leveraging phishing attacks to distribute Remcos RAT using new strategies to evade detection from security software.\n\"The group's weapon of choice is Remcos RAT, a notorious malware for remote surveillance and control, which has been at the forefront of its espionage arsenal,\" Uptycs security researchers Karthick Kumar and Shilpesh Trivedi said in",
