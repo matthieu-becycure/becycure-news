@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "American cybersecurity firm and Google Cloud subsidiary Mandiant had its X (formerly Twitter) account compromised for more than six hours by an unknown attacker to propagate a cryptocurrency scam.\nAs of writing, the account has been restored on the social media platform.\nIt's currently not clear how the account was breached. But the hacked Mandiant account was initially renamed to \"@",
+          "link": "https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html",
+          "publishedOn": "2024-01-04T06:29:00.000Z",
+          "wordCount": null,
+          "title": "Mandiant's Twitter Account Restored After Six-Hour Crypto Scam Hack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQVAbyHh89pXf7xoz3n77CJLZ32yk9GCL9UliC8WVAp8wDIsvPL1NGQHBqVBrQv8T0_7o4ToxKwKH2uR4yErtlJS00RZE88J94ui-t1MJiBCuRoqc7QzSu4HG7GgbH2Ibabxc0vXJEgvAoiTBv6td_WdDpD-ccFQ-Kb_UwFOD54gv_TPDpZQNqDOlXrXb0/s1600/google.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQVAbyHh89pXf7xoz3n77CJLZ32yk9GCL9UliC8WVAp8wDIsvPL1NGQHBqVBrQv8T0_7o4ToxKwKH2uR4yErtlJS00RZE88J94ui-t1MJiBCuRoqc7QzSu4HG7GgbH2Ibabxc0vXJEgvAoiTBv6td_WdDpD-ccFQ-Kb_UwFOD54gv_TPDpZQNqDOlXrXb0/s1600/google.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Information stealing malware are actively taking advantage of an undocumented Google OAuth endpoint named MultiLogin to hijack user sessions and allow continuous access to Google services even after a password reset.\nAccording to CloudSEK, the critical exploit facilitates session persistence and cookie generation, enabling threat actors to maintain access to a valid session in an",
