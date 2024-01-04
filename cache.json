@@ -2599,16 +2599,6 @@
           "wordCount": 975,
           "title": "CERTFR-2023-AVI-0998 : Multiples vulnérabilités dans Google Chrome (06 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0997/",
-          "publishedOn": "2023-12-06T10:43:30.000Z",
-          "wordCount": 924,
-          "title": "CERTFR-2023-AVI-0997 : Vulnérabilité dans SolarWinds Serv-U (06 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
