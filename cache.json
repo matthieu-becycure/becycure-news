@@ -1764,22 +1764,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglq-SaBHSl6BNVPx9JASJBIWMqp9dmo6PCyzCuGvpMd4Z9ZnpRC_cmK7Nfj8M0JDrJnlKiyQfHz7iHibxWweYuLQZjl1GO9TYT4yhQ9MPeyZCzkLfzSgYi0E030CCQUOMJrFO8vEvcZsI1UG0f9pwQmASrKUR5KXEaUbQaA-We4rY07guHXct-pSYPNcc/s1600/facebook.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglq-SaBHSl6BNVPx9JASJBIWMqp9dmo6PCyzCuGvpMd4Z9ZnpRC_cmK7Nfj8M0JDrJnlKiyQfHz7iHibxWweYuLQZjl1GO9TYT4yhQ9MPeyZCzkLfzSgYi0E030CCQUOMJrFO8vEvcZsI1UG0f9pwQmASrKUR5KXEaUbQaA-We4rY07guHXct-pSYPNcc/s1600/facebook.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors can take advantage of Amazon Web Services Security Token Service (AWS STS) as a way to infiltrate cloud accounts and conduct follow-on attacks.\nThe service enables threat actors to impersonate user identities and roles in cloud environments, Red Canary researchers Thomas Gardner and Cody Betsworth said in a Tuesday analysis.\nAWS STS is a web service that enables",
-          "link": "https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html",
-          "publishedOn": "2023-12-06T13:38:00.000Z",
-          "wordCount": null,
-          "title": "Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoF88S-I3eBqImArhTD6hkF9v_REuOZ5Zg-LZhYjhXmEtmhBtrRPsNFUyP7Juf3X719D8qp5MkgCNi3L47TL0MkULO2dUqBCeHLhG5Ad2hp5Wm82ZdkEGnk3b5aABBkRUj_3Xn8TpJJM4lphyphenhyphenl64oTXhg4Rupkn-6kAae6f_-FaTMC3h_L1W78pR9dftg5/s1600/aws.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoF88S-I3eBqImArhTD6hkF9v_REuOZ5Zg-LZhYjhXmEtmhBtrRPsNFUyP7Juf3X719D8qp5MkgCNi3L47TL0MkULO2dUqBCeHLhG5Ad2hp5Wm82ZdkEGnk3b5aABBkRUj_3Xn8TpJJM4lphyphenhyphenl64oTXhg4Rupkn-6kAae6f_-FaTMC3h_L1W78pR9dftg5/s1600/aws.jpg"
         }
       ]
     },
@@ -2536,26 +2520,6 @@
           "publishedOn": "2023-12-06T13:57:51.000Z",
           "wordCount": 975,
           "title": "CERTFR-2023-AVI-1001 : Vulnérabilité dans Atlassian Confluence (06 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Progress MOVEit <span class=\"uiOutputText\" data-aura-rendered-by=\"9:485;a\" …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1000/",
-          "publishedOn": "2023-12-06T13:43:40.000Z",
-          "wordCount": 971,
-          "title": "CERTFR-2023-AVI-1000 : Multiples vulnérabilités dans Progress MOVEit Transfer (06 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans ElasticSearch pour Hadoop. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-0999/",
-          "publishedOn": "2023-12-06T13:34:27.000Z",
-          "wordCount": 937,
-          "title": "CERTFR-2023-AVI-0999 : Vulnérabilité dans ElasticSearch pour Hadoop (06 décembre 2023)",
           "imageUrl": null
         }
       ]
