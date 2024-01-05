@@ -2605,16 +2605,6 @@
           "wordCount": 921,
           "title": "CERTFR-2023-AVI-1003 : Vulnérabilité dans WordPress (07 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1002/",
-          "publishedOn": "2023-12-07T09:41:35.000Z",
-          "wordCount": 925,
-          "title": "CERTFR-2023-AVI-1002 : Vulnérabilité dans MISP (07 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
