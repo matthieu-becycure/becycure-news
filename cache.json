@@ -2543,16 +2543,6 @@
           "wordCount": 1061,
           "title": "CERTFR-2023-AVI-1006 : Multiples vulnérabilités dans Microsoft Edge (08 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1005/",
-          "publishedOn": "2023-12-07T11:37:14.000Z",
-          "wordCount": 940,
-          "title": "CERTFR-2023-AVI-1005 : Vulnérabilité dans Apache Struts 2 (07 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
