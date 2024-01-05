@@ -1828,22 +1828,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazwMwv8oPjdxTtVoTWmr5h_XYo1pwAf2PDCK_agR_uKAa82axA4E4kVx6dw2Dxx5vTY-c893yarWWc6B-ZJy2ZrTbJS9Zt7BfBxAhgrAhPVWVEuEnTIkKv6BGvtp8Yy6_2Vyrh9dnRaFXgUINMGXM2Lb8dhFY_G1jt6lfzvIP9BD8aesgqk7Y3Uk60QM/s1600/save.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiazwMwv8oPjdxTtVoTWmr5h_XYo1pwAf2PDCK_agR_uKAa82axA4E4kVx6dw2Dxx5vTY-c893yarWWc6B-ZJy2ZrTbJS9Zt7BfBxAhgrAhPVWVEuEnTIkKv6BGvtp8Yy6_2Vyrh9dnRaFXgUINMGXM2Lb8dhFY_G1jt6lfzvIP9BD8aesgqk7Y3Uk60QM/s1600/save.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously unknown Linux remote access trojan called Krasue has been observed targeting telecom companies in Thailand by threat actors to main covert access to victim networks at lease since 2021.\nNamed after a nocturnal female spirit of Southeast Asian folklore, the malware is \"able to conceal its own presence during the initialization phase,\" Group-IB said in a report",
-          "link": "https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html",
-          "publishedOn": "2023-12-07T06:15:00.000Z",
-          "wordCount": null,
-          "title": "New Stealthy 'Krasue' Linux Trojan Targeting Telecom Firms in Thailand",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGZIGU9uZEuD_IdZO2fLsX78c_3sfpYBnRm-dDrjQqUN6rFgDCjdeN_9SxyvPNgr91mYyaMnZtojICyB3sh-HrmvSdOMHI82t3FixnSfvtigHEDXDfZuDzKQEv-eq-PGvSpNyNbaKWyXBZj4k0H0vKc0d4QSR2oWZlTsNYHB7DMJzdvJGkIe-sQLxTHw/s1600/linux-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuGZIGU9uZEuD_IdZO2fLsX78c_3sfpYBnRm-dDrjQqUN6rFgDCjdeN_9SxyvPNgr91mYyaMnZtojICyB3sh-HrmvSdOMHI82t3FixnSfvtigHEDXDfZuDzKQEv-eq-PGvSpNyNbaKWyXBZj4k0H0vKc0d4QSR2oWZlTsNYHB7DMJzdvJGkIe-sQLxTHw/s1600/linux-malware.jpg"
         }
       ]
     },
