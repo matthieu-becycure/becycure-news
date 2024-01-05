@@ -2585,26 +2585,6 @@
           "wordCount": 940,
           "title": "CERTFR-2023-AVI-1005 : Vulnérabilité dans Apache Struts 2 (07 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1004/",
-          "publishedOn": "2023-12-07T09:51:37.000Z",
-          "wordCount": 949,
-          "title": "CERTFR-2023-AVI-1004 : Multiples vulnérabilités dans Nagios XI (07 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1003/",
-          "publishedOn": "2023-12-07T09:46:40.000Z",
-          "wordCount": 921,
-          "title": "CERTFR-2023-AVI-1003 : Vulnérabilité dans WordPress (07 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
