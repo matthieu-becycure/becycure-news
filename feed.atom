@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-05T22:43:37.669Z</updated>
+    <updated>2024-01-05T23:10:20.384Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2017,17 +2017,6 @@ Tracked as CVE-2023-45866, the issue relates to a case of authentication bypass
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Apache Struts 2. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Robust Threat Intelligence with Wazuh]]></title>
-        <id>https://thehackernews.com/2023/12/building-robust-threat-intelligence.html</id>
-        <link href="https://thehackernews.com/2023/12/building-robust-threat-intelligence.html"/>
-        <updated>2023-12-07T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat intelligence refers to gathering, processing, and analyzing cyber threats, along with proactive defensive measures aimed at strengthening security. It enables organizations to gain a comprehensive insight into historical, present, and anticipated threats, providing context about the constantly evolving threat landscape.
-Importance of threat intelligence in the cybersecurity ecosystem]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
