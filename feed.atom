@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-06T21:08:44.222Z</updated>
+    <updated>2024-01-06T21:24:11.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1973,17 +1973,6 @@ Of the 14 flaws – collectively called 5Ghoul (a combination of "5G" and "Gho
         <updated>2023-12-08T09:52:00.000Z</updated>
         <summary type="html"><![CDATA[Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new Trojan-Proxy malware.
 "Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability]]></title>
-        <id>https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html</id>
-        <link href="https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html"/>
-        <updated>2023-12-08T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[WordPress has released version 6.4.2 with a patch for a critical security flaw that could be exploited by threat actors by combining it with another bug to execute arbitrary PHP code on vulnerable sites.
-"A remote code execution vulnerability that is not directly exploitable in core; however, the security team feels that there is a potential for high severity when combined with some plugins,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
