@@ -1764,38 +1764,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwgc0uVLH-nZmauBTpf0mp-8ye7-y3xD-DxZAEU7ODeVGBi54vcOHeCLX2AvFbXvaw3m07IzB1CpsCLAlH-F_d0fSsGLpxEdc3TE5rSCWki0YQUIKZCrUr1uOkfBxb-vXTz_lwMaNbtaSOKVKPMR3_wJtonJAkNE6hLFKJyVyEH4LxWBGxzCqm4ydMp0/s1600/hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwgc0uVLH-nZmauBTpf0mp-8ye7-y3xD-DxZAEU7ODeVGBi54vcOHeCLX2AvFbXvaw3m07IzB1CpsCLAlH-F_d0fSsGLpxEdc3TE5rSCWki0YQUIKZCrUr1uOkfBxb-vXTz_lwMaNbtaSOKVKPMR3_wJtonJAkNE6hLFKJyVyEH4LxWBGxzCqm4ydMp0/s1600/hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical Bluetooth security flaw could be exploited by threat actors to take control of Android, Linux, macOS and iOS devices.\nTracked as CVE-2023-45866, the issue relates to a case of authentication bypass that enables attackers to connect to susceptible devices and inject keystrokes to achieve code execution as the victim.\n\"Multiple Bluetooth stacks have authentication bypass",
-          "link": "https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html",
-          "publishedOn": "2023-12-07T11:46:00.000Z",
-          "wordCount": null,
-          "title": "New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjWW1SgYCKzYoZfe6lvd0wQP_8g6yo9LTL_guyhNn2Fo7QZzk2AcJBw-tts5MrGCZQGKr6vwf85keaB_xoDapWmEtQBpILPUuVzVG-3LNyhX090t1yjDeYQxGNrk2TRhN_XY9FwO1_XS15v6acbo5jL4QMoFCvqgWhU6I_pmU9EVBjKCPZtZnQNLAEv10/s1600/bluetooth.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjWW1SgYCKzYoZfe6lvd0wQP_8g6yo9LTL_guyhNn2Fo7QZzk2AcJBw-tts5MrGCZQGKr6vwf85keaB_xoDapWmEtQBpILPUuVzVG-3LNyhX090t1yjDeYQxGNrk2TRhN_XY9FwO1_XS15v6acbo5jL4QMoFCvqgWhU6I_pmU9EVBjKCPZtZnQNLAEv10/s1600/bluetooth.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Humans are complex beings with consciousness, emotions, and the capacity to act based on thoughts. In the ever-evolving realm of cybersecurity, humans consistently remain primary targets for attackers. Over the years, these attackers have developed their expertise in exploiting various human qualities, sharpening their skills to manipulate biases and emotional triggers with the objective of",
-          "link": "https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html",
-          "publishedOn": "2023-12-07T11:44:00.000Z",
-          "wordCount": null,
-          "title": "Hacking the Human Mind: Exploiting Vulnerabilities in the 'First Line of Cyber Defense'",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURHWiMDFhyphenhyphenkdh94Y2q2l6Qab8DdpodN6XtbsDdGZVkiw4XThlpPsSkFHLMfEEX1gId-IlRfDt5cb9E9w0qM5WsVsNxJGlaAPLtjP1G4Beu6xmoGuOXq3sfgQ1gOU5l2YqaGlpqUH5SwfQDkS9DaxqRHuEe4RfqsB0unFtWZOhKm9SrJMvyGYkUNllYcY/s1600/mind.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURHWiMDFhyphenhyphenkdh94Y2q2l6Qab8DdpodN6XtbsDdGZVkiw4XThlpPsSkFHLMfEEX1gId-IlRfDt5cb9E9w0qM5WsVsNxJGlaAPLtjP1G4Beu6xmoGuOXq3sfgQ1gOU5l2YqaGlpqUH5SwfQDkS9DaxqRHuEe4RfqsB0unFtWZOhKm9SrJMvyGYkUNllYcY/s1600/mind.jpg"
         }
       ]
     },

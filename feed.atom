@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-05T23:43:35.288Z</updated>
+    <updated>2024-01-06T00:48:14.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1983,28 +1983,6 @@ Anatoly Legkodymov (aka Anatolii Legkodymov, Gandalf, and Tolik), according to t
         <updated>2023-12-07T14:36:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actor known as COLDRIVER has continued to engage in credential theft activities against entities that are of strategic interests to Russia while simultaneously improving its detection evasion capabilities.
 The Microsoft Threat Intelligence team is tracking under the cluster as Star Blizzard (formerly SEABORGIUM). It's also called Blue Callisto, BlueCharlie (or TAG-53),]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices]]></title>
-        <id>https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html</id>
-        <link href="https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html"/>
-        <updated>2023-12-07T11:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical Bluetooth security flaw could be exploited by threat actors to take control of Android, Linux, macOS and iOS devices.
-Tracked as CVE-2023-45866, the issue relates to a case of authentication bypass that enables attackers to connect to susceptible devices and inject keystrokes to achieve code execution as the victim.
-"Multiple Bluetooth stacks have authentication bypass]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking the Human Mind: Exploiting Vulnerabilities in the 'First Line of Cyber Defense']]></title>
-        <id>https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html</id>
-        <link href="https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html"/>
-        <updated>2023-12-07T11:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Humans are complex beings with consciousness, emotions, and the capacity to act based on thoughts. In the ever-evolving realm of cybersecurity, humans consistently remain primary targets for attackers. Over the years, these attackers have developed their expertise in exploiting various human qualities, sharpening their skills to manipulate biases and emotional triggers with the objective of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
