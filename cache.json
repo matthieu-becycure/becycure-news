@@ -1732,22 +1732,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_3jU7tWbC0QEnxymncCPRlOCNJmWB3t0TE-EtZn3HUEDDAyIM7dkG5P8AbYRxdn0p1TiLgea4qnYusGhgtqYYIRuWrKdNbWcUph-St2g4KqKhXelB155jkSrkhe_UhLimtxQManOBiObduhBhy_J-xkjS6vpv6kvNAW5Xwa9Aky46Jr8CQx6BJQr5ZU/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR_3jU7tWbC0QEnxymncCPRlOCNJmWB3t0TE-EtZn3HUEDDAyIM7dkG5P8AbYRxdn0p1TiLgea4qnYusGhgtqYYIRuWrKdNbWcUph-St2g4KqKhXelB155jkSrkhe_UhLimtxQManOBiObduhBhy_J-xkjS6vpv6kvNAW5Xwa9Aky46Jr8CQx6BJQr5ZU/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new Trojan-Proxy malware.\n\"Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit",
-          "link": "https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html",
-          "publishedOn": "2023-12-08T09:52:00.000Z",
-          "wordCount": null,
-          "title": "Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjadPt_So-Gi3FTtQ1Gn4CiA1xmADZYhioIaXniCQrEIsUvYugGTJzjgXkEcHMTUI3bYLKibGKCDa3c6ZdXl4Td2LQZOigJvStDUcXvXeRNl4G2mTP6vK6nlCisjIp0CP3UBXdhfT1pgI38lgJFwCP4RcGrF1A8WRPUyc6fPeE8-BgzQU1XsUoWYGFVH_Hr/s1600/malware-code.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjadPt_So-Gi3FTtQ1Gn4CiA1xmADZYhioIaXniCQrEIsUvYugGTJzjgXkEcHMTUI3bYLKibGKCDa3c6ZdXl4Td2LQZOigJvStDUcXvXeRNl4G2mTP6vK6nlCisjIp0CP3UBXdhfT1pgI38lgJFwCP4RcGrF1A8WRPUyc6fPeE8-BgzQU1XsUoWYGFVH_Hr/s1600/malware-code.jpg"
         }
       ]
     },
@@ -2484,16 +2468,6 @@
           "publishedOn": "2023-12-08T12:19:42.000Z",
           "wordCount": 1237,
           "title": "CERTFR-2023-AVI-1007 : Multiples vulnérabilités dans les produits IBM (08 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges et une atteinte à la confidentialité des données .",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/",
-          "publishedOn": "2023-12-08T10:05:09.000Z",
-          "wordCount": 1061,
-          "title": "CERTFR-2023-AVI-1006 : Multiples vulnérabilités dans Microsoft Edge (08 décembre 2023)",
           "imageUrl": null
         }
       ]

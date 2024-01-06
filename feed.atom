@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-06T21:43:46.290Z</updated>
+    <updated>2024-01-06T22:08:55.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1952,27 +1952,6 @@ Of the 14 flaws – collectively called 5Ghoul (a combination of "5G" and "Gho
         <link href="https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html"/>
         <updated>2023-12-08T11:08:00.000Z</updated>
         <summary type="html"><![CDATA[Ransomware attacks have become a significant and pervasive threat in the ever-evolving realm of cybersecurity. Among the various iterations of ransomware, one trend that has gained prominence is Ransomware-as-a-Service (RaaS). This alarming development has transformed the cybercrime landscape, enabling individuals with limited technical expertise to carry out devastating attacks.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-1006 : Multiples vulnérabilités dans Microsoft Edge (08 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1006/"/>
-        <updated>2023-12-08T10:05:09.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges et une atteinte à la confidentialité des données .]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software]]></title>
-        <id>https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html</id>
-        <link href="https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html"/>
-        <updated>2023-12-08T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new Trojan-Proxy malware.
-"Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
