@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-07T00:53:56.758Z</updated>
+    <updated>2024-01-07T01:58:10.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1901,17 +1901,6 @@ The attack is an end-to-end exploit for Spectre based on a new feature in Intel 
         <updated>2023-12-08T17:22:00.000Z</updated>
         <summary type="html"><![CDATA[A collection of security flaws in the firmware implementation of 5G mobile network modems from major chipset vendors such as MediaTek and Qualcomm impact USB and IoT modems as well as hundreds of smartphone models running Android and iOS.
 Of the 14 flaws – collectively called 5Ghoul (a combination of "5G" and "Ghoul") – 10 affect 5G modems from the two companies, out of which three]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html</id>
-        <link href="https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html"/>
-        <updated>2023-12-08T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korean threat actor known as Kimsuky has been observed targeting research institutes in South Korea as part of a spear-phishing campaign with the ultimate goal of distributing backdoors on compromised systems.
-"The threat actor ultimately uses a backdoor to steal information and execute commands," the AhnLab Security Emergency Response Center (ASEC) said in an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
