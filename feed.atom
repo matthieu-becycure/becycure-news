@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-08T09:11:04.761Z</updated>
+    <updated>2024-01-08T09:25:46.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface]]></title>
+        <id>https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html</id>
+        <link href="https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html"/>
+        <updated>2024-01-08T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Digital expansion inevitably increases the external attack surface, making you susceptible to cyberthreats. Threat actors increasingly exploit the vulnerabilities stemming from software and infrastructure exposed to the internet; this ironically includes security tools, particularly firewalls and VPNs, which give attackers direct network access to execute their attacks. In fact, Gartner&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIST Warns of Security and Privacy Risks from Rapid AI System Deployment]]></title>
+        <id>https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html</id>
+        <link href="https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html"/>
+        <updated>2024-01-08T07:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. National Institute of Standards and Technology (NIST) is calling attention to the privacy and security challenges that arise as a result of increased deployment of artificial intelligence (AI) systems in recent years.
+“These security and privacy challenges include the potential for adversarial manipulation of training data, adversarial exploitation of model vulnerabilities to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud]]></title>
         <id>https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html</id>
