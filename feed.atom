@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-08T14:10:05.774Z</updated>
+    <updated>2024-01-08T14:29:27.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals]]></title>
+        <id>https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html</id>
+        <link href="https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html"/>
+        <updated>2024-01-08T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called Silver RAT that’s equipped to bypass security software and stealthily launch hidden applications.
+“The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence,” cybersecurity firm Cyfirma said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy]]></title>
         <id>https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html</id>

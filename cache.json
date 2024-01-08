@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called Silver RAT that’s equipped to bypass security software and stealthily launch hidden applications.\n“The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence,” cybersecurity firm Cyfirma said in a report",
+          "link": "https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html",
+          "publishedOn": "2024-01-08T14:04:00.000Z",
+          "wordCount": null,
+          "title": "Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2S47-DyvJs7a6ATP-z8IqLxcciv5M07bt6lIle2FCvjWBzp-suZWCepIUd-HGPw1yOKqCeDK8obGkzOZ_8SZHO5pJ-oVSmuAbzStTTMu1qvThafymmsGrtCVNQ1h7gWv6vRnl4jdJGvivkvGZcZctbp7onmqQAoXksAfP1w3TJimQNW7yyd-QvteMs1Am/s1600/sy.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2S47-DyvJs7a6ATP-z8IqLxcciv5M07bt6lIle2FCvjWBzp-suZWCepIUd-HGPw1yOKqCeDK8obGkzOZ_8SZHO5pJ-oVSmuAbzStTTMu1qvThafymmsGrtCVNQ1h7gWv6vRnl4jdJGvivkvGZcZctbp7onmqQAoXksAfP1w3TJimQNW7yyd-QvteMs1Am/s1600/sy.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity is an infinite journey in a digital landscape that never ceases to change. According to Ponemon Institute1, “only 59% of organizations say their cybersecurity strategy has changed over the past two years.” This stagnation in strategy adaptation can be traced back to several key issues.\n\nTalent Retention Challenges: The cybersecurity field is rapidly advancing, requiring a",
