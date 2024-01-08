@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-08T04:43:44.089Z</updated>
+    <updated>2024-01-08T05:10:26.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023]]></title>
+        <id>https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html</id>
+        <link href="https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html"/>
+        <updated>2024-01-08T04:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors affiliated with the Democratic People's Republic of Korea (also known as North Korea) have plundered at least $600 million in cryptocurrency in 2023.
+The DPRK "was responsible for almost a third of all funds stolen in crypto attacks last year, despite a 30% reduction from the USD 850 million haul in 2022," blockchain analytics firm TRM Labs said last week.
+"Hacks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies]]></title>
         <id>https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html</id>
