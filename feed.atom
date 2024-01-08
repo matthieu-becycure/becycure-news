@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-07T23:43:32.154Z</updated>
+    <updated>2024-01-08T00:50:56.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1868,17 +1868,6 @@ Our upcoming webinar, "Think Like a Hacker, Defend Like a Pro," highlights thi
         <updated>2023-12-11T05:58:00.000Z</updated>
         <summary type="html"><![CDATA[A new collection of eight process injection techniques, collectively dubbed PoolParty, could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems.
 SafeBreach researcher Alon Leviev said the methods are "capable of working across all processes without any limitations, making them more flexible than existing process]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs]]></title>
-        <id>https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html</id>
-        <link href="https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html"/>
-        <updated>2023-12-09T11:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers from the Vrije Universiteit Amsterdam have disclosed a new side-channel attack called SLAM that could be exploited to leak sensitive information from kernel memory on current and upcoming CPUs from Intel, AMD, and Arm.
-The attack is an end-to-end exploit for Spectre based on a new feature in Intel CPUs called Linear Address Masking (LAM) as well as its analogous]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
