@@ -2523,16 +2523,6 @@
           "wordCount": 971,
           "title": "CERTFR-2023-AVI-1012 : Multiples vulnérabilités dans LibreOffice (11 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1011/",
-          "publishedOn": "2023-12-11T10:31:49.000Z",
-          "wordCount": 1112,
-          "title": "CERTFR-2023-AVI-1011 : Multiples vulnérabilités dans les produits Qnap (11 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
