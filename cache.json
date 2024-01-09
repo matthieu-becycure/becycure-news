@@ -1812,22 +1812,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUIwksflGfrXkiTYBpIg7qYIQ6MnwD8-_sLbrZ2Wv2VIf_LnyAxXsrqjz24LYwHy_YP5GaEtyrkG3sXtoMt82GridP9PzB4kpUjQFYwiu5evFzcOT8a1vwxSH8xt_9XTQKO8727-jzgUI3T1mGMVhoifF_rxkP0b8nMQdYRdLNvs68kY-P_If-jirE4g_/s1600/spy.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUIwksflGfrXkiTYBpIg7qYIQ6MnwD8-_sLbrZ2Wv2VIf_LnyAxXsrqjz24LYwHy_YP5GaEtyrkG3sXtoMt82GridP9PzB4kpUjQFYwiu5evFzcOT8a1vwxSH8xt_9XTQKO8727-jzgUI3T1mGMVhoifF_rxkP0b8nMQdYRdLNvs68kY-P_If-jirE4g_/s1600/spy.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/new-poolparty-process-injection.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new collection of eight process injection techniques, collectively dubbed PoolParty, could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems.\nSafeBreach researcher Alon Leviev said the methods are \"capable of working across all processes without any limitations, making them more flexible than existing process",
-          "link": "https://thehackernews.com/2023/12/new-poolparty-process-injection.html",
-          "publishedOn": "2023-12-11T05:58:00.000Z",
-          "wordCount": null,
-          "title": "New PoolParty Process Injection Techniques Outsmart Top EDR Solutions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEj82_IWLIHOAqzd9vWcYi5VDEB4qeGysmN4s1c8D7PDL_1KTirOCqie3yHr91-qUhD3qu0p-jB1UHvo5Xz2VbBVEtc1lmKgir6c22fPFNax-rfYC1ab5j9iczx_CGZx6JAxb9OxMqeraqW8zlH-ceyC0nD3gaK-LnQGU5mL-AP_kR2y1Z8uDqZ1R_JXTQ/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEj82_IWLIHOAqzd9vWcYi5VDEB4qeGysmN4s1c8D7PDL_1KTirOCqie3yHr91-qUhD3qu0p-jB1UHvo5Xz2VbBVEtc1lmKgir6c22fPFNax-rfYC1ab5j9iczx_CGZx6JAxb9OxMqeraqW8zlH-ceyC0nD3gaK-LnQGU5mL-AP_kR2y1Z8uDqZ1R_JXTQ/s1600/cyberattack.jpg"
         }
       ]
     },

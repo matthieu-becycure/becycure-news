@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-09T17:43:48.008Z</updated>
+    <updated>2024-01-09T18:11:00.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2029,17 +2029,6 @@ Our upcoming webinar, "Think Like a Hacker, Defend Like a Pro," highlights thi
         <updated>2023-12-11T07:09:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered 18 malicious loan apps for Android on the Google Play Store that have been collectively downloaded over 12 million times.
 "Despite their attractive appearance, these services are in fact designed to defraud users by offering them high-interest-rate loans endorsed with deceitful descriptions, all while collecting their victims' personal and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New PoolParty Process Injection Techniques Outsmart Top EDR Solutions]]></title>
-        <id>https://thehackernews.com/2023/12/new-poolparty-process-injection.html</id>
-        <link href="https://thehackernews.com/2023/12/new-poolparty-process-injection.html"/>
-        <updated>2023-12-11T05:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A new collection of eight process injection techniques, collectively dubbed PoolParty, could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems.
-SafeBreach researcher Alon Leviev said the methods are "capable of working across all processes without any limitations, making them more flexible than existing process]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
