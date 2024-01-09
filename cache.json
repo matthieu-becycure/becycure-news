@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat actor called Water Curupira has been observed actively distributing the PikaBot loader malware as part of spam campaigns in 2023.\n“PikaBot’s operators ran phishing campaigns, targeting victims via its two components — a loader and a core module — which enabled unauthorized remote access and allowed the execution of arbitrary commands through an established connection with",
+          "link": "https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html",
+          "publishedOn": "2024-01-09T16:01:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeg7mZG0sx7sSW7zzyVlfIavSINuEDJwrQuJS9HEM637m-LnE7on8FdvG6dSZhPnZjmEJFeXVbNX3IRBQB2H-_155vupfnpK_cGANO218mzoZYm-KUkMPQ_9YpaP3Tf7a89Wj7cbp7ELdc6b2Rm401Vk4aTxUuK_gFacwPGKIDr-evq3k6ZF9FaxrzXaxB/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeg7mZG0sx7sSW7zzyVlfIavSINuEDJwrQuJS9HEM637m-LnE7on8FdvG6dSZhPnZjmEJFeXVbNX3IRBQB2H-_155vupfnpK_cGANO218mzoZYm-KUkMPQ_9YpaP3Tf7a89Wj7cbp7ELdc6b2Rm401Vk4aTxUuK_gFacwPGKIDr-evq3k6ZF9FaxrzXaxB/s1600/hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Poorly secured Microsoft SQL (MS SQL) servers are being targeted in the U.S., European Union, and Latin American (LATAM) regions as part of an ongoing financially motivated campaign to gain initial access.\n“The analyzed threat campaign appears to end in one of two ways, either the selling of ‘access’ to the compromised host, or the ultimate delivery of ransomware payloads,” Securonix researchers",
