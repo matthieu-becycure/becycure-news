@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-09T09:10:48.505Z</updated>
+    <updated>2024-01-09T09:25:18.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer]]></title>
+        <id>https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html</id>
+        <link href="https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html"/>
+        <updated>2024-01-09T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are resorting to YouTube videos featuring content related to cracked software in order to entice users into downloading an information stealer malware called Lumma.
+“These YouTube videos typically feature content related to cracked applications, presenting users with similar installation guides and incorporating malicious URLs often shortened using services like TinyURL and Cuttly,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals]]></title>
         <id>https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html</id>
