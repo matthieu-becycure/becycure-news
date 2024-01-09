@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A security flaw has been disclosed in Kyocera’s Device Manager product that could be exploited by bad actors to carry out malicious activities on affected systems.\n\"This vulnerability allows attackers to coerce authentication attempts to their own resources, such as a malicious SMB share, to capture or relay Active Directory hashed credentials if the ‘Restrict NTLM: Outgoing NTLM",
+          "link": "https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html",
+          "publishedOn": "2024-01-09T09:52:00.000Z",
+          "wordCount": null,
+          "title": "Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuJY9zi21mTtUkE2efVTP74qNm-p8Bsk29FfB-EaV3xpFDxaNn97wPjUNf1VsOUMaL2FtV-hGpI2j48-7wVt_7KU-TC2ly6KucEu4CV8T71CPlMKHRVnJG1QM6POA51Ygm-lZ0QlLDoQfrHtmdcCm5W8dgJMz9fkGb0iF1_hn7c5sBcj0-sbOobo4AZZJ/s1600/qnap.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAuJY9zi21mTtUkE2efVTP74qNm-p8Bsk29FfB-EaV3xpFDxaNn97wPjUNf1VsOUMaL2FtV-hGpI2j48-7wVt_7KU-TC2ly6KucEu4CV8T71CPlMKHRVnJG1QM6POA51Ygm-lZ0QlLDoQfrHtmdcCm5W8dgJMz9fkGb0iF1_hn7c5sBcj0-sbOobo4AZZJ/s1600/qnap.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are resorting to YouTube videos featuring content related to cracked software in order to entice users into downloading an information stealer malware called Lumma.\n“These YouTube videos typically feature content related to cracked applications, presenting users with similar installation guides and incorporating malicious URLs often shortened using services like TinyURL and Cuttly,",

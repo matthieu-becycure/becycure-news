@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-09T10:43:44.407Z</updated>
+    <updated>2024-01-09T11:08:58.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager]]></title>
+        <id>https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html</id>
+        <link href="https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"/>
+        <updated>2024-01-09T09:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A security flaw has been disclosed in Kyocera’s Device Manager product that could be exploited by bad actors to carry out malicious activities on affected systems.
+"This vulnerability allows attackers to coerce authentication attempts to their own resources, such as a malicious SMB share, to capture or relay Active Directory hashed credentials if the ‘Restrict NTLM: Outgoing NTLM]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer]]></title>
         <id>https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html</id>
