@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-09T11:43:32.381Z</updated>
+    <updated>2024-01-09T12:19:23.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Public Links Expose Your SaaS Attack Surface]]></title>
+        <id>https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html</id>
+        <link href="https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html"/>
+        <updated>2024-01-09T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Collaboration is a powerful selling point for SaaS applications. Microsoft, Github, Miro, and others promote the collaborative nature of their software applications that allows users to do more.
+Links to files, repositories, and boards can be shared with anyone, anywhere. This encourages teamwork that helps create stronger campaigns and projects by encouraging collaboration among employees]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager]]></title>
         <id>https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html</id>
