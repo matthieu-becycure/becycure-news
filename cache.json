@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Federal Trade Commission (FTC) on Tuesday prohibited data broker Outlogic, which was previously known as X-Mode Social, from sharing or selling any sensitive location data with third-parties.\nThe ban is part of a settlement over allegations that the company \"sold precise location data that could be used to track people's visits to sensitive locations such as medical and",
+          "link": "https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html",
+          "publishedOn": "2024-01-10T08:47:00.000Z",
+          "wordCount": null,
+          "title": "FTC Bans Outlogic (X-Mode) From Selling Sensitive Location Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVijoaXxJ8xivAsYUN3NIznGFX_tz27-7gu0hWJZ7HLhfjEpxPUL5TA8CdVNdk0xerCYXjsUk1YmFruv69N9014_wiEC8jefbM72mgG6GfyTNmJBXml28Z0Q6gSKTccKHwvhdOJyv5bQPWZeiW4VN8gvahGqkcV3GCTHRtfO1DPqzG5mw8F9sePWAc6zdA/s1600/location.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVijoaXxJ8xivAsYUN3NIznGFX_tz27-7gu0hWJZ7HLhfjEpxPUL5TA8CdVNdk0xerCYXjsUk1YmFruv69N9014_wiEC8jefbM72mgG6GfyTNmJBXml28Z0Q6gSKTccKHwvhdOJyv5bQPWZeiW4VN8gvahGqkcV3GCTHRtfO1DPqzG5mw8F9sePWAc6zdA/s1600/location.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has addressed a total of 48 security flaws spanning its software as part of its Patch Tuesday updates for January 2024.\nOf the 48 bugs, two are rated Critical and 46 are rated Important in severity. There is no evidence that any of the issues are publicly known or under active attack at the time of release, making it the second consecutive Patch Tuesday with no zero-days.\nThe",
