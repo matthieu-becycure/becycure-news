@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-10T23:24:49.409Z</updated>
+    <updated>2024-01-10T23:43:40.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2040,18 +2040,6 @@ IBM X-Force is tracking the adversary under the name ITG05, which is also known 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Non-Human Access is the Path of Least Resistance: A 2023 Recap]]></title>
-        <id>https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html</id>
-        <link href="https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html"/>
-        <updated>2023-12-12T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 has seen its fair share of cyber attacks, however there’s one attack vector that proves to be more prominent than others - non-human access. With 11 high-profile attacks in 13 months and an ever-growing ungoverned attack surface, non-human identities are the new perimeter, and 2023 is only the beginning. 
-Why non-human access is a cybercriminal’s paradise 
-People always]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
