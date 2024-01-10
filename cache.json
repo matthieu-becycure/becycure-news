@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A decryptor for the Tortilla variant of the Babuk ransomware has been released by Cisco Talos, allowing victims targeted by the malware to regain access to their files.\nThe cybersecurity firm said the threat intelligence it shared with Dutch law enforcement authorities made it possible to arrest the threat actor behind the operations.\nThe encryption key has also been shared with Avast,",
+          "link": "https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html",
+          "publishedOn": "2024-01-10T10:31:00.000Z",
+          "wordCount": null,
+          "title": "Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdr8azViPFA6iel_CyerD7s5EgwwCozG0IyAI1J_Yn0vI1pxtroyL3Y0LJgJFktOI5pIgFr67mzMsGfHsLLRCO6304dSFVBHoDjJmWywMTBgZWs8_oMVMIgBWURxq8oqaBN52s3LKJXyn9xTczMOBwHLtFekGfAk2XsLrrxcVNdsdNK66-Zhr6K48SIHw/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghdr8azViPFA6iel_CyerD7s5EgwwCozG0IyAI1J_Yn0vI1pxtroyL3Y0LJgJFktOI5pIgFr67mzMsGfHsLLRCO6304dSFVBHoDjJmWywMTBgZWs8_oMVMIgBWURxq8oqaBN52s3LKJXyn9xTczMOBwHLtFekGfAk2XsLrrxcVNdsdNK66-Zhr6K48SIHw/s1600/ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Federal Trade Commission (FTC) on Tuesday prohibited data broker Outlogic, which was previously known as X-Mode Social, from sharing or selling any sensitive location data with third-parties.\nThe ban is part of a settlement over allegations that the company \"sold precise location data that could be used to track people's visits to sensitive locations such as medical and",
