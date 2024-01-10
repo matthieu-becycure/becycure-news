@@ -1732,22 +1732,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWtfvyGPk0Wjzm_dUCKjDLHpNP6ms8AXQvnBXyooM80ArlGYC5GRagg1FsNXpgc6EoaF56tI-KiiZcJFJcDKUYa2IWN9nL8Hv1nYjVw-NqYh4rm7jECqq5HLzJ89y6iGe3UYXBFP2ZMrjzjw9triAbtZh78JGcI3huoTPqs8dALP2hK41gh6GJgg2VPme/s1600/apache.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifWtfvyGPk0Wjzm_dUCKjDLHpNP6ms8AXQvnBXyooM80ArlGYC5GRagg1FsNXpgc6EoaF56tI-KiiZcJFJcDKUYa2IWN9nL8Hv1nYjVw-NqYh4rm7jECqq5HLzJ89y6iGe3UYXBFP2ZMrjzjw9triAbtZh78JGcI3huoTPqs8dALP2hK41gh6GJgg2VPme/s1600/apache.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Tactical and targeting overlaps have been discovered between the enigmatic advanced persistent threat (APT) called Sandman and a China-based threat cluster that's known to use a backdoor known as KEYPLUG.\nThe assessment comes jointly from SentinelOne, PwC, and the Microsoft Threat Intelligence team based on the fact that the adversary's Lua-based malware LuaDream and KEYPLUG have been",
-          "link": "https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html",
-          "publishedOn": "2023-12-11T13:59:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Unmask Sandman APT's Hidden Link to China-Based KEYPLUG Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDq4xWDqC2Oqgs7140KBsSThj_PIFm53ag4RTG4rCUJ0awog7hg35NAsoT3VY3MmSd_X33DtPUnD37BFzZmaozu9zwNL2PpDnIiLqmHfJUhpUmyaX-Owx5kn71QK19qYRsQL5aSZoEntLf3MqUDih4iS3czegTlUbROrPU8JoGp_CW1x2FbvFZLh6TOsU/s1600/chinese.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIDq4xWDqC2Oqgs7140KBsSThj_PIFm53ag4RTG4rCUJ0awog7hg35NAsoT3VY3MmSd_X33DtPUnD37BFzZmaozu9zwNL2PpDnIiLqmHfJUhpUmyaX-Owx5kn71QK19qYRsQL5aSZoEntLf3MqUDih4iS3czegTlUbROrPU8JoGp_CW1x2FbvFZLh6TOsU/s1600/chinese.jpg"
         }
       ]
     },
