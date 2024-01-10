@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-10T04:43:31.933Z</updated>
+    <updated>2024-01-10T05:10:24.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack]]></title>
+        <id>https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html</id>
+        <link href="https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html"/>
+        <updated>2024-01-10T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added six security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+This includes CVE-2023-27524 (CVSS score: 8.9), a high-severity vulnerability impacting the Apache Superset open-source data visualization software that could enable remote code execution.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware]]></title>
         <id>https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html</id>
