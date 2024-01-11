@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-11T17:43:33.398Z</updated>
+    <updated>2024-01-11T18:13:12.468Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2116,17 +2116,6 @@ Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's Final 2023 Patch Tuesday: 33 Flaws Fixed, Including 4 Critical]]></title>
-        <id>https://thehackernews.com/2023/12/microsofts-final-2023-patch-tuesday-33.html</id>
-        <link href="https://thehackernews.com/2023/12/microsofts-final-2023-patch-tuesday-33.html"/>
-        <updated>2023-12-13T05:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft released its final set of Patch Tuesday updates for 2023, closing out 33 flaws in its software, making it one of the lightest releases in recent years.
-Of the 33 shortcomings, four are rated Critical and 29 are rated Important in severity. The fixes are in addition to 18 flaws Microsoft addressed in its Chromium-based Edge browser since the release of Patch]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
