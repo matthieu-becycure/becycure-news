@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The ubiquity of GitHub in information technology (IT) environments has made it a lucrative choice for threat actors to host and deliver malicious payloads and act as dead drop resolvers, command-and-control, and data exfiltration points.\n“Using GitHub services for malicious infrastructure allows adversaries to blend in with legitimate network traffic, often bypassing traditional security",
+          "link": "https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html",
+          "publishedOn": "2024-01-11T15:28:00.000Z",
+          "wordCount": null,
+          "title": "Threat Actors Increasingly Abusing GitHub for Malicious Purposes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7H__XyW8sNTKFbx9G5NdjAVhIkSjLI6vtYfdFmFSRuHS8WWszkkWp3wAZUGaGQBxjZ_gNR14U_6s2Ur9K_T16dOI3MuesJ3FiCD62XfUUyUkic4dRZ7h9jwF5Vqoo5Z2ZSgQRkvFn2stjLYNF1hSYKn4Jf52opl9CINiVSi6fdLGuwYrYG-d0ZIbekcd/s1600/github.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7H__XyW8sNTKFbx9G5NdjAVhIkSjLI6vtYfdFmFSRuHS8WWszkkWp3wAZUGaGQBxjZ_gNR14U_6s2Ur9K_T16dOI3MuesJ3FiCD62XfUUyUkic4dRZ7h9jwF5Vqoo5Z2ZSgQRkvFn2stjLYNF1hSYKn4Jf52opl9CINiVSi6fdLGuwYrYG-d0ZIbekcd/s1600/github.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have developed a proof-of-concept (PoC) code that exploits a recently disclosed critical flaw in the Apache OfBiz open-source Enterprise Resource Planning (ERP) system to execute a memory-resident payload.\nThe vulnerability in question is CVE-2023-51467 (CVSS score: 9.8), a bypass for another severe shortcoming in the same software (",
@@ -1852,6 +1868,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+          "author": null,
+          "description": "Le 10 janvier 2024, Ivanti a publié un avis de sécurité concernant ses produits ICS et IPS car ils sont affectés par deux vulnérabilités critiques.\n La vulnérabilité CVE-2023-46805 permet à un attaquant de contourner l'authentification, tandis que la vulnérabilité CVE-2024-21887 permet …",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
+          "publishedOn": "2024-01-11T12:36:13.000Z",
+          "wordCount": 1218,
+          "title": "CERTFR-2024-ALE-001 : Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0027/",
+          "publishedOn": "2024-01-11T10:30:34.000Z",
+          "wordCount": 2189,
+          "title": "CERTFR-2024-AVI-0027 : Multiples vulnérabilités dans les produits Juniper Networks (11 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/",
+          "publishedOn": "2024-01-11T10:03:17.000Z",
+          "wordCount": 944,
+          "title": "CERTFR-2024-AVI-0026 : Vulnérabilité dans Cisco Unity Connection (11 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/",
+          "publishedOn": "2024-01-11T10:00:50.000Z",
+          "wordCount": 929,
+          "title": "CERTFR-2024-AVI-0025 : Vulnérabilité dans SPIP (11 janvier 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0024/",
           "author": null,
