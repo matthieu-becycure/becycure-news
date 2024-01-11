@@ -2651,16 +2651,6 @@
           "wordCount": 1633,
           "title": "CERTFR-2023-AVI-1018 : Multiples vulnérabilités dans les produits Fortinet (13 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1017/",
-          "publishedOn": "2023-12-13T08:40:26.000Z",
-          "wordCount": 1073,
-          "title": "CERTFR-2023-AVI-1017 : Multiples vulnérabilités dans les produits ElasticSearch (13 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
