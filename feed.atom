@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-11T22:09:54.147Z</updated>
+    <updated>2024-01-11T22:29:17.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2085,17 +2085,6 @@ Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator]]></title>
-        <id>https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html</id>
-        <link href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"/>
-        <updated>2023-12-13T10:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine's biggest telecom operator Kyivstar has become the victim of a cyber attack, disrupting customer access to mobile and internet services.
-"The cyberattack on Ukraine's #Kyivstar telecoms operator has impacted all regions of the country with high impact to the capital, metrics show, with knock-on impacts reported to air raid alert network and banking sector as work continues]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
