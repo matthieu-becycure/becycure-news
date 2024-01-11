@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A pair of zero-day flaws identified in Ivanti Connect Secure (ICS) and Policy Secure have been chained by suspected China-linked nation-state actors to breach less than 10 customers.\nCybersecurity firm Volexity, which identified the activity on the network of one of its customers in the second week of December 2023, attributed it to a hacking group it tracks under the name UTA0178",
+          "link": "https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html",
+          "publishedOn": "2024-01-11T05:29:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploit Zero-Day Flaws in Ivanti Connect Secure and Policy Secure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYBBQVmHTCNpf7biKrJSsO67S4j0WL2oIZgmmlMipqIZlpTBPlljOgk3XuF2nBZefxMr0Zlezm3PAoah5hj4XfKo0Q3eO_FN00UdjC1kDEX9mX8m76JvT0IwyFTjI55ieufiHdyXVnXSAL-vgwMJRA5UqAkftkMgstsZjOcYrLPE-BmjNlQVxhQ5UMWR8-/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYBBQVmHTCNpf7biKrJSsO67S4j0WL2oIZgmmlMipqIZlpTBPlljOgk3XuF2nBZefxMr0Zlezm3PAoah5hj4XfKo0Q3eO_FN00UdjC1kDEX9mX8m76JvT0IwyFTjI55ieufiHdyXVnXSAL-vgwMJRA5UqAkftkMgstsZjOcYrLPE-BmjNlQVxhQ5UMWR8-/s1600/ivanti.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/cisco-fixes-high-risk-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released software updates to address a critical security flaw impacting Unity Connection that could permit an adversary to execute arbitrary commands on the underlying system.\nTracked as CVE-2024-20272 (CVSS score: 7.3), the vulnerability is an arbitrary file upload bug residing in the web-based management interface and is the result of a lack of authentication in a specific",
+          "link": "https://thehackernews.com/2024/01/cisco-fixes-high-risk-vulnerability.html",
+          "publishedOn": "2024-01-11T04:55:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Fixes High-Risk Vulnerability Impacting Unity Connection Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAFiwFzPiUyWzlr8ZTsQcocHBjvc2I0NV5_WjyrI3TMiLF14UFmiMAjG2hOh82ZWus4MviyW-1fLDivhJzrprg0gxNlzNs6A5BwTPiPRWGKitnSc2VNSm3WdwnBp2apBfQoOgYqN_84uWfxHWAcP049GmqkPZHxGa0nDngHYkWUAm9U-3mKg19Os6gg_d/s1600/cisco-patch-update.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAFiwFzPiUyWzlr8ZTsQcocHBjvc2I0NV5_WjyrI3TMiLF14UFmiMAjG2hOh82ZWus4MviyW-1fLDivhJzrprg0gxNlzNs6A5BwTPiPRWGKitnSc2VNSm3WdwnBp2apBfQoOgYqN_84uWfxHWAcP049GmqkPZHxGa0nDngHYkWUAm9U-3mKg19Os6gg_d/s1600/cisco-patch-update.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new Mirai-based botnet called NoaBot is being used by threat actors as part of a crypto mining campaign since the beginning of 2023.\n“The capabilities of the new botnet, NoaBot, include a wormable self-spreader and an SSH key backdoor to download and execute additional binaries or spread itself to new victims,” Akamai security researcher Stiv Kupchik said in a report shared with The",
