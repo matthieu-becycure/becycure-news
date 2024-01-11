@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The compromise of Mandiant's X (formerly Twitter) account last week was likely the result of a \"brute-force password attack,\" attributing the hack to a drainer-as-a-service (DaaS) group.\n\"Normally, [two-factor authentication] would have mitigated this, but due to some team transitions and a change in X's 2FA policy, we were not adequately protected,\" the threat intelligence firm said",
+          "link": "https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html",
+          "publishedOn": "2024-01-11T06:10:00.000Z",
+          "wordCount": null,
+          "title": "Mandiant's X Account Was Hacked Using Brute-Force Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg8Erf23oJ3alzglUASlZQuEjvm1qtsCKklLQmJfshu5B19tTtN44LZFQ8jUwv-_nwW_U0HzaIp-caFNZfsm2_WJIhEUD3Uu5fbigFSZJF7sFDmVaAy7Ukb75YGNvGcs1gsSByl-s4VZaJ6PoO7JWshEmmRKVIMnD_SvcjFoHfCo5qzpmCq0HfKBWNiVAx/s1600/hack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg8Erf23oJ3alzglUASlZQuEjvm1qtsCKklLQmJfshu5B19tTtN44LZFQ8jUwv-_nwW_U0HzaIp-caFNZfsm2_WJIhEUD3Uu5fbigFSZJF7sFDmVaAy7Ukb75YGNvGcs1gsSByl-s4VZaJ6PoO7JWshEmmRKVIMnD_SvcjFoHfCo5qzpmCq0HfKBWNiVAx/s1600/hack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/chinese-hackers-exploit-zero-day-flaws.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A pair of zero-day flaws identified in Ivanti Connect Secure (ICS) and Policy Secure have been chained by suspected China-linked nation-state actors to breach less than 10 customers.\nCybersecurity firm Volexity, which identified the activity on the network of one of its customers in the second week of December 2023, attributed it to a hacking group it tracks under the name UTA0178",
