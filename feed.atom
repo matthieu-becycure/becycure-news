@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-11T02:45:05.784Z</updated>
+    <updated>2024-01-11T03:11:15.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2007,17 +2007,6 @@ Of the 33 shortcomings, four are rated Critical and 29 are rated Important in se
         <updated>2023-12-12T18:09:00.000Z</updated>
         <summary type="html"><![CDATA[Let's begin with a thought-provoking question: among a credit card number, a social security number, and an Electronic Health Record (EHR), which commands the highest price on a dark web forum? 
 Surprisingly, it's the EHR, and the difference is stark: according to a study, EHRs can sell for up to $1,000 each, compared to a mere $5 for a credit card number and $1 for a social]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign]]></title>
-        <id>https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html</id>
-        <link href="https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html"/>
-        <updated>2023-12-12T14:52:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian nation-state threat actor known as APT28 has been observed making use of lures related to the ongoing Israel-Hamas war to facilitate the delivery of a custom backdoor called HeadLace.
-IBM X-Force is tracking the adversary under the name ITG05, which is also known as BlueDelta, Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, Sednit, Sofacy, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
