@@ -2641,16 +2641,6 @@
           "wordCount": 1077,
           "title": "CERTFR-2023-AVI-1019 : Vulnérabilité dans les produits Cisco (13 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS), une atteinte à l'intégrité des données et …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1018/",
-          "publishedOn": "2023-12-13T09:05:33.000Z",
-          "wordCount": 1633,
-          "title": "CERTFR-2023-AVI-1018 : Multiples vulnérabilités dans les produits Fortinet (13 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
