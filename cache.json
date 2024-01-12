@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As many as five different malware families were deployed by suspected nation-state actors as part of post-exploitation activities leveraging two zero-day vulnerabilities in Ivanti Connect Secure (ICS) VPN appliances since early December 2023.\n\"These families allow the threat actors to circumvent authentication and provide backdoor access to these devices,\" Mandiant said in an",
+          "link": "https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html",
+          "publishedOn": "2024-01-12T13:53:00.000Z",
+          "wordCount": null,
+          "title": "Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R-1JUCYVdJiwgoz79kHVtDSEK1YvirfHU-x4UqMRf03GCicT_Vp-dtRw5OtdLuQbXFWVknaWJWoR-XC345-yKI9L0ejvbWk5MRQcss7FsrXXyDM3Ps3SFVZ3liJ_If8gQuuIyN6fqeOqsvxoWx-J3ENwebng1sDPlmy3Eoegi2xu0Boj2whtgDJCwUkA/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9R-1JUCYVdJiwgoz79kHVtDSEK1YvirfHU-x4UqMRf03GCicT_Vp-dtRw5OtdLuQbXFWVknaWJWoR-XC345-yKI9L0ejvbWk5MRQcss7FsrXXyDM3Ps3SFVZ3liJ_If8gQuuIyN6fqeOqsvxoWx-J3ENwebng1sDPlmy3Eoegi2xu0Boj2whtgDJCwUkA/s1600/lock.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors associated with the Medusa ransomware have ramped up their activities following the debut of a dedicated data leak site on the dark web in February 2023 to publish sensitive data of victims who are unwilling to agree to their demands.\n“As part of their multi-extortion strategy, this group will provide victims with multiple options when their data is posted on their",
+          "link": "https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html",
+          "publishedOn": "2024-01-12T13:23:00.000Z",
+          "wordCount": null,
+          "title": "Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghP29yd1_w37rL78XRhPMZswe3xO8OIu8wXBFwtBrEQGpjF0d53LPx4PsU-wSY29XPbKZkhMuRCXzV4921aGhV5FUYyhRE1S8nfkX4CQs3LBwIl_iLN_VAncydDW7rE3YkzLjKQYARhXLujxvDAES67S4yKeM-Ca7ye64m-vZnBa8Pq82qr4J35uY9N7MX/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghP29yd1_w37rL78XRhPMZswe3xO8OIu8wXBFwtBrEQGpjF0d53LPx4PsU-wSY29XPbKZkhMuRCXzV4921aGhV5FUYyhRE1S8nfkX4CQs3LBwIl_iLN_VAncydDW7rE3YkzLjKQYARhXLujxvDAES67S4yKeM-Ca7ye64m-vZnBa8Pq82qr4J35uY9N7MX/s1600/ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitLab has released security updates to address two critical vulnerabilities, including one that could be exploited to take over accounts without requiring any user interaction.\nTracked as CVE-2023-7028, the flaw has been awarded the maximum severity of 10.0 on the CVSS scoring system and could facilitate account takeover by sending password reset emails to an unverified email address.\nThe",
+          "link": "https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html",
+          "publishedOn": "2024-01-12T13:03:00.000Z",
+          "wordCount": null,
+          "title": "Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvvqUPLJvFSLuui6StYILlE7Ht5egMijsCX_eIfWARLeDoOYPemy9cRQpkLdjkqVImX9Z5VXNeFqBN0lw7656x6vF5SYnLt-46ZMgNjMXoc7-OP325kPE6duYjThroTt0zKL7ah55rDzEQv17hjKOWVdGST0719dmiLHsjf7b9Ea-_d7itMChsQzRA-BqK/s1600/git.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvvqUPLJvFSLuui6StYILlE7Ht5egMijsCX_eIfWARLeDoOYPemy9cRQpkLdjkqVImX9Z5VXNeFqBN0lw7656x6vF5SYnLt-46ZMgNjMXoc7-OP325kPE6duYjThroTt0zKL7ah55rDzEQv17hjKOWVdGST0719dmiLHsjf7b9Ea-_d7itMChsQzRA-BqK/s1600/git.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/applying-tyson-principle-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Picture a cybersecurity landscape where defenses are impenetrable, and threats are nothing more than mere disturbances deflected by a strong shield. Sadly, this image of fortitude remains a pipe dream despite its comforting nature. In the security world, preparedness is not just a luxury but a necessity. In this context, Mike Tyson's famous adage, \"Everyone has a plan until they get punched in",

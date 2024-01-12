@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-12T14:10:06.161Z</updated>
+    <updated>2024-01-12T14:29:10.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families]]></title>
+        <id>https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html</id>
+        <link href="https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html"/>
+        <updated>2024-01-12T13:53:00.000Z</updated>
+        <summary type="html"><![CDATA[As many as five different malware families were deployed by suspected nation-state actors as part of post-exploitation activities leveraging two zero-day vulnerabilities in Ivanti Connect Secure (ICS) VPN appliances since early December 2023.
+"These families allow the threat actors to circumvent authentication and provide backdoor access to these devices," Mandiant said in an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion]]></title>
+        <id>https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html</id>
+        <link href="https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html"/>
+        <updated>2024-01-12T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors associated with the Medusa ransomware have ramped up their activities following the debut of a dedicated data leak site on the dark web in February 2023 to publish sensitive data of victims who are unwilling to agree to their demands.
+“As part of their multi-extortion strategy, this group will provide victims with multiple options when their data is posted on their]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP]]></title>
+        <id>https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html</id>
+        <link href="https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html"/>
+        <updated>2024-01-12T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab has released security updates to address two critical vulnerabilities, including one that could be exploited to take over accounts without requiring any user interaction.
+Tracked as CVE-2023-7028, the flaw has been awarded the maximum severity of 10.0 on the CVSS scoring system and could facilitate account takeover by sending password reset emails to an unverified email address.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO]]></title>
         <id>https://thehackernews.com/2024/01/applying-tyson-principle-to.html</id>
