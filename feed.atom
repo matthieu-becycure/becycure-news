@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-11T23:43:53.422Z</updated>
+    <updated>2024-01-12T00:50:35.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2040,18 +2040,6 @@ BazaCall (aka BazarCall), which was first]]></summary>
         <updated>2023-12-13T13:15:00.000Z</updated>
         <summary type="html"><![CDATA[Google is highlighting the role played by Clang sanitizers in hardening the security of the cellular baseband in the Android operating system and preventing specific kinds of vulnerabilities.
 This comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer (UBSan), a tool designed to catch various kinds of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Analyze Malware’s Network Traffic in A Sandbox]]></title>
-        <id>https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html</id>
-        <link href="https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html"/>
-        <updated>2023-12-13T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Malware analysis encompasses a broad range of activities, including examining the malware's network traffic. To be effective at it, it's crucial to understand the common challenges and how to overcome them. Here are three prevalent issues you may encounter and the tools you'll need to address them.
-Decrypting HTTPS traffic
-Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

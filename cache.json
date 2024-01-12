@@ -1796,22 +1796,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPJeYgjkR-VM2qWJggAbYaHQbCK4GP7-T1fVPEHjuvElHF24Ue3yMcFcIVto4hQbzZ5tbKGvrHo7qkmGZgqFGdR6XfKe7wOiBGjWsCrHyslReJ7mmecbK38LFrqns_EvbHEWs1-tEltzUc4thdgUo_y2b4WQWfA0bJzySq7jn0owuU5Ot_V7ReXrBTYIY/s1600/android.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPJeYgjkR-VM2qWJggAbYaHQbCK4GP7-T1fVPEHjuvElHF24Ue3yMcFcIVto4hQbzZ5tbKGvrHo7qkmGZgqFGdR6XfKe7wOiBGjWsCrHyslReJ7mmecbK38LFrqns_EvbHEWs1-tEltzUc4thdgUo_y2b4WQWfA0bJzySq7jn0owuU5Ot_V7ReXrBTYIY/s1600/android.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Malware analysis encompasses a broad range of activities, including examining the malware's network traffic. To be effective at it, it's crucial to understand the common challenges and how to overcome them. Here are three prevalent issues you may encounter and the tools you'll need to address them.\nDecrypting HTTPS traffic\nHypertext Transfer Protocol Secure (HTTPS), the protocol for secure",
-          "link": "https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html",
-          "publishedOn": "2023-12-13T12:02:00.000Z",
-          "wordCount": null,
-          "title": "How to Analyze Malware’s Network Traffic in A Sandbox",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYC-itCzmWsUr9ukGc1IRy8UQ0GpXXFGYuB40-U2aw58ZRBthioFd8-XU0Uy1UPXf_WTmVVUKhd3EGv2LxCLi4FUTDcIVgrGqEQrKv0HXnyASfkbM0hTk3GlnoKI7eF_xKAvuQfwKghMrjks8L6RgD5aYCig7MiRyyXg9sw2Ony4DBa8WJFLFav-bWYmg/s1600/anyrun.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYC-itCzmWsUr9ukGc1IRy8UQ0GpXXFGYuB40-U2aw58ZRBthioFd8-XU0Uy1UPXf_WTmVVUKhd3EGv2LxCLi4FUTDcIVgrGqEQrKv0HXnyASfkbM0hTk3GlnoKI7eF_xKAvuQfwKghMrjks8L6RgD5aYCig7MiRyyXg9sw2Ony4DBa8WJFLFav-bWYmg/s1600/anyrun.jpg"
         }
       ]
     },
