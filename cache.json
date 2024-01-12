@@ -2615,16 +2615,6 @@
           "wordCount": 1040,
           "title": "CERTFR-2023-AVI-1027 : Multiples vulnérabilités dans GitLab (14 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Workspace ONE Launcher. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1026/",
-          "publishedOn": "2023-12-14T09:08:27.000Z",
-          "wordCount": 939,
-          "title": "CERTFR-2023-AVI-1026 : Vulnérabilité dans VMware Workspace ONE Launcher (14 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
