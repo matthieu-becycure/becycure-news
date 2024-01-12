@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-12T17:43:52.108Z</updated>
+    <updated>2024-01-12T18:13:17.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2092,17 +2092,6 @@ The activity has been tied to a nation-state group known as APT29, which is als
         <updated>2023-12-14T06:30:00.000Z</updated>
         <summary type="html"><![CDATA[A previously unknown hacker outfit called GambleForce has been attributed to a series of SQL injection attacks against companies primarily in the Asia-Pacific (APAC) region since at least September 2023.
 "GambleForce uses a set of basic yet very effective techniques, including SQL injections and the exploitation of vulnerable website content management systems (CMS) to steal sensitive]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Takes Legal Action to Crack Down on Storm-1152's Cybercrime Network]]></title>
-        <id>https://thehackernews.com/2023/12/microsoft-takes-legal-action-to-crack.html</id>
-        <link href="https://thehackernews.com/2023/12/microsoft-takes-legal-action-to-crack.html"/>
-        <updated>2023-12-14T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Wednesday said it obtained a court order to seize infrastructure set up by a group called Storm-1152 that peddled roughly 750 million fraudulent Microsoft accounts and tools through a network of bogus websites and social media pages to other criminal actors, netting them millions of dollars in illicit revenue.
-"Fraudulent online accounts act as the gateway to a host of cybercrime,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
