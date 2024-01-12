@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-12T00:50:35.853Z</updated>
+    <updated>2024-01-12T01:54:56.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2031,17 +2031,6 @@ BazaCall (aka BazarCall), which was first]]></summary>
  La très forte …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html</id>
-        <link href="https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html"/>
-        <updated>2023-12-13T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is highlighting the role played by Clang sanitizers in hardening the security of the cellular baseband in the Android operating system and preventing specific kinds of vulnerabilities.
-This comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer (UBSan), a tool designed to catch various kinds of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

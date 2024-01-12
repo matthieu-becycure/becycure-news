@@ -1780,22 +1780,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2PARmhugBD6H-D9Zi8XCQrq3ChoDfIAx2CDUErN2SB6WJvcjFgwzyu4fy0fhorNp3no4GI6NrCvLO3IMqFbd9R1jNq9x2pOddEKBZELeFg_9IJIe8Xtuuul-SliokMZEfTdu6lXUZLzzQ1w7jidieFTZHdh6SbhxtfRDkDaFHeIvUgbAacIMFRK_DirEL/s1600/phishinggg.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2PARmhugBD6H-D9Zi8XCQrq3ChoDfIAx2CDUErN2SB6WJvcjFgwzyu4fy0fhorNp3no4GI6NrCvLO3IMqFbd9R1jNq9x2pOddEKBZELeFg_9IJIe8Xtuuul-SliokMZEfTdu6lXUZLzzQ1w7jidieFTZHdh6SbhxtfRDkDaFHeIvUgbAacIMFRK_DirEL/s1600/phishinggg.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google is highlighting the role played by Clang sanitizers in hardening the security of the cellular baseband in the Android operating system and preventing specific kinds of vulnerabilities.\nThis comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer (UBSan), a tool designed to catch various kinds of",
-          "link": "https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html",
-          "publishedOn": "2023-12-13T13:15:00.000Z",
-          "wordCount": null,
-          "title": "Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPJeYgjkR-VM2qWJggAbYaHQbCK4GP7-T1fVPEHjuvElHF24Ue3yMcFcIVto4hQbzZ5tbKGvrHo7qkmGZgqFGdR6XfKe7wOiBGjWsCrHyslReJ7mmecbK38LFrqns_EvbHEWs1-tEltzUc4thdgUo_y2b4WQWfA0bJzySq7jn0owuU5Ot_V7ReXrBTYIY/s1600/android.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVPJeYgjkR-VM2qWJggAbYaHQbCK4GP7-T1fVPEHjuvElHF24Ue3yMcFcIVto4hQbzZ5tbKGvrHo7qkmGZgqFGdR6XfKe7wOiBGjWsCrHyslReJ7mmecbK38LFrqns_EvbHEWs1-tEltzUc4thdgUo_y2b4WQWfA0bJzySq7jn0owuU5Ot_V7ReXrBTYIY/s1600/android.jpg"
         }
       ]
     },
