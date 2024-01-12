@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-12T06:43:28.016Z</updated>
+    <updated>2024-01-12T07:09:43.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Act Now: CISA Flags Active Exploitation of Microsoft SharePoint Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/01/act-now-cisa-flags-active-exploitation.html</id>
+        <link href="https://thehackernews.com/2024/01/act-now-cisa-flags-active-exploitation.html"/>
+        <updated>2024-01-12T06:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security vulnerability impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The issue, tracked as CVE-2023-29357 (CVSS score: 9.8), is a privilege escalation flaw that could be exploited by an attacker to gain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Threat Actors Increasingly Abusing GitHub for Malicious Purposes]]></title>
         <id>https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html</id>
