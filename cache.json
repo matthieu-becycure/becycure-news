@@ -2481,16 +2481,6 @@
           "wordCount": 939,
           "title": "CERTFR-2023-AVI-1026 : Vulnérabilité dans VMware Workspace ONE Launcher (14 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
-          "author": null,
-          "description": "Le 4 décembre 2023, Apache a publié un avis de sécurité concernant la vulnérabilité critique CVE-2023-50164 concernant le cadriciel Struts 2. Cette vulnérabilité permet à un attaquant non …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2023-ALE-013/",
-          "publishedOn": "2023-12-13T17:08:21.000Z",
-          "wordCount": 1025,
-          "title": "CERTFR-2023-ALE-013 : Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
