@@ -2507,46 +2507,6 @@
           "wordCount": 1025,
           "title": "CERTFR-2023-ALE-013 : Vulnérabilité dans Apache Struts 2 (13 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une usurpation d'identité et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1025/",
-          "publishedOn": "2023-12-13T15:05:28.000Z",
-          "wordCount": 1030,
-          "title": "CERTFR-2023-AVI-1025 : Multiples vulnérabilités dans les produits Microsoft (13 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Azure. Elles permettent à un attaquant de provoquer une usurpation d'identité, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1024/",
-          "publishedOn": "2023-12-13T15:05:27.000Z",
-          "wordCount": 988,
-          "title": "CERTFR-2023-AVI-1024 : Multiples vulnérabilités dans Microsoft Azure (13 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données, un déni de service, une usurpation d'identité et une …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1023/",
-          "publishedOn": "2023-12-13T15:05:26.000Z",
-          "wordCount": 1561,
-          "title": "CERTFR-2023-AVI-1023 : Multiples vulnérabilités dans Microsoft Windows (13 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une usurpation d'identité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1022/",
-          "publishedOn": "2023-12-13T15:05:24.000Z",
-          "wordCount": 1036,
-          "title": "CERTFR-2023-AVI-1022 : Multiples vulnérabilités dans Microsoft Office (13 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
