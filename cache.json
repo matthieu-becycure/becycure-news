@@ -2475,26 +2475,6 @@
           "wordCount": 952,
           "title": "CERTFR-2023-AVI-1033 : Multiples vulnérabilités dans Tenable Security Center (15 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1032/",
-          "publishedOn": "2023-12-14T15:03:19.000Z",
-          "wordCount": 928,
-          "title": "CERTFR-2023-AVI-1032 : Vulnérabilité dans Microsoft Azure (14 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1031/",
-          "publishedOn": "2023-12-14T14:53:59.000Z",
-          "wordCount": 962,
-          "title": "CERTFR-2023-AVI-1031 : Multiples vulnérabilités dans Google Chrome (14 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
