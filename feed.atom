@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-13T11:43:43.385Z</updated>
+    <updated>2024-01-13T12:17:48.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches]]></title>
+        <id>https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html</id>
+        <link href="https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"/>
+        <updated>2024-01-13T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Juniper Networks has released updates to fix a critical remote code execution (RCE) vulnerability in its SRX Series firewalls and EX Series switches.
+The issue, tracked as CVE-2024-21591, is rated 9.8 on the CVSS scoring system.
+“An out-of-bounds write vulnerability in J-Web of Juniper Networks Junos OS SRX Series and EX Series allows an unauthenticated, network-based attacker to cause a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services]]></title>
         <id>https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html</id>
