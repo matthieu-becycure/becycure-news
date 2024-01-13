@@ -2449,16 +2449,6 @@
           "wordCount": 1160,
           "title": "CERTFR-2023-AVI-1034 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (15 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1033/",
-          "publishedOn": "2023-12-15T08:02:19.000Z",
-          "wordCount": 952,
-          "title": "CERTFR-2023-AVI-1033 : Multiples vulnérabilités dans Tenable Security Center (15 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
