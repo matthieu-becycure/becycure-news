@@ -2495,16 +2495,6 @@
           "wordCount": 962,
           "title": "CERTFR-2023-AVI-1031 : Multiples vulnérabilités dans Google Chrome (14 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1030/",
-          "publishedOn": "2023-12-14T14:25:29.000Z",
-          "wordCount": 926,
-          "title": "CERTFR-2023-AVI-1030 : Vulnérabilité dans Squid (14 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
