@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-13T17:08:53.656Z</updated>
+    <updated>2024-01-13T17:26:14.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1957,17 +1957,6 @@ The issues relate to two reflected cross-site scripting (XSS) bugs and one comma
         <updated>2023-12-15T07:23:00.000Z</updated>
         <summary type="html"><![CDATA[Google on Thursday announced that it will start testing a new feature called "Tracking Protection" starting January 4, 2024, to 1% of Chrome users as part of its efforts to deprecate third-party cookies in the web browser.
 The setting is designed to limit "cross-site tracking by restricting website access to third-party cookies by default," Anthony Chavez, vice president of Privacy]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html</id>
-        <link href="https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html"/>
-        <updated>2023-12-15T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A novel multi-platform threat called NKAbuse has been discovered using a decentralized, peer-to-peer network connectivity protocol known as NKN (short for New Kind of Network) as a communications channel.
-"The malware utilizes NKN technology for data exchange between peers, functioning as a potent implant, and equipped with both flooder and backdoor capabilities," Russian]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
