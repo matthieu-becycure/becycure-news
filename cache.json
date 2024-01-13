@@ -2429,16 +2429,6 @@
           "wordCount": 2346,
           "title": "CERTFR-2023-AVI-1036 : Multiples vulnérabilités dans le noyau Linux de SUSE (15 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité et un problème de sécurité non spécifié par …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1035/",
-          "publishedOn": "2023-12-15T10:12:09.000Z",
-          "wordCount": 1039,
-          "title": "CERTFR-2023-AVI-1035 : Multiples vulnérabilités dans Microsoft Edge (15 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
