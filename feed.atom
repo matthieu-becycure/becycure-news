@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-14T19:23:49.811Z</updated>
+    <updated>2024-01-14T19:43:35.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1824,17 +1824,6 @@ In an alert published last week, the agency called out Iranian threat actors aff
         <updated>2023-12-17T04:48:00.000Z</updated>
         <summary type="html"><![CDATA[MongoDB on Saturday disclosed it's actively investigating a security incident that has led to unauthorized access to "certain" corporate systems, resulting in the exposure of customer account metadata and contact information.
 The American database software company said it first detected anomalous activity on December 13, 2023, and that it immediately activated its incident response]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's MIIT Introduces Color-Coded Action Plan for Data Security Incidents]]></title>
-        <id>https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html</id>
-        <link href="https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html"/>
-        <updated>2023-12-16T07:32:00.000Z</updated>
-        <summary type="html"><![CDATA[China's Ministry of Industry and Information Technology (MIIT) on Friday unveiled draft proposals detailing its plans to tackle data security events in the country using a color-coded system.
-The effort is designed to "improve the comprehensive response capacity for data security incidents, to ensure timely and effective control, mitigation and elimination of hazards and losses caused]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
