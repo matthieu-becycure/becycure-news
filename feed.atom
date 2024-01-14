@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-14T16:43:32.994Z</updated>
+    <updated>2024-01-14T17:08:40.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1835,17 +1835,6 @@ The American database software company said it first detected anomalous activi
         <updated>2023-12-16T07:32:00.000Z</updated>
         <summary type="html"><![CDATA[China's Ministry of Industry and Information Technology (MIIT) on Friday unveiled draft proposals detailing its plans to tackle data security events in the country using a color-coded system.
 The effort is designed to "improve the comprehensive response capacity for data security incidents, to ensure timely and effective control, mitigation and elimination of hazards and losses caused]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Warns of Storm-0539: The Rising Threat Behind Holiday Gift Card Frauds]]></title>
-        <id>https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html</id>
-        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html"/>
-        <updated>2023-12-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as Storm-0539 for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season.
-The goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
