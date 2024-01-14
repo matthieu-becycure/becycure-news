@@ -1684,22 +1684,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimZIcrYg1NKIMA-DOIAN7-wj4DQXFvN-7gNbHCb2Mi866ciu4-ehcGWxu1yiJluv9_thtyynuMKEu17aQUPMNOKZocyKRbrySDTFtjARoVnpCuMcfIUQ7XNMDD1wKCGrnjb1ix-S8BG6JDqBMLJFVO4gciYMHw2PcKnV4jViwZ_qmn1uOYESZed5gRPmR/s1600/kv.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimZIcrYg1NKIMA-DOIAN7-wj4DQXFvN-7gNbHCb2Mi866ciu4-ehcGWxu1yiJluv9_thtyynuMKEu17aQUPMNOKZocyKRbrySDTFtjARoVnpCuMcfIUQ7XNMDD1wKCGrnjb1ix-S8BG6JDqBMLJFVO4gciYMHw2PcKnV4jViwZ_qmn1uOYESZed5gRPmR/s1600/kv.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Crypto hardware wallet maker Ledger published a new version of its \"@ledgerhq/connect-kit\" npm module after unidentified threat actors pushed malicious code that led to the theft of more than $600,000 in virtual assets.\nThe compromise was the result of a former employee falling victim to a phishing attack, the company said in a statement.\nThis allowed the attackers to gain",
-          "link": "https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html",
-          "publishedOn": "2023-12-15T13:01:00.000Z",
-          "wordCount": null,
-          "title": "Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNPeIEds2Yy8KQh5fB_BMbhKyf9Aq_wl3ltqOlLHuDa5ZQWXho7murXiKE0qjeokjHBbDYEov7hf8qGFNWykVdxuuf7en8BzynuYgXLs_VPbSjmjTrEnxckAt2HAXDCwKFF4pLo7Jc1apjA_OtfOPQIbc6cBDgGVmYcCPuPJ9jMYcM0JEu1-39pogQDtbQ/s1600/bitcoin.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNPeIEds2Yy8KQh5fB_BMbhKyf9Aq_wl3ltqOlLHuDa5ZQWXho7murXiKE0qjeokjHBbDYEov7hf8qGFNWykVdxuuf7en8BzynuYgXLs_VPbSjmjTrEnxckAt2HAXDCwKFF4pLo7Jc1apjA_OtfOPQIbc6cBDgGVmYcCPuPJ9jMYcM0JEu1-39pogQDtbQ/s1600/bitcoin.jpg"
         }
       ]
     },
@@ -2366,26 +2350,6 @@
           "publishedOn": "2023-12-18T07:50:48.000Z",
           "wordCount": 1053,
           "title": "CERTFR-2023-AVI-1039 : Multiples vulnérabilités dans Stormshield Network Security (18 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/",
-          "publishedOn": "2023-12-15T13:20:30.000Z",
-          "wordCount": 1051,
-          "title": "CERTFR-2023-AVI-1038 : Multiples vulnérabilités dans les produits IBM (15 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service à …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/",
-          "publishedOn": "2023-12-15T13:17:48.000Z",
-          "wordCount": 1080,
-          "title": "CERTFR-2023-AVI-1037 : Multiples vulnérabilités dans le noyau Linux de RedHat (15 décembre 2023)",
           "imageUrl": null
         }
       ]

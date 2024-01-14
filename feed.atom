@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-14T00:54:11.504Z</updated>
+    <updated>2024-01-14T01:58:42.668Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1846,38 +1846,6 @@ The goal of the attacks is to propagate booby-trapped links that direct victims 
         <updated>2023-12-15T14:17:00.000Z</updated>
         <summary type="html"><![CDATA[A new botnet consisting of firewalls and routers from Cisco, DrayTek, Fortinet, and NETGEAR is being used as a covert data transfer network for advanced persistent threat actors, including the China-linked threat actor called Volt Typhoon.
 Dubbed KV-botnet by the Black Lotus Labs team at Lumen Technologies, the malicious network is an amalgamation of two complementary activity]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-1038 : Multiples vulnérabilités dans les produits IBM (15 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1038/"/>
-        <updated>2023-12-15T13:20:30.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-AVI-1037 : Multiples vulnérabilités dans le noyau Linux de RedHat (15 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1037/"/>
-        <updated>2023-12-15T13:17:48.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges, une atteinte à l'intégrité des données et un déni de service à …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft]]></title>
-        <id>https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html</id>
-        <link href="https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html"/>
-        <updated>2023-12-15T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Crypto hardware wallet maker Ledger published a new version of its "@ledgerhq/connect-kit" npm module after unidentified threat actors pushed malicious code that led to the theft of more than $600,000 in virtual assets.
-The compromise was the result of a former employee falling victim to a phishing attack, the company said in a statement.
-This allowed the attackers to gain]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
