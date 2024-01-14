@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The cyber attacks targeting the energy sector in Denmark last year may not have had the involvement of the Russia-linked Sandworm hacking group, new findings from Forescout show.\nThe intrusions, which targeted around 22 Danish energy organizations in May 2023, occurred in two distinct waves, one which exploited a security flaw in Zyxel firewall (CVE-2023-28771) and a",
+          "link": "https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html",
+          "publishedOn": "2024-01-14T09:07:00.000Z",
+          "wordCount": null,
+          "title": "New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxUnGsFu7yBvYVmL9tprCtuGSGeE23q7YNTx1EI7AFogirEROSy02c84KcsN3DoI4KFf6sW7HEu6sOZCJiqGdV4LsEoaSsWslAmrTWerS5DSDgCFndPAmbxw1C9AtopZt6e02Ysxj2l21eLQ40O9EcijlsTzh89SCY4stfYfyjyorU5yCDFk89oQsu_UYn/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxUnGsFu7yBvYVmL9tprCtuGSGeE23q7YNTx1EI7AFogirEROSy02c84KcsN3DoI4KFf6sW7HEu6sOZCJiqGdV4LsEoaSsWslAmrTWerS5DSDgCFndPAmbxw1C9AtopZt6e02Ysxj2l21eLQ40O9EcijlsTzh89SCY4stfYfyjyorU5yCDFk89oQsu_UYn/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Juniper Networks has released updates to fix a critical remote code execution (RCE) vulnerability in its SRX Series firewalls and EX Series switches.\nThe issue, tracked as CVE-2024-21591, is rated 9.8 on the CVSS scoring system.\n“An out-of-bounds write vulnerability in J-Web of Juniper Networks Junos OS SRX Series and EX Series allows an unauthenticated, network-based attacker to cause a",

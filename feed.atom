@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-14T09:43:36.769Z</updated>
+    <updated>2024-01-14T10:10:07.755Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks]]></title>
+        <id>https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html</id>
+        <link href="https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html"/>
+        <updated>2024-01-14T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The cyber attacks targeting the energy sector in Denmark last year may not have had the involvement of the Russia-linked Sandworm hacking group, new findings from Forescout show.
+The intrusions, which targeted around 22 Danish energy organizations in May 2023, occurred in two distinct waves, one which exploited a security flaw in Zyxel firewall (CVE-2023-28771) and a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches]]></title>
         <id>https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html</id>
