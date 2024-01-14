@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-14T01:58:42.668Z</updated>
+    <updated>2024-01-14T02:32:49.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1835,17 +1835,6 @@ The effort is designed to "improve the comprehensive response capacity for data 
         <updated>2023-12-16T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as Storm-0539 for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season.
 The goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html</id>
-        <link href="https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html"/>
-        <updated>2023-12-15T14:17:00.000Z</updated>
-        <summary type="html"><![CDATA[A new botnet consisting of firewalls and routers from Cisco, DrayTek, Fortinet, and NETGEAR is being used as a covert data transfer network for advanced persistent threat actors, including the China-linked threat actor called Volt Typhoon.
-Dubbed KV-botnet by the Black Lotus Labs team at Lumen Technologies, the malicious network is an amalgamation of two complementary activity]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
