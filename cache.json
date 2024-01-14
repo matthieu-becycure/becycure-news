@@ -2387,16 +2387,6 @@
           "wordCount": 1080,
           "title": "CERTFR-2023-AVI-1037 : Multiples vulnérabilités dans le noyau Linux de RedHat (15 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un problème de sécurité non spécifié par …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1036/",
-          "publishedOn": "2023-12-15T12:36:51.000Z",
-          "wordCount": 2346,
-          "title": "CERTFR-2023-AVI-1036 : Multiples vulnérabilités dans le noyau Linux de SUSE (15 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
