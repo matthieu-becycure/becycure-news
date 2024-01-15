@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-15T06:14:50.219Z</updated>
+    <updated>2024-01-15T06:32:18.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023]]></title>
+        <id>https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html</id>
+        <link href="https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html"/>
+        <updated>2024-01-15T05:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The environmental services industry witnessed an “unprecedented surge” in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic.
+This marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week.
+“This surge in cyber attacks coincided]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks]]></title>
         <id>https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html</id>
