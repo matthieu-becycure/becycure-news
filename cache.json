@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in Bosch BCC100 thermostats and Rexroth NXA015S-36V-B smart nutrunners that, if successfully exploited, could allow attackers to execute arbitrary code on affected systems.\nRomanian cybersecurity firm Bitdefender, which discovered the flaw in Bosch BCC100 thermostats last August, said the issue could be weaponized by an attacker to",
+          "link": "https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html",
+          "publishedOn": "2024-01-15T08:16:00.000Z",
+          "wordCount": null,
+          "title": "High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuyUx-cNwGiI6RFqGJ9bsR_jIBC8tf-JAksoncnnGlznmK5yF6h5A7JK9lRu-2x5Xw89CvraF7vtPssAIt-x2m3uScHd7vBrL_XxKE-ykRprTzJSbfLCSA_zWDpzYOcgvw3WXkhDaghAtbX-2nUstQ3YNsiGtzzzYRTK14kPVRN3z420sOA3In-aaNwNSf/s1600/bosch.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuyUx-cNwGiI6RFqGJ9bsR_jIBC8tf-JAksoncnnGlznmK5yF6h5A7JK9lRu-2x5Xw89CvraF7vtPssAIt-x2m3uScHd7vBrL_XxKE-ykRprTzJSbfLCSA_zWDpzYOcgvw3WXkhDaghAtbX-2nUstQ3YNsiGtzzzYRTK14kPVRN3z420sOA3In-aaNwNSf/s1600/bosch.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Thousands of WordPress sites using a vulnerable version of the Popup Builder plugin have been compromised with a malware called Balada Injector.\nFirst documented by Doctor Web in January 2023, the campaign takes place in a series of periodic attack waves, weaponizing security flaws WordPress plugins to inject backdoor designed to redirect visitors of infected sites to bogus tech",
+          "link": "https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html",
+          "publishedOn": "2024-01-15T07:45:00.000Z",
+          "wordCount": null,
+          "title": "Balada Injector Infects Over 7,100 WordPress Sites Using Plugin Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguF4DxsnKC7J1KvOVg_1wxksLXAxE1LlJXoqMHUgSLEBzoTxLOii2rYxX_PIHmU-qDPqVENsdPvLHjiU-k7R85FiGHfVQHbPCpjPzwCSTW_fV6NuK74tx_J_sOcIGsXGBGp6aufbslfAwWwiCEUAAm4LP5FJsabAFiYWU731rIk5t2-2mWVYonYPIzrjaD/s1600/wordpress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguF4DxsnKC7J1KvOVg_1wxksLXAxE1LlJXoqMHUgSLEBzoTxLOii2rYxX_PIHmU-qDPqVENsdPvLHjiU-k7R85FiGHfVQHbPCpjPzwCSTW_fV6NuK74tx_J_sOcIGsXGBGp6aufbslfAwWwiCEUAAm4LP5FJsabAFiYWU731rIk5t2-2mWVYonYPIzrjaD/s1600/wordpress.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The environmental services industry witnessed an “unprecedented surge” in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic.\nThis marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week.\n“This surge in cyber attacks coincided",
