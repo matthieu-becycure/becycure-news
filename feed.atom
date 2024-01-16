@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-16T16:13:28.494Z</updated>
+    <updated>2024-01-16T16:33:41.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0040 : Multiples vulnérabilités dans Atlassian Confluence et Jira (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0040/"/>
+        <updated>2024-01-16T15:18:35.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Atlassian Confluence et Jira. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0039 : Multiples vulnérabilités dans les produits Citrix (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/"/>
+        <updated>2024-01-16T14:31:51.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now]]></title>
         <id>https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html</id>
@@ -30,6 +50,26 @@ While webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0038 : Vulnérabilité dans les produits SonicWall (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/"/>
+        <updated>2024-01-16T12:46:38.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0037 : Vulnérabilité dans VMware Aria Operations (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/"/>
+        <updated>2024-01-16T12:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Case Study: The Cookie Privacy Monster in Big Global Retail]]></title>
         <id>https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html</id>
         <link href="https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html"/>
@@ -39,6 +79,27 @@ While webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS 
 As a child,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0036 : Vulnérabilité dans OpenSSL (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0036/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0036/"/>
+        <updated>2024-01-16T08:34:01.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0035 : Vulnérabilité dans Synology Disk Station Manager (16 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/"/>
+        <updated>2024-01-16T08:19:39.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Synology Disk Station Manager (DSM). Elle permet à un attaquant de provoquer une exécution de code arbitraire.
+ Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2  et 7.1 de Synology DSM.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
