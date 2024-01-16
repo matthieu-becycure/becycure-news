@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-16T07:23:39.183Z</updated>
+    <updated>2024-01-16T07:43:43.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer]]></title>
+        <id>https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html</id>
+        <link href="https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"/>
+        <updated>2024-01-16T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed leveraging a now-patched security flaw in Microsoft Windows to deploy an open-source information stealer called Phemedrone Stealer.
+“Phemedrone targets web browsers and data from cryptocurrency wallets and messaging apps such as Telegram, Steam, and Discord,” Trend Micro researchers Peter Girnus, Aliakbar Zahravi, and Simon Zuckerbraun said.
+“It also]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows]]></title>
         <id>https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html</id>

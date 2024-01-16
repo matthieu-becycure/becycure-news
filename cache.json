@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed leveraging a now-patched security flaw in Microsoft Windows to deploy an open-source information stealer called Phemedrone Stealer.\n“Phemedrone targets web browsers and data from cryptocurrency wallets and messaging apps such as Telegram, Steam, and Discord,” Trend Micro researchers Peter Girnus, Aliakbar Zahravi, and Simon Zuckerbraun said.\n“It also",
+          "link": "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html",
+          "publishedOn": "2024-01-16T07:13:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWfTkqNkPkk-yD4GZH0bpHbVtYx1Mxzq4prNt2XRT7acwsqmSzNYLrCPhhWf-JIA4n2wJ7UBHEBOmW54YGLXYR-KSwRRpGlVJXmh-DQfdHA11HzMRq5zw5Vq5FyHLOMHTk2NOgWmp0uM7TBe1X4LSU-C5r9wzTeznzVVFvRE_lyUGj9RANFZ5kpgbYlzxF/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWfTkqNkPkk-yD4GZH0bpHbVtYx1Mxzq4prNt2XRT7acwsqmSzNYLrCPhhWf-JIA4n2wJ7UBHEBOmW54YGLXYR-KSwRRpGlVJXmh-DQfdHA11HzMRq5zw5Vq5FyHLOMHTk2NOgWmp0uM7TBe1X4LSU-C5r9wzTeznzVVFvRE_lyUGj9RANFZ5kpgbYlzxF/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a security flaw in the Opera web browser for Microsoft Windows and Apple macOS that could be exploited to execute any file on the underlying operating system.\nThe remote code execution vulnerability has been codenamed MyFlaw by the Guardio Labs research team owing to the fact that it takes advantage of a feature called My Flow that makes it",
