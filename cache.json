@@ -2497,16 +2497,6 @@
           "wordCount": 1656,
           "title": "CERTFR-2023-ACT-054 : Bulletin d’actualité CERTFR-2023-ACT-054 (18 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-010/",
-          "author": null,
-          "description": "Le secteur des télécommunications intègre une typologie d’acteurs variée allant des opérateurs de communication électroniques (OCE) aux …",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2023-CTI-010/",
-          "publishedOn": "2023-12-18T09:05:35.000Z",
-          "wordCount": 1039,
-          "title": "CERTFR-2023-CTI-010 : État de la menace ciblant le secteur des télécommunications (18 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
