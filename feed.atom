@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-16T14:29:24.159Z</updated>
+    <updated>2024-01-16T14:43:38.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now]]></title>
+        <id>https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html</id>
+        <link href="https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"/>
+        <updated>2024-01-16T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Over 178,000 SonicWall firewalls exposed over the internet are exploitable to at least one of the two security flaws that could be potentially exploited to cause a denial-of-service (DoS) condition and remote code execution (RCE).
+“The two issues are fundamentally the same but exploitable at different HTTP URI paths due to reuse of a vulnerable code pattern,” Jon Williams, a senior security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Remcos RAT Spreading Through Adult Games in New Attack Wave]]></title>
         <id>https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html</id>

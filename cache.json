@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Over 178,000 SonicWall firewalls exposed over the internet are exploitable to at least one of the two security flaws that could be potentially exploited to cause a denial-of-service (DoS) condition and remote code execution (RCE).\n“The two issues are fundamentally the same but exploitable at different HTTP URI paths due to reuse of a vulnerable code pattern,” Jon Williams, a senior security",
+          "link": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
+          "publishedOn": "2024-01-16T13:39:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s1600/exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s1600/exploit.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The remote access trojan (RAT) known as Remcos RAT has been found being propagated via webhards by disguising it as adult-themed games in South Korea.\nWebHard, short for web hard drive, is a popular online file storage system used to upload, download, and share files in the country.\nWhile webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS botnet malware, the",
