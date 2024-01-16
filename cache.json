@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Explore how an advanced exposure management solution saved a major retail industry client from ending up on the naughty step due to a misconfiguration in its cookie management policy. This wasn’t anything malicious, but with modern web environments being so complex, mistakes can happen, and non-compliance fines can be just an oversight away.Download the full case study here.\n\nAs a child,",
+          "link": "https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html",
+          "publishedOn": "2024-01-16T10:49:00.000Z",
+          "wordCount": null,
+          "title": "Case Study: The Cookie Privacy Monster in Big Global Retail",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4wNUDhEU4mWmmuFItPM_zzToeii72kcuDsfnB9FoGA6MGpwHKTMnKktYDgjlEkPu0yC-807KjZkE-r76FBHye7-9KWVZvWkAXmnloF5plRvGRvwsdnc5aaend4OQs_AVYOHWBpaU4lZWmUFdbCEjsvHHEHVM4-qciIRQSm-wQ82Pyf2UglCIlaGou-M/s1600/cookie.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl4wNUDhEU4mWmmuFItPM_zzToeii72kcuDsfnB9FoGA6MGpwHKTMnKktYDgjlEkPu0yC-807KjZkE-r76FBHye7-9KWVZvWkAXmnloF5plRvGRvwsdnc5aaend4OQs_AVYOHWBpaU4lZWmUFdbCEjsvHHEHVM4-qciIRQSm-wQ82Pyf2UglCIlaGou-M/s1600/cookie.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The operators behind the now-defunct Inferno Drainer created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023.\nThe scheme “leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers’ infrastructure that spoofed Web3 protocols to trick victims into authorizing",
