@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-16T08:30:28.179Z</updated>
+    <updated>2024-01-16T08:43:29.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims]]></title>
+        <id>https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html</id>
+        <link href="https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html"/>
+        <updated>2024-01-16T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The operators behind the now-defunct Inferno Drainer created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023.
+The scheme “leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers’ infrastructure that spoofed Web3 protocols to trick victims into authorizing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer]]></title>
         <id>https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html</id>

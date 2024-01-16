@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The operators behind the now-defunct Inferno Drainer created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023.\nThe scheme “leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers’ infrastructure that spoofed Web3 protocols to trick victims into authorizing",
+          "link": "https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html",
+          "publishedOn": "2024-01-16T07:59:00.000Z",
+          "wordCount": null,
+          "title": "Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1boOGqIAoPMJWj_XZYEYDFmFNylMr2pePU6Najnt6UG7GNAr-I7BAO0PtaY35uahollxCvJp_xVTLOJQxWqFAAipTpINFiCyzwO5DPJ3We6iNOsoqCLbuKmShk_qP2lGV5iNIhY_Uf94JQGJgu__mX7-b40Iv8I2NVBn6uKG6_imyb45xnGg4t4JFcKZ/s1600/drainer.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1boOGqIAoPMJWj_XZYEYDFmFNylMr2pePU6Najnt6UG7GNAr-I7BAO0PtaY35uahollxCvJp_xVTLOJQxWqFAAipTpINFiCyzwO5DPJ3We6iNOsoqCLbuKmShk_qP2lGV5iNIhY_Uf94JQGJgu__mX7-b40Iv8I2NVBn6uKG6_imyb45xnGg4t4JFcKZ/s1600/drainer.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been observed leveraging a now-patched security flaw in Microsoft Windows to deploy an open-source information stealer called Phemedrone Stealer.\n“Phemedrone targets web browsers and data from cryptocurrency wallets and messaging apps such as Telegram, Steam, and Discord,” Trend Micro researchers Peter Girnus, Aliakbar Zahravi, and Simon Zuckerbraun said.\n“It also",
