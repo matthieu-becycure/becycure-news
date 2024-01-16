@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The remote access trojan (RAT) known as Remcos RAT has been found being propagated via webhards by disguising it as adult-themed games in South Korea.\nWebHard, short for web hard drive, is a popular online file storage system used to upload, download, and share files in the country.\nWhile webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS botnet malware, the",
+          "link": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
+          "publishedOn": "2024-01-16T13:22:00.000Z",
+          "wordCount": null,
+          "title": "Remcos RAT Spreading Through Adult Games in New Attack Wave",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Explore how an advanced exposure management solution saved a major retail industry client from ending up on the naughty step due to a misconfiguration in its cookie management policy. This wasn’t anything malicious, but with modern web environments being so complex, mistakes can happen, and non-compliance fines can be just an oversight away.Download the full case study here.\n\nAs a child,",
