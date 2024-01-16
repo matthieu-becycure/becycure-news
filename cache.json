@@ -2507,16 +2507,6 @@
           "wordCount": 1039,
           "title": "CERTFR-2023-CTI-010 : État de la menace ciblant le secteur des télécommunications (18 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1039/",
-          "publishedOn": "2023-12-18T07:50:48.000Z",
-          "wordCount": 1053,
-          "title": "CERTFR-2023-AVI-1039 : Multiples vulnérabilités dans Stormshield Network Security (18 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
