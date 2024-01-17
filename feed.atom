@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-17T10:43:42.344Z</updated>
+    <updated>2024-01-17T11:09:06.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone]]></title>
+        <id>https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html</id>
+        <link href="https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html"/>
+        <updated>2024-01-17T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have identified a "lightweight method" called iShutdown for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's Pegasus, QuaDream's Reign, and Intellexa's Predator. 
+Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials]]></title>
         <id>https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html</id>
