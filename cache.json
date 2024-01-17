@@ -1732,22 +1732,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5Q_37pcETEgLpkH4CiCsAVcoWGG3A1r0JeMo3JUQR-OeJpy19h418vQwrde_YLzSpaqu5m31b0pOFf6FViio0j-owcsciTWmTd8uUUtEJL6rAr3BjXPr1srLcvkZ3DwXQo-WVXGUSCzQ_INZmDt7ppQVBhW80CQYb23o0kgl9WOoR5wRWI6O9EddsZ0G/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5Q_37pcETEgLpkH4CiCsAVcoWGG3A1r0JeMo3JUQR-OeJpy19h418vQwrde_YLzSpaqu5m31b0pOFf6FViio0j-owcsciTWmTd8uUUtEJL6rAr3BjXPr1srLcvkZ3DwXQo-WVXGUSCzQ_INZmDt7ppQVBhW80CQYb23o0kgl9WOoR5wRWI6O9EddsZ0G/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Four U.S. nationals have been charged for participating in an illicit scheme that earned them more than $80 million via cryptocurrency investment scams.\nThe defendants – Lu Zhang, 36, of Alhambra, California; Justin Walker, 31, of Cypress, California; Joseph Wong, 32, Rosemead, California; and Hailong Zhu, 40, Naperville, Illinois – have been charged with conspiracy to commit money laundering,",
-          "link": "https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html",
-          "publishedOn": "2023-12-18T12:13:00.000Z",
-          "wordCount": null,
-          "title": "Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dm_Rbixg7cZMJmyh37SLd5v0iwISVZR0Lk2ElSoE1ADQyIL4e5s-zyx3l7xQDsQUlZLT-TnuvJY8WH3OvEqak9psKAvPkAp-5X6NNVUvBrtALjemIPaVi8tqUbKZlXpj4MI33EJIk4vdIosb7mRV1R9VO_2wjMSjkFqKy9yTE25gn28FL2em5DdBLTMs/s1600/bitcoin.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dm_Rbixg7cZMJmyh37SLd5v0iwISVZR0Lk2ElSoE1ADQyIL4e5s-zyx3l7xQDsQUlZLT-TnuvJY8WH3OvEqak9psKAvPkAp-5X6NNVUvBrtALjemIPaVi8tqUbKZlXpj4MI33EJIk4vdIosb7mRV1R9VO_2wjMSjkFqKy9yTE25gn28FL2em5DdBLTMs/s1600/bitcoin.jpg"
         }
       ]
     },
@@ -2444,26 +2428,6 @@
           "publishedOn": "2023-12-18T13:05:58.000Z",
           "wordCount": 1005,
           "title": "CERTFR-2023-AVI-1041 : Multiples vulnérabilités dans Nextcloud Server (18 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Asterisk. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1040/",
-          "publishedOn": "2023-12-18T12:39:14.000Z",
-          "wordCount": 1046,
-          "title": "CERTFR-2023-AVI-1040 : Multiples vulnérabilités dans les produits Asterisk (18 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-054/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-054/",
-          "publishedOn": "2023-12-18T12:21:13.000Z",
-          "wordCount": 1656,
-          "title": "CERTFR-2023-ACT-054 : Bulletin d’actualité CERTFR-2023-ACT-054 (18 décembre 2023)",
           "imageUrl": null
         }
       ]
