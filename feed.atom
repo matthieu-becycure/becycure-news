@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-17T22:43:24.864Z</updated>
+    <updated>2024-01-17T23:11:08.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1968,18 +1968,6 @@ Matveev, who resides in Saint Petersburg and is known by the aliases Wazawaka, m
         <updated>2023-12-19T11:41:00.000Z</updated>
         <summary type="html"><![CDATA[The Iranian nation-state actor known as MuddyWater has leveraged a newly discovered command-and-control (C2) framework called MuddyC2Go in its attacks on the telecommunications sector in Egypt, Sudan, and Tanzania.
 The Symantec Threat Hunter Team, part of Broadcom, is tracking the activity under the name Seedworm, which is also tracked under the monikers Boggy Serpens, Cobalt]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Malvertising Campaign Distributing PikaBot Disguised as Popular Software]]></title>
-        <id>https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html</id>
-        <link href="https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html"/>
-        <updated>2023-12-19T11:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The malware loader known as PikaBot is being distributed as part of a malvertising campaign targeting users searching for legitimate software like AnyDesk.
-"PikaBot was previously only distributed via malspam campaigns similarly to QakBot and emerged as one of the preferred payloads for a threat actor known as TA577," Malwarebytes' Jérôme Segura said.
-The malware family,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
