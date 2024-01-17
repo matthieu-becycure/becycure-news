@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-17T03:27:07.887Z</updated>
+    <updated>2024-01-17T03:43:23.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1863,17 +1863,6 @@ The security shortcoming is CVE-2020-14883 (CVSS score: 7.2), a remote code ex
         <updated>2023-12-19T05:42:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actors behind the Play ransomware are estimated to have impacted approximately 300 entities as of October 2023, according to a new joint cybersecurity advisory from Australia and the U.S.
 "Play ransomware actors employ a double-extortion model, encrypting systems after exfiltrating data and have impacted a wide range of businesses and critical infrastructure organizations in North]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits]]></title>
-        <id>https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html</id>
-        <link href="https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html"/>
-        <updated>2023-12-18T15:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Technical details have emerged about two now-patched security flaws in Microsoft Windows that could be chained by threat actors to achieve remote code execution on the Outlook email service sans any user interaction.
-"An attacker on the internet can chain the vulnerabilities together to create a full, zero-click remote code execution (RCE) exploit against Outlook clients," Akamai security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

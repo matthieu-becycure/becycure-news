@@ -1700,22 +1700,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB55_7x_nRNK3mhmKqd0sc3K9cmX25dncjiSoW0xM9j_wHcrvfbx3reFQ5iPIZ18q5_0zKH24q6519ig5VftlhNTf4SaZuTEzg1GknjgS-7c1DoeYfu7tRiMzIWgHIgsSBVrTKr6vH4fP8j-snu72K2eHSkbu9I9g4shl7fIauvgWeottiZE-L3SkFOzYE/s1600/joint.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB55_7x_nRNK3mhmKqd0sc3K9cmX25dncjiSoW0xM9j_wHcrvfbx3reFQ5iPIZ18q5_0zKH24q6519ig5VftlhNTf4SaZuTEzg1GknjgS-7c1DoeYfu7tRiMzIWgHIgsSBVrTKr6vH4fP8j-snu72K2eHSkbu9I9g4shl7fIauvgWeottiZE-L3SkFOzYE/s1600/joint.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Technical details have emerged about two now-patched security flaws in Microsoft Windows that could be chained by threat actors to achieve remote code execution on the Outlook email service sans any user interaction.\n\"An attacker on the internet can chain the vulnerabilities together to create a full, zero-click remote code execution (RCE) exploit against Outlook clients,\" Akamai security",
-          "link": "https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html",
-          "publishedOn": "2023-12-18T15:43:00.000Z",
-          "wordCount": null,
-          "title": "Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxLIaBWZZCDgz-KiBhHs1u6rsMmBQU5L9Bwx-BwlvfiVLetzaaJQQLT7ne313XFLT_gtNieP5X7OXzQjNvU2SSHoa8eDaakhC-AH8LcDItGUgmv0lpIe7vb3msgvJgj4FGi2lHnkipnDA-7NDkVWr-0j8VgrBb7l24s4ueoqZ_jvOhX9zLEu23P7SNp2x/s1600/hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPxLIaBWZZCDgz-KiBhHs1u6rsMmBQU5L9Bwx-BwlvfiVLetzaaJQQLT7ne313XFLT_gtNieP5X7OXzQjNvU2SSHoa8eDaakhC-AH8LcDItGUgmv0lpIe7vb3msgvJgj4FGi2lHnkipnDA-7NDkVWr-0j8VgrBb7l24s4ueoqZ_jvOhX9zLEu23P7SNp2x/s1600/hacker.jpg"
         }
       ]
     },
