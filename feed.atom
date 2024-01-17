@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-17T17:28:31.837Z</updated>
+    <updated>2024-01-17T17:43:37.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2022,17 +2022,6 @@ The malware family,]]></summary>
         <summary type="html"><![CDATA[The threat actors associated with the 8220 Gang have been observed exploiting a high-severity flaw in Oracle WebLogic Server to propagate their malware.
 The security shortcoming is CVE-2020-14883 (CVSS score: 7.2), a remote code execution bug that could be exploited by authenticated attackers to take over susceptible servers.
 "This vulnerability allows remote authenticated]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double-Extortion Play Ransomware Strikes 300 Organizations Worldwide]]></title>
-        <id>https://thehackernews.com/2023/12/double-extortion-play-ransomware.html</id>
-        <link href="https://thehackernews.com/2023/12/double-extortion-play-ransomware.html"/>
-        <updated>2023-12-19T05:42:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the Play ransomware are estimated to have impacted approximately 300 entities as of October 2023, according to a new joint cybersecurity advisory from Australia and the U.S.
-"Play ransomware actors employ a double-extortion model, encrypting systems after exfiltrating data and have impacted a wide range of businesses and critical infrastructure organizations in North]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
