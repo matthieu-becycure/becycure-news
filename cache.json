@@ -1780,22 +1780,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOzOcqextZnjKZBvNlqemOzvdahmCMZHbB8eV20XRiPvzruXEnBaFlwW7FyyY8K8diws9ojIUz7zsKpwJP1BYhEvIugGqKTIQY9dHkMmB7kC1eiOxoTxEWCHcbsO9TP5f538RKQjetjdcdIzhjeRRfJ7unkq3O2oFUNO4E-GzDeNMhs-bGuKSCU71F0cX/s1600/ads.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGOzOcqextZnjKZBvNlqemOzvdahmCMZHbB8eV20XRiPvzruXEnBaFlwW7FyyY8K8diws9ojIUz7zsKpwJP1BYhEvIugGqKTIQY9dHkMmB7kC1eiOxoTxEWCHcbsO9TP5f538RKQjetjdcdIzhjeRRfJ7unkq3O2oFUNO4E-GzDeNMhs-bGuKSCU71F0cX/s1600/ads.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors associated with the 8220 Gang have been observed exploiting a high-severity flaw in Oracle WebLogic Server to propagate their malware.\nThe security shortcoming is CVE-2020-14883 (CVSS score: 7.2), a remote code execution bug that could be exploited by authenticated attackers to take over susceptible servers.\n\"This vulnerability allows remote authenticated",
-          "link": "https://thehackernews.com/2023/12/8220-gang-exploiting-oracle-weblogic.html",
-          "publishedOn": "2023-12-19T06:58:00.000Z",
-          "wordCount": null,
-          "title": "8220 Gang Exploiting Oracle WebLogic Server Vulnerability to Spread Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPBIGEn6Tb6zHdONyZIwEcpKerx9higjGLcFLGCB_JC5V-15V6zfxzy07IngDidAs5GP25qoFRPmqXIZQIAGBYBs3p1HqyQB0ott20xKMtUk5P74ko-OhOVaN1g_wfgLdEh8mYM1_Bz_qjgNu1OFWeBJKo9b5EeztYWfj8KsICm0AMqXQ7xP_4HqLYpoV/s1600/server-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAPBIGEn6Tb6zHdONyZIwEcpKerx9higjGLcFLGCB_JC5V-15V6zfxzy07IngDidAs5GP25qoFRPmqXIZQIAGBYBs3p1HqyQB0ott20xKMtUk5P74ko-OhOVaN1g_wfgLdEh8mYM1_Bz_qjgNu1OFWeBJKo9b5EeztYWfj8KsICm0AMqXQ7xP_4HqLYpoV/s1600/server-security.jpg"
         }
       ]
     },
