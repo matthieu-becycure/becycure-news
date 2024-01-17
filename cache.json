@@ -2507,16 +2507,6 @@
           "wordCount": 930,
           "title": "CERTFR-2023-AVI-1047 : Vulnérabilité dans macOS Sonoma (20 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Stormshield Network VPN Client. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1046/",
-          "publishedOn": "2023-12-19T08:41:05.000Z",
-          "wordCount": 932,
-          "title": "CERTFR-2023-AVI-1046 : Vulnérabilité dans Stormshield Network VPN Client (19 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
