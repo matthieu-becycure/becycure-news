@@ -2517,26 +2517,6 @@
           "wordCount": 932,
           "title": "CERTFR-2023-AVI-1046 : Vulnérabilité dans Stormshield Network VPN Client (19 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1045/",
-          "publishedOn": "2023-12-19T08:01:18.000Z",
-          "wordCount": 941,
-          "title": "CERTFR-2023-AVI-1045 : Vulnérabilité dans SPIP (19 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1044/",
-          "publishedOn": "2023-12-19T08:00:50.000Z",
-          "wordCount": 971,
-          "title": "CERTFR-2023-AVI-1044 : Multiples vulnérabilités dans OpenSSH (19 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
