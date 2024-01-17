@@ -2399,36 +2399,6 @@
           "wordCount": 971,
           "title": "CERTFR-2023-AVI-1044 : Multiples vulnérabilités dans OpenSSH (19 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1043/",
-          "publishedOn": "2023-12-18T13:48:53.000Z",
-          "wordCount": 1029,
-          "title": "CERTFR-2023-AVI-1043 : Multiples vulnérabilités dans Zimbra Collaboration (18 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans MISP. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1042/",
-          "publishedOn": "2023-12-18T13:15:36.000Z",
-          "wordCount": 926,
-          "title": "CERTFR-2023-AVI-1042 : Vulnérabilités dans MISP (18 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nextcloud Server. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1041/",
-          "publishedOn": "2023-12-18T13:05:58.000Z",
-          "wordCount": 1005,
-          "title": "CERTFR-2023-AVI-1041 : Multiples vulnérabilités dans Nextcloud Server (18 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
