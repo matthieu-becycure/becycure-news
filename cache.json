@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned that threat actors deploying the AndroxGh0st malware are creating a botnet for \"victim identification and exploitation in target networks.\"\nA Python-based malware, AndroxGh0st was first documented by Lacework in December 2022, with the malware",
+          "link": "https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html",
+          "publishedOn": "2024-01-17T11:14:00.000Z",
+          "wordCount": null,
+          "title": "Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BQ3UD4MI8YAITtng54VYiWmPDk4CUFoQGuAJPBWbjTZp2Z5nLEvVC2yvnvZ1M1w5DIFwMC-LmwPYnHXCdCGmjwhZWrl9_9AbNNhH4a3b0wsof4WyMsol9YvR0S66cIqd8kcK7EwrLOZ8vN2dJ9SCq1VvYgcVx3CCp-hupoUwTASXJ0CgQGdZznDdUipr/s1600/server.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_BQ3UD4MI8YAITtng54VYiWmPDk4CUFoQGuAJPBWbjTZp2Z5nLEvVC2yvnvZ1M1w5DIFwMC-LmwPYnHXCdCGmjwhZWrl9_9AbNNhH4a3b0wsof4WyMsol9YvR0S66cIqd8kcK7EwrLOZ8vN2dJ9SCq1VvYgcVx3CCp-hupoUwTASXJ0CgQGdZznDdUipr/s1600/server.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the digital age, the battleground for security professionals is not only evolving, it's expanding at an alarming rate. The upcoming webinar, \"The Art of Privilege Escalation - How Hackers Become Admins,\" offers an unmissable opportunity for IT security experts to stay ahead in this relentless cyber war.\nPrivilege escalation - the term might sound benign, but in the hands of a skilled hacker,",
+          "link": "https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html",
+          "publishedOn": "2024-01-17T10:59:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: The Art of Privilege Escalation - How Hackers Become Admins",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SZz7sJKDe9nvdxUZi7YQt8wV8TRGn3YhkLaROjHQduwQjguGYlDhBtnvI2ggWQpt3gi09CpTxKj6pKThWUwCGVIZW6uOUsN7NNX56l-MpNaFPmEGQ8zN6WLWONG6zAxRWLnpcJco147QAMx1ZDeF0J9bSQi8JadBEquKZkxVR6-zUWXxB6eLgYzUiu0/s1600/webinar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SZz7sJKDe9nvdxUZi7YQt8wV8TRGn3YhkLaROjHQduwQjguGYlDhBtnvI2ggWQpt3gi09CpTxKj6pKThWUwCGVIZW6uOUsN7NNX56l-MpNaFPmEGQ8zN6WLWONG6zAxRWLnpcJco147QAMx1ZDeF0J9bSQi8JadBEquKZkxVR6-zUWXxB6eLgYzUiu0/s1600/webinar.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have identified a \"lightweight method\" called iShutdown for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's Pegasus, QuaDream's Reign, and Intellexa's Predator. \nKaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file",
