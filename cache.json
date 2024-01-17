@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub has revealed that it has rotated some keys in response to a security vulnerability that could be potentially exploited to gain access to credentials within a production container.\nThe Microsoft-owned subsidiary said it was made aware of the problem on December 26, 2023, and that it addressed the issue the same day, in addition to rotating all potentially exposed credentials out of an",
+          "link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
+          "publishedOn": "2024-01-17T07:41:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Citrix is warning of two zero-day security vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that are being actively exploited in the wild.\nThe flaws are listed below -\n\nCVE-2023-6548 (CVSS score: 5.5) - Authenticated (low privileged) remote code execution on Management Interface (requires access to NSIP, CLIP, or SNIP with management",
