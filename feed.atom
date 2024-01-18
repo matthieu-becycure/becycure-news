@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-18T16:44:10.573Z</updated>
+    <updated>2024-01-18T17:10:09.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic]]></title>
+        <id>https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html</id>
+        <link href="https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html"/>
+        <updated>2024-01-18T16:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Vulnerable Docker services are being targeted by a novel campaign in which the threat actors are deploying XMRig cryptocurrency miner as well as the 9Hits Viewer software as part of a multi-pronged monetization strategy.
+"This is the first documented case of malware deploying the 9Hits application as a payload," cloud security firm Cado said, adding the development is a sign that adversaries are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware]]></title>
         <id>https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html</id>
