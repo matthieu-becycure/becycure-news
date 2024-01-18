@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called Mind Sandstorm since November 2023.\nThe threat actor \"used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files,\" the",
+          "link": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
+          "publishedOn": "2024-01-18T04:16:00.000Z",
+          "wordCount": null,
+          "title": "Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The point-of-sale (PoS) terminals from PAX Technology are impacted by a collection of high-severity vulnerabilities that can be weaponized by threat actors to execute arbitrary code.\nThe STM Cyber R&D team, which reverse engineered the Android-based devices manufactured by the Chinese firm owing to their rapid deployment in Poland, said it unearthed half a dozen flaws that allow for",
