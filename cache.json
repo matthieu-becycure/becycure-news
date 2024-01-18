@@ -1716,22 +1716,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfIKcDHgmwGGCeYWjOotHY6Qtz5XofeqOjjVmqEiMSvd-X-bS0XoMU4cgQX_s_0smTvW4JI2cvxGC4TuS5Zlut42DvlNFtgR47zb-85hmIXY4B0SUBuzaYlBpSOz8SNkceZm6FJpDNtPtHNm7rfy_5JGClruTETcrt-mHqnRt6FzZ8JvyqlDmpRsZ6Rqe2/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfIKcDHgmwGGCeYWjOotHY6Qtz5XofeqOjjVmqEiMSvd-X-bS0XoMU4cgQX_s_0smTvW4JI2cvxGC4TuS5Zlut42DvlNFtgR47zb-85hmIXY4B0SUBuzaYlBpSOz8SNkceZm6FJpDNtPtHNm7rfy_5JGClruTETcrt-mHqnRt6FzZ8JvyqlDmpRsZ6Rqe2/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are increasingly making use of GitHub for malicious purposes through novel methods, including abusing secret Gists and issuing malicious commands via git commit messages.\n\"Malware authors occasionally place their samples in services like Dropbox, Google Drive, OneDrive, and Discord to host second stage malware and sidestep detection tools,\" ReversingLabs researcher Karlo Zanki",
-          "link": "https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html",
-          "publishedOn": "2023-12-19T13:30:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_ipJ2GabZd2TxPHdUKik-CRbSehJqK1n0bqZIKGV-WW_4a5c6P3rn-YlWJEEQtDgVzIf7gVqU71wuogGrSaZUtJeLFN9baavu4eD1r2ZS-pUUTOjLVQmRNqyyci7cRGygaHFDDZQYORNZpDrW53MkRxl1xH7x6vS0MsrtvXe3GnjMEvu7QWUWCgZuvU/s1600/hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_ipJ2GabZd2TxPHdUKik-CRbSehJqK1n0bqZIKGV-WW_4a5c6P3rn-YlWJEEQtDgVzIf7gVqU71wuogGrSaZUtJeLFN9baavu4eD1r2ZS-pUUTOjLVQmRNqyyci7cRGygaHFDDZQYORNZpDrW53MkRxl1xH7x6vS0MsrtvXe3GnjMEvu7QWUWCgZuvU/s1600/hacking.jpg"
         }
       ]
     },
