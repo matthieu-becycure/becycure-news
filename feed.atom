@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-18T19:43:51.158Z</updated>
+    <updated>2024-01-18T20:11:23.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2000,18 +2000,6 @@ The Growing Threat of]]></summary>
         <updated>2023-12-20T08:39:00.000Z</updated>
         <summary type="html"><![CDATA[A six-month-long international police operation codenamed HAECHI-IV has resulted in the arrests of nearly 3,500 individuals and seizures worth $300 million across 34 countries.
 The exercise, which took place from July through December 2023, took aim at various types of financial crimes such as voice phishing, romance scams, online sextortion, investment fraud, money laundering]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Go-Based JaskaGO Malware Targeting Windows and macOS Systems]]></title>
-        <id>https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html</id>
-        <link href="https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html"/>
-        <updated>2023-12-20T08:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Go-based information stealer malware called JaskaGO has emerged as the latest cross-platform threat to infiltrate both Windows and Apple macOS systems.
-AT&T Alien Labs, which made the discovery, said the malware is "equipped with an extensive array of commands from its command-and-control (C&C) server."
-Artifacts designed for macOS were first observed in July]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
