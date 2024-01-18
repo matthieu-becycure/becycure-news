@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-18T15:43:43.992Z</updated>
+    <updated>2024-01-18T16:13:12.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware]]></title>
+        <id>https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html</id>
+        <link href="https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html"/>
+        <updated>2024-01-18T14:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked threat actor known as COLDRIVER has been observed evolving its tradecraft to go beyond credential harvesting to deliver its first-ever custom malware written in the Rust programming language.
+Google's Threat Analysis Group (TAG), which shared details of the latest activity, said the attack chains leverage PDFs as decoy documents to trigger the infection sequence. The lures are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0053 : Multiples vulnérabilités dans les produits Nextcloud (18 janvier 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/</id>
