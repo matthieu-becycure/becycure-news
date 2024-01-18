@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in the TCP/IP network protocol stack of an open-source reference implementation of the Unified Extensible Firmware Interface (UEFI) specification used widely in modern computers.\nCollectively dubbed PixieFail by Quarkslab, the nine issues reside in the TianoCore EFI Development Kit II (EDK II) and could be exploited to",
+          "link": "https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html",
+          "publishedOn": "2024-01-18T09:19:00.000Z",
+          "wordCount": null,
+          "title": "PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s1600/pc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNWIsiKwacy9pHSek3CuMJl6iqKDHAd2A7Y_FEs3nBLdQUli3NPkknFZN1w7CI6mspCKb6DE2jl-JOyxVO1p_-1C4dl0W3ttdAJERTnpluUULIrxK9l1BEG3YNoQoLDlPCuCYPLNP1xu23sxuGNsRw9pRe8cQsOu-e2_67xPwDU8B6DBqCePEgR-ayd9KK/s1600/pc.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called Mind Sandstorm since November 2023.\nThe threat actor \"used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files,\" the",
