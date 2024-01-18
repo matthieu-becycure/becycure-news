@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-18T17:43:52.229Z</updated>
+    <updated>2024-01-18T18:13:31.216Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ACT-004 : Multiples vulnérabilités dans les implémentations d’UEFI (18 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-004/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-004/"/>
+        <updated>2024-01-18T17:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Exécution de code arbitraire à distance
+ 	Déni de service à distance
+ 	Contournement de la politique de sécurité
+ 	Atteinte à …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic]]></title>
         <id>https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html</id>
