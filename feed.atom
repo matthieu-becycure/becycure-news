@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-18T22:09:41.614Z</updated>
+    <updated>2024-01-18T22:29:28.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1978,17 +1978,6 @@ Clément]]></summary>
         <summary type="html"><![CDATA[Hands-On Review: Memcyco’s Threat Intelligence Solution
 Website impersonation, also known as brandjacking or website spoofing, has emerged as a significant threat to online businesses. Malicious actors clone legitimate websites to trick customers, leading to financial scams and data theft causing reputation damage and financial losses for both organizations and customers.
 The Growing Threat of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave]]></title>
-        <id>https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html</id>
-        <link href="https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html"/>
-        <updated>2023-12-20T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The Chinese-speaking threat actors behind Smishing Triad have been observed masquerading as the United Arab Emirates Federal Authority for Identity and Citizenship to send malicious SMS messages with the ultimate goal of gathering sensitive information from residents and foreigners in the country.
-"These criminals send malicious links to their victims' mobile devices through SMS or]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
