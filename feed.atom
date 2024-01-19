@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T15:26:01.050Z</updated>
+    <updated>2024-01-19T15:43:31.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0057 : Multiples vulnérabilités dans les produits IBM (19 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/"/>
+        <updated>2024-01-19T13:15:51.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0056 : Multiples vulnérabilités dans le noyau Linux de RedHat (19 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/"/>
+        <updated>2024-01-19T13:11:41.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software]]></title>
         <id>https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html</id>
@@ -19,6 +39,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0055 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/"/>
+        <updated>2024-01-19T12:45:29.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators]]></title>
         <id>https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html</id>
         <link href="https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html"/>
@@ -27,6 +57,16 @@
 In]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0054 : Vulnérabilité dans Exim (19 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/"/>
+        <updated>2024-01-19T08:04:24.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -1989,18 +2029,6 @@ Kingdom]]></summary>
         <updated>2023-12-21T07:22:00.000Z</updated>
         <summary type="html"><![CDATA[Attackers are weaponizing an old Microsoft Office vulnerability as part of phishing campaigns to distribute a strain of malware called Agent Tesla.
 The infection chains leverage decoy Excel documents attached in invoice-themed messages to trick potential targets into opening them and activate the exploitation of CVE-2017-11882 (CVSS score: 7.8), a memory corruption vulnerability in Office's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: New Chrome Zero-Day Vulnerability Exploited in the Wild - Update ASAP]]></title>
-        <id>https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html</id>
-        <link href="https://thehackernews.com/2023/12/urgent-new-chrome-zero-day.html"/>
-        <updated>2023-12-21T03:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has rolled out security updates for the Chrome web browser to address a high-severity zero-day flaw that it said has been exploited in the wild.
-The vulnerability, assigned the CVE identifier CVE-2023-7024, has been described as a heap-based buffer overflow bug in the WebRTC framework that could be exploited to result in program crashes or arbitrary code execution.
-Clément]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
