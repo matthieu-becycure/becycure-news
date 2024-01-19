@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Pirated applications targeting Apple macOS users have been observed containing a backdoor capable of granting attackers remote control to infected machines.\n\"These applications are being hosted on Chinese pirating websites in order to gain victims,\" Jamf Threat Labs researchers Ferdous Saljooki and Jaron Bradley said.\n\"Once detonated, the malware will download and execute multiple payloads",
+          "link": "https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html",
+          "publishedOn": "2024-01-19T12:48:00.000Z",
+          "wordCount": null,
+          "title": "Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkXkxdNRtZNXp1DS_Pw9yRSuqpnezbrllMujBHo37CikXiRJDNZ1FE21nwY7o1Hj5efS0ptblGP98cgYQqUF30m5Y31nO6YqPFrlPF3cAu3wwDpRyPoEgcuwUzc8ZWQKkcpw1oOI_OFnkT4CeEr0U7gVUhSgirCWKsxpjBebK3UTfPHjj6hrNTyNtIE3m/s1600/macos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkXkxdNRtZNXp1DS_Pw9yRSuqpnezbrllMujBHo37CikXiRJDNZ1FE21nwY7o1Hj5efS0ptblGP98cgYQqUF30m5Y31nO6YqPFrlPF3cAu3wwDpRyPoEgcuwUzc8ZWQKkcpw1oOI_OFnkT4CeEr0U7gVUhSgirCWKsxpjBebK3UTfPHjj6hrNTyNtIE3m/s1600/macos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the current digital landscape, data has emerged as a crucial asset for organizations, akin to currency. It’s the lifeblood of any organization in today's interconnected and digital world. Thus, safeguarding the data is of paramount importance. Its importance is magnified in on-premises Exchange Server environments where vital business communication and emails are stored and managed. \nIn",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T13:43:40.373Z</updated>
+    <updated>2024-01-19T14:10:04.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software]]></title>
+        <id>https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html</id>
+        <link href="https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html"/>
+        <updated>2024-01-19T12:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Pirated applications targeting Apple macOS users have been observed containing a backdoor capable of granting attackers remote control to infected machines.
+"These applications are being hosted on Chinese pirating websites in order to gain victims," Jamf Threat Labs researchers Ferdous Saljooki and Jaron Bradley said.
+"Once detonated, the malware will download and execute multiple payloads]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators]]></title>
         <id>https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html</id>
