@@ -2499,26 +2499,6 @@
           "wordCount": 941,
           "title": "CERTFR-2023-AVI-1052 : Vulnérabilité dans SolarWinds Access Rights Manager (22 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.\n Google indique que la vulnérabilité CVE-2023-7024 est activement exploitée.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1051/",
-          "publishedOn": "2023-12-21T09:31:49.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2023-AVI-1051 : Vulnérabilité dans Google Chrome (21 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1050/",
-          "publishedOn": "2023-12-21T09:28:01.000Z",
-          "wordCount": 1200,
-          "title": "CERTFR-2023-AVI-1050 : Multiples vulnérabilités dans Moodle (21 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
