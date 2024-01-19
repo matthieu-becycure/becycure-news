@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T00:50:34.232Z</updated>
+    <updated>2024-01-19T01:55:02.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1955,17 +1955,6 @@ The infection chains leverage decoy Excel documents attached in invoice-themed m
         <summary type="html"><![CDATA[Google has rolled out security updates for the Chrome web browser to address a high-severity zero-day flaw that it said has been exploited in the wild.
 The vulnerability, assigned the CVE identifier CVE-2023-7024, has been described as a heap-based buffer overflow bug in the WebRTC framework that could be exploited to result in program crashes or arbitrary code execution.
 Clément]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster]]></title>
-        <id>https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html</id>
-        <link href="https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html"/>
-        <updated>2023-12-20T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware groups are increasingly switching to remote encryption in their attacks, marking a new escalation in tactics adopted by financially motivated actors to ensure the success of their campaigns.
-"Companies can have thousands of computers connected to their network, and with remote ransomware, all it takes is one underprotected device to compromise the entire network," Mark Loman, vice]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
