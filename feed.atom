@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T22:43:40.030Z</updated>
+    <updated>2024-01-19T23:09:00.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1963,18 +1963,6 @@ The findings come from Microsoft, which is tracking the activity under its weath
         <updated>2023-12-21T12:38:00.000Z</updated>
         <summary type="html"><![CDATA[A new piece of JavaScript malware has been observed attempting to steal users' online banking account credentials as part of a campaign that has targeted more than 40 financial institutions across the world.
 The activity cluster, which employs JavaScript web injections, is estimated to have led to at least 50,000 infected user sessions spanning North America, South America, Europe, and Japan.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cost of a Data Breach Report 2023: Insights, Mitigators and Best Practices]]></title>
-        <id>https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html</id>
-        <link href="https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html"/>
-        <updated>2023-12-21T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[John Hanley of IBM Security shares 4 key findings from the highly acclaimed annual Cost of a Data Breach Report 2023
-What is the IBM Cost of a Data Breach Report?
-The IBM Cost of a Data Breach Report is an annual report that provides organizations with quantifiable information about the financial impacts of breaches. With this data, they can make data driven decisions about how they implement]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
