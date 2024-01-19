@@ -1732,22 +1732,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3LJjT7JUOiYdaca1olMkBe0B8uT6td-FM7Eb_-lKaWWAImTaESzYPNlUpEx8ElKxiU7U8hCjz1hP5zfclttK0ch8kj4he7XwEFVl7whvB-pbncHs5-SXOLeI0iTCo3AxLdjsyFEWgsGJGg968TH-j3odZJMO2rbiJ5Zvv-fbhRN8JbkDnXzAnaBr1ahk/s1600/darkweb.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs3LJjT7JUOiYdaca1olMkBe0B8uT6td-FM7Eb_-lKaWWAImTaESzYPNlUpEx8ElKxiU7U8hCjz1hP5zfclttK0ch8kj4he7XwEFVl7whvB-pbncHs5-SXOLeI0iTCo3AxLdjsyFEWgsGJGg968TH-j3odZJMO2rbiJ5Zvv-fbhRN8JbkDnXzAnaBr1ahk/s1600/darkweb.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Attackers are weaponizing an old Microsoft Office vulnerability as part of phishing campaigns to distribute a strain of malware called Agent Tesla.\nThe infection chains leverage decoy Excel documents attached in invoice-themed messages to trick potential targets into opening them and activate the exploitation of CVE-2017-11882 (CVSS score: 7.8), a memory corruption vulnerability in Office's",
-          "link": "https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html",
-          "publishedOn": "2023-12-21T07:22:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploiting Old MS Excel Vulnerability to Spread Agent Tesla Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPN1jwcXXFEJQpsMXxrO-JATM5IOffRPNo2fetyPiaQZpK2IFiJv60ZZjQlJgAXNInpvfiEGrSgC1DGqJdjhoI4sO5CshuH0O752qmF3fMCfkziOWktT2kkIwiGRxoIBF0SMF56yizMYeAcIQtCWxIr2dxlnY9CtnT31aISIZgUU1a8luFroU0ut20pct/s1600/phishing.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhPN1jwcXXFEJQpsMXxrO-JATM5IOffRPNo2fetyPiaQZpK2IFiJv60ZZjQlJgAXNInpvfiEGrSgC1DGqJdjhoI4sO5CshuH0O752qmF3fMCfkziOWktT2kkIwiGRxoIBF0SMF56yizMYeAcIQtCWxIr2dxlnY9CtnT31aISIZgUU1a8luFroU0ut20pct/s1600/phishing.jpg"
         }
       ]
     },
