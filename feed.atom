@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T21:43:41.017Z</updated>
+    <updated>2024-01-19T22:09:37.857Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1975,18 +1975,6 @@ The activity cluster, which employs JavaScript web injections, is estimated to h
         <summary type="html"><![CDATA[John Hanley of IBM Security shares 4 key findings from the highly acclaimed annual Cost of a Data Breach Report 2023
 What is the IBM Cost of a Data Breach Report?
 The IBM Cost of a Data Breach Report is an annual report that provides organizations with quantifiable information about the financial impacts of breaches. With this data, they can make data driven decisions about how they implement]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[German Authorities Dismantle Dark Web Hub 'Kingdom Market' in Global Operation]]></title>
-        <id>https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html</id>
-        <link href="https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html"/>
-        <updated>2023-12-21T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[German law enforcement has announced the disruption of a dark web platform called Kingdom Market that specialized in the sales of narcotics and malware to "tens of thousands of users."
-The exercise, which involved collaboration from authorities from the U.S., Switzerland, Moldova, and Ukraine, began on December 16, 2023, the Federal Criminal Police Office (BKA) said.
-Kingdom]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
