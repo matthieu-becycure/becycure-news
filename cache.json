@@ -2431,26 +2431,6 @@
           "wordCount": 1115,
           "title": "CERTFR-2023-AVI-1054 : Multiples vulnérabilités dans le noyau Linux de SUSE (22 décembre 2023)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1053/",
-          "publishedOn": "2023-12-22T10:17:59.000Z",
-          "wordCount": 1008,
-          "title": "CERTFR-2023-AVI-1053 : Vulnérabilité dans les produits ESET (22 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1052/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1052/",
-          "publishedOn": "2023-12-22T10:12:43.000Z",
-          "wordCount": 941,
-          "title": "CERTFR-2023-AVI-1052 : Vulnérabilité dans SolarWinds Access Rights Manager (22 décembre 2023)",
-          "imageUrl": null
         }
       ]
     }
