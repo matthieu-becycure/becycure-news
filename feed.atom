@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-20T17:27:13.967Z</updated>
+    <updated>2024-01-20T17:43:41.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1963,18 +1963,6 @@ The activity, first detected in October 2023, has been codenamed Operation Rust
         <summary type="html"><![CDATA[The threat actor known as UAC-0099 has been linked to continued attacks aimed at Ukraine, some of which leverage a high-severity flaw in the WinRAR software to deliver a malware strain called LONEPAGE.
 "The threat actor targets Ukrainian employees working for companies outside of Ukraine," cybersecurity firm Deep Instinct said in a Thursday analysis.
 UAC-0099 was first]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Warns of New 'FalseFont' Backdoor Targeting the Defense Sector]]></title>
-        <id>https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html</id>
-        <link href="https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html"/>
-        <updated>2023-12-22T05:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Organizations in the Defense Industrial Base (DIB) sector are in the crosshairs of an Iranian threat actor as part of a campaign designed to deliver a never-before-seen backdoor called FalseFont.
-The findings come from Microsoft, which is tracking the activity under its weather-themed moniker Peach Sandstorm (formerly Holmium), which is also known as APT33, Elfin, and Refined Kitten.
-"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
