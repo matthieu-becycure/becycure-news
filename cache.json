@@ -1700,22 +1700,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered an updated version of an Android banking malware called Chameleon that has expanded its targeting to include users in the U.K. and Italy.\n\"Representing a restructured and enhanced iteration of its predecessor, this evolved Chameleon variant excels in executing Device Takeover (DTO) using the accessibility service, all while expanding its targeted region,",
-          "link": "https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html",
-          "publishedOn": "2023-12-21T16:21:00.000Z",
-          "wordCount": null,
-          "title": "Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_62nm8lMXg2hrYUQB5t0fDLlXHwkSJduuVz4UJ_7aboqXDV6TGcXHze-dtrUl_REoV722Mn4JhyLzuR3pUeWicu8YgnQD23MWd0CUdaG0ODquQyO2BD43tQoTqxpVeyTQvJFwQuqsP5pToHrKRTBLSNX7PKMFB9vsAcfGhyphenhyphen2osO2Oa90Fh1adpvO2lo2/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_62nm8lMXg2hrYUQB5t0fDLlXHwkSJduuVz4UJ_7aboqXDV6TGcXHze-dtrUl_REoV722Mn4JhyLzuR3pUeWicu8YgnQD23MWd0CUdaG0ODquQyO2BD43tQoTqxpVeyTQvJFwQuqsP5pToHrKRTBLSNX7PKMFB9vsAcfGhyphenhyphen2osO2Oa90Fh1adpvO2lo2/s1600/malware.jpg"
         }
       ]
     },
