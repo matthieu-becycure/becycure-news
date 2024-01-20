@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an emergency directive urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products.\nThe development came after the vulnerabilities – an authentication bypass",
+          "link": "https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html",
+          "publishedOn": "2024-01-20T04:31:00.000Z",
+          "wordCount": null,
+          "title": "CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYpVGKV2DaxQbv7Ry0cnA3mKN35Ri4xZ5wGkp5CpGjfElWgL9TMrZOdisJKxFo6BG863794Ufi8BkijFQODwPr5Z044e4mcmryBM1x7bSnxomsqxW0NlHXwu3JDl-oloZmoyNw64JNE71N94N2hpgNb05qo2rWkbIzqUoA30kXr_qtgKZKwliiSMawYqR/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYpVGKV2DaxQbv7Ry0cnA3mKN35Ri4xZ5wGkp5CpGjfElWgL9TMrZOdisJKxFo6BG863794Ufi8BkijFQODwPr5Z044e4mcmryBM1x7bSnxomsqxW0NlHXwu3JDl-oloZmoyNw64JNE71N94N2hpgNb05qo2rWkbIzqUoA30kXr_qtgKZKwliiSMawYqR/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Friday revealed that it was the target of a nation-state attack on its corporate systems that resulted in the theft of emails and attachments from senior executives and other individuals in the company's cybersecurity and legal departments.\nThe Windows maker attributed the attack to a Russian advanced persistent threat (APT) group it tracks as Midnight Blizzard (formerly",
@@ -1684,22 +1700,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB69Bn15h7_TGrPXaIXGo2oQmE9ZlX_ahcNj8MoSywxowN1HEXalL0sbHz55Ht4HsRweG6mbh_Ag2clndX5asiZju6z0dtIRueLCil3WNpgEEqfHbzQY6wSc_rlbk3NrZtEc_7ourr2dBFxE37LC1JZwY9I2dc63KDw4BGzSmFvYU1CmuegcctuWQg-1b8/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB69Bn15h7_TGrPXaIXGo2oQmE9ZlX_ahcNj8MoSywxowN1HEXalL0sbHz55Ht4HsRweG6mbh_Ag2clndX5asiZju6z0dtIRueLCil3WNpgEEqfHbzQY6wSc_rlbk3NrZtEc_7ourr2dBFxE37LC1JZwY9I2dc63KDw4BGzSmFvYU1CmuegcctuWQg-1b8/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new analysis of the sophisticated commercial spyware called Predator has revealed that its ability to persist between reboots is offered as an \"add-on feature\" and that it depends on the licensing options opted by a customer.\n\"In 2021, Predator spyware couldn't survive a reboot on the infected Android system (it had it on iOS),\" Cisco Talos researchers Mike Gentile, Asheer Malhotra, and Vitor",
-          "link": "https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html",
-          "publishedOn": "2023-12-21T16:48:00.000Z",
-          "wordCount": null,
-          "title": "Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0nixPG2RVMj8f4DzLwQtPxnYpTn0sF7fnJkwFQAPcMBZ1dyNwjgZlyMmo-KRZizbvNZkKa7KGOdso7s9f-brg0xR9U_nsw9bhiAcLRqOcTtNwrRRfC2-RbkV8S4ta29NHlugJ046xHdIgD6WL0gwj-qQ_Sdinb5qjGX1pbjudZ0iQwEzWPqnC4Kl0r1AK/s1600/spyware.jpg"
         }
       ]
     },

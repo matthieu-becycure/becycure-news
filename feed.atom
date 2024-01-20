@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-20T04:43:38.719Z</updated>
+    <updated>2024-01-20T05:09:42.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits]]></title>
+        <id>https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html</id>
+        <link href="https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html"/>
+        <updated>2024-01-20T04:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an emergency directive urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products.
+The development came after the vulnerabilities – an authentication bypass]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack]]></title>
         <id>https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html</id>
@@ -1953,17 +1964,6 @@ UAC-0099 was first]]></summary>
         <summary type="html"><![CDATA[Organizations in the Defense Industrial Base (DIB) sector are in the crosshairs of an Iranian threat actor as part of a campaign designed to deliver a never-before-seen backdoor called FalseFont.
 The findings come from Microsoft, which is tracking the activity under its weather-themed moniker Peach Sandstorm (formerly Holmium), which is also known as APT33, Elfin, and Refined Kitten.
 "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware]]></title>
-        <id>https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html</id>
-        <link href="https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html"/>
-        <updated>2023-12-21T16:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A new analysis of the sophisticated commercial spyware called Predator has revealed that its ability to persist between reboots is offered as an "add-on feature" and that it depends on the licensing options opted by a customer.
-"In 2021, Predator spyware couldn't survive a reboot on the infected Android system (it had it on iOS)," Cisco Talos researchers Mike Gentile, Asheer Malhotra, and Vitor]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
