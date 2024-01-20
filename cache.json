@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been linked to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021.\n\"UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further",
+          "link": "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html",
+          "publishedOn": "2024-01-20T10:23:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae4BKSHIBZAWnWe1xne2EolHLttrw6DhyKijIlaeT133JWl2u7McVSO1la1WgD09rxrOVR8tk13-yaaSQkrkrEpTZDZmAWInsAX9kI2AF97KM5kYy6htBD_XY6guBKxuRoiY-2J9FYyFbb-X6NJb_32Il1-VwYjuZof4PuBWEvDTzhxXEXe5-7T9hn1aO/s1600/hacking-chinese-iron-tiger-apt.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiae4BKSHIBZAWnWe1xne2EolHLttrw6DhyKijIlaeT133JWl2u7McVSO1la1WgD09rxrOVR8tk13-yaaSQkrkrEpTZDZmAWInsAX9kI2AF97KM5kYy6htBD_XY6guBKxuRoiY-2J9FYyFbb-X6NJb_32Il1-VwYjuZof4PuBWEvDTzhxXEXe5-7T9hn1aO/s1600/hacking-chinese-iron-tiger-apt.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an emergency directive urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products.\nThe development came after the vulnerabilities – an authentication bypass",
