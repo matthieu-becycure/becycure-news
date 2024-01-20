@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-19T23:43:32.680Z</updated>
+    <updated>2024-01-20T00:49:25.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1952,17 +1952,6 @@ The findings come from Microsoft, which is tracking the activity under its weath
         <updated>2023-12-21T16:21:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated version of an Android banking malware called Chameleon that has expanded its targeting to include users in the U.K. and Italy.
 "Representing a restructured and enhanced iteration of its predecessor, this evolved Chameleon variant excels in executing Device Takeover (DTO) using the accessibility service, all while expanding its targeted region,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New JavaScript Malware Targeted 50,000+ Users at Dozens of Banks Worldwide]]></title>
-        <id>https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html</id>
-        <link href="https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html"/>
-        <updated>2023-12-21T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[A new piece of JavaScript malware has been observed attempting to steal users' online banking account credentials as part of a campaign that has targeted more than 40 financial institutions across the world.
-The activity cluster, which employs JavaScript web injections, is estimated to have led to at least 50,000 infected user sessions spanning North America, South America, Europe, and Japan.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
