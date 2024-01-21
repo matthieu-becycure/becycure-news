@@ -1652,22 +1652,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLxje8058n4vg7HoH8llmYc-UuLKcytfRFIYL4lAZ1wdjww37rhjkLR8jnZ7vtxEKzGZZoXZs1y8mcNcQRQS60LvIrjIuq769CyQX_24gcUFMqt6Xt5HrONilXG_lo4ESjnq8ao3nGoD7JemTrGZy9cBDsKIcXiNAb6QiTxn8Ug0HWLGvK7aaGmfwbK-z_/s1600/hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLxje8058n4vg7HoH8llmYc-UuLKcytfRFIYL4lAZ1wdjww37rhjkLR8jnZ7vtxEKzGZZoXZs1y8mcNcQRQS60LvIrjIuq769CyQX_24gcUFMqt6Xt5HrONilXG_lo4ESjnq8ao3nGoD7JemTrGZy9cBDsKIcXiNAb6QiTxn8Ug0HWLGvK7aaGmfwbK-z_/s1600/hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Indian government entities and the defense sector have been targeted by a phishing campaign that's engineered to drop Rust-based malware for intelligence gathering.\nThe activity, first detected in October 2023, has been codenamed Operation RusticWeb by enterprise security firm SEQRITE.\n\"New Rust-based payloads and encrypted PowerShell commands have been utilized to exfiltrate",
-          "link": "https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html",
-          "publishedOn": "2023-12-22T13:19:00.000Z",
-          "wordCount": null,
-          "title": "Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9NqDZztoUTfMfYFouk4hkZlKHAn1_4NojAVyIixtGzMkd5w02AavMhiuCHKxDOGbdwew5h5NRfZdmOjc5SH19-UMxxw5Z0I3rcd3XRDaw5gE85U1JA_nC27jxci1lHBUz03QnJPNtDUvShV36m7DKPeB1qmmDjpS8lluB9vfVdts-1_Ki-jeDJvA69Hg/s1600/cyberattac.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9NqDZztoUTfMfYFouk4hkZlKHAn1_4NojAVyIixtGzMkd5w02AavMhiuCHKxDOGbdwew5h5NRfZdmOjc5SH19-UMxxw5Z0I3rcd3XRDaw5gE85U1JA_nC27jxci1lHBUz03QnJPNtDUvShV36m7DKPeB1qmmDjpS8lluB9vfVdts-1_Ki-jeDJvA69Hg/s1600/cyberattac.jpg"
         }
       ]
     },
@@ -2374,36 +2358,6 @@
           "publishedOn": "2023-12-26T08:57:34.000Z",
           "wordCount": 956,
           "title": "CERTFR-2023-AVI-1058 : Vulnérabilité dans Stormshield Network Security (26 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1057/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans . Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1057/",
-          "publishedOn": "2023-12-22T13:56:55.000Z",
-          "wordCount": 922,
-          "title": "CERTFR-2023-AVI-1057 : Vulnérabilité dans Postfix (22 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1056/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1056/",
-          "publishedOn": "2023-12-22T13:48:50.000Z",
-          "wordCount": 941,
-          "title": "CERTFR-2023-AVI-1056 : Vulnérabilité dans Microsoft Edge (22 décembre 2023)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une exécution de code arbitraire à distance, un déni de service à distance et une …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2023-AVI-1055/",
-          "publishedOn": "2023-12-22T12:58:51.000Z",
-          "wordCount": 1231,
-          "title": "CERTFR-2023-AVI-1055 : Multiples vulnérabilités dans les produits IBM (22 décembre 2023)",
           "imageUrl": null
         }
       ]
