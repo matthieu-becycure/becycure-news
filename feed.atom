@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-21T04:43:42.664Z</updated>
+    <updated>2024-01-21T05:34:41.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -1856,18 +1856,6 @@ Cloud Atlas, active since at]]></summary>
         <updated>2023-12-24T05:48:00.000Z</updated>
         <summary type="html"><![CDATA[Two British teens part of the LAPSUS$ cyber crime and extortion gang have been sentenced for their roles in orchestrating a string of high-profile attacks against a number of companies.
 Arion Kurtaj, an 18-year-old from Oxford, has been sentenced to an indefinite hospital order due to his intent to get back to cybercrime "as soon as possible," BBC reported. Kurtaj, who is autistic, was]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft]]></title>
-        <id>https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html</id>
-        <link href="https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html"/>
-        <updated>2023-12-22T16:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat hunters have discovered a rogue WordPress plugin that's capable of creating bogus administrator users and injecting malicious JavaScript code to steal credit card information.
-The skimming activity is part of a Magecart campaign targeting e-commerce websites, according to Sucuri.
-"As with many other malicious or fake WordPress plugins it contains some deceptive information at]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
