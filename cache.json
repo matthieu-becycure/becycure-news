@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are warning of a \"notable increase\" in threat actor activity actively exploiting a now-patched flaw in Apache ActiveMQ to deliver the Godzilla web shell on compromised hosts.\n\n\"The web shells are concealed within an unknown binary format and are designed to evade security and signature-based scanners,\" Trustwave said. \"Notably, despite the binary's unknown file",
+          "link": "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html",
+          "publishedOn": "2024-01-22T03:40:00.000Z",
+          "wordCount": null,
+          "title": "Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-_h0-lBAtctWY3cUcnEfl1kUAOqyVdEjYyQB_mGFwLnr8L23UtGrafSYPm1IUyat1A0nuNHviEVA1H4lepPHUEj6aOPmUu3foyGc-PBhp1lF9tO0g7qM9n6xTwZieSFA5lQyNrVXMI0NKt5ERq0efBvy8Eq28v4hvwEP0azfUHey-Kckxt-uCixmssVD/s1600/cyber-attack-bank-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-_h0-lBAtctWY3cUcnEfl1kUAOqyVdEjYyQB_mGFwLnr8L23UtGrafSYPm1IUyat1A0nuNHviEVA1H4lepPHUEj6aOPmUu3foyGc-PBhp1lF9tO0g7qM9n6xTwZieSFA5lQyNrVXMI0NKt5ERq0efBvy8Eq28v4hvwEP0azfUHey-Kckxt-uCixmssVD/s1600/cyber-attack-bank-malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been linked to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021.\n\"UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further",
