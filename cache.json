@@ -1709,6 +1709,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/",
+          "publishedOn": "2024-01-22T12:50:10.000Z",
+          "wordCount": 963,
+          "title": "CERTFR-2024-AVI-0059 : Vulnérabilité dans Spring Framework (22 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/",
+          "publishedOn": "2024-01-22T12:37:15.000Z",
+          "wordCount": 976,
+          "title": "CERTFR-2024-AVI-0058 : Vulnérabilité dans Postfix (22 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-005/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-005/",
+          "publishedOn": "2024-01-22T10:31:44.000Z",
+          "wordCount": 1868,
+          "title": "CERTFR-2024-ACT-005 : Bulletin d’actualité CERTFR-2024-ACT-005 (22 janvier 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
