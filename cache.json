@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors have begun to actively exploit a recently disclosed critical security flaw impacting Atlassian Confluence Data Center and Confluence Server, within three days of public disclosure.\nTracked as CVE-2023-22527 (CVSS score: 10.0), the vulnerability impacts out-of-date versions of the software, allowing unauthenticated attackers to achieve remote code execution on susceptible",
+          "link": "https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html",
+          "publishedOn": "2024-01-23T09:34:00.000Z",
+          "wordCount": null,
+          "title": "~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple on Monday released security updates for iOS, iPadOS, macOS, tvOS, and Safari web browser to address a zero-day flaw that has come under active exploitation in the wild.\nThe issue, tracked as CVE-2024-23222, is a type confusion bug that could be exploited by a threat actor to achieve arbitrary code execution when processing maliciously crafted web content. The tech giant said the problem",
