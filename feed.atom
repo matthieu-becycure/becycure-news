@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-23T01:56:16.348Z</updated>
+    <updated>2024-01-23T02:28:10.047Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now]]></title>
+        <id>https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html</id>
+        <link href="https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html"/>
+        <updated>2024-01-23T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple on Monday released security updates for iOS, iPadOS, macOS, tvOS, and Safari web browser to address a zero-day flaw that has come under active exploitation in the wild.
+The issue, tracked as CVE-2024-23222, is a type confusion bug that could be exploited by a threat actor to achieve arbitrary code execution when processing maliciously crafted web content. The tech giant said the problem]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Weaponize Fake Research to Deliver RokRAT Backdoor]]></title>
         <id>https://thehackernews.com/2024/01/north-korean-hackers-weaponize-fake.html</id>
