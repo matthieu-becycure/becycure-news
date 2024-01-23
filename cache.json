@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind ClearFake, SocGholish, and dozens of other actors have established partnerships with another entity known as VexTrio as part of a massive \"criminal affiliate program,\" new findings from Infoblox reveal.\nThe latest development demonstrates the \"breadth of their activities and depth of their connections within the cybercrime industry,\" the company said,",
+          "link": "https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html",
+          "publishedOn": "2024-01-23T14:33:00.000Z",
+          "wordCount": null,
+          "title": "VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiex3NCiGCTiRUF4n4vncO2jTMjEiqvFbQnbjDJCeSeYEPps6mc3jk601jUS5j8X-A0usnLsO5tTTKR9Bhf9vPZcn-684Kop8wjgYIS3GHvdqNN5fQBiipblMSncrIyStZXcg3h3jcSG_M_aQqqwLdEHzVDg5a-wMOHofVuYDF26OLCM0d_eu9qBmj8VlF0/s1600/main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiex3NCiGCTiRUF4n4vncO2jTMjEiqvFbQnbjDJCeSeYEPps6mc3jk601jUS5j8X-A0usnLsO5tTTKR9Bhf9vPZcn-684Kop8wjgYIS3GHvdqNN5fQBiipblMSncrIyStZXcg3h3jcSG_M_aQqqwLdEHzVDg5a-wMOHofVuYDF26OLCM0d_eu9qBmj8VlF0/s1600/main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two malicious packages discovered on the npm package registry have been found to leverage GitHub to store Base64-encrypted SSH keys stolen from developer systems on which they were installed.\nThe modules named warbeast2000 and kodiak2k were published at the start of the month, attracting 412 and 1,281 downloads before they were taken down by the npm",
