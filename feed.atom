@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-23T10:43:41.210Z</updated>
+    <updated>2024-01-23T11:09:00.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time]]></title>
+        <id>https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html</id>
+        <link href="https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html"/>
+        <updated>2024-01-23T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Conor Brian Fitzpatrick has been sentenced to time served and 20 years of supervised release for his role as the creator and administrator of BreachForums.
+Fitzpatrick, who went by the online alias "pompompurin," was arrested in March 2023 in New York and was subsequently charged with conspiracy to commit access device fraud and possession of child pornography. He was later released on a $]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation]]></title>
         <id>https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html</id>
