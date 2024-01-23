@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-23T19:43:25.099Z</updated>
+    <updated>2024-01-23T20:11:22.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2043,18 +2043,6 @@ Dubbed Xamalicious by the McAfee Mobile Research Team, the malware is so named
         <summary type="html"><![CDATA[The banking malware known as Carbanak has been observed being used in ransomware attacks with updated tactics.
 "The malware has adapted to incorporate attack vendors and techniques to diversify its effectiveness," cybersecurity firm NCC Group said in an analysis of ransomware attacks that took place in November 2023.
 "Carbanak returned last month through new]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Atlas' Spear-Phishing Attacks Target Russian Agro and Research Companies]]></title>
-        <id>https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html</id>
-        <link href="https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html"/>
-        <updated>2023-12-25T07:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor referred to as Cloud Atlas has been linked to a set of spear-phishing attacks on Russian enterprises.
-Targets included a Russian agro-industrial enterprise and a state-owned research company, according to a report from F.A.C.C.T., a standalone cybersecurity company formed after Group-IB's formal exit from Russia earlier this year.
-Cloud Atlas, active since at]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
