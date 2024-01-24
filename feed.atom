@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-24T06:43:39.024Z</updated>
+    <updated>2024-01-24T07:10:25.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin]]></title>
+        <id>https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html</id>
+        <link href="https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html"/>
+        <updated>2024-01-24T05:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in Fortra's GoAnywhere Managed File Transfer (MFT) software that could be abused to create a new administrator user.
+Tracked as CVE-2024-0204, the issue carries a CVSS score of 9.8 out of 10.
+"Authentication bypass in Fortra's GoAnywhere MFT prior to 7.4.1 allows an unauthorized user to create an admin user via the administration portal," Fortra&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates]]></title>
         <id>https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html</id>
