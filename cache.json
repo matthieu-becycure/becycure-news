@@ -1917,6 +1917,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0066/",
+          "publishedOn": "2024-01-24T09:56:07.000Z",
+          "wordCount": 959,
+          "title": "CERTFR-2024-AVI-0066 : Vulnérabilité dans Squid (24 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Citrix Hypervisor. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0065/",
+          "publishedOn": "2024-01-24T09:49:48.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0065 : Vulnérabilité dans Citrix Hypervisor (24 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0064/",
+          "publishedOn": "2024-01-24T09:46:24.000Z",
+          "wordCount": 984,
+          "title": "CERTFR-2024-AVI-0064 : Multiples vulnérabilités dans Google Chrome (24 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0063/",
+          "publishedOn": "2024-01-24T09:34:42.000Z",
+          "wordCount": 1073,
+          "title": "CERTFR-2024-AVI-0063 : Multiples vulnérabilités dans les produits Mozilla (24 janvier 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et une exécution de code arbitraire à distance.\n …",
