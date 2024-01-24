@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-24T19:23:47.907Z</updated>
+    <updated>2024-01-24T19:43:30.701Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2141,18 +2141,6 @@ Dubbed Xamalicious by the McAfee Mobile Research Team, the malware is so named
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbanak Banking Malware Resurfaces with New Ransomware Tactics]]></title>
-        <id>https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html</id>
-        <link href="https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html"/>
-        <updated>2023-12-26T07:26:00.000Z</updated>
-        <summary type="html"><![CDATA[The banking malware known as Carbanak has been observed being used in ransomware attacks with updated tactics.
-"The malware has adapted to incorporate attack vendors and techniques to diversify its effectiveness," cybersecurity firm NCC Group said in an analysis of ransomware attacks that took place in November 2023.
-"Carbanak returned last month through new]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
