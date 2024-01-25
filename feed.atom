@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-25T04:13:30.221Z</updated>
+    <updated>2024-01-25T04:31:05.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2111,16 +2111,6 @@ Dubbed Xamalicious by the McAfee Mobile Research Team, the malware is so named
 "Threat actors can also choose to install only scanners and sell the breached IP and account credentials on]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2023-ACT-055 : Bulletin d’actualité CERTFR-2023-ACT-055 (26 décembre 2023)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-055/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2023-ACT-055/"/>
-        <updated>2023-12-26T16:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
