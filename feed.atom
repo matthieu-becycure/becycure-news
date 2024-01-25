@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-25T20:10:39.296Z</updated>
+    <updated>2024-01-25T20:25:33.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2188,17 +2188,6 @@ The vulnerability, tracked as CVE-2023-51467, resides in the login functionalit
         <updated>2023-12-27T12:35:00.000Z</updated>
         <summary type="html"><![CDATA[Barracuda has revealed that Chinese threat actors exploited a new zero-day in its Email Security Gateway (ESG) appliances to deploy backdoor on a "limited number" of devices.
 Tracked as CVE-2023-7102, the issue relates to a case of arbitrary code execution that resides within a third-party and open-source library Spreadsheet::ParseExcel that's used by the Amavis scanner within the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices]]></title>
-        <id>https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html</id>
-        <link href="https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html"/>
-        <updated>2023-12-27T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Android backdoor has been discovered with potent capabilities to carry out a range of malicious actions on infected devices.
-Dubbed Xamalicious by the McAfee Mobile Research Team, the malware is so named for the fact that it's developed using an open-source mobile app framework called Xamarin and abuses the operating system's accessibility permissions to fulfill its objectives.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
