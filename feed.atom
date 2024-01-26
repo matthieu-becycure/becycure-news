@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-26T11:43:27.156Z</updated>
+    <updated>2024-01-26T12:17:24.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Perfecting the Defense-in-Depth Strategy with Automation]]></title>
+        <id>https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html</id>
+        <link href="https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html"/>
+        <updated>2024-01-26T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Medieval castles stood as impregnable fortresses for centuries, thanks to their meticulous design. Fast forward to the digital age, and this medieval wisdom still echoes in cybersecurity. Like castles with strategic layouts to withstand attacks, the Defense-in-Depth strategy is the modern counterpart — a multi-layered approach with strategic redundancy and a blend of passive and active security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious Ads on Google Target Chinese Users with Fake Messaging Apps]]></title>
         <id>https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html</id>
