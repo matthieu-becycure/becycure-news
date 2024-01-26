@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-26T06:12:58.112Z</updated>
+    <updated>2024-01-26T06:29:29.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs]]></title>
+        <id>https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html</id>
+        <link href="https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html"/>
+        <updated>2024-01-26T06:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Thursday said the Russian state-sponsored threat actors responsible for a cyber attack on its systems in late November 2023 have been targeting other organizations and that it's currently beginning to notify them.
+The development comes a day after Hewlett Packard Enterprise (HPE) revealed that it had been the victim of an attack perpetrated by a hacking crew]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree]]></title>
         <id>https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html</id>
