@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chinese-speaking users have been targeted by malicious Google ads for restricted messaging apps like Telegram as part of an ongoing malvertising campaign.\n\"The threat actor is abusing Google advertiser accounts to create malicious ads and pointing them to pages where unsuspecting users will download Remote Administration Trojan (RATs) instead,\" Malwarebytes' Jérôme Segura said in a",
+          "link": "https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html",
+          "publishedOn": "2024-01-26T09:44:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Ads on Google Target Chinese Users with Fake Messaging Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF20uF4EvmYgtMs1nDD6pmkalz2PH690uP_UupMxFLHKpjr3sD0pedChW8QOPpTEOmRdV667jslC3JhIvE1wt3apefw_qiBhnL1vzyTGm5QUxBlu_m9VF6O38BikhjNcWyS-IeNtXkpfmmJnU9XWqWL4sN9pDAuQXbM6UYOL3r2yO3jM5S94Dy2W_dw0Ue/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF20uF4EvmYgtMs1nDD6pmkalz2PH690uP_UupMxFLHKpjr3sD0pedChW8QOPpTEOmRdV667jslC3JhIvE1wt3apefw_qiBhnL1vzyTGm5QUxBlu_m9VF6O38BikhjNcWyS-IeNtXkpfmmJnU9XWqWL4sN9pDAuQXbM6UYOL3r2yO3jM5S94Dy2W_dw0Ue/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Thursday said the Russian state-sponsored threat actors responsible for a cyber attack on its systems in late November 2023 have been targeting other organizations and that it's currently beginning to notify them.\nThe development comes a day after Hewlett Packard Enterprise (HPE) revealed that it had been the victim of an attack perpetrated by a hacking crew",
