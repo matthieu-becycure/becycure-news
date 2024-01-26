@@ -2029,6 +2029,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/",
+          "publishedOn": "2024-01-26T12:58:33.000Z",
+          "wordCount": 1353,
+          "title": "CERTFR-2024-AVI-0075 : Multiples vulnérabilités dans le noyau Linux de RedHat (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0074/",
+          "publishedOn": "2024-01-26T12:36:49.000Z",
+          "wordCount": 1177,
+          "title": "CERTFR-2024-AVI-0074 : Multiples vulnérabilités dans IBM (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0073/",
+          "publishedOn": "2024-01-26T12:24:43.000Z",
+          "wordCount": 1168,
+          "title": "CERTFR-2024-AVI-0073 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0072/",
+          "publishedOn": "2024-01-26T10:07:55.000Z",
+          "wordCount": 1018,
+          "title": "CERTFR-2024-AVI-0072 : Multiples vulnérabilités dans les produits Juniper (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges, une atteinte à la confidentialité des données et une usurpation …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/",
+          "publishedOn": "2024-01-26T08:38:56.000Z",
+          "wordCount": 1204,
+          "title": "CERTFR-2024-AVI-0071 : Multiples vulnérabilités dans Microsoft Edge (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/",
+          "publishedOn": "2024-01-26T08:30:15.000Z",
+          "wordCount": 969,
+          "title": "CERTFR-2024-AVI-0070 : Vulnérabilité dans Synology DiskStation Manager (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0069/",
+          "publishedOn": "2024-01-26T08:05:51.000Z",
+          "wordCount": 1049,
+          "title": "CERTFR-2024-AVI-0069 : Multiples vulnérabilités dans Gitlab (26 janvier 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
