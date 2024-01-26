@@ -1940,22 +1940,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDC7bOP0IOLlWLJoFkvQGLaYku-ENhqa3f1ejlxrHzIvgibT6FkTRCiP7LocFmgdfEZO-XNcwTcAZBhNe_yNMaVG7uEMKW8UrpFia0HvEUP1hHOAnYjmoNq4-3g1nXf5cH7VGBRaS17fc7UtQ09zdzHDkLDTus0VtuRGW9XqPQLEBAb3hlWjwox1SR1L6j/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new zero-day security flaw has been discovered in the Apache OfBiz, an open-source Enterprise Resource Planning (ERP) system that could be exploited to bypass authentication protections.\nThe vulnerability, tracked as CVE-2023-51467, resides in the login functionality and is the result of an incomplete patch for another critical vulnerability (CVE-2023-49070, CVSS score: 9.8) that was",
-          "link": "https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html",
-          "publishedOn": "2023-12-27T15:39:00.000Z",
-          "wordCount": null,
-          "title": "Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIo0DeSW9LWIc_q-rlDCGkTmUs9LgVLYFo51VynaOdVNEoQtMTPPHljHEzKWypT-ftprGoHsGJfZHwA2OeJEezC63b_yMODoan_03s-xTKxvdICWYrQ53xIJ17Jzlq6iwSjblqkY7sRP03DTkFn_xe2AkWMR0Z61zhdN76b5vZDK61U1aW3OzgjWrBRHex/s1600/apache.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIo0DeSW9LWIc_q-rlDCGkTmUs9LgVLYFo51VynaOdVNEoQtMTPPHljHEzKWypT-ftprGoHsGJfZHwA2OeJEezC63b_yMODoan_03s-xTKxvdICWYrQ53xIJ17Jzlq6iwSjblqkY7sRP03DTkFn_xe2AkWMR0Z61zhdN76b5vZDK61U1aW3OzgjWrBRHex/s1600/apache.jpg"
         }
       ]
     },

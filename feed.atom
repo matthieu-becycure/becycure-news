@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-26T03:25:26.382Z</updated>
+    <updated>2024-01-26T03:43:24.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2166,17 +2166,6 @@ Russian cybersecurity firm Kaspersky, which discovered the campaign at the b
         <summary type="html"><![CDATA[A new malware loader is being used by threat actors to deliver a wide range of information stealers such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and Rescoms.
 Cybersecurity firm ESET is tracking the trojan under the name Win/TrojanDownloader.Rugmi.
 "This malware is a loader with three types of components: a downloader that downloads an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack]]></title>
-        <id>https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html</id>
-        <link href="https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html"/>
-        <updated>2023-12-27T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[A new zero-day security flaw has been discovered in the Apache OfBiz, an open-source Enterprise Resource Planning (ERP) system that could be exploited to bypass authentication protections.
-The vulnerability, tracked as CVE-2023-51467, resides in the login functionality and is the result of an incomplete patch for another critical vulnerability (CVE-2023-49070, CVSS score: 9.8) that was]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
