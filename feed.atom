@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-26T17:43:41.344Z</updated>
+    <updated>2024-01-26T18:12:41.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2281,18 +2281,6 @@ Russian cybersecurity firm Kaspersky, which discovered the campaign at the b
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans NetApp Active IQ Unified Manager. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Rugmi Malware Loader Surges with Hundreds of Daily Detections]]></title>
-        <id>https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html</id>
-        <link href="https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html"/>
-        <updated>2023-12-28T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A new malware loader is being used by threat actors to deliver a wide range of information stealers such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and Rescoms.
-Cybersecurity firm ESET is tracking the trojan under the name Win/TrojanDownloader.Rugmi.
-"This malware is a loader with three types of components: a downloader that downloads an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
