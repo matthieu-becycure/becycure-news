@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-26T23:10:23.212Z</updated>
+    <updated>2024-01-26T23:24:17.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2258,17 +2258,6 @@ South Korea-based cybersecurity company AhnLab attributed the activity to an adv
         <updated>2023-12-28T13:20:00.000Z</updated>
         <summary type="html"><![CDATA[Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.
 "An attacker who has compromised the Fluent Bit logging container could combine that access with high privileges required by Anthos Service Mesh (on clusters that have enabled it) to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature]]></title>
-        <id>https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html</id>
-        <link href="https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html"/>
-        <updated>2023-12-28T11:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The Operation Triangulation spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company.
-Russian cybersecurity firm Kaspersky, which discovered the campaign at the beginning of 2023 after becoming one of the targets, described it as]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
