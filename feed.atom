@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-27T17:10:48.575Z</updated>
+    <updated>2024-01-27T17:26:30.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2248,17 +2248,6 @@ The activity, which was detected by the agency between December 15 and 25, 202
         <summary type="html"><![CDATA[Nation-state actors affiliated to North Korea have been observed using spear-phishing attacks to deliver an assortment of backdoors and tools such as AppleSeed, Meterpreter, and TinyNuke to seize control of compromised machines.
 South Korea-based cybersecurity company AhnLab attributed the activity to an advanced persistent threat group known as Kimsuky.
 “A notable point about attacks that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html</id>
-        <link href="https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html"/>
-        <updated>2023-12-29T05:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Thursday said it’s once again disabling the ms-appinstaller protocol handler by default following its abuse by multiple threat actors to distribute malware.
-“The observed threat actor activity abuses the current implementation of the ms-appinstaller protocol handler as an access vector for malware that may lead to ransomware distribution,” the Microsoft Threat Intelligence]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
