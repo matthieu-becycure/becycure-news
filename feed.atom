@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-27T21:08:14.832Z</updated>
+    <updated>2024-01-27T21:23:29.636Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2238,18 +2238,6 @@ The activity, which was detected by the agency between December 15 and 25, 202
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Apache OpenOffice. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html</id>
-        <link href="https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html"/>
-        <updated>2023-12-29T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Nation-state actors affiliated to North Korea have been observed using spear-phishing attacks to deliver an assortment of backdoors and tools such as AppleSeed, Meterpreter, and TinyNuke to seize control of compromised machines.
-South Korea-based cybersecurity company AhnLab attributed the activity to an advanced persistent threat group known as Kimsuky.
-“A notable point about attacks that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
