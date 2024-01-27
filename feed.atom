@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-27T22:26:04.112Z</updated>
+    <updated>2024-01-27T22:43:25.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2205,17 +2205,6 @@ The disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and S
         <summary type="html"><![CDATA[The Assembly of the Republic of Albania and telecom company One Albania have been targeted by cyber attacks, the country’s National Authority for Electronic Certification and Cyber Security (AKCESK) revealed this week.
 “These infrastructures, under the legislation in force, are not currently classified as critical or important information infrastructure,” AKCESK said.
 One Albania, which has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK]]></title>
-        <id>https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html</id>
-        <link href="https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html"/>
-        <updated>2023-12-29T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new phishing campaign orchestrated by the Russia-linked APT28 group to deploy previously undocumented malware such as OCEANMAP, MASEPIE, and STEELHOOK to harvest sensitive information.
-The activity, which was detected by the agency between December 15 and 25, 2023, targets government entities]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

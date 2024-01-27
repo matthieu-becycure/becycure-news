@@ -1940,22 +1940,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-9Y1BQGJ1BI9uX9EybGSa4__A9pDtodxqeCMCT2xHD8FAmssWujIJe4tE7f2kStznxmvSiIn-1CRGP7xHfsZ8kmpecQcOn8qVvv_4h3QIsyDp1Od_S_TCbTTjLHEMzul1IVrdIRNJ6RZ7b6ObZ1v_ps_ozWRmReKl7Vbl1YsrAXBIBadTgGY1ZDtr6aVr/s1600/iran.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-9Y1BQGJ1BI9uX9EybGSa4__A9pDtodxqeCMCT2xHD8FAmssWujIJe4tE7f2kStznxmvSiIn-1CRGP7xHfsZ8kmpecQcOn8qVvv_4h3QIsyDp1Od_S_TCbTTjLHEMzul1IVrdIRNJ6RZ7b6ObZ1v_ps_ozWRmReKl7Vbl1YsrAXBIBadTgGY1ZDtr6aVr/s1600/iran.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new phishing campaign orchestrated by the Russia-linked APT28 group to deploy previously undocumented malware such as OCEANMAP, MASEPIE, and STEELHOOK to harvest sensitive information.\nThe activity, which was detected by the agency between December 15 and 25, 2023, targets government entities",
-          "link": "https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html",
-          "publishedOn": "2023-12-29T10:41:00.000Z",
-          "wordCount": null,
-          "title": "CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4A4omJ02NyFn0YwmIo6xgybPMbyvzQhRsKm9mcfvTeAwURTqF3_hIFaIhK0-vUm6WL_E0k6lFewvFw4mk32BhE6ZrgRRDyFmzlMzlNjiaJWhfdHOpEQiEwAmtQ4oK0FPEBCjfEo4a1s9hY7jKal7v0mPwvD7ySdkIFSemEmdeM_hWpGAgAe8xODbarX0/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4A4omJ02NyFn0YwmIo6xgybPMbyvzQhRsKm9mcfvTeAwURTqF3_hIFaIhK0-vUm6WL_E0k6lFewvFw4mk32BhE6ZrgRRDyFmzlMzlNjiaJWhfdHOpEQiEwAmtQ4oK0FPEBCjfEo4a1s9hY7jKal7v0mPwvD7ySdkIFSemEmdeM_hWpGAgAe8xODbarX0/s1600/malware.jpg"
         }
       ]
     },
