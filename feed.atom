@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-27T07:23:37.940Z</updated>
+    <updated>2024-01-27T07:43:47.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks]]></title>
+        <id>https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html</id>
+        <link href="https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html"/>
+        <updated>2024-01-27T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Mexican financial institutions are under the radar of a new spear-phishing campaign that delivers a modified version of an open-source remote access trojan called AllaKore RAT.
+The BlackBerry Research and Intelligence Team attributed the activity to an unknown Latin American-based financially motivated threat actor. The campaign has been active since at least 2021.
+"Lures use Mexican Social]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0075 : Multiples vulnérabilités dans le noyau Linux de RedHat (26 janvier 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/</id>
