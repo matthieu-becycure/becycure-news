@@ -1972,22 +1972,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXwqmLGXkcS8H63nOj4cL0G9wkheyfbdt_wdMDxDGEN2TdBq1v7Mg0v-0cfUMdhRiwXfyw1gsVCrYv0Vd65DD9P21L_IxVVYjWXgOWHxBdCqo7jNKaS7TliOs5CE7fTgmwyvcWwXni7QYqjI05iOmT9QX9hag1bRwr9b8d6XIrzoUP5gFaL9715P4JrPo/s1600/app-install.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXwqmLGXkcS8H63nOj4cL0G9wkheyfbdt_wdMDxDGEN2TdBq1v7Mg0v-0cfUMdhRiwXfyw1gsVCrYv0Vd65DD9P21L_IxVVYjWXgOWHxBdCqo7jNKaS7TliOs5CE7fTgmwyvcWwXni7QYqjI05iOmT9QX9hag1bRwr9b8d6XIrzoUP5gFaL9715P4JrPo/s1600/app-install.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.\n\"An attacker who has compromised the Fluent Bit logging container could combine that access with high privileges required by Anthos Service Mesh (on clusters that have enabled it) to",
-          "link": "https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html",
-          "publishedOn": "2023-12-28T13:20:00.000Z",
-          "wordCount": null,
-          "title": "Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgxSWEb9yyLTwI7_VLPB43rAiMGYF_wY9FCVD49eDhQRM9RSFXWQ8rdnr8vO2G6A_NgrK3yrdTC33o1s9x5idRvnUh07ywmXKiIFgJFs5V2k6KTDLbiB5PYJdRKO4aurrwRG1C-praIIvchkj4LNF1D0MUJPI4ddTHllSggPGPDXhA2RbyH475c9dmK_h/s1600/google.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgxSWEb9yyLTwI7_VLPB43rAiMGYF_wY9FCVD49eDhQRM9RSFXWQ8rdnr8vO2G6A_NgrK3yrdTC33o1s9x5idRvnUh07ywmXKiIFgJFs5V2k6KTDLbiB5PYJdRKO4aurrwRG1C-praIIvchkj4LNF1D0MUJPI4ddTHllSggPGPDXhA2RbyH475c9dmK_h/s1600/google.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-27T00:45:36.162Z</updated>
+    <updated>2024-01-27T01:40:42.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2247,17 +2247,6 @@ South Korea-based cybersecurity company AhnLab attributed the activity to an adv
         <updated>2023-12-29T05:16:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft on Thursday said it’s once again disabling the ms-appinstaller protocol handler by default following its abuse by multiple threat actors to distribute malware.
 “The observed threat actor activity abuses the current implementation of the ms-appinstaller protocol handler as an access vector for malware that may lead to ransomware distribution,” the Microsoft Threat Intelligence]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service]]></title>
-        <id>https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html</id>
-        <link href="https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html"/>
-        <updated>2023-12-28T13:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges.
-"An attacker who has compromised the Fluent Bit logging container could combine that access with high privileges required by Anthos Service Mesh (on clusters that have enabled it) to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
