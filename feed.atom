@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-28T01:48:53.799Z</updated>
+    <updated>2024-01-28T02:17:59.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2193,18 +2193,6 @@ The disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and S
         <updated>2023-12-30T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning about an increase in phishing attacks that are capable of draining cryptocurrency wallets.
 "These threats are unique in their approach, targeting a wide range of blockchain networks, from Ethereum and Binance Smart Chain to Polygon, Avalanche, and almost 20 other networks by using a crypto wallet-draining technique," Check Point researchers Oded Vanunu,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Albanian Parliament and One Albania Telecom Hit by Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html</id>
-        <link href="https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html"/>
-        <updated>2023-12-29T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The Assembly of the Republic of Albania and telecom company One Albania have been targeted by cyber attacks, the country’s National Authority for Electronic Certification and Cyber Security (AKCESK) revealed this week.
-“These infrastructures, under the legislation in force, are not currently classified as critical or important information infrastructure,” AKCESK said.
-One Albania, which has]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
