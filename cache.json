@@ -2013,6 +2013,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-006/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-006/",
+          "publishedOn": "2024-01-29T11:46:16.000Z",
+          "wordCount": 1574,
+          "title": "CERTFR-2024-ACT-006 : Bulletin d’actualité CERTFR-2024-ACT-006 (29 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/",
+          "publishedOn": "2024-01-29T09:19:23.000Z",
+          "wordCount": 964,
+          "title": "CERTFR-2024-AVI-0077 : Vulnérabilité dans les produits NetApp (29 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/",
+          "author": null,
+          "description": "Une vulnérabilité a été corrigée dans Microsoft Edge. Elle permet à un attaquant de provoquer une usurpation d'identité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/",
+          "publishedOn": "2024-01-29T08:56:31.000Z",
+          "wordCount": 939,
+          "title": "CERTFR-2024-AVI-0076 : Vulnérabilité dans Microsoft Edge (29 janvier 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0075/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
