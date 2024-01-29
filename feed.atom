@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-29T07:09:45.279Z</updated>
+    <updated>2024-01-29T07:23:39.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NSA Admits Secretly Buying Your Internet Browsing Data without Warrants]]></title>
+        <id>https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html</id>
+        <link href="https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html"/>
+        <updated>2024-01-29T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. National Security Agency (NSA) has admitted to buying internet browsing records from data brokers to identify the websites and apps Americans use that would otherwise require a court order, U.S. Senator Ron Wyden said last week.
+"The U.S. government should not be funding and legitimizing a shady industry whose flagrant violations of Americans' privacy are not just unethical, but illegal]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines]]></title>
         <id>https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html</id>
