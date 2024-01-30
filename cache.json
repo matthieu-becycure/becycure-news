@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Each New Year introduces a new set of challenges and opportunities for strengthening our cybersecurity posture. It's the nature of the field – the speed at which malicious actors carry out advanced persistent threats brings a constant, evolving battle for cyber resilience. The excitement in cybersecurity lies in this continuous adaptation and learning, always staying one step ahead of potential",
+          "link": "https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html",
+          "publishedOn": "2024-01-30T10:49:00.000Z",
+          "wordCount": null,
+          "title": "Top Security Posture Vulnerabilities Revealed",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouTWcvRqALHBfV8SMGEO6ot1L4gKKe2xub5e8CK1u6H6Qan4VXZ9UZi41qL3DKozw98s7p4NoVyEkOt8B2fm6cZq5MBqvrIxla8FEXrsNIYNVqXGkpRqO_-0o2Y5tDjsqd9kXTaChKFaXpLnkpxIfiRZE0-z_r7-2Wz6VrrSHplMN-jhHDsV-s89tq9Y/s1600/THN-Article2-Feature.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiouTWcvRqALHBfV8SMGEO6ot1L4gKKe2xub5e8CK1u6H6Qan4VXZ9UZi41qL3DKozw98s7p4NoVyEkOt8B2fm6cZq5MBqvrIxla8FEXrsNIYNVqXGkpRqO_-0o2Y5tDjsqd9kXTaChKFaXpLnkpxIfiRZE0-z_r7-2Wz6VrrSHplMN-jhHDsV-s89tq9Y/s1600/THN-Article2-Feature.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/italian-data-protection-watchdog.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Italy's data protection authority (DPA) has notified ChatGPT-maker OpenAI of supposedly violating privacy laws in the region.\n\"The available evidence pointed to the existence of breaches of the provisions contained in the E.U. GDPR [General Data Protection Regulation],\" the Garante per la protezione dei dati personali (aka the Garante) said in a statement on Monday.\nIt also said it",
+          "link": "https://thehackernews.com/2024/01/italian-data-protection-watchdog.html",
+          "publishedOn": "2024-01-30T10:20:00.000Z",
+          "wordCount": null,
+          "title": "Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGYjHTNcHoAo9N7uYQadyUvp9gPVTyFCoD5SoG9KogZ5X8dWLBQvlviDhlgihJcZClSt5srFGwb49IYf4Rq7oLpOki4YpeFo6EfCsAq20DCK8yj_Vgp2g4t2kvXw9EecCGO4ICMkTNRkxMhVsVxqtNvoci03C5h3NaF77cQNBz3PXdql7wbP7MloRq0pK/s1600/ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizGYjHTNcHoAo9N7uYQadyUvp9gPVTyFCoD5SoG9KogZ5X8dWLBQvlviDhlgihJcZClSt5srFGwb49IYf4Rq7oLpOki4YpeFo6EfCsAq20DCK8yj_Vgp2g4t2kvXw9EecCGO4ICMkTNRkxMhVsVxqtNvoci03C5h3NaF77cQNBz3PXdql7wbP7MloRq0pK/s1600/ai.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat hunters have identified a new campaign that delivers the ZLoader malware, resurfacing nearly two years after the botnet's infrastructure was dismantled in April 2022.\nA new variant of the malware is said to have been in development since September 2023, Zscaler ThreatLabz said in an analysis published this month.\n\"The new version of Zloader made significant changes to the loader",
@@ -2044,6 +2076,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/",
+          "publishedOn": "2024-01-30T10:00:55.000Z",
+          "wordCount": 960,
+          "title": "CERTFR-2024-AVI-0079 : Vulnérabilité dans les produits ESET (30 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/",
+          "publishedOn": "2024-01-30T09:59:05.000Z",
+          "wordCount": 956,
+          "title": "CERTFR-2024-AVI-0078 : Vulnérabilité dans Progress MOVEit Transfer (30 janvier 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-006/",
           "author": null,

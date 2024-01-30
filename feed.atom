@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T11:09:00.133Z</updated>
+    <updated>2024-01-30T11:23:58.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top Security Posture Vulnerabilities Revealed]]></title>
+        <id>https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html</id>
+        <link href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"/>
+        <updated>2024-01-30T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Each New Year introduces a new set of challenges and opportunities for strengthening our cybersecurity posture. It's the nature of the field – the speed at which malicious actors carry out advanced persistent threats brings a constant, evolving battle for cyber resilience. The excitement in cybersecurity lies in this continuous adaptation and learning, always staying one step ahead of potential]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations]]></title>
+        <id>https://thehackernews.com/2024/01/italian-data-protection-watchdog.html</id>
+        <link href="https://thehackernews.com/2024/01/italian-data-protection-watchdog.html"/>
+        <updated>2024-01-30T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Italy's data protection authority (DPA) has notified ChatGPT-maker OpenAI of supposedly violating privacy laws in the region.
+"The available evidence pointed to the existence of breaches of the provisions contained in the E.U. GDPR [General Data Protection Regulation]," the Garante per la protezione dei dati personali (aka the Garante) said in a statement on Monday.
+It also said it]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0079 : Vulnérabilité dans les produits ESET (30 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/"/>
+        <updated>2024-01-30T10:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une exécution de code arbitraire.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0078 : Vulnérabilité dans Progress MOVEit Transfer (30 janvier 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0078/"/>
+        <updated>2024-01-30T09:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility]]></title>
         <id>https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html</id>
