@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T05:09:29.614Z</updated>
+    <updated>2024-01-30T05:26:53.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Juniper Networks Releases Urgent Junos OS Updates for High-Severity Flaws]]></title>
+        <id>https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html</id>
+        <link href="https://thehackernews.com/2024/01/juniper-networks-releases-urgent-junos.html"/>
+        <updated>2024-01-30T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Juniper Networks has released out-of-band updates to address high-severity flaws in SRX Series and EX Series that could be exploited by a threat actor to take control of susceptible systems.
+The vulnerabilities, tracked as CVE-2024-21619 and CVE-2024-21620, are rooted in the J-Web component and impact all versions of Junos OS. Two other shortcomings, CVE-2023-36846 and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords]]></title>
         <id>https://thehackernews.com/2024/01/researchers-uncover-outlook.html</id>
