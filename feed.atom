@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T21:23:38.236Z</updated>
+    <updated>2024-01-30T21:43:25.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2357,17 +2357,6 @@ The plaintiffs had]]></summary>
         <updated>2024-01-01T14:00:00.000Z</updated>
         <summary type="html"><![CDATA[Security researchers have detailed a new variant of a dynamic link library (DLL) search order hijacking technique that could be used by threat actors to bypass security mechanisms and achieve execution of malicious code on systems running Microsoft Windows 10 and Windows 11.
 The approach "leverages executables commonly found in the trusted WinSxS folder and exploits them via the classic DLL]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security]]></title>
-        <id>https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html</id>
-        <link href="https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html"/>
-        <updated>2024-01-01T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers from Ruhr University Bochum have discovered a vulnerability in the Secure Shell (SSH) cryptographic network protocol that could allow an attacker to downgrade the connection's security by breaking the integrity of the secure channel.
-Called Terrapin (CVE-2023-48795, CVSS score: 5.9), the exploit has been described as the "first ever practically exploitable prefix]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
