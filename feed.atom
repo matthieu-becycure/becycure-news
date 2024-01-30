@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T13:43:47.860Z</updated>
+    <updated>2024-01-30T14:09:25.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz]]></title>
+        <id>https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html</id>
+        <link href="https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html"/>
+        <updated>2024-01-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-based threat actor known as Mustang Panda is suspected to have targeted Myanmar's Ministry of Defence and Foreign Affairs as part of twin campaigns designed to deploy backdoors and remote access trojans.
+The findings come from CSIRT-CTI, which said the activities took place in November 2023 and January 2024 after artifacts in connection with the attacks were uploaded to the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Security Posture Vulnerabilities Revealed]]></title>
         <id>https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html</id>
