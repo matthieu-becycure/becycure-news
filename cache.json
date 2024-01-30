@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I8fLfY-g3YLU9G6EpHshxGedvA06mfQC3iZwbjrZHSulq3E4XioWUjgEriajsPNdy7Ys2G72VcIqcWNf5aygYROT6Ukcymot0GQCluzkdnr04ZI07ymwWhRvZIrFWbuhBH1yHmTtZVrq-IREDdW8lEb7AVXZb77xAntYc2jra2Q1Kb6dKMHEZqzIEF00/s1600/ssh.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6I8fLfY-g3YLU9G6EpHshxGedvA06mfQC3iZwbjrZHSulq3E4XioWUjgEriajsPNdy7Ys2G72VcIqcWNf5aygYROT6Ukcymot0GQCluzkdnr04ZI07ymwWhRvZIrFWbuhBH1yHmTtZVrq-IREDdW8lEb7AVXZb77xAntYc2jra2Q1Kb6dKMHEZqzIEF00/s1600/ssh.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Go-based malware loader called JinxLoader is being used by threat actors to deliver next-stage payloads such as Formbook and its successor XLoader.\nThe disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and Symantec, both of which highlighted multi-step attack sequences that led to the deployment of JinxLoader through phishing attacks.\n\"The",
-          "link": "https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html",
-          "publishedOn": "2024-01-01T06:52:00.000Z",
-          "wordCount": null,
-          "title": "New JinxLoader Targeting Users with Formbook and XLoader Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleNyaJtpflSDIvKTlMAt80lK0wqbOdg_P7bTxFdXBrRZXFcdfas4w8Ap77n6TBUBdcERa2hpTQh7KdKGTsG7on7TWbRAek4mN2nmS5ZlDPP4Vt-e2dy8-wcFAiRBLNvUYitN6Z7ZUmBMGlceCmiriOeHkYstDDL09NvQUb59pCjqvA-5V0T3hkz449Q01/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjleNyaJtpflSDIvKTlMAt80lK0wqbOdg_P7bTxFdXBrRZXFcdfas4w8Ap77n6TBUBdcERa2hpTQh7KdKGTsG7on7TWbRAek4mN2nmS5ZlDPP4Vt-e2dy8-wcFAiRBLNvUYitN6Z7ZUmBMGlceCmiriOeHkYstDDL09NvQUb59pCjqvA-5V0T3hkz449Q01/s1600/malware.jpg"
         }
       ]
     },

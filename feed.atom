@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T18:43:32.997Z</updated>
+    <updated>2024-01-30T19:08:33.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2368,18 +2368,6 @@ The approach "leverages executables commonly found in the trusted WinSxS folder 
         <updated>2024-01-01T09:37:00.000Z</updated>
         <summary type="html"><![CDATA[Security researchers from Ruhr University Bochum have discovered a vulnerability in the Secure Shell (SSH) cryptographic network protocol that could allow an attacker to downgrade the connection's security by breaking the integrity of the secure channel.
 Called Terrapin (CVE-2023-48795, CVSS score: 5.9), the exploit has been described as the "first ever practically exploitable prefix]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New JinxLoader Targeting Users with Formbook and XLoader Malware]]></title>
-        <id>https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html</id>
-        <link href="https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"/>
-        <updated>2024-01-01T06:52:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Go-based malware loader called JinxLoader is being used by threat actors to deliver next-stage payloads such as Formbook and its successor XLoader.
-The disclosure comes from cybersecurity firms Palo Alto Networks Unit 42 and Symantec, both of which highlighted multi-step attack sequences that led to the deployment of JinxLoader through phishing attacks.
-"The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
