@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-30T17:10:16.940Z</updated>
+    <updated>2024-01-30T17:27:43.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives]]></title>
+        <id>https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html</id>
+        <link href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"/>
+        <updated>2024-01-30T16:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A Brazilian law enforcement operation has led to the arrest of several Brazilian operators in charge of the Grandoreiro malware.
+The Federal Police of Brazil said it served five temporary arrest warrants and 13 search and seizure warrants in the states of São Paulo, Santa Catarina, Pará, Goiás, and Mato Grosso.
+Slovak cybersecurity firm ESET, which provided additional]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite]]></title>
         <id>https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html</id>
