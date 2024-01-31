@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-31T10:43:43.539Z</updated>
+    <updated>2024-01-31T11:08:17.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules]]></title>
+        <id>https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html</id>
+        <link href="https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The SEC isn’t giving SaaS a free pass. Applicable public companies, known as “registrants,” are now subject to cyber incident disclosure and cybersecurity readiness requirements for data stored in SaaS systems, along with the 3rd and 4th party apps connected to them. 
+The new cybersecurity mandates make no distinction between data exposed in a breach that was stored on-premise, in the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware]]></title>
+        <id>https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html</id>
+        <link href="https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html"/>
+        <updated>2024-01-31T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A financially motivated threat actor known as UNC4990 is leveraging weaponized USB devices as an initial infection vector to target organizations in Italy.
+Google-owned Mandiant said the attacks single out multiple industries, including health, transportation, construction, and logistics.
+"UNC4990 operations generally involve widespread USB infection followed by the deployment of the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Exploiting VPN Flaws to Deploy KrustyLoader Malware]]></title>
         <id>https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html</id>

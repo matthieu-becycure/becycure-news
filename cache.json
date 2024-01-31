@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The SEC isn’t giving SaaS a free pass. Applicable public companies, known as “registrants,” are now subject to cyber incident disclosure and cybersecurity readiness requirements for data stored in SaaS systems, along with the 3rd and 4th party apps connected to them. \nThe new cybersecurity mandates make no distinction between data exposed in a breach that was stored on-premise, in the",
+          "link": "https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html",
+          "publishedOn": "2024-01-31T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hl-OCnCJaHUR5FUnuA21h-wkKQWZGHuOE1Zz4toCAO4zEmr_nI-ut26GJOkJxbCHxEiShGmFjwsrWENUuHZJxmsPRj93fDjJ4kcBo2tysLeWUMsJZClrF5NBvyOJXjL8nd48kSmRhzcRyf5q5ebUTlLo1OoECgqF98MESi3FsevN4TqVTXUlWbfu6YI/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8Hl-OCnCJaHUR5FUnuA21h-wkKQWZGHuOE1Zz4toCAO4zEmr_nI-ut26GJOkJxbCHxEiShGmFjwsrWENUuHZJxmsPRj93fDjJ4kcBo2tysLeWUMsJZClrF5NBvyOJXjL8nd48kSmRhzcRyf5q5ebUTlLo1OoECgqF98MESi3FsevN4TqVTXUlWbfu6YI/s1600/cyber.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A financially motivated threat actor known as UNC4990 is leveraging weaponized USB devices as an initial infection vector to target organizations in Italy.\nGoogle-owned Mandiant said the attacks single out multiple industries, including health, transportation, construction, and logistics.\n\"UNC4990 operations generally involve widespread USB infection followed by the deployment of the",
+          "link": "https://thehackernews.com/2024/01/italian-businesses-hit-by-weaponized.html",
+          "publishedOn": "2024-01-31T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Italian Businesses Hit by Weaponized USBs Spreading Cryptojacking Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZD2BegIs2gbK2hWTT3DWSXCLBjiqnUldewf4q3IQxBHIZJFVMwa6jxFE3fKkgK54MF9WeeOgpOXb2B2gnpc0j6v-Shads1Xk0jQtv23gmxdaIhzlbC11srzZEwHRJEAx0uP1YW8KuVFihCLOrisC2bZVKXnWZ1J0hnxEgYWqxncfHP_h00DyXWlQ3auSy/s1600/usd.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZD2BegIs2gbK2hWTT3DWSXCLBjiqnUldewf4q3IQxBHIZJFVMwa6jxFE3fKkgK54MF9WeeOgpOXb2B2gnpc0j6v-Shads1Xk0jQtv23gmxdaIhzlbC11srzZEwHRJEAx0uP1YW8KuVFihCLOrisC2bZVKXnWZ1J0hnxEgYWqxncfHP_h00DyXWlQ3auSy/s1600/usd.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A pair of recently disclosed zero-day flaws in Ivanti Connect Secure (ICS) virtual private network (VPN) devices have been exploited to deliver a Rust-based payload called KrustyLoader that's used to drop the open-source Sliver adversary simulation tool.\nThe security vulnerabilities, tracked as CVE-2023-46805 (CVSS score: 8.2) and CVE-2024-21887 (CVSS score: 9.1), could be abused",
