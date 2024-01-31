@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti is alerting of two new high-severity flaws in its Connect Secure and Policy Secure products, one of which is said to have come under targeted exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-21888 (CVSS score: 8.8) - A privilege escalation vulnerability in the web component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows",
+          "link": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
+          "publishedOn": "2024-01-31T13:38:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to the \"democratization\" of the phishing ecosystem owing to the emergence of Telegram as an epicenter for cybercrime, enabling threat actors to mount a mass attack for as little as $230.\n\"This messaging app has transformed into a bustling hub where seasoned cybercriminals and newcomers alike exchange illicit tools and insights creating a dark and",
