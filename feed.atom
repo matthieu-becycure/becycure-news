@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-31T01:42:53.928Z</updated>
+    <updated>2024-01-31T02:16:40.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2348,17 +2348,6 @@ The plaintiffs had]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections]]></title>
-        <id>https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html</id>
-        <link href="https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html"/>
-        <updated>2024-01-01T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Security researchers have detailed a new variant of a dynamic link library (DLL) search order hijacking technique that could be used by threat actors to bypass security mechanisms and achieve execution of malicious code on systems running Microsoft Windows 10 and Windows 11.
-The approach "leverages executables commonly found in the trusted WinSxS folder and exploits them via the classic DLL]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

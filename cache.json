@@ -2068,22 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd37epVak86fy6hACcwGkNleEemhqriOcY81gIwT0_lbWBI3kSlL7ap6mgG4OaNCbfEB4dBld0D-8HOIpv0PmKYrRPmXHI7fq4owkwjAN6DfuTUlS9djRlnlaXQtradYxXhrjeTqGEqUuMyD8M4M1iFVhebjjCfS-FWqYgs6A4VuechclNkFsUO-XpzpQY/s1600/tech.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd37epVak86fy6hACcwGkNleEemhqriOcY81gIwT0_lbWBI3kSlL7ap6mgG4OaNCbfEB4dBld0D-8HOIpv0PmKYrRPmXHI7fq4owkwjAN6DfuTUlS9djRlnlaXQtradYxXhrjeTqGEqUuMyD8M4M1iFVhebjjCfS-FWqYgs6A4VuechclNkFsUO-XpzpQY/s1600/tech.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Security researchers have detailed a new variant of a dynamic link library (DLL) search order hijacking technique that could be used by threat actors to bypass security mechanisms and achieve execution of malicious code on systems running Microsoft Windows 10 and Windows 11.\nThe approach \"leverages executables commonly found in the trusted WinSxS folder and exploits them via the classic DLL",
-          "link": "https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html",
-          "publishedOn": "2024-01-01T14:00:00.000Z",
-          "wordCount": null,
-          "title": "New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBufqwHLGFsJy0ZPA88aCoaIMxXQfNSmkwhz9mg0s_VCJvvTTFt5p5wW7gG4FJKIMcBkur-1pOtZqaB6qJjPS4KJ8LUIpJZ9yeoKVh5CvtM2WayatSXzOoVGelCQh_3yZ2tITXYi5tsQfCK7Lbc6yrtEhwzQRauyUHvelV7vy7s5EJPZgZZQhxPa6NwKUD/s1600/windows-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBufqwHLGFsJy0ZPA88aCoaIMxXQfNSmkwhz9mg0s_VCJvvTTFt5p5wW7gG4FJKIMcBkur-1pOtZqaB6qJjPS4KJ8LUIpJZ9yeoKVh5CvtM2WayatSXzOoVGelCQh_3yZ2tITXYi5tsQfCK7Lbc6yrtEhwzQRauyUHvelV7vy7s5EJPZgZZQhxPa6NwKUD/s1600/windows-security.jpg"
         }
       ]
     },
