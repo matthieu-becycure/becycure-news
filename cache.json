@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to the \"democratization\" of the phishing ecosystem owing to the emergence of Telegram as an epicenter for cybercrime, enabling threat actors to mount a mass attack for as little as $230.\n\"This messaging app has transformed into a bustling hub where seasoned cybercriminals and newcomers alike exchange illicit tools and insights creating a dark and",
+          "link": "https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html",
+          "publishedOn": "2024-01-31T12:21:00.000Z",
+          "wordCount": null,
+          "title": "Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPbSKmEBJOUPyMcThgOQF-T4tvpDc0i5-2DKcgDhSKQi3cuC_sLfsYsFsTcP2y65GoTCYDzEzsPaJ7GPIxsoOdcojwjvoORis8auFe2MY9vCC9xKhQDOEBMZn4ojDLR-V8mXDIdF7OPJXQB-87g9OWV1CC0aZGLi1HVdjyHafFFGhn8X7gZXlOaBci4SwF/s1600/telegram.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPbSKmEBJOUPyMcThgOQF-T4tvpDc0i5-2DKcgDhSKQi3cuC_sLfsYsFsTcP2y65GoTCYDzEzsPaJ7GPIxsoOdcojwjvoORis8auFe2MY9vCC9xKhQDOEBMZn4ojDLR-V8mXDIdF7OPJXQB-87g9OWV1CC0aZGLi1HVdjyHafFFGhn8X7gZXlOaBci4SwF/s1600/telegram.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The SEC isn’t giving SaaS a free pass. Applicable public companies, known as “registrants,” are now subject to cyber incident disclosure and cybersecurity readiness requirements for data stored in SaaS systems, along with the 3rd and 4th party apps connected to them. \nThe new cybersecurity mandates make no distinction between data exposed in a breach that was stored on-premise, in the",
