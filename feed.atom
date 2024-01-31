@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-31T20:24:09.548Z</updated>
+    <updated>2024-01-31T20:43:23.066Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RunC Flaws Enable Container Escapes, Granting Attackers Host Access]]></title>
+        <id>https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html</id>
+        <link href="https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html"/>
+        <updated>2024-01-31T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in the runC command line tool that could be exploited by threat actors to escape the bounds of the container and stage follow-on attacks.
+The vulnerabilities, tracked as CVE-2024-21626, CVE-2024-23651, CVE-2024-23652, and CVE-2024-23653, have been collectively dubbed Leaky Vessels by cybersecurity vendor Snyk.
+"These container]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation]]></title>
         <id>https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html</id>

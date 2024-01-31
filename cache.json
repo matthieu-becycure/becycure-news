@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in the runC command line tool that could be exploited by threat actors to escape the bounds of the container and stage follow-on attacks.\nThe vulnerabilities, tracked as CVE-2024-21626, CVE-2024-23651, CVE-2024-23652, and CVE-2024-23653, have been collectively dubbed Leaky Vessels by cybersecurity vendor Snyk.\n\"These container",
+          "link": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
+          "publishedOn": "2024-01-31T20:00:00.000Z",
+          "wordCount": null,
+          "title": "RunC Flaws Enable Container Escapes, Granting Attackers Host Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ivanti is alerting of two new high-severity flaws in its Connect Secure and Policy Secure products, one of which is said to have come under targeted exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-21888 (CVSS score: 8.8) - A privilege escalation vulnerability in the web component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows",
