@@ -3091,26 +3091,6 @@
           "wordCount": 1448,
           "title": "CERTFR-2024-ACT-001 : Bulletin d’actualité CERTFR-2024-ACT-001 (02 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0002/",
-          "publishedOn": "2024-01-02T08:09:58.000Z",
-          "wordCount": 980,
-          "title": "CERTFR-2024-AVI-0002 : [SCADA] Multiples vulnérabilités dans Moxa OnCell G3150A-LTE Series (02 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-001/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-001/",
-          "publishedOn": "2024-01-02T07:59:03.000Z",
-          "wordCount": 1001,
-          "title": "CERTFR-2024-AVI-0001 : Multiples vulnérabilités dans Stormshield Network Security (02 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
