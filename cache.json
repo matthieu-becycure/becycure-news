@@ -2157,6 +2157,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/",
+          "publishedOn": "2024-01-31T13:28:07.000Z",
+          "wordCount": 1023,
+          "title": "CERTFR-2024-AVI-0085 : Multiples vulnérabilités dans les produits Ivanti (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/",
+          "publishedOn": "2024-01-31T13:01:22.000Z",
+          "wordCount": 950,
+          "title": "CERTFR-2024-AVI-0084 : Multiples vulnérabilités dans WordPress (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/",
+          "author": null,
+          "description": "Une vulnérabilité a été corrigée dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/",
+          "publishedOn": "2024-01-31T09:55:08.000Z",
+          "wordCount": 941,
+          "title": "CERTFR-2024-AVI-0083 : Vulnérabilité dans Microsoft Edge (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/",
+          "publishedOn": "2024-01-31T09:44:42.000Z",
+          "wordCount": 997,
+          "title": "CERTFR-2024-AVI-0082 : Multiples vulnérabilités dans les produits Xen (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/",
+          "publishedOn": "2024-01-31T09:23:54.000Z",
+          "wordCount": 959,
+          "title": "CERTFR-2024-AVI-0081 : Multiples vulnérabilités dans les produits Spring (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/",
+          "publishedOn": "2024-01-31T08:38:40.000Z",
+          "wordCount": 1003,
+          "title": "CERTFR-2024-AVI-0080 : Multiples vulnérabilités dans les produits Splunk (31 janvier 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0079/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
