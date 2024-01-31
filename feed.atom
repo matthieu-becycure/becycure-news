@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-01-31T07:23:37.587Z</updated>
+    <updated>2024-01-31T07:43:34.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploiting VPN Flaws to Deploy KrustyLoader Malware]]></title>
+        <id>https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html</id>
+        <link href="https://thehackernews.com/2024/01/chinese-hackers-exploiting-critical-vpn.html"/>
+        <updated>2024-01-31T07:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A pair of recently disclosed zero-day flaws in Ivanti Connect Secure (ICS) virtual private network (VPN) devices have been exploited to deliver a Rust-based payload called KrustyLoader that's used to drop the open-source Sliver adversary simulation tool.
+The security vulnerabilities, tracked as CVE-2023-46805 (CVSS score: 8.2) and CVE-2024-21887 (CVSS score: 9.1), could be abused]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Glibc Flaw Grants Attackers Root Access on Major Linux Distros]]></title>
         <id>https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html</id>
