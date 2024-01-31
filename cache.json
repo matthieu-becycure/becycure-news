@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious local attackers can obtain full root access on Linux machines by taking advantage of a newly disclosed security flaw in the GNU C library (aka glibc).\nTracked as CVE-2023-6246, the heap-based buffer overflow vulnerability is rooted in glibc's __vsyslog_internal() function, which is used by syslog() and vsyslog() for system logging purposes. It's said to have been accidentally",
+          "link": "https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html",
+          "publishedOn": "2024-01-31T05:44:00.000Z",
+          "wordCount": null,
+          "title": "New Glibc Flaw Grants Attackers Root Access on Major Linux Distros",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPndGyYFB6MIt0TLMf4_ftQZ1ew2cshnUsTPif9GN9zq9yxGCMg21VWEeoHuyD2k5IxDdB6n1msUeLVT3JJLMWPGTVr_osaobBK83UGqKO5ooqVmkVp3eEL04Ebax-HtulunBZkdR7y8nFFHYDW7t2v4QpZpScfHkHQtsnQyibOcCUv9d2Us_Mf4hyphenhyphengFIy/s1600/Linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPndGyYFB6MIt0TLMf4_ftQZ1ew2cshnUsTPif9GN9zq9yxGCMg21VWEeoHuyD2k5IxDdB6n1msUeLVT3JJLMWPGTVr_osaobBK83UGqKO5ooqVmkVp3eEL04Ebax-HtulunBZkdR7y8nFFHYDW7t2v4QpZpScfHkHQtsnQyibOcCUv9d2Us_Mf4hyphenhyphengFIy/s1600/Linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Brazilian law enforcement operation has led to the arrest of several Brazilian operators in charge of the Grandoreiro malware.\nThe Federal Police of Brazil said it served five temporary arrest warrants and 13 search and seizure warrants in the states of São Paulo, Santa Catarina, Pará, Goiás, and Mato Grosso.\nSlovak cybersecurity firm ESET, which provided additional",
