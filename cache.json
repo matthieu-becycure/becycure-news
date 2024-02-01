@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor behind a peer-to-peer (P2P) botnet known as FritzFrog has made a return with a new variant that leverages the Log4Shell vulnerability to propagate internally within an already compromised network.\n\"The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible,\" web infrastructure and security",
+          "link": "https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html",
+          "publishedOn": "2024-02-01T15:44:00.000Z",
+          "wordCount": null,
+          "title": "FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPr81DASLMYFC5az8KlOL0TnT171kAV2s_Cfve7t5W3bb9FzzB9MDTru7ykbpM3uelGLtlCKkkhdR1oNiYpNRK-g-YpN7OLKZ_z5bOijTHda9do0YT7U80AOhC3bbqgCT_yFmi88-qIE4_LulCP0m7x2aW4OWl0LTipYEkbsupnKSjA8cLcIiQjZNbrvI/s1600/botnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPr81DASLMYFC5az8KlOL0TnT171kAV2s_Cfve7t5W3bb9FzzB9MDTru7ykbpM3uelGLtlCKkkhdR1oNiYpNRK-g-YpN7OLKZ_z5bOijTHda9do0YT7U80AOhC3bbqgCT_yFmi88-qIE4_LulCP0m7x2aW4OWl0LTipYEkbsupnKSjA8cLcIiQjZNbrvI/s1600/botnet.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Exposed Docker API endpoints over the internet are under assault from a sophisticated cryptojacking campaign called Commando Cat.\n\"The campaign deploys a benign container generated using the Commando project,\" Cado security researchers Nate Bill and Matt Muir said in a new report published today. \"The attacker escapes this container and runs multiple payloads on the",
@@ -2252,6 +2268,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/",
+          "publishedOn": "2024-02-01T12:15:13.000Z",
+          "wordCount": 988,
+          "title": "CERTFR-2024-AVI-0087 : Multiples vulnérabilités dans les produits GLPI (01 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/",
+          "publishedOn": "2024-02-01T12:13:12.000Z",
+          "wordCount": 1115,
+          "title": "CERTFR-2024-AVI-0086 : Multiples vulnérabilités dans Juniper (01 février 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/",
           "author": null,

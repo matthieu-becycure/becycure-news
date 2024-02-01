@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T16:12:31.575Z</updated>
+    <updated>2024-02-01T16:30:09.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network]]></title>
+        <id>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</id>
+        <link href="https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html"/>
+        <updated>2024-02-01T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor behind a peer-to-peer (P2P) botnet known as FritzFrog has made a return with a new variant that leverages the Log4Shell vulnerability to propagate internally within an already compromised network.
+"The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible," web infrastructure and security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign]]></title>
         <id>https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html</id>
@@ -15,6 +26,26 @@
 "The campaign deploys a benign container generated using the Commando project," Cado security researchers Nate Bill and Matt Muir said in a new report published today. "The attacker escapes this container and runs multiple payloads on the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0087 : Multiples vulnérabilités dans les produits GLPI (01 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/"/>
+        <updated>2024-02-01T12:15:13.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0086 : Multiples vulnérabilités dans Juniper (01 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/"/>
+        <updated>2024-02-01T12:13:12.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
