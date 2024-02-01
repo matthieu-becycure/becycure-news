@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T22:27:56.498Z</updated>
+    <updated>2024-02-01T22:43:43.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2512,17 +2512,6 @@ According to CloudSEK, the critical exploit facilitates session persistence an
         <link href="https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html"/>
         <updated>2024-01-03T10:46:00.000Z</updated>
         <summary type="html"><![CDATA[As technology adoption has shifted to be employee-led, just in time, and from any location or device, IT and security teams have found themselves contending with an ever-sprawling SaaS attack surface, much of which is often unknown or unmanaged. This greatly increases the risk of identity-based threats, and according to a recent report from CrowdStrike, 80% of breaches today use compromised]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails]]></title>
-        <id>https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html</id>
-        <link href="https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html"/>
-        <updated>2024-01-03T10:42:00.000Z</updated>
-        <summary type="html"><![CDATA[A new exploitation technique called Simple Mail Transfer Protocol (SMTP) smuggling can be weaponized by threat actors to send spoofed emails with fake sender addresses while bypassing security measures.
-"Threat actors could abuse vulnerable SMTP servers worldwide to send malicious emails from arbitrary email addresses, allowing targeted phishing attacks," Timo Longin, a senior security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

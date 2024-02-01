@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhefvQ2Mnu4ZvTL_3l1WFPXfHuAJ1nC5zu8eq5E2vq0TPEpfMEPyjHDa8Z3dMt0iuMwIw5p69v8_9qv86n0Oap19zOmKdLo8pTWFoG34fLrVmfcaUJmUXt7jhpNM4F1kxPhQvKdnYUZR723IFlDFhAj01xEe9etO95vqBgXp3jEDq11lSZ8uXtAEocxozs/s1600/nudge.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhefvQ2Mnu4ZvTL_3l1WFPXfHuAJ1nC5zu8eq5E2vq0TPEpfMEPyjHDa8Z3dMt0iuMwIw5p69v8_9qv86n0Oap19zOmKdLo8pTWFoG34fLrVmfcaUJmUXt7jhpNM4F1kxPhQvKdnYUZR723IFlDFhAj01xEe9etO95vqBgXp3jEDq11lSZ8uXtAEocxozs/s1600/nudge.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new exploitation technique called Simple Mail Transfer Protocol (SMTP) smuggling can be weaponized by threat actors to send spoofed emails with fake sender addresses while bypassing security measures.\n\"Threat actors could abuse vulnerable SMTP servers worldwide to send malicious emails from arbitrary email addresses, allowing targeted phishing attacks,\" Timo Longin, a senior security",
-          "link": "https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html",
-          "publishedOn": "2024-01-03T10:42:00.000Z",
-          "wordCount": null,
-          "title": "SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYlBfH3yE549vJMDJw3rkUvJWWLK36aNCks4Txk5e0VQjjVdaj9EFGRQuUSUWi-YQSXsT3QYBryi2icNpu8n0SMg1TwmNt1hVRMdMWAkauXRw6gcrxcrhXuKFQW_Uorz8t_x0a-2wP8gt0hkpCZ-8BQGZuCzhRT2u0F3_jGv4hDfWVplbpSDBHFr9C_TYX/s1600/smtp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYlBfH3yE549vJMDJw3rkUvJWWLK36aNCks4Txk5e0VQjjVdaj9EFGRQuUSUWi-YQSXsT3QYBryi2icNpu8n0SMg1TwmNt1hVRMdMWAkauXRw6gcrxcrhXuKFQW_Uorz8t_x0a-2wP8gt0hkpCZ-8BQGZuCzhRT2u0F3_jGv4hDfWVplbpSDBHFr9C_TYX/s1600/smtp.jpg"
         }
       ]
     },
