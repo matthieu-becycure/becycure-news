@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T07:43:29.042Z</updated>
+    <updated>2024-02-01T08:12:40.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html</id>
+        <link href="https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html"/>
+        <updated>2024-02-01T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Google-owned Mandiant said it identified new malware employed by a China-nexus espionage threat actor known as UNC5221 and other threat groups during post-exploitation activity targeting Ivanti Connect Secure VPN and Policy Secure devices.
+This includes custom web shells such as BUSHWALK, CHAINLINE, FRAMESTING, and a variant of LIGHTWIRE.
+"CHAINLINE is a Python web shell backdoor that is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Active Exploitation of Critical Vulnerability in iOS, iPadOS, and macOS]]></title>
         <id>https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html</id>
