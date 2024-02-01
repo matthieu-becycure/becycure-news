@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. government on Wednesday said it took steps to neutralize a botnet comprising hundreds of U.S.-based small office and home office (SOHO) routers hijacked by a China-linked state-sponsored threat actor called Volt Typhoon and blunt the impact posed by the hacking campaign.\nThe existence of the botnet, dubbed KV-botnet, was first disclosed by the Black Lotus Labs team at",
+          "link": "https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html",
+          "publishedOn": "2024-02-01T11:37:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Feds Shut Down China-Linked \"KV-Botnet\" Targeting SOHO Routers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJIYnx7rPlbaWvV4TUVsQC1dzIgNPS2Te0mUaNqsJrhbmqnS6xXp2nT_xH36GDIO4vTT2L9Ty3bgRIcPU1MVqYkBaJXZ2y7GclqFrKXq-fqtvIAjyv8eMWrJtawKv4O8Ab1L-JkddZ1YTnZq-0OoX50MOF7MuUGqSDXpob4KL4A84ok7WtApnVPfARl5o/s1600/botnet.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLJIYnx7rPlbaWvV4TUVsQC1dzIgNPS2Te0mUaNqsJrhbmqnS6xXp2nT_xH36GDIO4vTT2L9Ty3bgRIcPU1MVqYkBaJXZ2y7GclqFrKXq-fqtvIAjyv8eMWrJtawKv4O8Ab1L-JkddZ1YTnZq-0OoX50MOF7MuUGqSDXpob4KL4A84ok7WtApnVPfARl5o/s1600/botnet.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "How’s your vulnerability management program doing? Is it effective? A success? Let’s be honest, without the right metrics or analytics, how can you tell how well you’re doing, progressing, or if you’re getting ROI? If you’re not measuring, how do you know it’s working? \nAnd even if you are measuring, faulty reporting or focusing on the wrong metrics can create blind spots and make it harder to",

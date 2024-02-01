@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T12:17:50.342Z</updated>
+    <updated>2024-02-01T12:41:57.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers]]></title>
+        <id>https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html</id>
+        <link href="https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html"/>
+        <updated>2024-02-01T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government on Wednesday said it took steps to neutralize a botnet comprising hundreds of U.S.-based small office and home office (SOHO) routers hijacked by a China-linked state-sponsored threat actor called Volt Typhoon and blunt the impact posed by the hacking campaign.
+The existence of the botnet, dubbed KV-botnet, was first disclosed by the Black Lotus Labs team at]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why the Right Metrics Matter When it Comes to Vulnerability Management]]></title>
         <id>https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html</id>
