@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T22:43:43.734Z</updated>
+    <updated>2024-02-01T23:09:47.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2502,16 +2502,6 @@ It's currently not clear how the account was breached. But the hacked Mandiant a
         <updated>2024-01-03T13:16:00.000Z</updated>
         <summary type="html"><![CDATA[Information stealing malware are actively taking advantage of an undocumented Google OAuth endpoint named MultiLogin to hijack user sessions and allow continuous access to Google services even after a password reset.
 According to CloudSEK, the critical exploit facilitates session persistence and cookie generation, enabling threat actors to maintain access to a valid session in an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Ways to Reduce SaaS Security Risks]]></title>
-        <id>https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html</id>
-        <link href="https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html"/>
-        <updated>2024-01-03T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[As technology adoption has shifted to be employee-led, just in time, and from any location or device, IT and security teams have found themselves contending with an ever-sprawling SaaS attack surface, much of which is often unknown or unmanaged. This greatly increases the risk of identity-based threats, and according to a recent report from CrowdStrike, 80% of breaches today use compromised]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
