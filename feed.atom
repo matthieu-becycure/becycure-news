@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-01T19:09:15.251Z</updated>
+    <updated>2024-02-01T19:23:35.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2523,17 +2523,6 @@ According to CloudSEK, the critical exploit facilitates session persistence an
         <updated>2024-01-03T10:42:00.000Z</updated>
         <summary type="html"><![CDATA[A new exploitation technique called Simple Mail Transfer Protocol (SMTP) smuggling can be weaponized by threat actors to send spoofed emails with fake sender addresses while bypassing security measures.
 "Threat actors could abuse vulnerable SMTP servers worldwide to send malicious emails from arbitrary email addresses, allowing targeted phishing attacks," Timo Longin, a senior security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation]]></title>
-        <id>https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html</id>
-        <link href="https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html"/>
-        <updated>2024-01-03T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Tuesday said it reached a settlement with VoIP service provider XCast over allegations that it facilitated illegal telemarketing campaigns since at least January 2018, in contravention of the Telemarketing Sales Rule (TSR).
-In addition to prohibiting the company from violating the law, the stipulated order requires it to meet other compliance measures,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
