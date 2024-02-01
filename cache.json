@@ -3065,16 +3065,6 @@
           "wordCount": 959,
           "title": "CERTFR-2024-AVI-0001 : Vulnérabilité dans StormShield Network Security (03 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-001/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-001/",
-          "publishedOn": "2024-01-02T13:18:34.000Z",
-          "wordCount": 1448,
-          "title": "CERTFR-2024-ACT-001 : Bulletin d’actualité CERTFR-2024-ACT-001 (02 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
