@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T13:10:16.955Z</updated>
+    <updated>2024-02-02T13:24:23.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking]]></title>
+        <id>https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html</id>
+        <link href="https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html"/>
+        <updated>2024-02-02T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned that more than 2,000 computers in the country have been infected by a strain of malware called DirtyMoe.
+The agency attributed the campaign to a threat actor it calls UAC-0027.
+DirtyMoe, active since at least 2016, is capable of carrying out cryptojacking and distributed denial-of-service (DDoS) attacks. In March]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents]]></title>
         <id>https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html</id>

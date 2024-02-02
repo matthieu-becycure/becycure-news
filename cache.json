@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned that more than 2,000 computers in the country have been infected by a strain of malware called DirtyMoe.\nThe agency attributed the campaign to a threat actor it calls UAC-0027.\nDirtyMoe, active since at least 2016, is capable of carrying out cryptojacking and distributed denial-of-service (DDoS) attacks. In March",
+          "link": "https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html",
+          "publishedOn": "2024-02-02T13:17:00.000Z",
+          "wordCount": null,
+          "title": "DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-19sEoZNiyWA3M0I-Rq4SmOKi6Y01UkceC8fN-fodP5XSqAJQ1y07ihd1Re0bA8MJ4xTG3jKkk1NxcYCd7gyWKgOlF6pVFyVwgfP9-C2OFyAiesQy_1qpbvTCR4RB775ciI_HbRzC15GVTOeGQkfzQb6r5sGEzapfei7SwG6x6YTiE95WKCO76Y5rXIaf/s1600/ua.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-19sEoZNiyWA3M0I-Rq4SmOKi6Y01UkceC8fN-fodP5XSqAJQ1y07ihd1Re0bA8MJ4xTG3jKkk1NxcYCd7gyWKgOlF6pVFyVwgfP9-C2OFyAiesQy_1qpbvTCR4RB775ciI_HbRzC15GVTOeGQkfzQb6r5sGEzapfei7SwG6x6YTiE95WKCO76Y5rXIaf/s1600/ua.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A former software engineer with the U.S. Central Intelligence Agency (CIA) has been sentenced to 40 years in prison by the Southern District of New York (SDNY) for transmitting classified documents to WikiLeaks and for possessing child pornographic material.\nJoshua Adam Schulte, 35, was originally charged in June 2018. He was found guilty in July 2022. On September 13, 2023, he was&",
