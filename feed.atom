@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T06:28:06.272Z</updated>
+    <updated>2024-02-02T06:43:42.427Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Breach: Nation-State Hackers Access Source Code and Internal Docs]]></title>
+        <id>https://thehackernews.com/2024/02/cloudflare-breach-nation-state-hackers.html</id>
+        <link href="https://thehackernews.com/2024/02/cloudflare-breach-nation-state-hackers.html"/>
+        <updated>2024-02-02T06:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare has revealed that it was the target of a likely nation-state attack in which the threat actor leveraged stolen credentials to gain unauthorized access to its Atlassian server and ultimately access some documentation and a limited amount of source code.
+The intrusion, which took place between November 14 and 24, 2023, and detected on November 23, was carried out "with the goal of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network]]></title>
         <id>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</id>
