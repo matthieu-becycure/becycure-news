@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQVAbyHh89pXf7xoz3n77CJLZ32yk9GCL9UliC8WVAp8wDIsvPL1NGQHBqVBrQv8T0_7o4ToxKwKH2uR4yErtlJS00RZE88J94ui-t1MJiBCuRoqc7QzSu4HG7GgbH2Ibabxc0vXJEgvAoiTBv6td_WdDpD-ccFQ-Kb_UwFOD54gv_TPDpZQNqDOlXrXb0/s1600/google.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQVAbyHh89pXf7xoz3n77CJLZ32yk9GCL9UliC8WVAp8wDIsvPL1NGQHBqVBrQv8T0_7o4ToxKwKH2uR4yErtlJS00RZE88J94ui-t1MJiBCuRoqc7QzSu4HG7GgbH2Ibabxc0vXJEgvAoiTBv6td_WdDpD-ccFQ-Kb_UwFOD54gv_TPDpZQNqDOlXrXb0/s1600/google.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Information stealing malware are actively taking advantage of an undocumented Google OAuth endpoint named MultiLogin to hijack user sessions and allow continuous access to Google services even after a password reset.\nAccording to CloudSEK, the critical exploit facilitates session persistence and cookie generation, enabling threat actors to maintain access to a valid session in an",
-          "link": "https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html",
-          "publishedOn": "2024-01-03T13:16:00.000Z",
-          "wordCount": null,
-          "title": "Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj023lOz4mxJLzv6kqk4FRSQtqt4WMnW4K0j4juu6FlyQswCC55M1A1HfedzO_HuVi3yL2UNqsapuudd7Q3RRhsCgKw3qgxM6CMldamZM6F0-Mxx7g3xYR9ADooee3dNJ-WElTE5gfpVZjSDIY1OzisQqoWjiW9XSHmggCwyrXKL_78FCDz71bbs9Ry9X3l/s1600/tokenn.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj023lOz4mxJLzv6kqk4FRSQtqt4WMnW4K0j4juu6FlyQswCC55M1A1HfedzO_HuVi3yL2UNqsapuudd7Q3RRhsCgKw3qgxM6CMldamZM6F0-Mxx7g3xYR9ADooee3dNJ-WElTE5gfpVZjSDIY1OzisQqoWjiW9XSHmggCwyrXKL_78FCDz71bbs9Ry9X3l/s1600/tokenn.jpg"
         }
       ]
     },

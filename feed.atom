@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T00:46:06.572Z</updated>
+    <updated>2024-02-02T01:42:24.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2493,17 +2493,6 @@ It's currently not clear how the account was breached. But the hacked Mandiant a
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset]]></title>
-        <id>https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html</id>
-        <link href="https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html"/>
-        <updated>2024-01-03T13:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Information stealing malware are actively taking advantage of an undocumented Google OAuth endpoint named MultiLogin to hijack user sessions and allow continuous access to Google services even after a password reset.
-According to CloudSEK, the critical exploit facilitates session persistence and cookie generation, enabling threat actors to maintain access to a valid session in an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
