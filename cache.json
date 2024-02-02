@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian state-sponsored actors have staged NT LAN Manager (NTLM) v2 hash relay attacks through various methods from April 2022 to November 2023, targeting high-value targets worldwide.\nThe attacks, attributed to an \"aggressive\" hacking crew called APT28, have set their eyes on organizations dealing with foreign affairs, energy, defense, and transportation, as well as those involved with",
+          "link": "https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html",
+          "publishedOn": "2024-02-02T14:49:00.000Z",
+          "wordCount": null,
+          "title": "Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxA0Md3JY1x-UqA2Ne5Q-ZXcKu4EaQQ-ebhU7N8jmHz7SDZkpCb9GQs_cpcXf-oFXH3g5xoPHWlbFlYehSeByU-OyLkVVP9UGuTHmb8G6ltZDVKOFoHmfhhIvK5E9HqVSftVuPlc6ILjXVU_L6_bEfdKjbI1IJtyCkB4qXVIWfDTY9b2XQsRertitbi3hm/s1600/russian-hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxA0Md3JY1x-UqA2Ne5Q-ZXcKu4EaQQ-ebhU7N8jmHz7SDZkpCb9GQs_cpcXf-oFXH3g5xoPHWlbFlYehSeByU-OyLkVVP9UGuTHmb8G6ltZDVKOFoHmfhhIvK5E9HqVSftVuPlc6ILjXVU_L6_bEfdKjbI1IJtyCkB4qXVIWfDTY9b2XQsRertitbi3hm/s1600/russian-hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned that more than 2,000 computers in the country have been infected by a strain of malware called DirtyMoe.\nThe agency attributed the campaign to a threat actor it calls UAC-0027.\nDirtyMoe, active since at least 2016, is capable of carrying out cryptojacking and distributed denial-of-service (DDoS) attacks. In March",
@@ -2284,6 +2300,56 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/",
+          "publishedOn": "2024-02-02T13:49:56.000Z",
+          "wordCount": 1172,
+          "title": "CERTFR-2024-AVI-0092 : Multiples vulnérabilités dans le noyau Linux de RedHat (02 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0091/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0091/",
+          "publishedOn": "2024-02-02T13:33:56.000Z",
+          "wordCount": 1041,
+          "title": "CERTFR-2024-AVI-0091 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (02 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0090/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une exécution de code arbitraire à distance et une atteinte à la confidentialité …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0090/",
+          "publishedOn": "2024-02-02T12:52:12.000Z",
+          "wordCount": 1168,
+          "title": "CERTFR-2024-AVI-0090 : Multiples vulnérabilités dans les produits IBM (02 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Kaspersky Security pour Linux Mail Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/",
+          "publishedOn": "2024-02-02T10:09:03.000Z",
+          "wordCount": 945,
+          "title": "CERTFR-2024-AVI-0089 : Vulnérabilité dans Kaspersky Security pour Linux Mail Server (02 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/",
+          "publishedOn": "2024-02-02T08:33:22.000Z",
+          "wordCount": 1017,
+          "title": "CERTFR-2024-AVI-0088 : Multiples vulnérabilités dans Microsoft Edge (02 février 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/",
           "author": null,
