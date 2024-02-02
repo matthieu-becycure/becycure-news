@@ -3243,16 +3243,6 @@
           "wordCount": 957,
           "title": "CERTFR-2024-AVI-0004 : Multiples vulnérabilités dans Google Chrome (04 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant authentifié de provoquer une atteinte à la confidentialité des données.\n Synology ne propose pas de correctif pour la version 1.2 de Synology Router Manager. L'éditeur …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/",
-          "publishedOn": "2024-01-04T07:30:55.000Z",
-          "wordCount": 969,
-          "title": "CERTFR-2024-AVI-0003 : Vulnérabilité dans Synology Router Manager (04 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }

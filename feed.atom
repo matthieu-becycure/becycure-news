@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T19:23:39.396Z</updated>
+    <updated>2024-02-02T19:43:35.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2575,17 +2575,6 @@ The three harmful packages, named modularseven, driftme, and catme, attracted a 
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/"/>
         <updated>2024-01-04T07:53:45.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0003 : Vulnérabilité dans Synology Router Manager (04 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0003/"/>
-        <updated>2024-01-04T07:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Synology. Elle permet à un attaquant authentifié de provoquer une atteinte à la confidentialité des données.
- Synology ne propose pas de correctif pour la version 1.2 de Synology Router Manager. L'éditeur …]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
