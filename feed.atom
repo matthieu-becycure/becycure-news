@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T22:27:21.384Z</updated>
+    <updated>2024-02-02T22:43:35.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2522,18 +2522,6 @@ Fortinet FortiGuard Labs, which identified the activity in October 2023, said th
         <link href="https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html"/>
         <updated>2024-01-04T12:13:00.000Z</updated>
         <summary type="html"><![CDATA[Section four of the "Executive Order on Improving the Nation’s Cybersecurity" introduced a lot of people in tech to the concept of a “Software Supply Chain” and securing it. If you make software and ever hope to sell it to one or more federal agencies, you have to pay attention to this. Even if you never plan to sell to a government, understanding your Software Supply Chain and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners]]></title>
-        <id>https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html</id>
-        <link href="https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html"/>
-        <updated>2024-01-04T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices.
-The three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down.
-“These packages, upon initial use, deploy a CoinMiner]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s1600/git.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWiizgmxQwGvwTY8hrYjLnW4e1TY4jVgmI02nJblE4zQmktJSByoPwWFLkTKoBmxSgMhdvHxMV5SPMK90_8h6uuKXnx_WZbvU3Hvt1A1elIzl2K71aPRhrG1xlMVaUJmGrn0dEBd2vPYPBZfM1TL3z1ocrl4FEkXDSJinN7_4ts5MQD6dQhpCHDAiuLvg/s1600/git.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices.\nThe three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down.\n“These packages, upon initial use, deploy a CoinMiner",
-          "link": "https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html",
-          "publishedOn": "2024-01-04T10:35:00.000Z",
-          "wordCount": null,
-          "title": "Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgASpIoZfMw5qX6IE2cATLrF0xBhhtjFtsjZkNLU6qd-JUEuplrbcrkyKHhC-mtqHu5AnYBzBqaCbUtQQQjDKPQzeucAo2lehmTIIUrXOBh8_gZmtsq6FgGn4vDqkOL5-nKgzsCt6YqYWbdrl9a6R0SMv3cYsAsE6RxRj72XPLn6fa8yvIeWo3uobYWuX/s1600/code.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFgASpIoZfMw5qX6IE2cATLrF0xBhhtjFtsjZkNLU6qd-JUEuplrbcrkyKHhC-mtqHu5AnYBzBqaCbUtQQQjDKPQzeucAo2lehmTIIUrXOBh8_gZmtsq6FgGn4vDqkOL5-nKgzsCt6YqYWbdrl9a6R0SMv3cYsAsE6RxRj72XPLn6fa8yvIeWo3uobYWuX/s1600/code.jpg"
         }
       ]
     },
