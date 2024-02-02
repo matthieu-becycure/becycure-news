@@ -3123,16 +3123,6 @@
           "wordCount": 969,
           "title": "CERTFR-2024-AVI-0003 : Vulnérabilité dans Synology Router Manager (04 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans StormShield Stormshield Network Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0001/",
-          "publishedOn": "2024-01-03T14:03:35.000Z",
-          "wordCount": 959,
-          "title": "CERTFR-2024-AVI-0001 : Vulnérabilité dans StormShield Network Security (03 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
