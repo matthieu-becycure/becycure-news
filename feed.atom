@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T18:13:00.664Z</updated>
+    <updated>2024-02-02T18:29:13.131Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2588,18 +2588,6 @@ The three harmful packages, named modularseven, driftme, and catme, attracted a 
  Synology ne propose pas de correctif pour la version 1.2 de Synology Router Manager. L'éditeur …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandiant's Twitter Account Restored After Six-Hour Crypto Scam Hack]]></title>
-        <id>https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html</id>
-        <link href="https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html"/>
-        <updated>2024-01-04T06:29:00.000Z</updated>
-        <summary type="html"><![CDATA[American cybersecurity firm and Google Cloud subsidiary Mandiant had its X (formerly Twitter) account compromised for more than six hours by an unknown attacker to propagate a cryptocurrency scam.
-As of writing, the account has been restored on the social media platform.
-It's currently not clear how the account was breached. But the hacked Mandiant account was initially renamed to "@]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
