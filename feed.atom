@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T20:43:27.295Z</updated>
+    <updated>2024-02-02T21:08:50.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2534,17 +2534,6 @@ Fortinet FortiGuard Labs, which identified the activity in October 2023, said th
         <summary type="html"><![CDATA[Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices.
 The three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down.
 “These packages, upon initial use, deploy a CoinMiner]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UAC-0050 Group Using New Phishing Tactics to Distribute Remcos RAT]]></title>
-        <id>https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html</id>
-        <link href="https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html"/>
-        <updated>2024-01-04T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as UAC-0050 is leveraging phishing attacks to distribute Remcos RAT using new strategies to evade detection from security software.
-"The group's weapon of choice is Remcos RAT, a notorious malware for remote surveillance and control, which has been at the forefront of its espionage arsenal," Uptycs security researchers Karthick Kumar and Shilpesh Trivedi said in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
