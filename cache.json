@@ -3213,36 +3213,6 @@
           "wordCount": 1012,
           "title": "CERTFR-2024-AVI-0007 : Multiples vulnérabilités dans Wireshark (05 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0006/",
-          "publishedOn": "2024-01-04T08:10:07.000Z",
-          "wordCount": 1218,
-          "title": "CERTFR-2024-AVI-0006 : Multiples vulnérabilités dans Google Android (04 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0005/",
-          "publishedOn": "2024-01-04T07:54:57.000Z",
-          "wordCount": 924,
-          "title": "CERTFR-2024-AVI-0005 : Vulnérabilité dans Wireshark (04 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0004/",
-          "publishedOn": "2024-01-04T07:53:45.000Z",
-          "wordCount": 957,
-          "title": "CERTFR-2024-AVI-0004 : Multiples vulnérabilités dans Google Chrome (04 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
