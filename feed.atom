@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T10:29:04.716Z</updated>
+    <updated>2024-02-02T10:43:25.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INTERPOL Arrests 31 in Global Operation, Identifies 1,900+ Ransomware-Linked IPs]]></title>
+        <id>https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html</id>
+        <link href="https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html"/>
+        <updated>2024-02-02T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[An INTERPOL-led collaborative operation targeting phishing, banking malware, and ransomware attacks has led to the identification of 1,300 suspicious IP addresses and URLs.
+The law enforcement effort, codenamed Synergia, took place between September and November 2023 in an attempt to blunt the "growth, escalation and professionalization of transnational cybercrime."
+Involving 60 law]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Breach: Nation-State Hackers Access Source Code and Internal Docs]]></title>
         <id>https://thehackernews.com/2024/02/cloudflare-breach-nation-state-hackers.html</id>

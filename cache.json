@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An INTERPOL-led collaborative operation targeting phishing, banking malware, and ransomware attacks has led to the identification of 1,300 suspicious IP addresses and URLs.\nThe law enforcement effort, codenamed Synergia, took place between September and November 2023 in an attempt to blunt the \"growth, escalation and professionalization of transnational cybercrime.\"\nInvolving 60 law",
+          "link": "https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html",
+          "publishedOn": "2024-02-02T10:23:00.000Z",
+          "wordCount": null,
+          "title": "INTERPOL Arrests 31 in Global Operation, Identifies 1,900+ Ransomware-Linked IPs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMPIHwY0MA8BLaJhkijkiQiF4PpLrCL5nSoosgN09E77t8Qmh7a_FJ5Rcx1cvXRJOOrFPI1iNUncIIzb3xbNqX2-uTLc0OHyWY_XQ7cjusUh6Yc7tGHmtXHiPE2lgI1nZwrlysz2nIG-v69Xbamtv3WbwmYJmuPlLWHb_DKkpsuv1s8vskjkRRLXOh3zpj/s1600/cybercrime.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMPIHwY0MA8BLaJhkijkiQiF4PpLrCL5nSoosgN09E77t8Qmh7a_FJ5Rcx1cvXRJOOrFPI1iNUncIIzb3xbNqX2-uTLc0OHyWY_XQ7cjusUh6Yc7tGHmtXHiPE2lgI1nZwrlysz2nIG-v69Xbamtv3WbwmYJmuPlLWHb_DKkpsuv1s8vskjkRRLXOh3zpj/s1600/cybercrime.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/cloudflare-breach-nation-state-hackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cloudflare has revealed that it was the target of a likely nation-state attack in which the threat actor leveraged stolen credentials to gain unauthorized access to its Atlassian server and ultimately access some documentation and a limited amount of source code.\nThe intrusion, which took place between November 14 and 24, 2023, and detected on November 23, was carried out \"with the goal of",
