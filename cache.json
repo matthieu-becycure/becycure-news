@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries.\nThe officials include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin",
+          "link": "https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html",
+          "publishedOn": "2024-02-03T07:33:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6oLVWbaiMc4E45pKEGpXyNtyjE9ykR4s794BaRjYrUqvtZEDDbiYTNNZWHWvG39RJcbzkLov8-BsNnCMjrzyatdTJyqZWcH0h-WNaIoALweoO8Pbg0xrOBBtlbCtQQWiCyEe5w1qdwN0R-994Pwvymd1L556tniJB33uDKca3vKjgMvYVZSFunBFiqA7d/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6oLVWbaiMc4E45pKEGpXyNtyjE9ykR4s794BaRjYrUqvtZEDDbiYTNNZWHWvG39RJcbzkLov8-BsNnCMjrzyatdTJyqZWcH0h-WNaIoALweoO8Pbg0xrOBBtlbCtQQWiCyEe5w1qdwN0R-994Pwvymd1L556tniJB33uDKca3vKjgMvYVZSFunBFiqA7d/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The decentralized social network Mastodon has disclosed a critical security flaw that enables malicious actors to impersonate and take over any account.\n\"Due to insufficient origin validation in all Mastodon, attackers can impersonate and take over any remote account,\" the maintainers said in a terse advisory.\nThe vulnerability, tracked as CVE-2024-23832, has a severity rating of 9.4 out of",

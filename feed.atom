@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-03T07:23:35.467Z</updated>
+    <updated>2024-02-03T07:43:45.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html</id>
+        <link href="https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html"/>
+        <updated>2024-02-03T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries.
+The officials include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account]]></title>
         <id>https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html</id>
