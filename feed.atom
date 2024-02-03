@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-02T23:43:27.618Z</updated>
+    <updated>2024-02-03T00:44:56.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2512,16 +2512,6 @@ The incident, described as a "powerful hacker attack," first came to light last
         <summary type="html"><![CDATA[A new variant of remote access trojan called Bandook has been observed being propagated via phishing attacks with an aim to infiltrate Windows machines, underscoring the continuous evolution of the malware.
 Fortinet FortiGuard Labs, which identified the activity in October 2023, said the malware is distributed via a PDF file that embeds a link to a password-protected .7z archive.
 “]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Ways To Supercharge Your Software Supply Chain Security]]></title>
-        <id>https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html</id>
-        <link href="https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html"/>
-        <updated>2024-01-04T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Section four of the "Executive Order on Improving the Nation’s Cybersecurity" introduced a lot of people in tech to the concept of a “Software Supply Chain” and securing it. If you make software and ever hope to sell it to one or more federal agencies, you have to pay attention to this. Even if you never plan to sell to a government, understanding your Software Supply Chain and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
