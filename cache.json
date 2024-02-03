@@ -3145,16 +3145,6 @@
           "wordCount": 949,
           "title": "CERTFR-2024-AVI-0009 : Multiples vulnérabilités dans Centreon Web (05 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0008/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0008/",
-          "publishedOn": "2024-01-05T07:49:16.000Z",
-          "wordCount": 937,
-          "title": "CERTFR-2024-AVI-0008 : Vulnérabilité dans Ivanti Endpoint Manager (05 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
