@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-03T21:43:37.183Z</updated>
+    <updated>2024-02-03T22:08:15.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2462,27 +2462,6 @@ The intrusions have been attributed to an Iranian "psychological operation group
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed Secrets are Everywhere. Here's How to Tackle Them]]></title>
-        <id>https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html</id>
-        <link href="https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html"/>
-        <updated>2024-01-05T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Picture this: you stumble upon a concealed secret within your company's source code. Instantly, a wave of panic hits as you grasp the possible consequences. This one hidden secret has the power to pave the way for unauthorized entry, data breaches, and a damaged reputation. Understanding the secret is just the beginning; swift and resolute action becomes imperative. However, lacking the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware]]></title>
-        <id>https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html</id>
-        <link href="https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html"/>
-        <updated>2024-01-05T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Mobile network operator Orange Spain suffered an internet outage for several hours on January 3 after a threat actor used administrator credentials captured by means of stealer malware to hijack the border gateway protocol (BGP) traffic.
-"The Orange account in the IP network coordination center (RIPE) has suffered improper access that has affected the browsing of some of our customers," the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
