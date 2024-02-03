@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-03T17:09:19.664Z</updated>
+    <updated>2024-02-03T17:25:41.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2535,18 +2535,6 @@ Tracked as CVE-2023-39336, the vulnerability has been rated 9.6 out of 10 on the
         <summary type="html"><![CDATA[Ukrainian cybersecurity authorities have disclosed that the Russian state-sponsored threat actor known as Sandworm was inside telecom operator Kyivstar's systems at least since May 2023.
 The development was first reported by Reuters.
 The incident, described as a "powerful hacker attack," first came to light last month, knocking out access to mobile and internet services]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bandook RAT Variant Resurfaces, Targeting Windows Machines]]></title>
-        <id>https://thehackernews.com/2024/01/new-bandook-rat-variant-resurfaces.html</id>
-        <link href="https://thehackernews.com/2024/01/new-bandook-rat-variant-resurfaces.html"/>
-        <updated>2024-01-05T05:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A new variant of remote access trojan called Bandook has been observed being propagated via phishing attacks with an aim to infiltrate Windows machines, underscoring the continuous evolution of the malware.
-Fortinet FortiGuard Labs, which identified the activity in October 2023, said the malware is distributed via a PDF file that embeds a link to a password-protected .7z archive.
-“]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
