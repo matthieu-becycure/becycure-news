@@ -2228,38 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw9jyRStqXb7i9fTfF0N-Gu3KQRHRC49lqKPrK1yrKoYGmzTDK7uSvIBstiXco9WCSz-T-qNb6J9HQ_6SCIE-j9YoGzidvI7_h6y8kVOeetFf-QtCr77mq4TRSMI8CU-flp8j-8AvO96fsEuM1gb5UcdW0sfcMZH8-IpHz02qQNtiR1DOV5NW7IHvAOjzB/s1600/orange.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw9jyRStqXb7i9fTfF0N-Gu3KQRHRC49lqKPrK1yrKoYGmzTDK7uSvIBstiXco9WCSz-T-qNb6J9HQ_6SCIE-j9YoGzidvI7_h6y8kVOeetFf-QtCr77mq4TRSMI8CU-flp8j-8AvO96fsEuM1gb5UcdW0sfcMZH8-IpHz02qQNtiR1DOV5NW7IHvAOjzB/s1600/orange.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti has released security updates to address a critical flaw impacting its Endpoint Manager (EPM) solution that, if successfully exploited, could result in remote code execution (RCE) on susceptible servers.\nTracked as CVE-2023-39336, the vulnerability has been rated 9.6 out of 10 on the CVSS scoring system. The shortcoming impacts EPM 2021 and EPM 2022 prior to SU5.\n“If exploited, an",
-          "link": "https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html",
-          "publishedOn": "2024-01-05T07:42:00.000Z",
-          "wordCount": null,
-          "title": "Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqRtSBwVr825Z6GQLmT0fX_kCBRUgR0f7IMBNUKqlDHZb0xYCus1mfOubVceujr_Ah01JOCrNg3VIbw5N4Tj7MQDqtojKGZyfyFoGKY4Xq5XZB8OSHvRjrGCKLm3BuoE2qSfU1e4jyjM8hD4VErEja35TVcQszBWYDv6rQ6HGDY9dCDGmNEwHsw1DCja7J/s1600/ivanti.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqRtSBwVr825Z6GQLmT0fX_kCBRUgR0f7IMBNUKqlDHZb0xYCus1mfOubVceujr_Ah01JOCrNg3VIbw5N4Tj7MQDqtojKGZyfyFoGKY4Xq5XZB8OSHvRjrGCKLm3BuoE2qSfU1e4jyjM8hD4VErEja35TVcQszBWYDv6rQ6HGDY9dCDGmNEwHsw1DCja7J/s1600/ivanti.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ukrainian cybersecurity authorities have disclosed that the Russian state-sponsored threat actor known as Sandworm was inside telecom operator Kyivstar's systems at least since May 2023.\nThe development was first reported by Reuters.\nThe incident, described as a \"powerful hacker attack,\" first came to light last month, knocking out access to mobile and internet services",
-          "link": "https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html",
-          "publishedOn": "2024-01-05T07:27:00.000Z",
-          "wordCount": null,
-          "title": "Russian Hackers Had Covert Access to Ukraine's Telecom Giant for Months",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaa26z4tIkVRJMXkBFap6Rp4KOva_xea9IVdoEbuNTj4jJk3VJ45XXZY0OWB8kiU_CaCfg7INEAWTKfG-4q8TKUyKdVQtDfTsh5xszI_4dUmME9s89rgQSkRfLCVt5snVvhaLpXWD2bvB06E2qU78nsB1TeYQxqISMfKu7xSoKVtC4XJH5W6CjnIJy-6z/s1600/telecom.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIaa26z4tIkVRJMXkBFap6Rp4KOva_xea9IVdoEbuNTj4jJk3VJ45XXZY0OWB8kiU_CaCfg7INEAWTKfG-4q8TKUyKdVQtDfTsh5xszI_4dUmME9s89rgQSkRfLCVt5snVvhaLpXWD2bvB06E2qU78nsB1TeYQxqISMfKu7xSoKVtC4XJH5W6CjnIJy-6z/s1600/telecom.jpg"
         }
       ]
     },
@@ -3186,16 +3154,6 @@
           "publishedOn": "2024-01-05T07:49:16.000Z",
           "wordCount": 937,
           "title": "CERTFR-2024-AVI-0008 : Vulnérabilité dans Ivanti Endpoint Manager (05 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/",
-          "publishedOn": "2024-01-05T07:42:38.000Z",
-          "wordCount": 1012,
-          "title": "CERTFR-2024-AVI-0007 : Multiples vulnérabilités dans Wireshark (05 janvier 2024)",
           "imageUrl": null
         }
       ]

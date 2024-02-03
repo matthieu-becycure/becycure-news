@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-03T19:23:45.047Z</updated>
+    <updated>2024-02-03T19:43:30.980Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2503,40 +2503,6 @@ The intrusions have been attributed to an Iranian "psychological operation group
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Ivanti. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0007 : Multiples vulnérabilités dans Wireshark (05 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0007/"/>
-        <updated>2024-01-05T07:42:38.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Wireshark. Elles permettent à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution]]></title>
-        <id>https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html</id>
-        <link href="https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html"/>
-        <updated>2024-01-05T07:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Ivanti has released security updates to address a critical flaw impacting its Endpoint Manager (EPM) solution that, if successfully exploited, could result in remote code execution (RCE) on susceptible servers.
-Tracked as CVE-2023-39336, the vulnerability has been rated 9.6 out of 10 on the CVSS scoring system. The shortcoming impacts EPM 2021 and EPM 2022 prior to SU5.
-“If exploited, an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Had Covert Access to Ukraine's Telecom Giant for Months]]></title>
-        <id>https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html</id>
-        <link href="https://thehackernews.com/2024/01/russian-hackers-had-covert-access-to.html"/>
-        <updated>2024-01-05T07:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian cybersecurity authorities have disclosed that the Russian state-sponsored threat actor known as Sandworm was inside telecom operator Kyivstar's systems at least since May 2023.
-The development was first reported by Reuters.
-The incident, described as a "powerful hacker attack," first came to light last month, knocking out access to mobile and internet services]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
