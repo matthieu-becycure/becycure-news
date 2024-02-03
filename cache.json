@@ -3135,16 +3135,6 @@
           "wordCount": 1183,
           "title": "CERTFR-2024-AVI-0010 : Multiples vulnérabilités dans IBM (05 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0009/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Centreon Web. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0009/",
-          "publishedOn": "2024-01-05T08:22:33.000Z",
-          "wordCount": 949,
-          "title": "CERTFR-2024-AVI-0009 : Multiples vulnérabilités dans Centreon Web (05 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
