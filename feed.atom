@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-04T18:43:31.749Z</updated>
+    <updated>2024-02-04T19:08:37.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2427,18 +2427,6 @@ The DPRK "was responsible for almost a third of all funds stolen in crypto attac
         <updated>2024-01-06T08:19:00.000Z</updated>
         <summary type="html"><![CDATA[Telecommunication, media, internet service providers (ISPs), information technology (IT)-service providers, and Kurdish websites in the Netherlands have been targeted as part of a new cyber espionage campaign undertaken by a Türkiye-nexus threat actor known as Sea Turtle.
 "The infrastructure of the targets was susceptible to supply chain and island-hopping attacks, which the attack group]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware]]></title>
-        <id>https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html</id>
-        <link href="https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html"/>
-        <updated>2024-01-06T06:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The recent wave of cyber attacks targeting Albanian organizations involved the use of a wiper called No-Justice.
-The findings come from cybersecurity company ClearSky, which said the Windows-based malware "crashes the operating system in a way that it cannot be rebooted."
-The intrusions have been attributed to an Iranian "psychological operation group" called Homeland]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
