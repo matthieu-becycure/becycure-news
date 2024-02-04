@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKt1SEX3HeNywdWzW7B9-QtNM5JlHVXkhfn0taqc8YJVHvDhlTOe7-2W25nxoqvWrEwpWRPH_Z-qbfDU8fy_5xC-qhWNOZkkx3G1UgAwgE1b-VKA7g7iiy1QFcpcqVRFNgSy1WKEoK6hSCLHA1O-VdYkv4d4mfGp7bE1ruJ3nVeMrvb0Z0uJhWE4HlPf8q/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKt1SEX3HeNywdWzW7B9-QtNM5JlHVXkhfn0taqc8YJVHvDhlTOe7-2W25nxoqvWrEwpWRPH_Z-qbfDU8fy_5xC-qhWNOZkkx3G1UgAwgE1b-VKA7g7iiy1QFcpcqVRFNgSy1WKEoK6hSCLHA1O-VdYkv4d4mfGp7bE1ruJ3nVeMrvb0Z0uJhWE4HlPf8q/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new Apple macOS backdoor called SpectralBlur that overlaps with a known malware family that has been attributed to North Korean threat actors.\n“SpectralBlur is a moderately capable backdoor that can upload/download files, run a shell, update its configuration, delete files, hibernate, or sleep, based on commands issued from the [",
-          "link": "https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html",
-          "publishedOn": "2024-01-05T15:35:00.000Z",
-          "wordCount": null,
-          "title": "SpectralBlur: New macOS Backdoor Threat from North Korean Hackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE5vc9SiyQBf8cf9mwADcBAklaBzW53ebVQD-Y08-Ygj4BOnQynsD-EMDXyrUYc_hChIXVRQFr9vVCZSL_0Rwa-PLEvlc2EjVgwg9cJ7HM5PlVcwWUQxPNlDWoORk5KXLV8WFixkPFq2DQ44X6gH8bKv3xryqjgLNl9JFDI-_JXwuazrtCH4LGeYQeP5P_/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE5vc9SiyQBf8cf9mwADcBAklaBzW53ebVQD-Y08-Ygj4BOnQynsD-EMDXyrUYc_hChIXVRQFr9vVCZSL_0Rwa-PLEvlc2EjVgwg9cJ7HM5PlVcwWUQxPNlDWoORk5KXLV8WFixkPFq2DQ44X6gH8bKv3xryqjgLNl9JFDI-_JXwuazrtCH4LGeYQeP5P_/s1600/apple.jpg"
         }
       ]
     },

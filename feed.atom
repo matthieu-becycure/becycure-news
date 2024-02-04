@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-04T03:24:43.111Z</updated>
+    <updated>2024-02-04T03:43:26.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2439,17 +2439,6 @@ The DPRK "was responsible for almost a third of all funds stolen in crypto attac
         <summary type="html"><![CDATA[The recent wave of cyber attacks targeting Albanian organizations involved the use of a wiper called No-Justice.
 The findings come from cybersecurity company ClearSky, which said the Windows-based malware "crashes the operating system in a way that it cannot be rebooted."
 The intrusions have been attributed to an Iranian "psychological operation group" called Homeland]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SpectralBlur: New macOS Backdoor Threat from North Korean Hackers]]></title>
-        <id>https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html</id>
-        <link href="https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html"/>
-        <updated>2024-01-05T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new Apple macOS backdoor called SpectralBlur that overlaps with a known malware family that has been attributed to North Korean threat actors.
-“SpectralBlur is a moderately capable backdoor that can upload/download files, run a shell, update its configuration, delete files, hibernate, or sleep, based on commands issued from the []]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
