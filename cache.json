@@ -3093,16 +3093,6 @@
           "wordCount": 1191,
           "title": "CERTFR-2024-AVI-0011 : Multiples vulnérabilités dans les produits Qnap (08 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0010/",
-          "publishedOn": "2024-01-05T13:59:02.000Z",
-          "wordCount": 1183,
-          "title": "CERTFR-2024-AVI-0010 : Multiples vulnérabilités dans IBM (05 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
