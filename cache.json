@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/combined-security-practices-changing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks",
+          "link": "https://thehackernews.com/2024/02/combined-security-practices-changing.html",
+          "publishedOn": "2024-02-05T11:12:00.000Z",
+          "wordCount": null,
+          "title": "Combined Security Practices Changing the Game for Risk Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoYdBULuJ7a52D4Jz5jvKjTOvqK2p3omwyhyphenhyphenqrms8if6-VtgCB1mNqR6GYjuMkSV44Kz-5hCmF1gk2-p0eqLnwDuLzTYaSaQhrFtzfSY6pIHrD7lXbq0T0eRhu742MP0mCvUNSyPlvZdz0yA_0Aa0NDW9nXRFAAbsChII2Yqckz__YjgVD9wgrQF3Oesk/s1600/shq.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoYdBULuJ7a52D4Jz5jvKjTOvqK2p3omwyhyphenhyphenqrms8if6-VtgCB1mNqR6GYjuMkSV44Kz-5hCmF1gk2-p0eqLnwDuLzTYaSaQhrFtzfSY6pIHrD7lXbq0T0eRhu742MP0mCvUNSyPlvZdz0yA_0Aa0NDW9nXRFAAbsChII2Yqckz__YjgVD9wgrQF3Oesk/s1600/shq.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The iPhones belonging to nearly three dozen journalists, activists, human rights lawyers, and civil society members in Jordan have been targeted with NSO Group's Pegasus spyware, according to joint findings from Access Now and the Citizen Lab.\nNine of the 35 individuals have been publicly confirmed as targeted, out of whom had their devices compromised with the mercenary",

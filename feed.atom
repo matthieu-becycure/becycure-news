@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-05T11:08:39.895Z</updated>
+    <updated>2024-02-05T11:23:31.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Combined Security Practices Changing the Game for Risk Management]]></title>
+        <id>https://thehackernews.com/2024/02/combined-security-practices-changing.html</id>
+        <link href="https://thehackernews.com/2024/02/combined-security-practices-changing.html"/>
+        <updated>2024-02-05T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan]]></title>
         <id>https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html</id>
