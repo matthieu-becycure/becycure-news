@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-05T18:12:53.025Z</updated>
+    <updated>2024-02-05T18:29:18.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ALE-003 : Multiples vulnérabilités affectant la solution Anydesk (05 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/</id>
+        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/"/>
+        <updated>2024-02-05T16:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Le 29 janvier 2024 l'ANSSI a été alertée par le BSI que l'éditeur AnyDesk Software GmbH a été victime d'une fuite de données. Le code source des applications développées par l'éditeur ainsi que des certificats et clés privées pourraient avoir été dérobés.
+ L'éditeur est spécialisé dans …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering]]></title>
         <id>https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html</id>
