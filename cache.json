@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Patchwork likely used romance scam lures to trap victims in Pakistan and India, and infect their Android devices with a remote access trojan called VajraSpy.\nSlovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which were available for download from the official Google Play Store and were collectively downloaded more than 1,400 times between",
+          "link": "https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html",
+          "publishedOn": "2024-02-05T13:18:00.000Z",
+          "wordCount": null,
+          "title": "Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtio1q-CLJas94ATMozGjvVW6-Y9RrvUZxF0d-qv1vB87eCUuz0HfhcyZHRlHPw7PGaSHO-U5Vrzv-Yq9jjAvTZKh6xqOWWfWRpAVFtNp9PTF8AuCM_22fMVos5Peb3c4uhkLnO8JWCb6hGmw8whGhv0UREA0k3dHkGO_MxCvJGMMJ0xqb_mi-PCn5ym3v/s1600/app.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtio1q-CLJas94ATMozGjvVW6-Y9RrvUZxF0d-qv1vB87eCUuz0HfhcyZHRlHPw7PGaSHO-U5Vrzv-Yq9jjAvTZKh6xqOWWfWRpAVFtNp9PTF8AuCM_22fMVos5Peb3c4uhkLnO8JWCb6hGmw8whGhv0UREA0k3dHkGO_MxCvJGMMJ0xqb_mi-PCn5ym3v/s1600/app.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Companies are engaged in a seemingly endless cat-and-mouse game when it comes to cybersecurity and cyber threats. As organizations put up one defensive block after another, malicious actors kick their game up a notch to get around those blocks. Part of the challenge is to coordinate the defensive abilities of disparate security tools, even as organizations have limited resources and a dearth of",
+          "link": "https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html",
+          "publishedOn": "2024-02-05T11:12:00.000Z",
+          "wordCount": null,
+          "title": "Hands-On Review: SASE-based XDR from Cato Networks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t434xOc076hRhbvGCvAM8ncS3FhQFect76bc8dd5mNxn6mgnT4Gl-yTtWfCRJ25avAPyKxLIWCZsL4nPVDRp_jnfNV8eNBVpRxEbOY53skD2dpp5-7pjgJ4ABCKU60t0aNq781bhIcDfRD2i2qfbd2lQEcBj_ZRrKKNJsaZ3GZXDjkgn8_UXMgZaiVI/s1600/xdr.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_t434xOc076hRhbvGCvAM8ncS3FhQFect76bc8dd5mNxn6mgnT4Gl-yTtWfCRJ25avAPyKxLIWCZsL4nPVDRp_jnfNV8eNBVpRxEbOY53skD2dpp5-7pjgJ4ABCKU60t0aNq781bhIcDfRD2i2qfbd2lQEcBj_ZRrKKNJsaZ3GZXDjkgn8_UXMgZaiVI/s1600/xdr.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/combined-security-practices-changing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks",
