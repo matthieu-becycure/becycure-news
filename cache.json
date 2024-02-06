@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SaaS applications are the darlings of the software world. They enable work from anywhere, facilitate collaboration, and offer a cost-effective alternative to owning the software outright. At the same time, the very features that make SaaS apps so embraced – access from anywhere and collaboration – can also be exploited by threat actors.\nRecently, Adaptive Shield commissioned a Total Economic",
+          "link": "https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html",
+          "publishedOn": "2024-02-06T10:53:00.000Z",
+          "wordCount": null,
+          "title": "How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tLCrT1SgJZwkMIUpyJEu5k5YNNVuq4KNitz12Ngg0xPQ1hWW0Nvt4JLWghjCqz0wybYUmyYJSvWR3HWDnBgRQpvi6KtpDCcgjJB17ht1Pt8uO5-5Olqk33iHdURz0-22vY4Hgq4Dn5c8Tb8sE0efLtNN79sFGlfuQXtoG2CDJJwsYoH-hwZqFCD80Rk/s1600/as.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6tLCrT1SgJZwkMIUpyJEu5k5YNNVuq4KNitz12Ngg0xPQ1hWW0Nvt4JLWghjCqz0wybYUmyYJSvWR3HWDnBgRQpvi6KtpDCcgjJB17ht1Pt8uO5-5Olqk33iHdURz0-22vY4Hgq4Dn5c8Tb8sE0efLtNN79sFGlfuQXtoG2CDJJwsYoH-hwZqFCD80Rk/s1600/as.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Employment agencies and retail companies chiefly located in the Asia-Pacific (APAC) region have been targeted by a previously undocumented threat actor known as ResumeLooters since early 2023 with the goal of stealing sensitive data.\nSingapore-headquartered Group-IB said the hacking crew's activities are geared towards job search platforms and the theft of resumes, with as many as 65",
