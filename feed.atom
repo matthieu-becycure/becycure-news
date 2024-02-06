@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-06T23:24:09.494Z</updated>
+    <updated>2024-02-06T23:43:24.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2517,18 +2517,6 @@ Links to files, repositories, and boards can be shared with anyone, anywhere. Th
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy]]></title>
-        <id>https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html</id>
-        <link href="https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html"/>
-        <updated>2024-01-08T11:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity is an infinite journey in a digital landscape that never ceases to change. According to Ponemon Institute1, “only 59% of organizations say their cybersecurity strategy has changed over the past two years.” This stagnation in strategy adaptation can be traced back to several key issues.
-
-Talent Retention Challenges: The cybersecurity field is rapidly advancing, requiring a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
