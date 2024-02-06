@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-06T05:26:39.996Z</updated>
+    <updated>2024-02-06T05:43:24.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance]]></title>
+        <id>https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html</id>
+        <link href="https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html"/>
+        <updated>2024-02-06T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. State Department said it's implementing a new policy that imposes visa restrictions on individuals who are linked to the illegal use of commercial spyware to surveil civil society members.
+"The misuse of commercial spyware threatens privacy and freedoms of expression, peaceful assembly, and association," Secretary of State Antony Blinken said. "Such targeting has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-ALE-003 : Multiples vulnérabilités affectant la solution Anydesk (05 février 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/</id>
