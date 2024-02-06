@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are leveraging bogus Facebook job advertisements as a lure to trick prospective targets into installing a new Windows-based stealer malware codenamed Ov3r_Stealer.\n\"This malware is designed to steal credentials and crypto wallets and send those to a Telegram channel that the threat actor monitors,\" Trustwave SpiderLabs said in a report shared with The Hacker News.\nOv3r_Stealer",
+          "link": "https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html",
+          "publishedOn": "2024-02-06T14:09:00.000Z",
+          "wordCount": null,
+          "title": "Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgadxLa3hdliqOEcy-MNpSHhAA8rr0xcYjsy7knyOvbuDhSn9mWWOnnM3eAnJ7b250Qt19sCP7upZ9Bjcz2Eb1YOEH6coGpNjXPJdBFzAmFJfjxWsv3gV5RmWT-Yr8H33n427f5Z1nbhMWD0_JA8vztwU19fdzy_KiDPJ9F_OPFMc1T0uWlKv8eVV6v_kdd/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgadxLa3hdliqOEcy-MNpSHhAA8rr0xcYjsy7knyOvbuDhSn9mWWOnnM3eAnJ7b250Qt19sCP7upZ9Bjcz2Eb1YOEH6coGpNjXPJdBFzAmFJfjxWsv3gV5RmWT-Yr8H33n427f5Z1nbhMWD0_JA8vztwU19fdzy_KiDPJ9F_OPFMc1T0uWlKv8eVV6v_kdd/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three new security vulnerabilities have been discovered in Azure HDInsight's Apache Hadoop, Kafka, and Spark services that could be exploited to achieve privilege escalation and a regular expression denial-of-service (ReDoS) condition.\n\"The new vulnerabilities affect any authenticated user of Azure HDInsight services such as Apache Ambari and Apache Oozie,\" Orca security",
+          "link": "https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html",
+          "publishedOn": "2024-02-06T14:02:00.000Z",
+          "wordCount": null,
+          "title": "Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UpJj4RRDmHSfQzbGIpYCWuZ6FRnJvwUL3G9A6zcxOdMDJdpsg4oVnky4N43rRuB2syS7LAFlS3UYVBfwIouy5BHNLj0UtL-3nQXVRW-4PvsBGqCbqBqvHMIotadY_7X5AgAKfWDk8vhpvYi6-QBoIxVDI7wb4gs7D5HdLE1aSRlxD27_vSZlVKwrt1Ub/s1600/cloud.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7UpJj4RRDmHSfQzbGIpYCWuZ6FRnJvwUL3G9A6zcxOdMDJdpsg4oVnky4N43rRuB2syS7LAFlS3UYVBfwIouy5BHNLj0UtL-3nQXVRW-4PvsBGqCbqBqvHMIotadY_7X5AgAKfWDk8vhpvYi6-QBoIxVDI7wb4gs7D5HdLE1aSRlxD27_vSZlVKwrt1Ub/s1600/cloud.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "SaaS applications are the darlings of the software world. They enable work from anywhere, facilitate collaboration, and offer a cost-effective alternative to owning the software outright. At the same time, the very features that make SaaS apps so embraced – access from anywhere and collaboration – can also be exploited by threat actors.\nRecently, Adaptive Shield commissioned a Total Economic",
