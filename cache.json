@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recently disclosed server-side request forgery (SSRF) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation.\nThe Shadowserver Foundation said it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others.\nThe attacks exploit CVE-2024-21893 (CVSS",
+          "link": "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
+          "publishedOn": "2024-02-06T06:58:00.000Z",
+          "wordCount": null,
+          "title": "Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraNohdN4U1PcWdmQxmLb8RwVWHndGdf7wvL0CbP0NdPXeN1oLuq-MHmHzkliX2zHzHofzBbno3NHBJWVe2zbvvwZI4FGGTZ5UWaCLNfvVV9CltXs5OHyxbvoDUVQKEDqWjLk6cl24zJTFqhY-JWE4DeapkEK_iA8Tii-xSUWwy1tzYwetOqGR67SE55LT/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraNohdN4U1PcWdmQxmLb8RwVWHndGdf7wvL0CbP0NdPXeN1oLuq-MHmHzkliX2zHzHofzBbno3NHBJWVe2zbvvwZI4FGGTZ5UWaCLNfvVV9CltXs5OHyxbvoDUVQKEDqWjLk6cl24zJTFqhY-JWE4DeapkEK_iA8Tii-xSUWwy1tzYwetOqGR67SE55LT/s1600/lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. State Department said it's implementing a new policy that imposes visa restrictions on individuals who are linked to the illegal use of commercial spyware to surveil civil society members.\n\"The misuse of commercial spyware threatens privacy and freedoms of expression, peaceful assembly, and association,\" Secretary of State Antony Blinken said. \"Such targeting has been",
