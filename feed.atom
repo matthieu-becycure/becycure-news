@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-06T19:43:47.516Z</updated>
+    <updated>2024-02-06T20:10:29.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2559,17 +2559,6 @@ Talent Retention Challenges: The cybersecurity field is rapidly advancing, requ
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIST Warns of Security and Privacy Risks from Rapid AI System Deployment]]></title>
-        <id>https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html</id>
-        <link href="https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html"/>
-        <updated>2024-01-08T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. National Institute of Standards and Technology (NIST) is calling attention to the privacy and security challenges that arise as a result of increased deployment of artificial intelligence (AI) systems in recent years.
-“These security and privacy challenges include the potential for adversarial manipulation of training data, adversarial exploitation of model vulnerabilities to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
