@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-06T18:11:29.572Z</updated>
+    <updated>2024-02-06T18:25:58.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2568,17 +2568,6 @@ Talent Retention Challenges: The cybersecurity field is rapidly advancing, requ
         <updated>2024-01-08T07:53:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. National Institute of Standards and Technology (NIST) is calling attention to the privacy and security challenges that arise as a result of increased deployment of artificial intelligence (AI) systems in recent years.
 “These security and privacy challenges include the potential for adversarial manipulation of training data, adversarial exploitation of model vulnerabilities to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud]]></title>
-        <id>https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html</id>
-        <link href="https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html"/>
-        <updated>2024-01-08T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) said it charged 19 individuals worldwide in connection with the now-defunct xDedic Marketplace, which is estimated to have facilitated more than $68 million in fraud.
-In wrapping up its investigation into the dark web portal, the agency said the transnational operation was the result of close cooperation with law enforcement authorities from Belgium]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
