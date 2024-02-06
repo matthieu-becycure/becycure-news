@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-06T20:43:31.263Z</updated>
+    <updated>2024-02-06T21:09:13.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2529,36 +2529,6 @@ Links to files, repositories, and boards can be shared with anyone, anywhere. Th
 Talent Retention Challenges: The cybersecurity field is rapidly advancing, requiring a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface]]></title>
-        <id>https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html</id>
-        <link href="https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html"/>
-        <updated>2024-01-08T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital expansion inevitably increases the external attack surface, making you susceptible to cyberthreats. Threat actors increasingly exploit the vulnerabilities stemming from software and infrastructure exposed to the internet; this ironically includes security tools, particularly firewalls and VPNs, which give attackers direct network access to execute their attacks. In fact, Gartner&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0012 : Multiples vulnérabilités dans Microsoft Edge (08 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/"/>
-        <updated>2024-01-08T08:59:37.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0011 : Multiples vulnérabilités dans les produits Qnap (08 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/"/>
-        <updated>2024-01-08T08:57:37.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

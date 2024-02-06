@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuHfvpzYPpfiPSVoi5ieJqHbn15erGA4PsUnz6cxjVKk2xKxdOnSLdyU7JgZwrb6o_F-OWnjS6rDSIKcXFYoIVJlf_w03LzGbePFi83TpJjob49W29dnrwh6N5G2Orwl_8vjCYowmKJpuLOC0BzG5nth-bHE-WiIruRkfm_qbI2iiYfuyUrlebepMmV-4/s1600/THN-Article1-Feature.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuHfvpzYPpfiPSVoi5ieJqHbn15erGA4PsUnz6cxjVKk2xKxdOnSLdyU7JgZwrb6o_F-OWnjS6rDSIKcXFYoIVJlf_w03LzGbePFi83TpJjob49W29dnrwh6N5G2Orwl_8vjCYowmKJpuLOC0BzG5nth-bHE-WiIruRkfm_qbI2iiYfuyUrlebepMmV-4/s1600/THN-Article1-Feature.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Digital expansion inevitably increases the external attack surface, making you susceptible to cyberthreats. Threat actors increasingly exploit the vulnerabilities stemming from software and infrastructure exposed to the internet; this ironically includes security tools, particularly firewalls and VPNs, which give attackers direct network access to execute their attacks. In fact, Gartner&",
-          "link": "https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html",
-          "publishedOn": "2024-01-08T09:01:00.000Z",
-          "wordCount": null,
-          "title": "Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv3s9sgLKIXuixxFXcIhFq94FGHHEy9p0Nnfih2IRCgPKrWjwPPbEjek9auuhpYWYrErUJkdN_30xCmTRfVdUaiprlR2_i6EbSwuWeGHlaQ5XjoWqeka355kfQHDuzNr_CDkpGGuF-vielAVHJ8g0CQW5s4NF-BI7WUM1PqfqETFzepyxlI8n-13d8BZD/s1600-e30-rw-ft/zz.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilv3s9sgLKIXuixxFXcIhFq94FGHHEy9p0Nnfih2IRCgPKrWjwPPbEjek9auuhpYWYrErUJkdN_30xCmTRfVdUaiprlR2_i6EbSwuWeGHlaQ5XjoWqeka355kfQHDuzNr_CDkpGGuF-vielAVHJ8g0CQW5s4NF-BI7WUM1PqfqETFzepyxlI8n-13d8BZD/s1600-e30-rw-ft/zz.jpg"
         }
       ]
     },
@@ -3208,26 +3192,6 @@
           "publishedOn": "2024-01-08T14:00:49.000Z",
           "wordCount": 1383,
           "title": "CERTFR-2024-ACT-002 : Bulletin d’actualité CERTFR-2024-ACT-002 (08 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0012/",
-          "publishedOn": "2024-01-08T08:59:37.000Z",
-          "wordCount": 982,
-          "title": "CERTFR-2024-AVI-0012 : Multiples vulnérabilités dans Microsoft Edge (08 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0011/",
-          "publishedOn": "2024-01-08T08:57:37.000Z",
-          "wordCount": 1191,
-          "title": "CERTFR-2024-AVI-0011 : Multiples vulnérabilités dans les produits Qnap (08 janvier 2024)",
           "imageUrl": null
         }
       ]
