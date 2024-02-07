@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "JetBrains is alerting customers of a critical security flaw in its TeamCity On-Premises continuous integration and continuous deployment (CI/CD) software that could be exploited by threat actors to take over susceptible instances.\nThe vulnerability, tracked as CVE-2024-23917, carries a CVSS rating of 9.8 out of 10, indicative of its severity.\n\"The vulnerability may enable an unauthenticated",
+          "link": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
+          "publishedOn": "2024-02-07T05:05:00.000Z",
+          "wordCount": null,
+          "title": "Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s1600/tc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s1600/tc.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are leveraging bogus Facebook job advertisements as a lure to trick prospective targets into installing a new Windows-based stealer malware codenamed Ov3r_Stealer.\n\"This malware is designed to steal credentials and crypto wallets and send those to a Telegram channel that the threat actor monitors,\" Trustwave SpiderLabs said in a report shared with The Hacker News.\nOv3r_Stealer",
