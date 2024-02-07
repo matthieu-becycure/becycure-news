@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-07T01:40:54.942Z</updated>
+    <updated>2024-02-07T02:15:12.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2496,27 +2496,6 @@ Links to files, repositories, and boards can be shared with anyone, anywhere. Th
 “These YouTube videos typically feature content related to cracked applications, presenting users with similar installation guides and incorporating malicious URLs often shortened using services like TinyURL and Cuttly,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals]]></title>
-        <id>https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html</id>
-        <link href="https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html"/>
-        <updated>2024-01-08T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called Silver RAT that’s equipped to bypass security software and stealthily launch hidden applications.
-“The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence,” cybersecurity firm Cyfirma said in a report]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-ACT-002 : Bulletin d’actualité CERTFR-2024-ACT-002 (08 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-002/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-002/"/>
-        <updated>2024-01-08T14:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

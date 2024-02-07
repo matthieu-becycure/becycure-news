@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFANdUwBEnf0mssKCP_Q2FF7p2COE3YAqsZlbD-TArBZcPWJ1QsEauU1MHJN1zY0Evxfmg09OzmdHjr1jydUy_-yTt0Fb03TNrQfeicjV_xLIcqKdvkoeqP6P8W1QalNDVD_7mrNWzc8_bLNIJD2eYG1cJQHKoMDCeugS6Mvbd603WJZbdrBWpnTVTRbrp/s1600/youtube.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFANdUwBEnf0mssKCP_Q2FF7p2COE3YAqsZlbD-TArBZcPWJ1QsEauU1MHJN1zY0Evxfmg09OzmdHjr1jydUy_-yTt0Fb03TNrQfeicjV_xLIcqKdvkoeqP6P8W1QalNDVD_7mrNWzc8_bLNIJD2eYG1cJQHKoMDCeugS6Mvbd603WJZbdrBWpnTVTRbrp/s1600/youtube.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called Silver RAT that’s equipped to bypass security software and stealthily launch hidden applications.\n“The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence,” cybersecurity firm Cyfirma said in a report",
-          "link": "https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html",
-          "publishedOn": "2024-01-08T14:04:00.000Z",
-          "wordCount": null,
-          "title": "Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2S47-DyvJs7a6ATP-z8IqLxcciv5M07bt6lIle2FCvjWBzp-suZWCepIUd-HGPw1yOKqCeDK8obGkzOZ_8SZHO5pJ-oVSmuAbzStTTMu1qvThafymmsGrtCVNQ1h7gWv6vRnl4jdJGvivkvGZcZctbp7onmqQAoXksAfP1w3TJimQNW7yyd-QvteMs1Am/s1600/sy.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2S47-DyvJs7a6ATP-z8IqLxcciv5M07bt6lIle2FCvjWBzp-suZWCepIUd-HGPw1yOKqCeDK8obGkzOZ_8SZHO5pJ-oVSmuAbzStTTMu1qvThafymmsGrtCVNQ1h7gWv6vRnl4jdJGvivkvGZcZctbp7onmqQAoXksAfP1w3TJimQNW7yyd-QvteMs1Am/s1600/sy.jpg"
         }
       ]
     },
@@ -3166,16 +3150,6 @@
           "publishedOn": "2024-01-09T13:16:25.000Z",
           "wordCount": 1275,
           "title": "CERTFR-2024-AVI-0013 : [SCADA] Multiples vulnérabilités dans les produits Schneider Electric (09 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-002/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-002/",
-          "publishedOn": "2024-01-08T14:00:49.000Z",
-          "wordCount": 1383,
-          "title": "CERTFR-2024-ACT-002 : Bulletin d’actualité CERTFR-2024-ACT-002 (08 janvier 2024)",
           "imageUrl": null
         }
       ]
