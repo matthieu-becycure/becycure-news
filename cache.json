@@ -2333,6 +2333,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/",
+          "publishedOn": "2024-02-07T13:08:17.000Z",
+          "wordCount": 1161,
+          "title": "CERTFR-2024-AVI-0101 : Multiples vulnérabilités dans Google Android (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/",
+          "publishedOn": "2024-02-07T11:50:32.000Z",
+          "wordCount": 950,
+          "title": "CERTFR-2024-AVI-0100 : Multiples vulnérabilités dans Google Chrome (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/",
+          "publishedOn": "2024-02-07T11:38:06.000Z",
+          "wordCount": 1012,
+          "title": "CERTFR-2024-AVI-0099 : Multiples vulnérabilités dans les produits Elastic (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/",
+          "publishedOn": "2024-02-07T10:38:58.000Z",
+          "wordCount": 991,
+          "title": "CERTFR-2024-AVI-0098 : Multiples vulnérabilités dans VMware Aria Operations pour les réseaux (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Veeam Recovery Orchestrator. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/",
+          "publishedOn": "2024-02-07T10:34:02.000Z",
+          "wordCount": 944,
+          "title": "CERTFR-2024-AVI-0097 : Multiples vulnérabilités dans Veeam Recovery Orchestrator (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/",
+          "publishedOn": "2024-02-07T09:33:25.000Z",
+          "wordCount": 955,
+          "title": "CERTFR-2024-AVI-0096 : Multiples vulnérabilités dans les produits Tenable (07 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0095/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0095/",
+          "publishedOn": "2024-02-06T16:20:32.000Z",
+          "wordCount": 1060,
+          "title": "CERTFR-2024-AVI-0095 : Multiples vulnérabilités dans les produits Axis (06 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
           "author": null,
           "description": "Le 29 janvier 2024 l'ANSSI a été alertée par le BSI que l'éditeur AnyDesk Software GmbH a été victime d'une fuite de données. Le code source des applications développées par l'éditeur ainsi que des certificats et clés privées pourraient avoir été dérobés.\n L'éditeur est spécialisé dans …",
