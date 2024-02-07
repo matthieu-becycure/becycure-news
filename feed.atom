@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-07T21:43:31.257Z</updated>
+    <updated>2024-02-07T22:09:17.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2608,17 +2608,6 @@ This includes CVE-2023-27524 (CVSS score: 8.9), a high-severity vulnerability 
         <updated>2024-01-09T11:27:00.000Z</updated>
         <summary type="html"><![CDATA[Collaboration is a powerful selling point for SaaS applications. Microsoft, Github, Miro, and others promote the collaborative nature of their software applications that allows users to do more.
 Links to files, repositories, and boards can be shared with anyone, anywhere. This encourages teamwork that helps create stronger campaigns and projects by encouraging collaboration among employees]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager]]></title>
-        <id>https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html</id>
-        <link href="https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"/>
-        <updated>2024-01-09T09:52:00.000Z</updated>
-        <summary type="html"><![CDATA[A security flaw has been disclosed in Kyocera’s Device Manager product that could be exploited by bad actors to carry out malicious activities on affected systems.
-"This vulnerability allows attackers to coerce authentication attempts to their own resources, such as a malicious SMB share, to capture or relay Active Directory hashed credentials if the ‘Restrict NTLM: Outgoing NTLM]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
