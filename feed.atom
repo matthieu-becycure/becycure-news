@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-07T15:43:39.436Z</updated>
+    <updated>2024-02-07T16:13:35.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back]]></title>
+        <id>https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html</id>
+        <link href="https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html"/>
+        <updated>2024-02-07T15:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the KV-botnet made "behavioral changes" to the malicious network as U.S. law enforcement began issuing commands to neutralize the activity.
+KV-botnet is the name given to a network of compromised small office and home office (SOHO) routers and firewall devices across the world, with one specific cluster acting as a covert data transfer system for other Chinese]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros]]></title>
         <id>https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html</id>
