@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The maintainers of shim have released version 15.8 to address six security flaws, including a critical bug that could pave the way for remote code execution under specific circumstances.\nTracked as CVE-2023-40547 (CVSS score: 9.8), the vulnerability could be exploited to achieve a Secure Boot bypass. Bill Demirkapi of the Microsoft Security Response Center (MSRC) has been&",
+          "link": "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html",
+          "publishedOn": "2024-02-07T13:33:00.000Z",
+          "wordCount": null,
+          "title": "Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "2024 will be the year of the vCISO. An incredible 45% of MSPs and MSSPs are planning to start offering vCISO services in 2024. As an MSP/MSSP providing vCISO services, you own the organization’s cybersecurity infrastructure and strategy. But you also need to position yourself as a reliable decision-maker, navigating professional responsibilities, business needs and leadership",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-07T13:43:32.317Z</updated>
+    <updated>2024-02-07T14:08:59.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros]]></title>
+        <id>https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html</id>
+        <link href="https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html"/>
+        <updated>2024-02-07T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of shim have released version 15.8 to address six security flaws, including a critical bug that could pave the way for remote code execution under specific circumstances.
+Tracked as CVE-2023-40547 (CVSS score: 9.8), the vulnerability could be exploited to achieve a Secure Boot bypass. Bill Demirkapi of the Microsoft Security Response Center (MSRC) has been&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs]]></title>
         <id>https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html</id>
