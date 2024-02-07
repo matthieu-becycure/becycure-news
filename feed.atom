@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-07T07:10:15.566Z</updated>
+    <updated>2024-02-07T07:23:43.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network]]></title>
+        <id>https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html</id>
+        <link href="https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html"/>
+        <updated>2024-02-07T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Chinese state-backed hackers broke into a computer network that's used by the Dutch armed forces by targeting Fortinet FortiGate devices.
+"This [computer network] was used for unclassified research and development (R&D)," the Dutch Military Intelligence and Security Service (MIVD) said in a statement. "Because this system was self-contained, it did not lead to any damage to the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now]]></title>
         <id>https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html</id>
