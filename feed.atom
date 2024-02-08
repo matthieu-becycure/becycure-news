@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T22:26:47.840Z</updated>
+    <updated>2024-02-08T22:43:41.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2639,18 +2639,6 @@ The process is simple: begin by thoroughly assessing the attack surface, encompa
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims]]></title>
-        <id>https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html</id>
-        <link href="https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html"/>
-        <updated>2024-01-10T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[A decryptor for the Tortilla variant of the Babuk ransomware has been released by Cisco Talos, allowing victims targeted by the malware to regain access to their files.
-The cybersecurity firm said the threat intelligence it shared with Dutch law enforcement authorities made it possible to arrest the threat actor behind the operations.
-The encryption key has also been shared with Avast,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
