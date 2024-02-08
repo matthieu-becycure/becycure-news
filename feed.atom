@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T05:43:26.663Z</updated>
+    <updated>2024-02-08T06:13:42.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products]]></title>
+        <id>https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html</id>
+        <link href="https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html"/>
+        <updated>2024-02-08T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco, Fortinet, and VMware have released security fixes for multiple security vulnerabilities, including critical weaknesses that could be exploited to perform arbitrary actions on affected devices.
+The first set from Cisco consists of three flaws – CVE-2024-20252 and CVE-2024-20254 (CVSS score: 9.6) and CVE-2024-20255 (CVSS score: 8.2) – impacting Cisco Expressway Series that could allow an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back]]></title>
         <id>https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html</id>
