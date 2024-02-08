@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T16:43:34.467Z</updated>
+    <updated>2024-02-08T17:10:48.946Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2672,17 +2672,6 @@ The ban is part of a settlement over allegations that the company "sold precis
         <summary type="html"><![CDATA[Microsoft has addressed a total of 48 security flaws spanning its software as part of its Patch Tuesday updates for January 2024.
 Of the 48 bugs, two are rated Critical and 46 are rated Important in severity. There is no evidence that any of the issues are publicly known or under active attack at the time of release, making it the second consecutive Patch Tuesday with no zero-days.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack]]></title>
-        <id>https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html</id>
-        <link href="https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html"/>
-        <updated>2024-01-10T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added six security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-This includes CVE-2023-27524 (CVSS score: 8.9), a high-severity vulnerability impacting the Apache Superset open-source data visualization software that could enable remote code execution.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYQb8ZWgc6SQKqD78wbsfa4RvhTidBdFPP5wdJX6uwlG0xGswgus23_htsQvngCe4DPzg3D8Pt-HykLPbnlsd4bYzqgZ_qjW98X69mxiGrs26KSprLkrt58lkFB9xAAhjC4dUKSchtxZrmAqdqz9nDzlM8pRNblLEzY_AYQdQeA_3zegm9daRsUKiqTSi/s1600/ms.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYQb8ZWgc6SQKqD78wbsfa4RvhTidBdFPP5wdJX6uwlG0xGswgus23_htsQvngCe4DPzg3D8Pt-HykLPbnlsd4bYzqgZ_qjW98X69mxiGrs26KSprLkrt58lkFB9xAAhjC4dUKSchtxZrmAqdqz9nDzlM8pRNblLEzY_AYQdQeA_3zegm9daRsUKiqTSi/s1600/ms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added six security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThis includes CVE-2023-27524 (CVSS score: 8.9), a high-severity vulnerability impacting the Apache Superset open-source data visualization software that could enable remote code execution.",
-          "link": "https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html",
-          "publishedOn": "2024-01-10T04:50:00.000Z",
-          "wordCount": null,
-          "title": "CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiO3t8VNlpQH2bpw8rVdq5wdX2NuNxrfK_DWU-W5A0Zpone6WW8H9V-RnNkIL-txD0NyHmFsTv090JkMtbKOfujMEvWH-11bKOiRnIbAv7bnFHzgBLhGIwtSSYsXvuoyeLCQnKBWaZK2TbnVBxj9Zlwdvh2RyKrYosp8192AVKf7-tlsEu_9Cll21Lzv_j/s1600/cisa-kev.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiO3t8VNlpQH2bpw8rVdq5wdX2NuNxrfK_DWU-W5A0Zpone6WW8H9V-RnNkIL-txD0NyHmFsTv090JkMtbKOfujMEvWH-11bKOiRnIbAv7bnFHzgBLhGIwtSSYsXvuoyeLCQnKBWaZK2TbnVBxj9Zlwdvh2RyKrYosp8192AVKf7-tlsEu_9Cll21Lzv_j/s1600/cisa-kev.png"
         }
       ]
     },
