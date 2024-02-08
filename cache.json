@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "If you've listened to software vendors in the identity space lately, you will have noticed that “unified” has quickly become the buzzword that everyone is adopting to describe their portfolio. And this is great! Unified identity has some amazing benefits! \nHowever (there is always a however, right?) not every “unified” “identity” “security” “platform” is made equal. Some vendors call the",
+          "link": "https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html",
+          "publishedOn": "2024-02-08T10:39:00.000Z",
+          "wordCount": null,
+          "title": "Unified Identity – look for the meaning behind the hype!",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsJ2A4vQItI-dlUOITUD4i6AdqziFQ174S0WEJbcHfMUYUMv_9eGfSj_ccf5jA_C38Gkdo_nRK94-R2M4E8_iem0UcbrrLu_wKFB64go0Q4JXILVPWBhdM55mMtcqG1_b1i8Q-Ad-Ax-lqUl56b96lhuRpxZwCXqB4Is0_ej-_0lboDq-T2MZOHtWeL4/s1600/blog.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRsJ2A4vQItI-dlUOITUD4i6AdqziFQ174S0WEJbcHfMUYUMv_9eGfSj_ccf5jA_C38Gkdo_nRK94-R2M4E8_iem0UcbrrLu_wKFB64go0Q4JXILVPWBhdM55mMtcqG1_b1i8Q-Ad-Ax-lqUl56b96lhuRpxZwCXqB4Is0_ej-_0lboDq-T2MZOHtWeL4/s1600/blog.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind a loader malware called HijackLoader have added new techniques for defense evasion, as the malware continues to be increasingly used by other threat actors to deliver additional payloads and tooling.\n\"The malware developer used a standard process hollowing technique coupled with an additional trigger that was activated by the parent process writing to a pipe,\"",
+          "link": "https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html",
+          "publishedOn": "2024-02-08T10:28:00.000Z",
+          "wordCount": null,
+          "title": "HijackLoader Evolves: Researchers Decode the Latest Evasion Methods",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEM4tm_r9jLZ2WObJGCzKhUTJGe_W1C9aFroX2mncGBIH4-TK5SD4bfsREz1uChkLi0ddTWhe3pGPUM6SCWVZ5MG1txyaMHbHnUxTAylkvF1rwe9Jv4ehS6NMrNB3Rz4nLbwjeJGHdcOL2FKx4RkKZOEqj2djFLeY1jr3m9HuNRivpdu-hMHZMbGu6xLJF/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEM4tm_r9jLZ2WObJGCzKhUTJGe_W1C9aFroX2mncGBIH4-TK5SD4bfsREz1uChkLi0ddTWhe3pGPUM6SCWVZ5MG1txyaMHbHnUxTAylkvF1rwe9Jv4ehS6NMrNB3Rz4nLbwjeJGHdcOL2FKx4RkKZOEqj2djFLeY1jr3m9HuNRivpdu-hMHZMbGu6xLJF/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has unveiled a new pilot program in Singapore that aims to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords and gather sensitive data.\n\"This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts",
