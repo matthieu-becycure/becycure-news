@@ -3299,16 +3299,6 @@
           "wordCount": 1053,
           "title": "CERTFR-2024-AVI-0016 : Multiples vulnérabilités dans les produits Trend Micro (10 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0015/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0015/",
-          "publishedOn": "2024-01-10T11:08:04.000Z",
-          "wordCount": 1074,
-          "title": "CERTFR-2024-AVI-0015 : Multiples vulnérabilités dans les produits Splunk (10 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
