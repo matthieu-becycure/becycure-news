@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as Volt Typhoon had been embedded into some critical infrastructure networks in the country for at least five years.\nTargets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam.\n\"Volt Typhoon's choice of targets and pattern",
+          "link": "https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html",
+          "publishedOn": "2024-02-08T13:05:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FKfzSfddYQOjRjuXe9S7Ll3AxDEr42oYx9ZL9HK_IrqTtbaRvWGk1N3QisM_lRJNsDJpQTwko8WScLB-BQdp_UoY9Iv8fBBgvoXnNEgRCVcs7IRrYjJZQwzcqFOhuHLBhDIMYXlnA25g_7MSz_9iDf0GMybhJGfSplvgFGRMokYxNfc9KLJISAW-Hr9h/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FKfzSfddYQOjRjuXe9S7Ll3AxDEr42oYx9ZL9HK_IrqTtbaRvWGk1N3QisM_lRJNsDJpQTwko8WScLB-BQdp_UoY9Iv8fBBgvoXnNEgRCVcs7IRrYjJZQwzcqFOhuHLBhDIMYXlnA25g_7MSz_9iDf0GMybhJGfSplvgFGRMokYxNfc9KLJISAW-Hr9h/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "If you've listened to software vendors in the identity space lately, you will have noticed that “unified” has quickly become the buzzword that everyone is adopting to describe their portfolio. And this is great! Unified identity has some amazing benefits! \nHowever (there is always a however, right?) not every “unified” “identity” “security” “platform” is made equal. Some vendors call the",
@@ -2348,6 +2364,66 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/",
+          "publishedOn": "2024-02-08T12:01:09.000Z",
+          "wordCount": 933,
+          "title": "CERTFR-2024-AVI-0107 : Vulnérabilité dans Elastic Kibana (08 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/",
+          "publishedOn": "2024-02-08T10:43:27.000Z",
+          "wordCount": 972,
+          "title": "CERTFR-2024-AVI-0106 : Multiples vulnérabilités dans Fortinet FortiSIEM (08 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/",
+          "publishedOn": "2024-02-08T10:21:12.000Z",
+          "wordCount": 930,
+          "title": "CERTFR-2024-AVI-0105 : Vulnérabilité dans SonicWall SonicOS (08 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits ClamAV. Elles permettent à un attaquant de provoquer un déni de service et une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/",
+          "publishedOn": "2024-02-08T10:11:32.000Z",
+          "wordCount": 972,
+          "title": "CERTFR-2024-AVI-0104 : Multiples vulnérabilités dans les produits ClamAV (08 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/",
+          "publishedOn": "2024-02-08T10:07:23.000Z",
+          "wordCount": 1072,
+          "title": "CERTFR-2024-AVI-0103 : Multiples vulnérabilités dans les produits Cisco (08 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/",
+          "publishedOn": "2024-02-08T08:23:30.000Z",
+          "wordCount": 995,
+          "title": "CERTFR-2024-AVI-0102 : Multiples vulnérabilités dans GitLab (08 février 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/",
           "author": null,

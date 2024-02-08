@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T13:10:32.212Z</updated>
+    <updated>2024-02-08T13:24:45.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade]]></title>
+        <id>https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html</id>
+        <link href="https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html"/>
+        <updated>2024-02-08T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as Volt Typhoon had been embedded into some critical infrastructure networks in the country for at least five years.
+Targets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam.
+"Volt Typhoon's choice of targets and pattern]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0107 : Vulnérabilité dans Elastic Kibana (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/"/>
+        <updated>2024-02-08T12:01:09.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0106 : Multiples vulnérabilités dans Fortinet FortiSIEM (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/"/>
+        <updated>2024-02-08T10:43:27.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unified Identity – look for the meaning behind the hype!]]></title>
         <id>https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html</id>
@@ -29,6 +61,16 @@ However (there is always a however, right?) not every “unified” “identity�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0105 : Vulnérabilité dans SonicWall SonicOS (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/"/>
+        <updated>2024-02-08T10:21:12.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore]]></title>
         <id>https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html</id>
         <link href="https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html"/>
@@ -37,6 +79,36 @@ However (there is always a however, right?) not every “unified” “identity�
 "This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0104 : Multiples vulnérabilités dans les produits ClamAV (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/"/>
+        <updated>2024-02-08T10:11:32.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ClamAV. Elles permettent à un attaquant de provoquer un déni de service et une exécution de code arbitraire.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0103 : Multiples vulnérabilités dans les produits Cisco (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/"/>
+        <updated>2024-02-08T10:07:23.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0102 : Multiples vulnérabilités dans GitLab (08 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/"/>
+        <updated>2024-02-08T08:23:30.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
