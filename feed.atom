@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T10:10:17.587Z</updated>
+    <updated>2024-02-08T10:28:44.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore]]></title>
+        <id>https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html</id>
+        <link href="https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html"/>
+        <updated>2024-02-08T10:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has unveiled a new pilot program in Singapore that aims to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords and gather sensitive data.
+"This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea]]></title>
         <id>https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html</id>
