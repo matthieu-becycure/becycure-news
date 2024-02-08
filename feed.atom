@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-08T08:12:38.497Z</updated>
+    <updated>2024-02-08T08:27:32.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea]]></title>
+        <id>https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html</id>
+        <link href="https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html"/>
+        <updated>2024-02-08T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-linked nation-state actor known as Kimsuky is suspected of using a previously undocumented Golang-based information stealer called Troll Stealer.
+The malware steals "SSH, FileZilla, C drive files/directories, browsers, system information, [and] screen captures" from infected systems, South Korean cybersecurity company S2W said in a new technical report.
+Troll]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Patches Released for New Flaws in Cisco, Fortinet, VMware Products]]></title>
         <id>https://thehackernews.com/2024/02/critical-patches-released-for-new-flaws.html</id>
