@@ -3337,26 +3337,6 @@
           "wordCount": 2189,
           "title": "CERTFR-2024-AVI-0027 : Multiples vulnérabilités dans les produits Juniper Networks (11 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Cisco Unity Connection. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0026/",
-          "publishedOn": "2024-01-11T10:03:17.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2024-AVI-0026 : Vulnérabilité dans Cisco Unity Connection (11 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0025/",
-          "publishedOn": "2024-01-11T10:00:50.000Z",
-          "wordCount": 929,
-          "title": "CERTFR-2024-AVI-0025 : Vulnérabilité dans SPIP (11 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
