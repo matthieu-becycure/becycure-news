@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has alerted customers of yet another high-severity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication.\nThe issue, tracked as CVE-2024-22024, is rated 8.3 out of 10 on the CVSS scoring system.\n\"An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti",
+          "link": "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html",
+          "publishedOn": "2024-02-09T03:35:00.000Z",
+          "wordCount": null,
+          "title": "Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5fDPWyq6JCkQyYRe2rmQUA3NZgFDI46rb6EIV-G9lp1xde_WomlCYc41Ov-yL4Y1n55dqPNY7i92ZbBPvjz0Ttz-1LAqaXtjfemfIVSOVBSHYZtHcXP55di08B6G72RD2FW7cgnNDbiajFpjVsp12dVb6XJOWeKDjezglmPsCaoHOti2ergqSVE949j5/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5fDPWyq6JCkQyYRe2rmQUA3NZgFDI46rb6EIV-G9lp1xde_WomlCYc41Ov-yL4Y1n55dqPNY7i92ZbBPvjz0Ttz-1LAqaXtjfemfIVSOVBSHYZtHcXP55di08B6G72RD2FW7cgnNDbiajFpjVsp12dVb6XJOWeKDjezglmPsCaoHOti2ergqSVE949j5/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as Volt Typhoon had been embedded into some critical infrastructure networks in the country for at least five years.\nTargets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam.\n\"Volt Typhoon's choice of targets and pattern",
