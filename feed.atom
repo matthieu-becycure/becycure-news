@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-09T03:10:54.530Z</updated>
+    <updated>2024-02-09T03:24:42.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2515,17 +2515,6 @@ Cybersecurity firm Volexity, which identified the activity on the network of o
         <updated>2024-01-11T04:55:00.000Z</updated>
         <summary type="html"><![CDATA[Cisco has released software updates to address a critical security flaw impacting Unity Connection that could permit an adversary to execute arbitrary commands on the underlying system.
 Tracked as CVE-2024-20272 (CVSS score: 7.3), the vulnerability is an arbitrary file upload bug residing in the web-based management interface and is the result of a lack of authentication in a specific]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining]]></title>
-        <id>https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html</id>
-        <link href="https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html"/>
-        <updated>2024-01-10T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Mirai-based botnet called NoaBot is being used by threat actors as part of a crypto mining campaign since the beginning of 2023.
-“The capabilities of the new botnet, NoaBot, include a wormable self-spreader and an SSH key backdoor to download and execute additional binaries or spread itself to new victims,” Akamai security researcher Stiv Kupchik said in a report shared with The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

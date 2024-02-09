@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAFiwFzPiUyWzlr8ZTsQcocHBjvc2I0NV5_WjyrI3TMiLF14UFmiMAjG2hOh82ZWus4MviyW-1fLDivhJzrprg0gxNlzNs6A5BwTPiPRWGKitnSc2VNSm3WdwnBp2apBfQoOgYqN_84uWfxHWAcP049GmqkPZHxGa0nDngHYkWUAm9U-3mKg19Os6gg_d/s1600/cisco-patch-update.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAFiwFzPiUyWzlr8ZTsQcocHBjvc2I0NV5_WjyrI3TMiLF14UFmiMAjG2hOh82ZWus4MviyW-1fLDivhJzrprg0gxNlzNs6A5BwTPiPRWGKitnSc2VNSm3WdwnBp2apBfQoOgYqN_84uWfxHWAcP049GmqkPZHxGa0nDngHYkWUAm9U-3mKg19Os6gg_d/s1600/cisco-patch-update.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Mirai-based botnet called NoaBot is being used by threat actors as part of a crypto mining campaign since the beginning of 2023.\n“The capabilities of the new botnet, NoaBot, include a wormable self-spreader and an SSH key backdoor to download and execute additional binaries or spread itself to new victims,” Akamai security researcher Stiv Kupchik said in a report shared with The",
-          "link": "https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html",
-          "publishedOn": "2024-01-10T15:15:00.000Z",
-          "wordCount": null,
-          "title": "NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
         }
       ]
     },
