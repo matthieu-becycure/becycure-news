@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-09T17:43:29.084Z</updated>
+    <updated>2024-02-09T18:12:22.207Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2674,17 +2674,6 @@ The least surprising headline from 2023 is that ransomware again set new records
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandiant's X Account Was Hacked Using Brute-Force Attack]]></title>
-        <id>https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html</id>
-        <link href="https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html"/>
-        <updated>2024-01-11T06:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The compromise of Mandiant's X (formerly Twitter) account last week was likely the result of a "brute-force password attack," attributing the hack to a drainer-as-a-service (DaaS) group.
-"Normally, [two-factor authentication] would have mitigated this, but due to some team transitions and a change in X's 2FA policy, we were not adequately protected," the threat intelligence firm said]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
