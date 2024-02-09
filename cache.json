@@ -2381,6 +2381,106 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0116/",
+          "publishedOn": "2024-02-09T14:21:35.000Z",
+          "wordCount": 1674,
+          "title": "CERTFR-2024-AVI-0116 : Multiples vulnérabilités dans le noyau Linux de SUSE (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0115/",
+          "publishedOn": "2024-02-09T13:00:08.000Z",
+          "wordCount": 1408,
+          "title": "CERTFR-2024-AVI-0115 : Multiples vulnérabilités dans le noyau Linux de RedHat (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0114/",
+          "publishedOn": "2024-02-09T12:56:48.000Z",
+          "wordCount": 1127,
+          "title": "CERTFR-2024-AVI-0114 : Multiples vulnérabilités dans le noyau Linux Ubuntu (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/",
+          "publishedOn": "2024-02-09T12:19:18.000Z",
+          "wordCount": 1289,
+          "title": "CERTFR-2024-AVI-0113 : Multiples vulnérabilités dans les produits IBM (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/",
+          "publishedOn": "2024-02-09T12:12:12.000Z",
+          "wordCount": 945,
+          "title": "CERTFR-2024-AVI-0112 : Multiples vulnérabilités dans MISP (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/",
+          "publishedOn": "2024-02-09T12:00:47.000Z",
+          "wordCount": 949,
+          "title": "CERTFR-2024-AVI-0111 : Vulnérabilité dans PostgreSQL (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/",
+          "publishedOn": "2024-02-09T11:55:32.000Z",
+          "wordCount": 964,
+          "title": "CERTFR-2024-AVI-0110 : Multiples vulnérabilités dans Microsoft Edge (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
+          "author": null,
+          "description": "Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité permet à un attaquant non authentifié de provoquer une exécution de code arbitraire à …",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
+          "publishedOn": "2024-02-09T10:10:55.000Z",
+          "wordCount": 1032,
+          "title": "CERTFR-2024-ALE-004 : Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Ivanti. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/",
+          "publishedOn": "2024-02-09T08:36:36.000Z",
+          "wordCount": 981,
+          "title": "CERTFR-2024-AVI-0109 : Vulnérabilité dans les produits Ivanti (09 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0108/",
+          "publishedOn": "2024-02-09T08:18:52.000Z",
+          "wordCount": 1266,
+          "title": "CERTFR-2024-AVI-0108 : Multiples vulnérabilités dans les produits Fortinet (09 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0107/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
