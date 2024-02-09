@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The operators of Raspberry Robin are now using two new one-day exploits to achieve local privilege escalation, even as the malware continues to be refined and improved to make it stealthier than before.\nThis means that \"Raspberry Robin has access to an exploit seller or its authors develop the exploits themselves in a short period of time,\" Check Point said in a report this",
+          "link": "https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html",
+          "publishedOn": "2024-02-09T16:32:00.000Z",
+          "wordCount": null,
+          "title": "Raspberry Robin Malware Upgrades with Discord Spread and New Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja5AlujvTKd5ZTOI0NwjKfrJXCKMOQNII665vxjlUOKbrZImzlaFRh48avgqIksNsv4hb51H8jpar6degm-o20QyH8aB4xB3zEGGiz4o7BJFq8fqiEqHaI-fZPgQVKw8SEO_pdOUdGqCUoLzhNAt5rmR70t_tQV0wvNiC4HcobKCCnI2DEmI0L77_ktMLW/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEja5AlujvTKd5ZTOI0NwjKfrJXCKMOQNII665vxjlUOKbrZImzlaFRh48avgqIksNsv4hb51H8jpar6degm-o20QyH8aB4xB3zEGGiz4o7BJFq8fqiEqHaI-fZPgQVKw8SEO_pdOUdGqCUoLzhNAt5rmR70t_tQV0wvNiC4HcobKCCnI2DEmI0L77_ktMLW/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat hunters have identified a new variant of Android malware called MoqHao that automatically executes on infected devices without requiring any user interaction.\n\"Typical MoqHao requires users to install and launch the app to get their desired purpose, but this new variant requires no execution,\" McAfee Labs said in a report published this week. \"While the app is",
