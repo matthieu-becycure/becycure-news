@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-09T10:43:51.589Z</updated>
+    <updated>2024-02-09T11:08:56.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack]]></title>
+        <id>https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html</id>
+        <link href="https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html"/>
+        <updated>2024-02-09T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Sixty-one banking institutions, all of them originating from Brazil, are the target of a new banking trojan called Coyote.
+"This malware utilizes the Squirrel installer for distribution, leveraging Node.js and a relatively new multi-platform programming language called Nim as a loader to complete its infection," Russian cybersecurity firm Kaspersky said in a Thursday report.
+What]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wazuh in the Cloud Era: Navigating the Challenges of Cybersecurity]]></title>
         <id>https://thehackernews.com/2024/02/wazuh-in-cloud-era-navigating.html</id>
