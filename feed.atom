@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-10T19:43:32.378Z</updated>
+    <updated>2024-02-10T20:09:23.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2568,17 +2568,6 @@ The]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptominers Targeting Misconfigured Apache Hadoop and Flink with Rootkit in New Attacks]]></title>
-        <id>https://thehackernews.com/2024/01/cryptominers-targeting-misconfigured.html</id>
-        <link href="https://thehackernews.com/2024/01/cryptominers-targeting-misconfigured.html"/>
-        <updated>2024-01-12T07:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have identified a new attack that exploits misconfigurations in Apache Hadoop and Flink to deploy cryptocurrency miners within targeted environments.
-"This attack is particularly intriguing due to the attacker's use of packers and rootkits to conceal the malware," Aqua security researchers Nitzan Yaakov and Assaf Morag said in an analysis published earlier]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
