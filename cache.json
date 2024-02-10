@@ -3285,16 +3285,6 @@
           "wordCount": 929,
           "title": "CERTFR-2024-AVI-0028 : Vulnérabilité dans SPIP (12 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
-          "author": null,
-          "description": "Le 10 janvier 2024, Ivanti a publié un avis de sécurité concernant ses produits ICS et IPS car ils sont affectés par deux vulnérabilités critiques.\n La vulnérabilité CVE-2023-46805 permet à un attaquant de contourner l'authentification, tandis que la vulnérabilité CVE-2024-21887 permet …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-001/",
-          "publishedOn": "2024-01-11T12:36:13.000Z",
-          "wordCount": 1218,
-          "title": "CERTFR-2024-ALE-001 : Multiples vulnérabilités dans Ivanti Connect Secure et Policy Secure Gateways (11 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
