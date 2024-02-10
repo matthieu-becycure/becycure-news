@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVECu6TXapsPtYN4ovGkUMMDp0Jfpy6S1wj1CHVl_-Cmuj8UnvJ5eobRmt09XhvTjhh_3REulvW3uSeA6ee9MkXeE8_Yfov-3vYTqsYhaGScMgxCnKv_BzegD7dOUokisnZMSI1mGtjrBLV40KjP7jhcPijK1hwqYe6NKj19NK5_R7YqT-1mFkaF9uvBjI/s1600/apache.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVECu6TXapsPtYN4ovGkUMMDp0Jfpy6S1wj1CHVl_-Cmuj8UnvJ5eobRmt09XhvTjhh_3REulvW3uSeA6ee9MkXeE8_Yfov-3vYTqsYhaGScMgxCnKv_BzegD7dOUokisnZMSI1mGtjrBLV40KjP7jhcPijK1hwqYe6NKj19NK5_R7YqT-1mFkaF9uvBjI/s1600/apache.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Python-based hacking tool called FBot has been uncovered targeting web servers, cloud services, content management systems (CMS), and SaaS platforms such as Amazon Web Services (AWS), Microsoft 365, PayPal, Sendgrid, and Twilio.\n“Key features include credential harvesting for spamming attacks, AWS account hijacking tools, and functions to enable attacks against PayPal and various",
-          "link": "https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html",
-          "publishedOn": "2024-01-11T14:00:00.000Z",
-          "wordCount": null,
-          "title": "New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9b7Bsdi-A_YDe029miWGpRF5ztXOvR68GvL5SdY84HqPc2b1BiRJ1tAnpyRXq7kLBZ964iJeA4iJhXSyb2LZDRHqCkvwWy1uh-wBuvHgeiGJyoQwktR46YpA_a5qaaE2zmoFAR_i5CS-QPWeiVbaMXjRUljBNz6xkmYWX1HZI6kSc0xzzCrDNWROiYkmn/s1600/fbot.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9b7Bsdi-A_YDe029miWGpRF5ztXOvR68GvL5SdY84HqPc2b1BiRJ1tAnpyRXq7kLBZ964iJeA4iJhXSyb2LZDRHqCkvwWy1uh-wBuvHgeiGJyoQwktR46YpA_a5qaaE2zmoFAR_i5CS-QPWeiVbaMXjRUljBNz6xkmYWX1HZI6kSc0xzzCrDNWROiYkmn/s1600/fbot.jpg"
         }
       ]
     },
