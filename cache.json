@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7H__XyW8sNTKFbx9G5NdjAVhIkSjLI6vtYfdFmFSRuHS8WWszkkWp3wAZUGaGQBxjZ_gNR14U_6s2Ur9K_T16dOI3MuesJ3FiCD62XfUUyUkic4dRZ7h9jwF5Vqoo5Z2ZSgQRkvFn2stjLYNF1hSYKn4Jf52opl9CINiVSi6fdLGuwYrYG-d0ZIbekcd/s1600/github.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh7H__XyW8sNTKFbx9G5NdjAVhIkSjLI6vtYfdFmFSRuHS8WWszkkWp3wAZUGaGQBxjZ_gNR14U_6s2Ur9K_T16dOI3MuesJ3FiCD62XfUUyUkic4dRZ7h9jwF5Vqoo5Z2ZSgQRkvFn2stjLYNF1hSYKn4Jf52opl9CINiVSi6fdLGuwYrYG-d0ZIbekcd/s1600/github.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have developed a proof-of-concept (PoC) code that exploits a recently disclosed critical flaw in the Apache OfBiz open-source Enterprise Resource Planning (ERP) system to execute a memory-resident payload.\nThe vulnerability in question is CVE-2023-51467 (CVSS score: 9.8), a bypass for another severe shortcoming in the same software (",
-          "link": "https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html",
-          "publishedOn": "2024-01-11T14:16:00.000Z",
-          "wordCount": null,
-          "title": "New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVECu6TXapsPtYN4ovGkUMMDp0Jfpy6S1wj1CHVl_-Cmuj8UnvJ5eobRmt09XhvTjhh_3REulvW3uSeA6ee9MkXeE8_Yfov-3vYTqsYhaGScMgxCnKv_BzegD7dOUokisnZMSI1mGtjrBLV40KjP7jhcPijK1hwqYe6NKj19NK5_R7YqT-1mFkaF9uvBjI/s1600/apache.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVECu6TXapsPtYN4ovGkUMMDp0Jfpy6S1wj1CHVl_-Cmuj8UnvJ5eobRmt09XhvTjhh_3REulvW3uSeA6ee9MkXeE8_Yfov-3vYTqsYhaGScMgxCnKv_BzegD7dOUokisnZMSI1mGtjrBLV40KjP7jhcPijK1hwqYe6NKj19NK5_R7YqT-1mFkaF9uvBjI/s1600/apache.jpg"
         }
       ]
     },
