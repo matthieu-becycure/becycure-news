@@ -3191,36 +3191,6 @@
           "wordCount": 1206,
           "title": "CERTFR-2024-AVI-0031 : Multiples vulnérabilités dans les produits IBM (12 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0030/",
-          "publishedOn": "2024-01-12T10:07:05.000Z",
-          "wordCount": 1057,
-          "title": "CERTFR-2024-AVI-0030 : Multiples vulnérabilités dans GitLab (12 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire à distance et un contournement de la fonctionnalité de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0029/",
-          "publishedOn": "2024-01-12T09:52:55.000Z",
-          "wordCount": 1025,
-          "title": "CERTFR-2024-AVI-0029 : Multiples vulnérabilités dans Microsoft Edge (12 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0028/",
-          "publishedOn": "2024-01-12T09:51:46.000Z",
-          "wordCount": 929,
-          "title": "CERTFR-2024-AVI-0028 : Vulnérabilité dans SPIP (12 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
