@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-11T00:50:21.324Z</updated>
+    <updated>2024-02-11T01:48:35.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2454,50 +2454,6 @@ The person was apprehended in Mykolaiv, Ukraine, on January 9 by the National Po
 "These families allow the threat actors to circumvent authentication and provide backdoor access to these devices," Mandiant said in an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-ALE-002 : Vulnérabilité dans GitLab (12 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/</id>
-        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-002/"/>
-        <updated>2024-01-12T13:41:38.000Z</updated>
-        <summary type="html"><![CDATA[Le 11 janvier 2024, l'éditeur a publié un avis de sécurité concernant plusieurs vulnérabilités affectant GitLab CE et EE.
- La plus critique est la vulnérabilité CVE-2023-7028. Elle permet à un attaquant non authentifié d'envoyer un courriel de réinitialisation de mot de passe de …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion]]></title>
-        <id>https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html</id>
-        <link href="https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html"/>
-        <updated>2024-01-12T13:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors associated with the Medusa ransomware have ramped up their activities following the debut of a dedicated data leak site on the dark web in February 2023 to publish sensitive data of victims who are unwilling to agree to their demands.
-“As part of their multi-extortion strategy, this group will provide victims with multiple options when their data is posted on their]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: GitLab Releases Patch for Critical Vulnerabilities - Update ASAP]]></title>
-        <id>https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html</id>
-        <link href="https://thehackernews.com/2024/01/urgent-gitlab-releases-patch-for.html"/>
-        <updated>2024-01-12T13:03:00.000Z</updated>
-        <summary type="html"><![CDATA[GitLab has released security updates to address two critical vulnerabilities, including one that could be exploited to take over accounts without requiring any user interaction.
-Tracked as CVE-2023-7028, the flaw has been awarded the maximum severity of 10.0 on the CVSS scoring system and could facilitate account takeover by sending password reset emails to an unverified email address.
-The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0034 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (12 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0034/"/>
-        <updated>2024-01-12T12:56:16.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
