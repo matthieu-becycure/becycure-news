@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Justice Department (DoJ) on Friday announced the seizure of online infrastructure that was used to sell a remote access trojan (RAT) called Warzone RAT.\nThe domains – www.warzone[.]ws and three others – were \"used to sell computer malware used by cybercriminals to secretly access and steal data from victims' computers,\" the DoJ said.\nAlongside the takedown, the",
+          "link": "https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html",
+          "publishedOn": "2024-02-11T10:54:00.000Z",
+          "wordCount": null,
+          "title": "U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXEKTnOYM_YsJ_LE6GkDNuae-rQXTZcnr-j9S1TYcdN7g_JfV0mFkPbieFs4U1JhhKJdd4031VjX2K3lqlTpKYW_ff32eV9jNUWYF6qmaEEmEi4AHXXGvdsAg-UUvcUO8Q810V-NbyuC7QN0UyJjgS6usBJTlYZd2QGUF044auS0zPahujlIlHtmGBWU9/s1600/warzone.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUXEKTnOYM_YsJ_LE6GkDNuae-rQXTZcnr-j9S1TYcdN7g_JfV0mFkPbieFs4U1JhhKJdd4031VjX2K3lqlTpKYW_ff32eV9jNUWYF6qmaEEmEi4AHXXGvdsAg-UUvcUO8Q810V-NbyuC7QN0UyJjgS6usBJTlYZd2QGUF044auS0zPahujlIlHtmGBWU9/s1600/warzone.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple macOS users are the target of a new Rust-based backdoor that has been operating under the radar since November 2023.\nThe backdoor, codenamed RustDoor by Bitdefender, has been found to impersonate an update for Microsoft Visual Studio and target both Intel and Arm architectures.\nThe exact initial access pathway used to propagate the implant is currently not known, although",
