@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-12T20:43:43.970Z</updated>
+    <updated>2024-02-12T21:08:52.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2505,17 +2505,6 @@ First documented by Doctor Web in January 2023, the campaign takes place in a 
         <summary type="html"><![CDATA[The environmental services industry witnessed an “unprecedented surge” in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic.
 This marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week.
 “This surge in cyber attacks coincided]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks]]></title>
-        <id>https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html</id>
-        <link href="https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html"/>
-        <updated>2024-01-14T09:07:00.000Z</updated>
-        <summary type="html"><![CDATA[The cyber attacks targeting the energy sector in Denmark last year may not have had the involvement of the Russia-linked Sandworm hacking group, new findings from Forescout show.
-The intrusions, which targeted around 22 Danish energy organizations in May 2023, occurred in two distinct waves, one which exploited a security flaw in Zyxel firewall (CVE-2023-28771) and a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
