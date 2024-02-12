@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft said it's introducing Sudo for Windows 11 as part of an early preview version to help users execute commands with administrator privileges.\n\"Sudo for Windows is a new way for users to run elevated commands directly from an unelevated console session,\" Microsoft Product Manager Jordi Adoumie said.\n\"It is an ergonomic and familiar solution for users who want to elevate a command",
+          "link": "https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html",
+          "publishedOn": "2024-02-12T05:45:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Introduces Linux-Like 'sudo' Command to Windows 11",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8XFJhC5GFpFWCuf8OYh4_TbY5ZcZKZZDVGMKSd2AGwfnYmE0N8O4iWqwvD-4hYvCCeXg9kWzisYrcYXG1FX2dNG5mamGaSwbw59MuYQfIcEBAaEKeGDpKDVf7nZ-FjSPeqEOjAleTlFObCZqZMbMEbE11ovzaA7AgauYkawH2AKWL0STtxOhhmvGUQf5/s1600/sudo.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ8XFJhC5GFpFWCuf8OYh4_TbY5ZcZKZZDVGMKSd2AGwfnYmE0N8O4iWqwvD-4hYvCCeXg9kWzisYrcYXG1FX2dNG5mamGaSwbw59MuYQfIcEBAaEKeGDpKDVf7nZ-FjSPeqEOjAleTlFObCZqZMbMEbE11ovzaA7AgauYkawH2AKWL0STtxOhhmvGUQf5/s1600/sudo.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/us-offers-10-million-bounty-for-info.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of State has announced monetary rewards of up to $10 million for information about individuals holding key positions within the Hive ransomware operation.\nIt is also giving away an additional $5 million for specifics that could lead to the arrest and/or conviction of any person \"conspiring to participate in or attempting to participate in Hive ransomware activity.\"",
