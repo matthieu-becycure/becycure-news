@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-12T10:30:57.355Z</updated>
+    <updated>2024-02-12T10:43:40.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Are Compromised Identities the Nightmare to IR Speed and Efficiency?]]></title>
+        <id>https://thehackernews.com/2024/02/why-are-compromised-identities.html</id>
+        <link href="https://thehackernews.com/2024/02/why-are-compromised-identities.html"/>
+        <updated>2024-02-12T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Incident response (IR) is a race against time. You engage your internal or external team because there's enough evidence that something bad is happening, but you’re still blind to the scope, the impact, and the root cause. The common set of IR tools and practices provides IR teams with the ability to discover malicious files and outbound network connections. However, the identity aspect - namely]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Introduces Linux-Like 'sudo' Command to Windows 11]]></title>
         <id>https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html</id>

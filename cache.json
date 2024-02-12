@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/why-are-compromised-identities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Incident response (IR) is a race against time. You engage your internal or external team because there's enough evidence that something bad is happening, but you’re still blind to the scope, the impact, and the root cause. The common set of IR tools and practices provides IR teams with the ability to discover malicious files and outbound network connections. However, the identity aspect - namely",
+          "link": "https://thehackernews.com/2024/02/why-are-compromised-identities.html",
+          "publishedOn": "2024-02-12T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Why Are Compromised Identities the Nightmare to IR Speed and Efficiency?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2WSwZk5dsXN4T1vBqab5c9yHRw1GzmDyK9e7CvxOvvLD6AbUolGHoWoITdPghnQtju4YYBXn3yTVes0zUJWgu7oJ_scastCzcCv4_5YrC0BL1wB4eIgPFnKDgab7t-cMgEHYjESMOy7f1_vMoBB5jiIxuLYbhtCr65HyiGZRQnR06teo1C7QZbv0b9o/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc2WSwZk5dsXN4T1vBqab5c9yHRw1GzmDyK9e7CvxOvvLD6AbUolGHoWoITdPghnQtju4YYBXn3yTVes0zUJWgu7oJ_scastCzcCv4_5YrC0BL1wB4eIgPFnKDgab7t-cMgEHYjESMOy7f1_vMoBB5jiIxuLYbhtCr65HyiGZRQnR06teo1C7QZbv0b9o/s1600/lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft said it's introducing Sudo for Windows 11 as part of an early preview version to help users execute commands with administrator privileges.\n\"Sudo for Windows is a new way for users to run elevated commands directly from an unelevated console session,\" Microsoft Product Manager Jordi Adoumie said.\n\"It is an ergonomic and familiar solution for users who want to elevate a command",
