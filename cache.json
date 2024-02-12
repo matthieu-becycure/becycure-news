@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "When it comes to access security, one recommendation stands out above the rest: multi-factor authentication (MFA). With passwords alone being simple work for hackers, MFA provides an essential layer of protection against breaches. However, it's important to remember that MFA isn't foolproof. It can be bypassed, and it often is. \nIf a password is compromised, there are several options",
+          "link": "https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html",
+          "publishedOn": "2024-02-12T11:14:00.000Z",
+          "wordCount": null,
+          "title": "4 Ways Hackers use Social Engineering to Bypass MFA",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxRK4tPI2hLcsecH1IbrZGpxEBUkSps390MM2wP2PHqm9Q6TLwDgUAU_uGTvAhufbGPtPKrMNnIElu8SAhr5ol_q4XvNDJKLDaIFk96ARir92PcWc6jeMQs1gqlod0lVIjyjZos_yYcxS1ycPEQNvbrnNMQ561FA45cYcBoKbTRaEYsfv_2YY71IlflsA/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxRK4tPI2hLcsecH1IbrZGpxEBUkSps390MM2wP2PHqm9Q6TLwDgUAU_uGTvAhufbGPtPKrMNnIElu8SAhr5ol_q4XvNDJKLDaIFk96ARir92PcWc6jeMQs1gqlod0lVIjyjZos_yYcxS1ycPEQNvbrnNMQ561FA45cYcBoKbTRaEYsfv_2YY71IlflsA/s1600/hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/cisa-and-openssf-release-framework-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced that it's partnering with the Open Source Security Foundation (OpenSSF) Securing Software Repositories Working Group to publish a new framework to secure package repositories.\nCalled the Principles for Package Repository Security, the framework aims to establish a set of foundational rules for package",
+          "link": "https://thehackernews.com/2024/02/cisa-and-openssf-release-framework-for.html",
+          "publishedOn": "2024-02-12T10:41:00.000Z",
+          "wordCount": null,
+          "title": "CISA and OpenSSF Release Framework for Package Repository Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivCxDiaARNbL_L8FQclCSGrAHqr-2DJug87B8YcEmldOx4UzWkUrqhqOr80FoTemo7j1t1_-RJZ1JrFBPdZwQM39LTFiAcnFGZKb1VV_ytXVaiQVBHgvna1ZiOM3jrzs9Cob7JOTM4SqmT8zAVsEHUSG6VXvvhdajtfBFJb-uMytxrCxHl4K-6TsuNY0I/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivCxDiaARNbL_L8FQclCSGrAHqr-2DJug87B8YcEmldOx4UzWkUrqhqOr80FoTemo7j1t1_-RJZ1JrFBPdZwQM39LTFiAcnFGZKb1VV_ytXVaiQVBHgvna1ZiOM3jrzs9Cob7JOTM4SqmT8zAVsEHUSG6VXvvhdajtfBFJb-uMytxrCxHl4K-6TsuNY0I/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/why-are-compromised-identities.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Incident response (IR) is a race against time. You engage your internal or external team because there's enough evidence that something bad is happening, but you’re still blind to the scope, the impact, and the root cause. The common set of IR tools and practices provides IR teams with the ability to discover malicious files and outbound network connections. However, the identity aspect - namely",
