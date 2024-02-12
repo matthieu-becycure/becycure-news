@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-12T13:26:11.060Z</updated>
+    <updated>2024-02-12T13:43:35.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rhysida Ransomware Cracked, Free Decryption Tool Released]]></title>
+        <id>https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html</id>
+        <link href="https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html"/>
+        <updated>2024-02-12T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered an "implementation vulnerability" that has made it possible to reconstruct encryption keys and decrypt data locked by Rhysida ransomware.
+The findings were published last week by a group of researchers from Kookmin University and the Korea Internet and Security Agency (KISA).
+"Through a comprehensive analysis of Rhysida Ransomware, we identified an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Ways Hackers use Social Engineering to Bypass MFA]]></title>
         <id>https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html</id>
