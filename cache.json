@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/us-offers-10-million-bounty-for-info.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of State has announced monetary rewards of up to $10 million for information about individuals holding key positions within the Hive ransomware operation.\nIt is also giving away an additional $5 million for specifics that could lead to the arrest and/or conviction of any person \"conspiring to participate in or attempting to participate in Hive ransomware activity.\"",
+          "link": "https://thehackernews.com/2024/02/us-offers-10-million-bounty-for-info.html",
+          "publishedOn": "2024-02-12T04:31:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Offers $10 Million Bounty for Info Leading to Arrest of Hive Ransomware Leaders",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUMoxK03T9-m9zmMLLAKybBVkX9XBlNc5_qHlwYxV-f8gfhMv6M0GtZIBTXwqB4XWA9haJ2bLF7SXecy0HlfKmLVpZC9SuSehbDINTvHyQi5E0I9iu5mPnk_nn6iJWb5Tln7pQBghcaUYzXJ3i44pPe6QnyTw2hhczay4qRLVNxrSyDqnyMi21V0zQDgIC/s1600/ransomware-arrest.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUMoxK03T9-m9zmMLLAKybBVkX9XBlNc5_qHlwYxV-f8gfhMv6M0GtZIBTXwqB4XWA9haJ2bLF7SXecy0HlfKmLVpZC9SuSehbDINTvHyQi5E0I9iu5mPnk_nn6iJWb5Tln7pQBghcaUYzXJ3i44pPe6QnyTw2hhczay4qRLVNxrSyDqnyMi21V0zQDgIC/s1600/ransomware-arrest.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Justice Department (DoJ) on Friday announced the seizure of online infrastructure that was used to sell a remote access trojan (RAT) called Warzone RAT.\nThe domains – www.warzone[.]ws and three others – were \"used to sell computer malware used by cybercriminals to secretly access and steal data from victims' computers,\" the DoJ said.\nAlongside the takedown, the",
