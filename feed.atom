@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-13T11:23:34.809Z</updated>
+    <updated>2024-02-13T11:43:30.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know]]></title>
+        <id>https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html</id>
+        <link href="https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html"/>
+        <updated>2024-02-13T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The Midnight Blizzard and Cloudflare-Atlassian cybersecurity incidents raised alarms about the vulnerabilities inherent in major SaaS platforms. These incidents illustrate the stakes involved in SaaS breaches — safeguarding the integrity of SaaS apps and their sensitive data is critical but is not easy. Common threat vectors such as sophisticated spear-phishing, misconfigurations and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ivanti Vulnerability Exploited to Install 'DSLog' Backdoor on 670+ IT Infrastructures]]></title>
         <id>https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Midnight Blizzard and Cloudflare-Atlassian cybersecurity incidents raised alarms about the vulnerabilities inherent in major SaaS platforms. These incidents illustrate the stakes involved in SaaS breaches — safeguarding the integrity of SaaS apps and their sensitive data is critical but is not easy. Common threat vectors such as sophisticated spear-phishing, misconfigurations and",
+          "link": "https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html",
+          "publishedOn": "2024-02-13T11:10:00.000Z",
+          "wordCount": null,
+          "title": "Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqYKOAdNfwL632n-9byG5yLxudYBc9BEjMvTPDXzSFQMTGblQSo6qdcvlIFJv1lpqazlu7z7in8Ms77HKTHo7VvnrlR5K6et7pimyLTECvnbMeAMV05w0QUahWpXMGWWItvfHK2lw0meTwgJI9UCv_G52xKRBaF6SoE-8r0MBdIH5pW1g4_EVSq06nk6g/s1600/cloudflare.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqYKOAdNfwL632n-9byG5yLxudYBc9BEjMvTPDXzSFQMTGblQSo6qdcvlIFJv1lpqazlu7z7in8Ms77HKTHo7VvnrlR5K6et7pimyLTECvnbMeAMV05w0QUahWpXMGWWItvfHK2lw0meTwgJI9UCv_G52xKRBaF6SoE-8r0MBdIH5pW1g4_EVSq06nk6g/s1600/cloudflare.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/ivanti-vulnerability-exploited-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are leveraging a recently disclosed security flaw impacting Ivanti Connect Secure, Policy Secure, and ZTA gateways to deploy a backdoor codenamed DSLog on susceptible devices.\nThat's according to findings from Orange Cyberdefense, which said it observed the exploitation of CVE-2024-21893 within hours of the public release of the proof-the-concept (PoC) code.",
