@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Roundcube email software to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe issue, tracked as CVE-2023-43770 (CVSS score: 6.1), relates to a cross-site scripting (XSS) flaw that stems from the handling of",
+          "link": "https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html",
+          "publishedOn": "2024-02-13T04:51:00.000Z",
+          "wordCount": null,
+          "title": "Alert: CISA Warns of Active 'Roundcube' Email Attacks - Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiLarWGymcFRzMRU-YJRZH-DY48VLkLQv3vwvwqMG5dBhTG4Uq5iJlndUAvsnOKbGl4wa7ZSF7SiuAjgj59q_E6PMlECCraZvaBB03OpQPFIhQYzC8O-CLgK4vrdbFjixz5AeWOeTviTJRtAo2_JeP3lucVHN0VA2sg0TaOgx4wi_YniFwevStGA1pAjxb/s1600/roundcube.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiLarWGymcFRzMRU-YJRZH-DY48VLkLQv3vwvwqMG5dBhTG4Uq5iJlndUAvsnOKbGl4wa7ZSF7SiuAjgj59q_E6PMlECCraZvaBB03OpQPFIhQYzC8O-CLgK4vrdbFjixz5AeWOeTviTJRtAo2_JeP3lucVHN0VA2sg0TaOgx4wi_YniFwevStGA1pAjxb/s1600/roundcube.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered an \"implementation vulnerability\" that has made it possible to reconstruct encryption keys and decrypt data locked by Rhysida ransomware.\nThe findings were published last week by a group of researchers from Kookmin University and the Korea Internet and Security Agency (KISA).\n\"Through a comprehensive analysis of Rhysida Ransomware, we identified an",
