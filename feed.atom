@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-13T14:27:00.177Z</updated>
+    <updated>2024-02-13T14:43:30.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit]]></title>
+        <id>https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html</id>
+        <link href="https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html"/>
+        <updated>2024-02-13T14:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The Glupteba botnet has been found to incorporate a previously undocumented Unified Extensible Firmware Interface (UEFI) bootkit feature, adding another layer of sophistication and stealth to the malware.
+"This bootkit can intervene and control the [operating system] boot process, enabling Glupteba to hide itself and create a stealthy persistence that can be extremely difficult to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PikaBot Resurfaces with Streamlined Code and Deceptive Tactics]]></title>
+        <id>https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html</id>
+        <link href="https://thehackernews.com/2024/02/pikabot-resurfaces-with-streamlined.html"/>
+        <updated>2024-02-13T14:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the PikaBot malware have made significant changes to the malware in what has been described as a case of "devolution."
+"Although it appears to be in a new development cycle and testing phase, the developers have reduced the complexity of the code by removing advanced obfuscation techniques and changing the network communications," Zscaler ThreatLabz researcher Nikolaos]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Midnight Blizzard and Cloudflare-Atlassian Cybersecurity Incidents: What to Know]]></title>
         <id>https://thehackernews.com/2024/02/midnight-blizzard-and-cloudflare.html</id>
