@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-13T17:43:41.660Z</updated>
+    <updated>2024-02-13T18:13:24.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2587,18 +2587,6 @@ Romanian cybersecurity firm Bitdefender, which discovered the flaw in Bosch BC
         <updated>2024-01-15T07:45:00.000Z</updated>
         <summary type="html"><![CDATA[Thousands of WordPress sites using a vulnerable version of the Popup Builder plugin have been compromised with a malware called Balada Injector.
 First documented by Doctor Web in January 2023, the campaign takes place in a series of periodic attack waves, weaponizing security flaws WordPress plugins to inject backdoor designed to redirect visitors of infected sites to bogus tech]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023]]></title>
-        <id>https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html</id>
-        <link href="https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html"/>
-        <updated>2024-01-15T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The environmental services industry witnessed an “unprecedented surge” in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic.
-This marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week.
-“This surge in cyber attacks coincided]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
