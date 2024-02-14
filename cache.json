@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have found that it's possible for threat actors to exploit a well-known utility called command-not-found to recommend their own rogue packages and compromise systems running Ubuntu operating system.\n\"While 'command-not-found' serves as a convenient tool for suggesting installations for uninstalled commands, it can be inadvertently manipulated by attackers through the",
+          "link": "https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html",
+          "publishedOn": "2024-02-14T13:26:00.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 'command-not-found' Tool Could Trick Users into Installing Rogue Packages",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDyP4NoSgT96xKZCqtP23_WHosGZg_mMUIqJnjVlh8Bs9IlSJEP3YO1aS-kN0-cJoWxFN66HjWHwM2Iu18sCYFeSBKXgWFrkFEDLm0lE9rttvuNywVmO3UJIcbY5UhNiGYqMYCO9XgU8sfk4rUPPC3-TJw04leySYWUKWSq_wHVhFtfe1sZt108b7dWwP-/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDyP4NoSgT96xKZCqtP23_WHosGZg_mMUIqJnjVlh8Bs9IlSJEP3YO1aS-kN0-cJoWxFN66HjWHwM2Iu18sCYFeSBKXgWFrkFEDLm0lE9rttvuNywVmO3UJIcbY5UhNiGYqMYCO9XgU8sfk4rUPPC3-TJw04leySYWUKWSq_wHVhFtfe1sZt108b7dWwP-/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The landscape of cybersecurity in financial services is undergoing a rapid transformation. Cybercriminals are exploiting advanced technologies and methodologies, making traditional security measures obsolete. The challenges are compounded for community banks that must safeguard sensitive financial data against the same level of sophisticated threats as larger institutions, but often with more",
