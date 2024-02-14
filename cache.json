@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed security flaw in the Microsoft Defender SmartScreen has been exploited as a zero-day by an advanced persistent threat actor called Water Hydra (aka DarkCasino) targeting financial market traders.\nTrend Micro, which began tracking the campaign in late December 2023, said it entails the exploitation of CVE-2024-21412, a security bypass vulnerability related to Internet",
+          "link": "https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
+          "publishedOn": "2024-02-14T07:33:00.000Z",
+          "wordCount": null,
+          "title": "DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDxsWZtMUgmZz5rKH-NbrAkA6dv3NZaDoBd4puHxMXvXQc5SA3BAdPzOWcaWaQwHzKHvlE06MBejybwscxmbgqCSedwNfgZHIeo6TGB1cVTRlCzhicYxuuEa8zFhX4vWsEs2odbiRb9_RamAFOW0YExxQfi7rVH2OYlT0rGlKEWeub8wgOe4knCQ4-vG6t/s1600/trading.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDxsWZtMUgmZz5rKH-NbrAkA6dv3NZaDoBd4puHxMXvXQc5SA3BAdPzOWcaWaQwHzKHvlE06MBejybwscxmbgqCSedwNfgZHIeo6TGB1cVTRlCzhicYxuuEa8zFhX4vWsEs2odbiRb9_RamAFOW0YExxQfi7rVH2OYlT0rGlKEWeub8wgOe4knCQ4-vG6t/s1600/trading.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has released patches to address 73 security flaws spanning its software lineup as part of its Patch Tuesday updates for February 2024, including two zero-days that have come under active exploitation.\nOf the 73 vulnerabilities, 5 are rated Critical, 65 are rated Important, and three and rated Moderate in severity. This is in addition to 24 flaws that have been fixed",
