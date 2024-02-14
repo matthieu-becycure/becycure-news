@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T19:08:10.020Z</updated>
+    <updated>2024-02-14T19:23:29.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2686,18 +2686,6 @@ As a child,]]></summary>
         <updated>2024-01-16T07:59:00.000Z</updated>
         <summary type="html"><![CDATA[The operators behind the now-defunct Inferno Drainer created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023.
 The scheme “leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers’ infrastructure that spoofed Web3 protocols to trick victims into authorizing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer]]></title>
-        <id>https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html</id>
-        <link href="https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"/>
-        <updated>2024-01-16T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed leveraging a now-patched security flaw in Microsoft Windows to deploy an open-source information stealer called Phemedrone Stealer.
-“Phemedrone targets web browsers and data from cryptocurrency wallets and messaging apps such as Telegram, Steam, and Discord,” Trend Micro researchers Peter Girnus, Aliakbar Zahravi, and Simon Zuckerbraun said.
-“It also]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
