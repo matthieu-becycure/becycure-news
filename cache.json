@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Nation-state actors associated with Russia, North Korea, Iran, and China are experimenting with artificial intelligence (AI) and large language models (LLMs) to complement their ongoing cyber attack operations.\nThe findings come from a report published by Microsoft in collaboration with OpenAI, both of which said they disrupted efforts made by five state-affiliated actors that used its",
+          "link": "https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html",
+          "publishedOn": "2024-02-14T14:39:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft, OpenAI Warn of Nation-State Hackers Weaponizing AI for Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKzjBY3OOGttaxkmh8q7aiKyqIRXNwl2tk8tfqxVkOELNUwatuCfFj99ql7EpRXQ7otXkQCrYp8Pn7CvYJoc4GIUvD_AeGk53O9F_HQ3RsYT9AHunGtaGJxq0Jg-YzcX0tCKRkUUmw70FzmAR1vGWuFa0PTdtnESAVgSYxuXP6eJu4CGsOilzdsiYtPq7/s1600/machine-learning.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKzjBY3OOGttaxkmh8q7aiKyqIRXNwl2tk8tfqxVkOELNUwatuCfFj99ql7EpRXQ7otXkQCrYp8Pn7CvYJoc4GIUvD_AeGk53O9F_HQ3RsYT9AHunGtaGJxq0Jg-YzcX0tCKRkUUmw70FzmAR1vGWuFa0PTdtnESAVgSYxuXP6eJu4CGsOilzdsiYtPq7/s1600/machine-learning.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have found that it's possible for threat actors to exploit a well-known utility called command-not-found to recommend their own rogue packages and compromise systems running Ubuntu operating system.\n\"While 'command-not-found' serves as a convenient tool for suggesting installations for uninstalled commands, it can be inadvertently manipulated by attackers through the",
