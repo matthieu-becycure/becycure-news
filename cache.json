@@ -2349,6 +2349,106 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service, une élévation de privilèges, une usurpation d'identité et une exécution de …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/",
+          "publishedOn": "2024-02-14T16:00:39.000Z",
+          "wordCount": 1247,
+          "title": "CERTFR-2024-AVI-0131 : Multiples vulnérabilités dans les produits Microsoft (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire à distance et une usurpation d'identité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/",
+          "publishedOn": "2024-02-14T16:00:38.000Z",
+          "wordCount": 1096,
+          "title": "CERTFR-2024-AVI-0130 : Multiples vulnérabilités dans Microsoft Azure (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/",
+          "publishedOn": "2024-02-14T16:00:36.000Z",
+          "wordCount": 960,
+          "title": "CERTFR-2024-AVI-0129 : Multiples vulnérabilités dans Microsoft .Net (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité, une atteinte à la confidentialité des données, un déni de service, une élévation de privilèges, …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/",
+          "publishedOn": "2024-02-14T16:00:35.000Z",
+          "wordCount": 1737,
+          "title": "CERTFR-2024-AVI-0128 : Multiples vulnérabilités dans Microsoft Windows (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une élévation de privilèges et une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/",
+          "publishedOn": "2024-02-14T16:00:33.000Z",
+          "wordCount": 1043,
+          "title": "CERTFR-2024-AVI-0127 : Multiples vulnérabilités dans Microsoft Office (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/",
+          "publishedOn": "2024-02-14T13:41:18.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0126 : Vulnérabilité dans Google Chrome (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/",
+          "publishedOn": "2024-02-14T13:26:43.000Z",
+          "wordCount": 1279,
+          "title": "CERTFR-2024-AVI-0125 : Multiples vulnérabilités dans SAP (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0124/",
+          "publishedOn": "2024-02-14T10:38:02.000Z",
+          "wordCount": 2387,
+          "title": "CERTFR-2024-AVI-0124 : Multiples vulnérabilités dans les produits Intel (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et injection de code indirecte à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0123/",
+          "publishedOn": "2024-02-14T09:14:11.000Z",
+          "wordCount": 1228,
+          "title": "CERTFR-2024-AVI-0123 : Multiples vulnérabilités dans les produits Adobe (14 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/",
+          "publishedOn": "2024-02-13T17:07:04.000Z",
+          "wordCount": 1108,
+          "title": "CERTFR-2024-AVI-0122 : Multiples vulnérabilités dans Bind (13 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0121/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Typo3. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.",
