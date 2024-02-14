@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T19:43:39.665Z</updated>
+    <updated>2024-02-14T20:10:30.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2677,17 +2677,6 @@ As a child,]]></summary>
  Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2  et 7.1 de Synology DSM.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims]]></title>
-        <id>https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html</id>
-        <link href="https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html"/>
-        <updated>2024-01-16T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The operators behind the now-defunct Inferno Drainer created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023.
-The scheme “leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers’ infrastructure that spoofed Web3 protocols to trick victims into authorizing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
