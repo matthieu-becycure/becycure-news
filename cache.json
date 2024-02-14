@@ -3345,16 +3345,6 @@
           "wordCount": 940,
           "title": "CERTFR-2024-AVI-0036 : Vulnérabilité dans OpenSSL (16 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Synology Disk Station Manager (DSM). Elle permet à un attaquant de provoquer une exécution de code arbitraire.\n Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2  et 7.1 de Synology DSM.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/",
-          "publishedOn": "2024-01-16T08:19:39.000Z",
-          "wordCount": 979,
-          "title": "CERTFR-2024-AVI-0035 : Vulnérabilité dans Synology Disk Station Manager (16 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }

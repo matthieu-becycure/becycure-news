@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T20:10:30.215Z</updated>
+    <updated>2024-02-14T20:24:02.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2664,17 +2664,6 @@ As a child,]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0036/"/>
         <updated>2024-01-16T08:34:01.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0035 : Vulnérabilité dans Synology Disk Station Manager (16 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0035/"/>
-        <updated>2024-01-16T08:19:39.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Synology Disk Station Manager (DSM). Elle permet à un attaquant de provoquer une exécution de code arbitraire.
- Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2  et 7.1 de Synology DSM.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
