@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T11:43:36.993Z</updated>
+    <updated>2024-02-14T12:18:20.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Tactics FinServ Institutions Can Bank On in 2024]]></title>
+        <id>https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html</id>
+        <link href="https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html"/>
+        <updated>2024-02-14T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The landscape of cybersecurity in financial services is undergoing a rapid transformation. Cybercriminals are exploiting advanced technologies and methodologies, making traditional security measures obsolete. The challenges are compounded for community banks that must safeguard sensitive financial data against the same level of sophisticated threats as larger institutions, but often with more]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bumblebee Malware Returns with New Tricks, Targeting U.S. Businesses]]></title>
+        <id>https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html</id>
+        <link href="https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html"/>
+        <updated>2024-02-14T11:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The infamous malware loader and initial access broker known as Bumblebee has resurfaced after a four-month absence as part of a new phishing campaign observed in February 2024.
+Enterprise security firm Proofpoint said the activity targets organizations in the U.S. with voicemail-themed lures containing links to OneDrive URLs.
+"The URLs led to a Word file with names such as "]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability]]></title>
         <id>https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html</id>
