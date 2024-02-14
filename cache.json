@@ -3223,16 +3223,6 @@
           "wordCount": 979,
           "title": "CERTFR-2024-AVI-0035 : Vulnérabilité dans Synology Disk Station Manager (16 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-003/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-003/",
-          "publishedOn": "2024-01-15T12:52:15.000Z",
-          "wordCount": 1951,
-          "title": "CERTFR-2024-ACT-003 : Bulletin d’actualité CERTFR-2024-ACT-003 (15 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
