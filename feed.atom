@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T05:43:25.878Z</updated>
+    <updated>2024-02-14T06:13:40.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Rolls Out Patches for 73 Flaws, Including 2 Windows Zero-Days]]></title>
+        <id>https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html</id>
+        <link href="https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html"/>
+        <updated>2024-02-14T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released patches to address 73 security flaws spanning its software lineup as part of its Patch Tuesday updates for February 2024, including two zero-days that have come under active exploitation.
+Of the 73 vulnerabilities, 5 are rated Critical, 65 are rated Important, and three and rated Moderate in severity. This is in addition to 24 flaws that have been fixed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glupteba Botnet Evades Detection with Undocumented UEFI Bootkit]]></title>
         <id>https://thehackernews.com/2024/02/glupteba-botnet-evades-detection-with.html</id>
