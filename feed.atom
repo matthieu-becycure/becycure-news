@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T22:43:35.761Z</updated>
+    <updated>2024-02-14T23:10:31.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2644,18 +2644,6 @@ While webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS 
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Case Study: The Cookie Privacy Monster in Big Global Retail]]></title>
-        <id>https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html</id>
-        <link href="https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html"/>
-        <updated>2024-01-16T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore how an advanced exposure management solution saved a major retail industry client from ending up on the naughty step due to a misconfiguration in its cookie management policy. This wasn’t anything malicious, but with modern web environments being so complex, mistakes can happen, and non-compliance fines can be just an oversight away.Download the full case study here.
-
-As a child,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
