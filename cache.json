@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VN_PPhYpim0_6VrS4cUnKn_dExu8QnixEpVvtXEVgXL0kJsP_r2qaO2zxaoNbTavnJzOlt5T5lMcGGL0bX2MId_ZC2XOA6SLtz3gjxRlJ6N4q5EBQGn9enWwovs44EPiNl4HMRNki1bai9wEIk58PygCVn-WOayMbzaZyipeWqbnnJzrI4guHrFswS59/s1600/vulnerability.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VN_PPhYpim0_6VrS4cUnKn_dExu8QnixEpVvtXEVgXL0kJsP_r2qaO2zxaoNbTavnJzOlt5T5lMcGGL0bX2MId_ZC2XOA6SLtz3gjxRlJ6N4q5EBQGn9enWwovs44EPiNl4HMRNki1bai9wEIk58PygCVn-WOayMbzaZyipeWqbnnJzrI4guHrFswS59/s1600/vulnerability.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Tuesday released updates to fix four security issues in its Chrome browser, including an actively exploited zero-day flaw.\nThe issue, tracked as CVE-2024-0519, concerns an out-of-bounds memory access in the V8 JavaScript and WebAssembly engine, which can be weaponized by threat actors to trigger a crash.\n\"By reading out-of-bounds memory, an attacker might be able to get secret values,",
-          "link": "https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html",
-          "publishedOn": "2024-01-17T02:20:00.000Z",
-          "wordCount": null,
-          "title": "Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
         }
       ]
     },

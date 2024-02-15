@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T14:09:03.853Z</updated>
+    <updated>2024-02-15T14:26:54.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2601,18 +2601,6 @@ The Microsoft-owned subsidiary said it was made aware of the problem on December
 The flaws are listed below -
 
 CVE-2023-6548 (CVSS score: 5.5) - Authenticated (low privileged) remote code execution on Management Interface (requires access to NSIP, CLIP, or SNIP with management]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero-Day Alert: Update Chrome Now to Fix New Actively Exploited Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html</id>
-        <link href="https://thehackernews.com/2024/01/zero-day-alert-update-chrome-now-to-fix.html"/>
-        <updated>2024-01-17T02:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Tuesday released updates to fix four security issues in its Chrome browser, including an actively exploited zero-day flaw.
-The issue, tracked as CVE-2024-0519, concerns an out-of-bounds memory access in the V8 JavaScript and WebAssembly engine, which can be weaponized by threat actors to trigger a crash.
-"By reading out-of-bounds memory, an attacker might be able to get secret values,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
