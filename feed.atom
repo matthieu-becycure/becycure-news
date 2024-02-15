@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T15:10:07.074Z</updated>
+    <updated>2024-02-15T15:24:36.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor]]></title>
+        <id>https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html</id>
+        <link href="https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html"/>
+        <updated>2024-02-15T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked threat actor known as Turla has been observed using a new backdoor called TinyTurla-NG as part of a three-month-long campaign targeting Polish non-governmental organizations in December 2023.
+"TinyTurla-NG, just like TinyTurla, is a small 'last chance' backdoor that is left behind to be used when all other unauthorized access/backdoor mechanisms have failed or been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivanti Pulse Secure Found Using 11-Year-Old Linux Version and Outdated Libraries]]></title>
+        <id>https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html</id>
+        <link href="https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html"/>
+        <updated>2024-02-15T14:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A reverse engineering of the firmware running on Ivanti Pulse Secure appliances has revealed numerous weaknesses, once again underscoring the challenge of securing software supply chains.
+Eclypsiusm, which acquired firmware version 9.1.18.2-24467.1 as part of the process, said the base operating system used by the Utah-based software company for the device is CentOS 6.4.
+"Pulse Secure runs an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities]]></title>
         <id>https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html</id>
