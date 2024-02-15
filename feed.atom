@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T10:29:50.251Z</updated>
+    <updated>2024-02-15T10:43:41.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html</id>
+        <link href="https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html"/>
+        <updated>2024-02-15T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese-speaking threat actor codenamed GoldFactory has been attributed to the development of highly sophisticated banking trojans, including a previously undocumented iOS malware called GoldPickaxe that's capable of harvesting identity documents, facial recognition data, and intercepting SMS.
+"The GoldPickaxe family is available for both iOS and Android platforms,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Exchange Server Flaw (CVE-2024-21410) Under Active Exploitation]]></title>
         <id>https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html</id>

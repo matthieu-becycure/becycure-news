@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Chinese-speaking threat actor codenamed GoldFactory has been attributed to the development of highly sophisticated banking trojans, including a previously undocumented iOS malware called GoldPickaxe that's capable of harvesting identity documents, facial recognition data, and intercepting SMS.\n\"The GoldPickaxe family is available for both iOS and Android platforms,\"",
+          "link": "https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html",
+          "publishedOn": "2024-02-15T09:31:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb6kXWdLKWvVuVI9cpmRB78A6VPfXutnk4bsZZEM9aVLd9ANhHCvTytNlk9A75hIWG1QY_iC2wCY5BkZtqvdEFi8G7V0SabknW6A8koDnVIqWr8iOR7TAktp4o4C8F1gGXN0q1IRAxjarcPVCd0BX9FP6LO5gIJztRR1eWtcjZ_1bRNjSp4YbBWGe0Yl2t/s1600/deepfake.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb6kXWdLKWvVuVI9cpmRB78A6VPfXutnk4bsZZEM9aVLd9ANhHCvTytNlk9A75hIWG1QY_iC2wCY5BkZtqvdEFi8G7V0SabknW6A8koDnVIqWr8iOR7TAktp4o4C8F1gGXN0q1IRAxjarcPVCd0BX9FP6LO5gIJztRR1eWtcjZ_1bRNjSp4YbBWGe0Yl2t/s1600/deepfake.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/critical-exchange-server-flaw-cve-2024.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Wednesday acknowledged that a newly disclosed critical security flaw in Exchange Server has been actively exploited in the wild, a day after it released fixes for the vulnerability as part of its Patch Tuesday updates.\nTracked as CVE-2024-21410 (CVSS score: 9.8), the issue has been described as a case of privilege escalation impacting the Exchange Server.\n\"An attacker",
