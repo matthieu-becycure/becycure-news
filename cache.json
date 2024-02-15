@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Citrix is warning of two zero-day security vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that are being actively exploited in the wild.\nThe flaws are listed below -\n\nCVE-2023-6548 (CVSS score: 5.5) - Authenticated (low privileged) remote code execution on Management Interface (requires access to NSIP, CLIP, or SNIP with management",
-          "link": "https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html",
-          "publishedOn": "2024-01-17T04:14:00.000Z",
-          "wordCount": null,
-          "title": "Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VN_PPhYpim0_6VrS4cUnKn_dExu8QnixEpVvtXEVgXL0kJsP_r2qaO2zxaoNbTavnJzOlt5T5lMcGGL0bX2MId_ZC2XOA6SLtz3gjxRlJ6N4q5EBQGn9enWwovs44EPiNl4HMRNki1bai9wEIk58PygCVn-WOayMbzaZyipeWqbnnJzrI4guHrFswS59/s1600/vulnerability.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_VN_PPhYpim0_6VrS4cUnKn_dExu8QnixEpVvtXEVgXL0kJsP_r2qaO2zxaoNbTavnJzOlt5T5lMcGGL0bX2MId_ZC2XOA6SLtz3gjxRlJ6N4q5EBQGn9enWwovs44EPiNl4HMRNki1bai9wEIk58PygCVn-WOayMbzaZyipeWqbnnJzrI4guHrFswS59/s1600/vulnerability.jpg"
         }
       ]
     },

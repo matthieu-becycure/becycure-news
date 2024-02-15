@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T16:12:09.016Z</updated>
+    <updated>2024-02-15T16:29:55.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2611,19 +2611,6 @@ Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, s
         <updated>2024-01-17T07:41:00.000Z</updated>
         <summary type="html"><![CDATA[GitHub has revealed that it has rotated some keys in response to a security vulnerability that could be potentially exploited to gain access to credentials within a production container.
 The Microsoft-owned subsidiary said it was made aware of the problem on December 26, 2023, and that it addressed the issue the same day, in addition to rotating all potentially exposed credentials out of an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citrix, VMware, and Atlassian Hit with Critical Flaws — Patch ASAP!]]></title>
-        <id>https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html</id>
-        <link href="https://thehackernews.com/2024/01/citrix-vmware-and-atlassian-hit-with.html"/>
-        <updated>2024-01-17T04:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Citrix is warning of two zero-day security vulnerabilities in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that are being actively exploited in the wild.
-The flaws are listed below -
-
-CVE-2023-6548 (CVSS score: 5.5) - Authenticated (low privileged) remote code execution on Management Interface (requires access to NSIP, CLIP, or SNIP with management]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
