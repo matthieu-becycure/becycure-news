@@ -2260,38 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwn1FAAK_8xGkSlHJhK7BHDotaQAXejK01nHL7x726OMiuyRpt0QBSe3BZ7Zyv76o1GFMPqNIkh66V1FS7HGuzJnmW01kGxQDnWwB2OFnfj3N8F6LBqWepZXSwpD3Kl4mZugYWju9XQv8ANjMwOaQWzLl4c7-uC8SzNh4VKJZyR25FzyCU1KxAmcjc0yS3/s1600/chrome-0day.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Over 178,000 SonicWall firewalls exposed over the internet are exploitable to at least one of the two security flaws that could be potentially exploited to cause a denial-of-service (DoS) condition and remote code execution (RCE).\n“The two issues are fundamentally the same but exploitable at different HTTP URI paths due to reuse of a vulnerable code pattern,” Jon Williams, a senior security",
-          "link": "https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html",
-          "publishedOn": "2024-01-16T13:39:00.000Z",
-          "wordCount": null,
-          "title": "Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s1600/exploit.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKE-BYxQ1ZmWQX5uhzuMCIsp778x6Mpr7_ohp-KoGH_FtvIWoboX4hRmxLS-coZjYnIJrm5yHCg5Mujya5fGVfW-1gOg-WXJTdEaBHupT6n7K8k_R6-WJBPzxlp5FMQOHatfBEB7ucNarbbR1Sz-3U81nuvvn7RYAWBdSpGIpLuvweRubHTOI91F9X91vJ/s1600/exploit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The remote access trojan (RAT) known as Remcos RAT has been found being propagated via webhards by disguising it as adult-themed games in South Korea.\nWebHard, short for web hard drive, is a popular online file storage system used to upload, download, and share files in the country.\nWhile webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS botnet malware, the",
-          "link": "https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html",
-          "publishedOn": "2024-01-16T13:22:00.000Z",
-          "wordCount": null,
-          "title": "Remcos RAT Spreading Through Adult Games in New Attack Wave",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3qb5KkNjogLZrZgIXnKrr7cITkXjqPIK7mO0eHCm29X0yr0HGp_qleNAUIJpJX2K320lNnlrc25R9oxE8h34xtPhS2StZARVsEnEOsKOwPLmhuBNEB3GUI12ADDd5CwhAq8pCiXFmbUWYW_6kHZZtTWL0TOBb9m6vsmxUmSB9k1y8LGvcnAfEYuO-u6t-/s1600/cyberattack.jpg"
         }
       ]
     },
@@ -3298,16 +3266,6 @@
           "publishedOn": "2024-01-16T14:31:51.000Z",
           "wordCount": 1170,
           "title": "CERTFR-2024-AVI-0039 : Multiples vulnérabilités dans les produits Citrix (16 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/",
-          "publishedOn": "2024-01-16T12:46:38.000Z",
-          "wordCount": 947,
-          "title": "CERTFR-2024-AVI-0038 : Vulnérabilité dans les produits SonicWall (16 janvier 2024)",
           "imageUrl": null
         }
       ]
