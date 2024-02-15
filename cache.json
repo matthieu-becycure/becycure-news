@@ -3257,16 +3257,6 @@
           "wordCount": 1152,
           "title": "CERTFR-2024-AVI-0040 : Multiples vulnérabilités dans Atlassian Confluence et Jira (16 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0039/",
-          "publishedOn": "2024-01-16T14:31:51.000Z",
-          "wordCount": 1170,
-          "title": "CERTFR-2024-AVI-0039 : Multiples vulnérabilités dans les produits Citrix (16 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
