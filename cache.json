@@ -2317,6 +2317,106 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
+          "author": null,
+          "description": "Le 13 février 2024, Microsoft a publié un correctif pour la vulnérabilité CVE-2024-21413 affectant le produit Outlook pour Windows.\n Elle permet à un attaquant non authentifié de divulguer le condensat …",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
+          "publishedOn": "2024-02-15T16:32:41.000Z",
+          "wordCount": 1035,
+          "title": "CERTFR-2024-ALE-005 : Vulnérabilité dans Microsoft Outlook (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/",
+          "publishedOn": "2024-02-15T13:49:17.000Z",
+          "wordCount": 1030,
+          "title": "CERTFR-2024-AVI-0140 : Multiples vulnérabilités dans Liferay (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0139/",
+          "publishedOn": "2024-02-15T12:44:05.000Z",
+          "wordCount": 1153,
+          "title": "CERTFR-2024-AVI-0139 : Multiples vulnérabilités dans les produits Palo Alto Networks (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0138/",
+          "publishedOn": "2024-02-15T12:36:42.000Z",
+          "wordCount": 970,
+          "title": "CERTFR-2024-AVI-0138 : Vulnérabilité dans Stormshield Network Security (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0137/",
+          "publishedOn": "2024-02-15T12:31:33.000Z",
+          "wordCount": 1097,
+          "title": "CERTFR-2024-AVI-0137 : Multiples vulnérabilités dans les produits F5 (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0136/",
+          "publishedOn": "2024-02-15T09:37:01.000Z",
+          "wordCount": 1247,
+          "title": "CERTFR-2024-AVI-0136 : Vulnérabilité dans les produits ESET (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0135/",
+          "publishedOn": "2024-02-15T09:28:41.000Z",
+          "wordCount": 922,
+          "title": "CERTFR-2024-AVI-0135 : Vulnérabilité dans Squid (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/",
+          "publishedOn": "2024-02-15T09:10:25.000Z",
+          "wordCount": 964,
+          "title": "CERTFR-2024-AVI-0134 : Multiples vulnérabilités dans les produits Tenable (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/",
+          "publishedOn": "2024-02-15T08:59:16.000Z",
+          "wordCount": 931,
+          "title": "CERTFR-2024-AVI-0133 : Multiples vulnérabilités dans Nginx (15 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/",
+          "publishedOn": "2024-02-15T08:02:06.000Z",
+          "wordCount": 948,
+          "title": "CERTFR-2024-AVI-0132 : Vulnérabilité dans Grafana (15 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/",
           "author": null,
           "description": "De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service, une élévation de privilèges, une usurpation d'identité et une exécution de …",
