@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-14T23:43:29.349Z</updated>
+    <updated>2024-02-15T00:46:01.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2632,16 +2632,6 @@ While webhards have been used in the past to deliver njRAT, UDP RAT, and DDoS 
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0038/"/>
         <updated>2024-01-16T12:46:38.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits SonicWall. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0037 : Vulnérabilité dans VMware Aria Operations (16 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/"/>
-        <updated>2024-01-16T12:34:10.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

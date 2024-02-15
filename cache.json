@@ -3309,16 +3309,6 @@
           "wordCount": 947,
           "title": "CERTFR-2024-AVI-0038 : Vulnérabilité dans les produits SonicWall (16 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Aria Operations. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0037/",
-          "publishedOn": "2024-01-16T12:34:10.000Z",
-          "wordCount": 1004,
-          "title": "CERTFR-2024-AVI-0037 : Vulnérabilité dans VMware Aria Operations (16 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
