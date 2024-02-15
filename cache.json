@@ -3369,16 +3369,6 @@
           "wordCount": 931,
           "title": "CERTFR-2024-AVI-0042 : Vulnérabilité dans MongoDB C-Driver (17 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0041/",
-          "publishedOn": "2024-01-17T08:20:47.000Z",
-          "wordCount": 958,
-          "title": "CERTFR-2024-AVI-0041 : Multiples vulnérabilités dans Google Chrome (17 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
