@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SZz7sJKDe9nvdxUZi7YQt8wV8TRGn3YhkLaROjHQduwQjguGYlDhBtnvI2ggWQpt3gi09CpTxKj6pKThWUwCGVIZW6uOUsN7NNX56l-MpNaFPmEGQ8zN6WLWONG6zAxRWLnpcJco147QAMx1ZDeF0J9bSQi8JadBEquKZkxVR6-zUWXxB6eLgYzUiu0/s1600/webinar.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-SZz7sJKDe9nvdxUZi7YQt8wV8TRGn3YhkLaROjHQduwQjguGYlDhBtnvI2ggWQpt3gi09CpTxKj6pKThWUwCGVIZW6uOUsN7NNX56l-MpNaFPmEGQ8zN6WLWONG6zAxRWLnpcJco147QAMx1ZDeF0J9bSQi8JadBEquKZkxVR6-zUWXxB6eLgYzUiu0/s1600/webinar.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have identified a \"lightweight method\" called iShutdown for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's Pegasus, QuaDream's Reign, and Intellexa's Predator. \nKaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file",
-          "link": "https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html",
-          "publishedOn": "2024-01-17T10:22:00.000Z",
-          "wordCount": null,
-          "title": "New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQr0oRdG6tudqkU7L0TC-JcAZkHO7V9UfVUTT8DuuwGFjgGVG-cSWk71495m8iC2sg-CR8z1RCYroTNH9B3p-2Xpus-6oZ1LDc0tMvGN-nI-NdN53437ek5Xhj5sRjIyZwPBiL_pPWbvpV9dXVrYaKiKYjw4FiDfpUk-G2Dca5E-iPZQbAspdN5lj6b82/s1600/iphone-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQr0oRdG6tudqkU7L0TC-JcAZkHO7V9UfVUTT8DuuwGFjgGVG-cSWk71495m8iC2sg-CR8z1RCYroTNH9B3p-2Xpus-6oZ1LDc0tMvGN-nI-NdN53437ek5Xhj5sRjIyZwPBiL_pPWbvpV9dXVrYaKiKYjw4FiDfpUk-G2Dca5E-iPZQbAspdN5lj6b82/s1600/iphone-hacking.jpg"
         }
       ]
     },

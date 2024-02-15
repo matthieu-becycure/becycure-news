@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T22:09:01.507Z</updated>
+    <updated>2024-02-15T22:27:20.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2652,17 +2652,6 @@ Privilege escalation - the term might sound benign, but in the hands of a skille
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone]]></title>
-        <id>https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html</id>
-        <link href="https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html"/>
-        <updated>2024-01-17T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have identified a "lightweight method" called iShutdown for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's Pegasus, QuaDream's Reign, and Intellexa's Predator. 
-Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
