@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T11:23:24.884Z</updated>
+    <updated>2024-02-15T11:43:36.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Nation-State Actors Target Your Business: New Research Exposes Major SaaS Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html</id>
+        <link href="https://thehackernews.com/2024/02/how-nation-state-actors-target-your.html"/>
+        <updated>2024-02-15T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[With many of the highly publicized 2023 cyber attacks revolving around one or more SaaS applications, SaaS has become a cause for genuine concern in many boardroom discussions. More so than ever, considering that GenAI applications are, in fact, SaaS applications.
+Wing Security (Wing), a SaaS security company, conducted an analysis of 493 SaaS-using companies in Q4 of 2023. Their study]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Using Deepfakes in Advanced Mobile Banking Malware Attacks]]></title>
         <id>https://thehackernews.com/2024/02/chinese-hackers-using-deepfakes-in.html</id>
