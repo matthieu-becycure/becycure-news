@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T19:23:37.285Z</updated>
+    <updated>2024-02-15T19:43:28.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2703,17 +2703,6 @@ Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, s
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials]]></title>
-        <id>https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html</id>
-        <link href="https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html"/>
-        <updated>2024-01-17T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHub has revealed that it has rotated some keys in response to a security vulnerability that could be potentially exploited to gain access to credentials within a production container.
-The Microsoft-owned subsidiary said it was made aware of the problem on December 26, 2023, and that it addressed the issue the same day, in addition to rotating all potentially exposed credentials out of an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQr0oRdG6tudqkU7L0TC-JcAZkHO7V9UfVUTT8DuuwGFjgGVG-cSWk71495m8iC2sg-CR8z1RCYroTNH9B3p-2Xpus-6oZ1LDc0tMvGN-nI-NdN53437ek5Xhj5sRjIyZwPBiL_pPWbvpV9dXVrYaKiKYjw4FiDfpUk-G2Dca5E-iPZQbAspdN5lj6b82/s1600/iphone-hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbQr0oRdG6tudqkU7L0TC-JcAZkHO7V9UfVUTT8DuuwGFjgGVG-cSWk71495m8iC2sg-CR8z1RCYroTNH9B3p-2Xpus-6oZ1LDc0tMvGN-nI-NdN53437ek5Xhj5sRjIyZwPBiL_pPWbvpV9dXVrYaKiKYjw4FiDfpUk-G2Dca5E-iPZQbAspdN5lj6b82/s1600/iphone-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitHub has revealed that it has rotated some keys in response to a security vulnerability that could be potentially exploited to gain access to credentials within a production container.\nThe Microsoft-owned subsidiary said it was made aware of the problem on December 26, 2023, and that it addressed the issue the same day, in addition to rotating all potentially exposed credentials out of an",
-          "link": "https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html",
-          "publishedOn": "2024-01-17T07:41:00.000Z",
-          "wordCount": null,
-          "title": "GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUwszWE82Qi-X5DBSABFjAqx4zjutsX4wbDN8GTVwxkemecpMeoFHbO_MrU95fYRyLjlqDCSvTXnM9B6zvv6pgs84KxTjS9_eYxjOlX_pyPhsbyAWI0MuC6H9KllW71oYTYAIyoit3kMc5AFvog38htgctX-vJL-9qiFR5LR3qRMaM0ct2zI76wNn2iiVc/s1600/github.jpg"
         }
       ]
     },
