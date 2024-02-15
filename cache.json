@@ -3313,16 +3313,6 @@
           "wordCount": 1074,
           "title": "CERTFR-2024-AVI-0046 : Multiples vulnérabilités dans Oracle Java SE (17 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0045/",
-          "publishedOn": "2024-01-17T10:37:05.000Z",
-          "wordCount": 1004,
-          "title": "CERTFR-2024-AVI-0045 : Multiples vulnérabilités dans Oracle Database Server (17 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
