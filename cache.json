@@ -3349,26 +3349,6 @@
           "wordCount": 1198,
           "title": "CERTFR-2024-AVI-0044 : Multiples vulnérabilités dans Oracle MySQL (17 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Trend Micro Deep Security Agent. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0043/",
-          "publishedOn": "2024-01-17T08:39:44.000Z",
-          "wordCount": 951,
-          "title": "CERTFR-2024-AVI-0043 : Multiples vulnérabilités dans Trend Micro Deep Security Agent (17 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans MongoDB C-Driver. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0042/",
-          "publishedOn": "2024-01-17T08:29:09.000Z",
-          "wordCount": 931,
-          "title": "CERTFR-2024-AVI-0042 : Vulnérabilité dans MongoDB C-Driver (17 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
