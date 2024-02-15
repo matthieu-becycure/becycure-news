@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T23:10:23.884Z</updated>
+    <updated>2024-02-15T23:24:47.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2600,17 +2600,6 @@ SaaS applications seem to be multiplying by the day, and so does their integrati
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials]]></title>
-        <id>https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html</id>
-        <link href="https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html"/>
-        <updated>2024-01-17T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) warned that threat actors deploying the AndroxGh0st malware are creating a botnet for "victim identification and exploitation in target networks."
-A Python-based malware, AndroxGh0st was first documented by Lacework in December 2022, with the malware]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
