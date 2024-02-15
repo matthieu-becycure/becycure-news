@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-15T22:43:26.376Z</updated>
+    <updated>2024-02-15T23:10:23.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2611,37 +2611,6 @@ SaaS applications seem to be multiplying by the day, and so does their integrati
 A Python-based malware, AndroxGh0st was first documented by Lacework in December 2022, with the malware]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0047 : Multiples vulnérabilités dans Oracle PeopleSoft (17 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0047/"/>
-        <updated>2024-01-17T11:01:53.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: The Art of Privilege Escalation - How Hackers Become Admins]]></title>
-        <id>https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html</id>
-        <link href="https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html"/>
-        <updated>2024-01-17T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[In the digital age, the battleground for security professionals is not only evolving, it's expanding at an alarming rate. The upcoming webinar, "The Art of Privilege Escalation - How Hackers Become Admins," offers an unmissable opportunity for IT security experts to stay ahead in this relentless cyber war.
-Privilege escalation - the term might sound benign, but in the hands of a skilled hacker,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0046 : Multiples vulnérabilités dans Oracle Java SE (17 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0046/"/>
-        <updated>2024-01-17T10:56:22.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
