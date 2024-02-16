@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Several companies operating in the cryptocurrency sector are the target of a newly discovered Apple macOS backdoor codenamed RustDoor.\nRustDoor was first documented by Bitdefender last week, describing it as a Rust-based malware capable of harvesting and uploading files, as well as gathering information about the infected machines. It's distributed by masquerading itself as a Visual",
+          "link": "https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html",
+          "publishedOn": "2024-02-16T13:27:00.000Z",
+          "wordCount": null,
+          "title": "RustDoor macOS Backdoor Targets Cryptocurrency Firms with Fake Job Offers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsylQV-v4Puy4OHUSxWRQmAkvsQqmpB5oLn6AjFyeE-vs7ukdX7NCYsMxbws7IJi-iosKChhfgjjQpiFVBhQjsRcjEi7BwyZW582Xo9ojQ1LEC-CMNzhVPkOJuC-P_IB8lFaT27B2aJUKL9MKCdNZww0GI1ArlnotYv4i4W1akPjtAw2ZEi9-9l0gctTCy/s1600/macos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsylQV-v4Puy4OHUSxWRQmAkvsQqmpB5oLn6AjFyeE-vs7ukdX7NCYsMxbws7IJi-iosKChhfgjjQpiFVBhQjsRcjEi7BwyZW582Xo9ojQ1LEC-CMNzhVPkOJuC-P_IB8lFaT27B2aJUKL9MKCdNZww0GI1ArlnotYv4i4W1akPjtAw2ZEi9-9l0gctTCy/s1600/macos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "With breaches making the headlines on an almost weekly basis, the cybersecurity challenges we face are becoming visible not only to large enterprises, who have built security capabilities over the years, but also to small to medium businesses and the broader public. While this is creating greater awareness among smaller businesses of the need to improve their security posture, SMBs are often",
