@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T11:23:46.750Z</updated>
+    <updated>2024-02-16T11:43:44.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why We Must Democratize Cybersecurity]]></title>
+        <id>https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html</id>
+        <link href="https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html"/>
+        <updated>2024-02-16T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[With breaches making the headlines on an almost weekly basis, the cybersecurity challenges we face are becoming visible not only to large enterprises, who have built security capabilities over the years, but also to small to medium businesses and the broader public. While this is creating greater awareness among smaller businesses of the need to improve their security posture, SMBs are often]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious 'SNS Sender' Script Abuses AWS for Bulk Smishing Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html</id>
+        <link href="https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html"/>
+        <updated>2024-02-16T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[A malicious Python script known as SNS Sender is being advertised as a way for threat actors to send bulk smishing messages by abusing Amazon Web Services (AWS) Simple Notification Service (SNS).
+The SMS phishing messages are designed to propagate malicious links that are designed to capture victims' personally identifiable information (PII) and payment card details, SentinelOne]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. State Government Network Breached via Former Employee's Account]]></title>
         <id>https://thehackernews.com/2024/02/us-state-government-network-breached.html</id>
