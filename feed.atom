@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T16:12:24.817Z</updated>
+    <updated>2024-02-16T16:30:12.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2600,17 +2600,6 @@ Collectively dubbed PixieFail by Quarkslab, the nine issues reside in the Ti
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts]]></title>
-        <id>https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html</id>
-        <link href="https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html"/>
-        <updated>2024-01-18T04:16:00.000Z</updated>
-        <summary type="html"><![CDATA[High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called Mind Sandstorm since November 2023.
-The threat actor "used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files," the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
