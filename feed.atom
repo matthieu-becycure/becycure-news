@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T00:44:45.524Z</updated>
+    <updated>2024-02-16T01:41:43.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2566,18 +2566,6 @@ The threat actor "used bespoke phishing lures in an attempt to socially engineer
         <updated>2024-01-17T13:51:00.000Z</updated>
         <summary type="html"><![CDATA[The point-of-sale (PoS) terminals from PAX Technology are impacted by a collection of high-severity vulnerabilities that can be weaponized by threat actors to execute arbitrary code.
 The STM Cyber R&D team, which reverse engineered the Android-based devices manufactured by the Chinese firm owing to their rapid deployment in Poland, said it unearthed half a dozen flaws that allow for]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation]]></title>
-        <id>https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html</id>
-        <link href="https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html"/>
-        <updated>2024-01-17T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Wing Security announced today that it now offers free discovery and a paid tier for automated control over thousands of AI and AI-powered SaaS applications. This will allow companies to better protect their intellectual property (IP) and data against the growing and evolving risks of AI usage.
-
-SaaS applications seem to be multiplying by the day, and so does their integration of AI]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
