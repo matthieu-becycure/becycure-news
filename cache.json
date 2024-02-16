@@ -3241,26 +3241,6 @@
           "wordCount": 993,
           "title": "CERTFR-2024-AVI-0050 : Multiples vulnérabilités dans Juniper Secure Analytics (18 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0049/",
-          "publishedOn": "2024-01-17T12:33:15.000Z",
-          "wordCount": 1021,
-          "title": "CERTFR-2024-AVI-0049 : Multiples vulnérabilités dans Oracle Weblogic Server (17 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0048/",
-          "publishedOn": "2024-01-17T12:20:21.000Z",
-          "wordCount": 1006,
-          "title": "CERTFR-2024-AVI-0048 : Multiples vulnérabilités dans Oracle Systems (17 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
