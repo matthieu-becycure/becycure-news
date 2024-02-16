@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T21:08:29.398Z</updated>
+    <updated>2024-02-16T21:23:31.580Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2628,17 +2628,6 @@ The misconfigurations could be abused by an attacker to "conduct a supply chain 
         <link href="https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html"/>
         <updated>2024-01-18T12:02:00.000Z</updated>
         <summary type="html"><![CDATA[In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft]]></title>
-        <id>https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html</id>
-        <link href="https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html"/>
-        <updated>2024-01-18T09:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in the TCP/IP network protocol stack of an open-source reference implementation of the Unified Extensible Firmware Interface (UEFI) specification used widely in modern computers.
-Collectively dubbed PixieFail by Quarkslab, the nine issues reside in the TianoCore EFI Development Kit II (EDK II) and could be exploited to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
