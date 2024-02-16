@@ -3329,16 +3329,6 @@
           "wordCount": 997,
           "title": "CERTFR-2024-AVI-0052 : Multiples vulnérabilités dans Microsoft Edge (18 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/",
-          "publishedOn": "2024-01-18T08:41:12.000Z",
-          "wordCount": 968,
-          "title": "CERTFR-2024-AVI-0051 : Vulnérabilité dans Drupal Core (18 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }

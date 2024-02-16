@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T20:23:44.442Z</updated>
+    <updated>2024-02-16T20:43:45.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2649,16 +2649,6 @@ Collectively dubbed PixieFail by Quarkslab, the nine issues reside in the Ti
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0052/"/>
         <updated>2024-01-18T09:02:46.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0051 : Vulnérabilité dans Drupal Core (18 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0051/"/>
-        <updated>2024-01-18T08:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
