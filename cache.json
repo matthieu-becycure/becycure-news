@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzZWyQKjyIZm5WP-Br7s_PlUO0tRDTTLLdDrIxJYXpwK51oJZVwLO2YAlrGAZcVAgicj9TkQU6OewZcRPGh-90RX0W7bgLKQrgXePyWvotwy9YMX_XmpQBzVfRCJwWK54-k5lo8QlwpdClYsHRWlPYvDGtHFZFYBTEk_MNePJUxUr2KOQCEZ_sEF969z3S/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The point-of-sale (PoS) terminals from PAX Technology are impacted by a collection of high-severity vulnerabilities that can be weaponized by threat actors to execute arbitrary code.\nThe STM Cyber R&D team, which reverse engineered the Android-based devices manufactured by the Chinese firm owing to their rapid deployment in Poland, said it unearthed half a dozen flaws that allow for",
-          "link": "https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html",
-          "publishedOn": "2024-01-17T13:51:00.000Z",
-          "wordCount": null,
-          "title": "PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KfknRXkhx6GcpbEOOkd6ESA59uqQWkvBr3k6xkTpFlwO7dYLsHrEaKOoX3sAXr8-V5HYQ9_wVS_w7YwXEqLOwHMusfrAe7eFA6MUEEadhWo6o9Gij9To71OMem1O9HBZLHF6T2K2b3DWa9Kp19OjBB98lwuVvUorl493oJwKw5Th51hCBUybir6-2WR/s1600/pos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg15KfknRXkhx6GcpbEOOkd6ESA59uqQWkvBr3k6xkTpFlwO7dYLsHrEaKOoX3sAXr8-V5HYQ9_wVS_w7YwXEqLOwHMusfrAe7eFA6MUEEadhWo6o9Gij9To71OMem1O9HBZLHF6T2K2b3DWa9Kp19OjBB98lwuVvUorl493oJwKw5Th51hCBUybir6-2WR/s1600/pos.jpg"
         }
       ]
     },

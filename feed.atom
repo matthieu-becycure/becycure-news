@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T01:41:43.149Z</updated>
+    <updated>2024-02-16T02:16:11.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2555,17 +2555,6 @@ Collectively dubbed PixieFail by Quarkslab, the nine issues reside in the Ti
         <updated>2024-01-18T04:16:00.000Z</updated>
         <summary type="html"><![CDATA[High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called Mind Sandstorm since November 2023.
 The threat actor "used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files," the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions]]></title>
-        <id>https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html</id>
-        <link href="https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html"/>
-        <updated>2024-01-17T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The point-of-sale (PoS) terminals from PAX Technology are impacted by a collection of high-severity vulnerabilities that can be weaponized by threat actors to execute arbitrary code.
-The STM Cyber R&D team, which reverse engineered the Android-based devices manufactured by the Chinese firm owing to their rapid deployment in Poland, said it unearthed half a dozen flaws that allow for]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
