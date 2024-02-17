@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-17T19:43:36.445Z</updated>
+    <updated>2024-02-17T20:09:35.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2553,16 +2553,6 @@ The campaign, observed earlier this month and blocked by Proofpoint on January 1
 In]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0054 : Vulnérabilité dans Exim (19 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/"/>
-        <updated>2024-01-19T08:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

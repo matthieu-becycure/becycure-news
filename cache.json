@@ -3209,16 +3209,6 @@
           "wordCount": 1840,
           "title": "CERTFR-2024-AVI-0055 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0054/",
-          "publishedOn": "2024-01-19T08:04:24.000Z",
-          "wordCount": 937,
-          "title": "CERTFR-2024-AVI-0054 : Vulnérabilité dans Exim (19 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
