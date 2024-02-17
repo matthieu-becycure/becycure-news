@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixueqc7SQk3IKmUISVRb99BEtj7nwyQZAdt_PIlxcPryFppYulmXmrCj-WJG6YFHzv4BPw07H4Fj0Xbl8MWg0I6ba3xdwpDnEBoIq1hWTfTBD0u1cg8O43kljoL69_vVN5JdCSG1AuQGy4VwNxJVBNwqhLMmqj-Nli3fWz4A-IpaiGEvAsqK7C2AyJje4_/s1600/coin.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixueqc7SQk3IKmUISVRb99BEtj7nwyQZAdt_PIlxcPryFppYulmXmrCj-WJG6YFHzv4BPw07H4Fj0Xbl8MWg0I6ba3xdwpDnEBoIq1hWTfTBD0u1cg8O43kljoL69_vVN5JdCSG1AuQGy4VwNxJVBNwqhLMmqj-Nli3fWz4A-IpaiGEvAsqK7C2AyJje4_/s1600/coin.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Russia-linked threat actor known as COLDRIVER has been observed evolving its tradecraft to go beyond credential harvesting to deliver its first-ever custom malware written in the Rust programming language.\nGoogle's Threat Analysis Group (TAG), which shared details of the latest activity, said the attack chains leverage PDFs as decoy documents to trigger the infection sequence. The lures are",
-          "link": "https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html",
-          "publishedOn": "2024-01-18T14:49:00.000Z",
-          "wordCount": null,
-          "title": "Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s1600/phishing.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s1600/phishing.jpg"
         }
       ]
     },
