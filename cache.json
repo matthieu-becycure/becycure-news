@@ -2244,38 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s1600/phishing.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_IbE17Qh6nsB8MfkTM9l2mx8oWemRqKDnmA1u1kbUpTRH_7KEsRAFxlpKU3qDI6IqNh8rY1x2KAaFZ9VaKyEI59Q6mQN_m3ZcpUwnptrBuh2A2zYfUHex4d3TvmwBg-yUJgAkxbmWxIF2AkUX-JhRtkDa2xMGrto3ROTiQ_ihvywZv8_vYSSTItEF8G4F/s1600/phishing.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Continuous integration and continuous delivery (CI/CD) misconfigurations discovered in the open-source TensorFlow machine learning framework could have been exploited to orchestrate supply chain attacks.\nThe misconfigurations could be abused by an attacker to \"conduct a supply chain compromise of TensorFlow releases on GitHub and PyPi by compromising TensorFlow's build agents via",
-          "link": "https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html",
-          "publishedOn": "2024-01-18T12:34:00.000Z",
-          "wordCount": null,
-          "title": "TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s1600/ml-ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1J7gsmqZyYmsz2yqeBAyrS2BAExXMneFkenNBZqgzBzX5AQRnjN-6WcT8O2xGCzI6RW_WVh4Wr2a6_tKbeZ6lEE5WM9DdHMV3sPbg2VZ1FmeeM6uZSUiAphyhe2rOniOTwAF6hFH4ibltX8nC13bUDLBBgfEzUvWOHrWbJnV7usjwFknDwZ4AKpcqeFPA/s1600/ml-ai.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an",
-          "link": "https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html",
-          "publishedOn": "2024-01-18T12:02:00.000Z",
-          "wordCount": null,
-          "title": "MFA Spamming and Fatigue: When Security Measures Go Wrong",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s1600/password.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKL85jOjYEFu3DlZX5INS2o2qOINhQISeSFcio_cSTMKRD-Y27gG2tB81w3F3hsMJAP6N5-pE0LT6jz5sFRRUuzDV_ypYPXvNNfsn-_FI_rLEjfA5pPxrIFblcJprkEZEyLuy9TfctVVptIo-wOSygEVBWVcA-8x0U5iTrAQQVK2o_VIv1SId-4k8WBtA/s1600/password.jpg"
         }
       ]
     },

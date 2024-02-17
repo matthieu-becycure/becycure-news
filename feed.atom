@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-16T23:43:41.050Z</updated>
+    <updated>2024-02-17T00:44:44.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2609,27 +2609,6 @@ Google's Threat Analysis Group (TAG), which shared details of the latest activit
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks]]></title>
-        <id>https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html</id>
-        <link href="https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html"/>
-        <updated>2024-01-18T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Continuous integration and continuous delivery (CI/CD) misconfigurations discovered in the open-source TensorFlow machine learning framework could have been exploited to orchestrate supply chain attacks.
-The misconfigurations could be abused by an attacker to "conduct a supply chain compromise of TensorFlow releases on GitHub and PyPi by compromising TensorFlow's build agents via]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MFA Spamming and Fatigue: When Security Measures Go Wrong]]></title>
-        <id>https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html</id>
-        <link href="https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html"/>
-        <updated>2024-01-18T12:02:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
