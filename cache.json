@@ -3261,16 +3261,6 @@
           "wordCount": 1965,
           "title": "CERTFR-2024-ACT-004 : Multiples vulnérabilités dans les implémentations d’UEFI (18 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Nextcloud. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0053/",
-          "publishedOn": "2024-01-18T13:02:12.000Z",
-          "wordCount": 1168,
-          "title": "CERTFR-2024-AVI-0053 : Multiples vulnérabilités dans les produits Nextcloud (18 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
