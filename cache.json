@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSrxDEHS81r74q90arWznYG0eZEEYcpVMu9XSlHX5pXeYQYk5rNPnsNa518kmElEq-nBs6x8edY45lGFGqju-xCBUzGJXBRoYxAQhVpPUtJ4DXlPV1WrUMqeotH5SICM6ns5kwsg68Q4cRONnACI5xPBxtN34VVYT6NEeryzP2oM1EqKbLGeueX07l4Kv/s1600/trojan.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguSrxDEHS81r74q90arWznYG0eZEEYcpVMu9XSlHX5pXeYQYk5rNPnsNa518kmElEq-nBs6x8edY45lGFGqju-xCBUzGJXBRoYxAQhVpPUtJ4DXlPV1WrUMqeotH5SICM6ns5kwsg68Q4cRONnACI5xPBxtN34VVYT6NEeryzP2oM1EqKbLGeueX07l4Kv/s1600/trojan.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a now-patched critical flaw impacting Ivanti Endpoint Manager Mobile (EPMM) and MobileIron Core to its Known Exploited Vulnerabilities (KEV) catalog, stating it's being actively exploited in the wild.\nThe vulnerability in question is CVE-2023-35082 (CVSS score: 9.8), an authentication bypass",
-          "link": "https://thehackernews.com/2024/01/us-cybersecurity-agency-warns-of.html",
-          "publishedOn": "2024-01-19T04:55:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Cybersecurity Agency Warns of Actively Exploited Ivanti EPMM Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmgNl8D4UY2_PIkcp5S3IhL1Q1iunwF7YBifCoD2cOIEmX4FeUEx0CJq9gZytMnYPMACJPBLAtETh1uGNHMmCCox3Dwlv2O-GagqyzoY-mWGHDBWEGx-wE_TMyJp0mr3KPIS4jIPff2X3TZ_6L9cIJTs-BgEJFlWZnutJIJHeFBdZ-QMTpVVUwhAl6MLm/s1600/cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgmgNl8D4UY2_PIkcp5S3IhL1Q1iunwF7YBifCoD2cOIEmX4FeUEx0CJq9gZytMnYPMACJPBLAtETh1uGNHMmCCox3Dwlv2O-GagqyzoY-mWGHDBWEGx-wE_TMyJp0mr3KPIS4jIPff2X3TZ_6L9cIJTs-BgEJFlWZnutJIJHeFBdZ-QMTpVVUwhAl6MLm/s1600/cisa.jpg"
         }
       ]
     },
