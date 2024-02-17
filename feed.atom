@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-17T07:23:46.497Z</updated>
+    <updated>2024-02-17T07:43:44.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Open Sources Magika: AI-Powered File Identification Tool]]></title>
+        <id>https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html</id>
+        <link href="https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html"/>
+        <updated>2024-02-17T07:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced that it's open-sourcing Magika, an artificial intelligence (AI)-powered tool to identify file types, to help defenders accurately detect binary and textual file types.
+"Magika outperforms conventional file identification methods providing an overall 30% accuracy boost and up to 95% higher precision on traditionally hard to identify, but potentially problematic content]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warning: Akira Ransomware Exploiting Cisco ASA/FTD Vulnerability]]></title>
         <id>https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html</id>
