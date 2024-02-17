@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-17T08:26:24.340Z</updated>
+    <updated>2024-02-17T08:43:41.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Businesses Can Safeguard Their Communication Channels Against Hackers]]></title>
+        <id>https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html</id>
+        <link href="https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html"/>
+        <updated>2024-02-17T08:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Efficient communication is a cornerstone of business success. Internally, making sure your team communicates seamlessly helps you avoid friction losses, misunderstandings, delays, and overlaps. Externally, frustration-free customer communication is directly correlated to a positive customer experience and higher satisfaction. 
+However, business communication channels are also a major target]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Open Sources Magika: AI-Powered File Identification Tool]]></title>
         <id>https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html</id>
