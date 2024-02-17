@@ -3219,16 +3219,6 @@
           "wordCount": 937,
           "title": "CERTFR-2024-AVI-0054 : Vulnérabilité dans Exim (19 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-004/",
-          "author": null,
-          "description": "Exécution de code arbitraire à distance\n \tDéni de service à distance\n \tContournement de la politique de sécurité\n \tAtteinte à …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-004/",
-          "publishedOn": "2024-01-18T17:06:19.000Z",
-          "wordCount": 1965,
-          "title": "CERTFR-2024-ACT-004 : Multiples vulnérabilités dans les implémentations d’UEFI (18 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
