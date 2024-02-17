@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-17T23:23:36.431Z</updated>
+    <updated>2024-02-17T23:43:32.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2542,17 +2542,6 @@ The campaign, observed earlier this month and blocked by Proofpoint on January 1
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators]]></title>
-        <id>https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html</id>
-        <link href="https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html"/>
-        <updated>2024-01-19T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In the current digital landscape, data has emerged as a crucial asset for organizations, akin to currency. It’s the lifeblood of any organization in today's interconnected and digital world. Thus, safeguarding the data is of paramount importance. Its importance is magnified in on-premises Exchange Server environments where vital business communication and emails are stored and managed. 
-In]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
