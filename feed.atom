@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-18T16:29:43.591Z</updated>
+    <updated>2024-02-18T16:43:30.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2476,17 +2476,6 @@ The settlement is part of allegations that the Texas-based company did not infor
         <updated>2024-01-20T10:23:00.000Z</updated>
         <summary type="html"><![CDATA[An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been linked to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021.
 "UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits]]></title>
-        <id>https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html</id>
-        <link href="https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html"/>
-        <updated>2024-01-20T04:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an emergency directive urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products.
-The development came after the vulnerabilities – an authentication bypass]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
