@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-18T14:08:31.123Z</updated>
+    <updated>2024-02-18T14:26:29.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2498,18 +2498,6 @@ The development came after the vulnerabilities – an authentication bypass]]>
         <updated>2024-01-20T03:11:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft on Friday revealed that it was the target of a nation-state attack on its corporate systems that resulted in the theft of emails and attachments from senior executives and other individuals in the company's cybersecurity and legal departments.
 The Windows maker attributed the attack to a Russian advanced persistent threat (APT) group it tracks as Midnight Blizzard (formerly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invoice Phishing Alert: TA866 Deploys WasabiSeed & Screenshotter Malware]]></title>
-        <id>https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html</id>
-        <link href="https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html"/>
-        <updated>2024-01-20T02:16:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor tracked as TA866 has resurfaced after a nine-month hiatus with a new large-volume phishing campaign to deliver known malware families such as WasabiSeed and Screenshotter.
-The campaign, observed earlier this month and blocked by Proofpoint on January 11, 2024, involved sending thousands of invoice-themed emails targeting North America bearing decoy PDF files.
-"The PDFs]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
