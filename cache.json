@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Ukrainian national has pleaded guilty in the U.S. to his role in two different malware schemes, Zeus and IcedID, between May 2009 and February 2021.\nVyacheslav Igorevich Penchukov (aka Vyacheslav Igoravich Andreev, father, and tank), 37, was arrested by Swiss authorities in October 2022 and extradited to the U.S. last year. He was added to the FBI's most-wanted list in 2012.\nThe U.S.",
+          "link": "https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html",
+          "publishedOn": "2024-02-18T07:12:00.000Z",
+          "wordCount": null,
+          "title": "FBI's Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6aGUdBESoQQ1CrmbmyuN6fDYrEU5-4gbv0-56yr1G0rgNYTjk0E-Gl3EkMGYXV0zUQrkOsWNnauk4QpSNfwLJuoAm2JgERPKlC1WafJPHwUC30VLMrINO6-SYbO44fTHayohgnkXB42X_IqKNUBrG2N8RpVRtXuooj6MxcajJtgbU-0-mBK-76ZTlxwX4/s1600/hacker-malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6aGUdBESoQQ1CrmbmyuN6fDYrEU5-4gbv0-56yr1G0rgNYTjk0E-Gl3EkMGYXV0zUQrkOsWNnauk4QpSNfwLJuoAm2JgERPKlC1WafJPHwUC30VLMrINO6-SYbO44fTHayohgnkXB42X_IqKNUBrG2N8RpVRtXuooj6MxcajJtgbU-0-mBK-76ZTlxwX4/s1600/hacker-malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Efficient communication is a cornerstone of business success. Internally, making sure your team communicates seamlessly helps you avoid friction losses, misunderstandings, delays, and overlaps. Externally, frustration-free customer communication is directly correlated to a positive customer experience and higher satisfaction. \nHowever, business communication channels are also a major target",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-18T07:24:33.356Z</updated>
+    <updated>2024-02-18T07:43:25.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI's Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty]]></title>
+        <id>https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html</id>
+        <link href="https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html"/>
+        <updated>2024-02-18T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[A Ukrainian national has pleaded guilty in the U.S. to his role in two different malware schemes, Zeus and IcedID, between May 2009 and February 2021.
+Vyacheslav Igorevich Penchukov (aka Vyacheslav Igoravich Andreev, father, and tank), 37, was arrested by Swiss authorities in October 2022 and extradited to the U.S. last year. He was added to the FBI's most-wanted list in 2012.
+The U.S.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Businesses Can Safeguard Their Communication Channels Against Hackers]]></title>
         <id>https://thehackernews.com/2024/02/how-businesses-can-safeguard-their.html</id>
