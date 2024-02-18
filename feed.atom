@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-18T22:10:48.570Z</updated>
+    <updated>2024-02-18T22:28:41.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2465,17 +2465,6 @@ The settlement is part of allegations that the Texas-based company did not infor
         <summary type="html"><![CDATA[Cybersecurity researchers are warning of a "notable increase" in threat actor activity actively exploiting a now-patched flaw in Apache ActiveMQ to deliver the Godzilla web shell on compromised hosts.
 
 "The web shells are concealed within an unknown binary format and are designed to evade security and signature-based scanners," Trustwave said. "Notably, despite the binary's unknown file]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years]]></title>
-        <id>https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html</id>
-        <link href="https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"/>
-        <updated>2024-01-20T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been linked to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021.
-"UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
