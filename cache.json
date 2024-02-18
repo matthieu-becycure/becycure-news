@@ -3147,26 +3147,6 @@
           "wordCount": 1868,
           "title": "CERTFR-2024-ACT-005 : Bulletin d’actualité CERTFR-2024-ACT-005 (22 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0057/",
-          "publishedOn": "2024-01-19T13:15:51.000Z",
-          "wordCount": 1174,
-          "title": "CERTFR-2024-AVI-0057 : Multiples vulnérabilités dans les produits IBM (19 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer un déni de service et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0056/",
-          "publishedOn": "2024-01-19T13:11:41.000Z",
-          "wordCount": 1000,
-          "title": "CERTFR-2024-AVI-0056 : Multiples vulnérabilités dans le noyau Linux de RedHat (19 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
