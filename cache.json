@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJs1GQSYdjr1uz3xWEg8ikLLSWOhWZD7AftTYT6nUueOVujUQvSpsISg6RDwNjdqiqCogRjNuD4jfBCcKX4ZhlbOvAEzzXrX-YPLMGu2erKAnixFtUjPdWVbgPpRBL4u9gZUV5BH1_2N10DJjJ8tgG2ERY-npwClpNlHsWhZtkVvz6Klf5Hxmu92HF4VE/s1600/hook.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioJs1GQSYdjr1uz3xWEg8ikLLSWOhWZD7AftTYT6nUueOVujUQvSpsISg6RDwNjdqiqCogRjNuD4jfBCcKX4ZhlbOvAEzzXrX-YPLMGu2erKAnixFtUjPdWVbgPpRBL4u9gZUV5BH1_2N10DJjJ8tgG2ERY-npwClpNlHsWhZtkVvz6Klf5Hxmu92HF4VE/s1600/hook.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Pirated applications targeting Apple macOS users have been observed containing a backdoor capable of granting attackers remote control to infected machines.\n\"These applications are being hosted on Chinese pirating websites in order to gain victims,\" Jamf Threat Labs researchers Ferdous Saljooki and Jaron Bradley said.\n\"Once detonated, the malware will download and execute multiple payloads",
-          "link": "https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html",
-          "publishedOn": "2024-01-19T12:48:00.000Z",
-          "wordCount": null,
-          "title": "Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkXkxdNRtZNXp1DS_Pw9yRSuqpnezbrllMujBHo37CikXiRJDNZ1FE21nwY7o1Hj5efS0ptblGP98cgYQqUF30m5Y31nO6YqPFrlPF3cAu3wwDpRyPoEgcuwUzc8ZWQKkcpw1oOI_OFnkT4CeEr0U7gVUhSgirCWKsxpjBebK3UTfPHjj6hrNTyNtIE3m/s1600/macos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkXkxdNRtZNXp1DS_Pw9yRSuqpnezbrllMujBHo37CikXiRJDNZ1FE21nwY7o1Hj5efS0ptblGP98cgYQqUF30m5Y31nO6YqPFrlPF3cAu3wwDpRyPoEgcuwUzc8ZWQKkcpw1oOI_OFnkT4CeEr0U7gVUhSgirCWKsxpjBebK3UTfPHjj6hrNTyNtIE3m/s1600/macos.jpg"
         }
       ]
     },
@@ -3182,16 +3166,6 @@
           "publishedOn": "2024-01-19T13:11:41.000Z",
           "wordCount": 1000,
           "title": "CERTFR-2024-AVI-0056 : Multiples vulnérabilités dans le noyau Linux de RedHat (19 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0055/",
-          "publishedOn": "2024-01-19T12:45:29.000Z",
-          "wordCount": 1840,
-          "title": "CERTFR-2024-AVI-0055 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 janvier 2024)",
           "imageUrl": null
         }
       ]
