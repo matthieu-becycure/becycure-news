@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited cross-site scripting (XSS) vulnerabilities in Roundcube webmail servers to target over 80 organizations.\nThese entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat",
+          "link": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
+          "publishedOn": "2024-02-19T05:05:00.000Z",
+          "wordCount": null,
+          "title": "Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Iranian-origin threat actor known as Charming Kitten has been linked to a new set of attacks aimed at Middle East policy experts with a new backdoor called BASICSTAR by creating a fake webinar portal.\nCharming Kitten, also called APT35, CharmingCypress, Mint Sandstorm, TA453, and Yellow Garuda, has a history of orchestrating a wide range of social engineering campaigns that cast a",

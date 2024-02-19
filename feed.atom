@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-19T05:43:29.876Z</updated>
+    <updated>2024-02-19T06:13:58.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws]]></title>
+        <id>https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html</id>
+        <link href="https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html"/>
+        <updated>2024-02-19T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited cross-site scripting (XSS) vulnerabilities in Roundcube webmail servers to target over 80 organizations.
+These entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor]]></title>
         <id>https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html</id>
