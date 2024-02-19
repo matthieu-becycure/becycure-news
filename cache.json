@@ -2221,6 +2221,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/",
+          "publishedOn": "2024-02-19T13:15:47.000Z",
+          "wordCount": 937,
+          "title": "CERTFR-2024-AVI-0147 : Vulnérabilité dans Spring Security (19 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-009/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-009/",
+          "publishedOn": "2024-02-19T12:31:45.000Z",
+          "wordCount": 1943,
+          "title": "CERTFR-2024-ACT-009 : Bulletin d’actualité CERTFR-2024-ACT-009 (19 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0146/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service à distance et une élévation de privilèges.",

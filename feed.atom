@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-19T14:43:33.777Z</updated>
+    <updated>2024-02-19T15:10:37.439Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0147 : Vulnérabilité dans Spring Security (19 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/"/>
+        <updated>2024-02-19T13:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices]]></title>
         <id>https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html</id>
@@ -16,6 +26,16 @@ The findings are part of its Adversarial Threat Report for the fourth quarter 
 "Their various malware included]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ACT-009 : Bulletin d’actualité CERTFR-2024-ACT-009 (19 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-009/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-009/"/>
+        <updated>2024-02-19T12:31:45.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
