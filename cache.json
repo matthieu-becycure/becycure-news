@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Android banking trojan known as Anatsa has expanded its focus to include Slovakia, Slovenia, and Czechia as part of a new campaign observed in November 2023.\n\"Some of the droppers in the campaign successfully exploited the accessibility service, despite Google Play's enhanced detection and protection mechanisms,\" ThreatFabric said in a report shared with The Hacker News.",
+          "link": "https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html",
+          "publishedOn": "2024-02-19T10:29:00.000Z",
+          "wordCount": null,
+          "title": "Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbphax94P6kR5OsVxv8dO2r1c40xByhL2sw18yWUgnjjqKif8Qa2jPk8sqvrOfQ-f9XhxU_95Mjon_aqesNX5bsm8t8Vs8DfdXJLJjbh0D0xoUnh1BUcrS4YIIJGuNv3t3RU3LRkBmGLk2zaOwtSAmYh4t2UJxcEX40zJx-K-07ufH6HDHoEvVW2fVQNR/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbphax94P6kR5OsVxv8dO2r1c40xByhL2sw18yWUgnjjqKif8Qa2jPk8sqvrOfQ-f9XhxU_95Mjon_aqesNX5bsm8t8Vs8DfdXJLJjbh0D0xoUnh1BUcrS4YIIJGuNv3t3RU3LRkBmGLk2zaOwtSAmYh4t2UJxcEX40zJx-K-07ufH6HDHoEvVW2fVQNR/s1600/android.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited cross-site scripting (XSS) vulnerabilities in Roundcube webmail servers to target over 80 organizations.\nThese entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat",
