@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Did you know that Network Detection and Response (NDR) has become the most effective technology to detect cyber threats? In contrast to SIEM, NDR offers adaptive cybersecurity with reduced false alerts and efficient threat response.\nAre you aware of Network Detection and Response (NDR) and how it’s become the most effective technology to detect cyber threats? \nNDR massively",
+          "link": "https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html",
+          "publishedOn": "2024-02-19T11:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Achieve the Best Risk-Based Alerting (Bye-Bye SIEM)",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii1ckRMYOfKko9MuRs3D8SJSJmxeK_lggSExCVhp3hYbNQKFJ0gqESTp6n5bs6jo3pAYHYL9AoknLSDwDe6W5JVM6D0tOMDg1AMgyHbpWaB9IhgO-gz7b1PwL3O0SiG9bfg3cuFHombLc9LmfX9FDLiITiHgsWvM6_tHCJyx9K2gJDV4jPR8vUx2g-m-A/s1600/THN-Visual.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii1ckRMYOfKko9MuRs3D8SJSJmxeK_lggSExCVhp3hYbNQKFJ0gqESTp6n5bs6jo3pAYHYL9AoknLSDwDe6W5JVM6D0tOMDg1AMgyHbpWaB9IhgO-gz7b1PwL3O0SiG9bfg3cuFHombLc9LmfX9FDLiITiHgsWvM6_tHCJyx9K2gJDV4jPR8vUx2g-m-A/s1600/THN-Visual.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Android banking trojan known as Anatsa has expanded its focus to include Slovakia, Slovenia, and Czechia as part of a new campaign observed in November 2023.\n\"Some of the droppers in the campaign successfully exploited the accessibility service, despite Google Play's enhanced detection and protection mechanisms,\" ThreatFabric said in a report shared with The Hacker News.",
