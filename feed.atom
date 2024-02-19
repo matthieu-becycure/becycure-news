@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-19T13:43:28.667Z</updated>
+    <updated>2024-02-19T14:10:26.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices]]></title>
+        <id>https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html</id>
+        <link href="https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html"/>
+        <updated>2024-02-19T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta Platforms said it took a series of steps to curtail malicious activity from eight different firms based in Italy, Spain, and the United Arab Emirates (U.A.E.) operating in the surveillance-for-hire industry.
+The findings are part of its Adversarial Threat Report for the fourth quarter of 2023. The spyware targeted iOS, Android, and Windows devices.
+"Their various malware included]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Achieve the Best Risk-Based Alerting (Bye-Bye SIEM)]]></title>
         <id>https://thehackernews.com/2024/02/bye-bye-siem-hello-risk-based-alerting.html</id>
