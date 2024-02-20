@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T05:28:59.459Z</updated>
+    <updated>2024-02-20T05:43:33.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware's Darknet Domains Seized in Global Law Enforcement Raid]]></title>
+        <id>https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html</id>
+        <link href="https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html"/>
+        <updated>2024-02-20T05:25:00.000Z</updated>
+        <summary type="html"><![CDATA[An international law enforcement operation has led to the seizure of multiple darknet domains operated by LockBit, one of the most prolific ransomware groups, marking the latest in a long list of digital takedowns.
+While the full extent of the effort, codenamed Operation Cronos, is presently unknown, visiting the group's .onion website displays a seizure banner containing the message "]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0147 : Vulnérabilité dans Spring Security (19 février 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/</id>

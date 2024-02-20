@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An international law enforcement operation has led to the seizure of multiple darknet domains operated by LockBit, one of the most prolific ransomware groups, marking the latest in a long list of digital takedowns.\nWhile the full extent of the effort, codenamed Operation Cronos, is presently unknown, visiting the group's .onion website displays a seizure banner containing the message \"",
+          "link": "https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html",
+          "publishedOn": "2024-02-20T05:25:00.000Z",
+          "wordCount": null,
+          "title": "LockBit Ransomware's Darknet Domains Seized in Global Law Enforcement Raid",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6klr-E1BHf1efahmdPx1lKROBf03Of91kldyzNfCkvEO-BRefPa7j-uNSFT57xDVCa7Ba_0-3cMLqjO6hFvhPYnh1nqVh4g9J4prSvmqAMaea6c7qfzI72lBw5XH4lt3mcMCo4SQrYxyTuTYy7pVTBaWgGwFyDgZfulokJgNi1DkK3TGohWOpB7m6Vrpe/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6klr-E1BHf1efahmdPx1lKROBf03Of91kldyzNfCkvEO-BRefPa7j-uNSFT57xDVCa7Ba_0-3cMLqjO6hFvhPYnh1nqVh4g9J4prSvmqAMaea6c7qfzI72lBw5XH4lt3mcMCo4SQrYxyTuTYy7pVTBaWgGwFyDgZfulokJgNi1DkK3TGohWOpB7m6Vrpe/s1600/ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Meta Platforms said it took a series of steps to curtail malicious activity from eight different firms based in Italy, Spain, and the United Arab Emirates (U.A.E.) operating in the surveillance-for-hire industry.\nThe findings are part of its Adversarial Threat Report for the fourth quarter of 2023. The spyware targeted iOS, Android, and Windows devices.\n\"Their various malware included",
