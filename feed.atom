@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T18:43:40.120Z</updated>
+    <updated>2024-02-20T19:08:02.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2656,18 +2656,6 @@ The ZIP file contains]]></summary>
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC Bans InMarket for Selling Precise User Location Without Consent]]></title>
-        <id>https://thehackernews.com/2024/01/ftc-bans-inmarket-for-selling-precise.html</id>
-        <link href="https://thehackernews.com/2024/01/ftc-bans-inmarket-for-selling-precise.html"/>
-        <updated>2024-01-22T07:02:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Federal Trade Commission (FTC) is continuing to clamp down on data brokers by prohibiting InMarket Media from selling or licensing precise location data.
-The settlement is part of allegations that the Texas-based company did not inform or seek consent from consumers before using their location information for advertising and marketing purposes.
-"InMarket will also be prohibited from]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
