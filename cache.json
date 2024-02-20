@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtuIFG6TWKAUIUVCALzj8140e5dWMPoFtYloUGAr-SKKwfl0Cyp_iSjyuxbGqjN7n8h4Av8py68NEqjMPLTh9ppQrUwcYgAS0pcbnfJn7CCzqrgUJHjjnPdQTJCOz6lYYojfY_0gv1I6onPw5f0cYUw5p5D_2RZ-oILZNQ1y9LEqp56dnSuRVzS5IPTuc/s1600/IMG-20240122-WA0001.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMtuIFG6TWKAUIUVCALzj8140e5dWMPoFtYloUGAr-SKKwfl0Cyp_iSjyuxbGqjN7n8h4Av8py68NEqjMPLTh9ppQrUwcYgAS0pcbnfJn7CCzqrgUJHjjnPdQTJCOz6lYYojfY_0gv1I6onPw5f0cYUw5p5D_2RZ-oILZNQ1y9LEqp56dnSuRVzS5IPTuc/s1600/IMG-20240122-WA0001.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are warning of a \"notable increase\" in threat actor activity actively exploiting a now-patched flaw in Apache ActiveMQ to deliver the Godzilla web shell on compromised hosts.\n\n\"The web shells are concealed within an unknown binary format and are designed to evade security and signature-based scanners,\" Trustwave said. \"Notably, despite the binary's unknown file",
-          "link": "https://thehackernews.com/2024/01/apache-activemq-flaw-exploited-in-new.html",
-          "publishedOn": "2024-01-22T03:40:00.000Z",
-          "wordCount": null,
-          "title": "Apache ActiveMQ Flaw Exploited in New Godzilla Web Shell Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-_h0-lBAtctWY3cUcnEfl1kUAOqyVdEjYyQB_mGFwLnr8L23UtGrafSYPm1IUyat1A0nuNHviEVA1H4lepPHUEj6aOPmUu3foyGc-PBhp1lF9tO0g7qM9n6xTwZieSFA5lQyNrVXMI0NKt5ERq0efBvy8Eq28v4hvwEP0azfUHey-Kckxt-uCixmssVD/s1600/cyber-attack-bank-malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq-_h0-lBAtctWY3cUcnEfl1kUAOqyVdEjYyQB_mGFwLnr8L23UtGrafSYPm1IUyat1A0nuNHviEVA1H4lepPHUEj6aOPmUu3foyGc-PBhp1lF9tO0g7qM9n6xTwZieSFA5lQyNrVXMI0NKt5ERq0efBvy8Eq28v4hvwEP0azfUHey-Kckxt-uCixmssVD/s1600/cyber-attack-bank-malware.png"
         }
       ]
     },
