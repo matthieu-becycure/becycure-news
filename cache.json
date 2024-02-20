@@ -6,6 +6,70 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/saas-compliance-through-nist.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The US National Institute of Standards and Technology (NIST) cybersecurity framework is one of the world's most important guidelines for securing networks. It can be applied to any number of applications, including SaaS. \nOne of the challenges facing those tasked with securing SaaS applications is the different settings found in each application. It makes it difficult to develop a",
+          "link": "https://thehackernews.com/2024/02/saas-compliance-through-nist.html",
+          "publishedOn": "2024-02-20T10:53:00.000Z",
+          "wordCount": null,
+          "title": "SaaS Compliance through the NIST Cybersecurity Framework",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rIwl-lQkPV8X_cOhyohAfEdpQaZ_uy-Qmq9MFpMM4SdHtm3m7sza3ZUYkQtbV-SK6LHHG2s_-4sT5NjDUhQMJMzsRM1Qeya12ztXUpuXE-w6NTG-vWU1qTfkhYkvb84jm8Gw_jU35JWEQJR5JGfcsN7rjGXdTY5D13O6fT-_CObdurC-YboK7y1tX4o/s1600/as.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0rIwl-lQkPV8X_cOhyohAfEdpQaZ_uy-Qmq9MFpMM4SdHtm3m7sza3ZUYkQtbV-SK6LHHG2s_-4sT5NjDUhQMJMzsRM1Qeya12ztXUpuXE-w6NTG-vWU1qTfkhYkvb84jm8Gw_jU35JWEQJR5JGfcsN7rjGXdTY5D13O6fT-_CObdurC-YboK7y1tX4o/s1600/as.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/learn-how-to-build-incident-response.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the tumultuous landscape of cybersecurity, the year 2023 left an indelible mark with the brazen exploits of the Scattered Spider threat group. Their attacks targeted the nerve centers of major financial and insurance institutions, culminating in what stands as one of the most impactful ransomware assaults in recent memory. \nWhen organizations have no response plan in place for such an",
+          "link": "https://thehackernews.com/2024/02/learn-how-to-build-incident-response.html",
+          "publishedOn": "2024-02-20T10:53:00.000Z",
+          "wordCount": null,
+          "title": "Learn How to Build an Incident Response Playbook Against Scattered Spider in Real-Time",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjJ43v0d1Jh8YZpkVuvVG7m1YhA6V-o-Lu5gTkais8HwdZi2M3-jv3abl-5cWw__jGLaHkVCljHzYl3O3Xy825dnLDvQBVNdgDmSznlZ0HmMPrsnIa3cQKtbz54Snz_taPYd8o7KbKwNmRF2RKTfPhxwWnfYgqTGvPuXVGBDFEf5OYlfDD2HxAS9yhxA86/s1600/sf.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjJ43v0d1Jh8YZpkVuvVG7m1YhA6V-o-Lu5gTkais8HwdZi2M3-jv3abl-5cWw__jGLaHkVCljHzYl3O3Xy825dnLDvQBVNdgDmSznlZ0HmMPrsnIa3cQKtbz54Snz_taPYd8o7KbKwNmRF2RKTfPhxwWnfYgqTGvPuXVGBDFEf5OYlfDD2HxAS9yhxA86/s1600/sf.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/new-report-reveals-north-korean-hackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean state-sponsored threat actors have been attributed to a cyber espionage campaign targeting the defense sector across the world.\nIn a joint advisory published by Germany's Federal Office for the Protection of the Constitution (BfV) and South Korea's National Intelligence Service (NIS), the agencies said the goal of the attacks is to plunder advanced defense technologies in a \"",
+          "link": "https://thehackernews.com/2024/02/new-report-reveals-north-korean-hackers.html",
+          "publishedOn": "2024-02-20T10:53:00.000Z",
+          "wordCount": null,
+          "title": "New Report Reveals North Korean Hackers Targeting Defense Firms Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-B3mSVIy02RIeb-LxFEKQKHNw8yQMZXBY68OAcvfSPsikrcXs8Jt3BkF7G3ID4WRBouWQNGWxcCFAVG_KOQkslS2y-3ZqfZwcNobfxuhSlA6xoSKE8snNa9gS3xOBSie_ezRBL-3ISuXsmKHKQ9nxxLGmi2lNZxWTo9Ys1Z3jLIApEcsbR6zbeLcLHnt/s1600/hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid-B3mSVIy02RIeb-LxFEKQKHNw8yQMZXBY68OAcvfSPsikrcXs8Jt3BkF7G3ID4WRBouWQNGWxcCFAVG_KOQkslS2y-3ZqfZwcNobfxuhSlA6xoSKE8snNa9gS3xOBSie_ezRBL-3ISuXsmKHKQ9nxxLGmi2lNZxWTo9Ys1Z3jLIApEcsbR6zbeLcLHnt/s1600/hacking.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "ConnectWise has released software updates to address two security flaws in its ScreenConnect remote desktop and access software, including a critical bug that could enable remote code execution on affected systems.\nThe vulnerabilities, which currently lack CVE identifiers, are listed below -\n\nAuthentication bypass using an alternate path or channel (CVSS score: 10.0)\nImproper limitation of",
+          "link": "https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html",
+          "publishedOn": "2024-02-20T10:38:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaws Found in ConnectWise ScreenConnect Software  - Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAHoVCD0ihMh94MrsGuyL-XbWu4lCRKnHpcRw4zygLPby6ePEnEnc32njBgV19uqABMsLs7_pKT3iMq5EV-Cc6Buq_pL6ScQVcZIC-KA0SVH6ImPJic1IuvrMLo3uvIE68yvfQ-MN57d0rGcwUgqaCS0DkeIp5pEntB-8WHR-Pu4CWEZ1R8JpN_Ssxi1mT/s1600/connect.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAHoVCD0ihMh94MrsGuyL-XbWu4lCRKnHpcRw4zygLPby6ePEnEnc32njBgV19uqABMsLs7_pKT3iMq5EV-Cc6Buq_pL6ScQVcZIC-KA0SVH6ImPJic1IuvrMLo3uvIE68yvfQ-MN57d0rGcwUgqaCS0DkeIp5pEntB-8WHR-Pu4CWEZ1R8JpN_Ssxi1mT/s1600/connect.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/wordpress-bricks-theme-under-active.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A critical security flaw in the Bricks theme for WordPress is being actively exploited by threat actors to run arbitrary PHP code on susceptible installations.\nThe flaw, tracked as CVE-2024-25600 (CVSS score: 9.8), enables unauthenticated attackers to achieve remote code execution. It impacts all versions of the Bricks up to and including 1.9.6.\nIt has been addressed by the theme developers in&",
