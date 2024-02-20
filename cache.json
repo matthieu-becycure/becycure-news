@@ -3337,16 +3337,6 @@
           "wordCount": 976,
           "title": "CERTFR-2024-AVI-0058 : Vulnérabilité dans Postfix (22 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-005/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-005/",
-          "publishedOn": "2024-01-22T10:31:44.000Z",
-          "wordCount": 1868,
-          "title": "CERTFR-2024-ACT-005 : Bulletin d’actualité CERTFR-2024-ACT-005 (22 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
