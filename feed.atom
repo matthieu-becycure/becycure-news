@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T13:43:52.422Z</updated>
+    <updated>2024-02-20T14:09:30.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware Operation Shut Down; Criminals Arrested; Decryption Keys Released]]></title>
+        <id>https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html</id>
+        <link href="https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html"/>
+        <updated>2024-02-20T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.K. National Crime Agency (NCA) on Tuesday confirmed that it obtained LockBit's source code as well as intelligence pertaining to its activities and their affiliates as part of a dedicated task force called Operation Cronos.
+"Some of the data on LockBit's systems belonged to victims who had paid a ransom to the threat actors, evidencing that even when a ransom is paid, it does not]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SaaS Compliance through the NIST Cybersecurity Framework]]></title>
         <id>https://thehackernews.com/2024/02/saas-compliance-through-nist.html</id>
