@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Hackers backed by Iran and Hezbollah staged cyber attacks designed to undercut public support for the Israel-Hamas war after October 2023.\nThis includes destructive attacks against key Israeli organizations, hack-and-leak operations targeting entities in Israel and the U.S., phishing campaigns designed to steal intelligence, and information operations to turn public opinion against Israel.\nIran",
+          "link": "https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html",
+          "publishedOn": "2024-02-20T06:01:00.000Z",
+          "wordCount": null,
+          "title": "Iran and Hezbollah Hackers Launch Attacks to Influence Israel-Hamas Narrative",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9cyUDpU3twM_ET51t5e6ZKDLskh1x1KjkllD_NO9BdtlEcsmqUNH7U8EbyIesBNV75DRKqZS6f07b1-92clg1QEFG8D0PhGsW1eNE1l8Or_OOqALz0plyozjyCKijBgaVBNpeAXn557uFzLAkGrPyE29AUxeQXfbJuSfIhastZ_3cBlnskCAV37993Da/s1600/cyberwar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe9cyUDpU3twM_ET51t5e6ZKDLskh1x1KjkllD_NO9BdtlEcsmqUNH7U8EbyIesBNV75DRKqZS6f07b1-92clg1QEFG8D0PhGsW1eNE1l8Or_OOqALz0plyozjyCKijBgaVBNpeAXn557uFzLAkGrPyE29AUxeQXfbJuSfIhastZ_3cBlnskCAV37993Da/s1600/cyberwar.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An international law enforcement operation has led to the seizure of multiple darknet domains operated by LockBit, one of the most prolific ransomware groups, marking the latest in a long list of digital takedowns.\nWhile the full extent of the effort, codenamed Operation Cronos, is presently unknown, visiting the group's .onion website displays a seizure banner containing the message \"",
