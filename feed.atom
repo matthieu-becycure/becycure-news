@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T14:43:41.313Z</updated>
+    <updated>2024-02-20T15:09:45.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -13,6 +13,17 @@
         <updated>2024-02-20T12:55:00.000Z</updated>
         <summary type="html"><![CDATA[The U.K. National Crime Agency (NCA) on Tuesday confirmed that it obtained LockBit's source code as well as intelligence pertaining to its activities and their affiliates as part of a dedicated task force called Operation Cronos.
 "Some of the data on LockBit's systems belonged to victims who had paid a ransom to the threat actors, evidencing that even when a ransom is paid, it does not]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics]]></title>
+        <id>https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html</id>
+        <link href="https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html"/>
+        <updated>2024-02-20T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered two malicious packages on the Python Package Index (PyPI) repository that were found leveraging a technique called DLL side-loading to circumvent detection by security software and run malicious code.
+The packages, named NP6HelperHttptest and NP6HelperHttper, were each downloaded 537 and 166 times, respectively,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
