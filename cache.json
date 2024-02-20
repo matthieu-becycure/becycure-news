@@ -2349,6 +2349,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de requêtes illégitimes par rebond (CSRF) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/",
+          "publishedOn": "2024-02-20T09:38:52.000Z",
+          "wordCount": 1082,
+          "title": "CERTFR-2024-AVI-0149 : Multiples vulnérabilités dans Moodle (20 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/",
+          "publishedOn": "2024-02-20T07:42:08.000Z",
+          "wordCount": 942,
+          "title": "CERTFR-2024-AVI-0148 : Vulnérabilité dans Kaspersky Anti Targeted Attack (20 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
