@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T15:43:36.810Z</updated>
+    <updated>2024-02-20T16:12:52.058Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Migo Malware Targeting Redis Servers for Cryptocurrency Mining]]></title>
+        <id>https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html</id>
+        <link href="https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html"/>
+        <updated>2024-02-20T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel malware campaign has been observed targeting Redis servers for initial access with the ultimate goal of mining cryptocurrency on compromised Linux hosts.
+"This particular campaign involves the use of a number of novel system weakening techniques against the data store itself," Cado security researcher Matt Muir said in a technical report.
+The cryptojacking attack is facilitated]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LockBit Ransomware Operation Shut Down; Criminals Arrested; Decryption Keys Released]]></title>
         <id>https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html</id>

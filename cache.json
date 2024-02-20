@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel malware campaign has been observed targeting Redis servers for initial access with the ultimate goal of mining cryptocurrency on compromised Linux hosts.\n\"This particular campaign involves the use of a number of novel system weakening techniques against the data store itself,\" Cado security researcher Matt Muir said in a technical report.\nThe cryptojacking attack is facilitated",
+          "link": "https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html",
+          "publishedOn": "2024-02-20T15:20:00.000Z",
+          "wordCount": null,
+          "title": "New Migo Malware Targeting Redis Servers for Cryptocurrency Mining",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvolzW7RV9S-z2PY-80wscuKHa41HxsN4qNDvAKvjGJ1nFC5iOKyrZexzWxFTEAnSRV6oJEpUTptcjfGWtWRIGDZIg-rTZTdBFc_Igrcln0KSmKPvsOlJ_dPDTQ6UYB0mmyan5NGN4VN-kF0jp0pE7or9EXG9OcM5fO14spHtyVWu_eSlcadtPc915_tAx/s1600/redis.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvolzW7RV9S-z2PY-80wscuKHa41HxsN4qNDvAKvjGJ1nFC5iOKyrZexzWxFTEAnSRV6oJEpUTptcjfGWtWRIGDZIg-rTZTdBFc_Igrcln0KSmKPvsOlJ_dPDTQ6UYB0mmyan5NGN4VN-kF0jp0pE7or9EXG9OcM5fO14spHtyVWu_eSlcadtPc915_tAx/s1600/redis.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/lockbit-ransomware-operation-shut-down.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.K. National Crime Agency (NCA) on Tuesday confirmed that it obtained LockBit's source code as well as intelligence pertaining to its activities and their affiliates as part of a dedicated task force called Operation Cronos.\n\"Some of the data on LockBit's systems belonged to victims who had paid a ransom to the threat actors, evidencing that even when a ransom is paid, it does not",
