@@ -3285,16 +3285,6 @@
           "wordCount": 928,
           "title": "CERTFR-2024-AVI-0060 : Vulnérabilité dans Xen (23 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/",
-          "publishedOn": "2024-01-22T12:50:10.000Z",
-          "wordCount": 963,
-          "title": "CERTFR-2024-AVI-0059 : Vulnérabilité dans Spring Framework (22 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
