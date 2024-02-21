@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked threat actor known as Mustang Panda has targeted various Asian countries using a variant of the PlugX (aka Korplug) backdoor dubbed DOPLUGS.\n\"The piece of customized PlugX malware is dissimilar to the general type of the PlugX malware that contains a completed backdoor command module, and that the former is only used for downloading the latter,\" Trend Micro researchers Sunny Lu",
+          "link": "https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html",
+          "publishedOn": "2024-02-21T13:03:00.000Z",
+          "wordCount": null,
+          "title": "Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdwRoEj5MBI3Hv5VHDRdVqzIQdeVz1l3eDAvckNEY7VKhoNL0GgfCtaFBJQOqE0vXHzeD4bo_-rv990jTtU72nqi5MvLVPvOMLCPBbG0h1MQAnITHfBzAw5QV818CwfGBqGny9D_XcQaGWwYE7qsb984bl5MWqIBQ5RL74TwYhfVDaM_1mchJrIyoh8E2/s1600/attack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpdwRoEj5MBI3Hv5VHDRdVqzIQdeVz1l3eDAvckNEY7VKhoNL0GgfCtaFBJQOqE0vXHzeD4bo_-rv990jTtU72nqi5MvLVPvOMLCPBbG0h1MQAnITHfBzAw5QV818CwfGBqGny9D_XcQaGWwYE7qsb984bl5MWqIBQ5RL74TwYhfVDaM_1mchJrIyoh8E2/s1600/attack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "With SaaS applications now making up the vast majority of technology used by employees in most organizations, tasks related to identity governance need to happen across a myriad of individual SaaS apps. This presents a huge challenge for centralized IT teams who are ultimately held responsible for managing and securing app access, but can’t possibly become experts in the nuances of the native",
