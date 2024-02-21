@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "On Thanksgiving Day 2023, while many Americans were celebrating, hospitals across the U.S. were doing quite the opposite. Systems were failing. Ambulances were diverted. Care was impaired. Hospitals in three states were hit by a ransomware attack, and in that moment, the real-world repercussions came to light—it wasn’t just computer networks that were brought to a halt, but actual patient",
+          "link": "https://thehackernews.com/2024/02/cybersecurity-for-healthcarediagnosing.html",
+          "publishedOn": "2024-02-21T09:20:00.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity for Healthcare—Diagnosing the Threat Landscape and Prescribing Solutions for Recovery",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBlEFPEVNM4jnXssAF3BxzBlQMYFa2EslLaGrXUEBK12LE7HKfYB0xmkkSXICa0bCg9L4szoY_3aoTV7pOF4XpDng8AiHZaTx0RH3HmKKG_xfT6wqvQ7zOS_SXje985ewnxMb_nL1mkzPaktFv1fkyb85xe6a0tqJKodQZG0s7v1pS6W8cxgWpiRiZthU/s1600/header.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBlEFPEVNM4jnXssAF3BxzBlQMYFa2EslLaGrXUEBK12LE7HKfYB0xmkkSXICa0bCg9L4szoY_3aoTV7pOF4XpDng8AiHZaTx0RH3HmKKG_xfT6wqvQ7zOS_SXje985ewnxMb_nL1mkzPaktFv1fkyb85xe6a0tqJKodQZG0s7v1pS6W8cxgWpiRiZthU/s1600/header.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Facebook advertisers in Vietnam are the target of a previously unknown information stealer dubbed VietCredCare at least since August 2022.\nThe malware is “notable for its ability to automatically filter out Facebook session cookies and credentials stolen from compromised devices, and assess whether these accounts manage business profiles and if they maintain a positive Meta ad credit",
