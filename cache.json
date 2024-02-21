@@ -3375,16 +3375,6 @@
           "wordCount": 1073,
           "title": "CERTFR-2024-AVI-0063 : Multiples vulnérabilités dans les produits Mozilla (24 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et une exécution de code arbitraire à distance.\n …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0062/",
-          "publishedOn": "2024-01-23T08:17:57.000Z",
-          "wordCount": 1284,
-          "title": "CERTFR-2024-AVI-0062 : Multiples vulnérabilités dans les produits Apple (23 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
