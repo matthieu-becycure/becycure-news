@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_-khbTskZznFlrUbKt-GdR2eE8rABDnahJ6kGJcACFE_sIpXWDUn1FJNP1PqXeflvwoAK-L_2lPcTWg7ZfOmUiEwGuxgknLFllBv-aJPP7OWxTqWUsFD4sEZIiPnWcY-V6CsjGC9m1xApXaIJxu_rIZ6TS5TdzABfG62zuk7bKrg_w-5eKmFeKnLnLhHN/s1600/nk.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_-khbTskZznFlrUbKt-GdR2eE8rABDnahJ6kGJcACFE_sIpXWDUn1FJNP1PqXeflvwoAK-L_2lPcTWg7ZfOmUiEwGuxgknLFllBv-aJPP7OWxTqWUsFD4sEZIiPnWcY-V6CsjGC9m1xApXaIJxu_rIZ6TS5TdzABfG62zuk7bKrg_w-5eKmFeKnLnLhHN/s1600/nk.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Several public and popular libraries abandoned but still used in Java and Android applications have been found susceptible to a new software supply chain attack method called MavenGate.\n\"Access to projects can be hijacked through domain name purchases and since most default build configurations are vulnerable, it would be difficult or even impossible to know whether an attack was being performed",
-          "link": "https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html",
-          "publishedOn": "2024-01-22T16:35:00.000Z",
-          "wordCount": null,
-          "title": "MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOt5PQiOdtvv_t7SI-qFb3OUQtpoi7Ze6Jz14i_g5foQEtOEOilYCYf8rj-LYacAuQlcpxqkrMSEEVVzOxiTlk8jsTirVvESPMwbVr0hZnau_Ojcp5NFRAGjMoPsSsfKOpoDA2TjRhDFaV7oIXjYGMbiKIChFtsGKc65_U2E3LsnfzpsGc_yi7Dx0pcLz/s1600/app-code.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghOt5PQiOdtvv_t7SI-qFb3OUQtpoi7Ze6Jz14i_g5foQEtOEOilYCYf8rj-LYacAuQlcpxqkrMSEEVVzOxiTlk8jsTirVvESPMwbVr0hZnau_Ojcp5NFRAGjMoPsSsfKOpoDA2TjRhDFaV7oIXjYGMbiKIChFtsGKc65_U2E3LsnfzpsGc_yi7Dx0pcLz/s1600/app-code.jpg"
         }
       ]
     },

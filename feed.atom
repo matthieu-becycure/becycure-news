@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-21T04:27:55.954Z</updated>
+    <updated>2024-02-21T04:43:29.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2586,17 +2586,6 @@ The issue, tracked as CVE-2024-23222, is a type confusion bug that could be expl
         <updated>2024-01-22T16:47:00.000Z</updated>
         <summary type="html"><![CDATA[Media organizations and high-profile experts in North Korean affairs have been at the receiving end of a new campaign orchestrated by a threat actor known as ScarCruft in December 2023.
 "ScarCruft has been experimenting with new infection chains, including the use of a technical threat research report as a decoy, likely targeting consumers of threat intelligence like cybersecurity]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MavenGate Attack Could Let Hackers Hijack Java and Android via Abandoned Libraries]]></title>
-        <id>https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html</id>
-        <link href="https://thehackernews.com/2024/01/hackers-hijack-popular-java-and-android.html"/>
-        <updated>2024-01-22T16:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Several public and popular libraries abandoned but still used in Java and Android applications have been found susceptible to a new software supply chain attack method called MavenGate.
-"Access to projects can be hijacked through domain name purchases and since most default build configurations are vulnerable, it would be difficult or even impossible to know whether an attack was being performed]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
