@@ -3385,26 +3385,6 @@
           "wordCount": 1284,
           "title": "CERTFR-2024-AVI-0062 : Multiples vulnérabilités dans les produits Apple (23 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à l'intégrité …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0061/",
-          "publishedOn": "2024-01-23T08:07:25.000Z",
-          "wordCount": 1109,
-          "title": "CERTFR-2024-AVI-0061 : Multiples vulnérabilités dans les produits Splunk (23 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0060/",
-          "publishedOn": "2024-01-23T08:06:06.000Z",
-          "wordCount": 928,
-          "title": "CERTFR-2024-AVI-0060 : Vulnérabilité dans Xen (23 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
