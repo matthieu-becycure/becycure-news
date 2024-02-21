@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-21T07:43:42.539Z</updated>
+    <updated>2024-02-21T08:13:44.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New 'VietCredCare' Stealer Targeting Facebook Advertisers in Vietnam]]></title>
+        <id>https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html</id>
+        <link href="https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html"/>
+        <updated>2024-02-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebook advertisers in Vietnam are the target of a previously unknown information stealer dubbed VietCredCare at least since August 2022.
+The malware is “notable for its ability to automatically filter out Facebook session cookies and credentials stolen from compromised devices, and assess whether these accounts manage business profiles and if they maintain a positive Meta ad credit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Signal Introduces Usernames, Allowing Users to Keep Their Phone Numbers Private]]></title>
+        <id>https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html</id>
+        <link href="https://thehackernews.com/2024/02/signal-introduces-usernames-allowing.html"/>
+        <updated>2024-02-21T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[End-to-end encrypted (E2EE) messaging app Signal said it’s piloting a new feature that allows users to create unique usernames (not to be confused with profile names) and keep the phone numbers away from prying eyes.
+“If you use Signal, your phone number will no longer be visible to everyone you chat with by default,” Signal’s Randall Sarafa said. “People who have your number saved in their]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hackers Target Ukraine with Disinformation and Credential-Harvesting Attacks]]></title>
         <id>https://thehackernews.com/2024/02/russian-hackers-target-ukraine-with.html</id>
