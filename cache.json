@@ -2372,22 +2372,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple on Monday released security updates for iOS, iPadOS, macOS, tvOS, and Safari web browser to address a zero-day flaw that has come under active exploitation in the wild.\nThe issue, tracked as CVE-2024-23222, is a type confusion bug that could be exploited by a threat actor to achieve arbitrary code execution when processing maliciously crafted web content. The tech giant said the problem",
-          "link": "https://thehackernews.com/2024/01/apple-issues-patch-for-critical-zero.html",
-          "publishedOn": "2024-01-23T01:30:00.000Z",
-          "wordCount": null,
-          "title": "Apple Issues Patch for Critical Zero-Day in iPhones, Macs - Update Now",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii8xICfswm3_OdnrjfO9OLcUNwfw6JX2kwGHZ-R_dfwhvK8pTvtfARuSyuw2qk1-Ptj11HX2sMWEfFXnHBU6B9FMDhF8ZXuezX5SLvxeCNir2UsLQ7nufTjf31miSkibUGmmwLCQCE_f-m00Hbw3ef7mtkcts3LLPnpV9v_12Cf9Da-UjJ66CaJYuM922G/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii8xICfswm3_OdnrjfO9OLcUNwfw6JX2kwGHZ-R_dfwhvK8pTvtfARuSyuw2qk1-Ptj11HX2sMWEfFXnHBU6B9FMDhF8ZXuezX5SLvxeCNir2UsLQ7nufTjf31miSkibUGmmwLCQCE_f-m00Hbw3ef7mtkcts3LLPnpV9v_12Cf9Da-UjJ66CaJYuM922G/s1600/apple.jpg"
         }
       ]
     },
@@ -2396,6 +2380,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0153/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une élévation de privilèges et une injection de requêtes illégitimes par rebond (CSRF).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0153/",
+          "publishedOn": "2024-02-21T08:08:53.000Z",
+          "wordCount": 1027,
+          "title": "CERTFR-2024-AVI-0153 : Multiples vulnérabilités dans les produits VMware (21 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0152/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0152/",
+          "publishedOn": "2024-02-21T08:03:25.000Z",
+          "wordCount": 974,
+          "title": "CERTFR-2024-AVI-0152 : Multiples vulnérabilités dans Google Chrome (21 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0151/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0151/",
+          "publishedOn": "2024-02-21T08:01:02.000Z",
+          "wordCount": 1070,
+          "title": "CERTFR-2024-AVI-0151 : Multiples vulnérabilités dans Joomla! (21 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0150/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un contournement de la …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0150/",
+          "publishedOn": "2024-02-21T07:46:11.000Z",
+          "wordCount": 1065,
+          "title": "CERTFR-2024-AVI-0150 : Multiples vulnérabilités dans les produits Mozilla (21 février 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0149/",
           "author": null,
