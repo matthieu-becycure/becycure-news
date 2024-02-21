@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-20T23:43:40.619Z</updated>
+    <updated>2024-02-21T00:45:54.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2607,16 +2607,6 @@ The issue, tracked as CVE-2024-23222, is a type confusion bug that could be expl
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0059/"/>
         <updated>2024-01-22T12:50:10.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0058 : Vulnérabilité dans Postfix (22 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/"/>
-        <updated>2024-01-22T12:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

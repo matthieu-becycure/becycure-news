@@ -3295,16 +3295,6 @@
           "wordCount": 963,
           "title": "CERTFR-2024-AVI-0059 : Vulnérabilité dans Spring Framework (22 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Postfix. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0058/",
-          "publishedOn": "2024-01-22T12:37:15.000Z",
-          "wordCount": 976,
-          "title": "CERTFR-2024-AVI-0058 : Vulnérabilité dans Postfix (22 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
