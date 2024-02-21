@@ -2372,22 +2372,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnXMTiFlPVdGvRPTRsbAXxoK0QOp8AWfrB1-LzEY60-yXLz3UhJcCm5XlXKAnnCZ2TrToXzYsq-w__3lRNfjXB0znUSL6pXtBzzFFaKto9O_wzGQMCwGEnWADONGQUk2XhrWU7zwbahd5xABbuj2fNPF9Lg1lFPrAjMflB1u13JfVFPgcywgssRk23RfLO/s1600/cybercrime.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnXMTiFlPVdGvRPTRsbAXxoK0QOp8AWfrB1-LzEY60-yXLz3UhJcCm5XlXKAnnCZ2TrToXzYsq-w__3lRNfjXB0znUSL6pXtBzzFFaKto9O_wzGQMCwGEnWADONGQUk2XhrWU7zwbahd5xABbuj2fNPF9Lg1lFPrAjMflB1u13JfVFPgcywgssRk23RfLO/s1600/cybercrime.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Malicious actors have begun to actively exploit a recently disclosed critical security flaw impacting Atlassian Confluence Data Center and Confluence Server, within three days of public disclosure.\nTracked as CVE-2023-22527 (CVSS score: 10.0), the vulnerability impacts out-of-date versions of the software, allowing unauthenticated attackers to achieve remote code execution on susceptible",
-          "link": "https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html",
-          "publishedOn": "2024-01-23T09:34:00.000Z",
-          "wordCount": null,
-          "title": "~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMz0fi3Z_DuQVGHuD0qMhwE-uAng8Ux_753zo3cD7r5n97JdWJkLqCz1AvpRUI1KpgQpwP51nep2JjaF89VdV5oIt5ATBQrgl4WLd67Fbs7MXLUijkcYHna5ZZ71rRm-CdzEUA31A0QAivMxEzRhwZi0UK3nMDSbgXIgMcTh8BMzk_srUuWvtO14ZOTm5v/s1600/jira.jpg"
         }
       ]
     },

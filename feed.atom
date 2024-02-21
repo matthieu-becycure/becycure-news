@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-21T21:23:41.762Z</updated>
+    <updated>2024-02-21T21:43:36.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2649,17 +2649,6 @@ Kaspersky, which identified the artifacts in the wild, said they are designed 
         <updated>2024-01-23T10:25:00.000Z</updated>
         <summary type="html"><![CDATA[Conor Brian Fitzpatrick has been sentenced to time served and 20 years of supervised release for his role as the creator and administrator of BreachForums.
 Fitzpatrick, who went by the online alias "pompompurin," was arrested in March 2023 in New York and was subsequently charged with conspiracy to commit access device fraud and possession of child pornography. He was later released on a $]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation]]></title>
-        <id>https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html</id>
-        <link href="https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html"/>
-        <updated>2024-01-23T09:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors have begun to actively exploit a recently disclosed critical security flaw impacting Atlassian Confluence Data Center and Confluence Server, within three days of public disclosure.
-Tracked as CVE-2023-22527 (CVSS score: 10.0), the vulnerability impacts out-of-date versions of the software, allowing unauthenticated attackers to achieve remote code execution on susceptible]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
