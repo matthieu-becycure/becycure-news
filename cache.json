@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.\nThe vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a",
+          "link": "https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html",
+          "publishedOn": "2024-02-21T16:16:00.000Z",
+          "wordCount": null,
+          "title": "New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s1600/wifi-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s1600/wifi-hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-linked threat actor known as Mustang Panda has targeted various Asian countries using a variant of the PlugX (aka Korplug) backdoor dubbed DOPLUGS.\n\"The piece of customized PlugX malware is dissimilar to the general type of the PlugX malware that contains a completed backdoor command module, and that the former is only used for downloading the latter,\" Trend Micro researchers Sunny Lu",

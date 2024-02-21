@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-21T17:09:00.432Z</updated>
+    <updated>2024-02-21T17:29:32.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers]]></title>
+        <id>https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html</id>
+        <link href="https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html"/>
+        <updated>2024-02-21T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.
+The vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS]]></title>
         <id>https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html</id>
