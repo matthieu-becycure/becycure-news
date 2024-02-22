@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-22T20:43:35.936Z</updated>
+    <updated>2024-02-22T21:08:44.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2670,28 +2670,6 @@ The tactic allows "threat actors to terminate antivirus processes and services f
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Unknown Risks of The Software Supply Chain: A Deep-Dive]]></title>
-        <id>https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html</id>
-        <link href="https://thehackernews.com/2024/01/the-unknown-risks-of-software-supply.html"/>
-        <updated>2024-01-24T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[In a world where more & more organizations are adopting open-source components as foundational blocks in their application's infrastructure, it's difficult to consider traditional SCAs as complete protection mechanisms against open-source threats. 
-Using open-source libraries saves tons of coding and debugging time, and by that - shortens the time to deliver our applications. But, as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S., U.K., Australia Sanction Russian REvil Hacker Behind Medibank Breach]]></title>
-        <id>https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html</id>
-        <link href="https://thehackernews.com/2024/01/us-uk-australia-sanction-russian-revil.html"/>
-        <updated>2024-01-24T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Governments from Australia, the U.K., and the U.S. have imposed financial sanctions on a Russian national for his alleged role in the 2022 ransomware attack against health insurance provider Medibank.
-Alexander Ermakov (aka blade_runner, GistaveDore, GustaveDore, or JimJones), 33, has been tied to the breach of the Medibank network as well as the theft and release of Personally Identifiable]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
