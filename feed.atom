@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-22T23:12:03.040Z</updated>
+    <updated>2024-02-22T23:28:31.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2606,28 +2606,6 @@ Arctic Wolf Labs, which discovered the new attack tool in two recent intrusions,
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a loophole impacting Google Kubernetes Engine (GKE) that could be potentially exploited by threat actors with a Google account to take control of a Kubernetes cluster.
 The critical shortcoming has been codenamed Sys:All by cloud security firm Orca. As many as 250,000 active GKE clusters in the wild are estimated to be susceptible to the attack vector.
 In]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Nudge Security and How Does it Work?]]></title>
-        <id>https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html</id>
-        <link href="https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html"/>
-        <updated>2024-01-24T11:24:00.000Z</updated>
-        <summary type="html"><![CDATA[In today’s highly distributed workplace, every employee has the ability to act as their own CIO, adopting new cloud and SaaS technologies whenever and wherever they need. While this has been a critical boon to productivity and innovation in the digital enterprise, it has upended traditional approaches to IT security and governance.
-Nudge Security is the world’s first and only solution to address]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kasseika Ransomware Using BYOVD Trick to Disarms Security Pre-Encryption]]></title>
-        <id>https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html</id>
-        <link href="https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html"/>
-        <updated>2024-01-24T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The ransomware group known as Kasseika has become the latest to leverage the Bring Your Own Vulnerable Driver (BYOVD) attack to disarm security-related processes on compromised Windows hosts, joining the likes of other groups like Akira, AvosLocker, BlackByte, and RobbinHood.
-The tactic allows "threat actors to terminate antivirus processes and services for the deployment of ransomware," Trend]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
