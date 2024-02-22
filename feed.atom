@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-22T17:25:53.607Z</updated>
+    <updated>2024-02-22T17:43:30.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -15,6 +15,16 @@
 "With compromise-resilient encryption and extensive defenses against even highly sophisticated quantum attacks, PQ3 is the first messaging protocol to reach]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0158 : Vulnérabilité dans Kaspersky Endpoint Security (22 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/"/>
+        <updated>2024-02-22T12:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -50,6 +60,46 @@ The findings come from German cybersecurity company DCSO, which linked the activ
 The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0157 : Vulnérabilité dans PostgreSQL JDBC (22 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/"/>
+        <updated>2024-02-22T09:06:49.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0156 : Multiples vulnérabilités dans les produits Tenable (22 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0156/"/>
+        <updated>2024-02-22T08:23:09.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à …]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0155 : Multiples vulnérabilités dans Gitlab (22 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0155/"/>
+        <updated>2024-02-22T08:11:06.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Gitlab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0154 : Vulnérabilité dans Spring Framework (22 février 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0154/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0154/"/>
+        <updated>2024-02-22T08:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -2640,18 +2690,6 @@ Using open-source libraries saves tons of coding and debugging time, and by that
         <updated>2024-01-24T08:55:00.000Z</updated>
         <summary type="html"><![CDATA[Governments from Australia, the U.K., and the U.S. have imposed financial sanctions on a Russian national for his alleged role in the 2022 ransomware attack against health insurance provider Medibank.
 Alexander Ermakov (aka blade_runner, GistaveDore, GustaveDore, or JimJones), 33, has been tied to the breach of the Medibank network as well as the theft and release of Personally Identifiable]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Your GoAnywhere MFT Immediately - Critical Flaw Lets Anyone Be Admin]]></title>
-        <id>https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html</id>
-        <link href="https://thehackernews.com/2024/01/patch-your-goanywhere-mft-immediately.html"/>
-        <updated>2024-01-24T05:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw has been disclosed in Fortra's GoAnywhere Managed File Transfer (MFT) software that could be abused to create a new administrator user.
-Tracked as CVE-2024-0204, the issue carries a CVSS score of 9.8 out of 10.
-"Authentication bypass in Fortra's GoAnywhere MFT prior to 7.4.1 allows an unauthorized user to create an admin user via the administration portal," Fortra&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
