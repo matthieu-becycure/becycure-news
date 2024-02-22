@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple has announced a new post-quantum cryptographic protocol called PQ3 that it said will be integrated into iMessage to secure the messaging platform against future attacks arising from the threat of a practical quantum computer.\n\"With compromise-resilient encryption and extensive defenses against even highly sophisticated quantum attacks, PQ3 is the first messaging protocol to reach",
+          "link": "https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html",
+          "publishedOn": "2024-02-22T16:25:00.000Z",
+          "wordCount": null,
+          "title": "Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s1600/apple.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A recently open-sourced network mapping tool called SSH-Snake has been repurposed by threat actors to conduct malicious activities.\n\"SSH-Snake is a self-modifying worm that leverages SSH credentials discovered on a compromised system to start spreading itself throughout the network,\" Sysdig researcher Miguel Hernández said.\n\"The worm automatically searches through known credential",

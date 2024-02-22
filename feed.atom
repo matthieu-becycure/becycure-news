@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-22T16:43:29.451Z</updated>
+    <updated>2024-02-22T17:09:05.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Unveils PQ3 Protocol - Post-Quantum Encryption for iMessage]]></title>
+        <id>https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html</id>
+        <link href="https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html"/>
+        <updated>2024-02-22T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has announced a new post-quantum cryptographic protocol called PQ3 that it said will be integrated into iMessage to secure the messaging platform against future attacks arising from the threat of a practical quantum computer.
+"With compromise-resilient encryption and extensive defenses against even highly sophisticated quantum attacks, PQ3 is the first messaging protocol to reach]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks]]></title>
         <id>https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html</id>
