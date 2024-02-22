@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-22T02:15:42.443Z</updated>
+    <updated>2024-02-22T02:28:13.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2606,17 +2606,6 @@ Tracked as CVE-2024-0204, the issue carries a CVSS score of 9.8 out of 10.
         <updated>2024-01-23T14:33:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actors behind ClearFake, SocGholish, and dozens of other actors have established partnerships with another entity known as VexTrio as part of a massive "criminal affiliate program," new findings from Infoblox reveal.
 The latest development demonstrates the "breadth of their activities and depth of their connections within the cybercrime industry," the company said,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub]]></title>
-        <id>https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html</id>
-        <link href="https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html"/>
-        <updated>2024-01-23T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Two malicious packages discovered on the npm package registry have been found to leverage GitHub to store Base64-encrypted SSH keys stolen from developer systems on which they were installed.
-The modules named warbeast2000 and kodiak2k were published at the start of the month, attracting 412 and 1,281 downloads before they were taken down by the npm]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
