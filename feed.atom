@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-23T21:43:43.743Z</updated>
+    <updated>2024-02-23T22:09:06.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2655,18 +2655,6 @@ LODEINFO (versions 0.6.6 and 0.6.7]]></summary>
         <summary type="html"><![CDATA[The 2023/2024 Axur Threat Landscape Report provides a comprehensive analysis of the latest cyber threats. The information combines data from the platform's surveillance of the Surface, Deep, and Dark Web with insights derived from the in-depth research and investigations conducted by the Threat Intelligence team.
 Discover the full scope of digital threats in the Axur Report 2023/2024.
 Overview]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-backed Hackers Hijack Software Updates to Implant "NSPX30" Spyware]]></title>
-        <id>https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html</id>
-        <link href="https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html"/>
-        <updated>2024-01-25T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented China-aligned threat actor has been linked to a set of adversary-in-the-middle (AitM) attacks that hijack update requests from legitimate software to deliver a sophisticated implant named NSPX30.
-Slovak cybersecurity firm ESET is tracking the advanced persistent threat (APT) group under the name Blackwood. It's said to be active since at least 2018.
-The NSPX30]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
