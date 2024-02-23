@@ -3371,16 +3371,6 @@
           "wordCount": 1109,
           "title": "CERTFR-2024-AVI-0068 : Vulnérabilité dans Cisco Unified Communications (25 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0067/",
-          "publishedOn": "2024-01-25T08:12:01.000Z",
-          "wordCount": 1025,
-          "title": "CERTFR-2024-AVI-0067 : Multiples vulnérabilités dans les produits NetApp (25 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
