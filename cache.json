@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a now-patched high-severity security flaw in Apple's Shortcuts app that could permit a shortcut to access sensitive information on the device without users' consent.\nThe vulnerability, tracked as CVE-2024-23204 (CVSS score: 7.5), was addressed by Apple on January 22, 2024, with the release of iOS 17.3, iPadOS 17.3, macOS Sonoma 14.3, and",
+          "link": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
+          "publishedOn": "2024-02-23T05:05:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s1600/apple.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Federal Trade Commission (FTC) has hit antivirus vendor Avast with a $16.5 million fine over charges that the firm sold users' browsing data to advertisers after claiming its products would block online tracking.\nIn addition, the company has been banned from selling or licensing any web browsing data for advertising purposes. It will also have to notify users whose browsing data was",
