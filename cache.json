@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Federal Trade Commission (FTC) has hit antivirus vendor Avast with a $16.5 million fine over charges that the firm sold users' browsing data to advertisers after claiming its products would block online tracking.\nIn addition, the company has been banned from selling or licensing any web browsing data for advertising purposes. It will also have to notify users whose browsing data was",
+          "link": "https://thehackernews.com/2024/02/ftc-slams-avast-with-165-million-fine.html",
+          "publishedOn": "2024-02-23T03:30:00.000Z",
+          "wordCount": null,
+          "title": "FTC Slams Avast with $16.5 Million Fine for Selling Users' Browsing Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4CkF0FKmQkSKVnLecasyDcNvbolw8jlgsCh7i43vbtEBYq70p-8v8M3FmNlMZL4toXP8MOioKQ6o6diIS3b8unxjoh8E6K5bQYdebD41oVcGHmT19Z36txtw8PPcA_Oo83oZ5MbHhefLnPel5jh073XdA88Jpk2FRsXgtS2dc43lUU8KwNW7_jsiF7FRk/s1600/avast.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4CkF0FKmQkSKVnLecasyDcNvbolw8jlgsCh7i43vbtEBYq70p-8v8M3FmNlMZL4toXP8MOioKQ6o6diIS3b8unxjoh8E6K5bQYdebD41oVcGHmT19Z36txtw8PPcA_Oo83oZ5MbHhefLnPel5jh073XdA88Jpk2FRsXgtS2dc43lUU8KwNW7_jsiF7FRk/s1600/avast.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/apple-unveils-pq3-protocol-post-quantum.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple has announced a new post-quantum cryptographic protocol called PQ3 that it said will be integrated into iMessage to secure the messaging platform against future attacks arising from the threat of a practical quantum computer.\n\"With compromise-resilient encryption and extensive defenses against even highly sophisticated quantum attacks, PQ3 is the first messaging protocol to reach",
