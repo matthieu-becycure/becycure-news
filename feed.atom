@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-23T23:09:14.842Z</updated>
+    <updated>2024-02-23T23:23:45.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2643,18 +2643,6 @@ The issue, assigned the CVE identifier CVE-2024-23897, has been described as an
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered an updated version of a backdoor called LODEINFO that's distributed via spear-phishing attacks.
 The findings come from Japanese company ITOCHU Cyber & Intelligence, which said the malware "has been updated with new features, as well as changes to the anti-analysis (analysis avoidance) techniques."
 LODEINFO (versions 0.6.6 and 0.6.7]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024]]></title>
-        <id>https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html</id>
-        <link href="https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html"/>
-        <updated>2024-01-25T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The 2023/2024 Axur Threat Landscape Report provides a comprehensive analysis of the latest cyber threats. The information combines data from the platform's surveillance of the Surface, Deep, and Dark Web with insights derived from the in-depth research and investigations conducted by the Threat Intelligence team.
-Discover the full scope of digital threats in the Axur Report 2023/2024.
-Overview]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
