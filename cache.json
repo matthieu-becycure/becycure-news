@@ -3361,16 +3361,6 @@
           "wordCount": 1049,
           "title": "CERTFR-2024-AVI-0069 : Multiples vulnérabilités dans Gitlab (26 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Cisco Unified Communications. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0068/",
-          "publishedOn": "2024-01-25T08:32:05.000Z",
-          "wordCount": 1109,
-          "title": "CERTFR-2024-AVI-0068 : Vulnérabilité dans Cisco Unified Communications (25 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
