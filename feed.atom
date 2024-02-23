@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-23T17:43:40.312Z</updated>
+    <updated>2024-02-23T18:13:05.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2698,17 +2698,6 @@ The NSPX30]]></summary>
         <updated>2024-01-25T07:21:00.000Z</updated>
         <summary type="html"><![CDATA[A new Go-based malware loader called CherryLoader has been discovered by threat hunters in the wild to deliver additional payloads onto compromised hosts for follow-on exploitation.
 Arctic Wolf Labs, which discovered the new attack tool in two recent intrusions, said the loader's icon and name masquerades as the legitimate CherryTree note-taking application to dupe potential victims]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach]]></title>
-        <id>https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html</id>
-        <link href="https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html"/>
-        <updated>2024-01-25T05:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Hackers with links to the Kremlin are suspected to have infiltrated information technology company Hewlett Packard Enterprise's (HPE) cloud email environment to exfiltrate mailbox data.
-"The threat actor accessed and exfiltrated data beginning in May 2023 from a small percentage of HPE mailboxes belonging to individuals in our cybersecurity, go-to-market, business segments, and other functions,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
