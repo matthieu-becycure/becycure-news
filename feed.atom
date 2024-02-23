@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-23T02:15:58.986Z</updated>
+    <updated>2024-02-23T02:28:53.512Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2594,18 +2594,6 @@ Arctic Wolf Labs, which discovered the new attack tool in two recent intrusions,
         <updated>2024-01-25T05:48:00.000Z</updated>
         <summary type="html"><![CDATA[Hackers with links to the Kremlin are suspected to have infiltrated information technology company Hewlett Packard Enterprise's (HPE) cloud email environment to exfiltrate mailbox data.
 "The threat actor accessed and exfiltrated data beginning in May 2023 from a small percentage of HPE mailboxes belonging to individuals in our cybersecurity, go-to-market, business segments, and other functions,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters]]></title>
-        <id>https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html</id>
-        <link href="https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html"/>
-        <updated>2024-01-24T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a loophole impacting Google Kubernetes Engine (GKE) that could be potentially exploited by threat actors with a Google account to take control of a Kubernetes cluster.
-The critical shortcoming has been codenamed Sys:All by cloud security firm Orca. As many as 250,000 active GKE clusters in the wild are estimated to be susceptible to the attack vector.
-In]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
