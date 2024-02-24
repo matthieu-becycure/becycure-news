@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/microsoft-expands-free-logging.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has expanded free logging capabilities to all U.S. federal agencies using Microsoft Purview Audit irrespective of the license tier, more than six months after a China-linked cyber espionage campaign targeting two dozen organizations came to light.\n\"Microsoft will automatically enable the logs in customer accounts and increase the default log retention period from 90 days to 180 days,\"",
+          "link": "https://thehackernews.com/2024/02/microsoft-expands-free-logging.html",
+          "publishedOn": "2024-02-24T11:49:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYfojJSqdIoSFAUQiKjssiS_ODeJrTiELPIXBgO9P1PT7BMWYBKNvodylXfVsLfh2sOrhWOlnKkjrTeWfpjzTUriFME6B7NscVt3WFKVFZ4AihtoWP8XKVQkogX_JYDebhn7qG2qj5oRW5tkLjB2DsOEmKAT_tH-uGvahAvq80ejxXouILu7Y46J9n5Fn/s1600/MS.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYfojJSqdIoSFAUQiKjssiS_ODeJrTiELPIXBgO9P1PT7BMWYBKNvodylXfVsLfh2sOrhWOlnKkjrTeWfpjzTUriFME6B7NscVt3WFKVFZ4AihtoWP8XKVQkogX_JYDebhn7qG2qj5oRW5tkLjB2DsOEmKAT_tH-uGvahAvq80ejxXouILu7Y46J9n5Fn/s1600/MS.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A dormant package available on the Python Package Index (PyPI) repository was updated nearly after two years to propagate an information stealer malware called Nova Sentinel.\nThe package, named django-log-tracker, was first published to PyPI in April 2022, according to software supply chain security firm Phylum, which detected an anomalous update to the library on February 21,",
