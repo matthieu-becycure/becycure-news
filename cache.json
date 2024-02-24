@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s1600/cisco.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s1600/cisco.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shed light on the command-and-control (C2) server of a known malware family called SystemBC.\n\"SystemBC can be purchased on underground marketplaces and is supplied in an archive containing the implant, a command-and-control (C2) server, and a web administration portal written in PHP,\" Kroll said in an analysis published last week.\nThe risk and",
-          "link": "https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html",
-          "publishedOn": "2024-01-25T14:23:00.000Z",
-          "wordCount": null,
-          "title": "SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s1600/server.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s1600/server.jpg"
         }
       ]
     },
