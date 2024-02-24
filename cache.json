@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s1600/server.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmT4oebiU39WJIbm0njGRHOxTC4e6nzddiUfRpIJTrE4D0__lR_ig5LFzL5UQ4VXLDEC8gI24FuTaipmIyVYR2WI-qHlLIr3h394m7mnlvZLJHtN5WGmKPReTjVTjmx4u5Gsz9KYkjsrUzlM8UExO4nu63BxJWEah5TdrohQmoRPYj1_LTmn5XPZ-B6M1e/s1600/server.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of the open-source continuous integration/continuous delivery and deployment (CI/CD) automation software Jenkins have resolved nine security flaws, including a critical bug that, if successfully exploited, could result in remote code execution (RCE).\nThe issue, assigned the CVE identifier CVE-2024-23897, has been described as an arbitrary file read vulnerability through the",
-          "link": "https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html",
-          "publishedOn": "2024-01-25T11:57:00.000Z",
-          "wordCount": null,
-          "title": "Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mAoYvb8V-BAIYM6nO-6ECjcs8NUhBKVCm4ciWnMVljxH6OVwN896v8CC7NAb8EX7RSgIXzJ1iZe4Yha58bGIskG7XNS-oSnkluse78KKnMgL4WRphLqI4yPpf3T_cE6ER_4ero6Ir7vlVgEcpckKnrYq0Z2_MVymhrWZe8Yovr7OgmrQsCrwZl0e3p-O/s1600/jek.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_mAoYvb8V-BAIYM6nO-6ECjcs8NUhBKVCm4ciWnMVljxH6OVwN896v8CC7NAb8EX7RSgIXzJ1iZe4Yha58bGIskG7XNS-oSnkluse78KKnMgL4WRphLqI4yPpf3T_cE6ER_4ero6Ir7vlVgEcpckKnrYq0Z2_MVymhrWZe8Yovr7OgmrQsCrwZl0e3p-O/s1600/jek.jpg"
         }
       ]
     },

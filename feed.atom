@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-23T23:43:27.051Z</updated>
+    <updated>2024-02-24T00:43:05.912Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2620,17 +2620,6 @@ Tracked as CVE-2024-20253 (CVSS score: 9.9), the issue stems from improper pro
         <summary type="html"><![CDATA[Cybersecurity researchers have shed light on the command-and-control (C2) server of a known malware family called SystemBC.
 "SystemBC can be purchased on underground marketplaces and is supplied in an archive containing the implant, a command-and-control (C2) server, and a web administration portal written in PHP," Kroll said in an analysis published last week.
 The risk and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!]]></title>
-        <id>https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html</id>
-        <link href="https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"/>
-        <updated>2024-01-25T11:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the open-source continuous integration/continuous delivery and deployment (CI/CD) automation software Jenkins have resolved nine security flaws, including a critical bug that, if successfully exploited, could result in remote code execution (RCE).
-The issue, assigned the CVE identifier CVE-2024-23897, has been described as an arbitrary file read vulnerability through the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
