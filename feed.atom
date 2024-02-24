@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-24T17:10:35.562Z</updated>
+    <updated>2024-02-24T17:28:41.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2608,17 +2608,6 @@ The development comes a day after Hewlett Packard Enterprise (HPE) revealed th
         <summary type="html"><![CDATA[40-year-old Russian national Vladimir Dunaev has been sentenced to five years and four months in prison for his role in creating and distributing the TrickBot malware, the U.S. Department of Justice (DoJ) said.
 The development comes nearly two months after Dunaev pleaded guilty to committing computer fraud and identity theft and conspiracy to commit wire fraud and bank fraud.
 "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems]]></title>
-        <id>https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html</id>
-        <link href="https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"/>
-        <updated>2024-01-26T05:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has released patches to address a critical security flaw impacting Unified Communications and Contact Center Solutions products that could permit an unauthenticated, remote attacker to execute arbitrary code on an affected device.
-Tracked as CVE-2024-20253 (CVSS score: 9.9), the issue stems from improper processing of user-provided data that a threat actor could abuse to send a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlrFliFMEw0-_EDQm5KiymqbuFbq28si6l6wbr3m1FRiqYikCwT1eAX2PNQ27T960FZEl_IgcO8Txq9oQ6E8bD8ohy2ntoxpRIVAP5mpWWrPwFqr2-32bWtLQlgbEf-iFsoGV_9grQcbR1-trF0CICjzOf01ty08Lw2H41sDfrODqkDEzGrR94-4SMymn/s1600/hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirlrFliFMEw0-_EDQm5KiymqbuFbq28si6l6wbr3m1FRiqYikCwT1eAX2PNQ27T960FZEl_IgcO8Txq9oQ6E8bD8ohy2ntoxpRIVAP5mpWWrPwFqr2-32bWtLQlgbEf-iFsoGV_9grQcbR1-trF0CICjzOf01ty08Lw2H41sDfrODqkDEzGrR94-4SMymn/s1600/hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco has released patches to address a critical security flaw impacting Unified Communications and Contact Center Solutions products that could permit an unauthenticated, remote attacker to execute arbitrary code on an affected device.\nTracked as CVE-2024-20253 (CVSS score: 9.9), the issue stems from improper processing of user-provided data that a threat actor could abuse to send a",
-          "link": "https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html",
-          "publishedOn": "2024-01-26T05:13:00.000Z",
-          "wordCount": null,
-          "title": "Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s1600/cisco.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVFumBi_UdqvCID-by4pQYfdNDyPMYC_QGPDQMocMnVytvY811Nh43x3sSm4PqzKwQewo3IQCLSQpFkG81u-3S_z7APsH0p2cHNUM0ta2FQQsf7RbhCD6huDianSRssREBhqIz2V4g_SUnON-v2-ucjpneRjAo85kGPHgpk90jKEtPtR218TY-BrH9R_2p/s1600/cisco.jpg"
         }
       ]
     },
