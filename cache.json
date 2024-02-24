@@ -3219,26 +3219,6 @@
           "wordCount": 1018,
           "title": "CERTFR-2024-AVI-0072 : Multiples vulnérabilités dans les produits Juniper (26 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges, une atteinte à la confidentialité des données et une usurpation …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0071/",
-          "publishedOn": "2024-01-26T08:38:56.000Z",
-          "wordCount": 1204,
-          "title": "CERTFR-2024-AVI-0071 : Multiples vulnérabilités dans Microsoft Edge (26 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Synology DiskStation Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Synology précise que des correctifs seront publiés ultérieurement pour les versions 6.2 et 7.1 de Synology DSM.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0070/",
-          "publishedOn": "2024-01-26T08:30:15.000Z",
-          "wordCount": 969,
-          "title": "CERTFR-2024-AVI-0070 : Vulnérabilité dans Synology DiskStation Manager (26 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
