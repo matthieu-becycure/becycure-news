@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-24T17:28:41.490Z</updated>
+    <updated>2024-02-24T17:43:42.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2596,18 +2596,6 @@ The BlackBerry Research and Intelligence Team attributed the activity to an unkn
         <updated>2024-01-26T06:03:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft on Thursday said the Russian state-sponsored threat actors responsible for a cyber attack on its systems in late November 2023 have been targeting other organizations and that it's currently beginning to notify them.
 The development comes a day after Hewlett Packard Enterprise (HPE) revealed that it had been the victim of an attack perpetrated by a hacking crew]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree]]></title>
-        <id>https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html</id>
-        <link href="https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html"/>
-        <updated>2024-01-26T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[40-year-old Russian national Vladimir Dunaev has been sentenced to five years and four months in prison for his role in creating and distributing the TrickBot malware, the U.S. Department of Justice (DoJ) said.
-The development comes nearly two months after Dunaev pleaded guilty to committing computer fraud and identity theft and conspiracy to commit wire fraud and bank fraud.
-"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
