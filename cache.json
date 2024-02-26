@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/new-idat-loader-attacks-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ukrainian entities based in Finland have been targeted as part of a malicious campaign distributing a commercial remote access trojan known as Remcos RAT using a malware loader called IDAT Loader.\nThe attack has been attributed to a threat actor tracked by the Computer Emergency Response Team of Ukraine (CERT-UA) under the moniker UAC-0184.\n\"The attack, as part of the IDAT Loader, used",
+          "link": "https://thehackernews.com/2024/02/new-idat-loader-attacks-using.html",
+          "publishedOn": "2024-02-26T14:54:00.000Z",
+          "wordCount": null,
+          "title": "New IDAT Loader Attacks Using Steganography to Deploy Remcos RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2GUUYS5ZMerSoLjL6PUG-MaHiVqatgMKNs6pC8S-xEC2rqBid_Xnq8AvfD3IOwlGgVJuSEgHTHobknnkShicznlC7WEUPexu0LlfvjbmSTlZTHHbCeEY7XMe4HE8Z_oiVICneSvgY8rxWkNePTIeKVFXp0rtrGHT-vQgJpCL4rnO9JbeTd4WpmFt6m_s/s1600/stag.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2GUUYS5ZMerSoLjL6PUG-MaHiVqatgMKNs6pC8S-xEC2rqBid_Xnq8AvfD3IOwlGgVJuSEgHTHobknnkShicznlC7WEUPexu0LlfvjbmSTlZTHHbCeEY7XMe4HE8Z_oiVICneSvgY8rxWkNePTIeKVFXp0rtrGHT-vQgJpCL4rnO9JbeTd4WpmFt6m_s/s1600/stag.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More than 8,000 subdomains belonging to legitimate brands and institutions have been hijacked as part of a sophisticated distribution architecture for spam proliferation and click monetization.\nGuardio Labs is tracking the coordinated malicious activity, which has been ongoing since at least September 2022, under the name SubdoMailing. The emails range from \"counterfeit package delivery alerts",
@@ -2268,6 +2284,36 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/",
+          "publishedOn": "2024-02-26T13:40:00.000Z",
+          "wordCount": 1000,
+          "title": "CERTFR-2024-AVI-0166 : Vulnérabilité dans les produits WithSecure (26 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-010/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-010/",
+          "publishedOn": "2024-02-26T10:44:15.000Z",
+          "wordCount": 1763,
+          "title": "CERTFR-2024-ACT-010 : Bulletin d’actualité CERTFR-2024-ACT-010 (26 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une usurpation d'identité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/",
+          "publishedOn": "2024-02-26T10:37:29.000Z",
+          "wordCount": 1109,
+          "title": "CERTFR-2024-AVI-0165 : Multiples vulnérabilités dans Microsoft Edge (26 février 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0164/",
           "author": null,
