@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-26T09:43:35.045Z</updated>
+    <updated>2024-02-26T10:11:26.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Banking Trojans Target Latin America and Europe Through Google Cloud Run]]></title>
+        <id>https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html</id>
+        <link href="https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html"/>
+        <updated>2024-02-26T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning about a spike in email phishing campaigns that are weaponizing the Google Cloud Run service to deliver various banking trojans such as Astaroth (aka Guildma), Mekotio, and Ousaban (aka Javali) to targets across Latin America (LATAM) and Europe.
+"The infection chains associated with these malware families feature the use of malicious]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LockBit Ransomware Group Resurfaces After Law Enforcement Takedown]]></title>
         <id>https://thehackernews.com/2024/02/lockbit-ransomware-group-resurfaces.html</id>
