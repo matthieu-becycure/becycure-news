@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Last year, the Open Worldwide Application Security Project (OWASP) published multiple versions of the \"OWASP Top 10 For Large Language Models,\" reaching a 1.0 document in August and a 1.1 document in October. These documents not only demonstrate the rapidly evolving nature of Large Language Models, but the evolving ways in which they can be attacked and defended. We're going to talk in this",
+          "link": "https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html",
+          "publishedOn": "2024-02-26T10:29:00.000Z",
+          "wordCount": null,
+          "title": "Three Tips to Protect Your Secrets from AI Accidents",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s1600/git.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaWwVbW_SwXnWKIV-xoJfQrrift4faO50PpJL26pmXBbyTCvKbMv_0iiN_9jQyLrOlIz4biz8GctsrmT4_vZ5KV_f4FtNKNqMB2tKLsW_iP5upsNSdyYiHEr6TQXTIgD2T4AR3Xfdg6Ii89fw3Fwk0-gyj2bQ-BG-bYiKt6MRKu3Ke_eaJ2nOTBDnQ4Uw/s1600/git.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/banking-trojans-target-latin-america.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are warning about a spike in email phishing campaigns that are weaponizing the Google Cloud Run service to deliver various banking trojans such as Astaroth (aka Guildma), Mekotio, and Ousaban (aka Javali) to targets across Latin America (LATAM) and Europe.\n\"The infection chains associated with these malware families feature the use of malicious",
