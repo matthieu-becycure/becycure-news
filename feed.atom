@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-26T14:10:18.929Z</updated>
+    <updated>2024-02-26T14:28:05.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[8,000+ Subdomains of Trusted Brands Hijacked for Massive Spam Operation]]></title>
+        <id>https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html</id>
+        <link href="https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html"/>
+        <updated>2024-02-26T14:10:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 8,000 subdomains belonging to legitimate brands and institutions have been hijacked as part of a sophisticated distribution architecture for spam proliferation and click monetization.
+Guardio Labs is tracking the coordinated malicious activity, which has been ongoing since at least September 2022, under the name SubdoMailing. The emails range from "counterfeit package delivery alerts]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Targeting Developers with Malicious npm Packages]]></title>
         <id>https://thehackernews.com/2024/02/north-korean-hackers-targeting.html</id>
