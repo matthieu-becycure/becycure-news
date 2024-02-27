@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-27T17:27:49.880Z</updated>
+    <updated>2024-02-27T17:43:47.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2688,18 +2688,6 @@ Fortinet FortiGuard Labs, which detailed the latest iteration of the ransomware,
         <updated>2024-01-29T06:59:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. National Security Agency (NSA) has admitted to buying internet browsing records from data brokers to identify the websites and apps Americans use that would otherwise require a court order, U.S. Senator Ron Wyden said last week.
 "The U.S. government should not be funding and legitimizing a shady industry whose flagrant violations of Americans' privacy are not just unethical, but illegal]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines]]></title>
-        <id>https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html</id>
-        <link href="https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html"/>
-        <updated>2024-01-29T05:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have identified malicious packages on the open-source Python Package Index (PyPI) repository that deliver an information stealing malware called WhiteSnake Stealer on Windows systems.
-The malware-laced packages are named nigpal, figflix, telerer, seGMM, fbdebug, sGMM, myGens, NewGends, and TestLibs111. They have been uploaded by a threat actor named "WS."
-"These]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

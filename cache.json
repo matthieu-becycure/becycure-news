@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkKFFMgG2PGNDl0dFHmowr7dm4AKlaHngMSmkHNI9tbtvpp0z0ZZoMb2aJ14s4qOipADG0-CsrqEYk9uXDuWy1gfSOx3daNrpttm36rBG13MSDCX0WImaiGK5fJGRFIzhY_EhXWiHFctJzcja37Jhgi5s030pAihSdDVSOeai8gQxuWSTymW8wMh47P1a/s1600/nsa.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkKFFMgG2PGNDl0dFHmowr7dm4AKlaHngMSmkHNI9tbtvpp0z0ZZoMb2aJ14s4qOipADG0-CsrqEYk9uXDuWy1gfSOx3daNrpttm36rBG13MSDCX0WImaiGK5fJGRFIzhY_EhXWiHFctJzcja37Jhgi5s030pAihSdDVSOeai8gQxuWSTymW8wMh47P1a/s1600/nsa.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have identified malicious packages on the open-source Python Package Index (PyPI) repository that deliver an information stealing malware called WhiteSnake Stealer on Windows systems.\nThe malware-laced packages are named nigpal, figflix, telerer, seGMM, fbdebug, sGMM, myGens, NewGends, and TestLibs111. They have been uploaded by a threat actor named \"WS.\"\n\"These",
-          "link": "https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html",
-          "publishedOn": "2024-01-29T05:32:00.000Z",
-          "wordCount": null,
-          "title": "Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitV4COC25Au_QgtBy1by6T6w8gwXbQlOZ9U72LHRXVhBdNz0gLwzVJDpw5ziXB-HoKIT8HagGvSKY53xMQODHlrCs4APfz1GwU5E6BjIcc3F-XXpw1Cq89c_-AeS7rpy48I2hzEEMfn5MjADaoJPS2tzQzdebBU8qpSGEyJK13V4yzny7W4e-eWwX3zKpy/s1600/python.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitV4COC25Au_QgtBy1by6T6w8gwXbQlOZ9U72LHRXVhBdNz0gLwzVJDpw5ziXB-HoKIT8HagGvSKY53xMQODHlrCs4APfz1GwU5E6BjIcc3F-XXpw1Cq89c_-AeS7rpy48I2hzEEMfn5MjADaoJPS2tzQzdebBU8qpSGEyJK13V4yzny7W4e-eWwX3zKpy/s1600/python.jpg"
         }
       ]
     },
