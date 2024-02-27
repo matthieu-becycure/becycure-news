@@ -2381,6 +2381,16 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Xen. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/",
+          "publishedOn": "2024-02-27T12:31:55.000Z",
+          "wordCount": 979,
+          "title": "CERTFR-2024-AVI-0168 : Vulnérabilité dans les produits Xen (27 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-002/",
           "author": null,
           "description": "This third edition of the Cyber Threat Overview describes the main trends observed by the French National Cyber Security Agency (ANSSI) in 2023. This document focuses on the motivations of …",
