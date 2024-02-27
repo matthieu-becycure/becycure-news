@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0GkFWdP6oURDVoJ-OzHta-qetGC1L3DDwmiqdYS94J4wIecKCiT6UjRcznKgTLGrGtLk_OvagYcCceEp-CXlqJ-PON5uzz1Q1W2VhivhkerR2gGZyLXvgq2PBaoYZuyHaSIOGVdy788bF3Y-ilpx-cCTTpn0RvsRU7k-F6CXFPo6HdjukE00eGnTUHcE/s1600/blackberry.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0GkFWdP6oURDVoJ-OzHta-qetGC1L3DDwmiqdYS94J4wIecKCiT6UjRcznKgTLGrGtLk_OvagYcCceEp-CXlqJ-PON5uzz1Q1W2VhivhkerR2gGZyLXvgq2PBaoYZuyHaSIOGVdy788bF3Y-ilpx-cCTTpn0RvsRU7k-F6CXFPo6HdjukE00eGnTUHcE/s1600/blackberry.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have detected in the wild yet another variant of the Phobos ransomware family known as Faust.\nFortinet FortiGuard Labs, which detailed the latest iteration of the ransomware, said it's being propagated by means of an infection that delivers a Microsoft Excel document (.XLAM) containing a VBA script.\n\"The attackers utilized the Gitea service to store several files",
-          "link": "https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html",
-          "publishedOn": "2024-01-29T11:03:00.000Z",
-          "wordCount": null,
-          "title": "Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXV0hiWllbUQjyevUEqOOmcXl5PgfHAe5Lwn6eef8Qwh99yaSX5-CygjA3mF620KollFyFgqpOYVjswyEwmFSwCx6ySBukphjnEcSde7BVfLf27iHWxIpdm9Gp3jjX8H6c34akKro0lpHFO5DY0k1GNI1pd6NCqN1mCCX1YYwB431bQ2mm__vO48hORT8Z/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXV0hiWllbUQjyevUEqOOmcXl5PgfHAe5Lwn6eef8Qwh99yaSX5-CygjA3mF620KollFyFgqpOYVjswyEwmFSwCx6ySBukphjnEcSde7BVfLf27iHWxIpdm9Gp3jjX8H6c34akKro0lpHFO5DY0k1GNI1pd6NCqN1mCCX1YYwB431bQ2mm__vO48hORT8Z/s1600/ransomware.png"
         }
       ]
     },
