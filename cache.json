@@ -2349,6 +2349,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-002/",
+          "author": null,
+          "description": "This third edition of the Cyber Threat Overview describes the main trends observed by the French National Cyber Security Agency (ANSSI) in 2023. This document focuses on the motivations of …",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-002/",
+          "publishedOn": "2024-02-27T10:09:54.000Z",
+          "wordCount": 972,
+          "title": "CERTFR-2024-CTI-002 : 🇬🇧 Cyber Threat Overview 2023 (27 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-001/",
+          "author": null,
+          "description": "Cette troisième édition du Panorama de la cybermenace décrit les principales tendances constatées en 2023 par l’Agence nationale de la sécurité …",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-001/",
+          "publishedOn": "2024-02-27T10:09:33.000Z",
+          "wordCount": 994,
+          "title": "CERTFR-2024-CTI-001 : Panorama de la cybermenace 2023 (27 février 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/",
+          "publishedOn": "2024-02-27T09:33:33.000Z",
+          "wordCount": 982,
+          "title": "CERTFR-2024-AVI-0167 : [SCADA] Vulnérabilité dans les produits Moxa (27 février 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.",
