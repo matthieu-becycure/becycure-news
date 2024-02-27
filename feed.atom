@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-27T13:43:43.837Z</updated>
+    <updated>2024-02-27T14:09:09.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Xeno RAT Trojan Emerges as a Potent Threat on GitHub]]></title>
+        <id>https://thehackernews.com/2024/02/open-source-xeno-rat-trojan-emerges-as.html</id>
+        <link href="https://thehackernews.com/2024/02/open-source-xeno-rat-trojan-emerges-as.html"/>
+        <updated>2024-02-27T12:56:00.000Z</updated>
+        <summary type="html"><![CDATA[An "intricately designed" remote access trojan (RAT) called Xeno RAT has been made available on GitHub, making it available to other actors at no extra cost.
+Written in C# and compatible with Windows 10 and Windows 11 operating systems, the open-source RAT comes with a "comprehensive set of features for remote system management," according to its developer, who goes by the name moom825]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Alert to Action: How to Speed Up Your SOC Investigations]]></title>
         <id>https://thehackernews.com/2024/02/from-alert-to-action-how-to-speed-up.html</id>
