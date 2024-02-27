@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-27T10:29:53.957Z</updated>
+    <updated>2024-02-27T10:43:45.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five Eyes Agencies Expose APT29's Evolving Cloud Attack Tactics]]></title>
+        <id>https://thehackernews.com/2024/02/five-eyes-agencies-expose-apt29s.html</id>
+        <link href="https://thehackernews.com/2024/02/five-eyes-agencies-expose-apt29s.html"/>
+        <updated>2024-02-27T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity and intelligence agencies from the Five Eyes nations have released a joint advisory detailing the evolving tactics of the Russian state-sponsored threat actor known as APT29.
+The hacking outfit, also known as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes, is assessed to be affiliated with the Foreign Intelligence Service (SVR) of the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html</id>
+        <link href="https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html"/>
+        <updated>2024-02-27T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have found that it's possible to compromise the Hugging Face Safetensors conversion service to ultimately hijack the models submitted by users and result in supply chain attacks.
+"It's possible to send malicious pull requests with attacker-controlled data from the Hugging Face service to any repository on the platform, as well as hijack any models that are submitted]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Plugin Alert - Critical SQLi Vulnerability Threatens 200K+ Websites]]></title>
         <id>https://thehackernews.com/2024/02/wordpress-plugin-alert-critical-sqli.html</id>
