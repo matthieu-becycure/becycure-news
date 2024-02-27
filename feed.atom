@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-27T20:43:29.372Z</updated>
+    <updated>2024-02-27T21:08:32.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2667,16 +2667,6 @@ Fortinet FortiGuard Labs, which detailed the latest iteration of the ransomware,
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/"/>
         <updated>2024-01-29T09:19:23.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0076 : Vulnérabilité dans Microsoft Edge (29 janvier 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/"/>
-        <updated>2024-01-29T08:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été corrigée dans Microsoft Edge. Elle permet à un attaquant de provoquer une usurpation d'identité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

@@ -3367,16 +3367,6 @@
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0077 : Vulnérabilité dans les produits NetApp (29 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/",
-          "author": null,
-          "description": "Une vulnérabilité a été corrigée dans Microsoft Edge. Elle permet à un attaquant de provoquer une usurpation d'identité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0076/",
-          "publishedOn": "2024-01-29T08:56:31.000Z",
-          "wordCount": 939,
-          "title": "CERTFR-2024-AVI-0076 : Vulnérabilité dans Microsoft Edge (29 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
