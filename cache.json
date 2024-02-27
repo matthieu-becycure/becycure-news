@@ -3357,16 +3357,6 @@
           "wordCount": 1574,
           "title": "CERTFR-2024-ACT-006 : Bulletin d’actualité CERTFR-2024-ACT-006 (29 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0077/",
-          "publishedOn": "2024-01-29T09:19:23.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0077 : Vulnérabilité dans les produits NetApp (29 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
