@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T15:24:36.183Z</updated>
+    <updated>2024-02-28T15:43:27.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iran-Linked UNC1549 Hackers Target Middle East Aerospace & Defense Sectors]]></title>
+        <id>https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html</id>
+        <link href="https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html"/>
+        <updated>2024-02-28T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[An Iran-nexus threat actor known as UNC1549 has been attributed with medium confidence to a new set of attacks targeting aerospace, aviation, and defense industries in the Middle East, including Israel and the U.A.E.
+Other targets of the cyber espionage activity likely include Turkey, India, and Albania, Google-owned Mandiant said in a new analysis.
+UNC1549 is said to overlap with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks]]></title>
         <id>https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html</id>

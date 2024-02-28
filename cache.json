@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An Iran-nexus threat actor known as UNC1549 has been attributed with medium confidence to a new set of attacks targeting aerospace, aviation, and defense industries in the Middle East, including Israel and the U.A.E.\nOther targets of the cyber espionage activity likely include Turkey, India, and Albania, Google-owned Mandiant said in a new analysis.\nUNC1549 is said to overlap with",
+          "link": "https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html",
+          "publishedOn": "2024-02-28T15:08:00.000Z",
+          "wordCount": null,
+          "title": "Iran-Linked UNC1549 Hackers Target Middle East Aerospace & Defense Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyM2fQmAkxwXDbY_FZ3WHltIkGL1RPRI1Df0uekz1o1On2MqgES81RUs9umL32ThRp23WlZEzSmO0vIVhZ4cLPmLRXjmpKSlWL0H5ucUq1Ry1FuY9rK0YkPs502G9d1RFHTa1kH6TrastdeYFDYorTQ0fCnemeiOK982ZiSufjy6dqctqiR9VDoC_vE2xi/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyM2fQmAkxwXDbY_FZ3WHltIkGL1RPRI1Df0uekz1o1On2MqgES81RUs9umL32ThRp23WlZEzSmO0vIVhZ4cLPmLRXjmpKSlWL0H5ucUq1Ry1FuY9rK0YkPs502G9d1RFHTa1kH6TrastdeYFDYorTQ0fCnemeiOK982ZiSufjy6dqctqiR9VDoC_vE2xi/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. government is warning about the resurgence of BlackCat (aka ALPHV) ransomware attacks targeting the healthcare sector as recently as this month.\n\"Since mid-December 2023, of the nearly 70 leaked victims, the healthcare sector has been the most commonly victimized,\" the government said in an updated advisory.\n\"This is likely in response to the ALPHV/BlackCat administrator's",
