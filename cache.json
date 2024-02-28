@@ -3299,16 +3299,6 @@
           "wordCount": 956,
           "title": "CERTFR-2024-AVI-0078 : Vulnérabilité dans Progress MOVEit Transfer (30 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-006/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-006/",
-          "publishedOn": "2024-01-29T11:46:16.000Z",
-          "wordCount": 1574,
-          "title": "CERTFR-2024-ACT-006 : Bulletin d’actualité CERTFR-2024-ACT-006 (29 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
