@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Traditional perimeter-based security has become costly and ineffective. As a result, communications security between people, systems, and networks is more important than blocking access with firewalls. On top of that, most cybersecurity risks are caused by just a few superusers – typically one out of 200 users. There’s a company aiming to fix the gap between traditional PAM and IdM",
+          "link": "https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html",
+          "publishedOn": "2024-02-28T10:37:00.000Z",
+          "wordCount": null,
+          "title": "Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s1600/ssh.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb1Ev1Ia07h2BSBbjByAnMMa-ye3w5KcgJJybQq_ZYLBztiUKxx1JOn29C8EYqKV4JepekvUmD8U0ar8XnNrlenjBflT_abc82AtyV-NUH3Q3dztvBPqc5pMSeDygTAY3eae96pT-X_Msb1B5HWMmYZXD3KQQfis4ZatyFxYXRwej_z6sLnnB-qwqT4jE/s1600/ssh.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Mexican users have been targeted with tax-themed phishing lures at least since November 2023 to distribute a previously undocumented Windows malware called TimbreStealer.\nCisco Talos, which discovered the activity, described the authors as skilled and that the \"threat actor has previously used similar tactics, techniques and procedures (TTPs) to distribute a banking trojan known",

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T10:30:32.014Z</updated>
+    <updated>2024-02-28T10:44:07.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management]]></title>
+        <id>https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html</id>
+        <link href="https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html"/>
+        <updated>2024-02-28T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Traditional perimeter-based security has become costly and ineffective. As a result, communications security between people, systems, and networks is more important than blocking access with firewalls. On top of that, most cybersecurity risks are caused by just a few superusers – typically one out of 200 users. There’s a company aiming to fix the gap between traditional PAM and IdM]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TimbreStealer Malware Spreading via Tax-themed Phishing Scam Targets IT Users]]></title>
         <id>https://thehackernews.com/2024/02/timbrestealer-malware-spreading-via-tax.html</id>
