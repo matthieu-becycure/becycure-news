@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T13:23:47.186Z</updated>
+    <updated>2024-02-28T13:43:25.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html</id>
+        <link href="https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html"/>
+        <updated>2024-02-28T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government is warning about the resurgence of BlackCat (aka ALPHV) ransomware attacks targeting the healthcare sector as recently as this month.
+"Since mid-December 2023, of the nearly 70 leaked victims, the healthcare sector has been the most commonly victimized," the government said in an updated advisory.
+"This is likely in response to the ALPHV/BlackCat administrator's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building Your Privacy-Compliant Customer Data Platform (CDP) with First-Party Data]]></title>
         <id>https://thehackernews.com/2024/02/building-your-privacy-compliant.html</id>

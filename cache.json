@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. government is warning about the resurgence of BlackCat (aka ALPHV) ransomware attacks targeting the healthcare sector as recently as this month.\n\"Since mid-December 2023, of the nearly 70 leaked victims, the healthcare sector has been the most commonly victimized,\" the government said in an updated advisory.\n\"This is likely in response to the ALPHV/BlackCat administrator's",
+          "link": "https://thehackernews.com/2024/02/fbi-warns-us-healthcare-sector-of.html",
+          "publishedOn": "2024-02-28T13:06:00.000Z",
+          "wordCount": null,
+          "title": "FBI Warns U.S. Healthcare Sector of Targeted BlackCat Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukNpThGmmz9-8zmRGUTKJL6gtlyhpbhwRefdGHdH66jQQgaMHEKbIfpLQ7K5XFOhVL5CzKc9KcuYQP_UEu7iU2UQRpUvD1ogEMqMWwEbmuxzXM-CkWUNQX461hhQzhSt6ebjLiiiqq0Bilwh8KZ9KGZXyHZpb2KuCcqhYAdsw4zG8ur70ONEkbgYQTANE/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiukNpThGmmz9-8zmRGUTKJL6gtlyhpbhwRefdGHdH66jQQgaMHEKbIfpLQ7K5XFOhVL5CzKc9KcuYQP_UEu7iU2UQRpUvD1ogEMqMWwEbmuxzXM-CkWUNQX461hhQzhSt6ebjLiiiqq0Bilwh8KZ9KGZXyHZpb2KuCcqhYAdsw4zG8ur70ONEkbgYQTANE/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/building-your-privacy-compliant.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In today's digital era, data privacy isn't just a concern; it's a consumer demand. Businesses are grappling with the dual challenge of leveraging customer data for personalized experiences while navigating a maze of privacy regulations. The answer? A privacy-compliant Customer Data Platform (CDP).\nJoin us for a transformative webinar where we unveil Twilio Segment's state-of-the-art CDP.",
