@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In a new joint advisory, cybersecurity and intelligence agencies from the U.S. and other countries are urging users of Ubiquiti EdgeRouter to take protective measures, weeks after a botnet comprising infected routers was felled by law enforcement as part of an operation codenamed Dying Ember.\nThe botnet, named MooBot, is said to have been used by a Russia-linked threat actor known as",
+          "link": "https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html",
+          "publishedOn": "2024-02-28T05:47:00.000Z",
+          "wordCount": null,
+          "title": "Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A security vulnerability has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges.\nTracked as CVE-2023-40000, the vulnerability was addressed in October 2023 in version 5.7.0.1.\n\"This plugin suffers from unauthenticated site-wide stored [cross-site scripting] vulnerability and could allow any unauthenticated user",
