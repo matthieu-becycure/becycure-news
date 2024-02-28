@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMndMaQpB6ia7l0VF9CRDSFfZAKUHZ4MzSmCUfmM3XGXgPZhAjfl19HFUr9lWQFn3_i4LuyIt5gFcugMFSGPvA55DhY8gZzpn-aCvnRRQibK2fIDPtRVcEcVjNYVrf0_6mLyGFxiqBNyZHsRvmb_DzdUjAgOqpqINgRSOhc24YsKSoqOZgWaueB0VHNaR8/s1600/juneos.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMndMaQpB6ia7l0VF9CRDSFfZAKUHZ4MzSmCUfmM3XGXgPZhAjfl19HFUr9lWQFn3_i4LuyIt5gFcugMFSGPvA55DhY8gZzpn-aCvnRRQibK2fIDPtRVcEcVjNYVrf0_6mLyGFxiqBNyZHsRvmb_DzdUjAgOqpqINgRSOhc24YsKSoqOZgWaueB0VHNaR8/s1600/juneos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/researchers-uncover-outlook.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security flaw in Microsoft Outlook could be exploited by threat actors to access NT LAN Manager (NTLM) v2 hashed passwords when opening a specially crafted file.\nThe issue, tracked as CVE-2023-35636 (CVSS score: 6.5), was addressed by the tech giant as part of its Patch Tuesday updates for December 2023.\n\"In an email attack scenario, an attacker could exploit the",
-          "link": "https://thehackernews.com/2024/01/researchers-uncover-outlook.html",
-          "publishedOn": "2024-01-29T13:31:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaAwGHVSdV-m12qlT7vYlKCbgTZRwRq88quncPc0sCxvM1aolZhR0LuiafPFm0nWVwn1lKpDy8y5mRx1_qvHGuXksJk0y1bBsJETPDoZJTsp_fOJjugPr5fMjQJ-uZh0qcBPqSDiFb6i3xcvBJ0xI5REyDZeC8pqQSTWqz4DomYPobsgodyAPdn4kTeVj/s1600/outlook.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisaAwGHVSdV-m12qlT7vYlKCbgTZRwRq88quncPc0sCxvM1aolZhR0LuiafPFm0nWVwn1lKpDy8y5mRx1_qvHGuXksJk0y1bBsJETPDoZJTsp_fOJjugPr5fMjQJ-uZh0qcBPqSDiFb6i3xcvBJ0xI5REyDZeC8pqQSTWqz4DomYPobsgodyAPdn4kTeVj/s1600/outlook.jpg"
         }
       ]
     },

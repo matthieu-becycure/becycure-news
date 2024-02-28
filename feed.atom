@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T00:44:32.673Z</updated>
+    <updated>2024-02-28T01:42:43.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2602,18 +2602,6 @@ A new variant of the malware is said to have been in development since September
         <updated>2024-01-30T05:01:00.000Z</updated>
         <summary type="html"><![CDATA[Juniper Networks has released out-of-band updates to address high-severity flaws in SRX Series and EX Series that could be exploited by a threat actor to take control of susceptible systems.
 The vulnerabilities, tracked as CVE-2024-21619 and CVE-2024-21620, are rooted in the J-Web component and impact all versions of Junos OS. Two other shortcomings, CVE-2023-36846 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords]]></title>
-        <id>https://thehackernews.com/2024/01/researchers-uncover-outlook.html</id>
-        <link href="https://thehackernews.com/2024/01/researchers-uncover-outlook.html"/>
-        <updated>2024-01-29T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched security flaw in Microsoft Outlook could be exploited by threat actors to access NT LAN Manager (NTLM) v2 hashed passwords when opening a specially crafted file.
-The issue, tracked as CVE-2023-35636 (CVSS score: 6.5), was addressed by the tech giant as part of its Patch Tuesday updates for December 2023.
-"In an email attack scenario, an attacker could exploit the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
