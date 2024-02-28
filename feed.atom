@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T22:43:30.716Z</updated>
+    <updated>2024-02-28T23:11:33.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2644,16 +2644,6 @@ Tracked as CVE-2024-0402, the vulnerability has a CVSS score of 9.9 out of a ma
         <updated>2024-01-30T13:45:00.000Z</updated>
         <summary type="html"><![CDATA[The China-based threat actor known as Mustang Panda is suspected to have targeted Myanmar's Ministry of Defence and Foreign Affairs as part of twin campaigns designed to deploy backdoors and remote access trojans.
 The findings come from CSIRT-CTI, which said the activities took place in November 2023 and January 2024 after artifacts in connection with the attacks were uploaded to the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Security Posture Vulnerabilities Revealed]]></title>
-        <id>https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html</id>
-        <link href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"/>
-        <updated>2024-01-30T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Each New Year introduces a new set of challenges and opportunities for strengthening our cybersecurity posture. It's the nature of the field – the speed at which malicious actors carry out advanced persistent threats brings a constant, evolving battle for cyber resilience. The excitement in cybersecurity lies in this continuous adaptation and learning, always staying one step ahead of potential]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
