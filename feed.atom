@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T20:24:45.125Z</updated>
+    <updated>2024-02-28T20:43:40.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2688,18 +2688,6 @@ It also said it]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Progress MOVEit Transfer. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility]]></title>
-        <id>https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html</id>
-        <link href="https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html"/>
-        <updated>2024-01-30T08:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat hunters have identified a new campaign that delivers the ZLoader malware, resurfacing nearly two years after the botnet's infrastructure was dismantled in April 2022.
-A new variant of the malware is said to have been in development since September 2023, Zscaler ThreatLabz said in an analysis published this month.
-"The new version of Zloader made significant changes to the loader]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
