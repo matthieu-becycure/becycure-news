@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-28T12:17:56.794Z</updated>
+    <updated>2024-02-28T12:41:08.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Building Your Privacy-Compliant Customer Data Platform (CDP) with First-Party Data]]></title>
+        <id>https://thehackernews.com/2024/02/building-your-privacy-compliant.html</id>
+        <link href="https://thehackernews.com/2024/02/building-your-privacy-compliant.html"/>
+        <updated>2024-02-28T12:02:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital era, data privacy isn't just a concern; it's a consumer demand. Businesses are grappling with the dual challenge of leveraging customer data for personalized experiences while navigating a maze of privacy regulations. The answer? A privacy-compliant Customer Data Platform (CDP).
+Join us for a transformative webinar where we unveil Twilio Segment's state-of-the-art CDP.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management]]></title>
         <id>https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html</id>
