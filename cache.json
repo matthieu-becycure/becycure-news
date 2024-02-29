@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/new-backdoor-targeting-european.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor dubbed SPIKEDWINE has been observed targeting officials in European countries with Indian diplomatic missions using a new backdoor called WINELOADER.\nThe adversary, according to a report from Zscaler ThreatLabz, used a PDF file in emails that purported to come from the Ambassador of India, inviting diplomatic staff to a wine-tasting",
+          "link": "https://thehackernews.com/2024/02/new-backdoor-targeting-european.html",
+          "publishedOn": "2024-02-29T08:19:00.000Z",
+          "wordCount": null,
+          "title": "New Backdoor Targeting European Officials Linked to Indian Diplomatic Events",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv97o8vYE-bCkTyewAfwFqbXiCjYGi5xgZFIUcejJ_po1BiM36fhNzLV3YGMtwpx2RWJ4OenARptW_EE9QXOrAANbn0mj0EHnoKC3UU9O7qiPHKGWkJpDvktX6gfXsQPzoNU1s5Ltxu5deZ4kxqNKQXC8mGfVlAdem0fvA_bGVEw3rLpLQNwvwjwe7loKG/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhv97o8vYE-bCkTyewAfwFqbXiCjYGi5xgZFIUcejJ_po1BiM36fhNzLV3YGMtwpx2RWJ4OenARptW_EE9QXOrAANbn0mj0EHnoKC3UU9O7qiPHKGWkJpDvktX6gfXsQPzoNU1s5Ltxu5deZ4kxqNKQXC8mGfVlAdem0fvA_bGVEw3rLpLQNwvwjwe7loKG/s1600/cyber.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The notorious North Korean state-backed hacking group Lazarus uploaded four packages to the Python Package Index (PyPI) repository with the goal of infecting developer systems with malware.\nThe packages, now taken down, are pycryptoenv, pycryptoconf, quasarlib, and swapmempool. They have been collectively downloaded 3,269 times, with pycryptoconf accounting for the most",
+          "link": "https://thehackernews.com/2024/02/lazarus-exploits-typos-to-sneak-pypi.html",
+          "publishedOn": "2024-02-29T08:17:00.000Z",
+          "wordCount": null,
+          "title": "Lazarus Exploits Typos to Sneak PyPI Malware into Dev Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOsvoEPlyoX-fS2syYNGtZUBYDatyFso4vFhczOLHv2RN26jv1aYHAlfM6N1GnfOWfmbARMQWwiU2gWQ_ckElD6-NNqTYUJaauHWhP4n0AeAyjKIyakYdSVFYoinbYDKsVdIazYQ6Dnz3crRqalSPwYylrYGrPlkmHHnJg1AmMA2iLtjEoGFNZ7EZUl9b/s1600/dll.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOsvoEPlyoX-fS2syYNGtZUBYDatyFso4vFhczOLHv2RN26jv1aYHAlfM6N1GnfOWfmbARMQWwiU2gWQ_ckElD6-NNqTYUJaauHWhP4n0AeAyjKIyakYdSVFYoinbYDKsVdIazYQ6Dnz3crRqalSPwYylrYGrPlkmHHnJg1AmMA2iLtjEoGFNZ7EZUl9b/s1600/dll.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "At least two different suspected China-linked cyber espionage clusters, tracked as UNC5325 and UNC3886, have been attributed to the exploitation of security flaws in Ivanti Connect Secure VPN appliances.\nUNC5325 abused CVE-2024-21893 to deliver a wide range of new malware called LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, and PITHOOK, as well as maintain persistent",
