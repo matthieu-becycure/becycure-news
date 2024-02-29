@@ -3393,16 +3393,6 @@
           "wordCount": 959,
           "title": "CERTFR-2024-AVI-0081 : Multiples vulnérabilités dans les produits Spring (31 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0080/",
-          "publishedOn": "2024-01-31T08:38:40.000Z",
-          "wordCount": 1003,
-          "title": "CERTFR-2024-AVI-0080 : Multiples vulnérabilités dans les produits Splunk (31 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
