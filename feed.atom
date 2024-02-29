@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-29T04:28:39.080Z</updated>
+    <updated>2024-02-29T04:43:34.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2609,18 +2609,6 @@ The security vulnerabilities, tracked as CVE-2023-46805 (CVSS score: 8.2) and C
         <updated>2024-01-31T05:44:00.000Z</updated>
         <summary type="html"><![CDATA[Malicious local attackers can obtain full root access on Linux machines by taking advantage of a newly disclosed security flaw in the GNU C library (aka glibc).
 Tracked as CVE-2023-6246, the heap-based buffer overflow vulnerability is rooted in glibc's __vsyslog_internal() function, which is used by syslog() and vsyslog() for system logging purposes. It's said to have been accidentally]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives]]></title>
-        <id>https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html</id>
-        <link href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"/>
-        <updated>2024-01-30T16:43:00.000Z</updated>
-        <summary type="html"><![CDATA[A Brazilian law enforcement operation has led to the arrest of several Brazilian operators in charge of the Grandoreiro malware.
-The Federal Police of Brazil said it served five temporary arrest warrants and 13 search and seizure warrants in the states of São Paulo, Santa Catarina, Pará, Goiás, and Mato Grosso.
-Slovak cybersecurity firm ESET, which provided additional]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
