@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-29T16:11:53.305Z</updated>
+    <updated>2024-02-29T16:29:16.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems]]></title>
+        <id>https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html</id>
+        <link href="https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html"/>
+        <updated>2024-02-29T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new attack technique called Silver SAML that can be successful even in cases where mitigations have been applied against Golden SAML attacks.
+Silver SAML “enables the exploitation of SAML to launch attacks from an identity provider like Entra ID against applications configured to use it for authentication, such as Salesforce,” Semperis]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks]]></title>
         <id>https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a new attack technique called Silver SAML that can be successful even in cases where mitigations have been applied against Golden SAML attacks.\nSilver SAML “enables the exploitation of SAML to launch attacks from an identity provider like Entra ID against applications configured to use it for authentication, such as Salesforce,” Semperis",
+          "link": "https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html",
+          "publishedOn": "2024-02-29T15:21:00.000Z",
+          "wordCount": null,
+          "title": "New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_6sv5NpzuZbAcWf78ZEfAMC5xtLD2_skoPU3hluY7oPp6fi0IqgZHMHUdLwQBE5d4E6Ib_tBfzikaR1lLkjjm7KScRsahF0S3BsjC-TI4lJ0VxdW6WSk_0PAg0dfBMz1vl1vyF5ZrShqZBmyEUdCCrmIMkJKBebQu3MibEkJzgGSrqdDCJgMGQyQGFDr/s1600/ms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_6sv5NpzuZbAcWf78ZEfAMC5xtLD2_skoPU3hluY7oPp6fi0IqgZHMHUdLwQBE5d4E6Ib_tBfzikaR1lLkjjm7KScRsahF0S3BsjC-TI4lJ0VxdW6WSk_0PAg0dfBMz1vl1vyF5ZrShqZBmyEUdCCrmIMkJKBebQu3MibEkJzgGSrqdDCJgMGQyQGFDr/s1600/ms.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat hunters have discovered a new Linux malware called GTPDOOR that’s designed to be deployed in telecom networks that are adjacent to GPRS roaming exchanges (GRX)\nThe malware is novel in the fact that it leverages the GPRS Tunnelling Protocol (GTP) for command-and-control (C2) communications.\nGPRS roaming allows subscribers to access their GPRS services while they are",
