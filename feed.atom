@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-29T11:45:03.236Z</updated>
+    <updated>2024-02-29T12:18:11.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks]]></title>
+        <id>https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html</id>
+        <link href="https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html"/>
+        <updated>2024-02-29T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat hunters have discovered a new Linux malware called GTPDOOR that’s designed to be deployed in telecom networks that are adjacent to GPRS roaming exchanges (GRX)
+The malware is novel in the fact that it leverages the GPRS Tunnelling Protocol (GTP) for command-and-control (C2) communications.
+GPRS roaming allows subscribers to access their GPRS services while they are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI]]></title>
+        <id>https://thehackernews.com/2024/02/why-risk-based-approach-to.html</id>
+        <link href="https://thehackernews.com/2024/02/why-risk-based-approach-to.html"/>
+        <updated>2024-02-29T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[As an IT leader, staying on top of the latest cybersecurity developments is essential to keeping your organization safe. But with threats coming from all around — and hackers dreaming up new exploits every day — how do you create proactive, agile cybersecurity strategies? And what cybersecurity approach gives you the most bang for your buck, mitigating your risks and maximizing the value of your]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks]]></title>
+        <id>https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html</id>
+        <link href="https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html"/>
+        <updated>2024-02-29T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The notorious Lazarus Group actors exploited a recently patched privilege escalation flaw in the Windows Kernel as a zero-day to obtain kernel-level access and disable security software on compromised hosts.
+The vulnerability in question is CVE-2024-21338 (CVSS score: 7.8), which can permit an attacker to gain SYSTEM privileges. It was resolved by Microsoft earlier this month as part]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Backdoor Targeting European Officials Linked to Indian Diplomatic Events]]></title>
         <id>https://thehackernews.com/2024/02/new-backdoor-targeting-european.html</id>
