@@ -3383,16 +3383,6 @@
           "wordCount": 997,
           "title": "CERTFR-2024-AVI-0082 : Multiples vulnérabilités dans les produits Xen (31 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Spring. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0081/",
-          "publishedOn": "2024-01-31T09:23:54.000Z",
-          "wordCount": 959,
-          "title": "CERTFR-2024-AVI-0081 : Multiples vulnérabilités dans les produits Spring (31 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
