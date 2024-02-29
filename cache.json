@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "At least two different suspected China-linked cyber espionage clusters, tracked as UNC5325 and UNC3886, have been attributed to the exploitation of security flaws in Ivanti Connect Secure VPN appliances.\nUNC5325 abused CVE-2024-21893 to deliver a wide range of new malware called LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, and PITHOOK, as well as maintain persistent",
+          "link": "https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html",
+          "publishedOn": "2024-02-29T05:49:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBMGRX-FRhy6CYsKZLAVAI-R4Vq-OHFhUpTO_Ky7GF6UcUGzv6Kh0jYNdC5kTLbexZbAJ5ePXVe8uxpWGu0GVnHjUIKIJnONT-dn6y7dSF_2aQonNdE0ZqL9S-u1McXUreNtn-zlj4B6ssalzlcEsOZ-fB-aGbVYsuor2yZxvsD6GAlahvlQ7RT7oyJ0C/s1600/china.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvBMGRX-FRhy6CYsKZLAVAI-R4Vq-OHFhUpTO_Ky7GF6UcUGzv6Kh0jYNdC5kTLbexZbAJ5ePXVe8uxpWGu0GVnHjUIKIJnONT-dn6y7dSF_2aQonNdE0ZqL9S-u1McXUreNtn-zlj4B6ssalzlcEsOZ-fB-aGbVYsuor2yZxvsD6GAlahvlQ7RT7oyJ0C/s1600/china.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "U.S. President Joe Biden has issued an Executive Order that prohibits the mass transfer of citizens' personal data to countries of concern.\nThe Executive Order also \"provides safeguards around other activities that can give those countries access to Americans' sensitive data,\" the White House said in a statement.\nThis includes sensitive information such as genomic data, biometric data,",
