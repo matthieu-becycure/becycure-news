@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "U.S. President Joe Biden has issued an Executive Order that prohibits the mass transfer of citizens' personal data to countries of concern.\nThe Executive Order also \"provides safeguards around other activities that can give those countries access to Americans' sensitive data,\" the White House said in a statement.\nThis includes sensitive information such as genomic data, biometric data,",
+          "link": "https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html",
+          "publishedOn": "2024-02-29T05:03:00.000Z",
+          "wordCount": null,
+          "title": "President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh75SVYsJUnIvLV3cnEXA8YpDKxfGHi5-9CWoMh2ojBwAQwZQVOcHd2M4xlNZaFMVCPfV7t9daLqJ4JfKYZpT82aFZcLOu8Laki1XRfVjCcmzhZI9ChxHQv-LSzvCIr5aWSmRwhXL2GngFaQD-fp6E2QkGmiW8NlMQrY1IyyhF0LnVYd-hZt-xGmdKia5vf/s1600/bb.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh75SVYsJUnIvLV3cnEXA8YpDKxfGHi5-9CWoMh2ojBwAQwZQVOcHd2M4xlNZaFMVCPfV7t9daLqJ4JfKYZpT82aFZcLOu8Laki1XRfVjCcmzhZI9ChxHQv-LSzvCIr5aWSmRwhXL2GngFaQD-fp6E2QkGmiW8NlMQrY1IyyhF0LnVYd-hZt-xGmdKia5vf/s1600/bb.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/02/iran-linked-unc1549-hackers-target.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An Iran-nexus threat actor known as UNC1549 has been attributed with medium confidence to a new set of attacks targeting aerospace, aviation, and defense industries in the Middle East, including Israel and the U.A.E.\nOther targets of the cyber espionage activity likely include Turkey, India, and Albania, Google-owned Mandiant said in a new analysis.\nUNC1549 is said to overlap with",
