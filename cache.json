@@ -3363,26 +3363,6 @@
           "wordCount": 950,
           "title": "CERTFR-2024-AVI-0084 : Multiples vulnérabilités dans WordPress (31 janvier 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/",
-          "author": null,
-          "description": "Une vulnérabilité a été corrigée dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0083/",
-          "publishedOn": "2024-01-31T09:55:08.000Z",
-          "wordCount": 941,
-          "title": "CERTFR-2024-AVI-0083 : Vulnérabilité dans Microsoft Edge (31 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0082/",
-          "publishedOn": "2024-01-31T09:44:42.000Z",
-          "wordCount": 997,
-          "title": "CERTFR-2024-AVI-0082 : Multiples vulnérabilités dans les produits Xen (31 janvier 2024)",
-          "imageUrl": null
         }
       ]
     }
