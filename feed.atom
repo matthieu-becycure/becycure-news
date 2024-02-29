@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-29T17:43:36.445Z</updated>
+    <updated>2024-02-29T18:13:14.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2707,17 +2707,6 @@ Google-owned Mandiant said the attacks single out multiple industries, including
         <updated>2024-01-31T07:23:00.000Z</updated>
         <summary type="html"><![CDATA[A pair of recently disclosed zero-day flaws in Ivanti Connect Secure (ICS) virtual private network (VPN) devices have been exploited to deliver a Rust-based payload called KrustyLoader that's used to drop the open-source Sliver adversary simulation tool.
 The security vulnerabilities, tracked as CVE-2023-46805 (CVSS score: 8.2) and CVE-2024-21887 (CVSS score: 9.1), could be abused]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Glibc Flaw Grants Attackers Root Access on Major Linux Distros]]></title>
-        <id>https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html</id>
-        <link href="https://thehackernews.com/2024/01/new-glibc-flaw-grants-attackers-root.html"/>
-        <updated>2024-01-31T05:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious local attackers can obtain full root access on Linux machines by taking advantage of a newly disclosed security flaw in the GNU C library (aka glibc).
-Tracked as CVE-2023-6246, the heap-based buffer overflow vulnerability is rooted in glibc's __vsyslog_internal() function, which is used by syslog() and vsyslog() for system logging purposes. It's said to have been accidentally]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
