@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9GbwqjDI5ZHX2j9lm2Xr5CgUyVZko1iMoPIVROeVA1Hc2yktaoaqfiSvz8PaJDny0IbW0qbeAVx5A_7shsNZSDEi49FD3_-PaAnrKK4IReOLgG6xAug9YljAFwnj7w8e6mDMeR06BQLNicQflCQa9yoM93_uncynrbjU9Rt8h2PKUoxjfDhCxsAmt11y/s1600/redis.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX9GbwqjDI5ZHX2j9lm2Xr5CgUyVZko1iMoPIVROeVA1Hc2yktaoaqfiSvz8PaJDny0IbW0qbeAVx5A_7shsNZSDEi49FD3_-PaAnrKK4IReOLgG6xAug9YljAFwnj7w8e6mDMeR06BQLNicQflCQa9yoM93_uncynrbjU9Rt8h2PKUoxjfDhCxsAmt11y/s1600/redis.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google-owned Mandiant said it identified new malware employed by a China-nexus espionage threat actor known as UNC5221 and other threat groups during post-exploitation activity targeting Ivanti Connect Secure VPN and Policy Secure devices.\nThis includes custom web shells such as BUSHWALK, CHAINLINE, FRAMESTING, and a variant of LIGHTWIRE.\n\"CHAINLINE is a Python web shell backdoor that is",
-          "link": "https://thehackernews.com/2024/02/warning-new-malware-emerges-in-attacks.html",
-          "publishedOn": "2024-02-01T07:43:00.000Z",
-          "wordCount": null,
-          "title": "Warning: New Malware Emerges in Attacks Exploiting Ivanti VPN Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nrJbRs2yw5uK7rbvIOCEVk4D5JJlXr3nyA4nOVPGuibJqWzHnAG3zplhYpU896J5vbWkNkI_t_0x9zbRbaskQgAL05npMW8mpY7m5oWzjyKK966DSWjVsybc0ECoU4x9CfEqAlUHiHIXOmVW7zfk-_eT9w1sKEsISeBkqkVsLx7nhBPa-76w6Q6LJuGH/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3nrJbRs2yw5uK7rbvIOCEVk4D5JJlXr3nyA4nOVPGuibJqWzHnAG3zplhYpU896J5vbWkNkI_t_0x9zbRbaskQgAL05npMW8mpY7m5oWzjyKK966DSWjVsybc0ECoU4x9CfEqAlUHiHIXOmVW7zfk-_eT9w1sKEsISeBkqkVsLx7nhBPa-76w6Q6LJuGH/s1600/malware.jpg"
         }
       ]
     },
