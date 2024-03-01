@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti is alerting of two new high-severity flaws in its Connect Secure and Policy Secure products, one of which is said to have come under targeted exploitation in the wild.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-21888 (CVSS score: 8.8) - A privilege escalation vulnerability in the web component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows",
-          "link": "https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html",
-          "publishedOn": "2024-01-31T13:38:00.000Z",
-          "wordCount": null,
-          "title": "Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s1600/ivanti.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA5k61PTbkidOoduanUyYKdtvRQSXaU-1R7UsnykkP5zb61Xyy_XMH_1JSaOKoZ_raGCcLJ9NQq3EwUXQlHk63-E-qvzPBlWOvhlMnL362lRhs2mo065hL5kRzYXOltmToecrdqf4xrtqXzG9cogVzy_JEi1o-UluYFCbg_tg2t-YoJMqz3lGumXUc9c5g/s1600/ivanti.jpg"
         }
       ]
     },
@@ -3294,26 +3278,6 @@
           "publishedOn": "2024-02-01T12:13:12.000Z",
           "wordCount": 1115,
           "title": "CERTFR-2024-AVI-0086 : Multiples vulnérabilités dans Juniper (01 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0085/",
-          "publishedOn": "2024-01-31T13:28:07.000Z",
-          "wordCount": 1023,
-          "title": "CERTFR-2024-AVI-0085 : Multiples vulnérabilités dans les produits Ivanti (31 janvier 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0084/",
-          "publishedOn": "2024-01-31T13:01:22.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2024-AVI-0084 : Multiples vulnérabilités dans WordPress (31 janvier 2024)",
           "imageUrl": null
         }
       ]
