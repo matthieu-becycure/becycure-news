@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7NNaZN87IDYB7MQZS40FteKIFQ6VCWdVn9gRhiReCEV1kY0PTR_RwO39i8k8K-6sk19rrq7HQp6qCRpnZStl8C3EP8gIFGQNX3WIT2vsGF5u7GocvQOPuYKevGoPjon3Gz1UW2LWnCeRz7l9H7Ge3hqRLaD3e8ZxxTOYNXtjVFO0aBCpb1UVCFTQL9cak/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7NNaZN87IDYB7MQZS40FteKIFQ6VCWdVn9gRhiReCEV1kY0PTR_RwO39i8k8K-6sk19rrq7HQp6qCRpnZStl8C3EP8gIFGQNX3WIT2vsGF5u7GocvQOPuYKevGoPjon3Gz1UW2LWnCeRz7l9H7Ge3hqRLaD3e8ZxxTOYNXtjVFO0aBCpb1UVCFTQL9cak/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple security vulnerabilities have been disclosed in the runC command line tool that could be exploited by threat actors to escape the bounds of the container and stage follow-on attacks.\nThe vulnerabilities, tracked as CVE-2024-21626, CVE-2024-23651, CVE-2024-23652, and CVE-2024-23653, have been collectively dubbed Leaky Vessels by cybersecurity vendor Snyk.\n\"These container",
-          "link": "https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html",
-          "publishedOn": "2024-01-31T20:00:00.000Z",
-          "wordCount": null,
-          "title": "RunC Flaws Enable Container Escapes, Granting Attackers Host Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOhJyCjSdWpD8HPjQ3c8aq914mXWulPoKo4mgfJldIz3ZkPLUAPkAq2TyZmXkI-2V4SOIe1Sq8Nu9GaYSYYDZtPDH2LidITzVKNE3hN9FEqX2u-G-gBDzATlj9j7yjJC6CxwRG-URMO_8Ygu-L0YSlVhSDMTzBYi7g9uKBcRe1oXTLB0wi5g7ZF7TJlXNu/s1600/Linux.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-01T07:43:36.177Z</updated>
+    <updated>2024-03-01T08:12:39.383Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2600,18 +2600,6 @@ This includes custom web shells such as BUSHWALK, CHAINLINE, FRAMESTING, and a v
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting iOS, iPadOS, macOS, tvOS, and watchOS to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
 The vulnerability, tracked as CVE-2022-48618 (CVSS score: 7.8), concerns a bug in the kernel component.
 "An attacker with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RunC Flaws Enable Container Escapes, Granting Attackers Host Access]]></title>
-        <id>https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html</id>
-        <link href="https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html"/>
-        <updated>2024-01-31T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in the runC command line tool that could be exploited by threat actors to escape the bounds of the container and stage follow-on attacks.
-The vulnerabilities, tracked as CVE-2024-21626, CVE-2024-23651, CVE-2024-23652, and CVE-2024-23653, have been collectively dubbed Leaky Vessels by cybersecurity vendor Snyk.
-"These container]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
