@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-01T13:24:05.328Z</updated>
+    <updated>2024-03-01T13:43:42.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users]]></title>
+        <id>https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html</id>
+        <link href="https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html"/>
+        <updated>2024-03-01T13:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A novel phishing kit has been observed impersonating the login pages of well-known cryptocurrency services as part of an attack cluster designed to primarily target mobile devices.
+“This kit enables attackers to build carbon copies of single sign-on (SSO) pages, then use a combination of email, SMS, and voice phishing to trick the target into sharing usernames, passwords, password reset URLs,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Instructive Postmortems on Data Downtime and Loss]]></title>
         <id>https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel phishing kit has been observed impersonating the login pages of well-known cryptocurrency services as part of an attack cluster designed to primarily target mobile devices.\n“This kit enables attackers to build carbon copies of single sign-on (SSO) pages, then use a combination of email, SMS, and voice phishing to trick the target into sharing usernames, passwords, password reset URLs,",
+          "link": "https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html",
+          "publishedOn": "2024-03-01T13:32:00.000Z",
+          "wordCount": null,
+          "title": "New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_C3Sk5EoNr-PXgoOH50H_vawIOrEfOhUkpV06BdUxBle-cKMRA7ohhD3iY2lXQzyeCIVfnZ2JLh7vAV8VT8QNxynKO8cWJAGkE_juBOry95iIQOMR95USfOwTh_mU06jiQPbUEE7dnPl_4XsRYTKBoS_b-wt75U0cwgzZzdvfrdVNeHj0DKWP4tXS5K9/s1600/bitcoin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_C3Sk5EoNr-PXgoOH50H_vawIOrEfOhUkpV06BdUxBle-cKMRA7ohhD3iY2lXQzyeCIVfnZ2JLh7vAV8VT8QNxynKO8cWJAGkE_juBOry95iIQOMR95USfOwTh_mU06jiQPbUEE7dnPl_4XsRYTKBoS_b-wt75U0cwgzZzdvfrdVNeHj0DKWP4tXS5K9/s1600/bitcoin.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More than a decade ago, the concept of the ‘blameless’ postmortem changed how tech companies recognize failures at scale.\nJohn Allspaw, who coined the term during his tenure at Etsy, argued postmortems were all about controlling our natural reaction to an incident, which is to point fingers: “One option is to assume the single cause is incompetence and scream at engineers to make them",
