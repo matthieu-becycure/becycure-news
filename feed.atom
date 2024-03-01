@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-02-29T23:43:34.920Z</updated>
+    <updated>2024-03-01T00:50:54.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2624,17 +2624,6 @@ CVE-2024-21888 (CVSS score: 8.8) - A privilege escalation vulnerability in the 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Wordpress. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware]]></title>
-        <id>https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html</id>
-        <link href="https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html"/>
-        <updated>2024-01-31T12:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to the "democratization" of the phishing ecosystem owing to the emergence of Telegram as an epicenter for cybercrime, enabling threat actors to mount a mass attack for as little as $230.
-"This messaging app has transformed into a bustling hub where seasoned cybercriminals and newcomers alike exchange illicit tools and insights creating a dark and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
