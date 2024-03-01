@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-01T11:08:40.294Z</updated>
+    <updated>2024-03-01T11:23:47.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4 Instructive Postmortems on Data Downtime and Loss]]></title>
+        <id>https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html</id>
+        <link href="https://thehackernews.com/2024/03/4-instructive-postmortems-on-data.html"/>
+        <updated>2024-03-01T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[More than a decade ago, the concept of the ‘blameless’ postmortem changed how tech companies recognize failures at scale.
+John Allspaw, who coined the term during his tenure at Etsy, argued postmortems were all about controlling our natural reaction to an incident, which is to point fingers: “One option is to assume the single cause is incompetence and scream at engineers to make them]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New BIFROSE Linux Malware Variant Using Deceptive VMware Domain for Evasion]]></title>
+        <id>https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html</id>
+        <link href="https://thehackernews.com/2024/03/new-bifrose-linux-malware-variant-using.html"/>
+        <updated>2024-03-01T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new Linux variant of a remote access trojan (RAT) called BIFROSE (aka Bifrost) that uses a deceptive domain mimicking VMware.
+"This latest version of Bifrost aims to bypass security measures and compromise targeted systems," Palo Alto Networks Unit 42 researchers Anmol Maurya and Siddharth Sharma said.
+BIFROSE is one of the long-standing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities]]></title>
         <id>https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html</id>
