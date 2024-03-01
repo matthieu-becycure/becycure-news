@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-01T07:23:38.274Z</updated>
+    <updated>2024-03-01T07:43:36.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five Eyes Agencies Warn of Active Exploitation of Ivanti Gateway Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html</id>
+        <link href="https://thehackernews.com/2024/03/five-eyes-agencies-warn-of-active.html"/>
+        <updated>2024-03-01T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[The Five Eyes (FVEY) intelligence alliance has issued a new cybersecurity advisory warning of cyber threat actors exploiting known security flaws in Ivanti Connect Secure and Ivanti Policy Secure gateways, noting that the Integrity Checker Tool (ICT) can be deceived to provide a false sense of security.
+"Ivanti ICT is not sufficient to detect compromise and that a cyber threat actor may be able]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Rolls Out Default Secret Scanning Push Protection for Public Repositories]]></title>
         <id>https://thehackernews.com/2024/03/github-rolls-out-default-secret.html</id>
