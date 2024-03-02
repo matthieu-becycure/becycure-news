@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A U.S. judge has ordered NSO Group to hand over its source code for Pegasus and other products to Meta as part of the social media giant's ongoing litigation against the Israeli spyware vendor.\nThe decision, which marks a major legal victory for Meta, which filed the lawsuit in October 2019 for using its infrastructure to distribute the spyware to approximately",
+          "link": "https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html",
+          "publishedOn": "2024-03-02T06:23:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvL2MwMpUOGNYxtRnizTzpBX7MxBDEAzGMgjEKl9SHQEPpmBaLJxjzdN-55YH7KQ15BiVTjijt-QMEf4z_-AfSBhmXDViIirhNVoC23UTKNCWSEhDXBV_u08exMCFKP9zqsrx6Rjq2BOgW9YqMw0kJG1LFdpRUtQT9I5G0n5DVyxToW2cktWqtfLFTEWC/s1600/whatsapp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvL2MwMpUOGNYxtRnizTzpBX7MxBDEAzGMgjEKl9SHQEPpmBaLJxjzdN-55YH7KQ15BiVTjijt-QMEf4z_-AfSBhmXDViIirhNVoC23UTKNCWSEhDXBV_u08exMCFKP9zqsrx6Rjq2BOgW9YqMw0kJG1LFdpRUtQT9I5G0n5DVyxToW2cktWqtfLFTEWC/s1600/whatsapp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) on Friday unsealed an indictment against an Iranian national for his alleged involvement in a multi-year cyber-enabled campaign designed to compromise U.S. governmental and private entities.\nMore than a dozen entities are said to have been targeted, including the U.S. Departments of the Treasury and State, defense contractors that support U.S. Department of",

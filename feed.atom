@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T06:43:48.709Z</updated>
+    <updated>2024-03-02T07:08:18.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp]]></title>
+        <id>https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html</id>
+        <link href="https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html"/>
+        <updated>2024-03-02T06:23:00.000Z</updated>
+        <summary type="html"><![CDATA[A U.S. judge has ordered NSO Group to hand over its source code for Pegasus and other products to Meta as part of the social media giant's ongoing litigation against the Israeli spyware vendor.
+The decision, which marks a major legal victory for Meta, which filed the lawsuit in October 2019 for using its infrastructure to distribute the spyware to approximately]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Charges Iranian Hacker, Offers $10 Million Reward for Capture]]></title>
         <id>https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html</id>
