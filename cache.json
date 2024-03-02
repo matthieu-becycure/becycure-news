@@ -3303,26 +3303,6 @@
           "wordCount": 1017,
           "title": "CERTFR-2024-AVI-0088 : Multiples vulnérabilités dans Microsoft Edge (02 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0087/",
-          "publishedOn": "2024-02-01T12:15:13.000Z",
-          "wordCount": 988,
-          "title": "CERTFR-2024-AVI-0087 : Multiples vulnérabilités dans les produits GLPI (01 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Juniper. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0086/",
-          "publishedOn": "2024-02-01T12:13:12.000Z",
-          "wordCount": 1115,
-          "title": "CERTFR-2024-AVI-0086 : Multiples vulnérabilités dans Juniper (01 février 2024)",
-          "imageUrl": null
         }
       ]
     }
