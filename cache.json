@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqy5-MRRGyoCTA2O0QQiy0RvBbfjBfb0TVNvwZ8sVIfPIVrxSOeCcLsSM_NBkPZfM330CiN_kBdyFiVb-0t6GdhMPJ5M7cKxnbBtuWBEXnBzYsL4A5Awwk7vaxQ0fBjTXj96t4GrGxC6S_aje7KAEftuALuA-W708DVfaH8S2VTlqdHJfq21gu7Mupj5n4/s1600/cloudflare.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqy5-MRRGyoCTA2O0QQiy0RvBbfjBfb0TVNvwZ8sVIfPIVrxSOeCcLsSM_NBkPZfM330CiN_kBdyFiVb-0t6GdhMPJ5M7cKxnbBtuWBEXnBzYsL4A5Awwk7vaxQ0fBjTXj96t4GrGxC6S_aje7KAEftuALuA-W708DVfaH8S2VTlqdHJfq21gu7Mupj5n4/s1600/cloudflare.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor behind a peer-to-peer (P2P) botnet known as FritzFrog has made a return with a new variant that leverages the Log4Shell vulnerability to propagate internally within an already compromised network.\n\"The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible,\" web infrastructure and security",
-          "link": "https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html",
-          "publishedOn": "2024-02-01T15:44:00.000Z",
-          "wordCount": null,
-          "title": "FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPr81DASLMYFC5az8KlOL0TnT171kAV2s_Cfve7t5W3bb9FzzB9MDTru7ykbpM3uelGLtlCKkkhdR1oNiYpNRK-g-YpN7OLKZ_z5bOijTHda9do0YT7U80AOhC3bbqgCT_yFmi88-qIE4_LulCP0m7x2aW4OWl0LTipYEkbsupnKSjA8cLcIiQjZNbrvI/s1600/botnet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPr81DASLMYFC5az8KlOL0TnT171kAV2s_Cfve7t5W3bb9FzzB9MDTru7ykbpM3uelGLtlCKkkhdR1oNiYpNRK-g-YpN7OLKZ_z5bOijTHda9do0YT7U80AOhC3bbqgCT_yFmi88-qIE4_LulCP0m7x2aW4OWl0LTipYEkbsupnKSjA8cLcIiQjZNbrvI/s1600/botnet.jpg"
         }
       ]
     },

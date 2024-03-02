@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T03:43:41.430Z</updated>
+    <updated>2024-03-02T04:11:39.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2595,17 +2595,6 @@ Involving 60 law]]></summary>
         <updated>2024-02-02T06:21:00.000Z</updated>
         <summary type="html"><![CDATA[Cloudflare has revealed that it was the target of a likely nation-state attack in which the threat actor leveraged stolen credentials to gain unauthorized access to its Atlassian server and ultimately access some documentation and a limited amount of source code.
 The intrusion, which took place between November 14 and 24, 2023, and detected on November 23, was carried out "with the goal of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network]]></title>
-        <id>https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html</id>
-        <link href="https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html"/>
-        <updated>2024-02-01T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor behind a peer-to-peer (P2P) botnet known as FritzFrog has made a return with a new variant that leverages the Log4Shell vulnerability to propagate internally within an already compromised network.
-"The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible," web infrastructure and security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
