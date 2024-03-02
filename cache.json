@@ -3277,16 +3277,6 @@
           "wordCount": 945,
           "title": "CERTFR-2024-AVI-0089 : Vulnérabilité dans Kaspersky Security pour Linux Mail Server (02 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0088/",
-          "publishedOn": "2024-02-02T08:33:22.000Z",
-          "wordCount": 1017,
-          "title": "CERTFR-2024-AVI-0088 : Multiples vulnérabilités dans Microsoft Edge (02 février 2024)",
-          "imageUrl": null
         }
       ]
     }
