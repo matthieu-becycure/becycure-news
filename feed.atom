@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T22:09:21.555Z</updated>
+    <updated>2024-03-02T22:26:26.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2574,18 +2574,6 @@ Joshua Adam Schulte, 35, was originally charged in June 2018. He was found guil
         <link href="https://thehackernews.com/2024/02/cloudzy-elevates-cybersecurity.html"/>
         <updated>2024-02-02T10:30:00.000Z</updated>
         <summary type="html"><![CDATA[Cloudzy, a prominent cloud infrastructure provider, proudly announces a significant enhancement in its cybersecurity landscape. This breakthrough has been achieved through a recent consultation with Recorded Future, a leader in providing real-time threat intelligence and cybersecurity analytics. This initiative, coupled with an overhaul of Cloudzy's cybersecurity strategies, represents a major]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INTERPOL Arrests 31 in Global Operation, Identifies 1,900+ Ransomware-Linked IPs]]></title>
-        <id>https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html</id>
-        <link href="https://thehackernews.com/2024/02/interpol-arrests-31-in-global-operation.html"/>
-        <updated>2024-02-02T10:23:00.000Z</updated>
-        <summary type="html"><![CDATA[An INTERPOL-led collaborative operation targeting phishing, banking malware, and ransomware attacks has led to the identification of 1,300 suspicious IP addresses and URLs.
-The law enforcement effort, codenamed Synergia, took place between September and November 2023 in an attempt to blunt the "growth, escalation and professionalization of transnational cybercrime."
-Involving 60 law]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
