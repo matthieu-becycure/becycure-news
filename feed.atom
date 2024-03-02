@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T05:10:01.729Z</updated>
+    <updated>2024-03-02T05:26:18.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Charges Iranian Hacker, Offers $10 Million Reward for Capture]]></title>
+        <id>https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html</id>
+        <link href="https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html"/>
+        <updated>2024-03-02T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Friday unsealed an indictment against an Iranian national for his alleged involvement in a multi-year cyber-enabled campaign designed to compromise U.S. governmental and private entities.
+More than a dozen entities are said to have been targeted, including the U.S. Departments of the Treasury and State, defense contractors that support U.S. Department of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0180 : Multiples vulnérabilités dans les produits IBM (01 mars 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/</id>

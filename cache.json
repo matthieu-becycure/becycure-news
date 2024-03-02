@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) on Friday unsealed an indictment against an Iranian national for his alleged involvement in a multi-year cyber-enabled campaign designed to compromise U.S. governmental and private entities.\nMore than a dozen entities are said to have been targeted, including the U.S. Departments of the Treasury and State, defense contractors that support U.S. Department of",
+          "link": "https://thehackernews.com/2024/03/us-charges-iranian-hacker-offers-10.html",
+          "publishedOn": "2024-03-02T04:38:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Charges Iranian Hacker, Offers $10 Million Reward for Capture",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdnAjxZoZFy9ApNVe9Fza9TXDjBCIQIW6SQWoVS2voFeHKvVgWehhKYL3v5k9MbNSWUcnZE-FcZ-yJtq3zbJnxT6oZIaob1zGdP5fEuShOxdeOhcovwPq9dP1WHs0-c3vCbvI3EG8o6IUmw7gQNjcVowOrrMo8_XGZsySOkBolRuvpo5uw2sy4zfD24JR/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdnAjxZoZFy9ApNVe9Fza9TXDjBCIQIW6SQWoVS2voFeHKvVgWehhKYL3v5k9MbNSWUcnZE-FcZ-yJtq3zbJnxT6oZIaob1zGdP5fEuShOxdeOhcovwPq9dP1WHs0-c3vCbvI3EG8o6IUmw7gQNjcVowOrrMo8_XGZsySOkBolRuvpo5uw2sy4zfD24JR/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A novel phishing kit has been observed impersonating the login pages of well-known cryptocurrency services as part of an attack cluster designed to primarily target mobile devices.\n“This kit enables attackers to build carbon copies of single sign-on (SSO) pages, then use a combination of email, SMS, and voice phishing to trick the target into sharing usernames, passwords, password reset URLs,",
