@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T22:26:26.229Z</updated>
+    <updated>2024-03-02T22:43:42.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2555,27 +2555,6 @@ DirtyMoe, active since at least 2016, is capable of carrying out cryptojacking a
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une exécution de code arbitraire à distance et une atteinte à la confidentialité …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former CIA Engineer Sentenced to 40 Years for Leaking Classified Documents]]></title>
-        <id>https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html</id>
-        <link href="https://thehackernews.com/2024/02/former-cia-engineer-sentenced-to-40.html"/>
-        <updated>2024-02-02T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[A former software engineer with the U.S. Central Intelligence Agency (CIA) has been sentenced to 40 years in prison by the Southern District of New York (SDNY) for transmitting classified documents to WikiLeaks and for possessing child pornographic material.
-Joshua Adam Schulte, 35, was originally charged in June 2018. He was found guilty in July 2022. On September 13, 2023, he was&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudzy Elevates Cybersecurity: Integrating Insights from Recorded Future to Revolutionize Cloud Security]]></title>
-        <id>https://thehackernews.com/2024/02/cloudzy-elevates-cybersecurity.html</id>
-        <link href="https://thehackernews.com/2024/02/cloudzy-elevates-cybersecurity.html"/>
-        <updated>2024-02-02T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloudzy, a prominent cloud infrastructure provider, proudly announces a significant enhancement in its cybersecurity landscape. This breakthrough has been achieved through a recent consultation with Recorded Future, a leader in providing real-time threat intelligence and cybersecurity analytics. This initiative, coupled with an overhaul of Cloudzy's cybersecurity strategies, represents a major]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
