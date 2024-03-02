@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-02T00:43:54.330Z</updated>
+    <updated>2024-03-02T01:39:37.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2606,17 +2606,6 @@ The intrusion, which took place between November 14 and 24, 2023, and detected o
         <updated>2024-02-01T15:44:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actor behind a peer-to-peer (P2P) botnet known as FritzFrog has made a return with a new variant that leverages the Log4Shell vulnerability to propagate internally within an already compromised network.
 "The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible," web infrastructure and security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign]]></title>
-        <id>https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html</id>
-        <link href="https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html"/>
-        <updated>2024-02-01T13:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Exposed Docker API endpoints over the internet are under assault from a sophisticated cryptojacking campaign called Commando Cat.
-"The campaign deploys a benign container generated using the Commando project," Cado security researchers Nate Bill and Matt Muir said in a new report published today. "The attacker escapes this container and runs multiple payloads on the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
