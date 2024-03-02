@@ -3267,16 +3267,6 @@
           "wordCount": 1168,
           "title": "CERTFR-2024-AVI-0090 : Multiples vulnérabilités dans les produits IBM (02 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Kaspersky Security pour Linux Mail Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0089/",
-          "publishedOn": "2024-02-02T10:09:03.000Z",
-          "wordCount": 945,
-          "title": "CERTFR-2024-AVI-0089 : Vulnérabilité dans Kaspersky Security pour Linux Mail Server (02 février 2024)",
-          "imageUrl": null
         }
       ]
     }
