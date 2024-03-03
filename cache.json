@@ -3173,16 +3173,6 @@
           "wordCount": 929,
           "title": "CERTFR-2024-AVI-0093 : Vulnérabilité dans NetApp StorageGRID (05 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0092/",
-          "publishedOn": "2024-02-02T13:49:56.000Z",
-          "wordCount": 1172,
-          "title": "CERTFR-2024-AVI-0092 : Multiples vulnérabilités dans le noyau Linux de RedHat (02 février 2024)",
-          "imageUrl": null
         }
       ]
     }
