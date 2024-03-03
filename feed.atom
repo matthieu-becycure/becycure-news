@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-03T19:23:41.501Z</updated>
+    <updated>2024-03-03T19:43:49.482Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2465,17 +2465,6 @@ Nine of the 35 individuals have been publicly confirmed as targeted, out of w
         <summary type="html"><![CDATA[The threat actors behind the Mispadu banking Trojan have become the latest to exploit a now-patched Windows SmartScreen security bypass flaw to compromise users in Mexico.
 The attacks entail a new variant of the malware that was first observed in 2019, Palo Alto Networks Unit 42 said in a report published last week.
 Propagated via phishing mails, Mispadu is a Delphi-based information stealer]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html</id>
-        <link href="https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html"/>
-        <updated>2024-02-03T07:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries.
-The officials include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
