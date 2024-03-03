@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-03T15:43:34.835Z</updated>
+    <updated>2024-03-03T16:10:55.122Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2488,18 +2488,6 @@ The officials include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfa
         <summary type="html"><![CDATA[The decentralized social network Mastodon has disclosed a critical security flaw that enables malicious actors to impersonate and take over any account.
 "Due to insufficient origin validation in all Mastodon, attackers can impersonate and take over any remote account," the maintainers said in a terse advisory.
 The vulnerability, tracked as CVE-2024-23832, has a severity rating of 9.4 out of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset]]></title>
-        <id>https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html</id>
-        <link href="https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html"/>
-        <updated>2024-02-03T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Remote desktop software maker AnyDesk disclosed on Friday that it suffered a cyber attack that led to a compromise of its production systems.
-The German company said the incident, which it discovered following a security audit, is not a ransomware attack and that it has notified relevant authorities.
-"We have revoked all security-related certificates and systems have been remediated or replaced]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
