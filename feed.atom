@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-03T18:43:26.062Z</updated>
+    <updated>2024-03-03T19:07:20.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2476,18 +2476,6 @@ Propagated via phishing mails, Mispadu is a Delphi-based information stealer]]><
         <updated>2024-02-03T07:33:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries.
 The officials include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account]]></title>
-        <id>https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html</id>
-        <link href="https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html"/>
-        <updated>2024-02-03T06:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The decentralized social network Mastodon has disclosed a critical security flaw that enables malicious actors to impersonate and take over any account.
-"Due to insufficient origin validation in all Mastodon, attackers can impersonate and take over any remote account," the maintainers said in a terse advisory.
-The vulnerability, tracked as CVE-2024-23832, has a severity rating of 9.4 out of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
