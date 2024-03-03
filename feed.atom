@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-03T02:43:23.243Z</updated>
+    <updated>2024-03-03T03:10:26.625Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2500,17 +2500,6 @@ The vulnerability, tracked as CVE-2024-23832, has a severity rating of 9.4 out 
         <summary type="html"><![CDATA[Remote desktop software maker AnyDesk disclosed on Friday that it suffered a cyber attack that led to a compromise of its production systems.
 The German company said the incident, which it discovered following a security audit, is not a ransomware attack and that it has notified relevant authorities.
 "We have revoked all security-related certificates and systems have been remediated or replaced]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks]]></title>
-        <id>https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html</id>
-        <link href="https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html"/>
-        <updated>2024-02-02T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Russian state-sponsored actors have staged NT LAN Manager (NTLM) v2 hash relay attacks through various methods from April 2022 to November 2023, targeting high-value targets worldwide.
-The attacks, attributed to an "aggressive" hacking crew called APT28, have set their eyes on organizations dealing with foreign affairs, energy, defense, and transportation, as well as those involved with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
