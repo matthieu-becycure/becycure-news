@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-04T14:26:33.321Z</updated>
+    <updated>2024-03-04T14:43:45.304Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Cybercriminals are Exploiting India's UPI for Money Laundering Operations]]></title>
+        <id>https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html</id>
+        <link href="https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html"/>
+        <updated>2024-03-04T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybercriminals are using a network of hired money mules in India using an Android-based application to orchestrate a massive money laundering scheme.
+The malicious application, called XHelper, is a "key tool for onboarding and managing these money mules," CloudSEK researchers Sparsh Kulshrestha, Abhishek Mathew, and Santripti Bhujel said in a report.
+Details about the scam]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies]]></title>
         <id>https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html</id>

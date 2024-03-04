@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybercriminals are using a network of hired money mules in India using an Android-based application to orchestrate a massive money laundering scheme.\nThe malicious application, called XHelper, is a \"key tool for onboarding and managing these money mules,\" CloudSEK researchers Sparsh Kulshrestha, Abhishek Mathew, and Santripti Bhujel said in a report.\nDetails about the scam",
+          "link": "https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html",
+          "publishedOn": "2024-03-04T13:50:00.000Z",
+          "wordCount": null,
+          "title": "How Cybercriminals are Exploiting India's UPI for Money Laundering Operations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7UlF3t8A4qhmjjspDI-z5PXqsiUOKNVp-2TXhyphenhyphenhsRHc5VI01lZ3wJtBdzrrmkASExTxq_b7aXNvXEUr38JOQXLJXFxKFWUudHR6f2YNDzlVVlkLXbCFv8cCuoj41F_T4hcpjyE1IRont-GD_zstLuovz5dN5e7GlbFsgdI3mPH4VXWaP4jgLl2SWkBIj3/s1600/fraud.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7UlF3t8A4qhmjjspDI-z5PXqsiUOKNVp-2TXhyphenhyphenhsRHc5VI01lZ3wJtBdzrrmkASExTxq_b7aXNvXEUr38JOQXLJXFxKFWUudHR6f2YNDzlVVlkLXbCFv8cCuoj41F_T4hcpjyE1IRont-GD_zstLuovz5dN5e7GlbFsgdI3mPH4VXWaP4jgLl2SWkBIj3/s1600/fraud.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A company’s lifecycle stage, size, and state have a significant impact on its security needs, policies, and priorities. This is particularly true for modern mid-market companies that are either experiencing or have experienced rapid growth. As requirements and tasks continue to accumulate and malicious actors remain active around the clock, budgets are often stagnant at best. Yet, it is crucial",
