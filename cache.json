@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A company’s lifecycle stage, size, and state have a significant impact on its security needs, policies, and priorities. This is particularly true for modern mid-market companies that are either experiencing or have experienced rapid growth. As requirements and tasks continue to accumulate and malicious actors remain active around the clock, budgets are often stagnant at best. Yet, it is crucial",
+          "link": "https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html",
+          "publishedOn": "2024-03-04T11:12:00.000Z",
+          "wordCount": null,
+          "title": "From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s1600/wing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s1600/wing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/over-100-malicious-aiml-models-found-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As many as 100 malicious artificial intelligence (AI)/machine learning (ML) models have been discovered in the Hugging Face platform.\nThese include instances where loading a pickle file leads to code execution, software supply chain security firm JFrog said.\n\"The model's payload grants the attacker a shell on the compromised machine, enabling them to gain full control over victims'",
