@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-05T23:09:32.281Z</updated>
+    <updated>2024-03-05T23:23:37.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2577,26 +2577,6 @@ BTC-e, which had]]></summary>
         <updated>2024-02-05T13:18:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actor known as Patchwork likely used romance scam lures to trap victims in Pakistan and India, and infect their Android devices with a remote access trojan called VajraSpy.
 Slovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which were available for download from the official Google Play Store and were collectively downloaded more than 1,400 times between]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-On Review: SASE-based XDR from Cato Networks]]></title>
-        <id>https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html</id>
-        <link href="https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html"/>
-        <updated>2024-02-05T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Companies are engaged in a seemingly endless cat-and-mouse game when it comes to cybersecurity and cyber threats. As organizations put up one defensive block after another, malicious actors kick their game up a notch to get around those blocks. Part of the challenge is to coordinate the defensive abilities of disparate security tools, even as organizations have limited resources and a dearth of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combined Security Practices Changing the Game for Risk Management]]></title>
-        <id>https://thehackernews.com/2024/02/combined-security-practices-changing.html</id>
-        <link href="https://thehackernews.com/2024/02/combined-security-practices-changing.html"/>
-        <updated>2024-02-05T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
