@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-05T11:23:40.002Z</updated>
+    <updated>2024-03-05T11:43:45.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Exposure Management and How Does it Differ from ASM?]]></title>
+        <id>https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html</id>
+        <link href="https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html"/>
+        <updated>2024-03-05T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Startups and scales-ups are often cloud-first organizations and rarely have sprawling legacy on-prem environments. Likewise, knowing the agility and flexibility that cloud environments provide, the mid-market is predominantly running in a hybrid state, partly in the cloud but with some on-prem assets.
+While there has been a bit of a backswing against the pricing and lock-in presented when using]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams]]></title>
+        <id>https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html</id>
+        <link href="https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html"/>
+        <updated>2024-03-05T10:53:00.000Z</updated>
+        <summary type="html"><![CDATA[A new DNS threat actor dubbed Savvy Seahorse is leveraging sophisticated techniques to entice targets into fake investment platforms and steal funds.
+“Savvy Seahorse is a DNS threat actor who convinces victims to create accounts on fake investment platforms, make deposits to a personal account, and then transfers those deposits to a bank in Russia,” Infoblox said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets]]></title>
+        <id>https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html</id>
+        <link href="https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html"/>
+        <updated>2024-03-05T10:38:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 225,000 logs containing compromised OpenAI ChatGPT credentials were made available for sale on underground markets between January and October 2023, new findings from Group-IB show.
+These credentials were found within information stealer logs associated with LummaC2, Raccoon, and RedLine stealer malware.
+“The number of infected devices decreased slightly in mid- and late]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes]]></title>
         <id>https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html</id>

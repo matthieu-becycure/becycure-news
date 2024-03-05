@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Startups and scales-ups are often cloud-first organizations and rarely have sprawling legacy on-prem environments. Likewise, knowing the agility and flexibility that cloud environments provide, the mid-market is predominantly running in a hybrid state, partly in the cloud but with some on-prem assets.\nWhile there has been a bit of a backswing against the pricing and lock-in presented when using",
+          "link": "https://thehackernews.com/2024/03/what-is-exposure-management-and-how.html",
+          "publishedOn": "2024-03-05T10:55:00.000Z",
+          "wordCount": null,
+          "title": "What is Exposure Management and How Does it Differ from ASM?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpQAbx1Lf4aNmx3Kmc8Me22HhWe_-vgF7xWdMIq0HmMyMrLDdwATPKsbdT-J5KRe1Z7W1k0ChsTbINmpmxwcWZTPGc6eNya4HoEROGW-u2BqTlcobVrFlHaGxPXKtCDUMGrYS6cSEgqX-aQXiTVSbw2MUmxIGDDNDbL_nsDTxmeR2t5QK-xviK9rmd3Ek/s1600/in.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpQAbx1Lf4aNmx3Kmc8Me22HhWe_-vgF7xWdMIq0HmMyMrLDdwATPKsbdT-J5KRe1Z7W1k0ChsTbINmpmxwcWZTPGc6eNya4HoEROGW-u2BqTlcobVrFlHaGxPXKtCDUMGrYS6cSEgqX-aQXiTVSbw2MUmxIGDDNDbL_nsDTxmeR2t5QK-xviK9rmd3Ek/s1600/in.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new DNS threat actor dubbed Savvy Seahorse is leveraging sophisticated techniques to entice targets into fake investment platforms and steal funds.\n“Savvy Seahorse is a DNS threat actor who convinces victims to create accounts on fake investment platforms, make deposits to a personal account, and then transfers those deposits to a bank in Russia,” Infoblox said in a report",
+          "link": "https://thehackernews.com/2024/03/cybercriminals-using-novel-dns.html",
+          "publishedOn": "2024-03-05T10:53:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Using Novel DNS Hijacking Technique for Investment Scams",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQ_-tsESax3W-oWScC3Oryrn26kripICgK0eKDzhyFua-GlWVfzuRDP9chLSSNXzbsCGVqhaarsHwdHCPD4KXutx1Q4UN50X3P5mMjD-tAR9I06bSy93m_sB-ArORs7vsoDGldHiaYGtp0PLavuIgYxAYM1eXq6ekcgfVImj996D1DDr0NQ-lCm9GHjBt/s1600/info.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSQ_-tsESax3W-oWScC3Oryrn26kripICgK0eKDzhyFua-GlWVfzuRDP9chLSSNXzbsCGVqhaarsHwdHCPD4KXutx1Q4UN50X3P5mMjD-tAR9I06bSy93m_sB-ArORs7vsoDGldHiaYGtp0PLavuIgYxAYM1eXq6ekcgfVImj996D1DDr0NQ-lCm9GHjBt/s1600/info.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "More than 225,000 logs containing compromised OpenAI ChatGPT credentials were made available for sale on underground markets between January and October 2023, new findings from Group-IB show.\nThese credentials were found within information stealer logs associated with LummaC2, Raccoon, and RedLine stealer malware.\n“The number of infected devices decreased slightly in mid- and late",
+          "link": "https://thehackernews.com/2024/03/over-225000-compromised-chatgpt.html",
+          "publishedOn": "2024-03-05T10:38:00.000Z",
+          "wordCount": null,
+          "title": "Over 225,000 Compromised ChatGPT Credentials Up for Sale on Dark Web Markets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggmz8clVVtj3iZtAB7BjON9w8ClJrSdm6h0IwP-KzghDtIZaU6F7bun4L9gD2xFV0FVyH3WftBUFel0qtLt7LDt9uLOAzSzlQuVxopMHBKDmXuf6XwX-8zU400vuYeuswYPsc_eQD2H9a_c_0Y-UVsEwYcXuQzoqB90JNHkGJDaEoW4uPzJco2k0v4t7nI/s1600/chatgpt.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggmz8clVVtj3iZtAB7BjON9w8ClJrSdm6h0IwP-KzghDtIZaU6F7bun4L9gD2xFV0FVyH3WftBUFel0qtLt7LDt9uLOAzSzlQuVxopMHBKDmXuf6XwX-8zU400vuYeuswYPsc_eQD2H9a_c_0Y-UVsEwYcXuQzoqB90JNHkGJDaEoW4uPzJco2k0v4t7nI/s1600/chatgpt.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as TA577 has been observed using ZIP archive attachments in phishing emails with an aim to steal NT LAN Manager (NTLM) hashes.\nThe new attack chain “can be used for sensitive information gathering purposes and to enable follow-on activity,” enterprise security firm Proofpoint said in a Monday report.\nAt least two campaigns taking advantage of this",
