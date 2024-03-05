@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new pair of security vulnerabilities have been disclosed in JetBrains TeamCity On-Premises software that could be exploited by a threat actor to take control of affected systems.\nThe flaws, tracked as CVE-2024-27198 (CVSS score: 9.8) and CVE-2024-27199 (CVSS score: 7.3), have been addressed in version 2023.11.4. They impact all TeamCity On-Premises versions through 2023.11.3.\n“The",
+          "link": "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html",
+          "publishedOn": "2024-03-05T03:34:00.000Z",
+          "wordCount": null,
+          "title": "Critical JetBrains TeamCity On-Premises Flaws Could Lead to Server Takeovers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCqGYt0q9niL4Vwf6sQE24Pqey0pXDUiRUtC45OlKfejfvOS1pMpKb30co5jYcx_Ilux3RY29VrE8vcdjCA4gdXhHqDupRuhWB6Glu5nFTnZ9d28-BYqjS7QMgrieFft9oBIKULwAL2VXPQJX-TZeal8XYAHezQv4KufD7Rn3jZyQ6jf8Zxt5dSxKAubrC/s1600/exploit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCqGYt0q9niL4Vwf6sQE24Pqey0pXDUiRUtC45OlKfejfvOS1pMpKb30co5jYcx_Ilux3RY29VrE8vcdjCA4gdXhHqDupRuhWB6Glu5nFTnZ9d28-BYqjS7QMgrieFft9oBIKULwAL2VXPQJX-TZeal8XYAHezQv4KufD7Rn3jZyQ6jf8Zxt5dSxKAubrC/s1600/exploit.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybercriminals are using a network of hired money mules in India using an Android-based application to orchestrate a massive money laundering scheme.\nThe malicious application, called XHelper, is a \"key tool for onboarding and managing these money mules,\" CloudSEK researchers Sparsh Kulshrestha, Abhishek Mathew, and Santripti Bhujel said in a report.\nDetails about the scam",

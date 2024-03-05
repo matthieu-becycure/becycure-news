@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-05T03:25:46.373Z</updated>
+    <updated>2024-03-05T03:43:44.199Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical JetBrains TeamCity On-Premises Flaws Could Lead to Server Takeovers]]></title>
+        <id>https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html</id>
+        <link href="https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html"/>
+        <updated>2024-03-05T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[A new pair of security vulnerabilities have been disclosed in JetBrains TeamCity On-Premises software that could be exploited by a threat actor to take control of affected systems.
+The flaws, tracked as CVE-2024-27198 (CVSS score: 9.8) and CVE-2024-27199 (CVSS score: 7.3), have been addressed in version 2023.11.4. They impact all TeamCity On-Premises versions through 2023.11.3.
+“The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Cybercriminals are Exploiting India's UPI for Money Laundering Operations]]></title>
         <id>https://thehackernews.com/2024/03/how-cybercriminals-are-exploiting.html</id>
