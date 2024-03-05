@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as TA577 has been observed using ZIP archive attachments in phishing emails with an aim to steal NT LAN Manager (NTLM) hashes.\nThe new attack chain “can be used for sensitive information gathering purposes and to enable follow-on activity,” enterprise security firm Proofpoint said in a Monday report.\nAt least two campaigns taking advantage of this",
+          "link": "https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html",
+          "publishedOn": "2024-03-05T10:25:00.000Z",
+          "wordCount": null,
+          "title": "Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nenSi9LuwDRIIJN6aqJT_DVuWYXh3Kr6nZIbvkDFaT0OOgTYY-mSrKaJz5CbzEFWUKviHpBd5XBv-t0XeSwZvCEOscyyHlfHtfUhKJZemSNj2Yef7w9Apw4zFGzvchjhMSptokaBNgt3gWQv38aiTWbxt3vuSP_PH4ZQLOwf9wqbDEO2zDWoOq302PdK/s1600/email.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_nenSi9LuwDRIIJN6aqJT_DVuWYXh3Kr6nZIbvkDFaT0OOgTYY-mSrKaJz5CbzEFWUKviHpBd5XBv-t0XeSwZvCEOscyyHlfHtfUhKJZemSNj2Yef7w9Apw4zFGzvchjhMSptokaBNgt3gWQv38aiTWbxt3vuSP_PH4ZQLOwf9wqbDEO2zDWoOq302PdK/s1600/email.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/critical-jetbrains-teamcity-on-premises.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new pair of security vulnerabilities have been disclosed in JetBrains TeamCity On-Premises software that could be exploited by a threat actor to take control of affected systems.\nThe flaws, tracked as CVE-2024-27198 (CVSS score: 9.8) and CVE-2024-27199 (CVSS score: 7.3), have been addressed in version 2023.11.4. They impact all TeamCity On-Premises versions through 2023.11.3.\n“The",
