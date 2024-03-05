@@ -3277,16 +3277,6 @@
           "wordCount": 1473,
           "title": "CERTFR-2024-AVI-0094 : Multiples vulnérabilités dans les produits Qnap (05 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans  NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/",
-          "publishedOn": "2024-02-05T09:19:55.000Z",
-          "wordCount": 929,
-          "title": "CERTFR-2024-AVI-0093 : Vulnérabilité dans NetApp StorageGRID (05 février 2024)",
-          "imageUrl": null
         }
       ]
     }

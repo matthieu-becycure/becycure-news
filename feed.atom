@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-05T21:09:31.757Z</updated>
+    <updated>2024-03-05T21:23:41.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2599,16 +2599,6 @@ Slovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which
         <summary type="html"><![CDATA[A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0093 : Vulnérabilité dans NetApp StorageGRID (05 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0093/"/>
-        <updated>2024-02-05T09:19:55.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans  NetApp StorageGRID. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
