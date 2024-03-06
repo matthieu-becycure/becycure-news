@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T16:43:47.024Z</updated>
+    <updated>2024-03-06T17:09:40.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2662,17 +2662,6 @@ Singapore-headquartered Group-IB said the hacking crew's activities are geared t
         <summary type="html"><![CDATA[A recently disclosed server-side request forgery (SSRF) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation.
 The Shadowserver Foundation said it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others.
 The attacks exploit CVE-2024-21893 (CVSS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance]]></title>
-        <id>https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html</id>
-        <link href="https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html"/>
-        <updated>2024-02-06T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. State Department said it's implementing a new policy that imposes visa restrictions on individuals who are linked to the illegal use of commercial spyware to surveil civil society members.
-"The misuse of commercial spyware threatens privacy and freedoms of expression, peaceful assembly, and association," Secretary of State Antony Blinken said. "Such targeting has been]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
