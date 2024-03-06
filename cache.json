@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Every Google Workspace administrator knows how quickly Google Drive becomes a messy sprawl of loosely shared confidential information. This isn't anyone's fault; it’s inevitable as your productivity suite is purposefully designed to enable real-time collaboration – both internally and externally. \nFor Security & Risk Management teams, the untenable risk of any Google Drive footprint",
+          "link": "https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html",
+          "publishedOn": "2024-03-06T09:48:00.000Z",
+          "wordCount": null,
+          "title": "How to Find and Fix Risky Sharing in Google Drive",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s1600/mm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s1600/mm.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-cracks-down-on-predatory-spyware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) sanctioned two individuals and five entities associated with the Intellexa Alliance for their role in “developing, operating, and distributing” commercial spyware designed to target government officials, journalists, and policy experts in the country.\n“The proliferation of commercial spyware poses distinct and growing",
