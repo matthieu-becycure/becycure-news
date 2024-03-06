@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T07:09:57.065Z</updated>
+    <updated>2024-03-06T07:24:01.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: GhostSec and Stormous Launch Joint Ransomware Attacks in Over 15 Countries]]></title>
+        <id>https://thehackernews.com/2024/03/alert-ghostsec-and-stormous-launch.html</id>
+        <link href="https://thehackernews.com/2024/03/alert-ghostsec-and-stormous-launch.html"/>
+        <updated>2024-03-06T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The cybercrime group called GhostSec has been linked to a Golang variant of a ransomware family called GhostLocker.
+“TheGhostSec and Stormous ransomware groups are jointly conducting double extortion ransomware attacks on various business verticals in multiple countries,” Cisco Talos researcher Chetan Raghuprasad said in a report shared with The Hacker News.
+“GhostLocker and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New APT Group 'Lotus Bane' Behind Recent Attacks on Vietnam's Financial Entities]]></title>
+        <id>https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html</id>
+        <link href="https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html"/>
+        <updated>2024-03-06T07:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A financial entity in Vietnam was the target of a previously undocumented threat actor called Lotus Bane that was first detected in March 2023.
+Singapore-headquartered Group-IB described the hacking outfit as an advanced persistent threat group that's believed to have been active since at least 2022.
+The exact specifics of the infection chain remain unknown as yet, but it involves the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urgent: Apple Issues Critical Updates for Actively Exploited Zero-Day Flaws]]></title>
         <id>https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html</id>
