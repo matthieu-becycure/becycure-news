@@ -3183,16 +3183,6 @@
           "wordCount": 1060,
           "title": "CERTFR-2024-AVI-0095 : Multiples vulnérabilités dans les produits Axis (06 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
-          "author": null,
-          "description": "Le 29 janvier 2024 l'ANSSI a été alertée par le BSI que l'éditeur AnyDesk Software GmbH a été victime d'une fuite de données. Le code source des applications développées par l'éditeur ainsi que des certificats et clés privées pourraient avoir été dérobés.\n L'éditeur est spécialisé dans …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-003/",
-          "publishedOn": "2024-02-05T16:52:00.000Z",
-          "wordCount": 1930,
-          "title": "CERTFR-2024-ALE-003 : Multiples vulnérabilités affectant la solution Anydesk (05 février 2024)",
-          "imageUrl": null
         }
       ]
     }
