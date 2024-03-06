@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T05:43:43.679Z</updated>
+    <updated>2024-03-06T06:14:16.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Urgent: Apple Issues Critical Updates for Actively Exploited Zero-Day Flaws]]></title>
+        <id>https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html</id>
+        <link href="https://thehackernews.com/2024/03/urgent-apple-issues-critical-updates.html"/>
+        <updated>2024-03-06T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple has released security updates to address several security flaws, including two vulnerabilities that it said have been actively exploited in the wild.
+The shortcomings are listed below -
+
+CVE-2024-23225 - A memory corruption issue in Kernel that an attacker with arbitrary kernel read and write capability can exploit to bypass kernel memory protections
+
+
+CVE-2024-23296 - A memory]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware]]></title>
         <id>https://thehackernews.com/2024/03/hackers-exploit-connectwise.html</id>
