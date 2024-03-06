@@ -3209,16 +3209,6 @@
           "wordCount": 1930,
           "title": "CERTFR-2024-ALE-003 : Multiples vulnérabilités affectant la solution Anydesk (05 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-007/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-007/",
-          "publishedOn": "2024-02-05T15:47:38.000Z",
-          "wordCount": 1533,
-          "title": "CERTFR-2024-ACT-007 : Bulletin d’actualité CERTFR-2024-ACT-007 (05 février 2024)",
-          "imageUrl": null
         }
       ]
     }
