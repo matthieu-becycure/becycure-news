@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T18:43:38.673Z</updated>
+    <updated>2024-03-06T19:07:30.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2661,18 +2661,6 @@ Recently, Adaptive Shield commissioned a Total Economic]]></summary>
         <updated>2024-02-06T10:14:00.000Z</updated>
         <summary type="html"><![CDATA[Employment agencies and retail companies chiefly located in the Asia-Pacific (APAC) region have been targeted by a previously undocumented threat actor known as ResumeLooters since early 2023 with the goal of stealing sensitive data.
 Singapore-headquartered Group-IB said the hacking crew's activities are geared towards job search platforms and the theft of resumes, with as many as 65]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation]]></title>
-        <id>https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html</id>
-        <link href="https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html"/>
-        <updated>2024-02-06T06:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A recently disclosed server-side request forgery (SSRF) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation.
-The Shadowserver Foundation said it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others.
-The attacks exploit CVE-2024-21893 (CVSS]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

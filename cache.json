@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KvfL2k4ylNL_dMnNHOPfB5ZUwTUVtuLUSIrWRaRiLboah9STBvKVwKYhc6XKuQLXyK1krVr-kuXVNjEYCLQk2kILqshUvwZMBeYizNVhKmD7kY9Ana4ZPi3ZlXWvDj_FHSMbmpPc7M686Ju06duWIfG5Cp_GZK07TMb3hWxsgX_mQ1iT8zuccj1Y1EaY/s1600/hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8KvfL2k4ylNL_dMnNHOPfB5ZUwTUVtuLUSIrWRaRiLboah9STBvKVwKYhc6XKuQLXyK1krVr-kuXVNjEYCLQk2kILqshUvwZMBeYizNVhKmD7kY9Ana4ZPi3ZlXWvDj_FHSMbmpPc7M686Ju06duWIfG5Cp_GZK07TMb3hWxsgX_mQ1iT8zuccj1Y1EaY/s1600/hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently disclosed server-side request forgery (SSRF) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation.\nThe Shadowserver Foundation said it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others.\nThe attacks exploit CVE-2024-21893 (CVSS",
-          "link": "https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html",
-          "publishedOn": "2024-02-06T06:58:00.000Z",
-          "wordCount": null,
-          "title": "Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraNohdN4U1PcWdmQxmLb8RwVWHndGdf7wvL0CbP0NdPXeN1oLuq-MHmHzkliX2zHzHofzBbno3NHBJWVe2zbvvwZI4FGGTZ5UWaCLNfvVV9CltXs5OHyxbvoDUVQKEDqWjLk6cl24zJTFqhY-JWE4DeapkEK_iA8Tii-xSUWwy1tzYwetOqGR67SE55LT/s1600/lock.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgraNohdN4U1PcWdmQxmLb8RwVWHndGdf7wvL0CbP0NdPXeN1oLuq-MHmHzkliX2zHzHofzBbno3NHBJWVe2zbvvwZI4FGGTZ5UWaCLNfvVV9CltXs5OHyxbvoDUVQKEDqWjLk6cl24zJTFqhY-JWE4DeapkEK_iA8Tii-xSUWwy1tzYwetOqGR67SE55LT/s1600/lock.jpg"
         }
       ]
     },
