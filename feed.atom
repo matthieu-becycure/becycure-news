@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T22:09:37.654Z</updated>
+    <updated>2024-03-06T22:26:25.426Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2650,17 +2650,6 @@ Ov3r_Stealer]]></summary>
         <updated>2024-02-06T10:53:00.000Z</updated>
         <summary type="html"><![CDATA[SaaS applications are the darlings of the software world. They enable work from anywhere, facilitate collaboration, and offer a cost-effective alternative to owning the software outright. At the same time, the very features that make SaaS apps so embraced – access from anywhere and collaboration – can also be exploited by threat actors.
 Recently, Adaptive Shield commissioned a Total Economic]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Job Boards in APAC, Steal Data of Millions of Job Seekers]]></title>
-        <id>https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html</id>
-        <link href="https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html"/>
-        <updated>2024-02-06T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Employment agencies and retail companies chiefly located in the Asia-Pacific (APAC) region have been targeted by a previously undocumented threat actor known as ResumeLooters since early 2023 with the goal of stealing sensitive data.
-Singapore-headquartered Group-IB said the hacking crew's activities are geared towards job search platforms and the theft of resumes, with as many as 65]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
