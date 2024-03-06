@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-06T11:43:43.423Z</updated>
+    <updated>2024-03-06T12:18:56.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A New Way To Manage Your Web Exposure: The Reflectiz Product Explained]]></title>
+        <id>https://thehackernews.com/2024/03/a-new-way-to-manage-your-web-exposure.html</id>
+        <link href="https://thehackernews.com/2024/03/a-new-way-to-manage-your-web-exposure.html"/>
+        <updated>2024-03-06T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth look into a proactive website security solution that continuously detects, prioritizes, and validates web threats, helping to mitigate security, privacy, and compliance risks. 
+[Reflectiz shields websites from client-side attacks, supply chain risks, data breaches, privacy violations, and compliance issues]
+You Can’t Protect What You Can’t See
+Today’s websites are connected]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Find and Fix Risky Sharing in Google Drive]]></title>
         <id>https://thehackernews.com/2024/03/how-to-find-and-fix-risky-sharing-in.html</id>
