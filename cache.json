@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's rapidly evolving SaaS environment, the focus is on human users. This is one of the most compromised areas in SaaS security management and requires strict governance of user roles and permissions, monitoring of privileged users, their level of activity (dormant, active, hyperactive), their type (internal/ external), whether they are joiners, movers, or leavers, and more. \nNot",
+          "link": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
+          "publishedOn": "2024-03-07T11:11:00.000Z",
+          "wordCount": null,
+          "title": "Human vs. Non-Human Identity in SaaS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s1600/ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CA_1Dy7FAZT7o7c-TlP0Ng9BOsQsuZl_IuNKCejKXSvJt_ivJU-yTDF8N9tYdVy-UtO6EyVxh478PAT4lafZ_cYLpNN9D-a36D3swndRirYvrt58AYhaGhKIxs-P92z_QM3WlK08tPnxwaDumc5UV_1Cf_MgOp5s5zzBzCAh1om2Mstbo5wS7_Og_A4/s1600/ai.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) announced the indictment of a 38-year-old Chinese national and a California resident of allegedly stealing proprietary information from Google while covertly working for two China-based tech companies.\nLinwei Ding (aka Leon Ding), a former Google engineer who was arrested on March 6, 2024, \"transferred sensitive Google trade secrets and other confidential",
