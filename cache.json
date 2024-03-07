@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are conducting brute-force attacks against WordPress sites by leveraging malicious JavaScript injections, new findings from Sucuri reveal.\nThe attacks, which take the form of distributed brute-force attacks, “target WordPress websites from the browsers of completely innocent and unsuspecting site visitors,” security researcher Denis Sinegubko said.\nThe activity is part of a&",
+          "link": "https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html",
+          "publishedOn": "2024-03-07T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s1600/wordpress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1i_fGc6nRA9S1Z2ng6Y7qxW-NjbvAkXlYSKgKl3NiNW88OHez0oRHDMHaVYhgGVVXVmfbvNzdPZOx0CPeZeICtiUxalTrKE0Imup-mvCCAhtnPgDksbxyJNN165rnb0gy2zp1rUQe4ze9PStDzSBI5eCeJ7uIa_rmwFD959vnez1bS3LAbztWMhnF4Twx/s1600/wordpress.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked threat actor known as Evasive Panda orchestrated both watering hole and supply chain attacks targeting Tibetan users at least since September 2023.\nThe end of the attacks is to deliver malicious downloaders for Windows and macOS that deploy a known backdoor called MgBot and a previously undocumented Windows implant known as Nightdoor.\nThe findings come from ESET, which",
+          "link": "https://thehackernews.com/2024/03/chinese-state-hackers-target-tibetans.html",
+          "publishedOn": "2024-03-07T13:22:00.000Z",
+          "wordCount": null,
+          "title": "Chinese State Hackers Target Tibetans with Supply Chain, Watering Hole Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s1600/china.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXChyphenhyphenuvR47I8x9JJkEAYo9FugTWqhExK_s-TBdGVcsFHWM1sQiUqLJcT0qg3ui9IFdH3DxwLGNaq1dM9LBYlaHXHPnxqKSrrf7uPHtEZ8rdmuc0vFW2gybR18sVm1tRFd_LS0TG2hT15MyN5CX2BT18_kYwKUI4KFvhQCLjRpc_B6AXwu2Ln22XoLSWccZ/s1600/china.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In today's rapidly evolving SaaS environment, the focus is on human users. This is one of the most compromised areas in SaaS security management and requires strict governance of user roles and permissions, monitoring of privileged users, their level of activity (dormant, active, hyperactive), their type (internal/ external), whether they are joiners, movers, or leavers, and more. \nNot",
