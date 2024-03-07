@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T16:43:38.485Z</updated>
+    <updated>2024-03-07T17:10:02.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2693,18 +2693,6 @@ The initiative, dubbed the Pall Mall Process, aims to tackle the proliferation 
         <updated>2024-02-07T06:29:00.000Z</updated>
         <summary type="html"><![CDATA[Chinese state-backed hackers broke into a computer network that's used by the Dutch armed forces by targeting Fortinet FortiGate devices.
 "This [computer network] was used for unclassified research and development (R&D)," the Dutch Military Intelligence and Security Service (MIVD) said in a statement. "Because this system was self-contained, it did not lead to any damage to the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now]]></title>
-        <id>https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html</id>
-        <link href="https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html"/>
-        <updated>2024-02-07T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[JetBrains is alerting customers of a critical security flaw in its TeamCity On-Premises continuous integration and continuous deployment (CI/CD) software that could be exploited by threat actors to take over susceptible instances.
-The vulnerability, tracked as CVE-2024-23917, carries a CVSS rating of 9.8 out of 10, indicative of its severity.
-"The vulnerability may enable an unauthenticated]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

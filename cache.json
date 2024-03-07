@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4y15sfKep4P_b9FpOWRGjmh8hiVnHZwLD-1BrGuaKL8v7_all-LKAKmhkBd5C01w-hH8k1FGYAW7uKWAndErAMDmhOvzAS0AbOyjsOAKf1WQ2GGTkgFKT3NcHXdHC32KFwQ5gMPB2VhScW_5fe0bXlzpBp1Z0dln4Ooa5tARoaM5zgy0CUYVCcj2Lt3nl/s1600/cyber.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4y15sfKep4P_b9FpOWRGjmh8hiVnHZwLD-1BrGuaKL8v7_all-LKAKmhkBd5C01w-hH8k1FGYAW7uKWAndErAMDmhOvzAS0AbOyjsOAKf1WQ2GGTkgFKT3NcHXdHC32KFwQ5gMPB2VhScW_5fe0bXlzpBp1Z0dln4Ooa5tARoaM5zgy0CUYVCcj2Lt3nl/s1600/cyber.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "JetBrains is alerting customers of a critical security flaw in its TeamCity On-Premises continuous integration and continuous deployment (CI/CD) software that could be exploited by threat actors to take over susceptible instances.\nThe vulnerability, tracked as CVE-2024-23917, carries a CVSS rating of 9.8 out of 10, indicative of its severity.\n\"The vulnerability may enable an unauthenticated",
-          "link": "https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html",
-          "publishedOn": "2024-02-07T05:05:00.000Z",
-          "wordCount": null,
-          "title": "Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s1600/tc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDMQ-b_IQ97I0qLK5nOsypl7zgPUmjiTjEHUTmwNLC5thPi5i-b73LGhFSvPDzRAItnb2NN5mfEoiD2nmgiR3NQIfqa-ErY3yije6jSu0hxOXRnZXD0b-Gi8ulVNkBX30WekFgzp8mhQvfY37URxhRIGw8279Ic5YCARa5so_PPT2vgSjV8uCL9UcTLyku/s1600/tc.jpg"
         }
       ]
     },
