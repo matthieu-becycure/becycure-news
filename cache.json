@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) announced the indictment of a 38-year-old Chinese national and a California resident of allegedly stealing proprietary information from Google while covertly working for two China-based tech companies.\nLinwei Ding (aka Leon Ding), a former Google engineer who was arrested on March 6, 2024, \"transferred sensitive Google trade secrets and other confidential",
+          "link": "https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html",
+          "publishedOn": "2024-03-07T10:19:00.000Z",
+          "wordCount": null,
+          "title": "Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s1600/ai-tech.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOWGTG8OA-Q4arIDOeGA8FjBuwRO0sUX_Cr3VK3d43ZAhT3u4628xiFe7QCrCAlGQETdng8tSCIffzNuhxNB2ahUaaTK20mxRAywm8EbCVms7VbTFN16C1d5uyrmhFshzeCxtyYUHOv68trb5X9DH10foiCJPyqqJnS__rea1l50VJeMO4SXEQmRaad7-H/s1600/ai-tech.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Facebook messages are being used by threat actors to a Python-based information stealer dubbed Snake that’s designed to capture credentials and other sensitive data.\n“The credentials harvested from unsuspecting users are transmitted to different platforms such as Discord, GitHub, and Telegram,” Cybereason researcher Kotaro Ogino said in a technical report.\nDetails about the campaign&",

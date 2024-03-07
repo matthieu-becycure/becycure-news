@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T10:25:31.306Z</updated>
+    <updated>2024-03-07T10:43:28.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Google Engineer Arrested for Stealing AI Technology Secrets for China]]></title>
+        <id>https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html</id>
+        <link href="https://thehackernews.com/2024/03/ex-google-engineer-arrested-for.html"/>
+        <updated>2024-03-07T10:19:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) announced the indictment of a 38-year-old Chinese national and a California resident of allegedly stealing proprietary information from Google while covertly working for two China-based tech companies.
+Linwei Ding (aka Leon Ding), a former Google engineer who was arrested on March 6, 2024, "transferred sensitive Google trade secrets and other confidential]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Python-Based Snake Info Stealer Spreading Through Facebook Messages]]></title>
         <id>https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html</id>
