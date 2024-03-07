@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T22:27:31.913Z</updated>
+    <updated>2024-03-07T22:43:24.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2631,36 +2631,6 @@ Tracked as CVE-2023-40547 (CVSS score: 9.8), the vulnerability could be exploi
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/"/>
         <updated>2024-02-07T11:38:06.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0098 : Multiples vulnérabilités dans VMware Aria Operations pour les réseaux (07 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/"/>
-        <updated>2024-02-07T10:38:58.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs]]></title>
-        <id>https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html</id>
-        <link href="https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html"/>
-        <updated>2024-02-07T10:38:00.000Z</updated>
-        <summary type="html"><![CDATA[2024 will be the year of the vCISO. An incredible 45% of MSPs and MSSPs are planning to start offering vCISO services in 2024. As an MSP/MSSP providing vCISO services, you own the organization’s cybersecurity infrastructure and strategy. But you also need to position yourself as a reliable decision-maker, navigating professional responsibilities, business needs and leadership]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0097 : Multiples vulnérabilités dans Veeam Recovery Orchestrator (07 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/"/>
-        <updated>2024-02-07T10:34:02.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Veeam Recovery Orchestrator. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

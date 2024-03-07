@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "2024 will be the year of the vCISO. An incredible 45% of MSPs and MSSPs are planning to start offering vCISO services in 2024. As an MSP/MSSP providing vCISO services, you own the organization’s cybersecurity infrastructure and strategy. But you also need to position yourself as a reliable decision-maker, navigating professional responsibilities, business needs and leadership",
-          "link": "https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html",
-          "publishedOn": "2024-02-07T10:38:00.000Z",
-          "wordCount": null,
-          "title": "New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s1600/vciso.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiRQtPj5m3gcGOA64LxPN8UssmlU5hBuiUHEHXimDD5my40XAgN1fNYU5s1LxM5Fhhu0EWe_OCit3RT76-bbRp1l0hPjWCMt7L5zMvgLI1kwCm16Fj8zgA-Qxs_h0HeBhRWnTQCZLZ9GbjrV5od-HRTdvd44e9wW8RQnhunwl6AJw82nmuaxrp0toL2YM/s1600/vciso.jpg"
         }
       ]
     },
@@ -3318,26 +3302,6 @@
           "publishedOn": "2024-02-07T11:38:06.000Z",
           "wordCount": 1012,
           "title": "CERTFR-2024-AVI-0099 : Multiples vulnérabilités dans les produits Elastic (07 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0098/",
-          "publishedOn": "2024-02-07T10:38:58.000Z",
-          "wordCount": 991,
-          "title": "CERTFR-2024-AVI-0098 : Multiples vulnérabilités dans VMware Aria Operations pour les réseaux (07 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Veeam Recovery Orchestrator. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0097/",
-          "publishedOn": "2024-02-07T10:34:02.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2024-AVI-0097 : Multiples vulnérabilités dans Veeam Recovery Orchestrator (07 février 2024)",
           "imageUrl": null
         }
       ]
