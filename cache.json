@@ -3293,16 +3293,6 @@
           "wordCount": 950,
           "title": "CERTFR-2024-AVI-0100 : Multiples vulnérabilités dans Google Chrome (07 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits ElasticSearch. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0099/",
-          "publishedOn": "2024-02-07T11:38:06.000Z",
-          "wordCount": 1012,
-          "title": "CERTFR-2024-AVI-0099 : Multiples vulnérabilités dans les produits Elastic (07 février 2024)",
-          "imageUrl": null
         }
       ]
     }
