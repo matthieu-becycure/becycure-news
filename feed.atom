@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T06:28:20.654Z</updated>
+    <updated>2024-03-07T06:43:45.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware]]></title>
+        <id>https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html</id>
+        <link href="https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html"/>
+        <updated>2024-03-07T06:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been leveraging fake websites advertising popular video conferencing software such as Google Meet, Skype, and Zoom to deliver a variety of malware targeting both Android and Windows users since December 2023.
+“The threat actor is distributing Remote Access Trojans (RATs) including SpyNote RAT for Android platforms, and NjRAT and DCRat for Windows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining]]></title>
         <id>https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html</id>
