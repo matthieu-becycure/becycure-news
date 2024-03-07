@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T08:23:39.076Z</updated>
+    <updated>2024-03-07T08:43:37.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Python-Based Snake Info Stealer Spreading Through Facebook Messages]]></title>
+        <id>https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html</id>
+        <link href="https://thehackernews.com/2024/03/new-python-based-snake-info-stealer.html"/>
+        <updated>2024-03-07T07:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebook messages are being used by threat actors to a Python-based information stealer dubbed Snake that’s designed to capture credentials and other sensitive data.
+“The credentials harvested from unsuspecting users are transmitted to different platforms such as Discord, GitHub, and Telegram,” Cybereason researcher Kotaro Ogino said in a technical report.
+Details about the campaign&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Out for Spoofed Zoom, Skype, Google Meet Sites Delivering Malware]]></title>
         <id>https://thehackernews.com/2024/03/watch-out-for-spoofed-zoom-skype-google.html</id>
