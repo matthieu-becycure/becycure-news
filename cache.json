@@ -3355,16 +3355,6 @@
           "wordCount": 944,
           "title": "CERTFR-2024-AVI-0097 : Multiples vulnérabilités dans Veeam Recovery Orchestrator (07 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0096/",
-          "publishedOn": "2024-02-07T09:33:25.000Z",
-          "wordCount": 955,
-          "title": "CERTFR-2024-AVI-0096 : Multiples vulnérabilités dans les produits Tenable (07 février 2024)",
-          "imageUrl": null
         }
       ]
     }
