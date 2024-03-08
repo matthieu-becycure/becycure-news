@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-08T22:10:49.022Z</updated>
+    <updated>2024-03-08T22:28:42.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2620,48 +2620,6 @@ Targets of the threat actor include communications, energy, transportation, and 
 However (there is always a however, right?) not every “unified” “identity” “security” “platform” is made equal. Some vendors call the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HijackLoader Evolves: Researchers Decode the Latest Evasion Methods]]></title>
-        <id>https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html</id>
-        <link href="https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html"/>
-        <updated>2024-02-08T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind a loader malware called HijackLoader have added new techniques for defense evasion, as the malware continues to be increasingly used by other threat actors to deliver additional payloads and tooling.
-"The malware developer used a standard process hollowing technique coupled with an additional trigger that was activated by the parent process writing to a pipe,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0105 : Vulnérabilité dans SonicWall SonicOS (08 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0105/"/>
-        <updated>2024-02-08T10:21:12.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SonicWall SonicOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore]]></title>
-        <id>https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html</id>
-        <link href="https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html"/>
-        <updated>2024-02-08T10:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has unveiled a new pilot program in Singapore that aims to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords and gather sensitive data.
-"This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0104 : Multiples vulnérabilités dans les produits ClamAV (08 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/"/>
-        <updated>2024-02-08T10:11:32.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ClamAV. Elles permettent à un attaquant de provoquer un déni de service et une exécution de code arbitraire.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
