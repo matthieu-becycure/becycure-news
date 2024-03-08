@@ -3261,16 +3261,6 @@
           "wordCount": 933,
           "title": "CERTFR-2024-AVI-0107 : Vulnérabilité dans Elastic Kibana (08 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0106/",
-          "publishedOn": "2024-02-08T10:43:27.000Z",
-          "wordCount": 972,
-          "title": "CERTFR-2024-AVI-0106 : Multiples vulnérabilités dans Fortinet FortiSIEM (08 février 2024)",
-          "imageUrl": null
         }
       ]
     }
