@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Meta has offered details on how it intends to implement interoperability in WhatsApp and Messenger with third-party messaging services as the Digital Markets Act (DMA) went into effect in the European Union.\n“This allows users of third-party providers who choose to enable interoperability (interop) to send and receive messages with opted-in users of either Messenger or WhatsApp – both designated",
+          "link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
+          "publishedOn": "2024-03-08T13:14:00.000Z",
+          "wordCount": null,
+          "title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s1600/whatsapp.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s1600/whatsapp.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the realm of cybersecurity, the stakes are sky-high, and at its core lies secrets management — the foundational pillar upon which your security infrastructure rests. We're all familiar with the routine: safeguarding those API keys, connection strings, and certificates is non-negotiable. However, let's dispense with the pleasantries; this isn't a simple 'set it and forget it' scenario. It's",
