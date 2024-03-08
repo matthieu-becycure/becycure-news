@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-08T18:43:39.642Z</updated>
+    <updated>2024-03-08T19:08:48.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2682,18 +2682,6 @@ However (there is always a however, right?) not every “unified” “identity�
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea]]></title>
-        <id>https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html</id>
-        <link href="https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html"/>
-        <updated>2024-02-08T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korea-linked nation-state actor known as Kimsuky is suspected of using a previously undocumented Golang-based information stealer called Troll Stealer.
-The malware steals "SSH, FileZilla, C drive files/directories, browsers, system information, [and] screen captures" from infected systems, South Korean cybersecurity company S2W said in a new technical report.
-Troll]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
