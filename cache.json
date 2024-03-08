@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the realm of cybersecurity, the stakes are sky-high, and at its core lies secrets management — the foundational pillar upon which your security infrastructure rests. We're all familiar with the routine: safeguarding those API keys, connection strings, and certificates is non-negotiable. However, let's dispense with the pleasantries; this isn't a simple 'set it and forget it' scenario. It's",
+          "link": "https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html",
+          "publishedOn": "2024-03-08T09:49:00.000Z",
+          "wordCount": null,
+          "title": "Secrets Sensei: Conquering Secrets Management Challenges",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s1600/entro.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiejRL-K5hD5pucQyGIXRuXF4-DaHDTYRNibQhyphenhyphenO_laYrIWA7ENqr_2suHELfe9NcqPTjdEABN3CzluQwOSsQk1m4T0wYPwVWSt6Juj0AjLdttD7i-kERDt3gWTyvNXYjkU_7PYr6Lt6SjeMf1cpLXcCTiFRPLQYREsyG_aV81qG5r59sSCZCudrVuJXJU/s1600/entro.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/cisco-issues-patch-for-high-severity.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cisco has released patches to address a high-severity security flaw impacting its Secure Client software that could be exploited by a threat actor to open a VPN session with that of a targeted user.\nThe networking equipment company described the vulnerability, tracked as CVE-2024-20337 (CVSS score: 8.2), as allowing an unauthenticated, remote attacker to conduct a carriage return line feed (CRLF",
