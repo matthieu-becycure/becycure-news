@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-08T22:28:42.843Z</updated>
+    <updated>2024-03-08T22:43:25.091Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2609,17 +2609,6 @@ Targets of the threat actor include communications, energy, transportation, and 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Fortinet FortiSIEM. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unified Identity – look for the meaning behind the hype!]]></title>
-        <id>https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html</id>
-        <link href="https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html"/>
-        <updated>2024-02-08T10:39:00.000Z</updated>
-        <summary type="html"><![CDATA[If you've listened to software vendors in the identity space lately, you will have noticed that “unified” has quickly become the buzzword that everyone is adopting to describe their portfolio. And this is great! Unified identity has some amazing benefits! 
-However (there is always a however, right?) not every “unified” “identity” “security” “platform” is made equal. Some vendors call the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
