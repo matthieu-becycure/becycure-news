@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-08T03:10:35.894Z</updated>
+    <updated>2024-03-08T03:24:08.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2579,17 +2579,6 @@ Troll]]></summary>
         <updated>2024-02-08T05:10:00.000Z</updated>
         <summary type="html"><![CDATA[Cisco, Fortinet, and VMware have released security fixes for multiple security vulnerabilities, including critical weaknesses that could be exploited to perform arbitrary actions on affected devices.
 The first set from Cisco consists of three flaws – CVE-2024-20252 and CVE-2024-20254 (CVSS score: 9.6) and CVE-2024-20255 (CVSS score: 8.2) – impacting Cisco Expressway Series that could allow an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back]]></title>
-        <id>https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html</id>
-        <link href="https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html"/>
-        <updated>2024-02-07T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the KV-botnet made "behavioral changes" to the malicious network as U.S. law enforcement began issuing commands to neutralize the activity.
-KV-botnet is the name given to a network of compromised small office and home office (SOHO) routers and firewall devices across the world, with one specific cluster acting as a covert data transfer system for other Chinese]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
