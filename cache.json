@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB6z-7go-RSBA5tn3BCR6AQBr4cahflcMxGgBFJ5QSROJ84mRuOSCw8x3G1HG6Sk5ht4yrtvq69VuMenAz9fCo5pv7b5S_aBGafsovnkEPKj1KQLJRTkadhh79MAIbOrH4fF8vQvbuGWOjko4XqYp0BHdfn_K626DHfRGbYAMmT6DCLOY5ThtijN3nsplQ/s1600/botnet.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB6z-7go-RSBA5tn3BCR6AQBr4cahflcMxGgBFJ5QSROJ84mRuOSCw8x3G1HG6Sk5ht4yrtvq69VuMenAz9fCo5pv7b5S_aBGafsovnkEPKj1KQLJRTkadhh79MAIbOrH4fF8vQvbuGWOjko4XqYp0BHdfn_K626DHfRGbYAMmT6DCLOY5ThtijN3nsplQ/s1600/botnet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of shim have released version 15.8 to address six security flaws, including a critical bug that could pave the way for remote code execution under specific circumstances.\nTracked as CVE-2023-40547 (CVSS score: 9.8), the vulnerability could be exploited to achieve a Secure Boot bypass. Bill Demirkapi of the Microsoft Security Response Center (MSRC) has been&",
-          "link": "https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html",
-          "publishedOn": "2024-02-07T13:33:00.000Z",
-          "wordCount": null,
-          "title": "Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA4_JEtw-vnRjzTLLZ0j3s_yPZE2onBmIuhDx1tRNMTHOChuiGkHnkkSMMgyNnDDjtrBbkj0G3we65tSACB3xwLhymWIZWv3BWuwx9OykGLJkhnqJPmbLIu_c807H_4hGvIUyKFFaaJvOF81X8MaZSy18MxFj-bdCD3-ZIe3ndwum0eILItaPrJCQyxIDM/s1600/linux.jpg"
         }
       ]
     },
@@ -3272,16 +3256,6 @@
           "publishedOn": "2024-02-08T08:23:30.000Z",
           "wordCount": 995,
           "title": "CERTFR-2024-AVI-0102 : Multiples vulnérabilités dans GitLab (08 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/",
-          "publishedOn": "2024-02-07T13:08:17.000Z",
-          "wordCount": 1161,
-          "title": "CERTFR-2024-AVI-0101 : Multiples vulnérabilités dans Google Android (07 février 2024)",
           "imageUrl": null
         }
       ]
