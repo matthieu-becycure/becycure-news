@@ -3339,16 +3339,6 @@
           "wordCount": 972,
           "title": "CERTFR-2024-AVI-0104 : Multiples vulnérabilités dans les produits ClamAV (08 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/",
-          "publishedOn": "2024-02-08T10:07:23.000Z",
-          "wordCount": 1072,
-          "title": "CERTFR-2024-AVI-0103 : Multiples vulnérabilités dans les produits Cisco (08 février 2024)",
-          "imageUrl": null
         }
       ]
     }

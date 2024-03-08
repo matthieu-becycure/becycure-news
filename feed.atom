@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-08T21:43:23.683Z</updated>
+    <updated>2024-03-08T22:10:49.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2660,16 +2660,6 @@ However (there is always a however, right?) not every “unified” “identity�
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0104/"/>
         <updated>2024-02-08T10:11:32.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits ClamAV. Elles permettent à un attaquant de provoquer un déni de service et une exécution de code arbitraire.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0103 : Multiples vulnérabilités dans les produits Cisco (08 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0103/"/>
-        <updated>2024-02-08T10:07:23.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une injection de requêtes illégitimes par rebond (CSRF).]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
