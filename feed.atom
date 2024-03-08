@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-07T23:43:44.104Z</updated>
+    <updated>2024-03-08T00:45:18.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2611,16 +2611,6 @@ Tracked as CVE-2023-40547 (CVSS score: 9.8), the vulnerability could be exploi
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0101/"/>
         <updated>2024-02-07T13:08:17.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0100 : Multiples vulnérabilités dans Google Chrome (07 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/"/>
-        <updated>2024-02-07T11:50:32.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

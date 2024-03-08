@@ -3283,16 +3283,6 @@
           "wordCount": 1161,
           "title": "CERTFR-2024-AVI-0101 : Multiples vulnérabilités dans Google Android (07 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0100/",
-          "publishedOn": "2024-02-07T11:50:32.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2024-AVI-0100 : Multiples vulnérabilités dans Google Chrome (07 février 2024)",
-          "imageUrl": null
         }
       ]
     }
