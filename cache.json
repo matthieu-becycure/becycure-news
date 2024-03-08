@@ -3349,16 +3349,6 @@
           "wordCount": 1072,
           "title": "CERTFR-2024-AVI-0103 : Multiples vulnérabilités dans les produits Cisco (08 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0102/",
-          "publishedOn": "2024-02-08T08:23:30.000Z",
-          "wordCount": 995,
-          "title": "CERTFR-2024-AVI-0102 : Multiples vulnérabilités dans GitLab (08 février 2024)",
-          "imageUrl": null
         }
       ]
     }
