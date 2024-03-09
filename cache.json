@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti has alerted customers of yet another high-severity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication.\nThe issue, tracked as CVE-2024-22024, is rated 8.3 out of 10 on the CVSS scoring system.\n\"An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti",
-          "link": "https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html",
-          "publishedOn": "2024-02-09T03:35:00.000Z",
-          "wordCount": null,
-          "title": "Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5fDPWyq6JCkQyYRe2rmQUA3NZgFDI46rb6EIV-G9lp1xde_WomlCYc41Ov-yL4Y1n55dqPNY7i92ZbBPvjz0Ttz-1LAqaXtjfemfIVSOVBSHYZtHcXP55di08B6G72RD2FW7cgnNDbiajFpjVsp12dVb6XJOWeKDjezglmPsCaoHOti2ergqSVE949j5/s1600/ivanti.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM5fDPWyq6JCkQyYRe2rmQUA3NZgFDI46rb6EIV-G9lp1xde_WomlCYc41Ov-yL4Y1n55dqPNY7i92ZbBPvjz0Ttz-1LAqaXtjfemfIVSOVBSHYZtHcXP55di08B6G72RD2FW7cgnNDbiajFpjVsp12dVb6XJOWeKDjezglmPsCaoHOti2ergqSVE949j5/s1600/ivanti.jpg"
         }
       ]
     },
