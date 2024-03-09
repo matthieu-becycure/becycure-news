@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-09T00:43:23.708Z</updated>
+    <updated>2024-03-09T01:37:40.337Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2575,18 +2575,6 @@ The vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution 
         <summary type="html"><![CDATA[Ivanti has alerted customers of yet another high-severity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication.
 The issue, tracked as CVE-2024-22024, is rated 8.3 out of 10 on the CVSS scoring system.
 "An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade]]></title>
-        <id>https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html</id>
-        <link href="https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html"/>
-        <updated>2024-02-08T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as Volt Typhoon had been embedded into some critical infrastructure networks in the country for at least five years.
-Targets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam.
-"Volt Typhoon's choice of targets and pattern]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
