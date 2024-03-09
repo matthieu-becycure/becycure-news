@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-09T22:43:38.098Z</updated>
+    <updated>2024-03-09T23:10:12.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2490,17 +2490,6 @@ This means that "Raspberry Robin has access to an exploit seller or its authors 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA]]></title>
-        <id>https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html</id>
-        <link href="https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html"/>
-        <updated>2024-02-09T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-The modern software supply chain represents an ever-evolving threat landscape, with each package added to the manifest introducing new attack vectors. To meet industry requirements, organizations must maintain a fast-paced development process while staying up-to-date with the latest security patches. However, in practice, developers often face a large amount of security work without]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
