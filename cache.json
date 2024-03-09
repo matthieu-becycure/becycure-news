@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1600/featured_image.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHckMrgxOoVQ_Wo06FfXVMoCuexbZbY2zzlXbfPvK0fwIecRJY73odbvUjhsBtdUyZ0sTKA7Tm9bn9mRQx-3D3iApLX7hAKQOXFbMbjKPP0pdnGGuiNQTxK7fm_Jggepdt7kI7otNM68wMOPOK7wGI5cvqdYAKZYB4ldN4iMTcK83AIsE_QhCnjdPLjPA/s1600/featured_image.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Sixty-one banking institutions, all of them originating from Brazil, are the target of a new banking trojan called Coyote.\n\"This malware utilizes the Squirrel installer for distribution, leveraging Node.js and a relatively new multi-platform programming language called Nim as a loader to complete its infection,\" Russian cybersecurity firm Kaspersky said in a Thursday report.\nWhat",
-          "link": "https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html",
-          "publishedOn": "2024-02-09T10:28:00.000Z",
-          "wordCount": null,
-          "title": "New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9u55BjQ6lRRnM0uP5v0jDZXcB6895DkmCgsHrTXK_WgUgzm7ROXmSlcO7cAC5NMXyjz_RUIG_-oyIr0xBfIn0lkqvT2G2WZIabGwFJT7r323FOocpFK1CLfBmcxO9Wab1XWGFjxR6x2XUztVhuhq1qnMvh0M5hEiaih3O-oIa2ovf5xuJJB4nzwv4rM6q/s1600/banking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9u55BjQ6lRRnM0uP5v0jDZXcB6895DkmCgsHrTXK_WgUgzm7ROXmSlcO7cAC5NMXyjz_RUIG_-oyIr0xBfIn0lkqvT2G2WZIabGwFJT7r323FOocpFK1CLfBmcxO9Wab1XWGFjxR6x2XUztVhuhq1qnMvh0M5hEiaih3O-oIa2ovf5xuJJB4nzwv4rM6q/s1600/banking.jpg"
         }
       ]
     },
@@ -3156,16 +3140,6 @@
           "publishedOn": "2024-02-09T11:55:32.000Z",
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0110 : Multiples vulnérabilités dans Microsoft Edge (09 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-          "author": null,
-          "description": "Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité permet à un attaquant non authentifié de provoquer une exécution de code arbitraire à …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-          "publishedOn": "2024-02-09T10:10:55.000Z",
-          "wordCount": 1032,
-          "title": "CERTFR-2024-ALE-004 : Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
           "imageUrl": null
         }
       ]
