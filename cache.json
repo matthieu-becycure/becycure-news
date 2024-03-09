@@ -3167,16 +3167,6 @@
           "wordCount": 1032,
           "title": "CERTFR-2024-ALE-004 : Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Ivanti. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0109/",
-          "publishedOn": "2024-02-09T08:36:36.000Z",
-          "wordCount": 981,
-          "title": "CERTFR-2024-AVI-0109 : Vulnérabilité dans les produits Ivanti (09 février 2024)",
-          "imageUrl": null
         }
       ]
     }
