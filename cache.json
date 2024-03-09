@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEBKWJ4rXJt7j128mhy9BR4McypW_9nzD1KNTIsZ9GV6WnV8nf1CVi0WJevtMtMLQpYT5RjDtxuHNlnJEvGFwy7y2u6c3IrfYSOJRg7HiQ7mHpm-HrN7k_7x8Jv4eeVojlJkhmsunfRnj6qh5OagvHnBf0SNDHFem1GMdJ_hbYDBNDmogbCS0nd1uhHDE/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeEBKWJ4rXJt7j128mhy9BR4McypW_9nzD1KNTIsZ9GV6WnV8nf1CVi0WJevtMtMLQpYT5RjDtxuHNlnJEvGFwy7y2u6c3IrfYSOJRg7HiQ7mHpm-HrN7k_7x8Jv4eeVojlJkhmsunfRnj6qh5OagvHnBf0SNDHFem1GMdJ_hbYDBNDmogbCS0nd1uhHDE/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Fortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild.\nThe vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution of arbitrary code and commands.\n\"A out-of-bounds write vulnerability [CWE-787] in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially",
-          "link": "https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html",
-          "publishedOn": "2024-02-09T05:36:00.000Z",
-          "wordCount": null,
-          "title": "Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGxTOBgF6Bi44j7sKEGC_J_kP-WBGVzjpwy4zI4Nkl5945Uk2gwiBVkDN89bnIiWfmgKZ_saciZ78tiwRB9ub7vv3CJuOoykCRwfQ9j8pvE1DabQ_pEnv11k06lX6pR22w87lsGKRzRfkuDnDFAnyZW3fM-R0K6aIQ0TMkK0pTfWYyiO4SLgtsMTrwp1h/s1600/Fortinet.jpg"
         }
       ]
     },

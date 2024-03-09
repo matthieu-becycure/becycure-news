@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-09T17:27:51.248Z</updated>
+    <updated>2024-03-09T17:43:52.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2562,18 +2562,6 @@ What]]></summary>
         <updated>2024-02-09T06:31:00.000Z</updated>
         <summary type="html"><![CDATA[An unnamed Islamic non-profit organization in Saudi Arabia has been targeted as part of a stealthy cyber espionage campaign designed to drop a previously undocumented backdoor called Zardoor.
 Cisco Talos, which discovered the activity in May 2023, said the campaign has likely persisted since at least March 2021, adding it has identified only one compromised target to date, although it's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortinet Warns of Critical FortiOS SSL VPN Vulnerability Under Active Exploitation]]></title>
-        <id>https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html</id>
-        <link href="https://thehackernews.com/2024/02/fortinet-warns-of-critical-fortios-ssl.html"/>
-        <updated>2024-02-09T05:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortinet has disclosed a new critical security flaw in FortiOS SSL VPN that it said is likely being exploited in the wild.
-The vulnerability, CVE-2024-21762 (CVSS score: 9.6), allows for the execution of arbitrary code and commands.
-"A out-of-bounds write vulnerability [CWE-787] in FortiOS may allow a remote unauthenticated attacker to execute arbitrary code or command via specially]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
