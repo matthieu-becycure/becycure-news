@@ -3085,46 +3085,6 @@
           "wordCount": 1127,
           "title": "CERTFR-2024-AVI-0114 : Multiples vulnérabilités dans le noyau Linux Ubuntu (09 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0113/",
-          "publishedOn": "2024-02-09T12:19:18.000Z",
-          "wordCount": 1289,
-          "title": "CERTFR-2024-AVI-0113 : Multiples vulnérabilités dans les produits IBM (09 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0112/",
-          "publishedOn": "2024-02-09T12:12:12.000Z",
-          "wordCount": 945,
-          "title": "CERTFR-2024-AVI-0112 : Multiples vulnérabilités dans MISP (09 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0111/",
-          "publishedOn": "2024-02-09T12:00:47.000Z",
-          "wordCount": 949,
-          "title": "CERTFR-2024-AVI-0111 : Vulnérabilité dans PostgreSQL (09 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0110/",
-          "publishedOn": "2024-02-09T11:55:32.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0110 : Multiples vulnérabilités dans Microsoft Edge (09 février 2024)",
-          "imageUrl": null
         }
       ]
     }
