@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-10T04:28:23.182Z</updated>
+    <updated>2024-03-10T04:43:36.196Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2396,17 +2396,6 @@ Alongside the takedown, the]]></summary>
         <summary type="html"><![CDATA[Apple macOS users are the target of a new Rust-based backdoor that has been operating under the radar since November 2023.
 The backdoor, codenamed RustDoor by Bitdefender, has been found to impersonate an update for Microsoft Visual Studio and target both Intel and Arm architectures.
 The exact initial access pathway used to propagate the implant is currently not known, although]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Robin Malware Upgrades with Discord Spread and New Exploits]]></title>
-        <id>https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html</id>
-        <link href="https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html"/>
-        <updated>2024-02-09T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The operators of Raspberry Robin are now using two new one-day exploits to achieve local privilege escalation, even as the malware continues to be refined and improved to make it stealthier than before.
-This means that "Raspberry Robin has access to an exploit seller or its authors develop the exploits themselves in a short period of time," Check Point said in a report this]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
