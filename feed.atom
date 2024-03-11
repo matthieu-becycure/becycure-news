@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-11T12:18:26.705Z</updated>
+    <updated>2024-03-11T12:42:29.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Data Leakage Prevention in the Age of Cloud Computing: A New Approach]]></title>
+        <id>https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html</id>
+        <link href="https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html"/>
+        <updated>2024-03-11T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[As the shift of IT infrastructure to cloud-based solutions celebrates its 10-year anniversary, it becomes clear that traditional on-premises approaches to data security are becoming obsolete. Rather than protecting the endpoint, DLP solutions need to refocus their efforts to where corporate data resides - in the browser.
+A new guide by LayerX titled "On-Prem is Dead. Have You Adjusted Your Web]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks]]></title>
         <id>https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html</id>

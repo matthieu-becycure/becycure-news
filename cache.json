@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As the shift of IT infrastructure to cloud-based solutions celebrates its 10-year anniversary, it becomes clear that traditional on-premises approaches to data security are becoming obsolete. Rather than protecting the endpoint, DLP solutions need to refocus their efforts to where corporate data resides - in the browser.\nA new guide by LayerX titled \"On-Prem is Dead. Have You Adjusted Your Web",
+          "link": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
+          "publishedOn": "2024-03-11T11:33:00.000Z",
+          "wordCount": null,
+          "title": "Data Leakage Prevention in the Age of Cloud Computing: A New Approach",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s1600/guide.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s1600/guide.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind the BianLian ransomware have been observed exploiting security flaws in JetBrains TeamCity software to conduct their extortion-only attacks.\nAccording to a new report from GuidePoint Security, which responded to a recent intrusion, the incident \"began with the exploitation of a TeamCity server which resulted in the deployment of a PowerShell implementation of",
