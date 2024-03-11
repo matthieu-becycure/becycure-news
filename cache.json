@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As cyber threats loom around every corner and privileged accounts become prime targets, the significance of implementing a robust Privileged Access Management (PAM) solution can't be overstated. With organizations increasingly migrating to cloud environments, the PAM Solution Market is experiencing a transformative shift toward cloud-based offerings. One Identity PAM Essentials stands",
+          "link": "https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html",
+          "publishedOn": "2024-03-11T14:47:00.000Z",
+          "wordCount": null,
+          "title": "Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity PAM Essentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD11smUfIO0s8PFvNDQhK5Z127-BDiD1zSmolA75zxKDd3fQXbRvgxjP9lTkLy6AOZPoShODIcy1fFadRTtNGb0Um3YzKXpxmdKMlRpX0KY0Ordh0_5EfZxSL0zoqkTFwMjypbnze_r257cHT41wX3wKlUPuCvEi7PtJkSHtDdACn9sGzRwZuZOh6Nqws/s1600/one.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD11smUfIO0s8PFvNDQhK5Z127-BDiD1zSmolA75zxKDd3fQXbRvgxjP9lTkLy6AOZPoShODIcy1fFadRTtNGb0Um3YzKXpxmdKMlRpX0KY0Ordh0_5EfZxSL0zoqkTFwMjypbnze_r257cHT41wX3wKlUPuCvEi7PtJkSHtDdACn9sGzRwZuZOh6Nqws/s1600/one.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users in Brazil are the target of a new banking trojan known as CHAVECLOAK that's propagated via phishing emails bearing PDF attachments.\n\"This intricate attack involves the PDF downloading a ZIP file and subsequently utilizing DLL side-loading techniques to execute the final malware,\" Fortinet FortiGuard Labs researcher Cara Lin said.\nThe attack chain involves the use of",
+          "link": "https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html",
+          "publishedOn": "2024-03-11T14:47:00.000Z",
+          "wordCount": null,
+          "title": "New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF11LAgOwlkzbI9tg3_sWaO0KdddD3KF4xn5WxHH9jk2ezuU4mLDCYrYAw9FZZDntBypePS2LhKbOsydWvtvLwgvoi-MajhTcC0kZDSzH70f2EVxOT60-NBE6cEnE_-Kpf6tiZB5uccMaiXNjdlopbl8z2O3IfCuhhrsOFJ-iqBqvPeL3nx492wCreHsil/s1600/trojan.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF11LAgOwlkzbI9tg3_sWaO0KdddD3KF4xn5WxHH9jk2ezuU4mLDCYrYAw9FZZDntBypePS2LhKbOsydWvtvLwgvoi-MajhTcC0kZDSzH70f2EVxOT60-NBE6cEnE_-Kpf6tiZB5uccMaiXNjdlopbl8z2O3IfCuhhrsOFJ-iqBqvPeL3nx492wCreHsil/s1600/trojan.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/data-leakage-prevention-in-age-of-cloud.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As the shift of IT infrastructure to cloud-based solutions celebrates its 10-year anniversary, it becomes clear that traditional on-premises approaches to data security are becoming obsolete. Rather than protecting the endpoint, DLP solutions need to refocus their efforts to where corporate data resides - in the browser.\nA new guide by LayerX titled \"On-Prem is Dead. Have You Adjusted Your Web",
