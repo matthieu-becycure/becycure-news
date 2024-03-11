@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Technical specifics and a proof-of-concept (PoC) exploit have been made available for a recently disclosed critical security flaw in Progress Software OpenEdge Authentication Gateway and AdminServer, which could be potentially exploited to bypass authentication protections.\nTracked as CVE-2024-1403, the vulnerability has a maximum severity rating of 10.0 on the CVSS scoring system. It",
+          "link": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
+          "publishedOn": "2024-03-11T06:28:00.000Z",
+          "wordCount": null,
+          "title": "Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s1600/po.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s1600/po.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A financially motivated threat actor called Magnet Goblin is swiftly adopting one-day security vulnerabilities into its arsenal in order to opportunistically breach edge devices and public-facing services and deploy malware on compromised hosts.\n“Threat actor group Magnet Goblin’s hallmark is its ability to swiftly leverage newly disclosed vulnerabilities, particularly targeting",
+          "link": "https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html",
+          "publishedOn": "2024-03-11T05:59:00.000Z",
+          "wordCount": null,
+          "title": "Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVOGayxL29dTYIGp6bsU6ZZNo_Iagqii3xxtFInk2wJnwgfp003zhaKid4cicmLVor43VlM0_tarHibSmW0A6mQZZ8XidRBOXg50hdq2pMWUtoUwuRXVGVSnx113NahNi2QgYBIC42QJ4VFPElDXll_-z3K1SJRgHpqD467fssMdDacD7WhNfPb3PfPguE/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVOGayxL29dTYIGp6bsU6ZZNo_Iagqii3xxtFInk2wJnwgfp003zhaKid4cicmLVor43VlM0_tarHibSmW0A6mQZZ8XidRBOXg50hdq2pMWUtoUwuRXVGVSnx113NahNi2QgYBIC42QJ4VFPElDXll_-z3K1SJRgHpqD467fssMdDacD7WhNfPb3PfPguE/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Friday revealed that the Kremlin-backed threat actor known as Midnight Blizzard (aka APT29 or Cozy Bear) managed to gain access to some of its source code repositories and internal systems following a hack that came to light in January 2024.\n\"In recent weeks, we have seen evidence that Midnight Blizzard is using information initially exfiltrated from our",

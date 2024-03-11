@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-11T06:30:48.567Z</updated>
+    <updated>2024-03-11T06:43:38.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html</id>
+        <link href="https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html"/>
+        <updated>2024-03-11T06:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Technical specifics and a proof-of-concept (PoC) exploit have been made available for a recently disclosed critical security flaw in Progress Software OpenEdge Authentication Gateway and AdminServer, which could be potentially exploited to bypass authentication protections.
+Tracked as CVE-2024-1403, the vulnerability has a maximum severity rating of 10.0 on the CVSS scoring system. It]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnet Goblin Hacker Group Leveraging 1-Day Exploits to Deploy Nerbian RAT]]></title>
+        <id>https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html</id>
+        <link href="https://thehackernews.com/2024/03/magnet-goblin-hacker-group-leveraging-1.html"/>
+        <updated>2024-03-11T05:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A financially motivated threat actor called Magnet Goblin is swiftly adopting one-day security vulnerabilities into its arsenal in order to opportunistically breach edge devices and public-facing services and deploy malware on compromised hosts.
+“Threat actor group Magnet Goblin’s hallmark is its ability to swiftly leverage newly disclosed vulnerabilities, particularly targeting]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Confirms Russian Hackers Stole Source Code, Some Customer Secrets]]></title>
         <id>https://thehackernews.com/2024/03/microsoft-confirms-russian-hackers.html</id>
