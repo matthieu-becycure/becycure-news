@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-11T10:43:46.741Z</updated>
+    <updated>2024-03-11T11:10:08.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html</id>
+        <link href="https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html"/>
+        <updated>2024-03-11T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the BianLian ransomware have been observed exploiting security flaws in JetBrains TeamCity software to conduct their extortion-only attacks.
+According to a new report from GuidePoint Security, which responded to a recent intrusion, the incident "began with the exploitation of a TeamCity server which resulted in the deployment of a PowerShell implementation of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability]]></title>
         <id>https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html</id>
