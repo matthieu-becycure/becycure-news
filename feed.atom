@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-12T17:43:46.597Z</updated>
+    <updated>2024-03-12T18:12:37.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2510,18 +2510,6 @@ Called the Principles for Package Repository Security, the framework aims to 
         <link href="https://thehackernews.com/2024/02/why-are-compromised-identities.html"/>
         <updated>2024-02-12T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Incident response (IR) is a race against time. You engage your internal or external team because there's enough evidence that something bad is happening, but you’re still blind to the scope, the impact, and the root cause. The common set of IR tools and practices provides IR teams with the ability to discover malicious files and outbound network connections. However, the identity aspect - namely]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Introduces Linux-Like 'sudo' Command to Windows 11]]></title>
-        <id>https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html</id>
-        <link href="https://thehackernews.com/2024/02/microsoft-introduces-linux-like-sudo.html"/>
-        <updated>2024-02-12T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft said it's introducing Sudo for Windows 11 as part of an early preview version to help users execute commands with administrator privileges.
-"Sudo for Windows is a new way for users to run elevated commands directly from an unelevated console session," Microsoft Product Manager Jordi Adoumie said.
-"It is an ergonomic and familiar solution for users who want to elevate a command]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
