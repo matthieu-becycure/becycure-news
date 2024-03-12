@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-12T11:08:30.247Z</updated>
+    <updated>2024-03-12T11:23:46.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management]]></title>
+        <id>https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html</id>
+        <link href="https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html"/>
+        <updated>2024-03-12T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[In a world of ever-expanding jargon, adding another FLA (Four-Letter Acronym) to your glossary might seem like the last thing you’d want to do. But if you are looking for ways to continuously reduce risk across your environment while making significant and consistent improvements to security posture, in our opinion, you probably want to consider establishing a Continuous Threat Exposure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites]]></title>
         <id>https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html</id>

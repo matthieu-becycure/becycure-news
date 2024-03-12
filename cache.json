@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In a world of ever-expanding jargon, adding another FLA (Four-Letter Acronym) to your glossary might seem like the last thing you’d want to do. But if you are looking for ways to continuously reduce risk across your environment while making significant and consistent improvements to security posture, in our opinion, you probably want to consider establishing a Continuous Threat Exposure",
+          "link": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
+          "publishedOn": "2024-03-12T11:07:00.000Z",
+          "wordCount": null,
+          "title": "CTEM 101 - Go Beyond Vulnerability Management with Continuous Threat Exposure Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new malware campaign is leveraging a high-severity security flaw in the Popup Builder plugin for WordPress to inject malicious JavaScript code.\nAccording to Sucuri, the campaign has infected more than 3,900 sites over the past three weeks.\n\"These attacks are orchestrated from domains less than a month old, with registrations dating back to February 12th, 2024,\" security researcher",
