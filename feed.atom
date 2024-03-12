@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-12T21:43:31.393Z</updated>
+    <updated>2024-03-12T22:09:19.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2500,16 +2500,6 @@ If a password is compromised, there are several options]]></summary>
         <updated>2024-02-12T10:41:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced that it's partnering with the Open Source Security Foundation (OpenSSF) Securing Software Repositories Working Group to publish a new framework to secure package repositories.
 Called the Principles for Package Repository Security, the framework aims to establish a set of foundational rules for package]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Are Compromised Identities the Nightmare to IR Speed and Efficiency?]]></title>
-        <id>https://thehackernews.com/2024/02/why-are-compromised-identities.html</id>
-        <link href="https://thehackernews.com/2024/02/why-are-compromised-identities.html"/>
-        <updated>2024-02-12T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Incident response (IR) is a race against time. You engage your internal or external team because there's enough evidence that something bad is happening, but you’re still blind to the scope, the impact, and the root cause. The common set of IR tools and practices provides IR teams with the ability to discover malicious files and outbound network connections. However, the identity aspect - namely]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
