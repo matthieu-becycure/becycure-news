@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware campaign is leveraging a high-severity security flaw in the Popup Builder plugin for WordPress to inject malicious JavaScript code.\nAccording to Sucuri, the campaign has infected more than 3,900 sites over the past three weeks.\n\"These attacks are orchestrated from domains less than a month old, with registrations dating back to February 12th, 2024,\" security researcher",
+          "link": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
+          "publishedOn": "2024-03-12T09:15:00.000Z",
+          "wordCount": null,
+          "title": "Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s1600/wordpress.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s1600/wordpress.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Russia has detained a South Korean national for the first time on cyber espionage charges and transferred from Vladivostok to Moscow for further investigation.\nThe development was first reported by Russian news agency TASS.\n“During the investigation of an espionage case, a South Korean citizen Baek Won-soon was identified and detained in Vladivostok, and put into custody under a court",

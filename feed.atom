@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-12T09:12:59.167Z</updated>
+    <updated>2024-03-12T09:28:02.522Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites]]></title>
+        <id>https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html</id>
+        <link href="https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html"/>
+        <updated>2024-03-12T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malware campaign is leveraging a high-severity security flaw in the Popup Builder plugin for WordPress to inject malicious JavaScript code.
+According to Sucuri, the campaign has infected more than 3,900 sites over the past three weeks.
+"These attacks are orchestrated from domains less than a month old, with registrations dating back to February 12th, 2024," security researcher]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[South Korean Citizen Detained in Russia on Cyber Espionage Charges]]></title>
         <id>https://thehackernews.com/2024/03/south-korean-citizen-detained-in-russia.html</id>
