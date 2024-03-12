@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters have discovered a set of seven packages on the Python Package Index (PyPI) repository that are designed to steal BIP39 mnemonic phrases used for recovering private keys of a cryptocurrency wallet.\nThe software supply chain attack campaign has been codenamed BIPClip by ReversingLabs. The packages were collectively downloaded 7,451 times prior to them being removed from",
+          "link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
+          "publishedOn": "2024-03-12T12:13:00.000Z",
+          "wordCount": null,
+          "title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s1600/bitcoin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s1600/bitcoin.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/ctem-101-go-beyond-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In a world of ever-expanding jargon, adding another FLA (Four-Letter Acronym) to your glossary might seem like the last thing you’d want to do. But if you are looking for ways to continuously reduce risk across your environment while making significant and consistent improvements to security posture, in our opinion, you probably want to consider establishing a Continuous Threat Exposure",
