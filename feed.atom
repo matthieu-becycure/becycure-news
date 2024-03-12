@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-12T23:10:50.361Z</updated>
+    <updated>2024-03-12T23:25:09.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2478,17 +2478,6 @@ The issue, tracked as CVE-2023-43770 (CVSS score: 6.1), relates to a cross-sit
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered an "implementation vulnerability" that has made it possible to reconstruct encryption keys and decrypt data locked by Rhysida ransomware.
 The findings were published last week by a group of researchers from Kookmin University and the Korea Internet and Security Agency (KISA).
 "Through a comprehensive analysis of Rhysida Ransomware, we identified an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 Ways Hackers use Social Engineering to Bypass MFA]]></title>
-        <id>https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html</id>
-        <link href="https://thehackernews.com/2024/02/4-ways-hackers-use-social-engineering.html"/>
-        <updated>2024-02-12T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to access security, one recommendation stands out above the rest: multi-factor authentication (MFA). With passwords alone being simple work for hackers, MFA provides an essential layer of protection against breaches. However, it's important to remember that MFA isn't foolproof. It can be bypassed, and it often is. 
-If a password is compromised, there are several options]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
