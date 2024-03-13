@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the PixPirate Android banking trojan are leveraging a new trick to evade detection on compromised devices and harvest sensitive information from users in Brazil.\nThe approach allows it to hide the malicious app’s icon from the home screen of the victim’s device, IBM said in a technical report published today.\n“Thanks to this new technique, during PixPirate reconnaissance",
+          "link": "https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html",
+          "publishedOn": "2024-03-13T13:55:00.000Z",
+          "wordCount": null,
+          "title": "PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilb8GiOv0ijRFp01w-5y6GgUQQNfjPUQdkZ5QYiX0z5S2Kv7o1aA_GZWLsCP3v_q2t05JTStYPe0XsrzSQ1N7QarobgEMKc6116tWKfFo7wYyDii982JSOFo1Nd4dBbP4ZsQi3_vaLSQkbnSVwGa7wJ34TgimRXfJORh3pUMoR5GgoexjFUgl8WZin4j8/s1600/pix.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilb8GiOv0ijRFp01w-5y6GgUQQNfjPUQdkZ5QYiX0z5S2Kv7o1aA_GZWLsCP3v_q2t05JTStYPe0XsrzSQ1N7QarobgEMKc6116tWKfFo7wYyDii982JSOFo1Nd4dBbP4ZsQi3_vaLSQkbnSVwGa7wJ34TgimRXfJORh3pUMoR5GgoexjFUgl8WZin4j8/s1600/pix.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identities are the latest sweet spot for cybercriminals, now heavily targeting SaaS applications that are especially vulnerable in this attack vector. \nThe use of SaaS applications involves a wide range of identities, including human and non-human, such as service accounts, API keys, and OAuth authorizations. Consequently, any identity in a SaaS app can create an opening for cybercriminals to",
@@ -2220,6 +2236,126 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/",
+          "publishedOn": "2024-03-13T13:35:39.000Z",
+          "wordCount": 952,
+          "title": "CERTFR-2024-AVI-0215 : Vulnérabilité dans Adobe ColdFusion (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/",
+          "publishedOn": "2024-03-13T13:20:23.000Z",
+          "wordCount": 954,
+          "title": "CERTFR-2024-AVI-0214 : Multiples vulnérabilités dans les produits Stormshield Network Security (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/",
+          "publishedOn": "2024-03-13T11:26:47.000Z",
+          "wordCount": 1148,
+          "title": "CERTFR-2024-AVI-0213 : Multiples vulnérabilités dans les produits Intel (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/",
+          "publishedOn": "2024-03-13T11:13:46.000Z",
+          "wordCount": 1299,
+          "title": "CERTFR-2024-AVI-0212 : Multiples vulnérabilités dans les produits Fortinet (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0211/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0211/",
+          "publishedOn": "2024-03-13T10:11:45.000Z",
+          "wordCount": 1026,
+          "title": "CERTFR-2024-AVI-0211 : Multiples vulnérabilités dans les produits Citrix (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/",
+          "publishedOn": "2024-03-13T09:58:40.000Z",
+          "wordCount": 952,
+          "title": "CERTFR-2024-AVI-0210 : Vulnérabilité dans Google Chrome (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0209/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0209/",
+          "publishedOn": "2024-03-13T08:53:13.000Z",
+          "wordCount": 1202,
+          "title": "CERTFR-2024-AVI-0209 : Multiples vulnérabilités dans les produits SAP (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/",
+          "publishedOn": "2024-03-13T08:38:50.000Z",
+          "wordCount": 1424,
+          "title": "CERTFR-2024-AVI-0208 : Multiples vulnérabilités dans les produits Microsoft (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une usurpation d'identité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/",
+          "publishedOn": "2024-03-13T08:38:48.000Z",
+          "wordCount": 1040,
+          "title": "CERTFR-2024-AVI-0207 : Multiples vulnérabilités dans Microsoft Azure (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/",
+          "publishedOn": "2024-03-13T08:38:46.000Z",
+          "wordCount": 953,
+          "title": "CERTFR-2024-AVI-0206 : Multiples vulnérabilités dans Microsoft .Net (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0205/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0205/",
+          "publishedOn": "2024-03-13T08:38:44.000Z",
+          "wordCount": 1906,
+          "title": "CERTFR-2024-AVI-0205 : Multiples vulnérabilités dans Microsoft Windows (13 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0204/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0204/",
+          "publishedOn": "2024-03-13T08:38:41.000Z",
+          "wordCount": 966,
+          "title": "CERTFR-2024-AVI-0204 : Multiples vulnérabilités dans Microsoft Office (13 mars 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/",
           "author": null,
