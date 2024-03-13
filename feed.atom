@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T16:12:08.434Z</updated>
+    <updated>2024-03-13T16:29:51.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Demystifying a Common Cybersecurity Myth]]></title>
+        <id>https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html</id>
+        <link href="https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html"/>
+        <updated>2024-03-13T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common misconceptions in file upload cybersecurity is that certain tools are “enough” on their own—this is simply not the case. In our latest whitepaper OPSWAT CEO and Founder, Benny Czarny, takes a comprehensive look at what it takes to prevent malware threats in today’s ever-evolving file upload security landscape, and a big part of that is understanding where the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PixPirate Android Banking Trojan Using New Evasion Tactic to Target Brazilian Users]]></title>
         <id>https://thehackernews.com/2024/03/pixpirate-android-banking-trojan-using.html</id>
