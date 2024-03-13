@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T00:46:38.316Z</updated>
+    <updated>2024-03-13T01:45:06.746Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2458,28 +2458,6 @@ The issue, tracked as CVE-2023-43770 (CVSS score: 6.1), relates to a cross-sit
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0117 : Multiples vulnérabilités dans SolarWinds Platform (12 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/"/>
-        <updated>2024-02-12T13:13:45.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhysida Ransomware Cracked, Free Decryption Tool Released]]></title>
-        <id>https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html</id>
-        <link href="https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html"/>
-        <updated>2024-02-12T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered an "implementation vulnerability" that has made it possible to reconstruct encryption keys and decrypt data locked by Rhysida ransomware.
-The findings were published last week by a group of researchers from Kookmin University and the Korea Internet and Security Agency (KISA).
-"Through a comprehensive analysis of Rhysida Ransomware, we identified an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

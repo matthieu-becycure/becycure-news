@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiLarWGymcFRzMRU-YJRZH-DY48VLkLQv3vwvwqMG5dBhTG4Uq5iJlndUAvsnOKbGl4wa7ZSF7SiuAjgj59q_E6PMlECCraZvaBB03OpQPFIhQYzC8O-CLgK4vrdbFjixz5AeWOeTviTJRtAo2_JeP3lucVHN0VA2sg0TaOgx4wi_YniFwevStGA1pAjxb/s1600/roundcube.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiLarWGymcFRzMRU-YJRZH-DY48VLkLQv3vwvwqMG5dBhTG4Uq5iJlndUAvsnOKbGl4wa7ZSF7SiuAjgj59q_E6PMlECCraZvaBB03OpQPFIhQYzC8O-CLgK4vrdbFjixz5AeWOeTviTJRtAo2_JeP3lucVHN0VA2sg0TaOgx4wi_YniFwevStGA1pAjxb/s1600/roundcube.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered an \"implementation vulnerability\" that has made it possible to reconstruct encryption keys and decrypt data locked by Rhysida ransomware.\nThe findings were published last week by a group of researchers from Kookmin University and the Korea Internet and Security Agency (KISA).\n\"Through a comprehensive analysis of Rhysida Ransomware, we identified an",
-          "link": "https://thehackernews.com/2024/02/rhysida-ransomware-cracked-free.html",
-          "publishedOn": "2024-02-12T13:12:00.000Z",
-          "wordCount": null,
-          "title": "Rhysida Ransomware Cracked, Free Decryption Tool Released",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQvKycBvhYLe6HuK8U27v50iiqVM96dNvP1P9yg-1Xaoz6ot1QrIvgqRLtXwZU-QJtPjZiMRAGAG_dCijSWXHLd5JoM7pOzV1Yja4Su-3bLLcpqUpCQlATHQK4eAhytMKek9As8VYQy8ZO28Y4CQCj5sp5QXlWEO8p49_ExCkZQrW-7Od34OcxNmtASQq/s1600/ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQvKycBvhYLe6HuK8U27v50iiqVM96dNvP1P9yg-1Xaoz6ot1QrIvgqRLtXwZU-QJtPjZiMRAGAG_dCijSWXHLd5JoM7pOzV1Yja4Su-3bLLcpqUpCQlATHQK4eAhytMKek9As8VYQy8ZO28Y4CQCj5sp5QXlWEO8p49_ExCkZQrW-7Od34OcxNmtASQq/s1600/ransomware.jpg"
         }
       ]
     },
@@ -3110,16 +3094,6 @@
           "publishedOn": "2024-02-12T14:20:00.000Z",
           "wordCount": 1728,
           "title": "CERTFR-2024-ACT-008 : Bulletin d’actualité CERTFR-2024-ACT-008 (12 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0117/",
-          "publishedOn": "2024-02-12T13:13:45.000Z",
-          "wordCount": 956,
-          "title": "CERTFR-2024-AVI-0117 : Multiples vulnérabilités dans SolarWinds Platform (12 février 2024)",
           "imageUrl": null
         }
       ]
