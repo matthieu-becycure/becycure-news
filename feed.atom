@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T16:43:48.588Z</updated>
+    <updated>2024-03-13T17:10:36.115Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2623,17 +2623,6 @@ Of the 73 vulnerabilities, 5 are rated Critical, 65 are rated Important, and thr
         <updated>2024-02-13T07:03:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors are leveraging a recently disclosed security flaw impacting Ivanti Connect Secure, Policy Secure, and ZTA gateways to deploy a backdoor codenamed DSLog on susceptible devices.
 That's according to findings from Orange Cyberdefense, which said it observed the exploitation of CVE-2024-21893 within hours of the public release of the proof-the-concept (PoC) code.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: CISA Warns of Active 'Roundcube' Email Attacks - Patch Now]]></title>
-        <id>https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html</id>
-        <link href="https://thehackernews.com/2024/02/alert-cisa-warns-of-active-roundcube.html"/>
-        <updated>2024-02-13T04:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a medium-severity security flaw impacting Roundcube email software to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The issue, tracked as CVE-2023-43770 (CVSS score: 6.1), relates to a cross-site scripting (XSS) flaw that stems from the handling of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
