@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T10:43:46.007Z</updated>
+    <updated>2024-03-13T11:11:09.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms]]></title>
+        <id>https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html</id>
+        <link href="https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html"/>
+        <updated>2024-03-13T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Identities are the latest sweet spot for cybercriminals, now heavily targeting SaaS applications that are especially vulnerable in this attack vector. 
+The use of SaaS applications involves a wide range of identities, including human and non-human, such as service accounts, API keys, and OAuth authorizations. Consequently, any identity in a SaaS app can create an opening for cybercriminals to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Highlight Google's Gemini AI Susceptibility to LLM Threats]]></title>
+        <id>https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html</id>
+        <link href="https://thehackernews.com/2024/03/researchers-highlight-googles-gemini-ai.html"/>
+        <updated>2024-03-13T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Google's Gemini large language model (LLM) is susceptible to security threats that could cause it to divulge system prompts, generate harmful content, and carry out indirect injection attacks.
+The findings come from HiddenLayer, which said the issues impact consumers using Gemini Advanced with Google Workspace as well as companies using the LLM API.
+The first vulnerability involves]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub]]></title>
         <id>https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html</id>
