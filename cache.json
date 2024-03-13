@@ -3259,16 +3259,6 @@
           "wordCount": 2616,
           "title": "CERTFR-2024-AVI-0119 : [SCADA] Multiples vulnérabilités dans les produits Siemens (13 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0118/",
-          "publishedOn": "2024-02-13T07:27:25.000Z",
-          "wordCount": 1049,
-          "title": "CERTFR-2024-AVI-0118 : Multiples vulnérabilités dans les produits Qnap (13 février 2024)",
-          "imageUrl": null
         }
       ]
     }
