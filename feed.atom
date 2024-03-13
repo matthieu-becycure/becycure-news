@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T02:18:16.812Z</updated>
+    <updated>2024-03-13T02:31:36.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2448,16 +2448,6 @@ That's according to findings from Orange Cyberdefense, which said it observed 
 The issue, tracked as CVE-2023-43770 (CVSS score: 6.1), relates to a cross-site scripting (XSS) flaw that stems from the handling of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-ACT-008 : Bulletin d’actualité CERTFR-2024-ACT-008 (12 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-008/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-008/"/>
-        <updated>2024-02-12T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
