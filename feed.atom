@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-13T05:43:37.974Z</updated>
+    <updated>2024-03-13T06:13:37.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws]]></title>
+        <id>https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html</id>
+        <link href="https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html"/>
+        <updated>2024-03-13T05:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday released its monthly security update, addressing 61 different security flaws spanning its software, including two critical issues impacting Windows Hyper-V that could lead to denial-of-service (DoS) and remote code execution.
+Of the 61 vulnerabilities, two are rated Critical, 58 are rated Important, and one is rated Low in severity. None of the flaws are listed as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0203 : [SCADA] Multiples vulnérabilités dans les produits Siemens (12 mars 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/</id>

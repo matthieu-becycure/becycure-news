@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday released its monthly security update, addressing 61 different security flaws spanning its software, including two critical issues impacting Windows Hyper-V that could lead to denial-of-service (DoS) and remote code execution.\nOf the 61 vulnerabilities, two are rated Critical, 58 are rated Important, and one is rated Low in severity. None of the flaws are listed as",
+          "link": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
+          "publishedOn": "2024-03-13T05:38:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft's March Updates Fix 61 Vulnerabilities, Including Critical Hyper-V Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s1600/windows.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat hunters have discovered a set of seven packages on the Python Package Index (PyPI) repository that are designed to steal BIP39 mnemonic phrases used for recovering private keys of a cryptocurrency wallet.\nThe software supply chain attack campaign has been codenamed BIPClip by ReversingLabs. The packages were collectively downloaded 7,451 times prior to them being removed from",
