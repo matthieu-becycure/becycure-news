@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new phishing campaign has been observed delivering remote access trojans (RAT) such as VCURMS and STRRAT by means of a malicious Java-based downloader.\n“The attackers stored malware on public services like Amazon Web Services (AWS) and GitHub, employing a commercial protector to avoid detection of the malware,” Fortinet FortiGuard Labs researcher Yurren Wan said.\nAn unusual aspect of the",
+          "link": "https://thehackernews.com/2024/03/alert-cybercriminals-deploying-vcurms.html",
+          "publishedOn": "2024-03-13T09:43:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSJ-Fl4cPKdma4o_d14y_6-5CIK8AAMHnfP3bz_KdOAYXg-vCpEnBeXAd33JRbYTgX3c8IVcsilapCgcvlW0EueavJic_3NcZnJbzQrC4An41-VhljMRAFq4vGRAjyDRhO4AE7zzWQqhQp_oFRR7949iddEmG4HO2E43ew-Z4h3qFgxvUNBFtMsAfXAJh-/s1600/pro.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSJ-Fl4cPKdma4o_d14y_6-5CIK8AAMHnfP3bz_KdOAYXg-vCpEnBeXAd33JRbYTgX3c8IVcsilapCgcvlW0EueavJic_3NcZnJbzQrC4An41-VhljMRAFq4vGRAjyDRhO4AE7zzWQqhQp_oFRR7949iddEmG4HO2E43ew-Z4h3qFgxvUNBFtMsAfXAJh-/s1600/pro.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/microsofts-march-updates-fix-61.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Tuesday released its monthly security update, addressing 61 different security flaws spanning its software, including two critical issues impacting Windows Hyper-V that could lead to denial-of-service (DoS) and remote code execution.\nOf the 61 vulnerabilities, two are rated Critical, 58 are rated Important, and one is rated Low in severity. None of the flaws are listed as",
