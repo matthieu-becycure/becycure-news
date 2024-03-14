@@ -2285,6 +2285,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/",
+          "publishedOn": "2024-03-14T13:20:33.000Z",
+          "wordCount": 958,
+          "title": "CERTFR-2024-AVI-0222 : Vulnérabilité dans Synology Router Manager (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une élévation de privilèges et une atteinte à la confidentialité des …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0221/",
+          "publishedOn": "2024-03-14T09:22:36.000Z",
+          "wordCount": 1125,
+          "title": "CERTFR-2024-AVI-0221 : Multiples vulnérabilités dans les produits Palo Alto Networks (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Cisco IOS XR. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0220/",
+          "publishedOn": "2024-03-14T09:21:35.000Z",
+          "wordCount": 1091,
+          "title": "CERTFR-2024-AVI-0220 : Multiples vulnérabilités dans Cisco IOS XR (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/",
+          "publishedOn": "2024-03-14T08:50:57.000Z",
+          "wordCount": 963,
+          "title": "CERTFR-2024-AVI-0219 : Vulnérabilité dans les produits Mitel (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/",
+          "publishedOn": "2024-03-14T08:47:38.000Z",
+          "wordCount": 996,
+          "title": "CERTFR-2024-AVI-0218 : Multiples vulnérabilités dans Apache Tomcat (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/",
+          "publishedOn": "2024-03-14T08:45:48.000Z",
+          "wordCount": 1213,
+          "title": "CERTFR-2024-AVI-0217 : Multiples vulnérabilités dans SonicWall (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/",
+          "publishedOn": "2024-03-14T07:42:48.000Z",
+          "wordCount": 1014,
+          "title": "CERTFR-2024-AVI-0216 : Multiples vulnérabilités dans les produits Xen (14 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
