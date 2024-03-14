@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have been made public about a now-patched high-severity flaw in Kubernetes that could allow a malicious attacker to achieve remote code execution with elevated privileges under specific circumstances.\n“The vulnerability allows remote code execution with SYSTEM privileges on all Windows endpoints within a Kubernetes cluster,” Akamai security researcher Tomer Peled said. “To exploit",
+          "link": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
+          "publishedOn": "2024-03-14T11:59:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s1600/flaws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTspi3kr5h5tZ2IxCOQxXDT3uPIPYcXgHNTmhywnWauGiXrA5QmqDfXYANQvG45FP9Zy6eb9FcNJPOW7TOf2CV1z-5FbpPmAlOE2cvH702rhQf_162lBmUmzL-eNoQo0ZVw2Gyd1S7ppfw5nSGAhA6iMI_NFmTXpNKs4HNhA6jYNP4mOzYhKnE3YNslC5i/s1600/flaws.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Being a CISO is a balancing act: ensuring organizations are secure without compromising users’ productivity. This requires taking multiple elements into consideration, like cost, complexity, performance and user experience. CISOs around the globe use Cato SSE 360, as part of the Cato SASE Cloud platform to balance these factors without compromise.\nThis article details how CISOs are",
