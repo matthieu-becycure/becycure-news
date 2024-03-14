@@ -3233,16 +3233,6 @@
           "wordCount": 1148,
           "title": "CERTFR-2024-AVI-0120 : [SCADA] Multiples vulnérabilités dans les produits Schneider (13 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0119/",
-          "publishedOn": "2024-02-13T12:13:31.000Z",
-          "wordCount": 2616,
-          "title": "CERTFR-2024-AVI-0119 : [SCADA] Multiples vulnérabilités dans les produits Siemens (13 février 2024)",
-          "imageUrl": null
         }
       ]
     }
