@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-14T14:43:42.394Z</updated>
+    <updated>2024-03-14T15:10:19.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada]]></title>
+        <id>https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html</id>
+        <link href="https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html"/>
+        <updated>2024-03-14T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[A 34-year-old Russian-Canadian national has been sentenced to nearly four years in jail in Canada for his participation in the LockBit global ransomware operation.
+Mikhail Vasiliev, an Ontario resident, was originally arrested in November 2022 and charged by the U.S. Department of Justice (DoJ) with "conspiring with others to intentionally damage protected computers and to transmit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Detail Kubernetes Vulnerability That Enables Windows Node Takeover]]></title>
         <id>https://thehackernews.com/2024/03/researchers-detail-kubernetes.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A 34-year-old Russian-Canadian national has been sentenced to nearly four years in jail in Canada for his participation in the LockBit global ransomware operation.\nMikhail Vasiliev, an Ontario resident, was originally arrested in November 2022 and charged by the U.S. Department of Justice (DoJ) with \"conspiring with others to intentionally damage protected computers and to transmit",
+          "link": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
+          "publishedOn": "2024-03-14T13:47:00.000Z",
+          "wordCount": null,
+          "title": "LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZVoP61unvfX42xbj7PEfP-mtJMw9mdIwFBivDm7Br-onJ09BA4yCkAinJtyTeUtgQdeAyRlr9T3WYrY4sx9jon1GEE1GPExWIjkwuShE28pgBsCS90DInQDO08puT8z3MYmNWNuJXDyS90TaAoN20LBXdG1Qk0RMwoP3_0rM1iYkmkPLau06Z-EzmkQvF/s1600/ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/researchers-detail-kubernetes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have been made public about a now-patched high-severity flaw in Kubernetes that could allow a malicious attacker to achieve remote code execution with elevated privileges under specific circumstances.\n“The vulnerability allows remote code execution with SYSTEM privileges on all Windows endpoints within a Kubernetes cluster,” Akamai security researcher Tomer Peled said. “To exploit",
