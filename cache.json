@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKb5D0aePx3uUL8DmuyLOreV5jZggdbpx197Itr2vQrvdVznDjieX7QTHDcOzLYdwAbjAVxXpOl5nty3ZSJRFWzSzVOJFTM1QNyGjm3sGa81UPhD1y-pI1zIPKOOv6IkXtqHMVH4KSslSdDQk3qJ7n5ma_x7co7dMnXZMBBwev_3OFGVJiwq1QGpuuBwcr/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKb5D0aePx3uUL8DmuyLOreV5jZggdbpx197Itr2vQrvdVznDjieX7QTHDcOzLYdwAbjAVxXpOl5nty3ZSJRFWzSzVOJFTM1QNyGjm3sGa81UPhD1y-pI1zIPKOOv6IkXtqHMVH4KSslSdDQk3qJ7n5ma_x7co7dMnXZMBBwev_3OFGVJiwq1QGpuuBwcr/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newly disclosed security flaw in the Microsoft Defender SmartScreen has been exploited as a zero-day by an advanced persistent threat actor called Water Hydra (aka DarkCasino) targeting financial market traders.\nTrend Micro, which began tracking the campaign in late December 2023, said it entails the exploitation of CVE-2024-21412, a security bypass vulnerability related to Internet",
-          "link": "https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html",
-          "publishedOn": "2024-02-14T07:33:00.000Z",
-          "wordCount": null,
-          "title": "DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDxsWZtMUgmZz5rKH-NbrAkA6dv3NZaDoBd4puHxMXvXQc5SA3BAdPzOWcaWaQwHzKHvlE06MBejybwscxmbgqCSedwNfgZHIeo6TGB1cVTRlCzhicYxuuEa8zFhX4vWsEs2odbiRb9_RamAFOW0YExxQfi7rVH2OYlT0rGlKEWeub8wgOe4knCQ4-vG6t/s1600/trading.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDxsWZtMUgmZz5rKH-NbrAkA6dv3NZaDoBd4puHxMXvXQc5SA3BAdPzOWcaWaQwHzKHvlE06MBejybwscxmbgqCSedwNfgZHIeo6TGB1cVTRlCzhicYxuuEa8zFhX4vWsEs2odbiRb9_RamAFOW0YExxQfi7rVH2OYlT0rGlKEWeub8wgOe4knCQ4-vG6t/s1600/trading.jpg"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-14T19:23:36.339Z</updated>
+    <updated>2024-03-14T19:43:32.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2661,17 +2661,6 @@ Enterprise security firm Proofpoint said the activity targets organizations in t
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et injection de code indirecte à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DarkMe Malware Targets Traders Using Microsoft SmartScreen Zero-Day Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html</id>
-        <link href="https://thehackernews.com/2024/02/darkme-malware-targets-traders-using.html"/>
-        <updated>2024-02-14T07:33:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly disclosed security flaw in the Microsoft Defender SmartScreen has been exploited as a zero-day by an advanced persistent threat actor called Water Hydra (aka DarkCasino) targeting financial market traders.
-Trend Micro, which began tracking the campaign in late December 2023, said it entails the exploitation of CVE-2024-21412, a security bypass vulnerability related to Internet]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
