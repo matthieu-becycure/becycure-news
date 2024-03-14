@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-14T10:29:15.555Z</updated>
+    <updated>2024-03-14T10:43:28.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[3 Things CISOs Achieve with Cato]]></title>
+        <id>https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html</id>
+        <link href="https://thehackernews.com/2024/03/3-things-cisos-achieve-with-cato.html"/>
+        <updated>2024-03-14T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Being a CISO is a balancing act: ensuring organizations are secure without compromising users’ productivity. This requires taking multiple elements into consideration, like cost, complexity, performance and user experience. CISOs around the globe use Cato SSE 360, as part of the Cato SASE Cloud platform to balance these factors without compromise.
+This article details how CISOs are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedCurl Cybercrime Group Abuses Windows PCA Tool for Corporate Espionage]]></title>
+        <id>https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html</id>
+        <link href="https://thehackernews.com/2024/03/redcurl-cybercrime-group-abuses-windows.html"/>
+        <updated>2024-03-14T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian-speaking cybercrime group called RedCurl is leveraging a legitimate Microsoft Windows component called the Program Compatibility Assistant (PCA) to execute malicious commands.
+
+“The Program Compatibility Assistant Service (pcalua.exe) is a Windows service designed to identify and address compatibility issues with older programs,” Trend Micro said in an analysis]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ande Loader Malware Targets Manufacturing Sector in North America]]></title>
         <id>https://thehackernews.com/2024/03/ande-loader-malware-targets.html</id>
