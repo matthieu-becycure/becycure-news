@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-14T23:09:46.052Z</updated>
+    <updated>2024-03-14T23:23:33.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2617,28 +2617,6 @@ The findings come from a report published by Microsoft in collaboration with Ope
         <updated>2024-02-14T13:26:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have found that it's possible for threat actors to exploit a well-known utility called command-not-found to recommend their own rogue packages and compromise systems running Ubuntu operating system.
 "While 'command-not-found' serves as a convenient tool for suggesting installations for uninstalled commands, it can be inadvertently manipulated by attackers through the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Tactics FinServ Institutions Can Bank On in 2024]]></title>
-        <id>https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html</id>
-        <link href="https://thehackernews.com/2024/02/cybersecurity-tactics-finserv.html"/>
-        <updated>2024-02-14T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The landscape of cybersecurity in financial services is undergoing a rapid transformation. Cybercriminals are exploiting advanced technologies and methodologies, making traditional security measures obsolete. The challenges are compounded for community banks that must safeguard sensitive financial data against the same level of sophisticated threats as larger institutions, but often with more]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bumblebee Malware Returns with New Tricks, Targeting U.S. Businesses]]></title>
-        <id>https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html</id>
-        <link href="https://thehackernews.com/2024/02/bumblebee-malware-returns-with-new.html"/>
-        <updated>2024-02-14T11:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The infamous malware loader and initial access broker known as Bumblebee has resurfaced after a four-month absence as part of a new phishing campaign observed in February 2024.
-Enterprise security firm Proofpoint said the activity targets organizations in the U.S. with voicemail-themed lures containing links to OneDrive URLs.
-"The URLs led to a Word file with names such as "]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
