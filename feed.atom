@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-14T16:43:46.409Z</updated>
+    <updated>2024-03-14T17:09:16.141Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2670,17 +2670,6 @@ Enterprise security firm Proofpoint said the activity targets organizations in t
         <updated>2024-02-14T07:33:00.000Z</updated>
         <summary type="html"><![CDATA[A newly disclosed security flaw in the Microsoft Defender SmartScreen has been exploited as a zero-day by an advanced persistent threat actor called Water Hydra (aka DarkCasino) targeting financial market traders.
 Trend Micro, which began tracking the campaign in late December 2023, said it entails the exploitation of CVE-2024-21412, a security bypass vulnerability related to Internet]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Rolls Out Patches for 73 Flaws, Including 2 Windows Zero-Days]]></title>
-        <id>https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html</id>
-        <link href="https://thehackernews.com/2024/02/microsoft-rolls-out-patches-for-73.html"/>
-        <updated>2024-02-14T05:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released patches to address 73 security flaws spanning its software lineup as part of its Patch Tuesday updates for February 2024, including two zero-days that have come under active exploitation.
-Of the 73 vulnerabilities, 5 are rated Critical, 65 are rated Important, and three and rated Moderate in severity. This is in addition to 24 flaws that have been fixed]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
