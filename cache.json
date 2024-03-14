@@ -3171,16 +3171,6 @@
           "wordCount": 1228,
           "title": "CERTFR-2024-AVI-0123 : Multiples vulnérabilités dans les produits Adobe (14 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Bind. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0122/",
-          "publishedOn": "2024-02-13T17:07:04.000Z",
-          "wordCount": 1108,
-          "title": "CERTFR-2024-AVI-0122 : Multiples vulnérabilités dans Bind (13 février 2024)",
-          "imageUrl": null
         }
       ]
     }
