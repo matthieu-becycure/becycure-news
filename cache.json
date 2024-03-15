@@ -3255,16 +3255,6 @@
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0134 : Multiples vulnérabilités dans les produits Tenable (15 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0133/",
-          "publishedOn": "2024-02-15T08:59:16.000Z",
-          "wordCount": 931,
-          "title": "CERTFR-2024-AVI-0133 : Multiples vulnérabilités dans Nginx (15 février 2024)",
-          "imageUrl": null
         }
       ]
     }
