@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-15T03:43:45.821Z</updated>
+    <updated>2024-03-15T04:12:43.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2527,56 +2527,6 @@ Tracked as CVE-2024-21410 (CVSS score: 9.8), the issue has been described as a
 "An attacker]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0131 : Multiples vulnérabilités dans les produits Microsoft (14 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0131/"/>
-        <updated>2024-02-14T16:00:39.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans les produits Microsoft. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service, une élévation de privilèges, une usurpation d'identité et une exécution de …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0130 : Multiples vulnérabilités dans Microsoft Azure (14 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0130/"/>
-        <updated>2024-02-14T16:00:38.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire à distance et une usurpation d'identité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0129 : Multiples vulnérabilités dans Microsoft .Net (14 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0129/"/>
-        <updated>2024-02-14T16:00:36.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0128 : Multiples vulnérabilités dans Microsoft Windows (14 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0128/"/>
-        <updated>2024-02-14T16:00:35.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Windows. Elles permettent à un attaquant de provoquer un contournement de la fonctionnalité de sécurité, une atteinte à la confidentialité des données, un déni de service, une élévation de privilèges, …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0127 : Multiples vulnérabilités dans Microsoft Office (14 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0127/"/>
-        <updated>2024-02-14T16:00:33.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une élévation de privilèges et une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
