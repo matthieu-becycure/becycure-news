@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-15T08:29:52.843Z</updated>
+    <updated>2024-03-15T08:43:43.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Introduces Enhanced Real-Time URL Protection for Chrome Users]]></title>
+        <id>https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html</id>
+        <link href="https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html"/>
+        <updated>2024-03-15T07:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday announced an enhanced version of Safe Browsing to provide real-time, privacy-preserving URL protection and safeguard users from visiting potentially malicious sites.
+“The Standard protection mode for Chrome on desktop and iOS will check sites against Google’s server-side list of known bad sites in real-time,” Google’s Jonathan Li and Jasika Bawa said.
+“If we]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers]]></title>
         <id>https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html</id>
