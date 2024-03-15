@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKzjBY3OOGttaxkmh8q7aiKyqIRXNwl2tk8tfqxVkOELNUwatuCfFj99ql7EpRXQ7otXkQCrYp8Pn7CvYJoc4GIUvD_AeGk53O9F_HQ3RsYT9AHunGtaGJxq0Jg-YzcX0tCKRkUUmw70FzmAR1vGWuFa0PTdtnESAVgSYxuXP6eJu4CGsOilzdsiYtPq7/s1600/machine-learning.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGKzjBY3OOGttaxkmh8q7aiKyqIRXNwl2tk8tfqxVkOELNUwatuCfFj99ql7EpRXQ7otXkQCrYp8Pn7CvYJoc4GIUvD_AeGk53O9F_HQ3RsYT9AHunGtaGJxq0Jg-YzcX0tCKRkUUmw70FzmAR1vGWuFa0PTdtnESAVgSYxuXP6eJu4CGsOilzdsiYtPq7/s1600/machine-learning.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have found that it's possible for threat actors to exploit a well-known utility called command-not-found to recommend their own rogue packages and compromise systems running Ubuntu operating system.\n\"While 'command-not-found' serves as a convenient tool for suggesting installations for uninstalled commands, it can be inadvertently manipulated by attackers through the",
-          "link": "https://thehackernews.com/2024/02/ubuntu-command-not-found-tool-could.html",
-          "publishedOn": "2024-02-14T13:26:00.000Z",
-          "wordCount": null,
-          "title": "Ubuntu 'command-not-found' Tool Could Trick Users into Installing Rogue Packages",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDyP4NoSgT96xKZCqtP23_WHosGZg_mMUIqJnjVlh8Bs9IlSJEP3YO1aS-kN0-cJoWxFN66HjWHwM2Iu18sCYFeSBKXgWFrkFEDLm0lE9rttvuNywVmO3UJIcbY5UhNiGYqMYCO9XgU8sfk4rUPPC3-TJw04leySYWUKWSq_wHVhFtfe1sZt108b7dWwP-/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDyP4NoSgT96xKZCqtP23_WHosGZg_mMUIqJnjVlh8Bs9IlSJEP3YO1aS-kN0-cJoWxFN66HjWHwM2Iu18sCYFeSBKXgWFrkFEDLm0lE9rttvuNywVmO3UJIcbY5UhNiGYqMYCO9XgU8sfk4rUPPC3-TJw04leySYWUKWSq_wHVhFtfe1sZt108b7dWwP-/s1600/linux.jpg"
         }
       ]
     },
@@ -3248,26 +3232,6 @@
           "publishedOn": "2024-02-14T16:00:33.000Z",
           "wordCount": 1043,
           "title": "CERTFR-2024-AVI-0127 : Multiples vulnérabilités dans Microsoft Office (14 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0126/",
-          "publishedOn": "2024-02-14T13:41:18.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2024-AVI-0126 : Vulnérabilité dans Google Chrome (14 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans SAP. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0125/",
-          "publishedOn": "2024-02-14T13:26:43.000Z",
-          "wordCount": 1279,
-          "title": "CERTFR-2024-AVI-0125 : Multiples vulnérabilités dans SAP (14 février 2024)",
           "imageUrl": null
         }
       ]
