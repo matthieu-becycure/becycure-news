@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have found that third-party plugins available for OpenAI ChatGPT could act as a new attack surface for threat actors looking to gain unauthorized access to sensitive data.\nAccording to new research published by Salt Labs, security flaws found directly in ChatGPT and within the ecosystem could allow attackers to install malicious plugins without users' consent",
+          "link": "https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html",
+          "publishedOn": "2024-03-15T11:34:00.000Z",
+          "wordCount": null,
+          "title": "Third-Party ChatGPT Plugins Could Lead to Account Takeovers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k8kuo0Gqkw8CCM95JlOx7P4cUnDM-SnjUyN3OrZbAkzJnr1c_CPtOMYgL3-DRUQV8PSAPZwhQaD8BW-J46-7iyoRNFxzKYemHGp2IGSGFMxBg-xIFuz93lm_ZCum55AB3rNp6Y3Fc6F_vUlBcA_ZlCmkSSzRGkQE_OCkfD7uir7giw5NjrVj4NU6gbcM/s1600/chatgpt.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k8kuo0Gqkw8CCM95JlOx7P4cUnDM-SnjUyN3OrZbAkzJnr1c_CPtOMYgL3-DRUQV8PSAPZwhQaD8BW-J46-7iyoRNFxzKYemHGp2IGSGFMxBg-xIFuz93lm_ZCum55AB3rNp6Y3Fc6F_vUlBcA_ZlCmkSSzRGkQE_OCkfD7uir7giw5NjrVj4NU6gbcM/s1600/chatgpt.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Thursday announced an enhanced version of Safe Browsing to provide real-time, privacy-preserving URL protection and safeguard users from visiting potentially malicious sites.\n“The Standard protection mode for Chrome on desktop and iOS will check sites against Google’s server-side list of known bad sites in real-time,” Google’s Jonathan Li and Jasika Bawa said.\n“If we",

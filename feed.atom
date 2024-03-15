@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-15T11:43:43.143Z</updated>
+    <updated>2024-03-15T12:17:33.954Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Third-Party ChatGPT Plugins Could Lead to Account Takeovers]]></title>
+        <id>https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html</id>
+        <link href="https://thehackernews.com/2024/03/third-party-chatgpt-plugins-could-lead.html"/>
+        <updated>2024-03-15T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have found that third-party plugins available for OpenAI ChatGPT could act as a new attack surface for threat actors looking to gain unauthorized access to sensitive data.
+According to new research published by Salt Labs, security flaws found directly in ChatGPT and within the ecosystem could allow attackers to install malicious plugins without users' consent]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Introduces Enhanced Real-Time URL Protection for Chrome Users]]></title>
         <id>https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html</id>
