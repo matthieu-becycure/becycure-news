@@ -3265,16 +3265,6 @@
           "wordCount": 931,
           "title": "CERTFR-2024-AVI-0133 : Multiples vulnérabilités dans Nginx (15 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Grafana. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0132/",
-          "publishedOn": "2024-02-15T08:02:06.000Z",
-          "wordCount": 948,
-          "title": "CERTFR-2024-AVI-0132 : Vulnérabilité dans Grafana (15 février 2024)",
-          "imageUrl": null
         }
       ]
     }
