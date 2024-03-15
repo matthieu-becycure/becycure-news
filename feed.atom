@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-15T02:30:08.689Z</updated>
+    <updated>2024-03-15T02:43:35.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2577,17 +2577,6 @@ Tracked as CVE-2024-21410 (CVSS score: 9.8), the issue has been described as a
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Office. Elles permettent à un attaquant de provoquer une élévation de privilèges et une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft, OpenAI Warn of Nation-State Hackers Weaponizing AI for Cyberattacks]]></title>
-        <id>https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html</id>
-        <link href="https://thehackernews.com/2024/02/microsoft-openai-warn-of-nation-state.html"/>
-        <updated>2024-02-14T14:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Nation-state actors associated with Russia, North Korea, Iran, and China are experimenting with artificial intelligence (AI) and large language models (LLMs) to complement their ongoing cyber attack operations.
-The findings come from a report published by Microsoft in collaboration with OpenAI, both of which said they disrupted efforts made by five state-affiliated actors that used its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
