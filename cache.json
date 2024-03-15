@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Chinese users looking for legitimate software such as Notepad++ and VNote on search engines like Baidu are being targeted with malicious ads and bogus links to distribute trojanized versions of the software and ultimately deploy Geacon, a Golang-based implementation of Cobalt Strike.\n“The malicious site found in the notepad++ search is distributed through an advertisement block,” Kaspersky",
+          "link": "https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html",
+          "publishedOn": "2024-03-15T06:18:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMDfs339flChbFGf3_fpTM5QE9t_zbZHVk4B14sEQPLhc9Z8wcsnsg5Szl-P9GiFWrz-Il1bpVLCyJwcPJL6LqyAe1iC5e394glG98jegZ_OvlUovswO-erglRNLjU0uvquBu1RG-dA-RuaEPJSBGcUp7I9Q-G3xktyEemW7kAqb1lvyw5HvCbCTu_SOo/s1600/notepad.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiMDfs339flChbFGf3_fpTM5QE9t_zbZHVk4B14sEQPLhc9Z8wcsnsg5Szl-P9GiFWrz-Il1bpVLCyJwcPJL6LqyAe1iC5e394glG98jegZ_OvlUovswO-erglRNLjU0uvquBu1RG-dA-RuaEPJSBGcUp7I9Q-G3xktyEemW7kAqb1lvyw5HvCbCTu_SOo/s1600/notepad.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A 34-year-old Russian-Canadian national has been sentenced to nearly four years in jail in Canada for his participation in the LockBit global ransomware operation.\nMikhail Vasiliev, an Ontario resident, was originally arrested in November 2022 and charged by the U.S. Department of Justice (DoJ) with \"conspiring with others to intentionally damage protected computers and to transmit",
