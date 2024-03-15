@@ -3245,16 +3245,6 @@
           "wordCount": 922,
           "title": "CERTFR-2024-AVI-0135 : Vulnérabilité dans Squid (15 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0134/",
-          "publishedOn": "2024-02-15T09:10:25.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0134 : Multiples vulnérabilités dans les produits Tenable (15 février 2024)",
-          "imageUrl": null
         }
       ]
     }
