@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-16T02:43:39.032Z</updated>
+    <updated>2024-03-16T03:11:21.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2486,17 +2486,6 @@ The SMS phishing messages are designed to propagate malicious links that are des
  Elle permet à un attaquant non authentifié de divulguer le condensat …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Turla Hackers Target Polish NGOs with New TinyTurla-NG Backdoor]]></title>
-        <id>https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html</id>
-        <link href="https://thehackernews.com/2024/02/russian-turla-hackers-target-polish.html"/>
-        <updated>2024-02-15T15:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked threat actor known as Turla has been observed using a new backdoor called TinyTurla-NG as part of a three-month-long campaign targeting Polish non-governmental organizations in December 2023.
-"TinyTurla-NG, just like TinyTurla, is a small 'last chance' backdoor that is left behind to be used when all other unauthorized access/backdoor mechanisms have failed or been]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
