@@ -3153,16 +3153,6 @@
           "wordCount": 1035,
           "title": "CERTFR-2024-ALE-005 : Vulnérabilité dans Microsoft Outlook (15 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Liferay. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0140/",
-          "publishedOn": "2024-02-15T13:49:17.000Z",
-          "wordCount": 1030,
-          "title": "CERTFR-2024-AVI-0140 : Multiples vulnérabilités dans Liferay (15 février 2024)",
-          "imageUrl": null
         }
       ]
     }
