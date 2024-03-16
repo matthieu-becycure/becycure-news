@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-16T19:23:25.947Z</updated>
+    <updated>2024-03-16T19:43:33.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2465,17 +2465,6 @@ The SMS phishing messages are designed to propagate malicious links that are des
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. State Government Network Breached via Former Employee's Account]]></title>
-        <id>https://thehackernews.com/2024/02/us-state-government-network-breached.html</id>
-        <link href="https://thehackernews.com/2024/02/us-state-government-network-breached.html"/>
-        <updated>2024-02-16T07:40:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed state government organization's network environment was compromised via an administrator account belonging to a former employee.
-"This allowed the threat actor to successfully authenticate to an internal virtual private network (VPN) access point," the agency said in a joint advisory published]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
