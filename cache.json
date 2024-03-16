@@ -3111,16 +3111,6 @@
           "wordCount": 957,
           "title": "CERTFR-2024-AVI-0141 : Vulnérabilité dans Liferay (16 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
-          "author": null,
-          "description": "Le 13 février 2024, Microsoft a publié un correctif pour la vulnérabilité CVE-2024-21413 affectant le produit Outlook pour Windows.\n Elle permet à un attaquant non authentifié de divulguer le condensat …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
-          "publishedOn": "2024-02-15T16:32:41.000Z",
-          "wordCount": 1035,
-          "title": "CERTFR-2024-ALE-005 : Vulnérabilité dans Microsoft Outlook (15 février 2024)",
-          "imageUrl": null
         }
       ]
     }
