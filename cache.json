@@ -2116,38 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsylQV-v4Puy4OHUSxWRQmAkvsQqmpB5oLn6AjFyeE-vs7ukdX7NCYsMxbws7IJi-iosKChhfgjjQpiFVBhQjsRcjEi7BwyZW582Xo9ojQ1LEC-CMNzhVPkOJuC-P_IB8lFaT27B2aJUKL9MKCdNZww0GI1ArlnotYv4i4W1akPjtAw2ZEi9-9l0gctTCy/s1600/macos.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsylQV-v4Puy4OHUSxWRQmAkvsQqmpB5oLn6AjFyeE-vs7ukdX7NCYsMxbws7IJi-iosKChhfgjjQpiFVBhQjsRcjEi7BwyZW582Xo9ojQ1LEC-CMNzhVPkOJuC-P_IB8lFaT27B2aJUKL9MKCdNZww0GI1ArlnotYv4i4W1akPjtAw2ZEi9-9l0gctTCy/s1600/macos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "With breaches making the headlines on an almost weekly basis, the cybersecurity challenges we face are becoming visible not only to large enterprises, who have built security capabilities over the years, but also to small to medium businesses and the broader public. While this is creating greater awareness among smaller businesses of the need to improve their security posture, SMBs are often",
-          "link": "https://thehackernews.com/2024/02/why-we-must-democratize-cybersecurity.html",
-          "publishedOn": "2024-02-16T10:50:00.000Z",
-          "wordCount": null,
-          "title": "Why We Must Democratize Cybersecurity",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg76mD5kT1ooIXyg5h6DGg4ut1VuTRoAOso6KXne4BUFV60GTsh4WW-h6PFM-5nDFl1L6-r4kK6qMFa4Kl1NBGjOrrEVDEDZ2o8T2l9VEqIMhFWaEFH-JIsUSH5WUzXdYaLJpJ2X3ohY9m1FCLGj7oEfvSRPW-FmlCFlqROJHeIjsgLvazyz06xcxLmrjI/s1600/main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg76mD5kT1ooIXyg5h6DGg4ut1VuTRoAOso6KXne4BUFV60GTsh4WW-h6PFM-5nDFl1L6-r4kK6qMFa4Kl1NBGjOrrEVDEDZ2o8T2l9VEqIMhFWaEFH-JIsUSH5WUzXdYaLJpJ2X3ohY9m1FCLGj7oEfvSRPW-FmlCFlqROJHeIjsgLvazyz06xcxLmrjI/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A malicious Python script known as SNS Sender is being advertised as a way for threat actors to send bulk smishing messages by abusing Amazon Web Services (AWS) Simple Notification Service (SNS).\nThe SMS phishing messages are designed to propagate malicious links that are designed to capture victims' personally identifiable information (PII) and payment card details, SentinelOne",
-          "link": "https://thehackernews.com/2024/02/malicious-sns-sender-script-abuses-aws.html",
-          "publishedOn": "2024-02-16T10:49:00.000Z",
-          "wordCount": null,
-          "title": "Malicious 'SNS Sender' Script Abuses AWS for Bulk Smishing Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim77xbXmGAd0HChhj1ys1w6aha_gFXwFkuruF01q5wqgBjowYIOP3V2X-8p4tM-q77fS0u8_P616fZLYuKsezgBDfxg9uVVztMNaqQ6xmFoh0xZOBV4KQhDqVj8o55bYTJV89Y3GI5xMsW2HKccFSZvjqT026kxl35clD9gkSZJopfdkWoNr-5Pb4BONOg/s1600/sms.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim77xbXmGAd0HChhj1ys1w6aha_gFXwFkuruF01q5wqgBjowYIOP3V2X-8p4tM-q77fS0u8_P616fZLYuKsezgBDfxg9uVVztMNaqQ6xmFoh0xZOBV4KQhDqVj8o55bYTJV89Y3GI5xMsW2HKccFSZvjqT026kxl35clD9gkSZJopfdkWoNr-5Pb4BONOg/s1600/sms.jpg"
         }
       ]
     },
