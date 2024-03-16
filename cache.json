@@ -3085,16 +3085,6 @@
           "wordCount": 942,
           "title": "CERTFR-2024-AVI-0142 : Vulnérabilité dans NetApp SnapCenter (16 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Liferay. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0141/",
-          "publishedOn": "2024-02-16T09:45:51.000Z",
-          "wordCount": 957,
-          "title": "CERTFR-2024-AVI-0141 : Vulnérabilité dans Liferay (16 février 2024)",
-          "imageUrl": null
         }
       ]
     }
