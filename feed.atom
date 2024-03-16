@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-16T18:43:25.167Z</updated>
+    <updated>2024-03-16T19:08:34.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2474,17 +2474,6 @@ The SMS phishing messages are designed to propagate malicious links that are des
         <updated>2024-02-16T07:40:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed state government organization's network environment was compromised via an administrator account belonging to a former employee.
 "This allowed the threat actor to successfully authenticate to an internal virtual private network (VPN) access point," the agency said in a joint advisory published]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government Disrupts Russian-Linked Botnet Engaged in Cyber Espionage]]></title>
-        <id>https://thehackernews.com/2024/02/us-government-disrupts-russian-linked.html</id>
-        <link href="https://thehackernews.com/2024/02/us-government-disrupts-russian-linked.html"/>
-        <updated>2024-02-16T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. government on Thursday said it disrupted a botnet comprising hundreds of small office and home office (SOHO) routers in the country that was put to use by the Russia-linked APT28 actor to conceal its malicious activities.
-"These crimes included vast spear-phishing and similar credential harvesting campaigns against targets of intelligence interest to the Russian government, such as U.S.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
