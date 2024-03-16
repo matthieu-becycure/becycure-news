@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7rrFd4dC7d4l1OHjnEc9h6aDwKstoVhTVvuttArOfwszgZHdoQg28klgytl05FnfEB0EoDDG3L6i1nuLT9ArtxCLGGdwjPXNxMZ_hFXVi8VOOMcFp916h3fyCYsxHty6Aatmey2tPHJaAiiRlZo58u-8rADh_Z3vliDBiBmrpvT07wjTHN7cBb5B1IYHH/s1600/hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7rrFd4dC7d4l1OHjnEc9h6aDwKstoVhTVvuttArOfwszgZHdoQg28klgytl05FnfEB0EoDDG3L6i1nuLT9ArtxCLGGdwjPXNxMZ_hFXVi8VOOMcFp916h3fyCYsxHty6Aatmey2tPHJaAiiRlZo58u-8rADh_Z3vliDBiBmrpvT07wjTHN7cBb5B1IYHH/s1600/hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A reverse engineering of the firmware running on Ivanti Pulse Secure appliances has revealed numerous weaknesses, once again underscoring the challenge of securing software supply chains.\nEclypsiusm, which acquired firmware version 9.1.18.2-24467.1 as part of the process, said the base operating system used by the Utah-based software company for the device is CentOS 6.4.\n\"Pulse Secure runs an",
-          "link": "https://thehackernews.com/2024/02/ivanti-pulse-secure-found-using-11-year.html",
-          "publishedOn": "2024-02-15T14:20:00.000Z",
-          "wordCount": null,
-          "title": "Ivanti Pulse Secure Found Using 11-Year-Old Linux Version and Outdated Libraries",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKllLdGwxkb7LzAZiKO4GrXvBg-008qZ13823zKivTyCym0hrLz2pxFq5tqAVgGhyphenhyphenRmFwoDQfrA_agxTxIlyXR31KZuXZHUmuyq7yW76JmYY_QFW7ZjCzjQOXY3o0G63YfY62Ya5yx_F-SbbwEq7njMhd2o7Jedo3ZaRF-NZn5vUqpz9RPMo8afof4DJ89/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKllLdGwxkb7LzAZiKO4GrXvBg-008qZ13823zKivTyCym0hrLz2pxFq5tqAVgGhyphenhyphenRmFwoDQfrA_agxTxIlyXR31KZuXZHUmuyq7yW76JmYY_QFW7ZjCzjQOXY3o0G63YfY62Ya5yx_F-SbbwEq7njMhd2o7Jedo3ZaRF-NZn5vUqpz9RPMo8afof4DJ89/s1600/malware.jpg"
         }
       ]
     },
