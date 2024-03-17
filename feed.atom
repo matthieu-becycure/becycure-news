@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-17T00:50:02.213Z</updated>
+    <updated>2024-03-17T01:47:42.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2371,17 +2371,6 @@ However, business communication channels are also a major target]]></summary>
         <updated>2024-02-16T15:42:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a now-patched security flaw impacting Cisco Adaptive Security Appliance (ASA) and Firepower Threat Defense (FTD) software to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it's being likely exploited in Akira ransomware attacks.
 The vulnerability in question is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RustDoor macOS Backdoor Targets Cryptocurrency Firms with Fake Job Offers]]></title>
-        <id>https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html</id>
-        <link href="https://thehackernews.com/2024/02/rustdoor-macos-backdoor-targets.html"/>
-        <updated>2024-02-16T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Several companies operating in the cryptocurrency sector are the target of a newly discovered Apple macOS backdoor codenamed RustDoor.
-RustDoor was first documented by Bitdefender last week, describing it as a Rust-based malware capable of harvesting and uploading files, as well as gathering information about the infected machines. It's distributed by masquerading itself as a Visual]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
