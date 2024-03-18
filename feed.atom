@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-18T09:43:24.253Z</updated>
+    <updated>2024-03-18T10:11:13.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw]]></title>
+        <id>https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html</id>
+        <link href="https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html"/>
+        <updated>2024-03-18T09:46:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress users of miniOrange's Malware Scanner and Web Application Firewall plugins are being urged to delete them from their websites following the discovery of a critical security flaw.
+The flaw, tracked as CVE-2024-2172, is rated 9.8 out of a maximum of 10 on the CVSS scoring system. It impacts the following versions of the two plugins -
+
+Malware Scanner (versions <= 4.7.2)
+Web]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme]]></title>
         <id>https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html</id>
