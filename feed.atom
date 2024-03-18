@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-18T19:08:48.394Z</updated>
+    <updated>2024-03-18T19:23:39.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2416,18 +2416,6 @@ These entities are primarily located in Georgia, Poland, and Ukraine, according 
         <updated>2024-02-19T04:39:00.000Z</updated>
         <summary type="html"><![CDATA[The Iranian-origin threat actor known as Charming Kitten has been linked to a new set of attacks aimed at Middle East policy experts with a new backdoor called BASICSTAR by creating a fake webinar portal.
 Charming Kitten, also called APT35, CharmingCypress, Mint Sandstorm, TA453, and Yellow Garuda, has a history of orchestrating a wide range of social engineering campaigns that cast a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI's Most-Wanted Zeus and IcedID Malware Mastermind Pleads Guilty]]></title>
-        <id>https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html</id>
-        <link href="https://thehackernews.com/2024/02/fbis-most-wanted-zeus-and-icedid.html"/>
-        <updated>2024-02-18T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A Ukrainian national has pleaded guilty in the U.S. to his role in two different malware schemes, Zeus and IcedID, between May 2009 and February 2021.
-Vyacheslav Igorevich Penchukov (aka Vyacheslav Igoravich Andreev, father, and tank), 37, was arrested by Swiss authorities in October 2022 and extradited to the U.S. last year. He was added to the FBI's most-wanted list in 2012.
-The U.S.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
