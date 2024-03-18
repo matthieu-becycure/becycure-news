@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-18T06:13:57.518Z</updated>
+    <updated>2024-03-18T06:29:37.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme]]></title>
+        <id>https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html</id>
+        <link href="https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html"/>
+        <updated>2024-03-18T05:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked threat actor known as APT28 has been linked to multiple ongoing phishing campaigns that employ lure documents imitating government and non-governmental organizations (NGOs) in Europe, the South Caucasus, Central Asia, and North and South America.
+"The uncovered lures include a mixture of internal and publicly available documents, as well as possible actor-generated]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Using Cracked Software on GitHub to Spread RisePro Info Stealer]]></title>
         <id>https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html</id>

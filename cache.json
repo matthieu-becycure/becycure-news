@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-linked threat actor known as APT28 has been linked to multiple ongoing phishing campaigns that employ lure documents imitating government and non-governmental organizations (NGOs) in Europe, the South Caucasus, Central Asia, and North and South America.\n\"The uncovered lures include a mixture of internal and publicly available documents, as well as possible actor-generated",
+          "link": "https://thehackernews.com/2024/03/apt28-hacker-group-targeting-europe.html",
+          "publishedOn": "2024-03-18T05:59:00.000Z",
+          "wordCount": null,
+          "title": "APT28 Hacker Group Targeting Europe, Americas, Asia in Widespread Phishing Scheme",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqe0EvlLkqNz_YZrCaOQgCe2Hy0X9JqpepUDoKvETFgV0QKVJDgPCZCHrEDUc7s0iF4pqZvb5ImyX4MRRiQpDtW2w_2nuFAvj3A49BoUH_WtrOUAM-h3wkfvPO0u-b25WHXMWBPUhoKbYrRlI2UEep5P9f3EiAEV2QCsk8-GFiQSK7rxiwAXAky8Px5Tvz/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqe0EvlLkqNz_YZrCaOQgCe2Hy0X9JqpepUDoKvETFgV0QKVJDgPCZCHrEDUc7s0iF4pqZvb5ImyX4MRRiQpDtW2w_2nuFAvj3A49BoUH_WtrOUAM-h3wkfvPO0u-b25WHXMWBPUhoKbYrRlI2UEep5P9f3EiAEV2QCsk8-GFiQSK7rxiwAXAky8Px5Tvz/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/hackers-using-cracked-software-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have found a number of GitHub repositories offering cracked software that are used to deliver an information stealer called RisePro.\nThe campaign, codenamed gitgub, includes 17 repositories associated with 11 different accounts, according to G DATA. The repositories in question have since been taken down by the Microsoft-owned subsidiary.\n\"The repositories look",
