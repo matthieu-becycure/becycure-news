@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-18T12:17:49.966Z</updated>
+    <updated>2024-03-18T12:42:57.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Using Sneaky HTML Smuggling to Deliver Malware via Fake Google Sites]]></title>
+        <id>https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html</id>
+        <link href="https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html"/>
+        <updated>2024-03-18T12:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new malware campaign that leverages bogus Google Sites pages and HTML smuggling to distribute a commercial malware called AZORult in order to facilitate information theft.
+"It uses an unorthodox HTML smuggling technique where the malicious payload is embedded in a separate JSON file hosted on an external website," Netskope Threat Labs]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw]]></title>
         <id>https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html</id>
