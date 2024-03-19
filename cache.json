@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Large language models (LLMs) powering artificial intelligence (AI) tools today could be exploited to develop self-augmenting malware capable of bypassing YARA rules.\n\"Generative AI can be used to evade string-based YARA rules by augmenting the source code of small malware variants, effectively lowering detection rates,\" Recorded Future said in a new report shared with The Hacker News.",
+          "link": "https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html",
+          "publishedOn": "2024-03-19T13:55:00.000Z",
+          "wordCount": null,
+          "title": "From Deepfakes to Malware: AI's Expanding Role in Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9W6BvipfgpVQum9py1LOo4cleD_MO0yPeKZaqqDX-egJpBB8NQYh-s0VbDB2z_Hq_-WlK4xNjOropj_wlk4awHnqsFLaX7Ox2qFi-JkO41oulJG5tk8IMv5WDbqGuuxwBjEMsgrh8XbfqAencRn9EtGt1xDm8T-vF3OxF97eM310msPLhwlxtorBhDcR/s1600/ai.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR9W6BvipfgpVQum9py1LOo4cleD_MO0yPeKZaqqDX-egJpBB8NQYh-s0VbDB2z_Hq_-WlK4xNjOropj_wlk4awHnqsFLaX7Ox2qFi-JkO41oulJG5tk8IMv5WDbqGuuxwBjEMsgrh8XbfqAencRn9EtGt1xDm8T-vF3OxF97eM310msPLhwlxtorBhDcR/s1600/ai.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/crafting-and-communicating-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In an era where digital transformation drives business across sectors, cybersecurity has transcended its traditional operational role to become a cornerstone of corporate strategy and risk management. This evolution demands a shift in how cybersecurity leaders—particularly Chief Information Security Officers (CISOs)—articulate the value and urgency of cybersecurity investments to their boards.&",

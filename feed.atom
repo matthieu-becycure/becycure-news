@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-19T13:43:39.794Z</updated>
+    <updated>2024-03-19T14:09:31.685Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Deepfakes to Malware: AI's Expanding Role in Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html</id>
+        <link href="https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html"/>
+        <updated>2024-03-19T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Large language models (LLMs) powering artificial intelligence (AI) tools today could be exploited to develop self-augmenting malware capable of bypassing YARA rules.
+"Generative AI can be used to evade string-based YARA rules by augmenting the source code of small malware variants, effectively lowering detection rates," Recorded Future said in a new report shared with The Hacker News.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crafting and Communicating Your Cybersecurity Strategy for Board Buy-In]]></title>
         <id>https://thehackernews.com/2024/03/crafting-and-communicating-your.html</id>
