@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-19T16:43:26.389Z</updated>
+    <updated>2024-03-19T17:09:53.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage]]></title>
+        <id>https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html</id>
+        <link href="https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html"/>
+        <updated>2024-03-19T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Application programming interfaces (APIs) are the connective tissue behind digital modernization, helping applications and databases exchange data more effectively. The State of API Security in 2024 Report from Imperva, a Thales company, found that the majority of internet traffic (71%) in 2023 was API calls. What’s more, a typical enterprise site saw an average of 1.5 billion API]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Deepfakes to Malware: AI's Expanding Role in Cyber Attacks]]></title>
         <id>https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html</id>
@@ -2491,17 +2501,6 @@ NDR massively]]></summary>
         <updated>2024-02-19T10:29:00.000Z</updated>
         <summary type="html"><![CDATA[The Android banking trojan known as Anatsa has expanded its focus to include Slovakia, Slovenia, and Czechia as part of a new campaign observed in November 2023.
 "Some of the droppers in the campaign successfully exploited the accessibility service, despite Google Play's enhanced detection and protection mechanisms," ThreatFabric said in a report shared with The Hacker News.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws]]></title>
-        <id>https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html</id>
-        <link href="https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html"/>
-        <updated>2024-02-19T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited cross-site scripting (XSS) vulnerabilities in Roundcube webmail servers to target over 80 organizations.
-These entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Application programming interfaces (APIs) are the connective tissue behind digital modernization, helping applications and databases exchange data more effectively. The State of API Security in 2024 Report from Imperva, a Thales company, found that the majority of internet traffic (71%) in 2023 was API calls. What’s more, a typical enterprise site saw an average of 1.5 billion API",
+          "link": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
+          "publishedOn": "2024-03-19T16:20:00.000Z",
+          "wordCount": null,
+          "title": "APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLThumm08Oeh2jkEN0Pakys99F6U7QkP7XadGO6iTKvvBImGev91sXwm6TorFvbFVTiGm36Uiwd8s8YQY86HfImfB4rc3h9lnpBShLOmjLqIrBt1lD2_Enl9N2gQzFx7Vy9nz6Xqo8Za8RpE9teQL3tJ0VaD_ouDEHXmSJ4uOPf0l-oqr6CXn8rFHdSHo/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLThumm08Oeh2jkEN0Pakys99F6U7QkP7XadGO6iTKvvBImGev91sXwm6TorFvbFVTiGm36Uiwd8s8YQY86HfImfB4rc3h9lnpBShLOmjLqIrBt1lD2_Enl9N2gQzFx7Vy9nz6Xqo8Za8RpE9teQL3tJ0VaD_ouDEHXmSJ4uOPf0l-oqr6CXn8rFHdSHo/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/from-deepfakes-to-malware-ais-expanding.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Large language models (LLMs) powering artificial intelligence (AI) tools today could be exploited to develop self-augmenting malware capable of bypassing YARA rules.\n\"Generative AI can be used to evade string-based YARA rules by augmenting the source code of small malware variants, effectively lowering detection rates,\" Recorded Future said in a new report shared with The Hacker News.",
@@ -2180,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbphax94P6kR5OsVxv8dO2r1c40xByhL2sw18yWUgnjjqKif8Qa2jPk8sqvrOfQ-f9XhxU_95Mjon_aqesNX5bsm8t8Vs8DfdXJLJjbh0D0xoUnh1BUcrS4YIIJGuNv3t3RU3LRkBmGLk2zaOwtSAmYh4t2UJxcEX40zJx-K-07ufH6HDHoEvVW2fVQNR/s1600/android.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRbphax94P6kR5OsVxv8dO2r1c40xByhL2sw18yWUgnjjqKif8Qa2jPk8sqvrOfQ-f9XhxU_95Mjon_aqesNX5bsm8t8Vs8DfdXJLJjbh0D0xoUnh1BUcrS4YIIJGuNv3t3RU3LRkBmGLk2zaOwtSAmYh4t2UJxcEX40zJx-K-07ufH6HDHoEvVW2fVQNR/s1600/android.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors operating with interests aligned to Belarus and Russia have been linked to a new cyber espionage campaign that likely exploited cross-site scripting (XSS) vulnerabilities in Roundcube webmail servers to target over 80 organizations.\nThese entities are primarily located in Georgia, Poland, and Ukraine, according to Recorded Future, which attributed the intrusion set to a threat",
-          "link": "https://thehackernews.com/2024/02/russian-linked-hackers-breach-80.html",
-          "publishedOn": "2024-02-19T05:05:00.000Z",
-          "wordCount": null,
-          "title": "Russian-Linked Hackers Breach 80+ Organizations via Roundcube Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s1600/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNqXJpzUIGXk4eMky5oC8bp_N32zWA-Wc_HUBNgqxBTiqSHd6XfkcBOvGXaT2uYP3gIZu7h7pjQTQK4FC7Q-0vWlOb9NGj1YELA6XqB-_58_4HGMSqS5PDhLG8JlM8gPZxDhgyJU2ZCTaB6dyrI5TQfFPk5EiKWrJmXTAc-VEPL2vvfNuYDwtm13H_8Oq4/s1600/cyberattack.jpg"
         }
       ]
     },
