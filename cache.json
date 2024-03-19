@@ -2221,6 +2221,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/",
+          "publishedOn": "2024-03-19T12:35:51.000Z",
+          "wordCount": 1000,
+          "title": "CERTFR-2024-AVI-0233 : Multiples vulnérabilités dans AXIS OS (19 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0232/",
+          "publishedOn": "2024-03-19T07:03:05.000Z",
+          "wordCount": 968,
+          "title": "CERTFR-2024-AVI-0232 : Vulnérabilité dans les produits Spring Security (19 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une atteinte à la confidentialité des données et une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0231/",
+          "publishedOn": "2024-03-19T06:50:08.000Z",
+          "wordCount": 1082,
+          "title": "CERTFR-2024-AVI-0231 : Multiples vulnérabilités dans les produits GLPI (19 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-013/",
           "author": null,
           "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
