@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-19T22:27:23.368Z</updated>
+    <updated>2024-03-19T22:43:37.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2490,17 +2490,6 @@ The findings are part of its Adversarial Threat Report for the fourth quarter 
         <summary type="html"><![CDATA[Did you know that Network Detection and Response (NDR) has become the most effective technology to detect cyber threats? In contrast to SIEM, NDR offers adaptive cybersecurity with reduced false alerts and efficient threat response.
 Are you aware of Network Detection and Response (NDR) and how it’s become the most effective technology to detect cyber threats? 
 NDR massively]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries]]></title>
-        <id>https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html</id>
-        <link href="https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html"/>
-        <updated>2024-02-19T10:29:00.000Z</updated>
-        <summary type="html"><![CDATA[The Android banking trojan known as Anatsa has expanded its focus to include Slovakia, Slovenia, and Czechia as part of a new campaign observed in November 2023.
-"Some of the droppers in the campaign successfully exploited the accessibility service, despite Google Play's enhanced detection and protection mechanisms," ThreatFabric said in a report shared with The Hacker News.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
