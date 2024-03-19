@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A 31-year-old Moldovan national has been sentenced to 42 months in prison in the U.S. for operating an illicit marketplace called E-Root Marketplace that offered for sale hundreds of thousands of compromised credentials, the Department of Justice (DoJ) announced.\nSandu Boris Diaconu was charged with conspiracy to commit access device and computer fraud and possession of 15 or more unauthorized",
+          "link": "https://thehackernews.com/2024/03/e-root-marketplace-admin-sentenced-to.html",
+          "publishedOn": "2024-03-19T04:47:00.000Z",
+          "wordCount": null,
+          "title": "E-Root Marketplace Admin Sentenced to 42 Months for Selling 350K Stolen Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy4qy6mMTW1NgXA_oVqxN_hyphenhyphenIUPwlNZ-nyhS0G8KTZQ_0lAgto5fTVq0cDvqgpsgIV30norpFE_wsijK4F8A68_kYSqTuexnbrLWT8r_GGk1FAYykRTW1ewZCZQ0tN0sKhVReNF6IOz_gF0n9QrAE2dy9CPqD3p2XE6YvRyg4rcJzx94vyo412CWBfOaYs/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy4qy6mMTW1NgXA_oVqxN_hyphenhyphenIUPwlNZ-nyhS0G8KTZQ_0lAgto5fTVq0cDvqgpsgIV30norpFE_wsijK4F8A68_kYSqTuexnbrLWT8r_GGk1FAYykRTW1ewZCZQ0tN0sKhVReNF6IOz_gF0n9QrAE2dy9CPqD3p2XE6YvRyg4rcJzx94vyo412CWBfOaYs/s1600/lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-deepgosu-malware-campaign-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new elaborate attack campaign has been observed employing PowerShell and VBScript malware to infect Windows systems and harvest sensitive information.\nCybersecurity company Securonix, which dubbed the campaign DEEP#GOSU, said it's likely associated with the North Korean state-sponsored group tracked as Kimsuky.\n\"The malware payloads used in the DEEP#GOSU represent a",
