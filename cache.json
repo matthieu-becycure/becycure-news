@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Cyber Police of Ukraine has arrested three individuals on suspicion of hijacking more than 100 million emails and Instagram accounts from users across the world.\nThe suspects, aged between 20 and 40, are said to be part of an organized criminal group living in different parts of the country. If convicted, they face up to 15 years in prison.\nThe accounts, authorities said, were",
+          "link": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
+          "publishedOn": "2024-03-20T06:48:00.000Z",
+          "wordCount": null,
+          "title": "Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmrX16UkSOXi4tCgMWB2BIV4nRn2V7ZKbOfT_RXY62s1RUrQarAZ2bS-fpjQuWnX_zdWbW2hPC42iNWl3DHNvMVEgQgNAqJcOF9yOaTA8XtKRRMaM8eHGtwakLsGo7DkJIlbgB0Ydn5Z7pS86ZxHdbnMeZ88Ey3tOr9fvuNSigHuX3mGP3hkPyGYyKQQU/s1600/hacker-news.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmrX16UkSOXi4tCgMWB2BIV4nRn2V7ZKbOfT_RXY62s1RUrQarAZ2bS-fpjQuWnX_zdWbW2hPC42iNWl3DHNvMVEgQgNAqJcOF9yOaTA8XtKRRMaM8eHGtwakLsGo7DkJIlbgB0Ydn5Z7pS86ZxHdbnMeZ88Ey3tOr9fvuNSigHuX3mGP3hkPyGYyKQQU/s1600/hacker-news.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Environmental Protection Agency (EPA) said it's forming a new \"Water Sector Cybersecurity Task Force\" to devise methods to counter the threats faced by the water sector in the country.\n\"In addition to considering the prevalent vulnerabilities of water systems to cyberattacks and the challenges experienced by some systems in adopting best practices, this Task Force in its deliberations",
