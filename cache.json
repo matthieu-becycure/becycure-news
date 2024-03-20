@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6klr-E1BHf1efahmdPx1lKROBf03Of91kldyzNfCkvEO-BRefPa7j-uNSFT57xDVCa7Ba_0-3cMLqjO6hFvhPYnh1nqVh4g9J4prSvmqAMaea6c7qfzI72lBw5XH4lt3mcMCo4SQrYxyTuTYy7pVTBaWgGwFyDgZfulokJgNi1DkK3TGohWOpB7m6Vrpe/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6klr-E1BHf1efahmdPx1lKROBf03Of91kldyzNfCkvEO-BRefPa7j-uNSFT57xDVCa7Ba_0-3cMLqjO6hFvhPYnh1nqVh4g9J4prSvmqAMaea6c7qfzI72lBw5XH4lt3mcMCo4SQrYxyTuTYy7pVTBaWgGwFyDgZfulokJgNi1DkK3TGohWOpB7m6Vrpe/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta Platforms said it took a series of steps to curtail malicious activity from eight different firms based in Italy, Spain, and the United Arab Emirates (U.A.E.) operating in the surveillance-for-hire industry.\nThe findings are part of its Adversarial Threat Report for the fourth quarter of 2023. The spyware targeted iOS, Android, and Windows devices.\n\"Their various malware included",
-          "link": "https://thehackernews.com/2024/02/meta-warns-of-8-spyware-firms-targeting.html",
-          "publishedOn": "2024-02-19T13:14:00.000Z",
-          "wordCount": null,
-          "title": "Meta Warns of 8 Spyware Firms Targeting iOS, Android, and Windows Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCm2bsM-Qx_6aBmc99YgP7KCjGCZV5XMYW8RVMsVzIcO29d9dXbAwcqpYNrXhI3_MVG-cA9yDr7ja6J8s-yhhKQh1cVLq3McwzCcJzVOJDsaNFju1w1Yrx_46F1Dw_RhEBOhXOFJsnC7WogQdAPFt4gvBIKWE1aUnuAj5AD_1mPc6E6Kp-KFcB30HGzqb/s1600/spyware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyCm2bsM-Qx_6aBmc99YgP7KCjGCZV5XMYW8RVMsVzIcO29d9dXbAwcqpYNrXhI3_MVG-cA9yDr7ja6J8s-yhhKQh1cVLq3McwzCcJzVOJDsaNFju1w1Yrx_46F1Dw_RhEBOhXOFJsnC7WogQdAPFt4gvBIKWE1aUnuAj5AD_1mPc6E6Kp-KFcB30HGzqb/s1600/spyware.jpg"
         }
       ]
     },
@@ -3090,16 +3074,6 @@
           "publishedOn": "2024-02-20T07:42:08.000Z",
           "wordCount": 942,
           "title": "CERTFR-2024-AVI-0148 : Vulnérabilité dans Kaspersky Anti Targeted Attack (20 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0147/",
-          "publishedOn": "2024-02-19T13:15:47.000Z",
-          "wordCount": 937,
-          "title": "CERTFR-2024-AVI-0147 : Vulnérabilité dans Spring Security (19 février 2024)",
           "imageUrl": null
         }
       ]
