@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T10:10:27.063Z</updated>
+    <updated>2024-03-20T10:28:34.587Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New BunnyLoader Malware Variant Surfaces with Modular Attack Features]]></title>
+        <id>https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html</id>
+        <link href="https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html"/>
+        <updated>2024-03-20T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated variant of a stealer and malware loader called BunnyLoader that modularizes its various functions as well as allow it to evade detection.
+"BunnyLoader is dynamically developing malware with the capability to steal information, credentials and cryptocurrency, as well as deliver additional malware to its victims," Palo Alto Networks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts]]></title>
         <id>https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered an updated variant of a stealer and malware loader called BunnyLoader that modularizes its various functions as well as allow it to evade detection.\n\"BunnyLoader is dynamically developing malware with the capability to steal information, credentials and cryptocurrency, as well as deliver additional malware to its victims,\" Palo Alto Networks",
+          "link": "https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html",
+          "publishedOn": "2024-03-20T09:43:00.000Z",
+          "wordCount": null,
+          "title": "New BunnyLoader Malware Variant Surfaces with Modular Attack Features",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s1600/rabit.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s1600/rabit.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Cyber Police of Ukraine has arrested three individuals on suspicion of hijacking more than 100 million emails and Instagram accounts from users across the world.\nThe suspects, aged between 20 and 40, are said to be part of an organized criminal group living in different parts of the country. If convicted, they face up to 15 years in prison.\nThe accounts, authorities said, were",
