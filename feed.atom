@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T17:07:57.172Z</updated>
+    <updated>2024-03-20T17:26:38.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2542,17 +2542,6 @@ It has been addressed by the theme developers in&]]></summary>
         <summary type="html"><![CDATA[Hackers backed by Iran and Hezbollah staged cyber attacks designed to undercut public support for the Israel-Hamas war after October 2023.
 This includes destructive attacks against key Israeli organizations, hack-and-leak operations targeting entities in Israel and the U.S., phishing campaigns designed to steal intelligence, and information operations to turn public opinion against Israel.
 Iran]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LockBit Ransomware's Darknet Domains Seized in Global Law Enforcement Raid]]></title>
-        <id>https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html</id>
-        <link href="https://thehackernews.com/2024/02/lockbit-ransomwares-darknet-domains.html"/>
-        <updated>2024-02-20T05:25:00.000Z</updated>
-        <summary type="html"><![CDATA[An international law enforcement operation has led to the seizure of multiple darknet domains operated by LockBit, one of the most prolific ransomware groups, marking the latest in a long list of digital takedowns.
-While the full extent of the effort, codenamed Operation Cronos, is presently unknown, visiting the group's .onion website displays a seizure banner containing the message "]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
