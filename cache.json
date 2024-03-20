@@ -2237,6 +2237,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/",
+          "publishedOn": "2024-03-20T12:34:31.000Z",
+          "wordCount": 1041,
+          "title": "CERTFR-2024-AVI-0237 : [SCADA] Multiples vulnérabilités dans les produits Belden (20 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Spring Authorization Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0236/",
+          "publishedOn": "2024-03-20T07:16:58.000Z",
+          "wordCount": 955,
+          "title": "CERTFR-2024-AVI-0236 : Vulnérabilité dans Spring Authorization Server (20 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0235/",
+          "publishedOn": "2024-03-20T07:12:56.000Z",
+          "wordCount": 968,
+          "title": "CERTFR-2024-AVI-0235 : Multiples vulnérabilités dans Google Chrome (20 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/",
+          "publishedOn": "2024-03-20T06:53:49.000Z",
+          "wordCount": 1069,
+          "title": "CERTFR-2024-AVI-0234 : Multiples vulnérabilités dans les produits Mozilla (20 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.",
