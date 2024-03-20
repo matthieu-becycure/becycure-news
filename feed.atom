@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T22:26:23.343Z</updated>
+    <updated>2024-03-20T22:43:33.926Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2484,20 +2484,6 @@ When organizations have no response plan in place for such an]]></summary>
         <updated>2024-02-20T10:53:00.000Z</updated>
         <summary type="html"><![CDATA[The North Korean state-sponsored threat actors have been attributed to a cyber espionage campaign targeting the defense sector across the world.
 In a joint advisory published by Germany's Federal Office for the Protection of the Constitution (BfV) and South Korea's National Intelligence Service (NIS), the agencies said the goal of the attacks is to plunder advanced defense technologies in a "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaws Found in ConnectWise ScreenConnect Software  - Patch Now]]></title>
-        <id>https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html</id>
-        <link href="https://thehackernews.com/2024/02/critical-flaws-found-in-connectwise.html"/>
-        <updated>2024-02-20T10:38:00.000Z</updated>
-        <summary type="html"><![CDATA[ConnectWise has released software updates to address two security flaws in its ScreenConnect remote desktop and access software, including a critical bug that could enable remote code execution on affected systems.
-The vulnerabilities, which currently lack CVE identifiers, are listed below -
-
-Authentication bypass using an alternate path or channel (CVSS score: 10.0)
-Improper limitation of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
