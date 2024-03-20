@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T19:23:29.887Z</updated>
+    <updated>2024-03-20T19:43:43.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2522,16 +2522,6 @@ The flaw, tracked as CVE-2024-25600 (CVSS score: 9.8), enables unauthenticated a
 It has been addressed by the theme developers in&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0148 : Vulnérabilité dans Kaspersky Anti Targeted Attack (20 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0148/"/>
-        <updated>2024-02-20T07:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
