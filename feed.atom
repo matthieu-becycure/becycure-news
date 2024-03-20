@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T11:23:36.680Z</updated>
+    <updated>2024-03-20T11:43:37.836Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Generative AI Security - Secure Your Business in a World Powered by LLMs]]></title>
+        <id>https://thehackernews.com/2024/03/generative-ai-security-secure-your.html</id>
+        <link href="https://thehackernews.com/2024/03/generative-ai-security-secure-your.html"/>
+        <updated>2024-03-20T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that 79% of organizations are already leveraging Generative AI technologies? Much like the internet defined the 90s and the cloud revolutionized the 2010s, we are now in the era of Large Language Models (LLMs) and Generative AI.
+The potential of Generative AI is immense, yet it brings significant challenges, especially in security integration. Despite their powerful capabilities,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamCity Flaw Leads to Surge in Ransomware, Cryptomining, and RAT Attacks]]></title>
+        <id>https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html</id>
+        <link href="https://thehackernews.com/2024/03/teamcity-flaw-leads-to-surge-in.html"/>
+        <updated>2024-03-20T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple threat actors are exploiting the recently disclosed security flaws in JetBrains TeamCity software to deploy ransomware, cryptocurrency miners, Cobalt Strike beacons, and a Golang-based remote access trojan called Spark RAT.
+The attacks entail the exploitation of CVE-2024-27198 (CVSS score: 9.8) that enables an adversary to bypass authentication measures and gain administrative]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New BunnyLoader Malware Variant Surfaces with Modular Attack Features]]></title>
         <id>https://thehackernews.com/2024/03/new-bunnyloader-malware-variant.html</id>
