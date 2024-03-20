@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Environmental Protection Agency (EPA) said it's forming a new \"Water Sector Cybersecurity Task Force\" to devise methods to counter the threats faced by the water sector in the country.\n\"In addition to considering the prevalent vulnerabilities of water systems to cyberattacks and the challenges experienced by some systems in adopting best practices, this Task Force in its deliberations",
+          "link": "https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html",
+          "publishedOn": "2024-03-20T05:48:00.000Z",
+          "wordCount": null,
+          "title": "U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_osTZpMqlK3yD2lKx_zzOoSr8RYaaimCizXIk5xTj3AyQV6JXGAgh8m7taBQZ-q8HsYKduF0pdwDTWQl-5ShbEImwc7WRvkBuuamGAGxKs9d0fqs0xpuN6bjT02PeMsMo9K4yTwptBu5BPw-drIsSkzlE-Lctsu5wuAmT5bo6a6oYPEToHxU7TqRObcH/s1600/water-task-force.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw_osTZpMqlK3yD2lKx_zzOoSr8RYaaimCizXIk5xTj3AyQV6JXGAgh8m7taBQZ-q8HsYKduF0pdwDTWQl-5ShbEImwc7WRvkBuuamGAGxKs9d0fqs0xpuN6bjT02PeMsMo9K4yTwptBu5BPw-drIsSkzlE-Lctsu5wuAmT5bo6a6oYPEToHxU7TqRObcH/s1600/water-task-force.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Application programming interfaces (APIs) are the connective tissue behind digital modernization, helping applications and databases exchange data more effectively. The State of API Security in 2024 Report from Imperva, a Thales company, found that the majority of internet traffic (71%) in 2023 was API calls. What’s more, a typical enterprise site saw an average of 1.5 billion API",

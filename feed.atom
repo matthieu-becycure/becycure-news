@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T06:13:03.942Z</updated>
+    <updated>2024-03-20T06:30:52.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks]]></title>
+        <id>https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html</id>
+        <link href="https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html"/>
+        <updated>2024-03-20T05:48:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Environmental Protection Agency (EPA) said it's forming a new "Water Sector Cybersecurity Task Force" to devise methods to counter the threats faced by the water sector in the country.
+"In addition to considering the prevalent vulnerabilities of water systems to cyberattacks and the challenges experienced by some systems in adopting best practices, this Task Force in its deliberations]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage]]></title>
         <id>https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html</id>
