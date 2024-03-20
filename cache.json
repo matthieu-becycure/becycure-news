@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel denial-of-service (DoS) attack vector has been found to target application-layer protocols based on User Datagram Protocol (UDP), putting hundreds of thousands of hosts likely at risk.\nCalled Loop DoS attacks, the approach pairs \"servers of these protocols in such a way that they communicate with each other indefinitely,\" researchers from the CISPA Helmholtz-Center for",
+          "link": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
+          "publishedOn": "2024-03-20T14:51:00.000Z",
+          "wordCount": null,
+          "title": "New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6jt2b4xsM6PU6iew6hOmkb0q8PvpHyz5tr2V_J102InPq0Y0mHPxbyOfl7NXMRhoYX2jzJz__L3RVN5oQYH601P32C8DEpueFTGI55VJ_EeqgpNUfLT3CqkSeT03mrKs4Zz3qFgjpot6teLioW_dofB-sI6u8f_UrpsKbzwpub7SdHdU0iYd11DFK84h/s1600/dos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis6jt2b4xsM6PU6iew6hOmkb0q8PvpHyz5tr2V_J102InPq0Y0mHPxbyOfl7NXMRhoYX2jzJz__L3RVN5oQYH601P32C8DEpueFTGI55VJ_EeqgpNUfLT3CqkSeT03mrKs4Zz3qFgjpot6teLioW_dofB-sI6u8f_UrpsKbzwpub7SdHdU0iYd11DFK84h/s1600/dos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/generative-ai-security-secure-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Did you know that 79% of organizations are already leveraging Generative AI technologies? Much like the internet defined the 90s and the cloud revolutionized the 2010s, we are now in the era of Large Language Models (LLMs) and Generative AI.\nThe potential of Generative AI is immense, yet it brings significant challenges, especially in security integration. Despite their powerful capabilities,",
