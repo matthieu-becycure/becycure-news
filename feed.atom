@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-20T17:43:50.151Z</updated>
+    <updated>2024-03-20T18:12:42.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2532,18 +2532,6 @@ It has been addressed by the theme developers in&]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Kaspersky Anti Targeted Attack. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran and Hezbollah Hackers Launch Attacks to Influence Israel-Hamas Narrative]]></title>
-        <id>https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html</id>
-        <link href="https://thehackernews.com/2024/02/iran-and-hezbollah-hackers-launch.html"/>
-        <updated>2024-02-20T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Hackers backed by Iran and Hezbollah staged cyber attacks designed to undercut public support for the Israel-Hamas war after October 2023.
-This includes destructive attacks against key Israeli organizations, hack-and-leak operations targeting entities in Israel and the U.S., phishing campaigns designed to steal intelligence, and information operations to turn public opinion against Israel.
-Iran]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
