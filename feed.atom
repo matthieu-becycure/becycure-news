@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T16:43:41.764Z</updated>
+    <updated>2024-03-21T17:09:22.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems]]></title>
+        <id>https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html</id>
+        <link href="https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html"/>
+        <updated>2024-03-21T16:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked threat actor known as Turla infected several systems belonging to an unnamed European non-governmental organization (NGO) in order to deploy a backdoor called TinyTurla-NG.
+"The attackers compromised the first system, established persistence and added exclusions to antivirus products running on these endpoints as part of their preliminary post-compromise actions," Cisco]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion']]></title>
         <id>https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html</id>

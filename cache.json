@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-linked threat actor known as Turla infected several systems belonging to an unnamed European non-governmental organization (NGO) in order to deploy a backdoor called TinyTurla-NG.\n\"The attackers compromised the first system, established persistence and added exclusions to antivirus products running on these endpoints as part of their preliminary post-compromise actions,\" Cisco",
+          "link": "https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html",
+          "publishedOn": "2024-03-21T16:03:00.000Z",
+          "wordCount": null,
+          "title": "Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s1600/russian-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s1600/russian-hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "New research has discovered over 800 packages in the npm registry which have discrepancies from their registry entries, out of which 18 have been found to exploit a technique called manifest confusion.\nThe findings come from cybersecurity firm JFrog, which said the issue could be exploited by threat actors to trick developers into running malicious code.\n\"It's an actual threat since",
