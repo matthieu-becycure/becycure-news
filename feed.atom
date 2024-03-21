@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T14:43:41.693Z</updated>
+    <updated>2024-03-21T15:11:17.466Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion']]></title>
+        <id>https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html</id>
+        <link href="https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html"/>
+        <updated>2024-03-21T14:26:00.000Z</updated>
+        <summary type="html"><![CDATA[New research has discovered over 800 packages in the npm registry which have discrepancies from their registry entries, out of which 18 have been found to exploit a technique called manifest confusion.
+The findings come from cybersecurity firm JFrog, which said the issue could be exploited by threat actors to trick developers into running malicious code.
+"It's an actual threat since]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials]]></title>
         <id>https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html</id>
@@ -40,6 +52,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0239 : Vulnérabilité dans  Microsoft Xbox Gaming Services (21 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/"/>
+        <updated>2024-03-21T09:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Xbox Gaming Services. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Making Sense of Operational Technology Attacks: The Past, Present, and Future]]></title>
         <id>https://thehackernews.com/2024/03/making-sense-of-operational-technology.html</id>
         <link href="https://thehackernews.com/2024/03/making-sense-of-operational-technology.html"/>
@@ -58,6 +80,16 @@
 Ilya Andreevich Gambashidze (Gambashidze), the founder of the Moscow-based company Social Design Agency (SDA), and Nikolai Aleksandrovich Tupikin (Tupikin), the CEO and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0238 : Multiples vulnérabilités dans les produits Ivanti (21 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/"/>
+        <updated>2024-03-21T06:48:20.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

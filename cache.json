@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has discovered over 800 packages in the npm registry which have discrepancies from their registry entries, out of which 18 have been found to exploit a technique called manifest confusion.\nThe findings come from cybersecurity firm JFrog, which said the issue could be exploited by threat actors to trick developers into running malicious code.\n\"It's an actual threat since",
+          "link": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
+          "publishedOn": "2024-03-21T14:26:00.000Z",
+          "wordCount": null,
+          "title": "Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s1600/npm.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s1600/npm.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a tool referred to as AndroxGh0st that's used to target Laravel applications and steal sensitive data.\n\"It works by scanning and taking out important information from .env files, revealing login details linked to AWS and Twilio,\" Juniper Threat Labs researcher Kashinath T Pattan said.\n\"Classified as an SMTP cracker, it exploits SMTP",
@@ -2204,6 +2220,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Xbox Gaming Services. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/",
+          "publishedOn": "2024-03-21T09:31:12.000Z",
+          "wordCount": 932,
+          "title": "CERTFR-2024-AVI-0239 : Vulnérabilité dans  Microsoft Xbox Gaming Services (21 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0238/",
+          "publishedOn": "2024-03-21T06:48:20.000Z",
+          "wordCount": 1001,
+          "title": "CERTFR-2024-AVI-0238 : Multiples vulnérabilités dans les produits Ivanti (21 mars 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/",
           "author": null,
