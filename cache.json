@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-sanctions-russians-behind.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sanctions against two 46-year-old Russian nationals and the respective companies they own for engaging in cyber influence operations.\nIlya Andreevich Gambashidze (Gambashidze), the founder of the Moscow-based company Social Design Agency (SDA), and Nikolai Aleksandrovich Tupikin (Tupikin), the CEO and",
+          "link": "https://thehackernews.com/2024/03/us-sanctions-russians-behind.html",
+          "publishedOn": "2024-03-21T08:07:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Sanctions Russians Behind 'Doppelganger' Cyber Influence Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGF550dTV5JHULJGHWxMXXMTnUZtGgD3bct5LM24vLnfnFJNAcjyi_Cy5IXC6phAT5Ts_ugGkRkv0SwVOYecIzxIvKXVGd76AdM_hO9onAyXdrNmJ4MBsCYFLPlLDuDkQa0HKNewOOtXxaT7on3IExYpxe37Ies0mJqDPApp9ON4pm7o0lDjRfCblZ1iu/s1600/fke-news.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGF550dTV5JHULJGHWxMXXMTnUZtGgD3bct5LM24vLnfnFJNAcjyi_Cy5IXC6phAT5Ts_ugGkRkv0SwVOYecIzxIvKXVGd76AdM_hO9onAyXdrNmJ4MBsCYFLPlLDuDkQa0HKNewOOtXxaT7on3IExYpxe37Ies0mJqDPApp9ON4pm7o0lDjRfCblZ1iu/s1600/fke-news.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ivanti has disclosed details of a critical remote code execution flaw impacting Standalone Sentry, urging customers to apply the fixes immediately to stay protected against potential cyber threats.\nTracked as CVE-2023-41724, the vulnerability carries a CVSS score of 9.6.\n\"An unauthenticated threat actor can execute arbitrary commands on the underlying operating system of the appliance",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T08:43:34.171Z</updated>
+    <updated>2024-03-21T09:09:56.258Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Sanctions Russians Behind 'Doppelganger' Cyber Influence Campaign]]></title>
+        <id>https://thehackernews.com/2024/03/us-sanctions-russians-behind.html</id>
+        <link href="https://thehackernews.com/2024/03/us-sanctions-russians-behind.html"/>
+        <updated>2024-03-21T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sanctions against two 46-year-old Russian nationals and the respective companies they own for engaging in cyber influence operations.
+Ilya Andreevich Gambashidze (Gambashidze), the founder of the Moscow-based company Social Design Agency (SDA), and Nikolai Aleksandrovich Tupikin (Tupikin), the CEO and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability]]></title>
         <id>https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html</id>
