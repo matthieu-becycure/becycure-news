@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a tool referred to as AndroxGh0st that's used to target Laravel applications and steal sensitive data.\n\"It works by scanning and taking out important information from .env files, revealing login details linked to AWS and Twilio,\" Juniper Threat Labs researcher Kashinath T Pattan said.\n\"Classified as an SMTP cracker, it exploits SMTP",
+          "link": "https://thehackernews.com/2024/03/androxgh0st-malware-targets-laravel.html",
+          "publishedOn": "2024-03-21T12:48:00.000Z",
+          "wordCount": null,
+          "title": "AndroxGh0st Malware Targets Laravel Apps to Steal Cloud Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAY8xDHC90sh3axM9xybCESUurqXFcX5_9vEH3hP4N0qNS6j5gGJ-01_FAMEP7d5OGI3ER3C23SBeC79VVn1-FODXLKhUEGyfg4XAf62wsz4bf7r648h2w-U0mj-gIzsWnErLJiqhZk0gyPnB2ni_Q2OHr3MxT1mvLqwELwvEvasjYFy2WOsgX1JGe8orj/s1600/lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In today's digital-first business environment dominated by SaaS applications, organizations increasingly depend on third-party vendors for essential cloud services and software solutions. As more vendors and services are added to the mix, the complexity and potential vulnerabilities within the SaaS supply chain snowball quickly. That’s why effective vendor risk management (VRM) is a",
