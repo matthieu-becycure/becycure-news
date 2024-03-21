@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T11:23:28.333Z</updated>
+    <updated>2024-03-21T11:43:36.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl]]></title>
+        <id>https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html</id>
+        <link href="https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html"/>
+        <updated>2024-03-21T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital-first business environment dominated by SaaS applications, organizations increasingly depend on third-party vendors for essential cloud services and software solutions. As more vendors and services are added to the mix, the complexity and potential vulnerabilities within the SaaS supply chain snowball quickly. That’s why effective vendor risk management (VRM) is a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws]]></title>
+        <id>https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html</id>
+        <link href="https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html"/>
+        <updated>2024-03-21T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub on Wednesday announced that it's making available a feature called code scanning autofix in public beta for all Advanced Security customers to provide targeted recommendations in an effort to avoid introducing new security issues.
+"Powered by GitHub Copilot and CodeQL, code scanning autofix covers more than 90% of alert types in JavaScript, Typescript, Java, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Making Sense of Operational Technology Attacks: The Past, Present, and Future]]></title>
         <id>https://thehackernews.com/2024/03/making-sense-of-operational-technology.html</id>

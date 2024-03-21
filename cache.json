@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's digital-first business environment dominated by SaaS applications, organizations increasingly depend on third-party vendors for essential cloud services and software solutions. As more vendors and services are added to the mix, the complexity and potential vulnerabilities within the SaaS supply chain snowball quickly. That’s why effective vendor risk management (VRM) is a",
+          "link": "https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html",
+          "publishedOn": "2024-03-21T11:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGnXc0n2prCqGXxp0kCl3h0fStXj0HKVp2GDJkQXhasRqo5XR3pfQHtWscMvq5WaZ1Gy4z51U6psqdnKI8CrqH2aHLn5NDCbKORD-f5Ekl_wtxuIOb3TOy4yXHicXrr_KmnMlI8OTaFO5Phh4iFM9cgjkdwaQEyedWKHiRm-bOqOjz4cun2-jcqr37fGI/s1600/nudge.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHGnXc0n2prCqGXxp0kCl3h0fStXj0HKVp2GDJkQXhasRqo5XR3pfQHtWscMvq5WaZ1Gy4z51U6psqdnKI8CrqH2aHLn5NDCbKORD-f5Ekl_wtxuIOb3TOy4yXHicXrr_KmnMlI8OTaFO5Phh4iFM9cgjkdwaQEyedWKHiRm-bOqOjz4cun2-jcqr37fGI/s1600/nudge.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub on Wednesday announced that it's making available a feature called code scanning autofix in public beta for all Advanced Security customers to provide targeted recommendations in an effort to avoid introducing new security issues.\n\"Powered by GitHub Copilot and CodeQL, code scanning autofix covers more than 90% of alert types in JavaScript, Typescript, Java, and",
+          "link": "https://thehackernews.com/2024/03/github-launches-ai-powered-autofix-tool.html",
+          "publishedOn": "2024-03-21T10:30:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Launches AI-Powered Autofix Tool to Assist Devs in Patching Security Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha6J17PBjMlZmCOcg1I-lTr7rM8MurscrQk2Twx22VRJntGNMvOVKULSGL7ZpR3BsGq2zEqX7wUpY9ts08-AooVmzdAdsDFxuObWx3wnlsKmKeEvMB_i0mar3yZzaMisqkTl0udAopzdcud62CF6sdzbmM5-dkzjUUkJxT-z-QSe5P9HwKFux1sWWdODo/s1600/github.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgha6J17PBjMlZmCOcg1I-lTr7rM8MurscrQk2Twx22VRJntGNMvOVKULSGL7ZpR3BsGq2zEqX7wUpY9ts08-AooVmzdAdsDFxuObWx3wnlsKmKeEvMB_i0mar3yZzaMisqkTl0udAopzdcud62CF6sdzbmM5-dkzjUUkJxT-z-QSe5P9HwKFux1sWWdODo/s1600/github.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "When you read reports about cyber-attacks affecting operational technology (OT), it’s easy to get caught up in the hype and assume every single one is sophisticated. But are OT environments all over the world really besieged by a constant barrage of complex cyber-attacks? Answering that would require breaking down the different types of OT cyber-attacks and then looking back on all the",
