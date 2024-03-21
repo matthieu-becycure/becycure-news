@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T23:26:37.827Z</updated>
+    <updated>2024-03-21T23:43:25.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2433,16 +2433,6 @@ The vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been dis
         <updated>2024-02-21T13:03:00.000Z</updated>
         <summary type="html"><![CDATA[The China-linked threat actor known as Mustang Panda has targeted various Asian countries using a variant of the PlugX (aka Korplug) backdoor dubbed DOPLUGS.
 "The piece of customized PlugX malware is dissimilar to the general type of the PlugX malware that contains a completed backdoor command module, and that the former is only used for downloading the latter," Trend Micro researchers Sunny Lu]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Ways to Simplify SaaS Identity Governance]]></title>
-        <id>https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html</id>
-        <link href="https://thehackernews.com/2024/02/6-ways-to-simplify-saas-identity.html"/>
-        <updated>2024-02-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With SaaS applications now making up the vast majority of technology used by employees in most organizations, tasks related to identity governance need to happen across a myriad of individual SaaS apps. This presents a huge challenge for centralized IT teams who are ultimately held responsible for managing and securing app access, but can’t possibly become experts in the nuances of the native]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
