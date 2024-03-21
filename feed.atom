@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T03:43:42.396Z</updated>
+    <updated>2024-03-21T04:12:30.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug]]></title>
+        <id>https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html</id>
+        <link href="https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html"/>
+        <updated>2024-03-21T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Atlassian has released patches for more than two dozen security flaws, including a critical bug impacting Bamboo Data Center and Server that could be exploited without requiring user interaction.
+Tracked as CVE-2024-1597, the vulnerability carries a CVSS score of 10.0, indicating maximum severity.
+Described as an SQL injection flaw, it's rooted in a dependency called org.postgresql:]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New 'Loop DoS' Attack Impacts Hundreds of Thousands of Systems]]></title>
         <id>https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html</id>

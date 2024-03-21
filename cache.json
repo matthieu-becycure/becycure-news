@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Atlassian has released patches for more than two dozen security flaws, including a critical bug impacting Bamboo Data Center and Server that could be exploited without requiring user interaction.\nTracked as CVE-2024-1597, the vulnerability carries a CVSS score of 10.0, indicating maximum severity.\nDescribed as an SQL injection flaw, it's rooted in a dependency called org.postgresql:",
+          "link": "https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html",
+          "publishedOn": "2024-03-21T03:34:00.000Z",
+          "wordCount": null,
+          "title": "Atlassian Releases Fixes for Over 2 Dozen Flaws, Including Critical Bamboo Bug",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4DeLbur1as7BjrWQQya7wQleBMPeAFTdcGwNLdPz9oxjNICxLxGiy4jqEfsZ7QJ7obxk7O9Mr4zHpWpDIIkR06yXwAtJGcP8q1Y1M1OYLyzZWglO6J3DHh5ka2R4SiePcqFG554WnSE-WeD6EUk95fBl_8Gou3Ectd56XUvbJ-8PwAghSZd9_qbKjohey/s1600/patch.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4DeLbur1as7BjrWQQya7wQleBMPeAFTdcGwNLdPz9oxjNICxLxGiy4jqEfsZ7QJ7obxk7O9Mr4zHpWpDIIkR06yXwAtJGcP8q1Y1M1OYLyzZWglO6J3DHh5ka2R4SiePcqFG554WnSE-WeD6EUk95fBl_8Gou3Ectd56XUvbJ-8PwAghSZd9_qbKjohey/s1600/patch.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-loop-dos-attack-impacts-hundreds-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A novel denial-of-service (DoS) attack vector has been found to target application-layer protocols based on User Datagram Protocol (UDP), putting hundreds of thousands of hosts likely at risk.\nCalled Loop DoS attacks, the approach pairs \"servers of these protocols in such a way that they communicate with each other indefinitely,\" researchers from the CISPA Helmholtz-Center for",
