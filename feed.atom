@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T03:12:15.235Z</updated>
+    <updated>2024-03-21T03:25:25.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2417,18 +2417,6 @@ The activity has been linked to Russia-aligned threat actors by Slovak cybersecu
         <summary type="html"><![CDATA[VMware is urging users to uninstall the deprecated Enhanced Authentication Plugin (EAP) following the discovery of a critical security flaw.
 Tracked as CVE-2024-22245 (CVSS score: 9.6), the vulnerability has been described as an arbitrary authentication relay bug.
 "A malicious actor could trick a target domain user with EAP installed in their web browser into requesting and relaying]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Migo Malware Targeting Redis Servers for Cryptocurrency Mining]]></title>
-        <id>https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html</id>
-        <link href="https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html"/>
-        <updated>2024-02-20T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A novel malware campaign has been observed targeting Redis servers for initial access with the ultimate goal of mining cryptocurrency on compromised Linux hosts.
-"This particular campaign involves the use of a number of novel system weakening techniques against the data store itself," Cado security researcher Matt Muir said in a technical report.
-The cryptojacking attack is facilitated]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
