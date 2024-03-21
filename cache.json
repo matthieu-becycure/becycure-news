@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "When you read reports about cyber-attacks affecting operational technology (OT), it’s easy to get caught up in the hype and assume every single one is sophisticated. But are OT environments all over the world really besieged by a constant barrage of complex cyber-attacks? Answering that would require breaking down the different types of OT cyber-attacks and then looking back on all the",
+          "link": "https://thehackernews.com/2024/03/making-sense-of-operational-technology.html",
+          "publishedOn": "2024-03-21T09:23:00.000Z",
+          "wordCount": null,
+          "title": "Making Sense of Operational Technology Attacks: The Past, Present, and Future",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s1600/ot.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSctsMcCJGzuooiQCZw39TXeuBs7y6IGqceV7i-O39CLYUznd_2uzPeuv52_nVGXNlVgnXRjaIxR5gmDT0AOiaNwjC1RwWVAwapdrj4Alam494VikjpPZdBBWLvTpySP9oJSVydOP9gpDvDfgIdOx3CahacOMc8RE6lnfj0pR0907_09V7Q4BcbclzMbU/s1600/ot.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-sanctions-russians-behind.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sanctions against two 46-year-old Russian nationals and the respective companies they own for engaging in cyber influence operations.\nIlya Andreevich Gambashidze (Gambashidze), the founder of the Moscow-based company Social Design Agency (SDA), and Nikolai Aleksandrovich Tupikin (Tupikin), the CEO and",

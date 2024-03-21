@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T09:24:10.429Z</updated>
+    <updated>2024-03-21T09:43:43.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making Sense of Operational Technology Attacks: The Past, Present, and Future]]></title>
+        <id>https://thehackernews.com/2024/03/making-sense-of-operational-technology.html</id>
+        <link href="https://thehackernews.com/2024/03/making-sense-of-operational-technology.html"/>
+        <updated>2024-03-21T09:23:00.000Z</updated>
+        <summary type="html"><![CDATA[When you read reports about cyber-attacks affecting operational technology (OT), it’s easy to get caught up in the hype and assume every single one is sophisticated. But are OT environments all over the world really besieged by a constant barrage of complex cyber-attacks? Answering that would require breaking down the different types of OT cyber-attacks and then looking back on all the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Sanctions Russians Behind 'Doppelganger' Cyber Influence Campaign]]></title>
         <id>https://thehackernews.com/2024/03/us-sanctions-russians-behind.html</id>
