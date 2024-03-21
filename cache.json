@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has disclosed details of a critical remote code execution flaw impacting Standalone Sentry, urging customers to apply the fixes immediately to stay protected against potential cyber threats.\nTracked as CVE-2023-41724, the vulnerability carries a CVSS score of 9.6.\n\"An unauthenticated threat actor can execute arbitrary commands on the underlying operating system of the appliance",
+          "link": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
+          "publishedOn": "2024-03-21T03:55:00.000Z",
+          "wordCount": null,
+          "title": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/atlassian-releases-fixes-for-over-2.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Atlassian has released patches for more than two dozen security flaws, including a critical bug impacting Bamboo Data Center and Server that could be exploited without requiring user interaction.\nTracked as CVE-2024-1597, the vulnerability carries a CVSS score of 10.0, indicating maximum severity.\nDescribed as an SQL injection flaw, it's rooted in a dependency called org.postgresql:",
