@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-21T17:25:57.986Z</updated>
+    <updated>2024-03-21T17:43:46.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2526,18 +2526,6 @@ The malware is “notable for its ability to automatically filter out Facebook s
         <updated>2024-02-21T06:01:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have unearthed a new influence operation targeting Ukraine that leverages spam emails to propagate war-related disinformation.
 The activity has been linked to Russia-aligned threat actors by Slovak cybersecurity company ESET, which also identified a spear-phishing campaign aimed at a Ukrainian defense company in October 2023 and a European Union agency in November 2023]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware Alert: Uninstall EAP Now - Critical Flaw Puts Active Directory at Risk]]></title>
-        <id>https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html</id>
-        <link href="https://thehackernews.com/2024/02/vmware-alert-uninstall-eap-now-critical.html"/>
-        <updated>2024-02-21T05:34:00.000Z</updated>
-        <summary type="html"><![CDATA[VMware is urging users to uninstall the deprecated Enhanced Authentication Plugin (EAP) following the discovery of a critical security flaw.
-Tracked as CVE-2024-22245 (CVSS score: 9.6), the vulnerability has been described as an arbitrary authentication relay bug.
-"A malicious actor could trick a target domain user with EAP installed in their web browser into requesting and relaying]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
