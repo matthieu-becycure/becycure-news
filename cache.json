@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shared details of a now-patched security vulnerability in Amazon Web Services (AWS) Managed Workflows for Apache Airflow (MWAA) that could be potentially exploited by a malicious actor to hijack victims' sessions and achieve remote code execution on underlying instances.\nThe vulnerability, now addressed by AWS, has been codenamed FlowFixation by Tenable.",
+          "link": "https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
+          "publishedOn": "2024-03-22T13:45:00.000Z",
+          "wordCount": null,
+          "title": "AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilrCQsxfYxjv4mQlWwoB9t1FgUiTOj-bS5DR7xS8YcY9RuVxteldI4VqiFFZGmkR084xmwFsifB8HUcTI5s25Xg4E0NpY9AsOGzOC4tyWLDziLxt4T09T3lMLi8MTxn_9YF5pM63YhcpATiT6Z2caLEy9wdCLmQ3W2R1Iad2psPKFcIV8K1P2oCEyW58mD/s1600/aws.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilrCQsxfYxjv4mQlWwoB9t1FgUiTOj-bS5DR7xS8YcY9RuVxteldI4VqiFFZGmkR084xmwFsifB8HUcTI5s25Xg4E0NpY9AsOGzOC4tyWLDziLxt4T09T3lMLi8MTxn_9YF5pM63YhcpATiT6Z2caLEy9wdCLmQ3W2R1Iad2psPKFcIV8K1P2oCEyW58mD/s1600/aws.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A China-linked threat cluster leveraged security flaws in Connectwise ScreenConnect and F5 BIG-IP software to deliver custom malware capable of delivering additional backdoors on compromised Linux hosts as part of an \"aggressive\" campaign.\nGoogle-owned Mandiant is tracking the activity under its uncategorized moniker UNC5174 (aka Uteus or Uetus), describing it as a \"former",
