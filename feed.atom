@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-22T04:12:04.539Z</updated>
+    <updated>2024-03-22T04:27:14.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Target Ukrainian Telecoms with Upgraded 'AcidPour' Malware]]></title>
+        <id>https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html</id>
+        <link href="https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html"/>
+        <updated>2024-03-22T03:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The data wiping malware called AcidPour may have been deployed in attacks targeting four telecom providers in Ukraine, new findings from SentinelOne show.
+The cybersecurity firm also confirmed connections between the malware and AcidRain, tying it to threat activity clusters associated with Russian military intelligence.
+"AcidPour's expanded capabilities would enable it to better]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems]]></title>
         <id>https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html</id>
@@ -2411,17 +2423,6 @@ The]]></summary>
         <updated>2024-02-22T05:26:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. State Department has announced monetary rewards of up to $15 million for information that could lead to the identification of key leaders within the LockBit ransomware group and the arrest of any individual participating in the operation.
 "Since January 2020, LockBit actors have executed over 2,000 attacks against victims in the United States, and around the world, causing costly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers]]></title>
-        <id>https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html</id>
-        <link href="https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html"/>
-        <updated>2024-02-21T16:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.
-The vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

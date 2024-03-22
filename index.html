@@ -103,6 +103,54 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-22 datetime="2024-03-22T03:06:00.000Z">2024-03-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-22 datetime="2024-03-22T03:06:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Hacker News</button>
+                  <a class="source-heading__link" href="https://thehackernews.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Russian Hackers Target Ukrainian Telecoms with Upgraded &#x27;AcidPour&#x27; Malware</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrL5V6mpE-6sky2juAtJNQNztbLDK7MepZzcqnXcFUfynPSAtBGs5tZp4ViDgoZ1bjLDKDTiuAqYm93b1CzcnwX_KT_a2EmFoMOD6zgVEl4CwnFES1ud8rd9quUbUrGEPfJlFv2CV7DicndyNMpQBUK3PiuzCRcdUNUChHWc7dIELEeDWumZujGGwHFf8x/s1600/cyberattack.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The data wiping malware called AcidPour may have been deployed in attacks targeting four telecom providers in Ukraine, new findings from SentinelOne show.
+The cybersecurity firm also confirmed connections between the malware and AcidRain, tying it to threat activity clusters associated with Russian military intelligence.
+&quot;AcidPour&#x27;s expanded capabilities would enable it to better</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-03-21 datetime="2024-03-21T16:03:00.000Z">2024-03-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-03-21 datetime="2024-03-21T16:03:00.000Z"></time>
           </button>
@@ -5402,57 +5450,10 @@ The</span>
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-02-21 datetime="2024-02-21T16:16:00.000Z">2024-02-21</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-02-21 datetime="2024-02-21T16:16:00.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >The Hacker News</button>
-                  <a class="source-heading__link" href="https://thehackernews.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html"
-                        open
-                      >
-                        <summary class="article-expander__title">New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s1600/wifi-hacking.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.
-The vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matthieu-becycure/becycure-news/actions/runs/8385352696">
-        <time id="build-timestamp" datetime="2024-03-22T04:12:04.514Z">2024-03-22T04:12:04.514Z</time>
+      <a class="footer-link" href="https://github.com/matthieu-becycure/becycure-news/actions/runs/8385475224">
+        <time id="build-timestamp" datetime="2024-03-22T04:27:14.900Z">2024-03-22T04:27:14.900Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

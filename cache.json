@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The data wiping malware called AcidPour may have been deployed in attacks targeting four telecom providers in Ukraine, new findings from SentinelOne show.\nThe cybersecurity firm also confirmed connections between the malware and AcidRain, tying it to threat activity clusters associated with Russian military intelligence.\n\"AcidPour's expanded capabilities would enable it to better",
+          "link": "https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html",
+          "publishedOn": "2024-03-22T03:06:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Target Ukrainian Telecoms with Upgraded 'AcidPour' Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrL5V6mpE-6sky2juAtJNQNztbLDK7MepZzcqnXcFUfynPSAtBGs5tZp4ViDgoZ1bjLDKDTiuAqYm93b1CzcnwX_KT_a2EmFoMOD6zgVEl4CwnFES1ud8rd9quUbUrGEPfJlFv2CV7DicndyNMpQBUK3PiuzCRcdUNUChHWc7dIELEeDWumZujGGwHFf8x/s1600/cyberattack.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrL5V6mpE-6sky2juAtJNQNztbLDK7MepZzcqnXcFUfynPSAtBGs5tZp4ViDgoZ1bjLDKDTiuAqYm93b1CzcnwX_KT_a2EmFoMOD6zgVEl4CwnFES1ud8rd9quUbUrGEPfJlFv2CV7DicndyNMpQBUK3PiuzCRcdUNUChHWc7dIELEeDWumZujGGwHFf8x/s1600/cyberattack.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Russia-linked threat actor known as Turla infected several systems belonging to an unnamed European non-governmental organization (NGO) in order to deploy a backdoor called TinyTurla-NG.\n\"The attackers compromised the first system, established persistence and added exclusions to antivirus products running on these endpoints as part of their preliminary post-compromise actions,\" Cisco",
@@ -2100,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9B_XlCcneNO3rItPlLzMIQzGGW-t-EX8jCnxgj4wsSkos4hPxoK7A1yF5wK_jVmZb2D3P3u1Ih1wQ1gvyCmXQ-dJ8-N53ONQ6gBUnNy5LI9jg2vsfgCyYfGvzJ8K9Bo2ekIoPew4Pne_dHHPxqc8u_3BTUo_5cSp9MMpa-yh3An8IQ8wj0BrlKFATM9wz/s1600/lockbit-2.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9B_XlCcneNO3rItPlLzMIQzGGW-t-EX8jCnxgj4wsSkos4hPxoK7A1yF5wK_jVmZb2D3P3u1Ih1wQ1gvyCmXQ-dJ8-N53ONQ6gBUnNy5LI9jg2vsfgCyYfGvzJ8K9Bo2ekIoPew4Pne_dHHPxqc8u_3BTUo_5cSp9MMpa-yh3An8IQ8wj0BrlKFATM9wz/s1600/lockbit-2.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.\nThe vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a",
-          "link": "https://thehackernews.com/2024/02/new-wi-fi-vulnerabilities-expose.html",
-          "publishedOn": "2024-02-21T16:16:00.000Z",
-          "wordCount": null,
-          "title": "New Wi-Fi Vulnerabilities Expose Android and Linux Devices to Hackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s1600/wifi-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7BIu2uLsiBunud7S89gCawez77kGoFX_1Wu-KZef_iyGAYKi3ST-Ffb8bKAK9c19kIIzyScuXib9b4qE8pRE_LfufUPmTcq1a9wqIAZuf3nkudlkorPdSL_S9PaLbUjKv46-Qf3ifffmZuQs3t1Zu8CPj4MrZPNHRet8HguHhnFN9qWXH273MtW65qRri/s1600/wifi-hacking.jpg"
         }
       ]
     },
