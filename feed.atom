@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-22T22:43:35.112Z</updated>
+    <updated>2024-03-22T23:09:45.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2447,29 +2447,6 @@ In addition, the company has been banned from selling or licensing any web brows
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks]]></title>
-        <id>https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html</id>
-        <link href="https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html"/>
-        <updated>2024-02-22T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[A recently open-sourced network mapping tool called SSH-Snake has been repurposed by threat actors to conduct malicious activities.
-"SSH-Snake is a self-modifying worm that leverages SSH credentials discovered on a compromised system to start spreading itself throughout the network," Sysdig researcher Miguel Hernández said.
-"The worm automatically searches through known credential]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New Age of Hacktivism]]></title>
-        <id>https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html</id>
-        <link href="https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html"/>
-        <updated>2024-02-22T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[In the past 2 years, we have observed a significant surge in hacktivism activity due to ongoing wars and geopolitical conflicts in various regions. Since the war against Ukraine began, we have witnessed a notable mobilization of non-state and state-backed actors alike, forming new groups or joining existing hacker collectives. 
-We understand hacktivism as a form of computer hacking that is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

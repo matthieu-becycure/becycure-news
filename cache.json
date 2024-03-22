@@ -2148,38 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4puJfO2DjDVSsbbpt6B5zBAw6fTc1GoO7Y93Iydwuf20PiQTq-7qUVG_gDwro0xwZE-GoJsZD1zqRusmZmfJo_ipnA88w98ACeuAQHq9ZRkqkHUfGwAwUfECdJufrd5TNHxg_oqiEp_0hZ02XNEf9YkY9Fwes8wFmgQXRFHFrOGyOgDRuFtaqJyHbaZH/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently open-sourced network mapping tool called SSH-Snake has been repurposed by threat actors to conduct malicious activities.\n\"SSH-Snake is a self-modifying worm that leverages SSH credentials discovered on a compromised system to start spreading itself throughout the network,\" Sysdig researcher Miguel Hernández said.\n\"The worm automatically searches through known credential",
-          "link": "https://thehackernews.com/2024/02/cybercriminals-weaponizing-open-source.html",
-          "publishedOn": "2024-02-22T10:44:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Weaponizing Open-Source SSH-Snake Tool for Network Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS9ApKf9qeb9o5Y2LcxqESomxrcUsYmTXjjGug5b2i3K6lYD7hYx8NFXWeIn8msh3hr0yy3jUJ4RWf8n6hD4k8jiJO9Dz1vW3CBCcmwKG-a_1Lx5HES3csVB9x8x1dqVUMgnveroustRiN-KDgmlan9KUFpVFoxs33LSvrNmJegzA5kZXvzB-SPmU0PMk/s1600/ssh-malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzS9ApKf9qeb9o5Y2LcxqESomxrcUsYmTXjjGug5b2i3K6lYD7hYx8NFXWeIn8msh3hr0yy3jUJ4RWf8n6hD4k8jiJO9Dz1vW3CBCcmwKG-a_1Lx5HES3csVB9x8x1dqVUMgnveroustRiN-KDgmlan9KUFpVFoxs33LSvrNmJegzA5kZXvzB-SPmU0PMk/s1600/ssh-malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In the past 2 years, we have observed a significant surge in hacktivism activity due to ongoing wars and geopolitical conflicts in various regions. Since the war against Ukraine began, we have witnessed a notable mobilization of non-state and state-backed actors alike, forming new groups or joining existing hacker collectives. \nWe understand hacktivism as a form of computer hacking that is",
-          "link": "https://thehackernews.com/2024/02/a-new-age-of-hacktivism.html",
-          "publishedOn": "2024-02-22T10:44:00.000Z",
-          "wordCount": null,
-          "title": "A New Age of Hacktivism",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s1600/hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s1600/hacking.jpg"
         }
       ]
     },
