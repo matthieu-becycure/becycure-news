@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A China-linked threat cluster leveraged security flaws in Connectwise ScreenConnect and F5 BIG-IP software to deliver custom malware capable of delivering additional backdoors on compromised Linux hosts as part of an \"aggressive\" campaign.\nGoogle-owned Mandiant is tracking the activity under its uncategorized moniker UNC5174 (aka Uteus or Uetus), describing it as a \"former",
+          "link": "https://thehackernews.com/2024/03/china-linked-group-breaches-networks.html",
+          "publishedOn": "2024-03-22T11:28:00.000Z",
+          "wordCount": null,
+          "title": "China-Linked Group Breaches Networks via Connectwise, F5 Software Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX1OrN3yoHpCp3MoqtXumV3yhBw20fgRopKie-_WJUnwDR5Qs9ZrGRpSGgcBJUdnN898Y3W-ajxhQLoYhrf7fZE_jnBKfE0DqcWwcsRtDc_XBP9OEaFZg8m3E247yh3mKss4FIjUQr-JhqJ6nJepPkLAuLVz714JnHmD4ZZkGVQJspDeQyF-cR1hsDL1vO/s1600/chinese-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX1OrN3yoHpCp3MoqtXumV3yhBw20fgRopKie-_WJUnwDR5Qs9ZrGRpSGgcBJUdnN898Y3W-ajxhQLoYhrf7fZE_jnBKfE0DqcWwcsRtDc_XBP9OEaFZg8m3E247yh3mKss4FIjUQr-JhqJ6nJepPkLAuLVz714JnHmD4ZZkGVQJspDeQyF-cR1hsDL1vO/s1600/chinese-hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/massive-sign1-campaign-infects-39000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A massive malware campaign dubbed Sign1 has compromised over 39,000 WordPress sites in the last six months, using malicious JavaScript injections to redirect users to scam sites.\nThe most recent variant of the malware is estimated to have infected no less than 2,500 sites over the past two months alone, Sucuri said in a report published this week.\nThe attacks entail injecting rogue",
+          "link": "https://thehackernews.com/2024/03/massive-sign1-campaign-infects-39000.html",
+          "publishedOn": "2024-03-22T11:27:00.000Z",
+          "wordCount": null,
+          "title": "Massive Sign1 Campaign Infects 39,000+ WordPress Sites with Scam Redirects",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCkqf9hM7VD9zWt4e1UbchWEFAO6Jq1MNJbgiEzVyWnLHSdWi_nfDxBmrp33pVW3oc17aeL76QKTjEhkFfFNjpYAkDgbuWlcDQLbrLAB9yNbDNgO-uU44RX7-YculthoOkF-XC45y_0dquM_Cc-p4XP2MEXnKrMa-il0wkS2VXO-X05G3QizW57jwTV7Y/s1600/code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCkqf9hM7VD9zWt4e1UbchWEFAO6Jq1MNJbgiEzVyWnLHSdWi_nfDxBmrp33pVW3oc17aeL76QKTjEhkFfFNjpYAkDgbuWlcDQLbrLAB9yNbDNgO-uU44RX7-YculthoOkF-XC45y_0dquM_Cc-p4XP2MEXnKrMa-il0wkS2VXO-X05G3QizW57jwTV7Y/s1600/code.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/implementing-zero-trust-controls-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The ThreatLocker® Zero Trust Endpoint Protection Platform implements a strict deny-by-default, allow-by-exception security posture to give organizations the ability to set policy-based controls within their environment and mitigate countless cyber threats, including zero-days, unseen network footholds, and malware attacks as a direct result of user error.\nWith the capabilities of the",
