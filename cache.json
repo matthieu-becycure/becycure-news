@@ -3123,16 +3123,6 @@
           "wordCount": 948,
           "title": "CERTFR-2024-AVI-0158 : Vulnérabilité dans Kaspersky Endpoint Security (22 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans PostgreSQL JDBC. Elles permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0157/",
-          "publishedOn": "2024-02-22T09:06:49.000Z",
-          "wordCount": 995,
-          "title": "CERTFR-2024-AVI-0157 : Vulnérabilité dans PostgreSQL JDBC (22 février 2024)",
-          "imageUrl": null
         }
       ]
     }
