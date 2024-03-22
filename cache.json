@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ), along with 16 other state and district attorneys general, on Thursday accused Apple of illegally maintaining a monopoly over smartphones, thereby undermining, among others, security and privacy of users when messaging non-iPhone users.\n\"Apple wraps itself in a cloak of privacy, security, and consumer preferences to justify its anticompetitive",
+          "link": "https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html",
+          "publishedOn": "2024-03-22T06:14:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Justice Department Sues Apple Over Monopoly and Messaging Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0-Hf3YpI1aL_1V5OxGfHdMdOGjLzNSoUV6U9QdeMBlLbAM3boaOYpzd2G0izLcX9lNOYaXil8CFbBX8PIaM8sEvwSV8voMfR6qf0aKZkIodceYh2LZzdjt6ZOLvd2fmj7mouGuHYycF-fu25DJhrOHLuo7c3qlOu6xwefTqMa3_nY5LBBMu2yJwVsdqs/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0-Hf3YpI1aL_1V5OxGfHdMdOGjLzNSoUV6U9QdeMBlLbAM3boaOYpzd2G0izLcX9lNOYaXil8CFbBX8PIaM8sEvwSV8voMfR6qf0aKZkIodceYh2LZzdjt6ZOLvd2fmj7mouGuHYycF-fu25DJhrOHLuo7c3qlOu6xwefTqMa3_nY5LBBMu2yJwVsdqs/s1600/apple.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The data wiping malware called AcidPour may have been deployed in attacks targeting four telecom providers in Ukraine, new findings from SentinelOne show.\nThe cybersecurity firm also confirmed connections between the malware and AcidRain, tying it to threat activity clusters associated with Russian military intelligence.\n\"AcidPour's expanded capabilities would enable it to better",

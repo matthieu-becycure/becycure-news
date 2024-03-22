@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-22T07:10:20.550Z</updated>
+    <updated>2024-03-22T07:23:33.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Justice Department Sues Apple Over Monopoly and Messaging Security]]></title>
+        <id>https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html</id>
+        <link href="https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html"/>
+        <updated>2024-03-22T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ), along with 16 other state and district attorneys general, on Thursday accused Apple of illegally maintaining a monopoly over smartphones, thereby undermining, among others, security and privacy of users when messaging non-iPhone users.
+"Apple wraps itself in a cloak of privacy, security, and consumer preferences to justify its anticompetitive]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hackers Target Ukrainian Telecoms with Upgraded 'AcidPour' Malware]]></title>
         <id>https://thehackernews.com/2024/03/russian-hackers-target-ukrainian.html</id>
