@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-22T00:45:40.079Z</updated>
+    <updated>2024-03-22T01:41:35.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2422,17 +2422,6 @@ The]]></summary>
         <updated>2024-02-21T16:16:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have identified two authentication bypass flaws in open-source Wi-Fi software found in Android, Linux, and ChromeOS devices that could trick users into joining a malicious clone of a legitimate network or allow an attacker to join a trusted network without a password.
 The vulnerabilities, tracked as CVE-2023-52160 and CVE-2023-52161, have been discovered following a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mustang Panda Targets Asia with Advanced PlugX Variant DOPLUGS]]></title>
-        <id>https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html</id>
-        <link href="https://thehackernews.com/2024/02/mustang-panda-targets-asia-with.html"/>
-        <updated>2024-02-21T13:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The China-linked threat actor known as Mustang Panda has targeted various Asian countries using a variant of the PlugX (aka Korplug) backdoor dubbed DOPLUGS.
-"The piece of customized PlugX malware is dissimilar to the general type of the PlugX malware that contains a completed backdoor command module, and that the former is only used for downloading the latter," Trend Micro researchers Sunny Lu]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
