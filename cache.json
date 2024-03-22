@@ -3153,16 +3153,6 @@
           "wordCount": 1017,
           "title": "CERTFR-2024-AVI-0155 : Multiples vulnérabilités dans Gitlab (22 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0154/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0154/",
-          "publishedOn": "2024-02-22T08:00:28.000Z",
-          "wordCount": 945,
-          "title": "CERTFR-2024-AVI-0154 : Vulnérabilité dans Spring Framework (22 février 2024)",
-          "imageUrl": null
         }
       ]
     }
