@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s1600/hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvM6leDiN9C7Vzl8g3r5ahQE5SlKI3HfsTObBmzY3AHGWocEbTJg2x3k4TeSQywH5roGmZZ2AOQ07BeLzAfMhCHFO46Zil45v9EbWE5aCeTGPvHJABiDHEI0Brw99k_WbiatBH-3g3Uz0ZpLu-xc1hMcDhT618kmbPWIRFmpbs7RIvCgqSiAj7KA5WKyo/s1600/hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/russian-government-software-backdoored.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An installer for a tool likely used by the Russian Consular Department of the Ministry of Foreign Affairs (MID) has been backdoored to deliver a remote access trojan called Konni RAT (aka UpDog).\nThe findings come from German cybersecurity company DCSO, which linked the activity as originating from the Democratic People's Republic of Korea (DPRK)-nexus actors targeting Russia.\nThe",
-          "link": "https://thehackernews.com/2024/02/russian-government-software-backdoored.html",
-          "publishedOn": "2024-02-22T10:43:00.000Z",
-          "wordCount": null,
-          "title": "Russian Government Software Backdoored to Deploy Konni RAT Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj49rhqqA-mxtmox1fybU0tENIeJuA_2g3BytqZBQjH8PEScWg5QxtfprIfKf7oQcv-YabbjzNAltHcZCbA0sLFmrXjUdRB9DIAhzOYFuNeoasslqkEQNKZ-OfevXS-UIIISE53qayWiM2qXMpUF1lPRepm3Cqyczrw62w9Kqa1HSkcP9MP-162wM8cus/s1600/north-korean-hackers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPj49rhqqA-mxtmox1fybU0tENIeJuA_2g3BytqZBQjH8PEScWg5QxtfprIfKf7oQcv-YabbjzNAltHcZCbA0sLFmrXjUdRB9DIAhzOYFuNeoasslqkEQNKZ-OfevXS-UIIISE53qayWiM2qXMpUF1lPRepm3Cqyczrw62w9Kqa1HSkcP9MP-162wM8cus/s1600/north-korean-hackers.jpg"
         }
       ]
     },
