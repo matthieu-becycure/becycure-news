@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-22T15:10:31.887Z</updated>
+    <updated>2024-03-22T15:26:18.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.]]></title>
+        <id>https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html</id>
+        <link href="https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html"/>
+        <updated>2024-03-22T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detected a new wave of phishing attacks that aim to deliver an ever-evolving information stealer referred to as StrelaStealer.
+The campaigns impact more than 100 organizations in the E.U. and the U.S., Palo Alto Networks Unit 42 researchers said in a new report published today.
+"These campaigns come in the form of spam emails with attachments that eventually]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Patches Critical 'FlowFixation' Bug in Airflow Service to Prevent Session Hijacking]]></title>
         <id>https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html</id>

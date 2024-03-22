@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detected a new wave of phishing attacks that aim to deliver an ever-evolving information stealer referred to as StrelaStealer.\nThe campaigns impact more than 100 organizations in the E.U. and the U.S., Palo Alto Networks Unit 42 researchers said in a new report published today.\n\"These campaigns come in the form of spam emails with attachments that eventually",
+          "link": "https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html",
+          "publishedOn": "2024-03-22T14:08:00.000Z",
+          "wordCount": null,
+          "title": "New StrelaStealer Phishing Attacks Hit Over 100 Organizations in E.U. and U.S.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpcZQUrPBQnIUjFnd8jEOSD5hhRzD2-AVXaWqlVptLz5wq9zZjcXCLu_MR7D_EmNi_xglrGzl-hCq2zyL1r7hzQI6PYCu2RtWeJUpPYP_YqAQ_o2Q6FC75OUnc0jvxSVRnCP8nZ-vN6DETUUGNTkxZBgVzQPYjO1GduNVzg1sIDrlDkxSxwUfQXgPQH4S/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHpcZQUrPBQnIUjFnd8jEOSD5hhRzD2-AVXaWqlVptLz5wq9zZjcXCLu_MR7D_EmNi_xglrGzl-hCq2zyL1r7hzQI6PYCu2RtWeJUpPYP_YqAQ_o2Q6FC75OUnc0jvxSVRnCP8nZ-vN6DETUUGNTkxZBgVzQPYjO1GduNVzg1sIDrlDkxSxwUfQXgPQH4S/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/aws-patches-critical-flowfixation-bug.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shared details of a now-patched security vulnerability in Amazon Web Services (AWS) Managed Workflows for Apache Airflow (MWAA) that could be potentially exploited by a malicious actor to hijack victims' sessions and achieve remote code execution on underlying instances.\nThe vulnerability, now addressed by AWS, has been codenamed FlowFixation by Tenable.",
