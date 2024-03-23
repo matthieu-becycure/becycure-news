@@ -3065,16 +3065,6 @@
           "wordCount": 1002,
           "title": "CERTFR-2024-AVI-0159 : Multiples vulnérabilités dans les produits Mozilla (23 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Kaspersky Endpoint Security. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0158/",
-          "publishedOn": "2024-02-22T12:39:25.000Z",
-          "wordCount": 948,
-          "title": "CERTFR-2024-AVI-0158 : Vulnérabilité dans Kaspersky Endpoint Security (22 février 2024)",
-          "imageUrl": null
         }
       ]
     }
