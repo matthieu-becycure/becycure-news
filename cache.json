@@ -3023,16 +3023,6 @@
           "wordCount": 1133,
           "title": "CERTFR-2024-AVI-0160 : Multiples vulnérabilités dans Ruby on Rails (23 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0159/",
-          "publishedOn": "2024-02-23T07:45:02.000Z",
-          "wordCount": 1002,
-          "title": "CERTFR-2024-AVI-0159 : Multiples vulnérabilités dans les produits Mozilla (23 février 2024)",
-          "imageUrl": null
         }
       ]
     }
