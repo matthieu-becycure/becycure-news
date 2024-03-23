@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-23T16:43:22.671Z</updated>
+    <updated>2024-03-23T17:09:07.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2415,17 +2415,6 @@ A customizable, vendor-agnostic tool featuring lists of automation opportunities
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html</id>
-        <link href="https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html"/>
-        <updated>2024-02-23T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Details have emerged about a now-patched high-severity security flaw in Apple's Shortcuts app that could permit a shortcut to access sensitive information on the device without users' consent.
-The vulnerability, tracked as CVE-2024-23204 (CVSS score: 7.5), was addressed by Apple on January 22, 2024, with the release of iOS 17.3, iPadOS 17.3, macOS Sonoma 14.3, and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

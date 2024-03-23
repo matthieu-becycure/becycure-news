@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Details have emerged about a now-patched high-severity security flaw in Apple's Shortcuts app that could permit a shortcut to access sensitive information on the device without users' consent.\nThe vulnerability, tracked as CVE-2024-23204 (CVSS score: 7.5), was addressed by Apple on January 22, 2024, with the release of iOS 17.3, iPadOS 17.3, macOS Sonoma 14.3, and",
-          "link": "https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html",
-          "publishedOn": "2024-02-23T05:05:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s1600/apple.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxdOVPYTTeCnlzCgNmxUCrCVZDbo8x2q21VjHATMIVssSOyayFtO9eOLuygzc23b6gKDC1PSVH-FgXMckKcovLyxIWtDs_hXm-duOgG9CewwmVROuwA3kkkiTTPx4uKQn_pu2r7vnq2VhZ8nPsckQ1nbZXH6GclLkBlgJU4DcUINkNcqHGn21tgtmSn_r/s1600/apple.jpg"
         }
       ]
     },
