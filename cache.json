@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The WINELOADER backdoor used in recent cyber attacks targeting diplomatic entities with wine-tasting phishing lures has been attributed as the handiwork of a hacking group with links to Russia's Foreign Intelligence Service (SVR), which was responsible for breaching SolarWinds and Microsoft.\nThe findings come from Mandiant, which said Midnight Blizzard (aka APT29, BlueBravo, or",
+          "link": "https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html",
+          "publishedOn": "2024-03-23T06:03:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Use 'WINELOADER' Malware to Target German Political Parties",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedxJ0gmbKhyphenhyphendy8d9ul3Bj07s79fql8EYL0w2OQtf7OU0FL4_h8p_EvHLoxHzRLaDp2O1BTT3-mkcNHhJ4MNdbdn1HmWSr7y6wlpusHqiWzIeYFP2OYZq17Wxe203vEpnH90mJO8RcpS9CmNmYkzXwTCwJ4nXelC5pS1NwjpP9FRYNoqmaneiNyDy4Eq-g/s1600/russian-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedxJ0gmbKhyphenhyphendy8d9ul3Bj07s79fql8EYL0w2OQtf7OU0FL4_h8p_EvHLoxHzRLaDp2O1BTT3-mkcNHhJ4MNdbdn1HmWSr7y6wlpusHqiWzIeYFP2OYZq17Wxe203vEpnH90mJO8RcpS9CmNmYkzXwTCwJ4nXelC5pS1NwjpP9FRYNoqmaneiNyDy4Eq-g/s1600/russian-hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-strelastealer-phishing-attacks-hit.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have detected a new wave of phishing attacks that aim to deliver an ever-evolving information stealer referred to as StrelaStealer.\nThe campaigns impact more than 100 organizations in the E.U. and the U.S., Palo Alto Networks Unit 42 researchers said in a new report published today.\n\"These campaigns come in the form of spam emails with attachments that eventually",
