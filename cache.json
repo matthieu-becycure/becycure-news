@@ -2951,26 +2951,6 @@
           "wordCount": 1361,
           "title": "CERTFR-2024-AVI-0164 : Multiples vulnérabilités dans le noyau Linux de RedHat (23 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0163/",
-          "publishedOn": "2024-02-23T12:40:23.000Z",
-          "wordCount": 1144,
-          "title": "CERTFR-2024-AVI-0163 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (23 février 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0162/",
-          "publishedOn": "2024-02-23T12:27:49.000Z",
-          "wordCount": 1023,
-          "title": "CERTFR-2024-AVI-0162 : Multiples vulnérabilités dans les produits IBM (23 février 2024)",
-          "imageUrl": null
         }
       ]
     }
