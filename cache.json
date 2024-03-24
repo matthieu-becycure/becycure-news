@@ -2068,22 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYfojJSqdIoSFAUQiKjssiS_ODeJrTiELPIXBgO9P1PT7BMWYBKNvodylXfVsLfh2sOrhWOlnKkjrTeWfpjzTUriFME6B7NscVt3WFKVFZ4AihtoWP8XKVQkogX_JYDebhn7qG2qj5oRW5tkLjB2DsOEmKAT_tH-uGvahAvq80ejxXouILu7Y46J9n5Fn/s1600/MS.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYfojJSqdIoSFAUQiKjssiS_ODeJrTiELPIXBgO9P1PT7BMWYBKNvodylXfVsLfh2sOrhWOlnKkjrTeWfpjzTUriFME6B7NscVt3WFKVFZ4AihtoWP8XKVQkogX_JYDebhn7qG2qj5oRW5tkLjB2DsOEmKAT_tH-uGvahAvq80ejxXouILu7Y46J9n5Fn/s1600/MS.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A dormant package available on the Python Package Index (PyPI) repository was updated nearly after two years to propagate an information stealer malware called Nova Sentinel.\nThe package, named django-log-tracker, was first published to PyPI in April 2022, according to software supply chain security firm Phylum, which detected an anomalous update to the library on February 21,",
-          "link": "https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html",
-          "publishedOn": "2024-02-23T17:08:00.000Z",
-          "wordCount": null,
-          "title": "Dormant PyPI Package Compromised to Spread Nova Sentinel Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s1600/sython.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLFThBVEc7CSkilijAy01RzPcy-KuZVYP2Uu4dm5_MwYrxGsBelJIvWvuUFOCPRkO8m03vzQONeH69uCB2PVekPn9-ADPNae8kgsHU7JEvnaE1IJ6GHJD0RwaWByeSENRv5R07-Goc-UZHmFLv6475qDYy0FCtW7dzxkXtIoPQ9HR_ZywWEs2tTSAmc5OA/s1600/sython.jpg"
         }
       ]
     },

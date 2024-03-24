@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-24T04:43:26.326Z</updated>
+    <updated>2024-03-24T05:10:06.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2320,17 +2320,6 @@ The development comes following the takedown of the prolific ransomware-as-a-s
         <updated>2024-02-24T11:49:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft has expanded free logging capabilities to all U.S. federal agencies using Microsoft Purview Audit irrespective of the license tier, more than six months after a China-linked cyber espionage campaign targeting two dozen organizations came to light.
 "Microsoft will automatically enable the logs in customer accounts and increase the default log retention period from 90 days to 180 days,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dormant PyPI Package Compromised to Spread Nova Sentinel Malware]]></title>
-        <id>https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html</id>
-        <link href="https://thehackernews.com/2024/02/dormant-pypi-package-compromised-to.html"/>
-        <updated>2024-02-23T17:08:00.000Z</updated>
-        <summary type="html"><![CDATA[A dormant package available on the Python Package Index (PyPI) repository was updated nearly after two years to propagate an information stealer malware called Nova Sentinel.
-The package, named django-log-tracker, was first published to PyPI in April 2022, according to software supply chain security firm Phylum, which detected an anomalous update to the library on February 21,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
