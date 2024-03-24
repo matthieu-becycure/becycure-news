@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-24T05:26:23.066Z</updated>
+    <updated>2024-03-24T05:43:37.640Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[German Police Seize 'Nemesis Market' in Major International Darknet Raid]]></title>
+        <id>https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html</id>
+        <link href="https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html"/>
+        <updated>2024-03-24T05:24:00.000Z</updated>
+        <summary type="html"><![CDATA[German authorities have announced the takedown of an illicit underground marketplace called Nemesis Market that peddled narcotics, stolen data, and various cybercrime services.
+The Federal Criminal Police Office (aka Bundeskriminalamt or BKA) said it seized the digital infrastructure associated with the darknet service located in Germany and Lithuania and confiscated €94,000 ($102,107)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hackers Use 'WINELOADER' Malware to Target German Political Parties]]></title>
         <id>https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html</id>

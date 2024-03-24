@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "German authorities have announced the takedown of an illicit underground marketplace called Nemesis Market that peddled narcotics, stolen data, and various cybercrime services.\nThe Federal Criminal Police Office (aka Bundeskriminalamt or BKA) said it seized the digital infrastructure associated with the darknet service located in Germany and Lithuania and confiscated €94,000 ($102,107)",
+          "link": "https://thehackernews.com/2024/03/german-police-seize-nemesis-market-in.html",
+          "publishedOn": "2024-03-24T05:24:00.000Z",
+          "wordCount": null,
+          "title": "German Police Seize 'Nemesis Market' in Major International Darknet Raid",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlwnhOsiYHFgNQy_PcuU5HS9IEp2Scv7KdVdgf5fjzZNQlSQEEzDj5JnQbAllIsgYTy3nkLTcqAzlyAQPC7Pu4W7fb2i7RJmy9BpXHqx6yuyZX3aVvn6of8u5m928bSqf1gWx610jPBqLZmPR6v0UsnE3FpJmdFsQiTy6TohLBn91vgQXuu8GBs-20wxB/s1600/platform.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLlwnhOsiYHFgNQy_PcuU5HS9IEp2Scv7KdVdgf5fjzZNQlSQEEzDj5JnQbAllIsgYTy3nkLTcqAzlyAQPC7Pu4W7fb2i7RJmy9BpXHqx6yuyZX3aVvn6of8u5m928bSqf1gWx610jPBqLZmPR6v0UsnE3FpJmdFsQiTy6TohLBn91vgQXuu8GBs-20wxB/s1600/platform.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The WINELOADER backdoor used in recent cyber attacks targeting diplomatic entities with wine-tasting phishing lures has been attributed as the handiwork of a hacking group with links to Russia's Foreign Intelligence Service (SVR), which was responsible for breaching SolarWinds and Microsoft.\nThe findings come from Mandiant, which said Midnight Blizzard (aka APT29, BlueBravo, or",
