@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-25T12:41:46.733Z</updated>
+    <updated>2024-03-25T13:11:19.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others]]></title>
+        <id>https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html</id>
+        <link href="https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html"/>
+        <updated>2024-03-25T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Unidentified adversaries orchestrated a sophisticated attack campaign that has impacted several individual developers as well as the GitHub organization account associated with Top.gg, a Discord bot discovery site.
+"The threat actors used multiple TTPs in this attack, including account takeover via stolen browser cookies, contributing malicious code with verified commits, setting up a custom]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Lesson from Microsoft’s Password Spray Hack: Secure Every Account]]></title>
+        <id>https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html</id>
+        <link href="https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html"/>
+        <updated>2024-03-25T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[In January 2024, Microsoft discovered they’d been the victim of a hack orchestrated by Russian-state hackers Midnight Blizzard (sometimes known as Nobelium). The concerning detail about this case is how easy it was to breach the software giant. It wasn’t a highly technical hack that exploited a zero-day vulnerability – the hackers used a simple password spray attack to take control of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New "GoFetch" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys]]></title>
         <id>https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html</id>
