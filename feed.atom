@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-24T23:43:30.195Z</updated>
+    <updated>2024-03-25T00:48:03.322Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2332,17 +2332,6 @@ The administrator behind LockBit, in a&]]></summary>
         <updated>2024-02-25T08:53:00.000Z</updated>
         <summary type="html"><![CDATA[LockBitSupp, the individual(s) behind the persona representing the LockBit ransomware service on cybercrime forums such as Exploit and XSS, "has engaged with law enforcement," authorities said.
 The development comes following the takedown of the prolific ransomware-as-a-service (RaaS) operation as part of a coordinated international operation codenamed Cronos. Over 14,000 rogue]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Expands Free Logging Capabilities for all U.S. Federal Agencies]]></title>
-        <id>https://thehackernews.com/2024/02/microsoft-expands-free-logging.html</id>
-        <link href="https://thehackernews.com/2024/02/microsoft-expands-free-logging.html"/>
-        <updated>2024-02-24T11:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has expanded free logging capabilities to all U.S. federal agencies using Microsoft Purview Audit irrespective of the license tier, more than six months after a China-linked cyber espionage campaign targeting two dozen organizations came to light.
-"Microsoft will automatically enable the logs in customer accounts and increase the default log retention period from 90 days to 180 days,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
