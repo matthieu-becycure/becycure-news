@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-25T09:24:06.682Z</updated>
+    <updated>2024-03-25T09:43:31.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New "GoFetch" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys]]></title>
+        <id>https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html</id>
+        <link href="https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html"/>
+        <updated>2024-03-25T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A new security shortcoming discovered in Apple M-series chips could be exploited to extract secret keys used during cryptographic operations.
+Dubbed GoFetch, the vulnerability relates to a microarchitectural side-channel attack that takes advantage of a feature known as data memory-dependent prefetcher (DMP) to target constant-time cryptographic implementations and capture sensitive data]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iran-Linked MuddyWater Deploys Atera for Surveillance in Phishing Attacks]]></title>
         <id>https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new security shortcoming discovered in Apple M-series chips could be exploited to extract secret keys used during cryptographic operations.\nDubbed GoFetch, the vulnerability relates to a microarchitectural side-channel attack that takes advantage of a feature known as data memory-dependent prefetcher (DMP) to target constant-time cryptographic implementations and capture sensitive data",
+          "link": "https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html",
+          "publishedOn": "2024-03-25T09:02:00.000Z",
+          "wordCount": null,
+          "title": "New \"GoFetch\" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Jd_9DlB_CJCoc5dHa_Pw-Ia7TKLNXbrMA6_EzWEFRx37fvSjSiXaS9C9Tw25gr_VcA4R-1jYBhfhdLoVgS71aTan2xsijv8gfHDwvA5a8ojUt1cwe88jQfCHEZP73rpQlKH_IJXTIwsvxbKddu-fs_g-upj63u8S8sUq04Jr_3Ko6GJIu7AOYYYot0Gw/s1600/apple.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Iran-affiliated threat actor tracked as MuddyWater (aka Mango Sandstorm or TA450) has been linked to a new phishing campaign in March 2024 that aims to deliver a legitimate Remote Monitoring and Management (RMM) solution called Atera.\nThe activity, which took place from March 7 through the week of March 11, targeted Israeli entities spanning global manufacturing, technology, and",
