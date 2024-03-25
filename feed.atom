@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-25T20:43:31.153Z</updated>
+    <updated>2024-03-25T21:09:56.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2424,17 +2424,6 @@ One of the packages in question, execution-time-async, masquerades as its legit
         <summary type="html"><![CDATA[The threat actors behind the LockBit ransomware operation have resurfaced on the dark web using new infrastructure, days after an international law enforcement exercise seized control of its servers.
 To that end, the notorious group has moved its data leak portal to a new .onion address on the TOR network, listing 12 new victims as of writing.
 The administrator behind LockBit, in a&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorities Claim LockBit Admin "LockBitSupp" Has Engaged with Law Enforcement]]></title>
-        <id>https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html</id>
-        <link href="https://thehackernews.com/2024/02/authorities-claim-lockbit-admin.html"/>
-        <updated>2024-02-25T08:53:00.000Z</updated>
-        <summary type="html"><![CDATA[LockBitSupp, the individual(s) behind the persona representing the LockBit ransomware service on cybercrime forums such as Exploit and XSS, "has engaged with law enforcement," authorities said.
-The development comes following the takedown of the prolific ransomware-as-a-service (RaaS) operation as part of a coordinated international operation codenamed Cronos. Over 14,000 rogue]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
