@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iran-affiliated threat actor tracked as MuddyWater (aka Mango Sandstorm or TA450) has been linked to a new phishing campaign in March 2024 that aims to deliver a legitimate Remote Monitoring and Management (RMM) solution called Atera.\nThe activity, which took place from March 7 through the week of March 11, targeted Israeli entities spanning global manufacturing, technology, and",
+          "link": "https://thehackernews.com/2024/03/iran-linked-muddywater-deploys-atera.html",
+          "publishedOn": "2024-03-25T07:37:00.000Z",
+          "wordCount": null,
+          "title": "Iran-Linked MuddyWater Deploys Atera for Surveillance in Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UhayBlaH6ja82LknfnYnXW88z0JqCPGicfQajqnkHvIarJ1xS3T5POevCr-m3WMexL8dYMeW9WQas3HKoN3PzEbnfA6kk59psTwYgDYCmnQcP1oK-KsioBG_h5BsnKBNHI47XvhG_guevhqfRhsOZfyNMaVlSOGntxYpAYL_hNSBFWeyihhQaU44hqLW/s1600/malware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9UhayBlaH6ja82LknfnYnXW88z0JqCPGicfQajqnkHvIarJ1xS3T5POevCr-m3WMexL8dYMeW9WQas3HKoN3PzEbnfA6kk59psTwYgDYCmnQcP1oK-KsioBG_h5BsnKBNHI47XvhG_guevhqfRhsOZfyNMaVlSOGntxYpAYL_hNSBFWeyihhQaU44hqLW/s1600/malware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/n-korea-linked-kimsuky-shifts-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The North Korea-linked threat actor known as Kimsuky (aka Black Banshee, Emerald Sleet, or Springtail) has been observed shifting its tactics, leveraging Compiled HTML Help (CHM) files as vectors to deliver malware for harvesting sensitive data.\nKimsuky, active since at least 2012, is known to target entities located in South Korea as well as North America, Asia, and Europe.\nAccording",
