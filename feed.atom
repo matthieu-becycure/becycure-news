@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-25T14:27:35.568Z</updated>
+    <updated>2024-03-25T14:43:44.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0248 : Vulnérabilité dans Microsoft .Net (25 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0248/"/>
+        <updated>2024-03-25T12:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été corrigée dans Microsoft .Net. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0247 : Multiples vulnérabilités dans Microsoft Edge (25 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0247/"/>
+        <updated>2024-03-25T12:25:04.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la fonctionnalité de sécurité et une usurpation d'identité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0246 : Multiples vulnérabilités dans Mozilla Firefox (25 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0246/"/>
+        <updated>2024-03-25T12:24:44.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0245 : Multiples vulnérabilités dans MISP (25 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0245/"/>
+        <updated>2024-03-25T12:20:09.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0244 : Multiples vulnérabilités dans les produits Netapp (25 mars 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0244/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0244/"/>
+        <updated>2024-03-25T12:17:17.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Netapp. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Hijack GitHub Accounts in Supply Chain Attack Affecting Top-gg and Others]]></title>
         <id>https://thehackernews.com/2024/03/hackers-hijack-github-accounts-in.html</id>
