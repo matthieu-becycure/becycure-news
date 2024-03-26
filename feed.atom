@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-26T06:13:53.042Z</updated>
+    <updated>2024-03-26T06:30:35.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Alerts on Active Exploitation of Flaws in Fortinet, Ivanti, and Nice Products]]></title>
+        <id>https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html</id>
+        <link href="https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html"/>
+        <updated>2024-03-26T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday placed three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerabilities added are as follows -
+
+CVE-2023-48788 (CVSS score: 9.3) - Fortinet FortiClient EMS SQL Injection Vulnerability
+CVE-2021-44529 (CVSS score: 9.8) - Ivanti]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-ACT-014 : Bulletin d’actualité CERTFR-2024-ACT-014 (25 mars 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-014/</id>
