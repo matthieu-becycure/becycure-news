@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-26T22:28:23.509Z</updated>
+    <updated>2024-03-26T22:43:39.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2470,26 +2470,6 @@ One of the packages in question, execution-time-async, masquerades as its legit
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0165 : Multiples vulnérabilités dans Microsoft Edge (26 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0165/"/>
-        <updated>2024-02-26T10:37:29.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une atteinte à la confidentialité des données et une usurpation d'identité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Tips to Protect Your Secrets from AI Accidents]]></title>
-        <id>https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html</id>
-        <link href="https://thehackernews.com/2024/02/three-tips-to-protect-your-secrets-from.html"/>
-        <updated>2024-02-26T10:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Last year, the Open Worldwide Application Security Project (OWASP) published multiple versions of the "OWASP Top 10 For Large Language Models," reaching a 1.0 document in August and a 1.1 document in October. These documents not only demonstrate the rapidly evolving nature of Large Language Models, but the evolving ways in which they can be attacked and defended. We're going to talk in this]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
