@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters have identified a suspicious package in the NuGet package manager that's likely designed to target developers working with tools made by a Chinese firm that specializes in industrial- and digital equipment manufacturing.\nThe package in question is SqzrFramework480, which ReversingLabs said was first published on January 24, 2024. It has been downloaded",
+          "link": "https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html",
+          "publishedOn": "2024-03-26T16:54:00.000Z",
+          "wordCount": null,
+          "title": "Malicious NuGet Package Linked to Industrial Espionage Targets Developers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrC50Ld94aq4dllgsNluJZxjM8wxO-KOHNzCU9X04O9pqEFlFiUEIy2MPfrtb_c7sxcbZWOCdf7ff5Rk0-8Rikgbin4nvUW6uo1VtlfUWiV846icoxYgjchcI261-uIDpKeiOa4jcAwX8E5l43KGDz4LWxJGcIM6xIbwXP79k7qhtq2TCUX5jUxc_1PUS/s1600/indus.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidrC50Ld94aq4dllgsNluJZxjM8wxO-KOHNzCU9X04O9pqEFlFiUEIy2MPfrtb_c7sxcbZWOCdf7ff5Rk0-8Rikgbin4nvUW6uo1VtlfUWiV846icoxYgjchcI261-uIDpKeiOa4jcAwX8E5l43KGDz4LWxJGcIM6xIbwXP79k7qhtq2TCUX5jUxc_1PUS/s1600/indus.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-charges-7-chinese-nationals-in-major.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) on Monday unsealed indictments against seven Chinese nationals for their involvement in a hacking group that targeted U.S. and foreign critics, journalists, businesses, and political officials for about 14 years.\nThe defendants include Ni Gaobin (倪高彬), Weng Ming (翁明), Cheng Feng (程锋), Peng Yaowen (彭耀文), Sun Xiaohui (孙小辉), Xiong Wang (熊旺), and Zhao Guangzong (",

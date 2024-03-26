@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-26T17:26:07.058Z</updated>
+    <updated>2024-03-26T17:43:52.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious NuGet Package Linked to Industrial Espionage Targets Developers]]></title>
+        <id>https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html</id>
+        <link href="https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html"/>
+        <updated>2024-03-26T16:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat hunters have identified a suspicious package in the NuGet package manager that's likely designed to target developers working with tools made by a Chinese firm that specializes in industrial- and digital equipment manufacturing.
+The package in question is SqzrFramework480, which ReversingLabs said was first published on January 24, 2024. It has been downloaded]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0251 : Multiples vulnérabilités dans Kaspersky Anti Targeted Attack (26 mars 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/</id>
