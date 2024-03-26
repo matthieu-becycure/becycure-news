@@ -2205,6 +2205,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/",
+          "publishedOn": "2024-03-26T12:43:32.000Z",
+          "wordCount": 951,
+          "title": "CERTFR-2024-AVI-0251 : Multiples vulnérabilités dans Kaspersky Anti Targeted Attack (26 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Apple. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0250/",
+          "publishedOn": "2024-03-26T09:39:47.000Z",
+          "wordCount": 1058,
+          "title": "CERTFR-2024-AVI-0250 : Vulnérabilité dans les produits Apple (26 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0249/",
+          "publishedOn": "2024-03-26T09:33:35.000Z",
+          "wordCount": 979,
+          "title": "CERTFR-2024-AVI-0249 : Multiples vulnérabilités dans Tenable Security Center (26 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-014/",
           "author": null,
           "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
