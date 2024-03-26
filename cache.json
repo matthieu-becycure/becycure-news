@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned three cryptocurrency exchanges for offering services used to evade economic restrictions imposed on Russia following its invasion of Ukraine in early 2022.\nThis includes Bitpapa IC FZC LLC, Crypto Explorer DMCC (AWEX), and Obshchestvo S Ogranichennoy Otvetstvennostyu Tsentr Obrabotki Elektronnykh Platezhey (",
+          "link": "https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html",
+          "publishedOn": "2024-03-26T08:31:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Sanctions 3 Cryptocurrency Exchanges for Helping Russia Evade Sanctions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7vAsvoDaNiIZPfxDzRv6vBxyj1xmNSpRCe6Rr6Qv4yI2NBJ5vhKaedwFQzzz_m4i8W7uY1gQ-zUXkXUZcSkor5WPYoXujvpg-kEy7MRPc1DP0s1WEjmIuIOPTd2jHKKesxiFNeF4c7Ks84b0AkxoA7Ekgq2TgWnBHCIiwyecsrU1B-fDYe2k6GQwQOhM/s1600/bitcoin.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjI7vAsvoDaNiIZPfxDzRv6vBxyj1xmNSpRCe6Rr6Qv4yI2NBJ5vhKaedwFQzzz_m4i8W7uY1gQ-zUXkXUZcSkor5WPYoXujvpg-kEy7MRPc1DP0s1WEjmIuIOPTd2jHKKesxiFNeF4c7Ks84b0AkxoA7Ekgq2TgWnBHCIiwyecsrU1B-fDYe2k6GQwQOhM/s1600/bitcoin.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/cisa-alerts-on-active-exploitation-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday placed three security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerabilities added are as follows -\n\nCVE-2023-48788 (CVSS score: 9.3) - Fortinet FortiClient EMS SQL Injection Vulnerability\nCVE-2021-44529 (CVSS score: 9.8) - Ivanti",
