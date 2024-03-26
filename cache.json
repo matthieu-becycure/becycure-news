@@ -3091,16 +3091,6 @@
           "wordCount": 1000,
           "title": "CERTFR-2024-AVI-0166 : Vulnérabilité dans les produits WithSecure (26 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-010/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-010/",
-          "publishedOn": "2024-02-26T10:44:15.000Z",
-          "wordCount": 1763,
-          "title": "CERTFR-2024-ACT-010 : Bulletin d’actualité CERTFR-2024-ACT-010 (26 février 2024)",
-          "imageUrl": null
         }
       ]
     }
