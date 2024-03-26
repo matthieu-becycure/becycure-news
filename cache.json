@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/us-charges-7-chinese-nationals-in-major.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) on Monday unsealed indictments against seven Chinese nationals for their involvement in a hacking group that targeted U.S. and foreign critics, journalists, businesses, and political officials for about 14 years.\nThe defendants include Ni Gaobin (倪高彬), Weng Ming (翁明), Cheng Feng (程锋), Peng Yaowen (彭耀文), Sun Xiaohui (孙小辉), Xiong Wang (熊旺), and Zhao Guangzong (",
+          "link": "https://thehackernews.com/2024/03/us-charges-7-chinese-nationals-in-major.html",
+          "publishedOn": "2024-03-26T12:06:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Charges 7 Chinese Nationals in Major 14-Year Cyber Espionage Operation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSJvuRzQm3LkFDupz250gyCYHBPgED_yMXEaukZOTo2NM30POL5on8GptCZ-pelaA9W2mZ-4TGx9AapAtM1cqEc50gVVFYIdZLgrKs_cYP_DUKI5lJsBIzA-9Ve41p_efujD7pITKKCTh2dGl3TIz7Dkbh2w-ToN-0CpI4shyphenhyphenvGCJS1Eyhl5-RTzzTi8k/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSJvuRzQm3LkFDupz250gyCYHBPgED_yMXEaukZOTo2NM30POL5on8GptCZ-pelaA9W2mZ-4TGx9AapAtM1cqEc50gVVFYIdZLgrKs_cYP_DUKI5lJsBIzA-9Ve41p_efujD7pITKKCTh2dGl3TIz7Dkbh2w-ToN-0CpI4shyphenhyphenvGCJS1Eyhl5-RTzzTi8k/s1600/cyber.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Minecraft, with over 500 million registered users and 166 million monthly players, faces significant risks from distributed denial-of-service (DDoS) attacks, threatening server functionality, player experience, and the game’s reputation. Despite the prevalence of DDoS attacks on the game, the majority of incidents go unreported, leaving a gap in awareness and protection. This article explains",
+          "link": "https://thehackernews.com/2024/03/crafting-shields-defending-minecraft.html",
+          "publishedOn": "2024-03-26T11:29:00.000Z",
+          "wordCount": null,
+          "title": "Crafting Shields: Defending Minecraft Servers Against DDoS Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s1600/ddos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisNTQovQetGLnS1Vjsp72RBqr4JonmRzLhs7NUx-qwSCz10GKUi4aCg-4S1GXUIj3DcNNmsyvMGa6mkbv1zHaBJfwljmAyELVO3VcDVlgUTcw6w9KJv85vwqrbk6szxmsMrxhAFmIupw9ZDPor4Lm8i_qIvFPqXBmLMxeM0Rof31lFr5-hfO33NZQogsg/s1600/ddos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/us-sanctions-3-cryptocurrency-exchanges.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) sanctioned three cryptocurrency exchanges for offering services used to evade economic restrictions imposed on Russia following its invasion of Ukraine in early 2022.\nThis includes Bitpapa IC FZC LLC, Crypto Explorer DMCC (AWEX), and Obshchestvo S Ogranichennoy Otvetstvennostyu Tsentr Obrabotki Elektronnykh Platezhey (",
