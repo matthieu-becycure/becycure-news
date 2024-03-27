@@ -3065,16 +3065,6 @@
           "wordCount": 982,
           "title": "CERTFR-2024-AVI-0167 : [SCADA] Vulnérabilité dans les produits Moxa (27 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0166/",
-          "publishedOn": "2024-02-26T13:40:00.000Z",
-          "wordCount": 1000,
-          "title": "CERTFR-2024-AVI-0166 : Vulnérabilité dans les produits WithSecure (26 février 2024)",
-          "imageUrl": null
         }
       ]
     }
