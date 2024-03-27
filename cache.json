@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A now-patched security flaw in the Microsoft Edge web browser could have been abused to install arbitrary extensions on users' systems and carry out malicious actions. \n\"This flaw could have allowed an attacker to exploit a private API, initially intended for marketing purposes, to covertly install additional browser extensions with broad permissions without the user's knowledge,\" Guardio",
+          "link": "https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html",
+          "publishedOn": "2024-03-27T12:54:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hfqeVHLTPOHxJq0REnUwUllrYfG9kYrEfHMVkQ6m_A9ex42vECeoErJfjIbOUn1YOeEpXxOKNr3FGUwNQb6Hq6b-l_Ku9XqJ5NrjE3qCO-GJFMSsuXGWp8a30kXls6fU7vVzJaCoMgomRLr7kkAK7OmpInI1i9Tg81-isZrBMt9pxv1Zz7OiNvTi-SSw/s1600/browser.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hfqeVHLTPOHxJq0REnUwUllrYfG9kYrEfHMVkQ6m_A9ex42vECeoErJfjIbOUn1YOeEpXxOKNr3FGUwNQb6Hq6b-l_Ku9XqJ5NrjE3qCO-GJFMSsuXGWp8a30kXls6fU7vVzJaCoMgomRLr7kkAK7OmpInI1i9Tg81-isZrBMt9pxv1Zz7OiNvTi-SSw/s1600/browser.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As SaaS applications dominate the business landscape, organizations need optimized network speed and robust security measures. Many of them have been turning to SASE, a product category that offers cloud-based network protection while enhancing network infrastructure performance.\nHowever, a new report: \"Better Together: SASE and Enterprise Browser Extension for the SaaS-First Enterprise\" (",

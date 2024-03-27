@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T12:43:15.141Z</updated>
+    <updated>2024-03-27T13:10:25.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions]]></title>
+        <id>https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html</id>
+        <link href="https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html"/>
+        <updated>2024-03-27T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched security flaw in the Microsoft Edge web browser could have been abused to install arbitrary extensions on users' systems and carry out malicious actions. 
+"This flaw could have allowed an attacker to exploit a private API, initially intended for marketing purposes, to covertly install additional browser extensions with broad permissions without the user's knowledge," Guardio]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals]]></title>
         <id>https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html</id>
