@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T07:43:39.150Z</updated>
+    <updated>2024-03-27T08:13:52.649Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: New Phishing Attack Delivers Keylogger Disguised as Bank Payment Notice]]></title>
+        <id>https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html</id>
+        <link href="https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html"/>
+        <updated>2024-03-27T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A new phishing campaign has been observed leveraging a novel loader malware to deliver an information stealer and keylogger called Agent Tesla.
+Trustwave SpiderLabs said it identified a phishing email bearing this attack chain on March 8, 2024. The message masquerades as a bank payment notification, urging the user to open an archive file attachment.
+The archive ("Bank Handlowy w Warszawie]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Chinese APT Groups Ramp Up Cyber Espionage Against ASEAN Countries]]></title>
         <id>https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html</id>
