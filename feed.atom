@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T01:43:03.815Z</updated>
+    <updated>2024-03-27T02:16:32.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2425,17 +2425,6 @@ In an advisory published last week, WordPress]]></summary>
         <summary type="html"><![CDATA[Ukrainian entities based in Finland have been targeted as part of a malicious campaign distributing a commercial remote access trojan known as Remcos RAT using a malware loader called IDAT Loader.
 The attack has been attributed to a threat actor tracked by the Computer Emergency Response Team of Ukraine (CERT-UA) under the moniker UAC-0184.
 "The attack, as part of the IDAT Loader, used]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8,000+ Subdomains of Trusted Brands Hijacked for Massive Spam Operation]]></title>
-        <id>https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html</id>
-        <link href="https://thehackernews.com/2024/02/8000-subdomains-of-trusted-brands.html"/>
-        <updated>2024-02-26T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[More than 8,000 subdomains belonging to legitimate brands and institutions have been hijacked as part of a sophisticated distribution architecture for spam proliferation and click monetization.
-Guardio Labs is tracking the coordinated malicious activity, which has been ongoing since at least September 2022, under the name SubdoMailing. The emails range from "counterfeit package delivery alerts]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
