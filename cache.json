@@ -2221,6 +2221,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/",
+          "publishedOn": "2024-03-27T13:42:07.000Z",
+          "wordCount": 950,
+          "title": "CERTFR-2024-AVI-0254 : Multiples vulnérabilités dans Google Chrome (27 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/",
+          "publishedOn": "2024-03-27T13:39:49.000Z",
+          "wordCount": 939,
+          "title": "CERTFR-2024-AVI-0253 : Vulnérabilité dans Aruba ArubaOS-Switch (27 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/",
+          "publishedOn": "2024-03-27T13:33:55.000Z",
+          "wordCount": 944,
+          "title": "CERTFR-2024-AVI-0252 : Multiples vulnérabilités dans Nagios XI (27 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0251/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Kaspersky Anti Targeted Attack. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
