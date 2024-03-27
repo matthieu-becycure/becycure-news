@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T02:43:28.074Z</updated>
+    <updated>2024-03-27T03:11:06.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2413,18 +2413,6 @@ The hacking outfit, also known as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight B
         <summary type="html"><![CDATA[A critical security flaw has been disclosed in a popular WordPress plugin called Ultimate Member that has more than 200,000 active installations.
 The vulnerability, tracked as CVE-2024-1071, carries a CVSS score of 9.8 out of a maximum of 10. Security researcher Christiaan Swiers has been credited with discovering and reporting the flaw.
 In an advisory published last week, WordPress]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New IDAT Loader Attacks Using Steganography to Deploy Remcos RAT]]></title>
-        <id>https://thehackernews.com/2024/02/new-idat-loader-attacks-using.html</id>
-        <link href="https://thehackernews.com/2024/02/new-idat-loader-attacks-using.html"/>
-        <updated>2024-02-26T14:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ukrainian entities based in Finland have been targeted as part of a malicious campaign distributing a commercial remote access trojan known as Remcos RAT using a malware loader called IDAT Loader.
-The attack has been attributed to a threat actor tracked by the Computer Emergency Response Team of Ukraine (CERT-UA) under the moniker UAC-0184.
-"The attack, as part of the IDAT Loader, used]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
