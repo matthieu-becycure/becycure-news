@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ9R6RRbqBOFrZ3AzyjY0ZCxsG3TumsFFMgP7z2DcVfrAV9s3ZiMt5aXH2wV-jUtXsuY5GoqTcECrkrKRfMQ94FnKmIgOYSg9g-h0D6Z1SA3jJCK3KSt8m7HnG8kTAeSVQ3hyphenhyphenXR_-vVtD_VcQ4HcvvQ8cDx7UIKTuR3lH81ulz0oGHYJz4hgmKeulH0ep4/s1600/russian-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZ9R6RRbqBOFrZ3AzyjY0ZCxsG3TumsFFMgP7z2DcVfrAV9s3ZiMt5aXH2wV-jUtXsuY5GoqTcECrkrKRfMQ94FnKmIgOYSg9g-h0D6Z1SA3jJCK3KSt8m7HnG8kTAeSVQ3hyphenhyphenXR_-vVtD_VcQ4HcvvQ8cDx7UIKTuR3lH81ulz0oGHYJz4hgmKeulH0ep4/s1600/russian-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have found that it's possible to compromise the Hugging Face Safetensors conversion service to ultimately hijack the models submitted by users and result in supply chain attacks.\n\"It's possible to send malicious pull requests with attacker-controlled data from the Hugging Face service to any repository on the platform, as well as hijack any models that are submitted",
-          "link": "https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html",
-          "publishedOn": "2024-02-27T10:18:00.000Z",
-          "wordCount": null,
-          "title": "New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnzXkaxocpZ-9_7WOZx-Sz4dWCkItUEl-XvMl7zFPf8P8jvD-T8FYZ2qAixJzkQplGiEV-Aq56VafeqKyDN7ps3YgNXuYtXQdE75xV0Mab5jNy-ZtJBzFL_n-mk-nqCktqBf5Yqbv3QY2cycwgnZVy0Qx5lllGr_sBeffPxwZVcedLDqtFqUCb1LT7GPj/s1600/ai.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHnzXkaxocpZ-9_7WOZx-Sz4dWCkItUEl-XvMl7zFPf8P8jvD-T8FYZ2qAixJzkQplGiEV-Aq56VafeqKyDN7ps3YgNXuYtXQdE75xV0Mab5jNy-ZtJBzFL_n-mk-nqCktqBf5Yqbv3QY2cycwgnZVy0Qx5lllGr_sBeffPxwZVcedLDqtFqUCb1LT7GPj/s1600/ai.jpg"
         }
       ]
     },
