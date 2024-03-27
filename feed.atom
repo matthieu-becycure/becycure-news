@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T13:43:33.706Z</updated>
+    <updated>2024-03-27T14:10:25.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html</id>
+        <link href="https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html"/>
+        <updated>2024-03-27T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting the Microsoft Sharepoint Server to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation in the wild.
+The vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical remote code execution flaw that allows an authenticated attacker with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions]]></title>
         <id>https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html</id>
