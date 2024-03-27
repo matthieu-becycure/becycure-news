@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T04:43:50.005Z</updated>
+    <updated>2024-03-27T05:11:08.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Chinese APT Groups Ramp Up Cyber Espionage Against ASEAN Countries]]></title>
+        <id>https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html</id>
+        <link href="https://thehackernews.com/2024/03/two-chinese-apt-groups-ramp-up-cyber.html"/>
+        <updated>2024-03-27T04:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Two China-linked advanced persistent threat (APT) groups have been observed targeting entities and member countries affiliated with the Association of Southeast Asian Nations (ASEAN) as part of a cyber espionage campaign over the past three months.
+This includes the threat actor known as Mustang Panda, which has been recently linked to cyber attacks against Myanmar as well as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious NuGet Package Linked to Industrial Espionage Targets Developers]]></title>
         <id>https://thehackernews.com/2024/03/malicious-nuget-package-linked-to.html</id>
