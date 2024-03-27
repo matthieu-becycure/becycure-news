@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T10:43:29.840Z</updated>
+    <updated>2024-03-27T11:08:50.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals]]></title>
+        <id>https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html</id>
+        <link href="https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html"/>
+        <updated>2024-03-27T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[As SaaS applications dominate the business landscape, organizations need optimized network speed and robust security measures. Many of them have been turning to SASE, a product category that offers cloud-based network protection while enhancing network infrastructure performance.
+However, a new report: "Better Together: SASE and Enterprise Browser Extension for the SaaS-First Enterprise" (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Critical Unpatched Ray AI Platform Vulnerability Exploited for Cryptocurrency Mining]]></title>
+        <id>https://thehackernews.com/2024/03/critical-unpatched-ray-ai-platform.html</id>
+        <link href="https://thehackernews.com/2024/03/critical-unpatched-ray-ai-platform.html"/>
+        <updated>2024-03-27T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning that threat actors are actively exploiting a "disputed" and unpatched vulnerability in an open-source artificial intelligence (AI) platform called Anyscale Ray to hijack computing power for illicit cryptocurrency mining.
+"This vulnerability allows attackers to take over the companies' computing power and leak sensitive data," Oligo Security researchers Avi]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: New Phishing Attack Delivers Keylogger Disguised as Bank Payment Notice]]></title>
         <id>https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html</id>
