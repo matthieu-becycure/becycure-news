@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T21:23:42.668Z</updated>
+    <updated>2024-03-27T21:43:35.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2499,16 +2499,6 @@ The hacking outfit, also known as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight B
         <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-001/"/>
         <updated>2024-02-27T10:09:33.000Z</updated>
         <summary type="html"><![CDATA[Cette troisième édition du Panorama de la cybermenace décrit les principales tendances constatées en 2023 par l’Agence nationale de la sécurité …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0167 : [SCADA] Vulnérabilité dans les produits Moxa (27 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0167/"/>
-        <updated>2024-02-27T09:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Moxa. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
