@@ -2221,6 +2221,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/",
+          "publishedOn": "2024-03-28T10:34:35.000Z",
+          "wordCount": 988,
+          "title": "CERTFR-2024-AVI-0261 : Multiples vulnérabilités dans Microsoft Edge (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/",
+          "publishedOn": "2024-03-28T10:31:06.000Z",
+          "wordCount": 1295,
+          "title": "CERTFR-2024-AVI-0260 : Multiples vulnérabilités dans les produits Cisco (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/",
+          "publishedOn": "2024-03-28T09:56:28.000Z",
+          "wordCount": 977,
+          "title": "CERTFR-2024-AVI-0259 : Multiples vulnérabilités dans GitLab (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/",
+          "publishedOn": "2024-03-28T09:53:35.000Z",
+          "wordCount": 1062,
+          "title": "CERTFR-2024-AVI-0258 : Multiples vulnérabilités dans les produits Splunk (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/",
+          "publishedOn": "2024-03-28T09:42:36.000Z",
+          "wordCount": 970,
+          "title": "CERTFR-2024-AVI-0257 : Multiples vulnérabilités dans Elasticsearch (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/",
+          "publishedOn": "2024-03-28T09:38:33.000Z",
+          "wordCount": 929,
+          "title": "CERTFR-2024-AVI-0256 : Vulnérabilité dans Wireshark (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/",
+          "publishedOn": "2024-03-28T09:36:04.000Z",
+          "wordCount": 928,
+          "title": "CERTFR-2024-AVI-0255 : Vulnérabilité dans GLPI (28 mars 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
