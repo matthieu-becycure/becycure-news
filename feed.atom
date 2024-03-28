@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T07:43:46.888Z</updated>
+    <updated>2024-03-28T08:12:31.799Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram Offers Premium Subscription in Exchange for Using Your Number to Send OTPs]]></title>
+        <id>https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html</id>
+        <link href="https://thehackernews.com/2024/03/telegram-offers-premium-subscription-in.html"/>
+        <updated>2024-03-28T08:07:00.000Z</updated>
+        <summary type="html"><![CDATA[In June 2017, a study of more than 3,000 Massachusetts Institute of Technology (MIT) students published by the National Bureau for Economic Research (NBER) found that 98% of them were willing to give away their friends' email addresses in exchange for free pizza.
+"Whereas people say they care about privacy, they are willing to relinquish private data quite easily when]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite]]></title>
         <id>https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html</id>
