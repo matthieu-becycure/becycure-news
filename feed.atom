@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T22:27:51.900Z</updated>
+    <updated>2024-03-28T22:43:39.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2498,16 +2498,6 @@ UNC1549 is said to overlap with]]></summary>
         <updated>2024-02-28T12:02:00.000Z</updated>
         <summary type="html"><![CDATA[In today's digital era, data privacy isn't just a concern; it's a consumer demand. Businesses are grappling with the dual challenge of leveraging customer data for personalized experiences while navigating a maze of privacy regulations. The answer? A privacy-compliant Customer Data Platform (CDP).
 Join us for a transformative webinar where we unveil Twilio Segment's state-of-the-art CDP.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superusers Need Super Protection: How to Bridge Privileged Access Management and Identity Management]]></title>
-        <id>https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html</id>
-        <link href="https://thehackernews.com/2024/02/superusers-need-super-protection-how-to.html"/>
-        <updated>2024-02-28T10:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Traditional perimeter-based security has become costly and ineffective. As a result, communications security between people, systems, and networks is more important than blocking access with firewalls. On top of that, most cybersecurity risks are caused by just a few superusers – typically one out of 200 users. There’s a company aiming to fix the gap between traditional PAM and IdM]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
