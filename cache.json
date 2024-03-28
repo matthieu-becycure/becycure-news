@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A sophisticated phishing-as-a-service (PhaaS) platform called Darcula has set its sights on organizations in over 100 countries by leveraging a massive network of more than 20,000 counterfeit domains to help cyber criminals launch attacks at scale.\n\"Using iMessage and RCS rather than SMS to send text messages has the side effect of bypassing SMS firewalls, which is being used to great",
+          "link": "https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html",
+          "publishedOn": "2024-03-28T14:43:00.000Z",
+          "wordCount": null,
+          "title": "Darcula Phishing Network Leveraging RCS and iMessage to Evade Detection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd2gJfCaiVckH5_yR-UAvCInUw4Rad7txRnmlkLX5TI4FTsMZFFUjW_Ammp5yjyjcjLeBrM64fB3SOlvSQjCc0xjzIIUCJr03NDmfCOctxgv8NE4jk7IVcUtD-F1k-SYrkW3XMMRENd9hVps-ot_hP64D9JmdDX__cUpvgBpZZCCjuv_33G65zjOOVIIQR/s1600/sms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd2gJfCaiVckH5_yR-UAvCInUw4Rad7txRnmlkLX5TI4FTsMZFFUjW_Ammp5yjyjcjLeBrM64fB3SOlvSQjCc0xjzIIUCJr03NDmfCOctxgv8NE4jk7IVcUtD-F1k-SYrkW3XMMRENd9hVps-ot_hP64D9JmdDX__cUpvgBpZZCCjuv_33G65zjOOVIIQR/s1600/sms.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-webinar-avoiding-application.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Considering the ever-changing state of cybersecurity, it's never too late to ask yourself, \"am I doing what's necessary to keep my organization's web applications secure?\"\nThe continuous evolution of technology introduces new and increasingly sophisticated threats daily, posing challenges to organizations all over the world and across the broader spectrum of industries striving to maintain",

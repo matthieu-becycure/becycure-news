@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T15:26:07.279Z</updated>
+    <updated>2024-03-28T15:43:54.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Darcula Phishing Network Leveraging RCS and iMessage to Evade Detection]]></title>
+        <id>https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html</id>
+        <link href="https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html"/>
+        <updated>2024-03-28T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[A sophisticated phishing-as-a-service (PhaaS) platform called Darcula has set its sights on organizations in over 100 countries by leveraging a massive network of more than 20,000 counterfeit domains to help cyber criminals launch attacks at scale.
+"Using iMessage and RCS rather than SMS to send text messages has the side effect of bypassing SMS firewalls, which is being used to great]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Webinar: Avoiding Application Security Blind Spots with OPSWAT and F5]]></title>
         <id>https://thehackernews.com/2024/03/new-webinar-avoiding-application.html</id>
