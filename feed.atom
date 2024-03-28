@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T20:43:42.752Z</updated>
+    <updated>2024-03-28T21:09:49.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2518,16 +2518,6 @@ Join us for a transformative webinar where we unveil Twilio Segment's state-of-t
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/"/>
         <updated>2024-02-28T09:10:08.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0170 : Multiples vulnérabilités dans Google Chrome (28 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/"/>
-        <updated>2024-02-28T08:46:49.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

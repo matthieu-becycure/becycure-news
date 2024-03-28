@@ -3169,16 +3169,6 @@
           "wordCount": 1040,
           "title": "CERTFR-2024-AVI-0171 : Multiples vulnérabilités dans Aruba ClearPass Policy Manager (28 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0170/",
-          "publishedOn": "2024-02-28T08:46:49.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0170 : Multiples vulnérabilités dans Google Chrome (28 février 2024)",
-          "imageUrl": null
         }
       ]
     }
