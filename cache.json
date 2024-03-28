@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A security vulnerability has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges.\nTracked as CVE-2023-40000, the vulnerability was addressed in October 2023 in version 5.7.0.1.\n\"This plugin suffers from unauthenticated site-wide stored [cross-site scripting] vulnerability and could allow any unauthenticated user",
-          "link": "https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html",
-          "publishedOn": "2024-02-27T14:43:00.000Z",
-          "wordCount": null,
-          "title": "WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUblBFpSpPEDmGEwTjYfEUlKUGh1i_EdEiqAraVlqqsArJ8U8Atqou1l-5MIzP1MaR2VVr_l7x7Ty-bVssxt-SHOc6UUh29Zu7Wii4V1BLTYIVxDkGJYMvqIk5cAlo_DK9MJXUKOPJ7rCjNSBj1qp4SEzS5IZVxpCKk-MA5eXenbCK-OZJvH-HdHMxls77/s1600/litespeed.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUblBFpSpPEDmGEwTjYfEUlKUGh1i_EdEiqAraVlqqsArJ8U8Atqou1l-5MIzP1MaR2VVr_l7x7Ty-bVssxt-SHOc6UUh29Zu7Wii4V1BLTYIVxDkGJYMvqIk5cAlo_DK9MJXUKOPJ7rCjNSBj1qp4SEzS5IZVxpCKk-MA5eXenbCK-OZJvH-HdHMxls77/s1600/litespeed.jpg"
         }
       ]
     },

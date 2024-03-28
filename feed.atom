@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T02:20:12.863Z</updated>
+    <updated>2024-03-28T02:43:30.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2412,18 +2412,6 @@ Cisco Talos, which discovered the activity, described the authors as skilled a
         <updated>2024-02-28T05:47:00.000Z</updated>
         <summary type="html"><![CDATA[In a new joint advisory, cybersecurity and intelligence agencies from the U.S. and other countries are urging users of Ubiquiti EdgeRouter to take protective measures, weeks after a botnet comprising infected routers was felled by law enforcement as part of an operation codenamed Dying Ember.
 The botnet, named MooBot, is said to have been used by a Russia-linked threat actor known as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress LiteSpeed Plugin Vulnerability Puts 5 Million Sites at Risk]]></title>
-        <id>https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html</id>
-        <link href="https://thehackernews.com/2024/02/wordpress-litespeed-plugin.html"/>
-        <updated>2024-02-27T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[A security vulnerability has been disclosed in the LiteSpeed Cache plugin for WordPress that could enable unauthenticated users to escalate their privileges.
-Tracked as CVE-2023-40000, the vulnerability was addressed in October 2023 in version 5.7.0.1.
-"This plugin suffers from unauthenticated site-wide stored [cross-site scripting] vulnerability and could allow any unauthenticated user]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
