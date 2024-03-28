@@ -3179,16 +3179,6 @@
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0170 : Multiples vulnérabilités dans Google Chrome (28 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0169/",
-          "publishedOn": "2024-02-28T08:39:01.000Z",
-          "wordCount": 940,
-          "title": "CERTFR-2024-AVI-0169 : Vulnérabilité dans les produits VMware (28 février 2024)",
-          "imageUrl": null
         }
       ]
     }
