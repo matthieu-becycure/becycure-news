@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-27T23:43:38.352Z</updated>
+    <updated>2024-03-28T00:46:38.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2437,16 +2437,6 @@ Tracked as CVE-2023-40000, the vulnerability was addressed in October 2023 in v
 Written in C# and compatible with Windows 10 and Windows 11 operating systems, the open-source RAT comes with a "comprehensive set of features for remote system management," according to its developer, who goes by the name moom825]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0168 : Vulnérabilité dans les produits Xen (27 février 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/"/>
-        <updated>2024-02-27T12:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Xen. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

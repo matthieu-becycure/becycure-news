@@ -3071,16 +3071,6 @@
           "wordCount": 940,
           "title": "CERTFR-2024-AVI-0169 : Vulnérabilité dans les produits VMware (28 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Xen. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0168/",
-          "publishedOn": "2024-02-27T12:31:55.000Z",
-          "wordCount": 979,
-          "title": "CERTFR-2024-AVI-0168 : Vulnérabilité dans les produits Xen (27 février 2024)",
-          "imageUrl": null
         }
       ]
     }
