@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Linux version of a multi-platform backdoor called DinodasRAT has been detected in the wild targeting China, Taiwan, Turkey, and Uzbekistan, new findings from Kaspersky reveal.\nDinodasRAT, also known as XDealer, is a C++-based malware that offers the ability to harvest a wide range of sensitive data from compromised hosts.\nIn October 2023, Slovak cybersecurity firm ESET",
+          "link": "https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html",
+          "publishedOn": "2024-03-28T17:02:00.000Z",
+          "wordCount": null,
+          "title": "Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-KGQUKSU74xrEZa2psXIZWXqLEiOJ6gl1cNx4ZeqRMWB6pLBcYdAV6xdwPgiqFHCw79-I_q2hb0zVINfTwbDWIMmZspUbmTFzha_n48_1LOMejoMJDvuvhqHLLRTcpTZzFmMmZdLl8NuHbzGiirrzHCtwJSCOr_Ci8HWwhg5QmwS1Gju8Z1X6iU6OH7_/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm-KGQUKSU74xrEZa2psXIZWXqLEiOJ6gl1cNx4ZeqRMWB6pLBcYdAV6xdwPgiqFHCw79-I_q2hb0zVINfTwbDWIMmZspUbmTFzha_n48_1LOMejoMJDvuvhqHLLRTcpTZzFmMmZdLl8NuHbzGiirrzHCtwJSCOr_Ci8HWwhg5QmwS1Gju8Z1X6iU6OH7_/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Police of Finland (aka Poliisi) has formally accused a Chinese nation-state actor tracked as APT31 for orchestrating a cyber attack targeting the country's Parliament in 2020.\nThe intrusion, per the authorities, is said to have occurred between fall 2020 and early 2021. The agency described the ongoing criminal probe as both demanding and time-consuming, involving extensive analysis of a \"",
@@ -2212,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGv9kL2-aXelC70ozqlh2auUP3YKZ6oZldx88C0I7A5IF0vetX4K3ZWmaN6Wi_N62ILtESUEaOYEFlTDzHAqzFKNgPb5BgeKI_S2PK4GHN13rRNA44jLHntKfnc8vnLyD8T1OyxCO-G87u6Lblu3DftrrqR7lxkqq71bCxmlw1uCTknARP3NUdK0LpT4w/s1600/stealer.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHGv9kL2-aXelC70ozqlh2auUP3YKZ6oZldx88C0I7A5IF0vetX4K3ZWmaN6Wi_N62ILtESUEaOYEFlTDzHAqzFKNgPb5BgeKI_S2PK4GHN13rRNA44jLHntKfnc8vnLyD8T1OyxCO-G87u6Lblu3DftrrqR7lxkqq71bCxmlw1uCTknARP3NUdK0LpT4w/s1600/stealer.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In a new joint advisory, cybersecurity and intelligence agencies from the U.S. and other countries are urging users of Ubiquiti EdgeRouter to take protective measures, weeks after a botnet comprising infected routers was felled by law enforcement as part of an operation codenamed Dying Ember.\nThe botnet, named MooBot, is said to have been used by a Russia-linked threat actor known as",
-          "link": "https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html",
-          "publishedOn": "2024-02-28T05:47:00.000Z",
-          "wordCount": null,
-          "title": "Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVidC28jWwk2edpwvuCz9vGqe51cVwQL4wLXygitHn32Sk29OnuPOn-je0SKdpXiq-DWcZqozk8hT4U2uOCDZ-afceAvKHJcTDJvd1S1rnDo72TfGt7tb3PzLGRHNn6vluLxi28jrPl-1sSD8RlgSyy8sGrvrxwJ1lJTIxFUwvKB1JT5vMOlzfwISXgZ_o/s1600/router-hacking.jpg"
         }
       ]
     },

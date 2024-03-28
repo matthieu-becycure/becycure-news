@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-28T17:43:42.326Z</updated>
+    <updated>2024-03-28T18:12:58.573Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Version of DinodasRAT Spotted in Cyber Attacks Across Several Countries]]></title>
+        <id>https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html</id>
+        <link href="https://thehackernews.com/2024/03/linux-version-of-dinodasrat-spotted-in.html"/>
+        <updated>2024-03-28T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A Linux version of a multi-platform backdoor called DinodasRAT has been detected in the wild targeting China, Taiwan, Turkey, and Uzbekistan, new findings from Kaspersky reveal.
+DinodasRAT, also known as XDealer, is a C++-based malware that offers the ability to harvest a wide range of sensitive data from compromised hosts.
+In October 2023, Slovak cybersecurity firm ESET]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Finland Blames Chinese Hacking Group APT31 for Parliament Cyber Attack]]></title>
         <id>https://thehackernews.com/2024/03/finland-blames-chinese-hacking-group.html</id>
@@ -2537,17 +2549,6 @@ Join us for a transformative webinar where we unveil Twilio Segment's state-of-t
         <updated>2024-02-28T07:43:00.000Z</updated>
         <summary type="html"><![CDATA[Mexican users have been targeted with tax-themed phishing lures at least since November 2023 to distribute a previously undocumented Windows malware called TimbreStealer.
 Cisco Talos, which discovered the activity, described the authors as skilled and that the "threat actor has previously used similar tactics, techniques and procedures (TTPs) to distribute a banking trojan known]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat]]></title>
-        <id>https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html</id>
-        <link href="https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html"/>
-        <updated>2024-02-28T05:47:00.000Z</updated>
-        <summary type="html"><![CDATA[In a new joint advisory, cybersecurity and intelligence agencies from the U.S. and other countries are urging users of Ubiquiti EdgeRouter to take protective measures, weeks after a botnet comprising infected routers was felled by law enforcement as part of an operation codenamed Dying Ember.
-The botnet, named MooBot, is said to have been used by a Russia-linked threat actor known as]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
