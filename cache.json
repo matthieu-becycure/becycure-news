@@ -3159,16 +3159,6 @@
           "wordCount": 1002,
           "title": "CERTFR-2024-AVI-0172 : Multiples vulnérabilités dans Zimbra  Collaboration (28 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Aruba ClearPass Policy Manager. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0171/",
-          "publishedOn": "2024-02-28T09:10:08.000Z",
-          "wordCount": 1040,
-          "title": "CERTFR-2024-AVI-0171 : Multiples vulnérabilités dans Aruba ClearPass Policy Manager (28 février 2024)",
-          "imageUrl": null
         }
       ]
     }
