@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Network penetration testing plays a vital role in detecting vulnerabilities that can be exploited. The current method of performing pen testing is pricey, leading many companies to undertake it only when necessary, usually once a year for their compliance requirements. This manual approach often misses opportunities to find and fix security issues early on, leaving businesses vulnerable to",
+          "link": "https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html",
+          "publishedOn": "2024-03-29T11:19:00.000Z",
+          "wordCount": null,
+          "title": "The Golden Age of Automated Penetration Testing is Here",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9ElOTbNAt5k5j-ltPGGFa-moCMT_im0qZ5EVVToyiRICw4d1Ih33RkYpae9Q_oSwKtbmJz3CF76qD1UxYzSEOHRj2myBEEMOmO5ZFbCEUiROcybT1xPypQ9dnBEEQ6gawO1CJJ0ukBgxyPocLIzYXo53n7tf3L31ItjRL6YTzRTzHupkeHnTMGlQYFk/s1600/main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9ElOTbNAt5k5j-ltPGGFa-moCMT_im0qZ5EVVToyiRICw4d1Ih33RkYpae9Q_oSwKtbmJz3CF76qD1UxYzSEOHRj2myBEEMOmO5ZFbCEUiROcybT1xPypQ9dnBEEQ6gawO1CJJ0ukBgxyPocLIzYXo53n7tf3L31ItjRL6YTzRTzHupkeHnTMGlQYFk/s1600/main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have emerged about a vulnerability impacting the \"wall\" command of the util-linux package that could be potentially exploited by a bad actor to leak a user's password or alter the clipboard on certain Linux distributions.\nThe bug, tracked as CVE-2024-28085, has been codenamed WallEscape by security researcher Skyler Ferrante. It has been described as a case of improper",

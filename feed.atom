@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-29T11:43:36.154Z</updated>
+    <updated>2024-03-29T12:18:57.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Golden Age of Automated Penetration Testing is Here]]></title>
+        <id>https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html</id>
+        <link href="https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html"/>
+        <updated>2024-03-29T11:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Network penetration testing plays a vital role in detecting vulnerabilities that can be exploited. The current method of performing pen testing is pricey, leading many companies to undertake it only when necessary, usually once a year for their compliance requirements. This manual approach often misses opportunities to find and fix security issues early on, leaving businesses vulnerable to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking]]></title>
         <id>https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html</id>
