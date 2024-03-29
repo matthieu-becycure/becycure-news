@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_6sv5NpzuZbAcWf78ZEfAMC5xtLD2_skoPU3hluY7oPp6fi0IqgZHMHUdLwQBE5d4E6Ib_tBfzikaR1lLkjjm7KScRsahF0S3BsjC-TI4lJ0VxdW6WSk_0PAg0dfBMz1vl1vyF5ZrShqZBmyEUdCCrmIMkJKBebQu3MibEkJzgGSrqdDCJgMGQyQGFDr/s1600/ms.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_6sv5NpzuZbAcWf78ZEfAMC5xtLD2_skoPU3hluY7oPp6fi0IqgZHMHUdLwQBE5d4E6Ib_tBfzikaR1lLkjjm7KScRsahF0S3BsjC-TI4lJ0VxdW6WSk_0PAg0dfBMz1vl1vyF5ZrShqZBmyEUdCCrmIMkJKBebQu3MibEkJzgGSrqdDCJgMGQyQGFDr/s1600/ms.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat hunters have discovered a new Linux malware called GTPDOOR that’s designed to be deployed in telecom networks that are adjacent to GPRS roaming exchanges (GRX)\nThe malware is novel in the fact that it leverages the GPRS Tunnelling Protocol (GTP) for command-and-control (C2) communications.\nGPRS roaming allows subscribers to access their GPRS services while they are",
-          "link": "https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html",
-          "publishedOn": "2024-02-29T11:33:00.000Z",
-          "wordCount": null,
-          "title": "GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s1600/telecom.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s1600/telecom.jpg"
         }
       ]
     },

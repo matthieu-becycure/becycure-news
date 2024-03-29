@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-29T23:23:36.926Z</updated>
+    <updated>2024-03-29T23:43:46.968Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2449,18 +2449,6 @@ Push protection&]]></summary>
         <updated>2024-02-29T15:21:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new attack technique called Silver SAML that can be successful even in cases where mitigations have been applied against Golden SAML attacks.
 Silver SAML “enables the exploitation of SAML to launch attacks from an identity provider like Entra ID against applications configured to use it for authentication, such as Salesforce,” Semperis]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks]]></title>
-        <id>https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html</id>
-        <link href="https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html"/>
-        <updated>2024-02-29T11:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat hunters have discovered a new Linux malware called GTPDOOR that’s designed to be deployed in telecom networks that are adjacent to GPRS roaming exchanges (GRX)
-The malware is novel in the fact that it leverages the GPRS Tunnelling Protocol (GTP) for command-and-control (C2) communications.
-GPRS roaming allows subscribers to access their GPRS services while they are]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
