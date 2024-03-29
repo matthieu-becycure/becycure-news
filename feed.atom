@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-29T17:43:35.537Z</updated>
+    <updated>2024-03-29T18:12:30.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2524,17 +2524,6 @@ The adversary, according to a report from Zscaler ThreatLabz, used a PDF file 
         <updated>2024-02-29T08:17:00.000Z</updated>
         <summary type="html"><![CDATA[The notorious North Korean state-backed hacking group Lazarus uploaded four packages to the Python Package Index (PyPI) repository with the goal of infecting developer systems with malware.
 The packages, now taken down, are pycryptoenv, pycryptoconf, quasarlib, and swapmempool. They have been collectively downloaded 3,269 times, with pycryptoconf accounting for the most]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Exploiting Ivanti VPN Flaws to Deploy New Malware]]></title>
-        <id>https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html</id>
-        <link href="https://thehackernews.com/2024/02/chinese-hackers-exploiting-ivanti-vpn.html"/>
-        <updated>2024-02-29T05:49:00.000Z</updated>
-        <summary type="html"><![CDATA[At least two different suspected China-linked cyber espionage clusters, tracked as UNC5325 and UNC3886, have been attributed to the exploitation of security flaws in Ivanti Connect Secure VPN appliances.
-UNC5325 abused CVE-2024-21893 to deliver a wide range of new malware called LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, and PITHOOK, as well as maintain persistent]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
