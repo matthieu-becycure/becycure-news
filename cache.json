@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A botnet previously considered to be rendered inert has been observed enslaving end-of-life (EoL) small home/small office (SOHO) routers and IoT devices to fuel a criminal proxy service called Faceless.\n\"TheMoon, which emerged in 2014, has been operating quietly while growing to over 40,000 bots from 88 countries in January and February of 2024,\" the Black Lotus Labs team at Lumen",
+          "link": "https://thehackernews.com/2024/03/themoon-botnet-resurfaces-exploiting.html",
+          "publishedOn": "2024-03-29T12:12:00.000Z",
+          "wordCount": null,
+          "title": "TheMoon Botnet Resurfaces, Exploiting EoL Devices to Power Criminal Proxy",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfygcD-G2L59-BGqP-hkrzLvdew2mSTdPMrJwc2YJVIdmLWSaR2Q8myiI8ryvUSHb1fHU6WPS7u1qge_dKuj9Yb_raDkZ29_5MvggisRZwF5svjZBSGHpVbtm65_ga6McSiVrFNx0_axnABrXLLo3lV8ExaJ-GycD7ghOyZgQyE6joJNhcLVMXoDwfOT0/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfygcD-G2L59-BGqP-hkrzLvdew2mSTdPMrJwc2YJVIdmLWSaR2Q8myiI8ryvUSHb1fHU6WPS7u1qge_dKuj9Yb_raDkZ29_5MvggisRZwF5svjZBSGHpVbtm65_ga6McSiVrFNx0_axnABrXLLo3lV8ExaJ-GycD7ghOyZgQyE6joJNhcLVMXoDwfOT0/s1600/hacker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/the-golden-age-of-automated-penetration.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Network penetration testing plays a vital role in detecting vulnerabilities that can be exploited. The current method of performing pen testing is pricey, leading many companies to undertake it only when necessary, usually once a year for their compliance requirements. This manual approach often misses opportunities to find and fix security issues early on, leaving businesses vulnerable to",
