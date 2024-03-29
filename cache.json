@@ -2132,38 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s1600/telecom.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8ZCZvSbOtGh_UAiA2QCc7XXmNM_EPYN0XjG79ufcTcfp1z5o0Rs4fFpU-OvJwKfxxG45Zox_vw36AXqBZwOAonmZFLNhHZqIbsez9XS4TNGgfr1iN943UTybupWK2bhHerleeHMe6Kknzy9DVBLDUCEG-jN2SeNYYTrMbjGDz9lSB76zOUH9cDZP6Y5vz/s1600/telecom.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/why-risk-based-approach-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As an IT leader, staying on top of the latest cybersecurity developments is essential to keeping your organization safe. But with threats coming from all around — and hackers dreaming up new exploits every day — how do you create proactive, agile cybersecurity strategies? And what cybersecurity approach gives you the most bang for your buck, mitigating your risks and maximizing the value of your",
-          "link": "https://thehackernews.com/2024/02/why-risk-based-approach-to.html",
-          "publishedOn": "2024-02-29T11:19:00.000Z",
-          "wordCount": null,
-          "title": "How to Prioritize Cybersecurity Spending: A Risk-Based Strategy for the Highest ROI",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6cLLRZYUdyF4Dnf1amlfa1G46ydHBiTWhI9yV87d4ARWXvZez8qO6eAwr02DWcjB9cVWoli8jb56rXNm4eSLjqjjD4KIAKPAnh9-qFBZgAwKhm19FK1i3m_6_96_rQ4Pr0RdEzNKhU0Q_ONyYhvu7CMPTAx1J-MrqGPyZtgnOrq3XRN__0iChMnedXk/s1600/lock.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjx6cLLRZYUdyF4Dnf1amlfa1G46ydHBiTWhI9yV87d4ARWXvZez8qO6eAwr02DWcjB9cVWoli8jb56rXNm4eSLjqjjD4KIAKPAnh9-qFBZgAwKhm19FK1i3m_6_96_rQ4Pr0RdEzNKhU0Q_ONyYhvu7CMPTAx1J-MrqGPyZtgnOrq3XRN__0iChMnedXk/s1600/lock.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The notorious Lazarus Group actors exploited a recently patched privilege escalation flaw in the Windows Kernel as a zero-day to obtain kernel-level access and disable security software on compromised hosts.\nThe vulnerability in question is CVE-2024-21338 (CVSS score: 7.8), which can permit an attacker to gain SYSTEM privileges. It was resolved by Microsoft earlier this month as part",
-          "link": "https://thehackernews.com/2024/02/lazarus-hackers-exploited-windows.html",
-          "publishedOn": "2024-02-29T11:19:00.000Z",
-          "wordCount": null,
-          "title": "Lazarus Hackers Exploited Windows Kernel Flaw as Zero-Day in Recent Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisrskToitHG7n0s2enrcivue-oDauhlBJYY7fsZnbkBpQh_cugw4OVk_EYMlI4nN6R4m3Y8_N1fUBO8WLYVmjeVh8GUZkk03ajo73nlUxNmNeSFALcrpAaCXOwZllK2rWc4QXew1lC5DkmP9yY2OfLACu8t7Te_noxggC4HZJ85ZzE8EheoNVGOhOAHO0B/s1600/windows-hacked.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisrskToitHG7n0s2enrcivue-oDauhlBJYY7fsZnbkBpQh_cugw4OVk_EYMlI4nN6R4m3Y8_N1fUBO8WLYVmjeVh8GUZkk03ajo73nlUxNmNeSFALcrpAaCXOwZllK2rWc4QXew1lC5DkmP9yY2OfLACu8t7Te_noxggC4HZJ85ZzE8EheoNVGOhOAHO0B/s1600/windows-hacked.jpg"
         }
       ]
     },
