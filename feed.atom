@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-29T16:43:36.513Z</updated>
+    <updated>2024-03-29T17:09:42.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2535,18 +2535,6 @@ The packages, now taken down, are pycryptoenv, pycryptoconf, quasarlib, and 
         <updated>2024-02-29T05:49:00.000Z</updated>
         <summary type="html"><![CDATA[At least two different suspected China-linked cyber espionage clusters, tracked as UNC5325 and UNC3886, have been attributed to the exploitation of security flaws in Ivanti Connect Secure VPN appliances.
 UNC5325 abused CVE-2024-21893 to deliver a wide range of new malware called LITTLELAMB.WOOLTEA, PITSTOP, PITDOG, PITJET, and PITHOOK, as well as maintain persistent]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[President Biden Blocks Mass Transfer of Personal Data to High-Risk Nations]]></title>
-        <id>https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html</id>
-        <link href="https://thehackernews.com/2024/02/president-biden-blocks-mass-transfer-of.html"/>
-        <updated>2024-02-29T05:03:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. President Joe Biden has issued an Executive Order that prohibits the mass transfer of citizens' personal data to countries of concern.
-The Executive Order also "provides safeguards around other activities that can give those countries access to Americans' sensitive data," the White House said in a statement.
-This includes sensitive information such as genomic data, biometric data,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
