@@ -3101,16 +3101,6 @@
           "wordCount": 1033,
           "title": "CERTFR-2024-AVI-0173 : Multiples vulnérabilités dans Juniper Secure Analytics (29 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Zimbra Collaboration. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0172/",
-          "publishedOn": "2024-02-28T13:46:36.000Z",
-          "wordCount": 1002,
-          "title": "CERTFR-2024-AVI-0172 : Multiples vulnérabilités dans Zimbra  Collaboration (28 février 2024)",
-          "imageUrl": null
         }
       ]
     }
