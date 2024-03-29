@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a vulnerability impacting the \"wall\" command of the util-linux package that could be potentially exploited by a bad actor to leak a user's password or alter the clipboard on certain Linux distributions.\nThe bug, tracked as CVE-2024-28085, has been codenamed WallEscape by security researcher Skyler Ferrante. It has been described as a case of improper",
+          "link": "https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html",
+          "publishedOn": "2024-03-29T10:49:00.000Z",
+          "wordCount": null,
+          "title": "New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB2LKuRnaCvnJliLGGqYcYvKyz7EkTZobVJpB2qmVQZldJaDSf9dQe9DDfIg6wTusm18LyDAu3nFbjxR5dEHT7MFi6QjPYuvS1nOcJLTyVi64CW2ITNp1_UFRl_rLILldQMsxBDGn-dbLsHOgu7zozsB3BMDoGxf2CcHrJrdMtQzEoYD01UAkkjs5A8hL/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB2LKuRnaCvnJliLGGqYcYvKyz7EkTZobVJpB2qmVQZldJaDSf9dQe9DDfIg6wTusm18LyDAu3nFbjxR5dEHT7MFi6QjPYuvS1nOcJLTyVi64CW2ITNp1_UFRl_rLILldQMsxBDGn-dbLsHOgu7zozsB3BMDoGxf2CcHrJrdMtQzEoYD01UAkkjs5A8hL/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The maintainers of the Python Package Index (PyPI) repository briefly suspended new user sign-ups following an influx of malicious projects uploaded as part of a typosquatting campaign.\nIt said \"new project creation and new user registration\" was temporarily halted to mitigate what it said was a \"malware upload campaign.\" The incident was resolved 10 hours later, on March 28, 2024, at",

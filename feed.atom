@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-29T10:43:27.599Z</updated>
+    <updated>2024-03-29T11:10:09.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking]]></title>
+        <id>https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html</id>
+        <link href="https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html"/>
+        <updated>2024-03-29T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a vulnerability impacting the "wall" command of the util-linux package that could be potentially exploited by a bad actor to leak a user's password or alter the clipboard on certain Linux distributions.
+The bug, tracked as CVE-2024-28085, has been codenamed WallEscape by security researcher Skyler Ferrante. It has been described as a case of improper]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers]]></title>
         <id>https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html</id>
