@@ -3131,16 +3131,6 @@
           "wordCount": 1005,
           "title": "CERTFR-2024-AVI-0174 : Multiples vulnérabilités dans Cisco NX-OS (29 février 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Juniper Secure Analytics . Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0173/",
-          "publishedOn": "2024-02-29T08:45:44.000Z",
-          "wordCount": 1033,
-          "title": "CERTFR-2024-AVI-0173 : Multiples vulnérabilités dans Juniper Secure Analytics (29 février 2024)",
-          "imageUrl": null
         }
       ]
     }
