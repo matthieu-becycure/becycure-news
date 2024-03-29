@@ -3121,16 +3121,6 @@
           "wordCount": 985,
           "title": "CERTFR-2024-AVI-0175 : Multiples vulnérabilités dans Microsoft Edge (01 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Cisco NX-OS. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0174/",
-          "publishedOn": "2024-02-29T10:33:50.000Z",
-          "wordCount": 1005,
-          "title": "CERTFR-2024-AVI-0174 : Multiples vulnérabilités dans Cisco NX-OS (29 février 2024)",
-          "imageUrl": null
         }
       ]
     }
