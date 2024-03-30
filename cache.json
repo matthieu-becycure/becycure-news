@@ -3037,16 +3037,6 @@
           "wordCount": 1323,
           "title": "CERTFR-2024-AVI-0177 : Multiples vulnérabilités dans le noyau Linux de RedHat (01 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Mitel MiContact Center Business . Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0176/",
-          "publishedOn": "2024-03-01T08:27:46.000Z",
-          "wordCount": 982,
-          "title": "CERTFR-2024-AVI-0176 : Multiples vulnérabilités dans Mitel MiContact Center Business (01 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
