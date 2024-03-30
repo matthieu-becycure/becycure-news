@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-30T05:43:50.804Z</updated>
+    <updated>2024-03-30T06:12:26.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros]]></title>
+        <id>https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html</id>
+        <link href="https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html"/>
+        <updated>2024-03-30T05:23:00.000Z</updated>
+        <summary type="html"><![CDATA[RedHat on Friday released an "urgent security alert" warning that two versions of a popular data compression library called XZ Utils (previously LZMA Utils) have been backdoored with malicious code designed to allow unauthorized remote access.
+The software supply chain compromise, tracked as CVE-2024-3094, has a CVSS score of 10.0, indicating maximum severity. It impacts XZ Utils]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dormakaba Locks Used in Millions of Hotel Rooms Could Be Cracked in Seconds]]></title>
         <id>https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html</id>

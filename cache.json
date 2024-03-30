@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "RedHat on Friday released an \"urgent security alert\" warning that two versions of a popular data compression library called XZ Utils (previously LZMA Utils) have been backdoored with malicious code designed to allow unauthorized remote access.\nThe software supply chain compromise, tracked as CVE-2024-3094, has a CVSS score of 10.0, indicating maximum severity. It impacts XZ Utils",
+          "link": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
+          "publishedOn": "2024-03-30T05:23:00.000Z",
+          "wordCount": null,
+          "title": "Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8OvVhdiTdk2NbTJsUGaqbgK7i_8BjH3PDOE82ZGtXY9ujMOhhEpGLtuTEG3WoVJ1MJgVEWPHnbjxP5Mfht0vJ5TZlavsH_-pWYynkeWSBy9A0t67AFfjy-tVi-2-J9tXdeWoOHIJeOtlpsYHmZVzIXw9fbi1XULyODudi4x7P4ZPmFJTZif57sWKdpsX/s1600/linux.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_8OvVhdiTdk2NbTJsUGaqbgK7i_8BjH3PDOE82ZGtXY9ujMOhhEpGLtuTEG3WoVJ1MJgVEWPHnbjxP5Mfht0vJ5TZlavsH_-pWYynkeWSBy9A0t67AFfjy-tVi-2-J9tXdeWoOHIJeOtlpsYHmZVzIXw9fbi1XULyODudi4x7P4ZPmFJTZif57sWKdpsX/s1600/linux.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/dormakaba-locks-used-in-millions-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security vulnerabilities discovered in Dormakaba's Saflok electronic RFID locks used in hotels could be weaponized by threat actors to forge keycards and stealthily slip into locked rooms.\nThe shortcomings have been collectively named Unsaflok by researchers Lennert Wouters, Ian Carroll, rqu, BusesCanFly, Sam Curry, sshell, and Will Caruana. They were reported to the Zurich-based",
