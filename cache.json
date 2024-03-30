@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/03/hackers-target-macos-users-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious ads and bogus websites are acting as a conduit to deliver two different stealer malware, including Atomic Stealer, targeting Apple macOS users.\nThe ongoing infostealer attacks targeting macOS users may have adopted different methods to compromise victims' Macs, but operate with the end goal of stealing sensitive data, Jamf Threat Labs said in a report published Friday.\nOne",
+          "link": "https://thehackernews.com/2024/03/hackers-target-macos-users-with.html",
+          "publishedOn": "2024-03-30T07:16:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURtJN6Yuim_HIeClyg3gWTYpm1XIP-tIMh3jlRRAQtfWAGkVCh2eZpUTfTslmQwde_xbfazDg0uhnxnBhuoNh1XjNtI5PgKOFoT13ct7tKwHn75hhy8u11yU4IPkD2tVgqf4EiZHnbaXZP1bv5OtJg7YnxJrHanfUz-JUwAdit6PKqgjq2R9S0NLXPMwL/s1600/apple.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgURtJN6Yuim_HIeClyg3gWTYpm1XIP-tIMh3jlRRAQtfWAGkVCh2eZpUTfTslmQwde_xbfazDg0uhnxnBhuoNh1XjNtI5PgKOFoT13ct7tKwHn75hhy8u11yU4IPkD2tVgqf4EiZHnbaXZP1bv5OtJg7YnxJrHanfUz-JUwAdit6PKqgjq2R9S0NLXPMwL/s1600/apple.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "RedHat on Friday released an \"urgent security alert\" warning that two versions of a popular data compression library called XZ Utils (previously LZMA Utils) have been backdoored with malicious code designed to allow unauthorized remote access.\nThe software supply chain compromise, tracked as CVE-2024-3094, has a CVSS score of 10.0, indicating maximum severity. It impacts XZ Utils",
