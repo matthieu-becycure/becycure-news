@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qFd86VLt_uWY5486LSekU1B9j7K_eCk8I1NroW0nSzUCxrmFmGyJuhOKgep28VgtoDXsWL5_465qmNdpbgPrZxdmAjEDjz-YtvkXjrOQDHD0g89WTvlu-r5EWg3mEHSAZOpQ_q8G8-i6jgGZ638atgsOP8O6kgDEyJeU3CODosPidtep-1-7UX_3y5e3/s1600/iva.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3qFd86VLt_uWY5486LSekU1B9j7K_eCk8I1NroW0nSzUCxrmFmGyJuhOKgep28VgtoDXsWL5_465qmNdpbgPrZxdmAjEDjz-YtvkXjrOQDHD0g89WTvlu-r5EWg3mEHSAZOpQ_q8G8-i6jgGZ638atgsOP8O6kgDEyJeU3CODosPidtep-1-7UX_3y5e3/s1600/iva.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/github-rolls-out-default-secret.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitHub on Thursday announced that it’s enabling secret scanning push protection by default for all pushes to public repositories.\n“This means that when a supported secret is detected in any push to a public repository, you will have the option to remove the secret from your commits or, if you deem the secret safe, bypass the block,” Eric Tooley and Courtney Claessens said.\nPush protection&",
-          "link": "https://thehackernews.com/2024/03/github-rolls-out-default-secret.html",
-          "publishedOn": "2024-03-01T05:29:00.000Z",
-          "wordCount": null,
-          "title": "GitHub Rolls Out Default Secret Scanning Push Protection for Public Repositories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRu3Nc-P7LAru0LiinivEvrbLO65Dqa77fH9WNAkJ7XUiOr50KGXlq_tn1RQS4DrKoSscj40uQ4smZ9W2dK_oxb7kSH3D0ezHJ7oDL-uyCHWQ5MjMiRL-5K3ranjeFLKtdl4mDN2IVoaKf7nimavTRXFGX3ha40gRhZFl18kSRixe_yNh9YDbjktcp8553/s1600/github.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRu3Nc-P7LAru0LiinivEvrbLO65Dqa77fH9WNAkJ7XUiOr50KGXlq_tn1RQS4DrKoSscj40uQ4smZ9W2dK_oxb7kSH3D0ezHJ7oDL-uyCHWQ5MjMiRL-5K3ranjeFLKtdl4mDN2IVoaKf7nimavTRXFGX3ha40gRhZFl18kSRixe_yNh9YDbjktcp8553/s1600/github.jpg"
         }
       ]
     },
