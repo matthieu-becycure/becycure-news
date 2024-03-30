@@ -3047,16 +3047,6 @@
           "wordCount": 982,
           "title": "CERTFR-2024-AVI-0176 : Multiples vulnérabilités dans Mitel MiContact Center Business (01 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0175/",
-          "publishedOn": "2024-03-01T08:21:37.000Z",
-          "wordCount": 985,
-          "title": "CERTFR-2024-AVI-0175 : Multiples vulnérabilités dans Microsoft Edge (01 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
