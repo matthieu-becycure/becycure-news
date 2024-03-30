@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-30T03:13:47.305Z</updated>
+    <updated>2024-03-30T03:26:47.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2438,17 +2438,6 @@ BIFROSE is one of the long-standing]]></summary>
         <summary type="html"><![CDATA[GitHub on Thursday announced that it’s enabling secret scanning push protection by default for all pushes to public repositories.
 “This means that when a supported secret is detected in any push to a public repository, you will have the option to remove the secret from your commits or, if you deem the secret safe, bypass the block,” Eric Tooley and Courtney Claessens said.
 Push protection&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Silver SAML Attack Evades Golden SAML Defenses in Identity Systems]]></title>
-        <id>https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html</id>
-        <link href="https://thehackernews.com/2024/02/new-silver-saml-attack-evades-golden.html"/>
-        <updated>2024-02-29T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new attack technique called Silver SAML that can be successful even in cases where mitigations have been applied against Golden SAML attacks.
-Silver SAML “enables the exploitation of SAML to launch attacks from an identity provider like Entra ID against applications configured to use it for authentication, such as Salesforce,” Semperis]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
