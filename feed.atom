@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-03-31T18:11:40.671Z</updated>
+    <updated>2024-03-31T18:26:46.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2322,17 +2322,6 @@ These include instances where loading a pickle file leads to code execution, s
         <updated>2024-03-04T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have warned of Phobos ransomware attacks targeting government and critical infrastructure entities, outlining the various tactics and techniques the threat actors have adopted to deploy the file-encrypting malware.
 “Structured as a ransomware as a service (RaaS) model, Phobos ransomware actors have targeted entities including municipal and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Court Orders NSO Group to Hand Over Pegasus Spyware Code to WhatsApp]]></title>
-        <id>https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html</id>
-        <link href="https://thehackernews.com/2024/03/us-court-orders-nso-group-to-hand-over.html"/>
-        <updated>2024-03-02T06:23:00.000Z</updated>
-        <summary type="html"><![CDATA[A U.S. judge has ordered NSO Group to hand over its source code for Pegasus and other products to Meta as part of the social media giant's ongoing litigation against the Israeli spyware vendor.
-The decision, which marks a major legal victory for Meta, which filed the lawsuit in October 2019 for using its infrastructure to distribute the spyware to approximately]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
