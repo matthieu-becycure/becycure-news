@@ -2052,22 +2052,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdnAjxZoZFy9ApNVe9Fza9TXDjBCIQIW6SQWoVS2voFeHKvVgWehhKYL3v5k9MbNSWUcnZE-FcZ-yJtq3zbJnxT6oZIaob1zGdP5fEuShOxdeOhcovwPq9dP1WHs0-c3vCbvI3EG8o6IUmw7gQNjcVowOrrMo8_XGZsySOkBolRuvpo5uw2sy4zfD24JR/s1600/hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpdnAjxZoZFy9ApNVe9Fza9TXDjBCIQIW6SQWoVS2voFeHKvVgWehhKYL3v5k9MbNSWUcnZE-FcZ-yJtq3zbJnxT6oZIaob1zGdP5fEuShOxdeOhcovwPq9dP1WHs0-c3vCbvI3EG8o6IUmw7gQNjcVowOrrMo8_XGZsySOkBolRuvpo5uw2sy4zfD24JR/s1600/hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A novel phishing kit has been observed impersonating the login pages of well-known cryptocurrency services as part of an attack cluster designed to primarily target mobile devices.\n“This kit enables attackers to build carbon copies of single sign-on (SSO) pages, then use a combination of email, SMS, and voice phishing to trick the target into sharing usernames, passwords, password reset URLs,",
-          "link": "https://thehackernews.com/2024/03/new-phishing-kit-leverages-sms-voice.html",
-          "publishedOn": "2024-03-01T13:32:00.000Z",
-          "wordCount": null,
-          "title": "New Phishing Kit Leverages SMS, Voice Calls to Target Cryptocurrency Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_C3Sk5EoNr-PXgoOH50H_vawIOrEfOhUkpV06BdUxBle-cKMRA7ohhD3iY2lXQzyeCIVfnZ2JLh7vAV8VT8QNxynKO8cWJAGkE_juBOry95iIQOMR95USfOwTh_mU06jiQPbUEE7dnPl_4XsRYTKBoS_b-wt75U0cwgzZzdvfrdVNeHj0DKWP4tXS5K9/s1600/bitcoin.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC_C3Sk5EoNr-PXgoOH50H_vawIOrEfOhUkpV06BdUxBle-cKMRA7ohhD3iY2lXQzyeCIVfnZ2JLh7vAV8VT8QNxynKO8cWJAGkE_juBOry95iIQOMR95USfOwTh_mU06jiQPbUEE7dnPl_4XsRYTKBoS_b-wt75U0cwgzZzdvfrdVNeHj0DKWP4tXS5K9/s1600/bitcoin.jpg"
         }
       ]
     },
@@ -2964,46 +2948,6 @@
           "publishedOn": "2024-03-04T12:55:02.000Z",
           "wordCount": 1416,
           "title": "CERTFR-2024-ACT-011 : Bulletin d’actualité CERTFR-2024-ACT-011 (04 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0180/",
-          "publishedOn": "2024-03-01T13:41:23.000Z",
-          "wordCount": 1544,
-          "title": "CERTFR-2024-AVI-0180 : Multiples vulnérabilités dans les produits IBM (01 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0179/",
-          "publishedOn": "2024-03-01T13:24:11.000Z",
-          "wordCount": 1343,
-          "title": "CERTFR-2024-AVI-0179 : Multiples vulnérabilités dans le noyau Linux de SUSE (01 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0178/",
-          "publishedOn": "2024-03-01T13:05:36.000Z",
-          "wordCount": 1220,
-          "title": "CERTFR-2024-AVI-0178 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (01 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0177/",
-          "publishedOn": "2024-03-01T13:01:09.000Z",
-          "wordCount": 1323,
-          "title": "CERTFR-2024-AVI-0177 : Multiples vulnérabilités dans le noyau Linux de RedHat (01 mars 2024)",
           "imageUrl": null
         }
       ]
