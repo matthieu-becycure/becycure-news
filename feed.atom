@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-01T05:43:29.529Z</updated>
+    <updated>2024-04-01T06:13:48.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities]]></title>
+        <id>https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html</id>
+        <link href="https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html"/>
+        <updated>2024-04-01T06:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The Android banking trojan known as Vultur has resurfaced with a suite of new features and improved anti-analysis and detection evasion techniques, enabling its operators to remotely interact with a mobile device and harvest sensitive data.
+"Vultur has also started masquerading more of its malicious activity by encrypting its C2 communication, using multiple encrypted payloads that are decrypted]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Target macOS Users with Malicious Ads Spreading Stealer Malware]]></title>
         <id>https://thehackernews.com/2024/03/hackers-target-macos-users-with.html</id>

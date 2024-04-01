@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Android banking trojan known as Vultur has resurfaced with a suite of new features and improved anti-analysis and detection evasion techniques, enabling its operators to remotely interact with a mobile device and harvest sensitive data.\n\"Vultur has also started masquerading more of its malicious activity by encrypting its C2 communication, using multiple encrypted payloads that are decrypted",
+          "link": "https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html",
+          "publishedOn": "2024-04-01T06:04:00.000Z",
+          "wordCount": null,
+          "title": "Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiCadb4ZR4hN_4S3STnuoBFdzQBNb68ZM62Ymki83MR9KTvalwjsM2zcB1Pi8a1T9f4_JhXWzj9fatIxfOCHzC9yKF0AVRldZ78mqXWpuhLVcnKopWpSvOgyRcRu8tmNlO1I0gK_7uoF5M2D7WWxWB4VVlorcin7KLA9Bka0ZbfIzxSgV1JLABJmtDmKF2/s1600/android.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiCadb4ZR4hN_4S3STnuoBFdzQBNb68ZM62Ymki83MR9KTvalwjsM2zcB1Pi8a1T9f4_JhXWzj9fatIxfOCHzC9yKF0AVRldZ78mqXWpuhLVcnKopWpSvOgyRcRu8tmNlO1I0gK_7uoF5M2D7WWxWB4VVlorcin7KLA9Bka0ZbfIzxSgV1JLABJmtDmKF2/s1600/android.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/03/hackers-target-macos-users-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Malicious ads and bogus websites are acting as a conduit to deliver two different stealer malware, including Atomic Stealer, targeting Apple macOS users.\nThe ongoing infostealer attacks targeting macOS users may have adopted different methods to compromise victims' Macs, but operate with the end goal of stealing sensitive data, Jamf Threat Labs said in a report published Friday.\nOne",
