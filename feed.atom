@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-01T14:27:04.207Z</updated>
+    <updated>2024-04-01T14:43:26.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian Government Rescues 250 Citizens Forced into Cybercrime in Cambodia]]></title>
+        <id>https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html</id>
+        <link href="https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html"/>
+        <updated>2024-04-01T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[The Indian government said it has rescued and repatriated about 250 citizens in Cambodia who were held captive and coerced into running cyber scams.
+The Indian nationals "were lured with employment opportunities to that country but were forced to undertake illegal cyber work," the Ministry of External Affairs (MEA) said in a statement, adding it had rescued 75 people in the past three]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detecting Windows-based Malware Through Better Visibility]]></title>
         <id>https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html</id>
