@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-02T12:18:26.784Z</updated>
+    <updated>2024-04-02T12:43:47.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -13,6 +13,18 @@
         <updated>2024-04-02T11:27:00.000Z</updated>
         <summary type="html"><![CDATA[Cloud solutions are more mainstream – and therefore more exposed – than ever before.
 In 2023 alone, a staggering 82% of data breaches were against public, private, or hybrid cloud environments. What’s more, nearly 40% of breaches spanned multiple cloud environments. The average cost of a cloud breach was above the overall average, at $4.75 million. In a time where cloud has become the de facto]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-linked Hackers Deploy New 'UNAPIMON' Malware for Stealthy Operations]]></title>
+        <id>https://thehackernews.com/2024/04/china-linked-hackers-deploy-new.html</id>
+        <link href="https://thehackernews.com/2024/04/china-linked-hackers-deploy-new.html"/>
+        <updated>2024-04-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat activity cluster tracked as Earth Freybug has been observed using a new malware called UNAPIMON to fly under the radar.
+"Earth Freybug is a cyberthreat group that has been active since at least 2012 that focuses on espionage and financially motivated activities," Trend Micro security researcher Christopher So said in a report published today.
+"It has been observed to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
