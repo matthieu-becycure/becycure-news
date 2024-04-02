@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has agreed to purge billions of data records reflecting users' browsing activities to settle a class action lawsuit that claimed the search giant tracked them without their knowledge or consent in its Chrome browser.\nThe class action, filed in 2020, alleged the company misled users by tracking their internet browsing activity who thought that it remained private when using the \"",
+          "link": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
+          "publishedOn": "2024-04-02T07:08:00.000Z",
+          "wordCount": null,
+          "title": "Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4OeXqgwhEzYXhz0p4TTbTs5h5pr5V297VkZ20yl3ItaXdhp8Vi504tQaDlVkjqYsldnE10-SvlRk_9B0SqeW1qMQaym77Gg920cxAe5EclM9zvvMIoTSOCdyxzvV78rWJAmIn9MHGTgoXMUSjcF2jl3NEOqYRJ_VkA_OgcNphyphenhyphenIjgxr4rEivkPFbO31V/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW4OeXqgwhEzYXhz0p4TTbTs5h5pr5V297VkZ20yl3ItaXdhp8Vi504tQaDlVkjqYsldnE10-SvlRk_9B0SqeW1qMQaym77Gg920cxAe5EclM9zvvMIoTSOCdyxzvV78rWJAmIn9MHGTgoXMUSjcF2jl3NEOqYRJ_VkA_OgcNphyphenhyphenIjgxr4rEivkPFbO31V/s1600/chrome.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as TA558 has been attributed to a new massive phishing campaign that targets a wide range of sectors in Latin America with the goal of deploying Venom RAT.\nThe attacks primarily singled out hotel, travel, trading, financial, manufacturing, industrial, and government verticals in Spain, Mexico, United States, Colombia, Portugal, Brazil, Dominican Republic, and",
