@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-02T23:11:20.590Z</updated>
+    <updated>2024-04-02T23:24:47.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2420,16 +2420,6 @@ Details about the scam]]></summary>
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From 500 to 5000 Employees - Securing 3rd Party App-Usage in Mid-Market Companies]]></title>
-        <id>https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html</id>
-        <link href="https://thehackernews.com/2024/03/from-500-to-5000-employees-securing-3rd.html"/>
-        <updated>2024-03-04T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A company’s lifecycle stage, size, and state have a significant impact on its security needs, policies, and priorities. This is particularly true for modern mid-market companies that are either experiencing or have experienced rapid growth. As requirements and tasks continue to accumulate and malicious actors remain active around the clock, budgets are often stagnant at best. Yet, it is crucial]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
