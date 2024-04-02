@@ -2173,6 +2173,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-015/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-015/",
+          "publishedOn": "2024-04-02T11:51:27.000Z",
+          "wordCount": 1595,
+          "title": "CERTFR-2024-ACT-015 : Bulletin d’actualité CERTFR-2024-ACT-015 (02 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une atteinte à la confidentialité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/",
+          "publishedOn": "2024-04-02T08:06:05.000Z",
+          "wordCount": 998,
+          "title": "CERTFR-2024-AVI-0267 : Vulnérabilité dans les produits Palo Alto Networks (02 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0266/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Synology Surveillance Station. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0266/",
+          "publishedOn": "2024-04-02T07:16:16.000Z",
+          "wordCount": 1078,
+          "title": "CERTFR-2024-AVI-0266 : Multiples vulnérabilités dans Synology Surveillance Station (02 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0265/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une exécution de code arbitraire.",
