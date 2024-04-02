@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-02T17:10:31.851Z</updated>
+    <updated>2024-04-02T17:28:13.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2440,17 +2440,6 @@ Details about the scam]]></summary>
         <summary type="html"><![CDATA[As many as 100 malicious artificial intelligence (AI)/machine learning (ML) models have been discovered in the Hugging Face platform.
 These include instances where loading a pickle file leads to code execution, software supply chain security firm JFrog said.
 "The model's payload grants the attacker a shell on the compromised machine, enabling them to gain full control over victims']]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phobos Ransomware Aggressively Targeting U.S. Critical Infrastructure]]></title>
-        <id>https://thehackernews.com/2024/03/phobos-ransomware-aggressively.html</id>
-        <link href="https://thehackernews.com/2024/03/phobos-ransomware-aggressively.html"/>
-        <updated>2024-03-04T05:24:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have warned of Phobos ransomware attacks targeting government and critical infrastructure entities, outlining the various tactics and techniques the threat actors have adopted to deploy the file-encrypting malware.
-“Structured as a ransomware as a service (RaaS) model, Phobos ransomware actors have targeted entities including municipal and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
