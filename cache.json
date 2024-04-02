@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as TA558 has been attributed to a new massive phishing campaign that targets a wide range of sectors in Latin America with the goal of deploying Venom RAT.\nThe attacks primarily singled out hotel, travel, trading, financial, manufacturing, industrial, and government verticals in Spain, Mexico, United States, Colombia, Portugal, Brazil, Dominican Republic, and",
+          "link": "https://thehackernews.com/2024/04/massive-phishing-campaign-strikes-latin.html",
+          "publishedOn": "2024-04-02T04:54:00.000Z",
+          "wordCount": null,
+          "title": "Massive Phishing Campaign Strikes Latin America: Venom RAT Targeting Multiple Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRzcxAgvkimtmmh0iwHfWSjH2HRLmOM6LObxiDorVEBY2H8U76hUtR99IwM5jELz8g61blrIRfduCTQYZANlgm6BcV3R-gVzVBLUAN-KCIKQYU7eMSxUz8YQLYgjCZvYbDf2XVp57277q1ZNWvOBhlqWlvzGDgCfziWgDe8DRMQPi5HjvdpW4UAqoS3uVT/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRzcxAgvkimtmmh0iwHfWSjH2HRLmOM6LObxiDorVEBY2H8U76hUtR99IwM5jELz8g61blrIRfduCTQYZANlgm6BcV3R-gVzVBLUAN-KCIKQYU7eMSxUz8YQLYgjCZvYbDf2XVp57277q1ZNWvOBhlqWlvzGDgCfziWgDe8DRMQPi5HjvdpW4UAqoS3uVT/s1600/cyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/indian-government-rescues-250-citizens.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Indian government said it has rescued and repatriated about 250 citizens in Cambodia who were held captive and coerced into running cyber scams.\nThe Indian nationals \"were lured with employment opportunities to that country but were forced to undertake illegal cyber work,\" the Ministry of External Affairs (MEA) said in a statement, adding it had rescued 75 people in the past three",
