@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-02T11:23:33.470Z</updated>
+    <updated>2024-04-02T11:43:29.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Harnessing the Power of CTEM for Cloud Security]]></title>
+        <id>https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html</id>
+        <link href="https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html"/>
+        <updated>2024-04-02T11:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloud solutions are more mainstream – and therefore more exposed – than ever before.
+In 2023 alone, a staggering 82% of data breaches were against public, private, or hybrid cloud environments. What’s more, nearly 40% of breaches spanned multiple cloud environments. The average cost of a cloud breach was above the overall average, at $4.75 million. In a time where cloud has become the de facto]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement]]></title>
         <id>https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html</id>

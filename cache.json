@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud solutions are more mainstream – and therefore more exposed – than ever before.\nIn 2023 alone, a staggering 82% of data breaches were against public, private, or hybrid cloud environments. What’s more, nearly 40% of breaches spanned multiple cloud environments. The average cost of a cloud breach was above the overall average, at $4.75 million. In a time where cloud has become the de facto",
+          "link": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
+          "publishedOn": "2024-04-02T11:27:00.000Z",
+          "wordCount": null,
+          "title": "Harnessing the Power of CTEM for Cloud Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlElpcU83vt-eWmC6r_P_mRpyJm-uvxUQCEPB5edZQUuOyTOSWf0cZWWs0dA7rPxDotTAQbBenAG_Jzhofh0z9pa08-T0T72yar4vIO84dqjiV2oISJmGh26qOaxoFxS4B1VmPPJe2eDJxLNi0XzIJXyjVPixlC7HRY10aMzoUWYpPEuRv0j7VoE1u3c/s1600/xmcyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlElpcU83vt-eWmC6r_P_mRpyJm-uvxUQCEPB5edZQUuOyTOSWf0cZWWs0dA7rPxDotTAQbBenAG_Jzhofh0z9pa08-T0T72yar4vIO84dqjiV2oISJmGh26qOaxoFxS4B1VmPPJe2eDJxLNi0XzIJXyjVPixlC7HRY10aMzoUWYpPEuRv0j7VoE1u3c/s1600/xmcyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has agreed to purge billions of data records reflecting users' browsing activities to settle a class action lawsuit that claimed the search giant tracked them without their knowledge or consent in its Chrome browser.\nThe class action, filed in 2020, alleged the company misled users by tracking their internet browsing activity who thought that it remained private when using the \"",
