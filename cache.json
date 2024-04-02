@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The malicious code inserted into the open-source library XZ Utils, a widely used package present in major Linux distributions, is also capable of facilitating remote code execution, a new analysis has revealed.\nThe audacious supply chain compromise, tracked as CVE-2024-3094 (CVSS score: 10.0), came to light last week when Microsoft engineer and PostgreSQL developer Andres Freund",
+          "link": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
+          "publishedOn": "2024-04-02T13:18:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XpCw3UqUDLHsao2OaerAXp0ku8lrCCcXqyAj4Xhbj05KGiAoTUzM_i8W8miodNQwIX79Ao71LPBj6UsM93URqZUoMHUeGhP6qZRYxoddHo8gTbTRdJpt5fYm3CbXATf6ttjRuv5w-oaE1wDNtTxrbidEjeVYnjCypo55uEV-Z0QbhGDyK-n0qGrUl6kY/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0XpCw3UqUDLHsao2OaerAXp0ku8lrCCcXqyAj4Xhbj05KGiAoTUzM_i8W8miodNQwIX79Ao71LPBj6UsM93URqZUoMHUeGhP6qZRYxoddHo8gTbTRdJpt5fYm3CbXATf6ttjRuv5w-oaE1wDNtTxrbidEjeVYnjCypo55uEV-Z0QbhGDyK-n0qGrUl6kY/s1600/linux.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/harnessing-power-of-ctem-for-cloud.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cloud solutions are more mainstream – and therefore more exposed – than ever before.\nIn 2023 alone, a staggering 82% of data breaches were against public, private, or hybrid cloud environments. What’s more, nearly 40% of breaches spanned multiple cloud environments. The average cost of a cloud breach was above the overall average, at $4.75 million. In a time where cloud has become the de facto",
