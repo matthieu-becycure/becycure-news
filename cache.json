@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s1600/wing.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijoZf-W5uZ3gLLJBF45y8Cxk-krs5fke-uDsTnnxJUCfjl5zFcrSFy8b4mG_5LoLHi8rg7OnE6yRWY97HKgIM08FcmE9tpf8ieQlonz4RDOAJx4iopi8QI2q_nyG84716h7jJmSrBjH015nYGo4nw_e3gy0Pv6o2AxLZWXnprLWgMaDo2kp6WYBqeCVOg/s1600/wing.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/over-100-malicious-aiml-models-found-on.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As many as 100 malicious artificial intelligence (AI)/machine learning (ML) models have been discovered in the Hugging Face platform.\nThese include instances where loading a pickle file leads to code execution, software supply chain security firm JFrog said.\n\"The model's payload grants the attacker a shell on the compromised machine, enabling them to gain full control over victims'",
-          "link": "https://thehackernews.com/2024/03/over-100-malicious-aiml-models-found-on.html",
-          "publishedOn": "2024-03-04T09:22:00.000Z",
-          "wordCount": null,
-          "title": "Over 100 Malicious AI/ML Models Found on Hugging Face Platform",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouQmc9OnJa30ZlhRf_ZmfJaIZlcPaPqBo0KCkJuq8d4hxfwokH1jtl8WJ_IEuX40rxDXd9x0lZPQgMda2sep3kYpS64JzREuv0M5tIik0TjnFYUV8mVy9P3XyFcraoSWusLajjg79DIs0vqhsu7I1BXRdRXC3Hsm_Y5p5_qO1RQuk_CfBs1QzLdspkEHq/s1600/jfrog.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouQmc9OnJa30ZlhRf_ZmfJaIZlcPaPqBo0KCkJuq8d4hxfwokH1jtl8WJ_IEuX40rxDXd9x0lZPQgMda2sep3kYpS64JzREuv0M5tIik0TjnFYUV8mVy9P3XyFcraoSWusLajjg79DIs0vqhsu7I1BXRdRXC3Hsm_Y5p5_qO1RQuk_CfBs1QzLdspkEHq/s1600/jfrog.jpg"
         }
       ]
     },
