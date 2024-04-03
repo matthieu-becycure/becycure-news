@@ -3087,16 +3087,6 @@
           "wordCount": 931,
           "title": "CERTFR-2024-AVI-0183 : Vulnérabilité dans Mozilla Thunderbird (05 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Squid. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0182/",
-          "publishedOn": "2024-03-05T08:41:53.000Z",
-          "wordCount": 932,
-          "title": "CERTFR-2024-AVI-0182 : Vulnérabilité dans les produits Squid (05 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
