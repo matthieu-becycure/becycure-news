@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/critical-security-flaw-found-in-popular.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw impacting the LayerSlider plugin for WordPress could be abused to extract sensitive information from databases, such as password hashes.\nThe flaw, designated as CVE-2024-2879, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of SQL injection impacting versions from 7.9.11 through 7.10.0.\nThe issue has been addressed in version",
+          "link": "https://thehackernews.com/2024/04/critical-security-flaw-found-in-popular.html",
+          "publishedOn": "2024-04-03T05:11:00.000Z",
+          "wordCount": null,
+          "title": "Critical Security Flaw Found in Popular LayerSlider WordPress Plugin",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-PrWsU6BxKYcpvLxrcznioMh7y4olG21xdUa6H0sOYKuXizR0K9jHMsmWcdSTXU2U2rUcvgnZyMBGk4lCNvfLUScam9F1zM6HrjZKKWqUCQuo4f2E4PhhDVOOkBddqmGzGEkPhdXhgym13FmC62x_pIEIfXg2canup1riZ-Hnsku1437kZzeKu2gHgeX/s1600/wordpress-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj-PrWsU6BxKYcpvLxrcznioMh7y4olG21xdUa6H0sOYKuXizR0K9jHMsmWcdSTXU2U2rUcvgnZyMBGk4lCNvfLUScam9F1zM6HrjZKKWqUCQuo4f2E4PhhDVOOkBddqmGzGEkPhdXhgym13FmC62x_pIEIfXg2canup1riZ-Hnsku1437kZzeKu2gHgeX/s1600/wordpress-hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The malicious code inserted into the open-source library XZ Utils, a widely used package present in major Linux distributions, is also capable of facilitating remote code execution, a new analysis has revealed.\nThe audacious supply chain compromise, tracked as CVE-2024-3094 (CVSS score: 10.0), came to light last week when Microsoft engineer and PostgreSQL developer Andres Freund",
