@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/attack-surface-management-vs.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attack surface management (ASM) and vulnerability management (VM) are often confused, and while they overlap, they’re not the same. The main difference between attack surface management and vulnerability management is in their scope: vulnerability management checks a list of known assets, while attack surface management assumes you have unknown assets and so begins with discovery. Let’s look at",
+          "link": "https://thehackernews.com/2024/04/attack-surface-management-vs.html",
+          "publishedOn": "2024-04-03T11:12:00.000Z",
+          "wordCount": null,
+          "title": "Attack Surface Management vs. Vulnerability Management",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo_1U3LjH9D9tWsC7xS4W4OtmyYXJ6VBqyrwRRcxDtX3PwxdHxKTMDkSmPfd2K9QhAYp9xjwLwb9B3NaXG6Ch1QDgfjUwQ8xwhhXeW1-DGjbL1dq4WbycT9o3HZ1Zfw7oxjpJbkJB0gpeDDn-r_i7_h_MUSmXLHP2R8wbmalvjymUzRV2ANVFIuRd3IY/s1600/intruder.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGo_1U3LjH9D9tWsC7xS4W4OtmyYXJ6VBqyrwRRcxDtX3PwxdHxKTMDkSmPfd2K9QhAYp9xjwLwb9B3NaXG6Ch1QDgfjUwQ8xwhhXeW1-DGjbL1dq4WbycT9o3HZ1Zfw7oxjpJbkJB0gpeDDn-r_i7_h_MUSmXLHP2R8wbmalvjymUzRV2ANVFIuRd3IY/s1600/intruder.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/mispadu-trojan-targets-europe-thousands.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The banking trojan known as Mispadu has expanded its focus beyond Latin America (LATAM) and Spanish-speaking individuals to target users in Italy, Poland, and Sweden.\nTargets of the ongoing campaign include entities spanning finance, services, motor vehicle manufacturing, law firms, and commercial facilities, according to Morphisec.\n\"Despite the geographic expansion, Mexico remains the",
