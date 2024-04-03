@@ -3077,16 +3077,6 @@
           "wordCount": 940,
           "title": "CERTFR-2024-AVI-0184 : Vulnérabilité dans SolarWinds Security Event Manager (05 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Mozilla. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0183/",
-          "publishedOn": "2024-03-05T08:44:54.000Z",
-          "wordCount": 931,
-          "title": "CERTFR-2024-AVI-0183 : Vulnérabilité dans Mozilla Thunderbird (05 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
