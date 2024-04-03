@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-03T16:43:33.411Z</updated>
+    <updated>2024-04-03T17:08:59.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies]]></title>
+        <id>https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html</id>
+        <link href="https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html"/>
+        <updated>2024-04-03T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has disclosed that two Android security flaws impacting its Pixel smartphones have been exploited in the wild by forensic companies.
+The high-severity zero-day vulnerabilities are as follows -
+
+CVE-2024-29745 - An information disclosure flaw in the bootloader component
+CVE-2024-29748 - A privilege escalation flaw in the firmware component
+
+"There are indications that the []]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Cyber Safety Board Slams Microsoft Over Breach by China-Based Hackers]]></title>
         <id>https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html</id>

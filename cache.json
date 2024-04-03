@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has disclosed that two Android security flaws impacting its Pixel smartphones have been exploited in the wild by forensic companies.\nThe high-severity zero-day vulnerabilities are as follows -\n\nCVE-2024-29745 - An information disclosure flaw in the bootloader component\nCVE-2024-29748 - A privilege escalation flaw in the firmware component\n\n\"There are indications that the [",
+          "link": "https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html",
+          "publishedOn": "2024-04-03T16:10:00.000Z",
+          "wordCount": null,
+          "title": "Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfH_WunMAzWYLRN7XQXT5aQ_efFKfgVKAkubbCnl7uYxHPHMFnjYTKnZ9C9Jx7Q4iECWLX1dsVq27XRV8anQkArenpZ_jFDaDYdzRg80DGw3IxCKosJiqRYDuzWHu8OTKohdM-Z9WqXt04ZfBEzY0-xyhqSatu2o_BURy2ws8BEbSArBkwALwjSbFEK-qa/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfH_WunMAzWYLRN7XQXT5aQ_efFKfgVKAkubbCnl7uYxHPHMFnjYTKnZ9C9Jx7Q4iECWLX1dsVq27XRV8anQkArenpZ_jFDaDYdzRg80DGw3IxCKosJiqRYDuzWHu8OTKohdM-Z9WqXt04ZfBEzY0-xyhqSatu2o_BURy2ws8BEbSArBkwALwjSbFEK-qa/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cyber Safety Review Board (CSRB) has criticized Microsoft for a series of security lapses that led to the breach of nearly two dozen companies across Europe and the U.S. by a China-based nation-state group called Storm-0558 last year.\nThe findings, released by the Department of Homeland Security (DHS) on Tuesday, found that the intrusion was preventable, and that it became successful",
