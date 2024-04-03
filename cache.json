@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Tuesday said it's piloting a new feature in Chrome called Device Bound Session Credentials (DBSC) to help protect users against session cookie theft by malware.\nThe prototype – currently tested against \"some\" Google Account users running Chrome Beta – is built with an aim to make it an open web standard, the tech giant's Chromium team said.\n\"By binding authentication sessions to the",
+          "link": "https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html",
+          "publishedOn": "2024-04-03T13:07:00.000Z",
+          "wordCount": null,
+          "title": "Google Chrome Beta Tests New DBSC Protection Against Cookie-Stealing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmK6FLX4ZvbHQio0PmpHdzg8HSW5YkhhUePuimCJeaN4A3sCJjQt7uNtRLbu25QBMovbQkAFHYk_WA34F16uS9A9TynoF-RH6qT2QRlQX6gfILD6p5FASH9LzhH07cFj6F7ZgyjWM4kszFskkqEdANYbBihi4qA4bx6JcSmXBYK_F_dtxfJ85od6ijrM3j/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmK6FLX4ZvbHQio0PmpHdzg8HSW5YkhhUePuimCJeaN4A3sCJjQt7uNtRLbu25QBMovbQkAFHYk_WA34F16uS9A9TynoF-RH6qT2QRlQX6gfILD6p5FASH9LzhH07cFj6F7ZgyjWM4kszFskkqEdANYbBihi4qA4bx6JcSmXBYK_F_dtxfJ85od6ijrM3j/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/attack-surface-management-vs.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Attack surface management (ASM) and vulnerability management (VM) are often confused, and while they overlap, they’re not the same. The main difference between attack surface management and vulnerability management is in their scope: vulnerability management checks a list of known assets, while attack surface management assumes you have unknown assets and so begins with discovery. Let’s look at",
@@ -2156,6 +2172,16 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans VMware SD-WAN. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/",
+          "publishedOn": "2024-04-03T07:59:59.000Z",
+          "wordCount": 982,
+          "title": "CERTFR-2024-AVI-0268 : Multiples vulnérabilités dans VMware SD-WAN (03 avril 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-015/",
           "author": null,
