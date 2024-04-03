@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-03T22:09:04.872Z</updated>
+    <updated>2024-04-03T22:26:40.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2425,18 +2425,6 @@ While there has been a bit of a backswing against the pricing and lock-in presen
         <summary type="html"><![CDATA[More than 225,000 logs containing compromised OpenAI ChatGPT credentials were made available for sale on underground markets between January and October 2023, new findings from Group-IB show.
 These credentials were found within information stealer logs associated with LummaC2, Raccoon, and RedLine stealer malware.
 “The number of infected devices decreased slightly in mid- and late]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning: Thread Hijacking Attack Targets IT Networks, Stealing NTLM Hashes]]></title>
-        <id>https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html</id>
-        <link href="https://thehackernews.com/2024/03/warning-thread-hijacking-attack-targets.html"/>
-        <updated>2024-03-05T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as TA577 has been observed using ZIP archive attachments in phishing emails with an aim to steal NT LAN Manager (NTLM) hashes.
-The new attack chain “can be used for sensitive information gathering purposes and to enable follow-on activity,” enterprise security firm Proofpoint said in a Monday report.
-At least two campaigns taking advantage of this]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
