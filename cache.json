@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cyber Safety Review Board (CSRB) has criticized Microsoft for a series of security lapses that led to the breach of nearly two dozen companies across Europe and the U.S. by a China-based nation-state group called Storm-0558 last year.\nThe findings, released by the Department of Homeland Security (DHS) on Tuesday, found that the intrusion was preventable, and that it became successful",
+          "link": "https://thehackernews.com/2024/04/us-cyber-safety-board-slams-microsoft.html",
+          "publishedOn": "2024-04-03T15:32:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Cyber Safety Board Slams Microsoft Over Breach by China-Based Hackers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNuHtzH9tTsNAhBQLRb196fV5XNPqRtNXZsj1DiGMKAW3bCK49bL3si6NL9s4Ve4eztYeB4pJCLv50sH1jCI-_D4155g4oO0WE0j-F1zVOp_ExduVYJmUpiMQbKaXHwgJ4O_Dd-rdr1GnT4iqXZzrA4XaauNsElQBAjJH2Bp4tqgEznZ3Qs5BgDXMDQqty/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNuHtzH9tTsNAhBQLRb196fV5XNPqRtNXZsj1DiGMKAW3bCK49bL3si6NL9s4Ve4eztYeB4pJCLv50sH1jCI-_D4155g4oO0WE0j-F1zVOp_ExduVYJmUpiMQbKaXHwgJ4O_Dd-rdr1GnT4iqXZzrA4XaauNsElQBAjJH2Bp4tqgEznZ3Qs5BgDXMDQqty/s1600/ms.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/google-chrome-beta-tests-new-dbsc.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Tuesday said it's piloting a new feature in Chrome called Device Bound Session Credentials (DBSC) to help protect users against session cookie theft by malware.\nThe prototype – currently tested against \"some\" Google Account users running Chrome Beta – is built with an aim to make it an open web standard, the tech giant's Chromium team said.\n\"By binding authentication sessions to the",
