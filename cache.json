@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgjtJ2YivuQW8fNgxP4RuD4uf5-vfGKwE38Xy2lmjvceuM3jnnhDZBrJqJe2ShZTxwxHr-6BYtEylmlb9-bQR2DndyBed12LXe6-PP_YLHhGxkZQo9TFrT_J12XeKIHBBcJTRpCUyLezwJ47jcM9_YvElkzaBHW_ec-e4W3wU5dewRk4ETxyebD4lgtX2s/s1600/apple.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "North Korean threat actors have exploited the recently disclosed security flaws in ConnectWise ScreenConnect to deploy a new malware called TODDLERSHARK.\nAccording to a report shared by Kroll with The Hacker News, TODDLERSHARK overlaps with known Kimsuky malware such as BabyShark and ReconShark.\n“The threat actor gained access to the victim workstation by exploiting the exposed setup wizard",
-          "link": "https://thehackernews.com/2024/03/hackers-exploit-connectwise.html",
-          "publishedOn": "2024-03-05T16:18:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit ConnectWise ScreenConnect Flaws to Deploy TODDLERSHARK Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0um1c_AUXqVfb2GFv3e5PTmKA56qyJ7MjQeA8XzuquGGwxWO8OSD90Z5qktApKMGLn_zmOcGkUIKxaC85R3zDyQLqTpeboBnMJwPTtPRNMAJZDDt31xayMVmY1I762u0_ZO8NDu0M_vdCOUokuruR0QMPEm5a38KiXZzNf2gVbOpQfBJDABIWrJMB1oxg/s1600-e365-rw/korean-hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0um1c_AUXqVfb2GFv3e5PTmKA56qyJ7MjQeA8XzuquGGwxWO8OSD90Z5qktApKMGLn_zmOcGkUIKxaC85R3zDyQLqTpeboBnMJwPTtPRNMAJZDDt31xayMVmY1I762u0_ZO8NDu0M_vdCOUokuruR0QMPEm5a38KiXZzNf2gVbOpQfBJDABIWrJMB1oxg/s1600-e365-rw/korean-hacker.jpg"
         }
       ]
     },
