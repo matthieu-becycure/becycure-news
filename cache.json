@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEbHFYkPgx1PUhVGiFx79Tkj2gTWlx22gNcIi1Q427jdMuBqJfAbE0C9nH50KEbrknkW2VGcigBsoUE12ppjODWF7g4hPoRY6l0PfrWSHPEMpFG_JkaqInRxtW6d32i_TPC_rSlv8_pzv0O-qMDwmYXaKfA-lNPohFgmbwnMy8pnrDvCpjLVCvnCnNNx89/s1600-e30-rw/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEbHFYkPgx1PUhVGiFx79Tkj2gTWlx22gNcIi1Q427jdMuBqJfAbE0C9nH50KEbrknkW2VGcigBsoUE12ppjODWF7g4hPoRY6l0PfrWSHPEMpFG_JkaqInRxtW6d32i_TPC_rSlv8_pzv0O-qMDwmYXaKfA-lNPohFgmbwnMy8pnrDvCpjLVCvnCnNNx89/s1600-e30-rw/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A financial entity in Vietnam was the target of a previously undocumented threat actor called Lotus Bane that was first detected in March 2023.\nSingapore-headquartered Group-IB described the hacking outfit as an advanced persistent threat group that's believed to have been active since at least 2022.\nThe exact specifics of the infection chain remain unknown as yet, but it involves the",
-          "link": "https://thehackernews.com/2024/03/new-apt-group-lotus-bane-behind-recent.html",
-          "publishedOn": "2024-03-06T07:01:00.000Z",
-          "wordCount": null,
-          "title": "New APT Group 'Lotus Bane' Behind Recent Attacks on Vietnam's Financial Entities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SkekStEDNa9RirqyxvgHjrvMZ-KPI21UGbFKxGa2t7ha5_vRjQYV0hg5295XLUddaNdSSw82wDsmZUNHMNfODDYfyzxb5uS8u-Z5UULggZqn-tBypo3F4Tn_W59b5oPkpiKn9UNFaW1Ik9aHmW-pbzQT8X8fTeAcuqe8aCJXBW3nZPXwKrHquLBjwxXx/s1600-e30-rw/cyberattack.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SkekStEDNa9RirqyxvgHjrvMZ-KPI21UGbFKxGa2t7ha5_vRjQYV0hg5295XLUddaNdSSw82wDsmZUNHMNfODDYfyzxb5uS8u-Z5UULggZqn-tBypo3F4Tn_W59b5oPkpiKn9UNFaW1Ik9aHmW-pbzQT8X8fTeAcuqe8aCJXBW3nZPXwKrHquLBjwxXx/s1600-e30-rw/cyberattack.jpg"
         }
       ]
     },
@@ -3080,16 +3064,6 @@
           "publishedOn": "2024-03-06T07:41:05.000Z",
           "wordCount": 1041,
           "title": "CERTFR-2024-AVI-0186 : Multiples vulnérabilités dans les produits VMware (06 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.\n D'après l'éditeur, les vulnérabilités …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0185/",
-          "publishedOn": "2024-03-06T07:07:37.000Z",
-          "wordCount": 1012,
-          "title": "CERTFR-2024-AVI-0185 : Multiples vulnérabilités dans les produits Apple (06 mars 2024)",
           "imageUrl": null
         }
       ]
