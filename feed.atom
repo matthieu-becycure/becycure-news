@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-04T15:43:27.650Z</updated>
+    <updated>2024-04-04T16:12:41.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vietnam-Based Hackers Steal Financial Data Across Asia with Malware]]></title>
+        <id>https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html</id>
+        <link href="https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html"/>
+        <updated>2024-04-04T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected Vietnamese-origin threat actor has been observed targeting victims in several Asian and Southeast Asian countries with malware designed to harvest valuable data since at least May 2023.
+Cisco Talos is tracking the cluster under the name CoralRaider, describing it as financially motivated. Targets of the campaign include India, China, South Korea, Bangladesh, Pakistan, Indonesia,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Phishing Campaign Targets Oil & Gas with Evolved Data-Stealing Malware]]></title>
+        <id>https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html</id>
+        <link href="https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html"/>
+        <updated>2024-04-04T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[An updated version of an information-stealing malware called Rhadamanthys is being used in phishing campaigns targeting the oil and gas sector.
+"The phishing emails use a unique vehicle incident lure and, in later stages of the infection chain, spoof the Federal Bureau of Transportation in a PDF that mentions a significant fine for the incident," Cofense researcher Dylan Duncan said.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Considerations for Operational Technology Cybersecurity]]></title>
         <id>https://thehackernews.com/2024/04/considerations-for-operational.html</id>

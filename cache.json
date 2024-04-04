@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A suspected Vietnamese-origin threat actor has been observed targeting victims in several Asian and Southeast Asian countries with malware designed to harvest valuable data since at least May 2023.\nCisco Talos is tracking the cluster under the name CoralRaider, describing it as financially motivated. Targets of the campaign include India, China, South Korea, Bangladesh, Pakistan, Indonesia,",
+          "link": "https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html",
+          "publishedOn": "2024-04-04T15:42:00.000Z",
+          "wordCount": null,
+          "title": "Vietnam-Based Hackers Steal Financial Data Across Asia with Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZK-8M4t3F-MFGnsaCf01fbkTb9Jhrio7613mAB3T40CQhWe5W-bNO8Pf9_r_LUK3zUacRd4yZbwGfw5kQRKKO-aScJnFL8uDmZ9L_XE4zgyL0trZ9jKKcSJ7MqyU0C_Dnwc0qsT0lHxLXt2fi2YWLfVhJ5rg75HtFmuqT8sfDRIbKDCOVOMVYJIzMBBHX/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZK-8M4t3F-MFGnsaCf01fbkTb9Jhrio7613mAB3T40CQhWe5W-bNO8Pf9_r_LUK3zUacRd4yZbwGfw5kQRKKO-aScJnFL8uDmZ9L_XE4zgyL0trZ9jKKcSJ7MqyU0C_Dnwc0qsT0lHxLXt2fi2YWLfVhJ5rg75HtFmuqT8sfDRIbKDCOVOMVYJIzMBBHX/s1600/code.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An updated version of an information-stealing malware called Rhadamanthys is being used in phishing campaigns targeting the oil and gas sector.\n\"The phishing emails use a unique vehicle incident lure and, in later stages of the infection chain, spoof the Federal Bureau of Transportation in a PDF that mentions a significant fine for the incident,\" Cofense researcher Dylan Duncan said.\nThe",
+          "link": "https://thehackernews.com/2024/04/new-phishing-campaign-targets-oil-gas.html",
+          "publishedOn": "2024-04-04T15:30:00.000Z",
+          "wordCount": null,
+          "title": "New Phishing Campaign Targets Oil & Gas with Evolved Data-Stealing Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTqYVLxgU0QP76zGqML0wemVKsbycCJ3dpkcjMiHW2IvTNeOzLl2LxYetYpcRa7sAeeTVEbDK-r8H00bILQUyshoFbbPZ6kDIA2rOgzwyELlaicc04QC2JONd3L9DB4nw5Ht9uCba6PbPMWIlifqHm8iF7QDC0zpLYyhIMg1ciALlVbDG7ScSkyrCXmUJ/s1600/phishing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVTqYVLxgU0QP76zGqML0wemVKsbycCJ3dpkcjMiHW2IvTNeOzLl2LxYetYpcRa7sAeeTVEbDK-r8H00bILQUyshoFbbPZ6kDIA2rOgzwyELlaicc04QC2JONd3L9DB4nw5Ht9uCba6PbPMWIlifqHm8iF7QDC0zpLYyhIMg1ciALlVbDG7ScSkyrCXmUJ/s1600/phishing.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/considerations-for-operational.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Operational Technology (OT) refers to the hardware and software used to change, monitor, or control the enterprise's physical devices, processes, and events. Unlike traditional Information Technology (IT) systems, OT systems directly impact the physical world. This unique characteristic of OT brings additional cybersecurity considerations not typically present in conventional IT security",
