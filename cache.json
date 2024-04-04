@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s1600/mm.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt-gyaWftLFmcTTu5ujufIP5YVB5cMcMNUQ7fEbnp6Esygr4jGAwkuKMuNTCXPWbksDa6IZ1UvnFtjZx93QEAT10QvfN3OkRPwpjGDzTjbDbl-WQ2gsr18Bt5WLziUDsfYQWKowrABMGg-CoF2nWOxO30cxMvg2-3UrClFYFSWBxoyBvBCZ0A3fLId5DM/s1600/mm.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/us-cracks-down-on-predatory-spyware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Treasury’s Office of Foreign Assets Control (OFAC) sanctioned two individuals and five entities associated with the Intellexa Alliance for their role in “developing, operating, and distributing” commercial spyware designed to target government officials, journalists, and policy experts in the country.\n“The proliferation of commercial spyware poses distinct and growing",
-          "link": "https://thehackernews.com/2024/03/us-cracks-down-on-predatory-spyware.html",
-          "publishedOn": "2024-03-06T07:35:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Cracks Down on Predatory Spyware Firm for Targeting Officials and Journalists",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": ""
-          },
-          "imageUrl": null
         }
       ]
     },
@@ -3022,16 +3006,6 @@
           "publishedOn": "2024-03-06T08:40:05.000Z",
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0187 : Multiples vulnérabilités dans Google Chrome (06 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0186/",
-          "publishedOn": "2024-03-06T07:41:05.000Z",
-          "wordCount": 1041,
-          "title": "CERTFR-2024-AVI-0186 : Multiples vulnérabilités dans les produits VMware (06 mars 2024)",
           "imageUrl": null
         }
       ]
