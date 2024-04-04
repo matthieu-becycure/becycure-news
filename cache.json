@@ -3003,16 +3003,6 @@
           "wordCount": 1012,
           "title": "CERTFR-2024-AVI-0185 : Multiples vulnérabilités dans les produits Apple (06 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Security Event Manger (SEM). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0184/",
-          "publishedOn": "2024-03-05T12:09:32.000Z",
-          "wordCount": 940,
-          "title": "CERTFR-2024-AVI-0184 : Vulnérabilité dans SolarWinds Security Event Manager (05 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
