@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New research has found that artificial intelligence (AI)-as-a-service providers such as Hugging Face are susceptible to two critical risks that could allow threat actors to escalate privileges, gain cross-tenant access to other customers' models, and even take over the continuous integration and continuous deployment (CI/CD) pipelines.\n\"Malicious models represent a major risk to AI systems,",
+          "link": "https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html",
+          "publishedOn": "2024-04-05T14:08:00.000Z",
+          "wordCount": null,
+          "title": "AI-as-a-Service Providers Vulnerable to PrivEsc and Cross-Tenant Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQWcYcAOTlIkcZh42hOo7tpHqw-bfgH-fI8AVtVlBvdAxG9T6sk7yiPcqLiF12fI1NFDSFs_E1DnXgFATAyWWrdnOapLOkunaH-MV9REbP5vKDzL5Vknra2-icIkjfR-jB-FdOieydkQK-dUrCpXcT7y6vT0n-MFfQzVLtEdhPvdJwkdT0RZ1wEJFG0gmo/s1600/ai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQWcYcAOTlIkcZh42hOo7tpHqw-bfgH-fI8AVtVlBvdAxG9T6sk7yiPcqLiF12fI1NFDSFs_E1DnXgFATAyWWrdnOapLOkunaH-MV9REbP5vKDzL5Vknra2-icIkjfR-jB-FdOieydkQK-dUrCpXcT7y6vT0n-MFfQzVLtEdhPvdJwkdT0RZ1wEJFG0gmo/s1600/ai.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Compliance requirements are meant to increase cybersecurity transparency and accountability. As cyber threats increase, so do the number of compliance frameworks and the specificity of the security controls, policies, and activities they include.\nFor CISOs and their teams, that means compliance is a time-consuming, high-stakes process that demands strong organizational and",
