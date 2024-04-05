@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Financial organizations in the Asia-Pacific (APAC) and Middle East and North Africa (MENA) are being targeted by a new version of an \"evolving threat\" called JSOutProx.\n\"JSOutProx is a sophisticated attack framework utilizing both JavaScript and .NET,\" Resecurity said in a technical report published this week.\n\"It employs the .NET (de)serialization feature to interact with a core",
+          "link": "https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html",
+          "publishedOn": "2024-04-05T07:48:00.000Z",
+          "wordCount": null,
+          "title": "New Wave of JSOutProx Malware Targeting Financial Firms in APAC and MENA",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdrsHw8rf504oNYPr3fAUWMbKVbl66HJiP_doAEH6G65DSIxS_-aMZ86t32mGBjIT0wETmGpvyaNhLeWWEu6hPdp5Xi-EXqu5fFmRUuR17d7Tqcqnn5vfDR2rdeoare9FR6bMMjk8jNO3Va_ZHufjnIIYzlx7L990gmqYIImXZYzXBpJjzbuM0H4w4Vxm/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVdrsHw8rf504oNYPr3fAUWMbKVbl66HJiP_doAEH6G65DSIxS_-aMZ86t32mGBjIT0wETmGpvyaNhLeWWEu6hPdp5Xi-EXqu5fFmRUuR17d7Tqcqnn5vfDR2rdeoare9FR6bMMjk8jNO3Va_ZHufjnIIYzlx7L990gmqYIImXZYzXBpJjzbuM0H4w4Vxm/s1600/hacking.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/researchers-identify-multiple-china.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple China-nexus threat actors have been linked to the zero-day exploitation of three security flaws impacting Ivanti appliances (CVE-2023-46805, CVE-2024-21887, and CVE-2024-21893).\nThe clusters are being tracked by Mandiant under the monikers UNC5221, UNC5266, UNC5291, UNC5325, UNC5330, and UNC5337. Another group linked to the exploitation spree is UNC3886.\nThe Google Cloud",
+          "link": "https://thehackernews.com/2024/04/researchers-identify-multiple-china.html",
+          "publishedOn": "2024-04-05T07:15:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Identify Multiple China Hacker Groups Exploiting Ivanti Security Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSBOI8l92bHwIfEdqAUIozFvGWie3JbkNX-3_PTimTqYVuL3JtnZLXwTAVXLnuQ4JwTVWr5nrgZpu3dcf4h7ckD7XA30IFC1u-KPwr9SMavE8ZVvNYEJSDUyEcBIotq_nAcezdlirAHKIAHYtrCHWpZ1gJvNZg6OE3-mJxzFO3ltd7-1RNWua2MYs2Z0X/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSBOI8l92bHwIfEdqAUIozFvGWie3JbkNX-3_PTimTqYVuL3JtnZLXwTAVXLnuQ4JwTVWr5nrgZpu3dcf4h7ckD7XA30IFC1u-KPwr9SMavE8ZVvNYEJSDUyEcBIotq_nAcezdlirAHKIAHYtrCHWpZ1gJvNZg6OE3-mJxzFO3ltd7-1RNWua2MYs2Z0X/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/vietnam-based-hackers-steal-financial.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A suspected Vietnamese-origin threat actor has been observed targeting victims in several Asian and Southeast Asian countries with malware designed to harvest valuable data since at least May 2023.\nCisco Talos is tracking the cluster under the name CoralRaider, describing it as financially motivated. Targets of the campaign include India, China, South Korea, Bangladesh, Pakistan, Indonesia,",
