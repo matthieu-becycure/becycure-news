@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Bogus installers for Adobe Acrobat Reader are being used to distribute a new multi-functional malware dubbed Byakugan.\nThe starting point of the attack is a PDF file written in Portuguese that, when opened, shows a blurred image and asks the victim to click on a link to download the Reader application to view the content.\nAccording to Fortinet FortiGuard Labs, clicking the URL",
+          "link": "https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html",
+          "publishedOn": "2024-04-05T09:40:00.000Z",
+          "wordCount": null,
+          "title": "From PDFs to Payload: Bogus Adobe Acrobat Reader Installers Distribute Byakugan Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYKWHOcYSMYdLsSS2dodo4WH7ULk0EKXN4b3SrD0vczh2XphyphenhyphenyAVHO9GiIp9q6aiuuC4L5iCE7wwrPBHNE89xmOzaeTC3p6mKB-cvSKqQ22MLHTqcOG4QBKqhbQsa7i2uxrTn1Tau-LaV7s00GLLyUihHlCz0PkbhrCh_J8virrvKTZ6CijRFVeAGFVE-/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYKWHOcYSMYdLsSS2dodo4WH7ULk0EKXN4b3SrD0vczh2XphyphenhyphenyAVHO9GiIp9q6aiuuC4L5iCE7wwrPBHNE89xmOzaeTC3p6mKB-cvSKqQ22MLHTqcOG4QBKqhbQsa7i2uxrTn1Tau-LaV7s00GLLyUihHlCz0PkbhrCh_J8virrvKTZ6CijRFVeAGFVE-/s1600/code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Financial organizations in the Asia-Pacific (APAC) and Middle East and North Africa (MENA) are being targeted by a new version of an \"evolving threat\" called JSOutProx.\n\"JSOutProx is a sophisticated attack framework utilizing both JavaScript and .NET,\" Resecurity said in a technical report published this week.\n\"It employs the .NET (de)serialization feature to interact with a core",

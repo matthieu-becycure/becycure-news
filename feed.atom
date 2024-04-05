@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-05T10:12:26.958Z</updated>
+    <updated>2024-04-05T10:29:52.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From PDFs to Payload: Bogus Adobe Acrobat Reader Installers Distribute Byakugan Malware]]></title>
+        <id>https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html</id>
+        <link href="https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html"/>
+        <updated>2024-04-05T09:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Bogus installers for Adobe Acrobat Reader are being used to distribute a new multi-functional malware dubbed Byakugan.
+The starting point of the attack is a PDF file written in Portuguese that, when opened, shows a blurred image and asks the victim to click on a link to download the Reader application to view the content.
+According to Fortinet FortiGuard Labs, clicking the URL]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Wave of JSOutProx Malware Targeting Financial Firms in APAC and MENA]]></title>
         <id>https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html</id>
