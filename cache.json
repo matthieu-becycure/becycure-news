@@ -2036,22 +2036,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s1600/cyberattack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCi_H20nS576k3q78QWmVMAgrWSb613iOR0LpFqeGY-8zMVVsI289Qre__izgDAUAQ8d-GWVebNjZLcx3lua_Nc2rhGP4r9mhXd2XeEHGydnW4cUbR0znWiflWpAJGQarOIQyzB-C1bE_cIiZ393KaXIU3YqwptuAtXgUXk2uRn55CgBjKwAfqjC2LQDOj/s1600/cyberattack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are targeting misconfigured and vulnerable servers running Apache Hadoop YARN, Docker, Atlassian Confluence, and Redis services as part of an emerging malware campaign designed to deliver a cryptocurrency miner and spawn a reverse shell for persistent remote access.\n“The attackers leverage these tools to issue exploit code, taking advantage of common misconfigurations and",
-          "link": "https://thehackernews.com/2024/03/hackers-exploit-misconfigured-yarn.html",
-          "publishedOn": "2024-03-06T16:58:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Misconfigured YARN, Docker, Confluence, Redis Servers for Crypto Mining",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT7kq42_lq7n1fbHCLEArzr_jriYdmeKRHeR_oa5LvDBN5C5FvYbfdyF7SgNWU1VnhHVG70EnkA-vRJ_oUwLJXmwl6jSEnCLVnRWWPK6C6AUsEg1DDOLPQmApes86pcWaU3oBaumKj52iv5u46QMK08-qDeqrEtL6BmdRNYPIp6frAQU8JYlmpYBj4SXb7/s1600/server-security.jpg"
         }
       ]
     },
