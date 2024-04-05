@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Compliance requirements are meant to increase cybersecurity transparency and accountability. As cyber threats increase, so do the number of compliance frameworks and the specificity of the security controls, policies, and activities they include.\nFor CISOs and their teams, that means compliance is a time-consuming, high-stakes process that demands strong organizational and",
+          "link": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
+          "publishedOn": "2024-04-05T11:18:00.000Z",
+          "wordCount": null,
+          "title": "CISO Perspectives on Complying with Cybersecurity Regulations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Bogus installers for Adobe Acrobat Reader are being used to distribute a new multi-functional malware dubbed Byakugan.\nThe starting point of the attack is a PDF file written in Portuguese that, when opened, shows a blurred image and asks the victim to click on a link to download the Reader application to view the content.\nAccording to Fortinet FortiGuard Labs, clicking the URL",
