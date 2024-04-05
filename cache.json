@@ -3011,16 +3011,6 @@
           "wordCount": 937,
           "title": "CERTFR-2024-AVI-0192 : Vulnérabilité dans VMware Cloud Director (07 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0191/",
-          "publishedOn": "2024-03-07T08:15:52.000Z",
-          "wordCount": 982,
-          "title": "CERTFR-2024-AVI-0191 : Multiples vulnérabilités dans GitLab (07 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
