@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-05T22:43:36.622Z</updated>
+    <updated>2024-04-05T23:11:28.239Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2371,17 +2371,6 @@ The findings come from ESET, which]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Cloud Director. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human vs. Non-Human Identity in SaaS]]></title>
-        <id>https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html</id>
-        <link href="https://thehackernews.com/2024/03/human-vs-non-human-identity-in-saas.html"/>
-        <updated>2024-03-07T11:11:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's rapidly evolving SaaS environment, the focus is on human users. This is one of the most compromised areas in SaaS security management and requires strict governance of user roles and permissions, monitoring of privileged users, their level of activity (dormant, active, hyperactive), their type (internal/ external), whether they are joiners, movers, or leavers, and more. 
-Not]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
