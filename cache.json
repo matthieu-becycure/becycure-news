@@ -2125,6 +2125,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/",
+          "publishedOn": "2024-04-05T11:33:30.000Z",
+          "wordCount": 1191,
+          "title": "CERTFR-2024-AVI-0279 : Multiples vulnérabilités dans les produits IBM (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans le noyau Linux de Debian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/",
+          "publishedOn": "2024-04-05T11:31:51.000Z",
+          "wordCount": 930,
+          "title": "CERTFR-2024-AVI-0278 : Vulnérabilité dans le noyau Linux de Debian (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/",
+          "publishedOn": "2024-04-05T11:27:46.000Z",
+          "wordCount": 1274,
+          "title": "CERTFR-2024-AVI-0277 : Multiples vulnérabilités dans le noyau Linux de RedHat (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/",
+          "publishedOn": "2024-04-05T11:25:33.000Z",
+          "wordCount": 1097,
+          "title": "CERTFR-2024-AVI-0276 : Multiples vulnérabilités dans le noyau Linux de SUSE (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/",
+          "publishedOn": "2024-04-05T11:22:31.000Z",
+          "wordCount": 1000,
+          "title": "CERTFR-2024-AVI-0275 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/",
+          "publishedOn": "2024-04-05T07:17:28.000Z",
+          "wordCount": 955,
+          "title": "CERTFR-2024-AVI-0274 : Multiples vulnérabilités dans Apache HTTP Server (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une usurpation d'identité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/",
+          "publishedOn": "2024-04-05T07:15:33.000Z",
+          "wordCount": 999,
+          "title": "CERTFR-2024-AVI-0273 : Multiples vulnérabilités dans Microsoft Edge (05 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0272/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Android. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges. Google indique que les …",
