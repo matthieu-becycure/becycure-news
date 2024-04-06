@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-06T10:28:20.156Z</updated>
+    <updated>2024-04-06T10:43:30.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Magento Bug to Steal Payment Data from E-commerce Websites]]></title>
+        <id>https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html</id>
+        <link href="https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html"/>
+        <updated>2024-04-06T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been found exploiting a critical flaw in Magento to inject a persistent backdoor into e-commerce websites.
+The attack leverages CVE-2024-20720 (CVSS score: 9.1), which has been described by Adobe as a case of "improper neutralization of special elements" that could pave the way for arbitrary code execution.
+It was addressed by the company as part of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI-as-a-Service Providers Vulnerable to PrivEsc and Cross-Tenant Attacks]]></title>
         <id>https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html</id>

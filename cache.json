@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been found exploiting a critical flaw in Magento to inject a persistent backdoor into e-commerce websites.\nThe attack leverages CVE-2024-20720 (CVSS score: 9.1), which has been described by Adobe as a case of \"improper neutralization of special elements\" that could pave the way for arbitrary code execution.\nIt was addressed by the company as part of",
+          "link": "https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html",
+          "publishedOn": "2024-04-06T09:43:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Magento Bug to Steal Payment Data from E-commerce Websites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvEvX8I4qP26LQ3nRgpRif4RBmoX-y5csTvKLcdwfozqKnFCGbZlBzFcoLeiDzu69ND0FW_60mEsiz0htVIGFigEx3QW4aHwHJxh-vg5XhWCZqnyYBHNpu5TKVjpstyEyt9PdhDo7F7XCuIfm4LyU1Jf7Aw4uiRp5fQ3kG4ww23F9W_k1_yW6FUHjYEg1y/s1600/website-hacked.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvEvX8I4qP26LQ3nRgpRif4RBmoX-y5csTvKLcdwfozqKnFCGbZlBzFcoLeiDzu69ND0FW_60mEsiz0htVIGFigEx3QW4aHwHJxh-vg5XhWCZqnyYBHNpu5TKVjpstyEyt9PdhDo7F7XCuIfm4LyU1Jf7Aw4uiRp5fQ3kG4ww23F9W_k1_yW6FUHjYEg1y/s1600/website-hacked.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ai-as-service-providers-vulnerable-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "New research has found that artificial intelligence (AI)-as-a-service providers such as Hugging Face are susceptible to two critical risks that could allow threat actors to escalate privileges, gain cross-tenant access to other customers' models, and even take over the continuous integration and continuous deployment (CI/CD) pipelines.\n\"Malicious models represent a major risk to AI systems,",
