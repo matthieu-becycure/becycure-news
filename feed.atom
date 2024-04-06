@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-06T01:41:21.302Z</updated>
+    <updated>2024-04-06T02:16:01.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2335,18 +2335,6 @@ While a number of legitimate tunneling tools like Chisel, FRP, ligolo, ngrok, an
         <updated>2024-03-08T06:13:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting JetBrains TeamCity On-Premises software to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
 The vulnerability, tracked as CVE-2024-27198 (CVSS score: 9.8), refers to an authentication bypass bug that allows for a complete]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacked WordPress Sites Abusing Visitors' Browsers for Distributed Brute-Force Attacks]]></title>
-        <id>https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html</id>
-        <link href="https://thehackernews.com/2024/03/hacked-wordpress-sites-abusing-visitors.html"/>
-        <updated>2024-03-07T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are conducting brute-force attacks against WordPress sites by leveraging malicious JavaScript injections, new findings from Sucuri reveal.
-The attacks, which take the form of distributed brute-force attacks, “target WordPress websites from the browsers of completely innocent and unsuspecting site visitors,” security researcher Denis Sinegubko said.
-The activity is part of a&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
