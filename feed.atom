@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-06T21:43:49.620Z</updated>
+    <updated>2024-04-06T22:08:41.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2284,16 +2284,6 @@ Tracked as CVE-2024-1403, the vulnerability has a maximum severity rating of 10
         <updated>2024-03-08T13:14:00.000Z</updated>
         <summary type="html"><![CDATA[Meta has offered details on how it intends to implement interoperability in WhatsApp and Messenger with third-party messaging services as the Digital Markets Act (DMA) went into effect in the European Union.
 “This allows users of third-party providers who choose to enable interoperability (interop) to send and receive messages with opted-in users of either Messenger or WhatsApp – both designated]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secrets Sensei: Conquering Secrets Management Challenges]]></title>
-        <id>https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html</id>
-        <link href="https://thehackernews.com/2024/03/secrets-sensei-conquering-secrets.html"/>
-        <updated>2024-03-08T09:49:00.000Z</updated>
-        <summary type="html"><![CDATA[In the realm of cybersecurity, the stakes are sky-high, and at its core lies secrets management — the foundational pillar upon which your security infrastructure rests. We're all familiar with the routine: safeguarding those API keys, connection strings, and certificates is non-negotiable. However, let's dispense with the pleasantries; this isn't a simple 'set it and forget it' scenario. It's]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
