@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-06T18:11:53.548Z</updated>
+    <updated>2024-04-06T18:27:38.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2336,17 +2336,6 @@ The networking equipment company described the vulnerability, tracked as CVE-202
         <updated>2024-03-08T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors have been observed leveraging the QEMU open-source hardware emulator as tunneling software during a cyber attack targeting an unnamed "large company" to connect to their infrastructure.
 While a number of legitimate tunneling tools like Chisel, FRP, ligolo, ngrok, and Plink have been used by adversaries to their advantage, the development marks the first QEMU that has been]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Actively Exploited JetBrains TeamCity Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html</id>
-        <link href="https://thehackernews.com/2024/03/cisa-warns-of-actively-exploited.html"/>
-        <updated>2024-03-08T06:13:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting JetBrains TeamCity On-Premises software to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerability, tracked as CVE-2024-27198 (CVSS score: 9.8), refers to an authentication bypass bug that allows for a complete]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
