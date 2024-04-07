@@ -1956,22 +1956,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlDIgbeHRjydU0ESg9Wz1BzTKcl84MusZZU4TlMTUXq92hqOD30x3B68Sied4Ep3piYxaPLkidUSYJ1SR0ENRyRrs-0spNoQN9nF-eF-mw9xx2azFbvQZL99Ws-F9BF2MDDn79wnu9S1z8Re517xMeflK1J0FLXK2bZlcADMtt0m9TgAVd-fNHYKlrkhj/s1600/russian-hacker-microosft.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPlDIgbeHRjydU0ESg9Wz1BzTKcl84MusZZU4TlMTUXq92hqOD30x3B68Sied4Ep3piYxaPLkidUSYJ1SR0ENRyRrs-0spNoQN9nF-eF-mw9xx2azFbvQZL99Ws-F9BF2MDDn79wnu9S1z8Re517xMeflK1J0FLXK2bZlcADMtt0m9TgAVd-fNHYKlrkhj/s1600/russian-hacker-microosft.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta has offered details on how it intends to implement interoperability in WhatsApp and Messenger with third-party messaging services as the Digital Markets Act (DMA) went into effect in the European Union.\n“This allows users of third-party providers who choose to enable interoperability (interop) to send and receive messages with opted-in users of either Messenger or WhatsApp – both designated",
-          "link": "https://thehackernews.com/2024/03/meta-details-whatsapp-and-messenger.html",
-          "publishedOn": "2024-03-08T13:14:00.000Z",
-          "wordCount": null,
-          "title": "Meta Details WhatsApp and Messenger Interoperability to Comply with EU's DMA Regulations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s1600/whatsapp.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjddpt4dmAATHeNFzsgNTW_un3Jn3O4q0WiAYK_pVS6g2MuUyO4T8gdSrTfkXIJpBHPS4o-g_iVRJSeDVOZowtCZoN8QOc1-Ty-FO9uzyqmHsd7QiqR4vf7rdR7n-SKfClYd6TmoiGMgRvf-iQUtIbCq1k1hz7YgIJ7mD2bd9GR0dO503sFpw3pf3rZudZj/s1600/whatsapp.jpg"
         }
       ]
     },
@@ -2858,16 +2842,6 @@
           "publishedOn": "2024-03-08T14:12:55.000Z",
           "wordCount": 1130,
           "title": "CERTFR-2024-AVI-0196 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (08 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0195/",
-          "publishedOn": "2024-03-08T13:34:36.000Z",
-          "wordCount": 1038,
-          "title": "CERTFR-2024-AVI-0195 : Multiples vulnérabilités dans Microsoft Edge (08 mars 2024)",
           "imageUrl": null
         }
       ]
