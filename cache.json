@@ -2813,36 +2813,6 @@
           "wordCount": 1315,
           "title": "CERTFR-2024-AVI-0199 : Multiples vulnérabilités dans IBM (08 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0198/",
-          "publishedOn": "2024-03-08T14:13:20.000Z",
-          "wordCount": 1183,
-          "title": "CERTFR-2024-AVI-0198 : Multiples vulnérabilités dans le noyau Linux de RedHat (08 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0197/",
-          "publishedOn": "2024-03-08T14:13:11.000Z",
-          "wordCount": 1119,
-          "title": "CERTFR-2024-AVI-0197 : Multiples vulnérabilités dans le noyau Linux de SUSE (08 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0196/",
-          "publishedOn": "2024-03-08T14:12:55.000Z",
-          "wordCount": 1130,
-          "title": "CERTFR-2024-AVI-0196 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (08 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
