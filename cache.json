@@ -2803,16 +2803,6 @@
           "wordCount": 1443,
           "title": "CERTFR-2024-ACT-012 : Bulletin d’actualité CERTFR-2024-ACT-012 (11 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0199/",
-          "publishedOn": "2024-03-08T14:23:27.000Z",
-          "wordCount": 1315,
-          "title": "CERTFR-2024-AVI-0199 : Multiples vulnérabilités dans IBM (08 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
