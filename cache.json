@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat hunters have discovered a new malware called Latrodectus that has been distributed as part of email phishing campaigns since at least late November 2023.\n\"Latrodectus is an up-and-coming downloader with various sandbox evasion functionality,\" researchers from Proofpoint and Team Cymru said in a joint analysis published last week, adding it's designed to retrieve",
+          "link": "https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html",
+          "publishedOn": "2024-04-08T11:29:00.000Z",
+          "wordCount": null,
+          "title": "Watch Out for 'Latrodectus' - This Malware Could Be In Your Inbox",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzBIFIIDBwC0PPEKDtlzUFl6ZrQj-eXSKDFISEJdWsCI1FWDxrIZ2rwxvGhtVITcLr1jfqt3l5fINlqEOw69fKaRyo5aWETMYX0GmJnK_EV9wI0tKGriGUt7ZZLOIofKbvqD6ctX9EFdjQGv7vZTghcN1y6bqPzz-UIsRzzvGccNEz8yvoN41W5VvwZkel/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzBIFIIDBwC0PPEKDtlzUFl6ZrQj-eXSKDFISEJdWsCI1FWDxrIZ2rwxvGhtVITcLr1jfqt3l5fINlqEOw69fKaRyo5aWETMYX0GmJnK_EV9wI0tKGriGUt7ZZLOIofKbvqD6ctX9EFdjQGv7vZTghcN1y6bqPzz-UIsRzzvGccNEz8yvoN41W5VvwZkel/s1600/malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The ransomware industry surged in 2023 as it saw an alarming 55.5% increase in victims worldwide, reaching a staggering 5,070. But 2024 is starting off showing a very different picture. While the numbers skyrocketed in Q4 2023 with 1309 cases, in Q1 2024, the ransomware industry was down to 1,048 cases. This is a 22% decrease in ransomware attacks compared to Q4 2023.\nFigure",
+          "link": "https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html",
+          "publishedOn": "2024-04-08T11:23:00.000Z",
+          "wordCount": null,
+          "title": "The Drop in Ransomware Attacks in 2024 and What it Means",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhP1uHMmebTwxBMIhJpOqhPGTOvpgNmOx6S9KfBfGuuyWs_fUBoQqOXPUr9eCp-9F_ZRs8BBudf-pYZRyeYDNET6LUHzVVyo_zwAoIvKjdzjyYcK83BnU081HPcRpn1CwgyIvR1club3mhlC4QmlQUZhMchOe6jPRKWHjl4nTeOsIeuimEz47Tk8J6zZ0/s1600/cyberint.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhP1uHMmebTwxBMIhJpOqhPGTOvpgNmOx6S9KfBfGuuyWs_fUBoQqOXPUr9eCp-9F_ZRs8BBudf-pYZRyeYDNET6LUHzVVyo_zwAoIvKjdzjyYcK83BnU081HPcRpn1CwgyIvR1club3mhlC4QmlQUZhMchOe6jPRKWHjl4nTeOsIeuimEz47Tk8J6zZ0/s1600/cyberint.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/cybercriminals-targeting-latin-america.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new phishing campaign has set its eyes on the Latin American region to deliver malicious payloads to Windows systems.\n\"The phishing email contained a ZIP file attachment that when extracted reveals an HTML file that leads to a malicious file download posing as an invoice,\" Trustwave SpiderLabs researcher Karla Agregado said.\nThe email message, the company said, originates from an email",

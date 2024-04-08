@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-08T11:23:56.003Z</updated>
+    <updated>2024-04-08T11:43:33.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Watch Out for 'Latrodectus' - This Malware Could Be In Your Inbox]]></title>
+        <id>https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html</id>
+        <link href="https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html"/>
+        <updated>2024-04-08T11:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat hunters have discovered a new malware called Latrodectus that has been distributed as part of email phishing campaigns since at least late November 2023.
+"Latrodectus is an up-and-coming downloader with various sandbox evasion functionality," researchers from Proofpoint and Team Cymru said in a joint analysis published last week, adding it's designed to retrieve]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Drop in Ransomware Attacks in 2024 and What it Means]]></title>
+        <id>https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html</id>
+        <link href="https://thehackernews.com/2024/04/the-drop-in-ransomware-attacks-in-2024.html"/>
+        <updated>2024-04-08T11:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The ransomware industry surged in 2023 as it saw an alarming 55.5% increase in victims worldwide, reaching a staggering 5,070. But 2024 is starting off showing a very different picture. While the numbers skyrocketed in Q4 2023 with 1309 cases, in Q1 2024, the ransomware industry was down to 1,048 cases. This is a 22% decrease in ransomware attacks compared to Q4 2023.
+Figure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Targeting Latin America with Sophisticated Phishing Scheme]]></title>
         <id>https://thehackernews.com/2024/04/cybercriminals-targeting-latin-america.html</id>
