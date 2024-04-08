@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has announced support for what's called a V8 Sandbox in the Chrome web browser in an effort to address memory corruption issues.\nThe sandbox, according to V8 Security technical lead Samuel Groß, aims to prevent \"memory corruption in V8 from spreading within the host process.\"\nThe search behemoth has described V8 Sandbox as a lightweight, in-process sandbox",
+          "link": "https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html",
+          "publishedOn": "2024-04-08T13:51:00.000Z",
+          "wordCount": null,
+          "title": "Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhREty2sxBa9Q_hah3r8Khy2a8ioqUhfBu1nf0f03VCnXYxFZzhBnCqVnUTHyksGhR12DkjWpgdUG4G-_a4wwA_couISG76WvaElS_iNAbKBPe7QFLDT7uPUbKfts7Q5vABreFHutAJNqfHstuFaEQLyLS34_5X1KmIMQZh1xapOrWX934GEhQIA4KI2Uox/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhREty2sxBa9Q_hah3r8Khy2a8ioqUhfBu1nf0f03VCnXYxFZzhBnCqVnUTHyksGhR12DkjWpgdUG4G-_a4wwA_couISG76WvaElS_iNAbKBPe7QFLDT7uPUbKfts7Q5vABreFHutAJNqfHstuFaEQLyLS34_5X1KmIMQZh1xapOrWX934GEhQIA4KI2Uox/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat hunters have discovered a new malware called Latrodectus that has been distributed as part of email phishing campaigns since at least late November 2023.\n\"Latrodectus is an up-and-coming downloader with various sandbox evasion functionality,\" researchers from Proofpoint and Team Cymru said in a joint analysis published last week, adding it's designed to retrieve",

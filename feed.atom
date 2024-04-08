@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-08T14:09:46.655Z</updated>
+    <updated>2024-04-08T14:29:11.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html</id>
+        <link href="https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html"/>
+        <updated>2024-04-08T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced support for what's called a V8 Sandbox in the Chrome web browser in an effort to address memory corruption issues.
+The sandbox, according to V8 Security technical lead Samuel Groß, aims to prevent "memory corruption in V8 from spreading within the host process."
+The search behemoth has described V8 Sandbox as a lightweight, in-process sandbox]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Out for 'Latrodectus' - This Malware Could Be In Your Inbox]]></title>
         <id>https://thehackernews.com/2024/04/watch-out-for-latrodectus-this-malware.html</id>
