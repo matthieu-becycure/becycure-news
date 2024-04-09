@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/attackers-using-obfuscation-tools-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered an intricate multi-stage attack that leverages invoice-themed phishing decoys to deliver a wide range of malware such as Venom RAT, Remcos RAT, XWorm, NanoCore RAT, and a stealer that targets crypto wallets.\nThe email messages come with Scalable Vector Graphics (SVG) file attachments that, when clicked, activate the infection sequence, Fortinet",
+          "link": "https://thehackernews.com/2024/04/attackers-using-obfuscation-tools-to.html",
+          "publishedOn": "2024-04-09T07:24:00.000Z",
+          "wordCount": null,
+          "title": "Attackers Using Obfuscation Tools to Deliver Multi-Stage Malware via Invoice Phishing",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSYCDc5lgycLNW_wKnC4vskY-LsI-d5aO8CbE03yTbykhYyKQxBWGlpthNiJ4qrXKJ0-6zB-2RISpU3GLKgaltB9bCL6mbsTXyiHmKRIBcV4hMfIpI03WKjIglH7sYsUiLP247vM0CgSo1oEnHqqNjqWVGIb0q4jhmfUWSKzW12iK_uNx8FSF9sPvGrXx/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinSYCDc5lgycLNW_wKnC4vskY-LsI-d5aO8CbE03yTbykhYyKQxBWGlpthNiJ4qrXKJ0-6zB-2RISpU3GLKgaltB9bCL6mbsTXyiHmKRIBcV4hMfIpI03WKjIglH7sYsUiLP247vM0CgSo1oEnHqqNjqWVGIb0q4jhmfUWSKzW12iK_uNx8FSF9sPvGrXx/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are actively scanning and exploiting a pair of security flaws that are said to affect as many as 92,000 internet-exposed D-Link network-attached storage (NAS) devices.\nTracked as CVE-2024-3272 (CVSS score: 9.8) and CVE-2024-3273 (CVSS score: 7.3), the vulnerabilities impact legacy D-Link products that have reached end-of-life (EoL) status. D-Link, in",
