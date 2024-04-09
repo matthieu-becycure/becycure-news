@@ -2068,22 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s1600/guide.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAAes7IShGgGHkQvzNqESoFEPnW5P7v0T6olH2AzSSel4FhWOUlWwe8kOmC-uMfKh03-LOUyCOSeVYXBvLjJDwqzpFvENkRhveuEOVx8mdtMQ7DHGwnInrWC57hgtg2VYlGmkkVSXZnaUw2jqDa9hNA6I7OrdbYQj1pT3F5d9AUn2ES5murdkM32NoXcg/s1600/guide.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind the BianLian ransomware have been observed exploiting security flaws in JetBrains TeamCity software to conduct their extortion-only attacks.\nAccording to a new report from GuidePoint Security, which responded to a recent intrusion, the incident \"began with the exploitation of a TeamCity server which resulted in the deployment of a PowerShell implementation of",
-          "link": "https://thehackernews.com/2024/03/bianlian-threat-actors-exploiting.html",
-          "publishedOn": "2024-03-11T09:53:00.000Z",
-          "wordCount": null,
-          "title": "BianLian Threat Actors Exploiting JetBrains TeamCity Flaws in Ransomware Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s1600/ransomware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s1600/ransomware.jpg"
         }
       ]
     },
