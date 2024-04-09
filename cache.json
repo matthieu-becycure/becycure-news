@@ -2971,16 +2971,6 @@
           "wordCount": 964,
           "title": "CERTFR-2024-AVI-0200 : Vulnérabilité dans les produits MongoDB (11 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-012/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-012/",
-          "publishedOn": "2024-03-11T08:49:58.000Z",
-          "wordCount": 1443,
-          "title": "CERTFR-2024-ACT-012 : Bulletin d’actualité CERTFR-2024-ACT-012 (11 mars 2024)",
-          "imageUrl": null
         }
       ]
     }

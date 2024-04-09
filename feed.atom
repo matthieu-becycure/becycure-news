@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-09T20:43:33.508Z</updated>
+    <updated>2024-04-09T21:10:25.279Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2355,16 +2355,6 @@ According to a new report from GuidePoint Security, which responded to a recen
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/"/>
         <updated>2024-03-11T09:18:02.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits MongoDB. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-ACT-012 : Bulletin d’actualité CERTFR-2024-ACT-012 (11 mars 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-012/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-012/"/>
-        <updated>2024-03-11T08:49:58.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
