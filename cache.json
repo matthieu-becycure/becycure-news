@@ -2084,22 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s1600/ransomware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7mIMEPuUJCodEkmROBiDh_AYBbgk1-xl74CQgJGRM5jOg4DPt_ySf_aLq5ulBdoubUv8Cv7W64wHhdnhWn0VpdELYk3lsraRzpOsW8r0bq4TEQAWs8eTrXAy5eHwHsAwT2kZR6h5amgvlW9ujE_qXgn891xHTAYzZt3e2RoARzcosNGNMVwkcbWGmAvSL/s1600/ransomware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Technical specifics and a proof-of-concept (PoC) exploit have been made available for a recently disclosed critical security flaw in Progress Software OpenEdge Authentication Gateway and AdminServer, which could be potentially exploited to bypass authentication protections.\nTracked as CVE-2024-1403, the vulnerability has a maximum severity rating of 10.0 on the CVSS scoring system. It",
-          "link": "https://thehackernews.com/2024/03/proof-of-concept-exploit-released-for.html",
-          "publishedOn": "2024-03-11T06:28:00.000Z",
-          "wordCount": null,
-          "title": "Proof-of-Concept Exploit Released for Progress Software OpenEdge Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s1600/po.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilZfol01XJyYr20hq6KYhHB8oVcaz4ezJO0G_QgYjk7YKGt-Gd5hT3RzSO34PgHEEOj5lnSW3QjeCGzxyBl-Umin-0zZYD5oC4aKZkg28blhY-YkWw6rgBZ-sOrtggQjRrSEJQKoY8pZMmkSIEnBmCnTGWjK-79TjUeILVZp0l0G7XvMhKXuudog23XFci/s1600/po.jpg"
         }
       ]
     },
