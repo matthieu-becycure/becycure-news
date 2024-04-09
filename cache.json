@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "2023 CL0P Growth \nEmerging in early 2019, CL0P was first introduced as a more advanced version of its predecessor the ‘CryptoMix’ ransomware, brought about by its owner CL0P ransomware, a cybercrime organisation. Over the years the group remained active with significant campaigns throughout 2020 to 2022. But in 2023 the CL0P ransomware gang took itself to new heights and became one of the",
+          "link": "https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html",
+          "publishedOn": "2024-04-09T11:24:00.000Z",
+          "wordCount": null,
+          "title": "CL0P's Ransomware Rampage - Security Measures for 2024",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4FrtAi2f0YPuF9QJdqnZbAwe_DKwRcI-lLmJx0ibPAKLU3FzU7U0gMQmQ6T13hBwHonCMSkYHyAvjhhJdkwpGafJqXwDydOi20JwWC-bIXZhqUZ_nBqd6aNMGDRHLNQppiAnR6z7iV0fpadC4VAApYpsEeVAj8meP6C9ekXK8gfct2RBHDw_WHwEFZ4/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4FrtAi2f0YPuF9QJdqnZbAwe_DKwRcI-lLmJx0ibPAKLU3FzU7U0gMQmQ6T13hBwHonCMSkYHyAvjhhJdkwpGafJqXwDydOi20JwWC-bIXZhqUZ_nBqd6aNMGDRHLNQppiAnR6z7iV0fpadC4VAApYpsEeVAj8meP6C9ekXK8gfct2RBHDw_WHwEFZ4/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/attackers-using-obfuscation-tools-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered an intricate multi-stage attack that leverages invoice-themed phishing decoys to deliver a wide range of malware such as Venom RAT, Remcos RAT, XWorm, NanoCore RAT, and a stealer that targets crypto wallets.\nThe email messages come with Scalable Vector Graphics (SVG) file attachments that, when clicked, activate the infection sequence, Fortinet",
