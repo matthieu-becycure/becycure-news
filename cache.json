@@ -2951,16 +2951,6 @@
           "wordCount": 1056,
           "title": "CERTFR-2024-AVI-0202 : [SCADA] Multiples vulnérabilités dans les produits Schneider (12 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0201/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection de code indirecte à distance (XSS), et une atteinte à la …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0201/",
-          "publishedOn": "2024-03-11T09:32:03.000Z",
-          "wordCount": 1102,
-          "title": "CERTFR-2024-AVI-0201 : Multiples vulnérabilités dans les produits Qnap (11 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
