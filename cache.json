@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in LG webOS running on its smart televisions that could be exploited to bypass authorization and gain root access on the devices.\nThe findings come from Romanian cybersecurity firm Bitdefender, which discovered and reported the flaws in November 2023. The issues were fixed by LG as part of updates released on March 22, 2024.\nThe",
+          "link": "https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html",
+          "publishedOn": "2024-04-09T13:05:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg92RjGmFEvstcFiWlQOINw0OnZyhrasy1PhyHvcnJQr2WJ7konyZiGOHtn-EUY_pRxvVtU_m9XTCZjIjSIllSKSYuoO5dBDBV_5uz1ln4sKEq_MKKTt4kbP_4BznY-jyaFzEsXnou5jJx2Bp_5BS3evDDAzpGi-XhtpYpqR1PkWS56nxI0djR85G2kivCr/s1600/lg-webos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg92RjGmFEvstcFiWlQOINw0OnZyhrasy1PhyHvcnJQr2WJ7konyZiGOHtn-EUY_pRxvVtU_m9XTCZjIjSIllSKSYuoO5dBDBV_5uz1ln4sKEq_MKKTt4kbP_4BznY-jyaFzEsXnou5jJx2Bp_5BS3evDDAzpGi-XhtpYpqR1PkWS56nxI0djR85G2kivCr/s1600/lg-webos.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/cl0ps-ransomware-rampage-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "2023 CL0P Growth \nEmerging in early 2019, CL0P was first introduced as a more advanced version of its predecessor the ‘CryptoMix’ ransomware, brought about by its owner CL0P ransomware, a cybercrime organisation. Over the years the group remained active with significant campaigns throughout 2020 to 2022. But in 2023 the CL0P ransomware gang took itself to new heights and became one of the",
