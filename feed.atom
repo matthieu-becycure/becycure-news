@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-09T05:43:29.986Z</updated>
+    <updated>2024-04-09T06:13:48.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaws Leave 92,000 D-Link NAS Devices Vulnerable to Malware Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html</id>
+        <link href="https://thehackernews.com/2024/04/critical-flaws-leave-92000-d-link-nas.html"/>
+        <updated>2024-04-09T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are actively scanning and exploiting a pair of security flaws that are said to affect as many as 92,000 internet-exposed D-Link network-attached storage (NAS) devices.
+Tracked as CVE-2024-3272 (CVSS score: 9.8) and CVE-2024-3273 (CVSS score: 7.3), the vulnerabilities impact legacy D-Link products that have reached end-of-life (EoL) status. D-Link, in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome Adds V8 Sandbox - A New Defense Against Browser Attacks]]></title>
         <id>https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html</id>
