@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-09T14:27:25.323Z</updated>
+    <updated>2024-04-09T14:43:25.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10-Year-Old 'RUBYCARP' Romanian Hacker Group Surfaces with Botnet]]></title>
+        <id>https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html</id>
+        <link href="https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html"/>
+        <updated>2024-04-09T14:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat group of suspected Romanian origin called RUBYCARP has been observed maintaining a long-running botnet for carrying out crypto mining, distributed denial-of-service (DDoS), and phishing attacks.
+The group, believed to be active for at least 10 years, employs the botnet for financial gain, Sysdig said in a report shared with The Hacker News.
+"Its primary method of operation]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Targeting Human Rights Activists in Morocco and Western Sahara]]></title>
+        <id>https://thehackernews.com/2024/04/hackers-targeting-human-rights.html</id>
+        <link href="https://thehackernews.com/2024/04/hackers-targeting-human-rights.html"/>
+        <updated>2024-04-09T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Human rights activists in Morocco and the Western Sahara region are the targets of a new threat actor that leverages phishing attacks to trick victims into installing bogus Android apps and serve credential harvesting pages for Windows users.
+Cisco Talos is tracking the activity cluster under the name Starry Addax, describing it as primarily singling out activists associated with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access]]></title>
         <id>https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html</id>

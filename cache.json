@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A threat group of suspected Romanian origin called RUBYCARP has been observed maintaining a long-running botnet for carrying out crypto mining, distributed denial-of-service (DDoS), and phishing attacks.\nThe group, believed to be active for at least 10 years, employs the botnet for financial gain, Sysdig said in a report shared with The Hacker News.\n\"Its primary method of operation",
+          "link": "https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html",
+          "publishedOn": "2024-04-09T14:01:00.000Z",
+          "wordCount": null,
+          "title": "10-Year-Old 'RUBYCARP' Romanian Hacker Group Surfaces with Botnet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSslyUWm58BGConGdCHyhxv8XYQ1Z6ofydvKKCrYc9TKOK53RKkPmM2RwD-UaSSoHuYWcuRz6OzU-l29QFwc7q9YOLnssHqtpD4Codsy3P2EkMp7_IwfNghlVMtvgpsr1Pfn_poKQuGY0MEO4nuRvqPG4xGAEj0MFoePdVwgIvF4gA8fi6oS-WFX1cMd2/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidSslyUWm58BGConGdCHyhxv8XYQ1Z6ofydvKKCrYc9TKOK53RKkPmM2RwD-UaSSoHuYWcuRz6OzU-l29QFwc7q9YOLnssHqtpD4Codsy3P2EkMp7_IwfNghlVMtvgpsr1Pfn_poKQuGY0MEO4nuRvqPG4xGAEj0MFoePdVwgIvF4gA8fi6oS-WFX1cMd2/s1600/wordpress.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/hackers-targeting-human-rights.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Human rights activists in Morocco and the Western Sahara region are the targets of a new threat actor that leverages phishing attacks to trick victims into installing bogus Android apps and serve credential harvesting pages for Windows users.\nCisco Talos is tracking the activity cluster under the name Starry Addax, describing it as primarily singling out activists associated with",
+          "link": "https://thehackernews.com/2024/04/hackers-targeting-human-rights.html",
+          "publishedOn": "2024-04-09T13:45:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Targeting Human Rights Activists in Morocco and Western Sahara",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDoyCSnTILY62mf13giwPIMi9XnrPbIXgMwxr3DViPFaD0QRI0zUjOCBn-GqpCbxm4IMD_AmKKy7NmTkti2bNpldn_Yx2IHUy27Pmthb-iypspLmUaE_roZBPCn319kCp1sswmnTpft6Ykz72Igjubdwu9kbb_R52GPW4xXP-tdCqMZiuQy9SHjT5RgvsV/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDoyCSnTILY62mf13giwPIMi9XnrPbIXgMwxr3DViPFaD0QRI0zUjOCBn-GqpCbxm4IMD_AmKKy7NmTkti2bNpldn_Yx2IHUy27Pmthb-iypspLmUaE_roZBPCn319kCp1sswmnTpft6Ykz72Igjubdwu9kbb_R52GPW4xXP-tdCqMZiuQy9SHjT5RgvsV/s1600/hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Multiple security vulnerabilities have been disclosed in LG webOS running on its smart televisions that could be exploited to bypass authorization and gain root access on the devices.\nThe findings come from Romanian cybersecurity firm Bitdefender, which discovered and reported the flaws in November 2023. The issues were fixed by LG as part of updates released on March 22, 2024.\nThe",
