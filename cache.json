@@ -2961,16 +2961,6 @@
           "wordCount": 1102,
           "title": "CERTFR-2024-AVI-0201 : Multiples vulnérabilités dans les produits Qnap (11 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits MongoDB. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0200/",
-          "publishedOn": "2024-03-11T09:18:02.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0200 : Vulnérabilité dans les produits MongoDB (11 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
