@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T10:10:39.025Z</updated>
+    <updated>2024-04-10T10:31:36.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel]]></title>
+        <id>https://thehackernews.com/2024/04/researchers-uncover-first-native.html</id>
+        <link href="https://thehackernews.com/2024/04/researchers-uncover-first-native.html"/>
+        <updated>2024-04-10T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed what they say is the "first native Spectre v2 exploit" against the Linux kernel on Intel systems that could be exploited to read sensitive data from the memory.
+The exploit, called Native Branch History Injection (BHI), can be used to leak arbitrary kernel memory at 3.5 kB/sec by bypassing existing Spectre v2/BHI mitigations, researchers from Systems and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses]]></title>
         <id>https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html</id>

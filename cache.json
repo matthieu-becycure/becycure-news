@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/researchers-uncover-first-native.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed what they say is the \"first native Spectre v2 exploit\" against the Linux kernel on Intel systems that could be exploited to read sensitive data from the memory.\nThe exploit, called Native Branch History Injection (BHI), can be used to leak arbitrary kernel memory at 3.5 kB/sec by bypassing existing Spectre v2/BHI mitigations, researchers from Systems and",
+          "link": "https://thehackernews.com/2024/04/researchers-uncover-first-native.html",
+          "publishedOn": "2024-04-10T09:26:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsD6LKdPcKWC46N-_BaaXZ29L0D7KphWMEbdicr1_7Yatd0mV1ryyXVkRdgJf12ZeUtbjMjsZ1gL-HSfF9zlxVSayKlyu6BzjHewf3GgU4jwaHJan42fatoQdSmRuH728-Sz1XusJcz8qymgTK8o0eB-9v4R1hn5MOrUvHi2UOm2O0WnBRbeimTNLO-oEt/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsD6LKdPcKWC46N-_BaaXZ29L0D7KphWMEbdicr1_7Yatd0mV1ryyXVkRdgJf12ZeUtbjMjsZ1gL-HSfF9zlxVSayKlyu6BzjHewf3GgU4jwaHJan42fatoQdSmRuH728-Sz1XusJcz8qymgTK8o0eB-9v4R1hn5MOrUvHi2UOm2O0WnBRbeimTNLO-oEt/s1600/linux.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "We all know passwords and firewalls are important, but what about the invisible threats lurking beneath the surface of your systems?\nIdentity Threat Exposures (ITEs) are like secret tunnels for hackers – they make your security way more vulnerable than you think.\nThink of it like this: misconfigurations, forgotten accounts, and old settings are like cracks in your digital fortress walls. Hackers",
