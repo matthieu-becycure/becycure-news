@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An active Android malware campaign dubbed eXotic Visit has been primarily targeting users in South Asia, particularly those in India and Pakistan, with malware distributed via dedicated websites and Google Play Store.\nSlovak cybersecurity firm said the activity, ongoing since November 2021, is not linked to any known threat actor or group. It's tracking the group behind the operation under the",
+          "link": "https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html",
+          "publishedOn": "2024-04-10T14:24:00.000Z",
+          "wordCount": null,
+          "title": "'eXotic Visit' Spyware Campaign Targets Android Users in India and Pakistan",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpDjwu0ou7Qb7dMs0cGkVcyaSPlamklQqsJrhy3j4YmEwLcmIuwCwkuAWpUO5tjNhSrsq2sFtuRYw39S_t63WG4yg2EW1hnqtz1SRgUWb8Qw7zdp6TA5AG1NKV4lBy_WpcYuo-3_xNvbi6TW_iXmvl-4Pqz__dH9FmVpQOd0X_BO-SDHLIAFz1cRgXBJwv/s1600/mobile.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpDjwu0ou7Qb7dMs0cGkVcyaSPlamklQqsJrhy3j4YmEwLcmIuwCwkuAWpUO5tjNhSrsq2sFtuRYw39S_t63WG4yg2EW1hnqtz1SRgUWb8Qw7zdp6TA5AG1NKV4lBy_WpcYuo-3_xNvbi6TW_iXmvl-4Pqz__dH9FmVpQOd0X_BO-SDHLIAFz1cRgXBJwv/s1600/mobile.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new Raspberry Robin campaign wave that propagates the malware through malicious Windows Script Files (WSFs) since March 2024.\n\"Historically, Raspberry Robin was known to spread through removable media like USB drives, but over time its distributors have experimented with other initial infection vectors,\" HP Wolf Security said in a report",

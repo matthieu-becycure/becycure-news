@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T14:27:15.347Z</updated>
+    <updated>2024-04-10T14:43:31.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['eXotic Visit' Spyware Campaign Targets Android Users in India and Pakistan]]></title>
+        <id>https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html</id>
+        <link href="https://thehackernews.com/2024/04/exotic-visit-spyware-campaign-targets.html"/>
+        <updated>2024-04-10T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[An active Android malware campaign dubbed eXotic Visit has been primarily targeting users in South Asia, particularly those in India and Pakistan, with malware distributed via dedicated websites and Google Play Store.
+Slovak cybersecurity firm said the activity, ongoing since November 2021, is not linked to any known threat actor or group. It's tracking the group behind the operation under the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files]]></title>
         <id>https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html</id>
