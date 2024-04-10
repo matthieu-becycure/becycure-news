@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T02:43:25.216Z</updated>
+    <updated>2024-04-10T03:12:35.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2291,28 +2291,6 @@ According to Sucuri, the campaign has infected more than 3,900 sites over the 
         <summary type="html"><![CDATA[Russia has detained a South Korean national for the first time on cyber espionage charges and transferred from Vladivostok to Moscow for further investigation.
 The development was first reported by Russian news agency TASS.
 “During the investigation of an espionage case, a South Korean citizen Baek Won-soon was identified and detained in Vladivostok, and put into custody under a court]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity PAM Essentials]]></title>
-        <id>https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html</id>
-        <link href="https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html"/>
-        <updated>2024-03-11T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[As cyber threats loom around every corner and privileged accounts become prime targets, the significance of implementing a robust Privileged Access Management (PAM) solution can't be overstated. With organizations increasingly migrating to cloud environments, the PAM Solution Market is experiencing a transformative shift toward cloud-based offerings. One Identity PAM Essentials stands]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Banking Trojan CHAVECLOAK Targets Brazilian Users via Phishing Tactics]]></title>
-        <id>https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html</id>
-        <link href="https://thehackernews.com/2024/03/new-banking-trojan-chavecloak-targets.html"/>
-        <updated>2024-03-11T14:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Users in Brazil are the target of a new banking trojan known as CHAVECLOAK that's propagated via phishing emails bearing PDF attachments.
-"This intricate attack involves the PDF downloading a ZIP file and subsequently utilizing DLL side-loading techniques to execute the final malware," Fortinet FortiGuard Labs researcher Cara Lin said.
-The attack chain involves the use of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
