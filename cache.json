@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The need for vCISO services is growing. SMBs and SMEs are dealing with more third-party risks, tightening regulatory demands and stringent cyber insurance requirements than ever before. However, they often lack the resources and expertise to hire an in-house security executive team. By outsourcing security and compliance leadership to a vCISO, these organizations can more easily obtain",
+          "link": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
+          "publishedOn": "2024-04-10T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Hands-on Review: Cynomi AI-powered vCISO Platform",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s1600/cynomi.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEio7IKLaNzbMRZ80ktkK-SwI7Q9eKQPIsh7E4QQqld_ozwyG0V3ZKsMq-3qFw1w6JQ0NBXAmdmcC1BQVoK7yFvS67QS9sb306AISTUkCqK3wkcP3ISA4S9IASY5YG-2MfJzx4wXbU4jY07sijri7ngpNyl2AK7MsJUf7xi6hZZz_yIxSWpmjwyM8P6FSVA/s1600/cynomi.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/researchers-uncover-first-native.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed what they say is the \"first native Spectre v2 exploit\" against the Linux kernel on Intel systems that could be exploited to read sensitive data from the memory.\nThe exploit, called Native Branch History Injection (BHI), can be used to leak arbitrary kernel memory at 3.5 kB/sec by bypassing existing Spectre v2/BHI mitigations, researchers from Systems and",

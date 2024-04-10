@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T11:23:44.476Z</updated>
+    <updated>2024-04-10T11:43:44.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hands-on Review: Cynomi AI-powered vCISO Platform]]></title>
+        <id>https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html</id>
+        <link href="https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html"/>
+        <updated>2024-04-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The need for vCISO services is growing. SMBs and SMEs are dealing with more third-party risks, tightening regulatory demands and stringent cyber insurance requirements than ever before. However, they often lack the resources and expertise to hire an in-house security executive team. By outsourcing security and compliance leadership to a vCISO, these organizations can more easily obtain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover First Native Spectre v2 Exploit Against Linux Kernel]]></title>
         <id>https://thehackernews.com/2024/04/researchers-uncover-first-native.html</id>
