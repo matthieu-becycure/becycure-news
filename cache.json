@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw in the Rust standard library could be exploited to target Windows users and stage command injection attacks.\nThe vulnerability, tracked as CVE-2024-24576, has a CVSS score of 10.0, indicating maximum severity. That said, it only impacts scenarios where batch files are invoked on Windows with untrusted arguments.\n\"The Rust standard library did not properly escape",
+          "link": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
+          "publishedOn": "2024-04-10T03:05:00.000Z",
+          "wordCount": null,
+          "title": "Critical 'BatBadBut' Rust Vulnerability Exposes Windows Systems to Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzj_pqPJa5YYNmBX9he6QAHf__vFlVYf7UbkLqYZwfGJ674gE1pamccawLRFMSWxm0IW9uXncZrpX8jkc-v3IfOh0wEgzM9KRNlLrvN1l7nYX6JUzjepsn3PPVSzlO6UYtamM3II697lUxzqM1XlFMjDakJY3l0kqEiXDYLiHiHnVx9fsv9t0ud6CSQ8NV/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzj_pqPJa5YYNmBX9he6QAHf__vFlVYf7UbkLqYZwfGJ674gE1pamccawLRFMSWxm0IW9uXncZrpX8jkc-v3IfOh0wEgzM9KRNlLrvN1l7nYX6JUzjepsn3PPVSzlO6UYtamM3II697lUxzqM1XlFMjDakJY3l0kqEiXDYLiHiHnVx9fsv9t0ud6CSQ8NV/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/10-year-old-rubycarp-romanian-hacker.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat group of suspected Romanian origin called RUBYCARP has been observed maintaining a long-running botnet for carrying out crypto mining, distributed denial-of-service (DDoS), and phishing attacks.\nThe group, believed to be active for at least 10 years, employs the botnet for financial gain, Sysdig said in a report shared with The Hacker News.\n\"Its primary method of operation",
