@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s1600/main.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrPPgSlUY10CYxZ9ZOBX5igNFe1bBaY7dIl5ObA3cJ98sS1nw8w494sccY2YIBUPj0JopuZw-qDcZQKiljomlpKHLCPxnChqmwIZIKNjynVDku-HE8gMts12xYIjUGyXH_7Ig7He8OCtgQEH5ZfA2sURS83mVrFeAq0Y16m8FeYk6WvHwMTpANUG0rHr4/s1600/main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new malware campaign is leveraging a high-severity security flaw in the Popup Builder plugin for WordPress to inject malicious JavaScript code.\nAccording to Sucuri, the campaign has infected more than 3,900 sites over the past three weeks.\n\"These attacks are orchestrated from domains less than a month old, with registrations dating back to February 12th, 2024,\" security researcher",
-          "link": "https://thehackernews.com/2024/03/malware-campaign-exploits-popup-builder.html",
-          "publishedOn": "2024-03-12T09:15:00.000Z",
-          "wordCount": null,
-          "title": "Malware Campaign Exploits Popup Builder WordPress Plugin to Infect 3,900+ Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s1600/wordpress.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNGoX21WjIQ72i5GRsyCSn70vBEfKwbmI6iOfuL5zMjHueIsFIdM2rX16KBGrGLMdPj_9qf_2PkoF9qPm539FkpJvQfgd6FmdYQprjQwCPIvU_PKUxGaSQPjPFNP2qtJXphT-QodF_tBpS9ZNNTZfbgpuWBvQ1WETcBNaWljohQc_N8iQLTgdM4KZ6_vOW/s1600/wordpress.jpg"
         }
       ]
     },
@@ -3094,16 +3078,6 @@
           "publishedOn": "2024-03-12T12:35:28.000Z",
           "wordCount": 2264,
           "title": "CERTFR-2024-AVI-0203 : [SCADA] Multiples vulnérabilités dans les produits Siemens (12 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0202/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Schneider. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0202/",
-          "publishedOn": "2024-03-12T09:15:21.000Z",
-          "wordCount": 1056,
-          "title": "CERTFR-2024-AVI-0202 : [SCADA] Multiples vulnérabilités dans les produits Schneider (12 mars 2024)",
           "imageUrl": null
         }
       ]
