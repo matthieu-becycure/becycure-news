@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has released security updates for the month of April 2024 to remediate a record 149 flaws, two of which have come under active exploitation in the wild.\nOf the 149 flaws, three are rated Critical, 142 are rated Important, three are rated Moderate, and one is rated Low in severity. The update is aside from 21 vulnerabilities that the company addressed in its",
+          "link": "https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html",
+          "publishedOn": "2024-04-10T04:57:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Fixes 149 Flaws in Huge April Patch Release, Zero-Days Included",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bsAdUeixoGTSir-Dw-WRkBDPal0O6tQA6RDGpqc9zbgS5h2-A-HstC1o9an_r0rKrkAGuRBpOD4y6sG6o_aW6DWFmAyszwEo4Ag0TQegGpP6QASX9CWYEZLkukiW6DrH4fmxL2FKlq6FzSUFTMeuVHzmw0xIR6QmT0sfxchitg0RhSoTqMyw4dZ3J03j/s1600/windows.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bsAdUeixoGTSir-Dw-WRkBDPal0O6tQA6RDGpqc9zbgS5h2-A-HstC1o9an_r0rKrkAGuRBpOD4y6sG6o_aW6DWFmAyszwEo4Ag0TQegGpP6QASX9CWYEZLkukiW6DrH4fmxL2FKlq6FzSUFTMeuVHzmw0xIR6QmT0sfxchitg0RhSoTqMyw4dZ3J03j/s1600/windows.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/critical-batbadbut-rust-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A critical security flaw in the Rust standard library could be exploited to target Windows users and stage command injection attacks.\nThe vulnerability, tracked as CVE-2024-24576, has a CVSS score of 10.0, indicating maximum severity. That said, it only impacts scenarios where batch files are invoked on Windows with untrusted arguments.\n\"The Rust standard library did not properly escape",
