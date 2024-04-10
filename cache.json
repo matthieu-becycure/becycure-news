@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "We all know passwords and firewalls are important, but what about the invisible threats lurking beneath the surface of your systems?\nIdentity Threat Exposures (ITEs) are like secret tunnels for hackers – they make your security way more vulnerable than you think.\nThink of it like this: misconfigurations, forgotten accounts, and old settings are like cracks in your digital fortress walls. Hackers",
+          "link": "https://thehackernews.com/2024/04/webinar-learn-how-to-stop-hackers-from.html",
+          "publishedOn": "2024-04-10T09:02:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: Learn How to Stop Hackers from Exploiting Hidden Identity Weaknesses",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s1600/identity.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6T9olf9Ui86FKI_IYxWQZKU2IGVPsYBNCuSMlyfg3iD8bcvn7LiOmzfOGL6GXC8O4bv11X_JzDrSk_qGFFZVPVQmVWQ_4W3-Ux0IAq8Z361pcBeuWyUE9ykPZ54HY2vBlGh2bP6BqUVyaYBozQOTosT-cyjw8cR83rFWqgjNk9IvUXLVV2it_krVYc7o/s1600/identity.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/microsoft-fixes-149-flaws-in-huge-april.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has released security updates for the month of April 2024 to remediate a record 149 flaws, two of which have come under active exploitation in the wild.\nOf the 149 flaws, three are rated Critical, 142 are rated Important, three are rated Moderate, and one is rated Low in severity. The update is aside from 21 vulnerabilities that the company addressed in its",
