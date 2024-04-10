@@ -102,6 +102,22 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMRFC6oADUSODcrvPePTBRBQq3Xf-cFLQb2deLVRcatdY5sLhxEYNSvbHpLva5aCNYzrntGjiBJiBQOTjQJalMxxJWBde3kA6sHaUdmrijB7Gs3sBvW1uNvFWUDfHpnYkAS-FYFc5JwruCeybjGocZthkx26N11CyBYhk9rii2pNupODc5iaFV9v1YAO6j/s1600/nas.png"
         },
         {
+          "id": "https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As cyber threats loom around every corner and privileged accounts become prime targets, the significance of implementing a robust Privileged Access Management (PAM) solution can't be overstated. With organizations increasingly migrating to cloud environments, the PAM Solution Market is experiencing a transformative shift toward cloud-based offerings. One Identity PAM Essentials stands",
+          "link": "https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html",
+          "publishedOn": "2024-04-09T05:30:00.000Z",
+          "wordCount": null,
+          "title": "Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity Cloud PAM Essentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD11smUfIO0s8PFvNDQhK5Z127-BDiD1zSmolA75zxKDd3fQXbRvgxjP9lTkLy6AOZPoShODIcy1fFadRTtNGb0Um3YzKXpxmdKMlRpX0KY0Ordh0_5EfZxSL0zoqkTFwMjypbnze_r257cHT41wX3wKlUPuCvEi7PtJkSHtDdACn9sGzRwZuZOh6Nqws/s1600/one.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD11smUfIO0s8PFvNDQhK5Z127-BDiD1zSmolA75zxKDd3fQXbRvgxjP9lTkLy6AOZPoShODIcy1fFadRTtNGb0Um3YzKXpxmdKMlRpX0KY0Ordh0_5EfZxSL0zoqkTFwMjypbnze_r257cHT41wX3wKlUPuCvEi7PtJkSHtDdACn9sGzRwZuZOh6Nqws/s1600/one.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/google-chrome-adds-v8-sandbox-new.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has announced support for what's called a V8 Sandbox in the Chrome web browser in an effort to address memory corruption issues.\nThe sandbox, according to V8 Security technical lead Samuel Groß, aims to prevent \"memory corruption in V8 from spreading within the host process.\"\nThe search behemoth has described V8 Sandbox as a lightweight, in-process sandbox",

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T03:12:35.664Z</updated>
+    <updated>2024-04-10T03:26:13.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -100,6 +100,16 @@ The email messages come with Scalable Vector Graphics (SVG) file attachments tha
         <updated>2024-04-09T05:46:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors are actively scanning and exploiting a pair of security flaws that are said to affect as many as 92,000 internet-exposed D-Link network-attached storage (NAS) devices.
 Tracked as CVE-2024-3272 (CVSS score: 9.8) and CVE-2024-3273 (CVSS score: 7.3), the vulnerabilities impact legacy D-Link products that have reached end-of-life (EoL) status. D-Link, in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracing the Cloud: Revolutionizing Privileged Access Management with One Identity Cloud PAM Essentials]]></title>
+        <id>https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html</id>
+        <link href="https://thehackernews.com/2024/03/embracing-cloud-revolutionizing.html"/>
+        <updated>2024-04-09T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As cyber threats loom around every corner and privileged accounts become prime targets, the significance of implementing a robust Privileged Access Management (PAM) solution can't be overstated. With organizations increasingly migrating to cloud environments, the PAM Solution Market is experiencing a transformative shift toward cloud-based offerings. One Identity PAM Essentials stands]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
