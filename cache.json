@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new Raspberry Robin campaign wave that propagates the malware through malicious Windows Script Files (WSFs) since March 2024.\n\"Historically, Raspberry Robin was known to spread through removable media like USB drives, but over time its distributors have experimented with other initial infection vectors,\" HP Wolf Security said in a report",
+          "link": "https://thehackernews.com/2024/04/raspberry-robin-returns-new-malware.html",
+          "publishedOn": "2024-04-10T13:10:00.000Z",
+          "wordCount": null,
+          "title": "Raspberry Robin Returns: New Malware Campaign Spreading Through WSF Files",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPR2sn0vNoddML83QBH_7BbXyGNeWFZp_TVTdxHG1MjcVbmY1bIilrFIqDCDXDwegO5ViM-2QpI1DYJLX33GNCphpbRs0RkzLIOm4v7gCRqHlSWut9CWkPx82IHnM_Q_nliNvro98Pk0V4N4YMqjC-ehBS75CC0joIzUsL2ffH-YodWnhro309cnFfZf8i/s1600/cyberattack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPR2sn0vNoddML83QBH_7BbXyGNeWFZp_TVTdxHG1MjcVbmY1bIilrFIqDCDXDwegO5ViM-2QpI1DYJLX33GNCphpbRs0RkzLIOm4v7gCRqHlSWut9CWkPx82IHnM_Q_nliNvro98Pk0V4N4YMqjC-ehBS75CC0joIzUsL2ffH-YodWnhro309cnFfZf8i/s1600/cyberattack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are now taking advantage of GitHub's search functionality to trick unsuspecting users looking for popular repositories into downloading spurious counterparts that serve malware.\nThe latest assault on the open-source software supply chain involves concealing malicious code within Microsoft Visual Code project files that's designed to download next-stage payloads from a remote URL,",
