@@ -2125,6 +2125,96 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une usurpation d'identité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/",
+          "publishedOn": "2024-04-10T06:29:24.000Z",
+          "wordCount": 1786,
+          "title": "CERTFR-2024-AVI-0292 : Multiples vulnérabilités dans les produits Microsoft (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/",
+          "publishedOn": "2024-04-10T06:29:23.000Z",
+          "wordCount": 1168,
+          "title": "CERTFR-2024-AVI-0291 : Multiples vulnérabilités dans Microsoft Azure (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft .Net. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0290/",
+          "publishedOn": "2024-04-10T06:29:21.000Z",
+          "wordCount": 1011,
+          "title": "CERTFR-2024-AVI-0290 : Vulnérabilité dans Microsoft .Net (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0289/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0289/",
+          "publishedOn": "2024-04-10T06:29:18.000Z",
+          "wordCount": 2790,
+          "title": "CERTFR-2024-AVI-0289 : Multiples vulnérabilités dans Microsoft Windows (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0288/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0288/",
+          "publishedOn": "2024-04-10T06:29:17.000Z",
+          "wordCount": 943,
+          "title": "CERTFR-2024-AVI-0288 : Vulnérabilité dans Microsoft Office (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/",
+          "publishedOn": "2024-04-10T06:07:15.000Z",
+          "wordCount": 1397,
+          "title": "CERTFR-2024-AVI-0287 : Multiples vulnérabilités dans les produits Fortinet (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/",
+          "publishedOn": "2024-04-10T05:52:39.000Z",
+          "wordCount": 1007,
+          "title": "CERTFR-2024-AVI-0286 : Multiples vulnérabilités dans les produits Xen (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/",
+          "publishedOn": "2024-04-10T05:48:33.000Z",
+          "wordCount": 917,
+          "title": "CERTFR-2024-AVI-0285 : Vulnérabilité dans WordPress (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/",
+          "publishedOn": "2024-04-10T05:29:09.000Z",
+          "wordCount": 1039,
+          "title": "CERTFR-2024-AVI-0284 : Multiples vulnérabilités dans les produits Adobe (10 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0283/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
