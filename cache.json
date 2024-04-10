@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are now taking advantage of GitHub's search functionality to trick unsuspecting users looking for popular repositories into downloading spurious counterparts that serve malware.\nThe latest assault on the open-source software supply chain involves concealing malicious code within Microsoft Visual Code project files that's designed to download next-stage payloads from a remote URL,",
+          "link": "https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html",
+          "publishedOn": "2024-04-10T12:38:00.000Z",
+          "wordCount": null,
+          "title": "Beware: GitHub's Fake Popularity Scam Tricking Developers into Downloading Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLB0nVVFWA6cVM7PmAUK71nDyiS9i092r-8Ky9fu_0cbyg46suqCO-PBmv9b-0mRQkITc9s1JSN4qPS8W1pNL17q8vqlhl3DtEvi4NJ47J-76m-WuEC5g5Z2Bha6hR4DUgnJ-cdu74xyCA9wBkgtMCw-4TouM8TDK1ZD6_Cm8TI9jm7ne9w4gN_W2xkVs/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYLB0nVVFWA6cVM7PmAUK71nDyiS9i092r-8Ky9fu_0cbyg46suqCO-PBmv9b-0mRQkITc9s1JSN4qPS8W1pNL17q8vqlhl3DtEvi4NJ47J-76m-WuEC5g5Z2Bha6hR4DUgnJ-cdu74xyCA9wBkgtMCw-4TouM8TDK1ZD6_Cm8TI9jm7ne9w4gN_W2xkVs/s1600/github.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The need for vCISO services is growing. SMBs and SMEs are dealing with more third-party risks, tightening regulatory demands and stringent cyber insurance requirements than ever before. However, they often lack the resources and expertise to hire an in-house security executive team. By outsourcing security and compliance leadership to a vCISO, these organizations can more easily obtain",

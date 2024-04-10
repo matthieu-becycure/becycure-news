@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-10T12:42:51.194Z</updated>
+    <updated>2024-04-10T13:11:21.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware: GitHub's Fake Popularity Scam Tricking Developers into Downloading Malware]]></title>
+        <id>https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html</id>
+        <link href="https://thehackernews.com/2024/04/beware-githubs-fake-popularity-scam.html"/>
+        <updated>2024-04-10T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are now taking advantage of GitHub's search functionality to trick unsuspecting users looking for popular repositories into downloading spurious counterparts that serve malware.
+The latest assault on the open-source software supply chain involves concealing malicious code within Microsoft Visual Code project files that's designed to download next-stage payloads from a remote URL,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hands-on Review: Cynomi AI-powered vCISO Platform]]></title>
         <id>https://thehackernews.com/2024/04/hands-on-review-cynomi-ai-powered-vciso.html</id>
