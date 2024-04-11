@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-11T22:29:25.976Z</updated>
+    <updated>2024-04-11T22:43:28.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2417,17 +2417,6 @@ The approach allows it to hide the malicious app’s icon from the home screen o
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Join Our Webinar on Protecting Human and Non-Human Identities in SaaS Platforms]]></title>
-        <id>https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html</id>
-        <link href="https://thehackernews.com/2024/03/join-our-webinar-on-protecting-human.html"/>
-        <updated>2024-03-13T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Identities are the latest sweet spot for cybercriminals, now heavily targeting SaaS applications that are especially vulnerable in this attack vector. 
-The use of SaaS applications involves a wide range of identities, including human and non-human, such as service accounts, API keys, and OAuth authorizations. Consequently, any identity in a SaaS app can create an opening for cybercriminals to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
