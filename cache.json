@@ -2189,6 +2189,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/",
+          "publishedOn": "2024-04-11T12:28:19.000Z",
+          "wordCount": 976,
+          "title": "CERTFR-2024-AVI-0299 : Multiples vulnérabilités dans les produits Citrix (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/",
+          "publishedOn": "2024-04-11T12:21:36.000Z",
+          "wordCount": 962,
+          "title": "CERTFR-2024-AVI-0298 : Vulnérabilité dans Spring Framework (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Juniper. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0297/",
+          "publishedOn": "2024-04-11T09:17:52.000Z",
+          "wordCount": 2182,
+          "title": "CERTFR-2024-AVI-0297 : Multiples vulnérabilités dans Juniper (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/",
+          "publishedOn": "2024-04-11T07:39:44.000Z",
+          "wordCount": 982,
+          "title": "CERTFR-2024-AVI-0296 : Multiples vulnérabilités dans GitLab (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0295/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, un contournement de la politique de sécurité et une atteinte à la …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0295/",
+          "publishedOn": "2024-04-11T06:34:41.000Z",
+          "wordCount": 1284,
+          "title": "CERTFR-2024-AVI-0295 : Multiples vulnérabilités dans les produits Palo Alto Networks (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0294/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0294/",
+          "publishedOn": "2024-04-11T06:26:07.000Z",
+          "wordCount": 950,
+          "title": "CERTFR-2024-AVI-0294 : Multiples vulnérabilités dans Google Chrome (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0293/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0293/",
+          "publishedOn": "2024-04-11T06:16:35.000Z",
+          "wordCount": 972,
+          "title": "CERTFR-2024-AVI-0293 : Multiples vulnérabilités dans Mitel MiCollab (11 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une usurpation d'identité et une élévation de privilèges.",
