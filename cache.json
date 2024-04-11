@@ -3033,16 +3033,6 @@
           "wordCount": 1148,
           "title": "CERTFR-2024-AVI-0213 : Multiples vulnérabilités dans les produits Intel (13 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0212/",
-          "publishedOn": "2024-03-13T11:13:46.000Z",
-          "wordCount": 1299,
-          "title": "CERTFR-2024-AVI-0212 : Multiples vulnérabilités dans les produits Fortinet (13 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
