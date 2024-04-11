@@ -3023,16 +3023,6 @@
           "wordCount": 954,
           "title": "CERTFR-2024-AVI-0214 : Multiples vulnérabilités dans les produits Stormshield Network Security (13 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0213/",
-          "publishedOn": "2024-03-13T11:26:47.000Z",
-          "wordCount": 1148,
-          "title": "CERTFR-2024-AVI-0213 : Multiples vulnérabilités dans les produits Intel (13 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
