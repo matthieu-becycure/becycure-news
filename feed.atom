@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-11T11:43:29.841Z</updated>
+    <updated>2024-04-11T12:18:19.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Python's PyPI Reveals Its Secrets]]></title>
+        <id>https://thehackernews.com/2024/04/blog-post.html</id>
+        <link href="https://thehackernews.com/2024/04/blog-post.html"/>
+        <updated>2024-04-11T11:32:00.000Z</updated>
+        <summary type="html"><![CDATA[GitGuardian is famous for its annual State of Secrets Sprawl report. In their 2023 report, they found over 10 million exposed passwords, API keys, and other credentials exposed in public GitHub commits. The takeaways in their 2024 report did not just highlight 12.8 million new exposed secrets in GitHub, but a number in the popular Python package repository PyPI.
+PyPI,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TA547 Phishing Attack Hits German Firms with Rhadamanthys Stealer]]></title>
+        <id>https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html</id>
+        <link href="https://thehackernews.com/2024/04/ta547-phishing-attack-hits-german-firms.html"/>
+        <updated>2024-04-11T11:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor tracked as TA547 has targeted dozens of German organizations with an information stealer called Rhadamanthys as part of an invoice-themed phishing campaign.
+"This is the first time researchers observed TA547 use Rhadamanthys, an information stealer that is used by multiple cybercriminal threat actors," Proofpoint said. "Additionally, the actor appeared to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Expands Spyware Alert System to Warn Users of Mercenary Attacks]]></title>
         <id>https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html</id>
