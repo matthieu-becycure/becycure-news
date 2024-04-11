@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitGuardian is famous for its annual State of Secrets Sprawl report. In their 2023 report, they found over 10 million exposed passwords, API keys, and other credentials exposed in public GitHub commits. The takeaways in their 2024 report did not just highlight 12.8 million new exposed secrets in GitHub, but a number in the popular Python package repository PyPI.\nPyPI,",
+          "link": "https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html",
+          "publishedOn": "2024-04-11T11:32:00.000Z",
+          "wordCount": null,
+          "title": "Python's PyPI Reveals Its Secrets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8y5pSJD55M4uxwnMjHQueuXyjPT11Vji1EQ28Z-UO2p6PsBmCwoSI59225cWjk919AMGPoZgjLFHLvEP65rhLeXMrBVt_Hgp02x7J99KK44kPg3ecXLPbJkYOjeabgnnTQlqNw9sFKL9CKApGVu7_iJwyK02mzlTzEfqnikCxAFLbKqzGr8Qkj5TYOa8/s1600/git.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8y5pSJD55M4uxwnMjHQueuXyjPT11Vji1EQ28Z-UO2p6PsBmCwoSI59225cWjk919AMGPoZgjLFHLvEP65rhLeXMrBVt_Hgp02x7J99KK44kPg3ecXLPbJkYOjeabgnnTQlqNw9sFKL9CKApGVu7_iJwyK02mzlTzEfqnikCxAFLbKqzGr8Qkj5TYOa8/s1600/git.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/blog-post.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "GitGuardian is famous for its annual State of Secrets Sprawl report. In their 2023 report, they found over 10 million exposed passwords, API keys, and other credentials exposed in public GitHub commits. The takeaways in their 2024 report did not just highlight 12.8 million new exposed secrets in GitHub, but a number in the popular Python package repository PyPI.\nPyPI,",
