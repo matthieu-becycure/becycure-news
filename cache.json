@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s1600/windows.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV4dtxv_xf98HfrgOKyRpA5VE76JiEIJiKcSMWFBAntGSEoYdgOsEgwPWcCEaAVYIgwCalL1y53rt2U1aA0B-CeWmfk63BX-2gLnNHnKOuFxg6lhyjaHcCnuANJ-1VKJqatPfuTRxAD-oRm9PlgF1uwrhtYxUjiMwVpizUMt0GGHexIplzl_RHjRiFcBqU/s1600/windows.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat hunters have discovered a set of seven packages on the Python Package Index (PyPI) repository that are designed to steal BIP39 mnemonic phrases used for recovering private keys of a cryptocurrency wallet.\nThe software supply chain attack campaign has been codenamed BIPClip by ReversingLabs. The packages were collectively downloaded 7,451 times prior to them being removed from",
-          "link": "https://thehackernews.com/2024/03/watch-out-these-pypi-python-packages.html",
-          "publishedOn": "2024-03-12T12:13:00.000Z",
-          "wordCount": null,
-          "title": "Watch Out: These PyPI Python Packages Can Drain Your Crypto Wallets",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s1600/bitcoin.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPk92CZZDM_djbWvmnmol9yr2x_HgrWapcSf4SIT9i__S_Gx-VFskzLpNlnWEugyvCYXTcqItISQVZZAw4S6soQiTXM5E6txbrN1a4dwHNR4LPRiEHqtib_2gZhZyaJwS_o6_VY6lrObtM-ZfUlxdsQ5ehQ0qQYy5bvKvb6nfhm_GPHi1tiN5qK0vs2Xk/s1600/bitcoin.jpg"
         }
       ]
     },
@@ -3052,16 +3036,6 @@
           "publishedOn": "2024-03-13T08:38:41.000Z",
           "wordCount": 966,
           "title": "CERTFR-2024-AVI-0204 : Multiples vulnérabilités dans Microsoft Office (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0203/",
-          "publishedOn": "2024-03-12T12:35:28.000Z",
-          "wordCount": 2264,
-          "title": "CERTFR-2024-AVI-0203 : [SCADA] Multiples vulnérabilités dans les produits Siemens (12 mars 2024)",
           "imageUrl": null
         }
       ]
