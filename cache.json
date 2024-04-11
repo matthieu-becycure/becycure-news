@@ -3121,56 +3121,6 @@
           "wordCount": 1202,
           "title": "CERTFR-2024-AVI-0209 : Multiples vulnérabilités dans les produits SAP (13 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0208/",
-          "publishedOn": "2024-03-13T08:38:50.000Z",
-          "wordCount": 1424,
-          "title": "CERTFR-2024-AVI-0208 : Multiples vulnérabilités dans les produits Microsoft (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une usurpation d'identité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0207/",
-          "publishedOn": "2024-03-13T08:38:48.000Z",
-          "wordCount": 1040,
-          "title": "CERTFR-2024-AVI-0207 : Multiples vulnérabilités dans Microsoft Azure (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0206/",
-          "publishedOn": "2024-03-13T08:38:46.000Z",
-          "wordCount": 953,
-          "title": "CERTFR-2024-AVI-0206 : Multiples vulnérabilités dans Microsoft .Net (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0205/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0205/",
-          "publishedOn": "2024-03-13T08:38:44.000Z",
-          "wordCount": 1906,
-          "title": "CERTFR-2024-AVI-0205 : Multiples vulnérabilités dans Microsoft Windows (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0204/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0204/",
-          "publishedOn": "2024-03-13T08:38:41.000Z",
-          "wordCount": 966,
-          "title": "CERTFR-2024-AVI-0204 : Multiples vulnérabilités dans Microsoft Office (13 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
