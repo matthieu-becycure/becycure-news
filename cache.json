@@ -3085,16 +3085,6 @@
           "wordCount": 1026,
           "title": "CERTFR-2024-AVI-0211 : Multiples vulnérabilités dans les produits Citrix (13 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0210/",
-          "publishedOn": "2024-03-13T09:58:40.000Z",
-          "wordCount": 952,
-          "title": "CERTFR-2024-AVI-0210 : Vulnérabilité dans Google Chrome (13 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
