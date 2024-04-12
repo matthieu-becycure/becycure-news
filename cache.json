@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iranian threat actor known as MuddyWater has been attributed to a new command-and-control (C2) infrastructure called DarkBeatC2, becoming the latest such tool in its arsenal after SimpleHarm, MuddyC3, PhonyC2, and MuddyC2Go.\n\"While occasionally switching to a new remote administration tool or changing their C2 framework, MuddyWater’s methods remain constant,\" Deep",
+          "link": "https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html",
+          "publishedOn": "2024-04-12T09:49:00.000Z",
+          "wordCount": null,
+          "title": "Iranian MuddyWater Hackers Adopt New C2 Tool 'DarkBeatC2' in Latest Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihcBUM8AYIxXMTF524TJcMOgEdG-1yd4w8cxc1nuYvIRrALE3NnoCp2X1WfciBwiHi84Dr-x02L0SDkTq1Z_1KzFjOvOjp4MXXddjawSf6MliehwLcxeo3QfxE_o06g9Ecx-ZNHDB_jEeLZiXqxiRN0K4piG-frPl5fu0_qLhC53nPLUIs1w8-d2wwwSqS/s1600/iran-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihcBUM8AYIxXMTF524TJcMOgEdG-1yd4w8cxc1nuYvIRrALE3NnoCp2X1WfciBwiHi84Dr-x02L0SDkTq1Z_1KzFjOvOjp4MXXddjawSf6MliehwLcxeo3QfxE_o06g9Ecx-ZNHDB_jEeLZiXqxiRN0K4piG-frPl5fu0_qLhC53nPLUIs1w8-d2wwwSqS/s1600/iran-hackers.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks is warning that a critical flaw impacting its PAN-OS software used in its GlobalProtect gateways is being exploited in the wild.\nTracked as CVE-2024-3400, the issue has a CVSS score of 10.0, indicating maximum severity.\n\"A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature",
+          "link": "https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html",
+          "publishedOn": "2024-04-12T08:56:00.000Z",
+          "wordCount": null,
+          "title": "Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVivcvjasugloxrypkPN7csr7xK0APkjXpPwxpgd5QSbQTzUu_VrNODlw1cTI0yNydh6m1emO0V5dB0iZRmO3oSH-dyUQAMuq0dI2oC2vzizueP8_xuPikyXpnfX-7YYSAnR8m4Ud8ayn4td34WJ8KUMtDNMgvhxcbnFE6URTgAX9vtnnZ45ZvvGnikYa/s1600/palo.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgVivcvjasugloxrypkPN7csr7xK0APkjXpPwxpgd5QSbQTzUu_VrNODlw1cTI0yNydh6m1emO0V5dB0iZRmO3oSH-dyUQAMuq0dI2oC2vzizueP8_xuPikyXpnfX-7YYSAnR8m4Ud8ayn4td34WJ8KUMtDNMgvhxcbnFE6URTgAX9vtnnZ45ZvvGnikYa/s1600/palo.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a credit card skimmer that's concealed within a fake Meta Pixel tracker script in an attempt to evade detection.\nSucuri said that the malware is injected into websites through tools that allow for custom code, such as WordPress plugins like Simple Custom CSS and JS or the \"Miscellaneous Scripts\" section of the Magento admin panel.\n\"",

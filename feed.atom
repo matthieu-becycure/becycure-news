@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T10:11:21.939Z</updated>
+    <updated>2024-04-12T10:30:03.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian MuddyWater Hackers Adopt New C2 Tool 'DarkBeatC2' in Latest Campaign]]></title>
+        <id>https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html</id>
+        <link href="https://thehackernews.com/2024/04/iranian-muddywater-hackers-adopt-new-c2.html"/>
+        <updated>2024-04-12T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[The Iranian threat actor known as MuddyWater has been attributed to a new command-and-control (C2) infrastructure called DarkBeatC2, becoming the latest such tool in its arsenal after SimpleHarm, MuddyC3, PhonyC2, and MuddyC2Go.
+"While occasionally switching to a new remote administration tool or changing their C2 framework, MuddyWater’s methods remain constant," Deep]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero-Day Alert: Critical Palo Alto Networks PAN-OS Flaw Under Active Attack]]></title>
+        <id>https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html</id>
+        <link href="https://thehackernews.com/2024/04/zero-day-alert-critical-palo-alto.html"/>
+        <updated>2024-04-12T08:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks is warning that a critical flaw impacting its PAN-OS software used in its GlobalProtect gateways is being exploited in the wild.
+Tracked as CVE-2024-3400, the issue has a CVSS score of 10.0, indicating maximum severity.
+"A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sneaky Credit Card Skimmer Disguised as Harmless Facebook Tracker]]></title>
         <id>https://thehackernews.com/2024/04/sneaky-credit-card-skimmer-disguised-as.html</id>
