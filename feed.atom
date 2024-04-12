@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T15:26:12.777Z</updated>
+    <updated>2024-04-12T15:43:34.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Popular Rust Crate liblzma-sys Compromised with XZ Utils Backdoor Files]]></title>
+        <id>https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html</id>
+        <link href="https://thehackernews.com/2024/04/popular-rust-crate-liblzma-sys.html"/>
+        <updated>2024-04-12T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA["Test files" associated with the XZ Utils backdoor have made their way to a Rust crate known as liblzma-sys, new findings from Phylum reveal.
+liblzma-sys, which has been downloaded over 21,000 times to date, provides Rust developers with bindings to the liblzma implementation, an underlying library that is part of the XZ Utils data compression software. The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Keepers: Mastering Non-Human Identity Management]]></title>
         <id>https://thehackernews.com/2024/04/code-keepers-mastering-non-human.html</id>
