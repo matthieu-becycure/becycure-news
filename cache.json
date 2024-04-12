@@ -3049,36 +3049,6 @@
           "wordCount": 1091,
           "title": "CERTFR-2024-AVI-0220 : Multiples vulnérabilités dans Cisco IOS XR (14 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0219/",
-          "publishedOn": "2024-03-14T08:50:57.000Z",
-          "wordCount": 963,
-          "title": "CERTFR-2024-AVI-0219 : Vulnérabilité dans les produits Mitel (14 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Apache Tomcat. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0218/",
-          "publishedOn": "2024-03-14T08:47:38.000Z",
-          "wordCount": 996,
-          "title": "CERTFR-2024-AVI-0218 : Multiples vulnérabilités dans Apache Tomcat (14 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans SonicWall. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0217/",
-          "publishedOn": "2024-03-14T08:45:48.000Z",
-          "wordCount": 1213,
-          "title": "CERTFR-2024-AVI-0217 : Multiples vulnérabilités dans SonicWall (14 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
