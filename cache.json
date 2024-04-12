@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday issued an emergency directive (ED 24-02) urging federal agencies to hunt for signs of compromise and enact preventive measures following the recent compromise of Microsoft's systems that led to the theft of email correspondence with the company.\nThe attack, which came to light earlier this year, has been",
+          "link": "https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html",
+          "publishedOn": "2024-04-12T04:32:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWcAMnbQAApkXdQilx9WMIE6o-hMIj8gFedh9F9D0FbEeRHX0KAO-BfaGblXEeYsnbv7XNLkPCx2gCTs9GJWSkS5-9C3GOVBRPkC5x6PLMYmgX1p_yrwoe_OMxmTIHI5ZHZUNrTCBD_Bk5d0C2x9NiSCqGTqJ0ujLGEzYNp2kygDi5_IgcNOJ62_P9J-h/s1600/email.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUWcAMnbQAApkXdQilx9WMIE6o-hMIj8gFedh9F9D0FbEeRHX0KAO-BfaGblXEeYsnbv7XNLkPCx2gCTs9GJWSkS5-9C3GOVBRPkC5x6PLMYmgX1p_yrwoe_OMxmTIHI5ZHZUNrTCBD_Bk5d0C2x9NiSCqGTqJ0ujLGEzYNp2kygDi5_IgcNOJ62_P9J-h/s1600/email.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/gitguardian-report-pypi-secrets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "GitGuardian is famous for its annual State of Secrets Sprawl report. In their 2023 report, they found over 10 million exposed passwords, API keys, and other credentials exposed in public GitHub commits. The takeaways in their 2024 report did not just highlight 12.8 million new exposed secrets in GitHub, but a number in the popular Python package repository PyPI.\nPyPI,",

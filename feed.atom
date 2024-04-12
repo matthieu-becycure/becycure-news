@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T04:30:34.718Z</updated>
+    <updated>2024-04-12T04:43:31.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Federal Agencies Ordered to Hunt for Signs of Microsoft Breach and Mitigate Risks]]></title>
+        <id>https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html</id>
+        <link href="https://thehackernews.com/2024/04/us-federal-agencies-ordered-to-hunt-for.html"/>
+        <updated>2024-04-12T04:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday issued an emergency directive (ED 24-02) urging federal agencies to hunt for signs of compromise and enact preventive measures following the recent compromise of Microsoft's systems that led to the theft of email correspondence with the company.
+The attack, which came to light earlier this year, has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0299 : Multiples vulnérabilités dans les produits Citrix (11 avril 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/</id>
