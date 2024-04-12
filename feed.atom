@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T15:43:34.449Z</updated>
+    <updated>2024-04-12T16:12:17.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -15,6 +15,67 @@
 liblzma-sys, which has been downloaded over 21,000 times to date, provides Rust developers with bindings to the liblzma implementation, an underlying library that is part of the XZ Utils data compression software. The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0305 : Multiples vulnérabilités dans IBM (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/"/>
+        <updated>2024-04-12T13:02:57.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0304 : Multiples vulnérabilités dans Debian LTS buster (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/"/>
+        <updated>2024-04-12T12:38:22.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0303 : Multiples vulnérabilités dans le noyau Linux de SUSE (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/"/>
+        <updated>2024-04-12T12:38:05.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0302 : Multiples vulnérabilités dans le noyau Linux de RedHat (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/"/>
+        <updated>2024-04-12T12:37:27.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0301 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/"/>
+        <updated>2024-04-12T12:36:56.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une exécution de code arbitraire et une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ALE-006 : Vulnérabilité dans Palo Alto Networks PAN-OS (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/</id>
+        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/"/>
+        <updated>2024-04-12T12:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.
+ L'éditeur indique que la vulnérabilité CVE-2024-3400 est utilisée dans des attaques ciblées.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -48,6 +109,16 @@ Tracked as CVE-2024-3400, the issue has a CVSS score of 10.0, indicating maximu
 "A command injection vulnerability in the GlobalProtect feature of Palo Alto Networks PAN-OS software for specific PAN-OS versions and distinct feature]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0300 : Multiples vulnérabilités dans PHP (12 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/"/>
+        <updated>2024-04-12T06:56:36.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

@@ -2189,6 +2189,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0305/",
+          "publishedOn": "2024-04-12T13:02:57.000Z",
+          "wordCount": 1779,
+          "title": "CERTFR-2024-AVI-0305 : Multiples vulnérabilités dans IBM (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits DebianLTS. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0304/",
+          "publishedOn": "2024-04-12T12:38:22.000Z",
+          "wordCount": 947,
+          "title": "CERTFR-2024-AVI-0304 : Multiples vulnérabilités dans Debian LTS buster (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un déni de service, un contournement de la politique de sécurité et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0303/",
+          "publishedOn": "2024-04-12T12:38:05.000Z",
+          "wordCount": 1326,
+          "title": "CERTFR-2024-AVI-0303 : Multiples vulnérabilités dans le noyau Linux de SUSE (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0302/",
+          "publishedOn": "2024-04-12T12:37:27.000Z",
+          "wordCount": 989,
+          "title": "CERTFR-2024-AVI-0302 : Multiples vulnérabilités dans le noyau Linux de RedHat (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une exécution de code arbitraire et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0301/",
+          "publishedOn": "2024-04-12T12:36:56.000Z",
+          "wordCount": 1276,
+          "title": "CERTFR-2024-AVI-0301 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Palo Alto Networks PAN-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.\n L'éditeur indique que la vulnérabilité CVE-2024-3400 est utilisée dans des attaques ciblées.",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-006/",
+          "publishedOn": "2024-04-12T12:28:06.000Z",
+          "wordCount": 1016,
+          "title": "CERTFR-2024-ALE-006 : Vulnérabilité dans Palo Alto Networks PAN-OS (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans PHP. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0300/",
+          "publishedOn": "2024-04-12T06:56:36.000Z",
+          "wordCount": 993,
+          "title": "CERTFR-2024-AVI-0300 : Multiples vulnérabilités dans PHP (12 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.",
