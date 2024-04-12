@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T16:43:42.673Z</updated>
+    <updated>2024-04-12T17:10:57.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2469,17 +2469,6 @@ This article details how CISOs are]]></summary>
 The attacks, which take the form of phishing emails, targeted Spanish-speaking users in the manufacturing industry based in North America, eSentire said.
 
 Blind Eagle (aka APT-C-36) is a financially motivated threat actor&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DarkGate Malware Exploits Recently Patched Microsoft Flaw in Zero-Day Attack]]></title>
-        <id>https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html</id>
-        <link href="https://thehackernews.com/2024/03/darkgate-malware-exploits-recently.html"/>
-        <updated>2024-03-14T04:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A DarkGate malware campaign observed in mid-January 2024 leveraged a recently patched security flaw in Microsoft Windows as a zero-day using bogus software installers.
-“During this campaign, users were lured using PDFs that contained Google DoubleClick Digital Marketing (DDM) open redirects that led unsuspecting victims to compromised sites hosting the Microsoft Windows SmartScreen bypass]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
