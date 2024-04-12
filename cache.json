@@ -3079,16 +3079,6 @@
           "wordCount": 1213,
           "title": "CERTFR-2024-AVI-0217 : Multiples vulnérabilités dans SonicWall (14 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0216/",
-          "publishedOn": "2024-03-14T07:42:48.000Z",
-          "wordCount": 1014,
-          "title": "CERTFR-2024-AVI-0216 : Multiples vulnérabilités dans les produits Xen (14 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
