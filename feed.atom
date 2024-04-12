@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-12T03:25:57.103Z</updated>
+    <updated>2024-04-12T03:43:33.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2353,16 +2353,6 @@ Blind Eagle (aka APT-C-36) is a financially motivated threat actor&]]></summary
         <updated>2024-03-14T04:21:00.000Z</updated>
         <summary type="html"><![CDATA[Fortinet has warned of a critical security flaw impacting its FortiClientEMS software that could allow attackers to achieve code execution on affected systems.
 "An improper neutralization of special elements used in an SQL Command ('SQL Injection') vulnerability [CWE-89] in FortiClientEMS may allow an unauthenticated attacker to execute unauthorized code or commands via specifically crafted]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demystifying a Common Cybersecurity Myth]]></title>
-        <id>https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html</id>
-        <link href="https://thehackernews.com/2024/03/demystifying-common-cybersecurity-myth.html"/>
-        <updated>2024-03-13T15:39:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the most common misconceptions in file upload cybersecurity is that certain tools are “enough” on their own—this is simply not the case. In our latest whitepaper OPSWAT CEO and Founder, Benny Czarny, takes a comprehensive look at what it takes to prevent malware threats in today’s ever-evolving file upload security landscape, and a big part of that is understanding where the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
