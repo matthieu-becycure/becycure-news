@@ -3003,26 +3003,6 @@
           "wordCount": 1014,
           "title": "CERTFR-2024-AVI-0216 : Multiples vulnérabilités dans les produits Xen (14 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Adobe ColdFusion. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0215/",
-          "publishedOn": "2024-03-13T13:35:39.000Z",
-          "wordCount": 952,
-          "title": "CERTFR-2024-AVI-0215 : Vulnérabilité dans Adobe ColdFusion (13 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Network Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0214/",
-          "publishedOn": "2024-03-13T13:20:23.000Z",
-          "wordCount": 954,
-          "title": "CERTFR-2024-AVI-0214 : Multiples vulnérabilités dans les produits Stormshield Network Security (13 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
