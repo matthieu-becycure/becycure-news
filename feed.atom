@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-13T01:22:17.146Z</updated>
+    <updated>2024-04-13T01:54:00.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2340,17 +2340,6 @@ According to new research published by Salt Labs, security flaws found directl
         <updated>2024-03-15T06:18:00.000Z</updated>
         <summary type="html"><![CDATA[Chinese users looking for legitimate software such as Notepad++ and VNote on search engines like Baidu are being targeted with malicious ads and bogus links to distribute trojanized versions of the software and ultimately deploy Geacon, a Golang-based implementation of Cobalt Strike.
 “The malicious site found in the notepad++ search is distributed through an advertisement block,” Kaspersky]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LockBit Ransomware Hacker Ordered to Pay $860,000 After Guilty Plea in Canada]]></title>
-        <id>https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html</id>
-        <link href="https://thehackernews.com/2024/03/lockbit-ransomware-hacker-ordered-to.html"/>
-        <updated>2024-03-14T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[A 34-year-old Russian-Canadian national has been sentenced to nearly four years in jail in Canada for his participation in the LockBit global ransomware operation.
-Mikhail Vasiliev, an Ontario resident, was originally arrested in November 2022 and charged by the U.S. Department of Justice (DoJ) with "conspiring with others to intentionally damage protected computers and to transmit]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
