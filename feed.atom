@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-13T18:10:32.233Z</updated>
+    <updated>2024-04-13T18:23:35.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2369,17 +2369,6 @@ According to new research published by Salt Labs, security flaws found directl
         <summary type="html"><![CDATA[Google on Thursday announced an enhanced version of Safe Browsing to provide real-time, privacy-preserving URL protection and safeguard users from visiting potentially malicious sites.
 “The Standard protection mode for Chrome on desktop and iOS will check sites against Google’s server-side list of known bad sites in real-time,” Google’s Jonathan Li and Jasika Bawa said.
 “If we]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Ads Targeting Chinese Users with Fake Notepad++ and VNote Installers]]></title>
-        <id>https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html</id>
-        <link href="https://thehackernews.com/2024/03/malicious-ads-targeting-chinese-users.html"/>
-        <updated>2024-03-15T06:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Chinese users looking for legitimate software such as Notepad++ and VNote on search engines like Baidu are being targeted with malicious ads and bogus links to distribute trojanized versions of the software and ultimately deploy Geacon, a Golang-based implementation of Cobalt Strike.
-“The malicious site found in the notepad++ search is distributed through an advertisement block,” Kaspersky]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
