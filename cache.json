@@ -2951,16 +2951,6 @@
           "wordCount": 1005,
           "title": "CERTFR-2024-AVI-0225 : Multiples vulnérabilités dans Juniper Secure Analytics (15 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, une usurpation d'identité et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0224/",
-          "publishedOn": "2024-03-15T08:11:49.000Z",
-          "wordCount": 1012,
-          "title": "CERTFR-2024-AVI-0224 : Multiples vulnérabilités dans Microsoft Edge (15 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
