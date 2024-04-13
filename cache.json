@@ -2971,16 +2971,6 @@
           "wordCount": 946,
           "title": "CERTFR-2024-AVI-0223 : Vulnérabilité dans Spring Framework (15 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Synology Router Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0222/",
-          "publishedOn": "2024-03-14T13:20:33.000Z",
-          "wordCount": 958,
-          "title": "CERTFR-2024-AVI-0222 : Vulnérabilité dans Synology Router Manager (14 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
