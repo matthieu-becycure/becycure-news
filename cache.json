@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A former security engineer has been sentenced to three years in prison in the U.S. for charges relating to hacking two decentralized cryptocurrency exchanges in July 2022 and stealing over $12.3 million.\nShakeeb Ahmed, the defendant in question, pled guilty to one count of computer fraud in December 2023 following his arrest in July.\n\"At the time of both attacks,",
+          "link": "https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html",
+          "publishedOn": "2024-04-13T14:25:00.000Z",
+          "wordCount": null,
+          "title": "Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1B6GoV7QO_wl0SYV_PlTlE0cZij3kCXSJkTteoRbGcvltYOfRD_J3TlpHc7MGA792R7INv-Vat5ntxwXzhA8CT-J455z58_aVqdDNV1peuU13Hs0pfx37UQzoJenh9pLmEtbLFmN3UqXXO_u65kXwGliQcjJesh90OoZ3ixnLgzrXU0tuIKB-bSSOt-Lg/s1600/bitcoin.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1B6GoV7QO_wl0SYV_PlTlE0cZij3kCXSJkTteoRbGcvltYOfRD_J3TlpHc7MGA792R7INv-Vat5ntxwXzhA8CT-J455z58_aVqdDNV1peuU13Hs0pfx37UQzoJenh9pLmEtbLFmN3UqXXO_u65kXwGliQcjJesh90OoZ3ixnLgzrXU0tuIKB-bSSOt-Lg/s1600/bitcoin.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Friday announced sanctions against an official associated with Hamas for his involvement in cyber influence operations.\nHudhayfa Samir ‘Abdallah al-Kahlut, 39, also known as Abu Ubaida, has served as the public spokesperson of Izz al-Din al-Qassam Brigades, the military wing of Hamas, since at least 2007.\n\"He publicly",
+          "link": "https://thehackernews.com/2024/04/us-treasury-hamas-spokesperson-for.html",
+          "publishedOn": "2024-04-13T13:58:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Treasury Hamas Spokesperson for Cyber Influence Operations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvnrE-VFh5OYtv1xvfM9ISUeY7FMrJ5beOTw9U0tI0BIjDrQctBmyWUDpRuXAUIN13im9aCHb_i38bt-Ut1NI0IIoK_fbkXxZlbGZYTF-hugWGBwB13n5uymmWg-QkvVAHhkArvXF2yAoPtbSvpUmFbnffdA7VP4P1P1HllhOW3k5R5zppCGCOVaVTMS7/s1600/hamas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbvnrE-VFh5OYtv1xvfM9ISUeY7FMrJ5beOTw9U0tI0BIjDrQctBmyWUDpRuXAUIN13im9aCHb_i38bt-Ut1NI0IIoK_fbkXxZlbGZYTF-hugWGBwB13n5uymmWg-QkvVAHhkArvXF2yAoPtbSvpUmFbnffdA7VP4P1P1HllhOW3k5R5zppCGCOVaVTMS7/s1600/hamas.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/hackers-deploy-python-backdoor-in-palo.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been exploiting the newly disclosed zero-day flaw in Palo\n  Alto Networks PAN-OS software dating back to March 26, 2024, nearly three\n  weeks before it came to light yesterday.\n\n\n\n  The network security company's Unit 42 division is tracking the activity under the name Operation MidnightEclipse, attributing it as the work of a single threat actor of",
