@@ -2084,22 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k8kuo0Gqkw8CCM95JlOx7P4cUnDM-SnjUyN3OrZbAkzJnr1c_CPtOMYgL3-DRUQV8PSAPZwhQaD8BW-J46-7iyoRNFxzKYemHGp2IGSGFMxBg-xIFuz93lm_ZCum55AB3rNp6Y3Fc6F_vUlBcA_ZlCmkSSzRGkQE_OCkfD7uir7giw5NjrVj4NU6gbcM/s1600/chatgpt.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6k8kuo0Gqkw8CCM95JlOx7P4cUnDM-SnjUyN3OrZbAkzJnr1c_CPtOMYgL3-DRUQV8PSAPZwhQaD8BW-J46-7iyoRNFxzKYemHGp2IGSGFMxBg-xIFuz93lm_ZCum55AB3rNp6Y3Fc6F_vUlBcA_ZlCmkSSzRGkQE_OCkfD7uir7giw5NjrVj4NU6gbcM/s1600/chatgpt.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google on Thursday announced an enhanced version of Safe Browsing to provide real-time, privacy-preserving URL protection and safeguard users from visiting potentially malicious sites.\n“The Standard protection mode for Chrome on desktop and iOS will check sites against Google’s server-side list of known bad sites in real-time,” Google’s Jonathan Li and Jasika Bawa said.\n“If we",
-          "link": "https://thehackernews.com/2024/03/google-introduces-enhanced-real-time.html",
-          "publishedOn": "2024-03-15T07:50:00.000Z",
-          "wordCount": null,
-          "title": "Google Introduces Enhanced Real-Time URL Protection for Chrome Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OHQmxR5GWxD80JEXkZbgkWIyh0vNd0ZWLKJEeEVbGWjtQOoSbJV78cYXgdZ6r8NaEV0iBTU-XI8eran-RnhBw-NElc0WpsT4BgoqGRo_tJojZ1OYm7cznyxDsRpEtrKreeBQb9zOD2WVJXSTKJCl4TVSRY5v8c4ZDFEFfnMhCRYMMcepGVh6iR7QsEM9/s1600/url.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8OHQmxR5GWxD80JEXkZbgkWIyh0vNd0ZWLKJEeEVbGWjtQOoSbJV78cYXgdZ6r8NaEV0iBTU-XI8eran-RnhBw-NElc0WpsT4BgoqGRo_tJojZ1OYm7cznyxDsRpEtrKreeBQb9zOD2WVJXSTKJCl4TVSRY5v8c4ZDFEFfnMhCRYMMcepGVh6iR7QsEM9/s1600/url.jpg"
         }
       ]
     },
@@ -2976,16 +2960,6 @@
           "publishedOn": "2024-03-15T08:11:49.000Z",
           "wordCount": 1012,
           "title": "CERTFR-2024-AVI-0224 : Multiples vulnérabilités dans Microsoft Edge (15 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0223/",
-          "publishedOn": "2024-03-15T08:08:35.000Z",
-          "wordCount": 946,
-          "title": "CERTFR-2024-AVI-0223 : Vulnérabilité dans Spring Framework (15 mars 2024)",
           "imageUrl": null
         }
       ]
