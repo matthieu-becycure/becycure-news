@@ -2052,22 +2052,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHUatPWHbLuUh0uKxlbNZFAneQoVE-g-TE2WGdyoWbkhbQjUCRTK53LbqQCznca94Q2dpJHjTCyzTsq_4exzuGD0OqKVNAtrWtTnQp4cs27VY0eOiNOj01jJGInVsOCU7JwL0IyADdROLLb9qM7U8NSIWJFIDQP2xxUMNgZ8-fVil_4mDnZbeO1sBnacwc/s1600/crack.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHUatPWHbLuUh0uKxlbNZFAneQoVE-g-TE2WGdyoWbkhbQjUCRTK53LbqQCznca94Q2dpJHjTCyzTsq_4exzuGD0OqKVNAtrWtTnQp4cs27VY0eOiNOj01jJGInVsOCU7JwL0IyADdROLLb9qM7U8NSIWJFIDQP2xxUMNgZ8-fVil_4mDnZbeO1sBnacwc/s1600/crack.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A group of researchers has discovered a new data leakage attack impacting modern CPU architectures supporting speculative execution.\nDubbed GhostRace (CVE-2024-2193), it is a variation of the transient execution CPU vulnerability known as Spectre v1 (CVE-2017-5753). The approach combines speculative execution and race conditions.\n\"All the common synchronization primitives implemented",
-          "link": "https://thehackernews.com/2024/03/ghostrace-new-data-leak-vulnerability.html",
-          "publishedOn": "2024-03-15T17:46:00.000Z",
-          "wordCount": null,
-          "title": "GhostRace – New Data Leak Vulnerability Affects Modern CPUs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkxcEiHTr6Wr9nWg6BzdtUqQh1zhg2VM3AQ6qonV8v_PzX-kYC_hiHehAm6OouQjF39tDcLrMFtYWMuzJ00K4Tl3SMMKIuGke1tqULZ6kG1C8OWR5sKln4_IwjTUosAwn3yYqVGvkoK5-9az9v5a6WrFx1i7LPJo0SJc6l5bPDxnxihgyIQDxCw57pjk5o/s1600/core.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkxcEiHTr6Wr9nWg6BzdtUqQh1zhg2VM3AQ6qonV8v_PzX-kYC_hiHehAm6OouQjF39tDcLrMFtYWMuzJ00K4Tl3SMMKIuGke1tqULZ6kG1C8OWR5sKln4_IwjTUosAwn3yYqVGvkoK5-9az9v5a6WrFx1i7LPJo0SJc6l5bPDxnxihgyIQDxCw57pjk5o/s1600/core.jpg"
         }
       ]
     },
