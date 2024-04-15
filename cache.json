@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A security flaw impacting the Lighttpd web server used in baseboard management controllers (BMCs) has remained unpatched by device vendors like Intel and Lenovo, new findings from Binarly reveal.\nWhile the original shortcoming was discovered and patched by the Lighttpd maintainers way back in August 2018 with version 1.4.51, the lack of a CVE identifier or an advisory meant that",
+          "link": "https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html",
+          "publishedOn": "2024-04-15T16:51:00.000Z",
+          "wordCount": null,
+          "title": "Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNbRMAwqrhrjFAKOv34RDTVBmqqtADrwcMZRih-wPxEGQzb6QakJVbPrhjJT0g1TQl9i95Qe0-dCiIEdUE0hfC7AZ4LuLyxVhg0FDvUGNrbikcbizIRs7TPyU2bOcEo2lDCkjxCZJG4oX4rVmHVtPdH7EI3FPCCbnPjuoVzeLx_kC57jVFz4_CWYipfCzn/s1600/bmc.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNbRMAwqrhrjFAKOv34RDTVBmqqtADrwcMZRih-wPxEGQzb6QakJVbPrhjJT0g1TQl9i95Qe0-dCiIEdUE0hfC7AZ4LuLyxVhg0FDvUGNrbikcbizIRs7TPyU2bOcEo2lDCkjxCZJG4oX4rVmHVtPdH7EI3FPCCbnPjuoVzeLx_kC57jVFz4_CWYipfCzn/s1600/bmc.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Imagine a world where the software that powers your favorite apps, secures your online transactions, and keeps your digital life could be outsmarted and taken over by a cleverly disguised piece of code. This isn't a plot from the latest cyber-thriller; it's actually been a reality for years now. How this will change – in a positive or negative direction – as artificial intelligence (AI) takes on",
