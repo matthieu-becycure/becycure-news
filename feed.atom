@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-15T13:24:06.500Z</updated>
+    <updated>2024-04-15T13:43:50.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead]]></title>
+        <id>https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html</id>
+        <link href="https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html"/>
+        <updated>2024-04-15T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a world where the software that powers your favorite apps, secures your online transactions, and keeps your digital life could be outsmarted and taken over by a cleverly disguised piece of code. This isn't a plot from the latest cyber-thriller; it's actually been a reality for years now. How this will change – in a positive or negative direction – as artificial intelligence (AI) takes on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html</id>
+        <link href="https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html"/>
+        <updated>2024-04-15T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as Muddled Libra has been observed actively targeting software-as-a-service (SaaS) applications and cloud service provider (CSP) environments in a bid to exfiltrate sensitive data.
+"Organizations often store a variety of data in SaaS applications and use services from CSPs," Palo Alto Networks Unit 42 said in a report published last week.
+"The threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution]]></title>
         <id>https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html</id>

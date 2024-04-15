@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Imagine a world where the software that powers your favorite apps, secures your online transactions, and keeps your digital life could be outsmarted and taken over by a cleverly disguised piece of code. This isn't a plot from the latest cyber-thriller; it's actually been a reality for years now. How this will change – in a positive or negative direction – as artificial intelligence (AI) takes on",
+          "link": "https://thehackernews.com/2024/04/ai-copilot-launching-innovation-rockets.html",
+          "publishedOn": "2024-04-15T13:30:00.000Z",
+          "wordCount": null,
+          "title": "AI Copilot: Launching Innovation Rockets, But Beware of the Darkness Ahead",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxApTttTazM1RNLx7XUgc7GyEv2RIChZOWzZspIM8HFOQC4KQertbQ7U9dUF5Z-fkM_OGDRDk3LlpI0Vzyp-g6rvJyxrd6T_Y9qpk6bQzLcMpjOzpiKzf8F_zJ4H9_rASFiuLN_XodnxDvwtwlMn2JhwolXd-pHxveL1ArN7hArbHgzAq6JbCJ93M__iY/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Muddled Libra has been observed actively targeting software-as-a-service (SaaS) applications and cloud service provider (CSP) environments in a bid to exfiltrate sensitive data.\n\"Organizations often store a variety of data in SaaS applications and use services from CSPs,\" Palo Alto Networks Unit 42 said in a report published last week.\n\"The threat",
+          "link": "https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html",
+          "publishedOn": "2024-04-15T13:29:00.000Z",
+          "wordCount": null,
+          "title": "Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY4QgJVIKWaChCqvYFr75IVLZvUnsS6kjwWhk3LQAiRSQvJRMgHCmJ_2oh2Che-jGwwx8WXbXw3mPJUTE91VKkXH4iEAudnCwyBj6RPYw6hq1YLLBCFUuJOziPPv0Yt3Ow4dWe2ar5fFmQgOLaYXiIoKWCFxDLLHgfriICAfFGs56uYI5L2z3xodny9aZY/s1600/cloud-data-security.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY4QgJVIKWaChCqvYFr75IVLZvUnsS6kjwWhk3LQAiRSQvJRMgHCmJ_2oh2Che-jGwwx8WXbXw3mPJUTE91VKkXH4iEAudnCwyBj6RPYw6hq1YLLBCFUuJOziPPv0Yt3Ow4dWe2ar5fFmQgOLaYXiIoKWCFxDLLHgfriICAfFGs56uYI5L2z3xodny9aZY/s1600/cloud-data-security.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "To minimize the risk of privilege misuse, a trend in the privileged access management (PAM) solution market involves implementing just-in-time (JIT) privileged access. This approach to privileged identity management aims to mitigate the risks associated with prolonged high-level access by granting privileges temporarily and only when necessary, rather than providing users with",
