@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "To minimize the risk of privilege misuse, a trend in the privileged access management (PAM) solution market involves implementing just-in-time (JIT) privileged access. This approach to privileged identity management aims to mitigate the risks associated with prolonged high-level access by granting privileges temporarily and only when necessary, rather than providing users with",
+          "link": "https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html",
+          "publishedOn": "2024-04-15T10:21:00.000Z",
+          "wordCount": null,
+          "title": "Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzXSjd-H1ln6niplUaXIKPlWTiCFAbr95xgekcgtTYCEEZAVVqNlTiFjcazuGINlRy1sLhi_SW8M58SU6NGDpmtKBdMzgR-H7KqOVXc7F_wWWPC8_V8-e6Zgg5nnKq98o2docrAbdP_bgiL6Qt8WGym34cn_q-7iIdlYjTA5zreFvWJYnR60HT23rXMhU/s1600/oneidentity.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzXSjd-H1ln6niplUaXIKPlWTiCFAbr95xgekcgtTYCEEZAVVqNlTiFjcazuGINlRy1sLhi_SW8M58SU6NGDpmtKBdMzgR-H7KqOVXc7F_wWWPC8_V8-e6Zgg5nnKq98o2docrAbdP_bgiL6Qt8WGym34cn_q-7iIdlYjTA5zreFvWJYnR60HT23rXMhU/s1600/oneidentity.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a \"renewed\" cyber espionage campaign targeting users in South Asia with the aim of delivering an Apple iOS spyware implant called LightSpy.\n\"The latest iteration of LightSpy, dubbed 'F_Warehouse,' boasts a modular framework with extensive spying features,\" the BlackBerry Threat Research and Intelligence Team said in a report published last",

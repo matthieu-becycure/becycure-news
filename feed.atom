@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-15T11:23:33.310Z</updated>
+    <updated>2024-04-15T11:43:30.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution]]></title>
+        <id>https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html</id>
+        <link href="https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html"/>
+        <updated>2024-04-15T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[To minimize the risk of privilege misuse, a trend in the privileged access management (PAM) solution market involves implementing just-in-time (JIT) privileged access. This approach to privileged identity management aims to mitigate the risks associated with prolonged high-level access by granting privileges temporarily and only when necessary, rather than providing users with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users]]></title>
         <id>https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html</id>
