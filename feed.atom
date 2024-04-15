@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-15T08:11:03.609Z</updated>
+    <updated>2024-04-15T08:24:29.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html</id>
+        <link href="https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html"/>
+        <updated>2024-04-15T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks has released hotfixes to address a maximum-severity security flaw impacting PAN-OS software that has come under active exploitation in the wild.
+Tracked as CVE-2024-3400 (CVSS score: 10.0), the critical vulnerability is a case of command injection in the GlobalProtect feature that an unauthenticated attacker could weaponize to execute arbitrary code with root]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-Security Engineer Jailed 3 Years for $12.3 Million Crypto Exchange Thefts]]></title>
         <id>https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html</id>

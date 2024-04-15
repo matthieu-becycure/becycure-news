@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has released hotfixes to address a maximum-severity security flaw impacting PAN-OS software that has come under active exploitation in the wild.\nTracked as CVE-2024-3400 (CVSS score: 10.0), the critical vulnerability is a case of command injection in the GlobalProtect feature that an unauthenticated attacker could weaponize to execute arbitrary code with root",
+          "link": "https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html",
+          "publishedOn": "2024-04-15T08:17:00.000Z",
+          "wordCount": null,
+          "title": "Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFk2Gn7nORhsJaYtMIldc0KGin9sMytX05vZYuVfTKPE0ObMQHdxbUUIoS7FJZ2W3MNxttaUOlHj5zq3TJWgwE172SNNbbrRk15q_VXL1cEGlLFRPA91tXwaz65jzO11j7Ij7S7kKLua_7hG38Ai1C8knxtAffOcsNFvwip9-Z0-QsUOl4Hu6-UnWKh1Dv/s1600/palo-alto-networks.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFk2Gn7nORhsJaYtMIldc0KGin9sMytX05vZYuVfTKPE0ObMQHdxbUUIoS7FJZ2W3MNxttaUOlHj5zq3TJWgwE172SNNbbrRk15q_VXL1cEGlLFRPA91tXwaz65jzO11j7Ij7S7kKLua_7hG38Ai1C8knxtAffOcsNFvwip9-Z0-QsUOl4Hu6-UnWKh1Dv/s1600/palo-alto-networks.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ex-security-engineer-jailed-3-years-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A former security engineer has been sentenced to three years in prison in the U.S. for charges relating to hacking two decentralized cryptocurrency exchanges in July 2022 and stealing over $12.3 million.\nShakeeb Ahmed, the defendant in question, pled guilty to one count of computer fraud in December 2023 following his arrest in July.\n\"At the time of both attacks,",
