@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The maintainers of the PuTTY Secure Shell (SSH) and Telnet client are alerting users of a critical vulnerability impacting versions from 0.68 through 0.80 that could be exploited to achieve full recovery of NIST P-521 (ecdsa-sha2-nistp521) private keys.\nThe flaw has been assigned the CVE identifier CVE-2024-31497, with the discovery credited to researchers Fabian Bäumer and Marcus",
+          "link": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
+          "publishedOn": "2024-04-16T11:14:00.000Z",
+          "wordCount": null,
+          "title": "Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's rapidly evolving digital landscape, organizations face an increasingly complex array of cybersecurity threats. The proliferation of cloud services and remote work arrangements has heightened the vulnerability of digital identities to exploitation, making it imperative for businesses to fortify their identity security measures.\nOur recent research report, The Identity Underground",
+          "link": "https://thehackernews.com/2024/04/identity-in-shadows-shedding-light-on.html",
+          "publishedOn": "2024-04-16T11:10:00.000Z",
+          "wordCount": null,
+          "title": "Identity in the Shadows: Shedding Light on Cybersecurity's Unseen Threats",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s1600/silverfort.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN60ahvPWiEy_xGWgklhUBWXvA-oaOfnzI6zZvumNozUDN6L2NIN_zwfqt2nEmZJEyDtkUsIQbFqX31xFHIcpuSR4YcbJA6QYhvpW4T47hAUWBj0s_hD0YVVkmIuw8LSUK5MK9eofaYLTx_LQqzb_RjIuwLrtYyyrH-lpQlgBZql_DFFKGyz-HmQ8HaZk/s1600/silverfort.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Federal Trade Commission (FTC) has ordered the mental telehealth company Cerebral from using or disclosing personal data for advertising purposes.\nIt has also been fined more than $7 million over charges that it revealed users' sensitive personal health information and other data to third parties for advertising purposes and failed to honor its easy cancellation policies.\n\"Cerebral and",
