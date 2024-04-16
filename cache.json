@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor tracked as TA558 has been observed leveraging steganography as an obfuscation technique to deliver a wide range of malware such as Agent Tesla, FormBook, Remcos RAT, LokiBot, GuLoader, Snake Keylogger, and XWorm, among others.\n\"The group made extensive use of steganography by sending VBSs, PowerShell code, as well as RTF documents with an embedded exploit, inside",
+          "link": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
+          "publishedOn": "2024-04-16T13:39:00.000Z",
+          "wordCount": null,
+          "title": "TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dpEanpWyEH3zaUKGMy5cRsLq1qxhPKHoGUCH4uUm5Q57dRuw5ufSzGlATOMH9bGr0hOoa77NWKxSgF0fcKKdFmJmpqkgu4B84mNjrB7zfF6SjtxgMDJwsQG7hKCAQ7evjGYH86F0_XHrGD_Eee1_gzH4RriulJ0OBUfBDdX4fmzhPqoc9X37pW0BO5VA/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_dpEanpWyEH3zaUKGMy5cRsLq1qxhPKHoGUCH4uUm5Q57dRuw5ufSzGlATOMH9bGr0hOoa77NWKxSgF0fcKKdFmJmpqkgu4B84mNjrB7zfF6SjtxgMDJwsQG7hKCAQ7evjGYH86F0_XHrGD_Eee1_gzH4RriulJ0OBUfBDdX4fmzhPqoc9X37pW0BO5VA/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New cybersecurity research has found that command-line interface (CLI) tools from Amazon Web Services (AWS) and Google Cloud can expose sensitive credentials in build logs, posing significant risks to organizations.\nThe vulnerability has been codenamed LeakyCLI by cloud security firm Orca.\n\"Some commands on Azure CLI, AWS CLI, and Google Cloud CLI can expose sensitive information in",
+          "link": "https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html",
+          "publishedOn": "2024-04-16T13:26:00.000Z",
+          "wordCount": null,
+          "title": "AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQ61q1unaO9nkqOW0K1z3EHh_y570jaSgouXAlR1rG01KYF40mzLUX25xa6EKLgay3bswJMsLNB1v_5ew0M3wtjM0zAjJ1KPV2XDDcuwaGgP3k3ZwDs8XiUrg8uDsO9-V7oGsk6_zJixelpe-UtNY15ozlCZG6it-JdO6aA7WsOhNP_XzYLtq11GnbYls/s1600/password.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQ61q1unaO9nkqOW0K1z3EHh_y570jaSgouXAlR1rG01KYF40mzLUX25xa6EKLgay3bswJMsLNB1v_5ew0M3wtjM0zAjJ1KPV2XDDcuwaGgP3k3ZwDs8XiUrg8uDsO9-V7oGsk6_zJixelpe-UtNY15ozlCZG6it-JdO6aA7WsOhNP_XzYLtq11GnbYls/s1600/password.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The maintainers of the PuTTY Secure Shell (SSH) and Telnet client are alerting users of a critical vulnerability impacting versions from 0.68 through 0.80 that could be exploited to achieve full recovery of NIST P-521 (ecdsa-sha2-nistp521) private keys.\nThe flaw has been assigned the CVE identifier CVE-2024-31497, with the discovery credited to researchers Fabian Bäumer and Marcus",

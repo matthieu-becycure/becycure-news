@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-16T14:28:21.643Z</updated>
+    <updated>2024-04-16T14:43:38.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TA558 Hackers Weaponize Images for Wide-Scale Malware Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html</id>
+        <link href="https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html"/>
+        <updated>2024-04-16T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor tracked as TA558 has been observed leveraging steganography as an obfuscation technique to deliver a wide range of malware such as Agent Tesla, FormBook, Remcos RAT, LokiBot, GuLoader, Snake Keylogger, and XWorm, among others.
+"The group made extensive use of steganography by sending VBSs, PowerShell code, as well as RTF documents with an embedded exploit, inside]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs]]></title>
+        <id>https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html</id>
+        <link href="https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html"/>
+        <updated>2024-04-16T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[New cybersecurity research has found that command-line interface (CLI) tools from Amazon Web Services (AWS) and Google Cloud can expose sensitive credentials in build logs, posing significant risks to organizations.
+The vulnerability has been codenamed LeakyCLI by cloud security firm Orca.
+"Some commands on Azure CLI, AWS CLI, and Google Cloud CLI can expose sensitive information in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0310 : Vulnérabilité dans les produits Juniper (16 avril 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/</id>
