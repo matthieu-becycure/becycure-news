@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-16T08:13:17.058Z</updated>
+    <updated>2024-04-16T08:28:41.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown]]></title>
+        <id>https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html</id>
+        <link href="https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html"/>
+        <updated>2024-04-16T07:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Two individuals have been arrested in Australia and the U.S. in connection with an alleged scheme to develop and distribute a remote access trojan called Hive RAT (previously Firebird).
+The U.S. Justice Department (DoJ) said the malware "gave the malware purchasers control over victim computers and enabled them to access victims' private communications, their login credentials, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel and Lenovo BMCs Contain Unpatched Lighttpd Server Flaw]]></title>
         <id>https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html</id>

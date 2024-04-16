@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two individuals have been arrested in Australia and the U.S. in connection with an alleged scheme to develop and distribute a remote access trojan called Hive RAT (previously Firebird).\nThe U.S. Justice Department (DoJ) said the malware \"gave the malware purchasers control over victim computers and enabled them to access victims' private communications, their login credentials, and",
+          "link": "https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html",
+          "publishedOn": "2024-04-16T07:33:00.000Z",
+          "wordCount": null,
+          "title": "Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGyXYKKxLIbKsQiWXmfsSH-PJWKKyAz5LgCHvVe9yE5yBF0nOsAVQjmgqv5cm1DGJBS0UiclHeltOYPmaWiWSxVZCfaKkOXNONkbkATk8Sjm2h_elIuBNxswiu_XGFjC4-69yhROiXsMcxmKPGav3xNxzlL6ShHI4QlkDGw9NdjDrr_s-YvXIwpMeaiEsR/s1600/crime.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGyXYKKxLIbKsQiWXmfsSH-PJWKKyAz5LgCHvVe9yE5yBF0nOsAVQjmgqv5cm1DGJBS0UiclHeltOYPmaWiWSxVZCfaKkOXNONkbkATk8Sjm2h_elIuBNxswiu_XGFjC4-69yhROiXsMcxmKPGav3xNxzlL6ShHI4QlkDGw9NdjDrr_s-YvXIwpMeaiEsR/s1600/crime.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/intel-and-lenovo-bmcs-contain-unpatched.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A security flaw impacting the Lighttpd web server used in baseboard management controllers (BMCs) has remained unpatched by device vendors like Intel and Lenovo, new findings from Binarly reveal.\nWhile the original shortcoming was discovered and patched by the Lighttpd maintainers way back in August 2018 with version 1.4.51, the lack of a CVE identifier or an advisory meant that",
