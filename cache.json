@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers have uncovered a \"credible\" takeover attempt targeting the OpenJS Foundation in a manner that evokes similarities to the recently uncovered incident aimed at the open-source XZ Utils project.\n\"The OpenJS Foundation Cross Project Council received a suspicious series of emails with similar messages, bearing different names and overlapping GitHub-associated emails,\" OpenJS",
+          "link": "https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html",
+          "publishedOn": "2024-04-16T15:16:00.000Z",
+          "wordCount": null,
+          "title": "OpenJS Foundation Targeted in Potential JavaScript Project Takeover Attempt",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_NKfusabR181EhfZNwswyCTJ3qlcDbvafIMPvHdnHosJSTL3OG6xNCa2ivwdNZAxRVWs_H3__jBrqO0Bn4B9PbKEh67QxwZqrR1j_76qvtlWpDApdqpIzzQIunEovlBzkx5ksycpvtbPbEGY94K0sCTYvCZEPvEl5-R1VW_Qf3IIxAwt_c1XUqP3db_I/s1600/openjs.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix_NKfusabR181EhfZNwswyCTJ3qlcDbvafIMPvHdnHosJSTL3OG6xNCa2ivwdNZAxRVWs_H3__jBrqO0Bn4B9PbKEh67QxwZqrR1j_76qvtlWpDApdqpIzzQIunEovlBzkx5ksycpvtbPbEGY94K0sCTYvCZEPvEl5-R1VW_Qf3IIxAwt_c1XUqP3db_I/s1600/openjs.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ta558-hackers-weaponize-images-for-wide.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor tracked as TA558 has been observed leveraging steganography as an obfuscation technique to deliver a wide range of malware such as Agent Tesla, FormBook, Remcos RAT, LokiBot, GuLoader, Snake Keylogger, and XWorm, among others.\n\"The group made extensive use of steganography by sending VBSs, PowerShell code, as well as RTF documents with an embedded exploit, inside",
