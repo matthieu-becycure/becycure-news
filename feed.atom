@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-16T21:43:42.293Z</updated>
+    <updated>2024-04-16T22:10:12.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2431,20 +2431,6 @@ Tracked as CVE-2024-25153, the shortcoming carries a CVSS score of 9.8 out of a 
         <updated>2024-03-18T12:35:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new malware campaign that leverages bogus Google Sites pages and HTML smuggling to distribute a commercial malware called AZORult in order to facilitate information theft.
 "It uses an unorthodox HTML smuggling technique where the malicious payload is embedded in a separate JSON file hosted on an external website," Netskope Threat Labs]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordPress Admins Urged to Remove miniOrange Plugins Due to Critical Flaw]]></title>
-        <id>https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html</id>
-        <link href="https://thehackernews.com/2024/03/wordpress-admins-urged-to-remove.html"/>
-        <updated>2024-03-18T09:46:00.000Z</updated>
-        <summary type="html"><![CDATA[WordPress users of miniOrange's Malware Scanner and Web Application Firewall plugins are being urged to delete them from their websites following the discovery of a critical security flaw.
-The flaw, tracked as CVE-2024-2172, is rated 9.8 out of a maximum of 10 on the CVSS scoring system. It impacts the following versions of the two plugins -
-
-Malware Scanner (versions <= 4.7.2)
-Web]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
