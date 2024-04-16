@@ -2205,6 +2205,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/",
+          "publishedOn": "2024-04-16T11:47:26.000Z",
+          "wordCount": 1021,
+          "title": "CERTFR-2024-AVI-0310 : Vulnérabilité dans les produits Juniper (16 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/",
+          "publishedOn": "2024-04-16T06:59:34.000Z",
+          "wordCount": 959,
+          "title": "CERTFR-2024-AVI-0309 : Vulnérabilité dans Stormshield Network Security (16 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-017/",
           "author": null,
           "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",

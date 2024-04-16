@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-16T14:10:26.889Z</updated>
+    <updated>2024-04-16T14:28:21.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0310 : Vulnérabilité dans les produits Juniper (16 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/"/>
+        <updated>2024-04-16T11:47:26.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack]]></title>
         <id>https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html</id>
@@ -49,6 +59,16 @@ It has also been fined more than $7 million over charges that it revealed users'
 The U.S. Justice Department (DoJ) said the malware "gave the malware purchasers control over victim computers and enabled them to access victims' private communications, their login credentials, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0309 : Vulnérabilité dans Stormshield Network Security (16 avril 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/"/>
+        <updated>2024-04-16T06:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
