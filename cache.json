@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Federal Trade Commission (FTC) has ordered the mental telehealth company Cerebral from using or disclosing personal data for advertising purposes.\nIt has also been fined more than $7 million over charges that it revealed users' sensitive personal health information and other data to third parties for advertising purposes and failed to honor its easy cancellation policies.\n\"Cerebral and",
+          "link": "https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html",
+          "publishedOn": "2024-04-16T08:36:00.000Z",
+          "wordCount": null,
+          "title": "FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWH7U-ZRiISJgbuAoCaNUu-8IWM6nuX3l4jyC8Hwgce0UqBrmLLlF5V4chcQ_eMR4mf8M6stwr5ICgniCDpm-ME-pgxEQmLLu23A9igzhIJBQdWSfiAPeKp2FK6onOaYEY-vqfcqmsUB8ySxNwH9PisDH6-EXqsrAlPKiRuqEjjA3chuQmya17ikGpKjT/s1600/brain.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWH7U-ZRiISJgbuAoCaNUu-8IWM6nuX3l4jyC8Hwgce0UqBrmLLlF5V4chcQ_eMR4mf8M6stwr5ICgniCDpm-ME-pgxEQmLLu23A9igzhIJBQdWSfiAPeKp2FK6onOaYEY-vqfcqmsUB8ySxNwH9PisDH6-EXqsrAlPKiRuqEjjA3chuQmya17ikGpKjT/s1600/brain.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two individuals have been arrested in Australia and the U.S. in connection with an alleged scheme to develop and distribute a remote access trojan called Hive RAT (previously Firebird).\nThe U.S. Justice Department (DoJ) said the malware \"gave the malware purchasers control over victim computers and enabled them to access victims' private communications, their login credentials, and",
