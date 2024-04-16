@@ -3105,16 +3105,6 @@
           "wordCount": 930,
           "title": "CERTFR-2024-AVI-0230 : Vulnérabilité dans Kaspersky Password Manager (18 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Tenable Nessus. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0229/",
-          "publishedOn": "2024-03-18T08:22:46.000Z",
-          "wordCount": 928,
-          "title": "CERTFR-2024-AVI-0229 : Vulnérabilité dans Tenable Nessus (18 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
