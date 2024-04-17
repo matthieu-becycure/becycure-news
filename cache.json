@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The introduction of Open AI’s ChatGPT was a defining moment for the software industry, touching off a GenAI race with its November 2022 release. SaaS vendors are now rushing to upgrade tools with enhanced productivity capabilities that are driven by generative AI.\nAmong a wide range of uses, GenAI tools make it easier for developers to build software, assist sales teams in mundane email writing,",
+          "link": "https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html",
+          "publishedOn": "2024-04-17T11:07:00.000Z",
+          "wordCount": null,
+          "title": "GenAI: A New Headache for SaaS Security Teams",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s1600/as.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2g2Bf8zJRCIdl6KQP8OZ5cQIFErkLBk8KlSuUeaGi4wRn8TqQNpv-HCJE6eTvNO72s3hNSc5JycD3s9zs2iENstrhVNDEMagaUEC4G_cC9Uy5DdKw2uO5WcJuxbwU-a8M2AjFNYbzhgfYQVN4bI3QZUomMmtnHnUCFnevLakct164k9SYGkOdPEIjfDY/s1600/as.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are exploiting unpatched Atlassian servers to deploy a Linux variant of Cerber (aka C3RB3R) ransomware.\nThe attacks leverage CVE-2023-22518 (CVSS score: 9.1), a critical security vulnerability impacting the Atlassian Confluence Data Center and Server that allows an unauthenticated attacker to reset Confluence and create an administrator account.\nArmed with this access, a",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-17T11:43:41.995Z</updated>
+    <updated>2024-04-17T12:18:40.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GenAI: A New Headache for SaaS Security Teams]]></title>
+        <id>https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html</id>
+        <link href="https://thehackernews.com/2024/04/genai-new-headache-for-saas-security.html"/>
+        <updated>2024-04-17T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The introduction of Open AI’s ChatGPT was a defining moment for the software industry, touching off a GenAI race with its November 2022 release. SaaS vendors are now rushing to upgrade tools with enhanced productivity capabilities that are driven by generative AI.
+Among a wide range of uses, GenAI tools make it easier for developers to build software, assist sales teams in mundane email writing,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware]]></title>
         <id>https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html</id>
