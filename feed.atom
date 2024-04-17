@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-17T00:47:58.596Z</updated>
+    <updated>2024-04-17T01:45:00.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2400,18 +2400,6 @@ Cybersecurity company Securonix, which dubbed the campaign DEEP#GOSU, said it's 
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortra Patches Critical RCE Vulnerability in FileCatalyst Transfer Tool]]></title>
-        <id>https://thehackernews.com/2024/03/fortra-patches-critical-rce.html</id>
-        <link href="https://thehackernews.com/2024/03/fortra-patches-critical-rce.html"/>
-        <updated>2024-03-18T12:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortra has released details of a now-patched critical security flaw impacting its FileCatalyst file transfer solution that could allow unauthenticated attackers to gain remote code execution on susceptible servers.
-Tracked as CVE-2024-25153, the shortcoming carries a CVSS score of 9.8 out of a maximum of 10.
-"A directory traversal within the 'ftpservlet' of the FileCatalyst Workflow]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
