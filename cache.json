@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco is warning about a global surge in brute-force attacks targeting various devices, including Virtual Private Network (VPN) services, web application authentication interfaces, and SSH services, since at least March 18, 2024.\n\"These attacks all appear to be originating from TOR exit nodes and a range of other anonymizing tunnels and proxies,\" Cisco Talos said.\nSuccessful attacks could",
+          "link": "https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html",
+          "publishedOn": "2024-04-17T08:38:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGVGiUcAKLNNHI4LrpMocm4mzD0ch4_8LHU80LMDHGBSRfl6jvmGTECdEguYjuWKKCbrh3VU91jNfHBaFXK3vo1x-ux1jqtF9-JQFi_6W5pUqL_C9Sf2UOJlGA7UPvVhQogOwwaONv6k78iq1uJLzjv-d6lWT_fFYejxku1M-cfm78toOd_mC6sS1mXN_3/s1600/password.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGVGiUcAKLNNHI4LrpMocm4mzD0ch4_8LHU80LMDHGBSRfl6jvmGTECdEguYjuWKKCbrh3VU91jNfHBaFXK3vo1x-ux1jqtF9-JQFi_6W5pUqL_C9Sf2UOJlGA7UPvVhQogOwwaONv6k78iq1uJLzjv-d6lWT_fFYejxku1M-cfm78toOd_mC6sS1mXN_3/s1600/password.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/openjs-foundation-targeted-in-potential.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security researchers have uncovered a \"credible\" takeover attempt targeting the OpenJS Foundation in a manner that evokes similarities to the recently uncovered incident aimed at the open-source XZ Utils project.\n\"The OpenJS Foundation Cross Project Council received a suspicious series of emails with similar messages, bearing different names and overlapping GitHub-associated emails,\" OpenJS",
