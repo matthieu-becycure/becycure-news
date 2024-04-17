@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0kbL1o0V6U0mzmaK2ZsUAU3cvExg9WoOHypZ82oYZmFoO-oGcSGGidQgF-_SFxLAGIq3mzUYwCn6inA7vYw-plO6Tg5tMGuA2lSjEBcHb0jj_dvXjDOM5zXoU_JaV8bJmZswB9KWzzFodmqMfNtmtWFIdyALPYeEpDMwr4D3cHrx-NF9k7UxdZt7h6L9x/s1600/forta.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0kbL1o0V6U0mzmaK2ZsUAU3cvExg9WoOHypZ82oYZmFoO-oGcSGGidQgF-_SFxLAGIq3mzUYwCn6inA7vYw-plO6Tg5tMGuA2lSjEBcHb0jj_dvXjDOM5zXoU_JaV8bJmZswB9KWzzFodmqMfNtmtWFIdyALPYeEpDMwr4D3cHrx-NF9k7UxdZt7h6L9x/s1600/forta.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new malware campaign that leverages bogus Google Sites pages and HTML smuggling to distribute a commercial malware called AZORult in order to facilitate information theft.\n\"It uses an unorthodox HTML smuggling technique where the malicious payload is embedded in a separate JSON file hosted on an external website,\" Netskope Threat Labs",
-          "link": "https://thehackernews.com/2024/03/hackers-using-sneaky-html-smuggling-to.html",
-          "publishedOn": "2024-03-18T12:35:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Using Sneaky HTML Smuggling to Deliver Malware via Fake Google Sites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEPYpAU1Mw1VHTpQ2K3CSvVCYd04Is_jCpDOlkqUPFGH6wjDRx01NNhqyHLU4pGVeAKE8st_Ip9xVD491lQ9Ln1J8h1O3jW_3tOAe5cUUck6fVYmIHvcfYNmKu2GQPZl_FyjraDxdRVtbzOOWnKNuPC8Xt7XUnsdWf5sWdS6D9m7PKrJd6nVUtIcXkWPoq/s1600/sites.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEPYpAU1Mw1VHTpQ2K3CSvVCYd04Is_jCpDOlkqUPFGH6wjDRx01NNhqyHLU4pGVeAKE8st_Ip9xVD491lQ9Ln1J8h1O3jW_3tOAe5cUUck6fVYmIHvcfYNmKu2GQPZl_FyjraDxdRVtbzOOWnKNuPC8Xt7XUnsdWf5sWdS6D9m7PKrJd6nVUtIcXkWPoq/s1600/sites.jpg"
         }
       ]
     },
@@ -3078,16 +3062,6 @@
           "publishedOn": "2024-03-18T14:37:42.000Z",
           "wordCount": 1563,
           "title": "CERTFR-2024-ACT-013 : Bulletin d’actualité CERTFR-2024-ACT-013 (18 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Kaspersky Password Manager. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0230/",
-          "publishedOn": "2024-03-18T12:45:10.000Z",
-          "wordCount": 930,
-          "title": "CERTFR-2024-AVI-0230 : Vulnérabilité dans Kaspersky Password Manager (18 mars 2024)",
           "imageUrl": null
         }
       ]
