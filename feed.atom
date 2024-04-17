@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-17T21:43:43.630Z</updated>
+    <updated>2024-04-17T22:09:19.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2438,18 +2438,6 @@ The accounts, authorities said, were]]></summary>
         <updated>2024-03-19T10:32:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors are leveraging digital document publishing (DDP) sites hosted on platforms like FlipSnack, Issuu, Marq, Publuu, RelayTo, and Simplebooklet for carrying out phishing, credential harvesting, and session token theft, once again underscoring how threat actors are repurposing legitimate services for malicious ends.
 "Hosting phishing lures on DDP sites increases the likelihood]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspected Russian Data-Wiping 'AcidPour' Malware Targeting Linux x86 Devices]]></title>
-        <id>https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html</id>
-        <link href="https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html"/>
-        <updated>2024-03-19T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[A new variant of a data wiping malware called AcidRain has been detected in the wild that's specifically designed for targeting Linux x86 devices.
-The malware, dubbed AcidPour, is compiled for Linux x86 devices, SentinelOne's Juan Andres Guerrero-Saade said in a series of posts on X.
-"The new variant [...] is an ELF binary compiled for x86 (not MIPS) and while it refers to similar devices/]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

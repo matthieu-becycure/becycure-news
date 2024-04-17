@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_hTnNc8FIZENiXSYoR6zuQegZJO8-lNPeEuzH8nfuaeR74yUuppXLquv_toJrGyuudFUwrUnJpLhOl0I93Zd_7DMq01oq8Dfrla5x3lDYFp895aX_t8Qgh4rI1WIvAqwEPzTifWXSpdFdqjxJCXLndkvDen2cbgHgJQKGjPcIOTeJdSGaMG30i9UpIPR/s1600/phishing.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn_hTnNc8FIZENiXSYoR6zuQegZJO8-lNPeEuzH8nfuaeR74yUuppXLquv_toJrGyuudFUwrUnJpLhOl0I93Zd_7DMq01oq8Dfrla5x3lDYFp895aX_t8Qgh4rI1WIvAqwEPzTifWXSpdFdqjxJCXLndkvDen2cbgHgJQKGjPcIOTeJdSGaMG30i9UpIPR/s1600/phishing.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new variant of a data wiping malware called AcidRain has been detected in the wild that's specifically designed for targeting Linux x86 devices.\nThe malware, dubbed AcidPour, is compiled for Linux x86 devices, SentinelOne's Juan Andres Guerrero-Saade said in a series of posts on X.\n\"The new variant [...] is an ELF binary compiled for x86 (not MIPS) and while it refers to similar devices/",
-          "link": "https://thehackernews.com/2024/03/suspected-russian-data-wiping-acidpour.html",
-          "publishedOn": "2024-03-19T09:59:00.000Z",
-          "wordCount": null,
-          "title": "Suspected Russian Data-Wiping 'AcidPour' Malware Targeting Linux x86 Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TJDUG0umD5B2VrXM4SZp-inxyAGlZ2ZyMfaFBuLRiA6xnVM5XkhuLJkViHTj-bspablX7UDml9Ojzv0AmcFUDqzBHVsWXTpSmUOA0g5crNIr0zTMpcu41m4UsU0Aq0vBGoxB4PGqV6iuit-8SIlCrxz2oHvUjb1u4WLP8Z6Ept26lgIAv0zLpVS_V5zZ/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6TJDUG0umD5B2VrXM4SZp-inxyAGlZ2ZyMfaFBuLRiA6xnVM5XkhuLJkViHTj-bspablX7UDml9Ojzv0AmcFUDqzBHVsWXTpSmUOA0g5crNIr0zTMpcu41m4UsU0Aq0vBGoxB4PGqV6iuit-8SIlCrxz2oHvUjb1u4WLP8Z6Ept26lgIAv0zLpVS_V5zZ/s1600/linux.jpg"
         }
       ]
     },
