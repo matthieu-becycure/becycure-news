@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-17T10:43:45.187Z</updated>
+    <updated>2024-04-17T11:09:22.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware]]></title>
+        <id>https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html</id>
+        <link href="https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html"/>
+        <updated>2024-04-17T10:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are exploiting unpatched Atlassian servers to deploy a Linux variant of Cerber (aka C3RB3R) ransomware.
+The attacks leverage CVE-2023-22518 (CVSS score: 9.1), a critical security vulnerability impacting the Atlassian Confluence Data Center and Server that allows an unauthenticated attacker to reset Confluence and create an administrator account.
+Armed with this access, a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign]]></title>
+        <id>https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html</id>
+        <link href="https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html"/>
+        <updated>2024-04-17T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new campaign that's exploiting a recently disclosed security flaw in Fortinet FortiClient EMS devices to deliver ScreenConnect and Metasploit Powerfun payloads.
+The activity entails the exploitation of CVE-2023-48788 (CVSS score: 9.3), a critical SQL injection flaw that could permit an unauthenticated attacker to execute unauthorized code or]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services]]></title>
         <id>https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html</id>
