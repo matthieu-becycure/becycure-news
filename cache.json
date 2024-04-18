@@ -3051,16 +3051,6 @@
           "wordCount": 1069,
           "title": "CERTFR-2024-AVI-0234 : Multiples vulnérabilités dans les produits Mozilla (20 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans AXIS OS. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0233/",
-          "publishedOn": "2024-03-19T12:35:51.000Z",
-          "wordCount": 1000,
-          "title": "CERTFR-2024-AVI-0233 : Multiples vulnérabilités dans AXIS OS (19 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
