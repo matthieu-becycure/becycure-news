@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-18T04:12:32.492Z</updated>
+    <updated>2024-04-18T04:28:11.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2386,16 +2386,6 @@ The accounts, authorities said, were]]></summary>
         <updated>2024-03-20T05:48:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Environmental Protection Agency (EPA) said it's forming a new "Water Sector Cybersecurity Task Force" to devise methods to counter the threats faced by the water sector in the country.
 "In addition to considering the prevalent vulnerabilities of water systems to cyberattacks and the challenges experienced by some systems in adopting best practices, this Task Force in its deliberations]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APIs Drive the Majority of Internet Traffic and Cybercriminals are Taking Advantage]]></title>
-        <id>https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html</id>
-        <link href="https://thehackernews.com/2024/03/apis-drive-majority-of-internet-traffic.html"/>
-        <updated>2024-03-19T16:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Application programming interfaces (APIs) are the connective tissue behind digital modernization, helping applications and databases exchange data more effectively. The State of API Security in 2024 Report from Imperva, a Thales company, found that the majority of internet traffic (71%) in 2023 was API calls. What’s more, a typical enterprise site saw an average of 1.5 billion API]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
