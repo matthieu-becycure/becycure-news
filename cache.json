@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s1600/rabit.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UxSfvpR7OFtwdFJSUGVBWmujfCUMSZIFG8DbcV5blvrSopBlJBCMLRZbRfXI4unUprjQB5ym3KBVOie1njjnpWeFoNBVcX930NySQszv35Ve3Pupz2fyQUCJe3naro48_EX-ZOPyA3J9aW7AUfcace4DH6Ah9lyuHzY8qjBRzTgYd9k_2QhwtnKMFiyC/s1600/rabit.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Cyber Police of Ukraine has arrested three individuals on suspicion of hijacking more than 100 million emails and Instagram accounts from users across the world.\nThe suspects, aged between 20 and 40, are said to be part of an organized criminal group living in different parts of the country. If convicted, they face up to 15 years in prison.\nThe accounts, authorities said, were",
-          "link": "https://thehackernews.com/2024/03/ukraine-arrests-trio-for-hijacking-over.html",
-          "publishedOn": "2024-03-20T06:48:00.000Z",
-          "wordCount": null,
-          "title": "Ukraine Arrests Trio for Hijacking Over 100 Million Email and Instagram Accounts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmrX16UkSOXi4tCgMWB2BIV4nRn2V7ZKbOfT_RXY62s1RUrQarAZ2bS-fpjQuWnX_zdWbW2hPC42iNWl3DHNvMVEgQgNAqJcOF9yOaTA8XtKRRMaM8eHGtwakLsGo7DkJIlbgB0Ydn5Z7pS86ZxHdbnMeZ88Ey3tOr9fvuNSigHuX3mGP3hkPyGYyKQQU/s1600/hacker-news.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAmrX16UkSOXi4tCgMWB2BIV4nRn2V7ZKbOfT_RXY62s1RUrQarAZ2bS-fpjQuWnX_zdWbW2hPC42iNWl3DHNvMVEgQgNAqJcOF9yOaTA8XtKRRMaM8eHGtwakLsGo7DkJIlbgB0Ydn5Z7pS86ZxHdbnMeZ88Ey3tOr9fvuNSigHuX3mGP3hkPyGYyKQQU/s1600/hacker-news.jpg"
         }
       ]
     },
@@ -3230,16 +3214,6 @@
           "publishedOn": "2024-03-20T07:12:56.000Z",
           "wordCount": 968,
           "title": "CERTFR-2024-AVI-0235 : Multiples vulnérabilités dans Google Chrome (20 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et une atteinte à la …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0234/",
-          "publishedOn": "2024-03-20T06:53:49.000Z",
-          "wordCount": 1069,
-          "title": "CERTFR-2024-AVI-0234 : Multiples vulnérabilités dans les produits Mozilla (20 mars 2024)",
           "imageUrl": null
         }
       ]
