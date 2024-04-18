@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new Google malvertising campaign is leveraging a cluster of domains mimicking a legitimate IP scanner software to deliver a previously unknown backdoor dubbed MadMxShell.\n\"The threat actor registered multiple look-alike domains using a typosquatting technique and leveraged Google Ads to push these domains to the top of search engine results targeting specific search keywords, thereby",
+          "link": "https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html",
+          "publishedOn": "2024-04-18T04:48:00.000Z",
+          "wordCount": null,
+          "title": "Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI2N1BV9B2oinjvzQLikBcYsivultrBSKrjTZtBh7g_ovCExjPx9QbL1c1UT_i2OsNCIaWFB7pXx3DrrrwLtEyUq1VebH6bWeiew3ukt1BdO43P_FNfPGy2J2e3cGM4URiy8LtzJRk57Tp3jzo39NN-xHXWxwdzwbmFBG5-QdJ5tsfvoOW7pTvZ9qFr-kp/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI2N1BV9B2oinjvzQLikBcYsivultrBSKrjTZtBh7g_ovCExjPx9QbL1c1UT_i2OsNCIaWFB7pXx3DrrrwLtEyUq1VebH6bWeiew3ukt1BdO43P_FNfPGy2J2e3cGM4URiy8LtzJRk57Tp3jzo39NN-xHXWxwdzwbmFBG5-QdJ5tsfvoOW7pTvZ9qFr-kp/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A previously undocumented \"flexible\" backdoor called Kapeka has been \"sporadically\" observed in cyber attacks targeting Eastern Europe, including Estonia and Ukraine, since at least mid-2022.\nThe findings come from Finnish cybersecurity firm WithSecure, which attributed the malware to the Russia-linked advanced persistent threat (APT) group tracked as Sandworm (aka APT44 or",

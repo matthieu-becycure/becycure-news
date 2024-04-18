@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-18T04:43:42.472Z</updated>
+    <updated>2024-04-18T05:11:11.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor]]></title>
+        <id>https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html</id>
+        <link href="https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html"/>
+        <updated>2024-04-18T04:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Google malvertising campaign is leveraging a cluster of domains mimicking a legitimate IP scanner software to deliver a previously unknown backdoor dubbed MadMxShell.
+"The threat actor registered multiple look-alike domains using a typosquatting technique and leveraged Google Ads to push these domains to the top of search engine results targeting specific search keywords, thereby]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian APT Deploys New 'Kapeka' Backdoor in Eastern European Attacks]]></title>
         <id>https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html</id>
