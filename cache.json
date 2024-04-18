@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Select Ukrainian government networks have remained infected with a malware called OfflRouter since 2015.\nCisco Talos said its findings are based on an analysis of over 100 confidential documents that were infected with the VBA macro virus and uploaded to the VirusTotal malware scanning platform.\n\"The documents contained VBA code to drop and run an executable with the name 'ctrlpanel.exe,'\"",
+          "link": "https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html",
+          "publishedOn": "2024-04-18T14:25:00.000Z",
+          "wordCount": null,
+          "title": "OfflRouter Malware Evades Detection in Ukraine for Almost a Decade",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiql6F8vCYrkcwRxtzGXvF7nUibNy6Pf-Pi7nWv0b1E36R4kETHLFpg4jvrehYoXOewkbCP6KVvt9A6dQs8wAWFrSw38x2sniPziFeJfudGccZ2fhVjjZ_p_EsF4NKByvisxtFSOFCX2g6qhfqG21jwdiVqxvOQ6uV2VoB7eRkgV6HyS_o9Db7_-7SVjGi2/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiql6F8vCYrkcwRxtzGXvF7nUibNy6Pf-Pi7nWv0b1E36R4kETHLFpg4jvrehYoXOewkbCP6KVvt9A6dQs8wAWFrSw38x2sniPziFeJfudGccZ2fhVjjZ_p_EsF4NKByvisxtFSOFCX2g6qhfqG21jwdiVqxvOQ6uV2VoB7eRkgV6HyS_o9Db7_-7SVjGi2/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/fin7-cybercrime-group-targeting-us-auto.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The infamous cybercrime syndicate known as FIN7 has been linked to a spear-phishing campaign targeting the U.S. automotive industry to deliver a known backdoor called Carbanak (aka Anunak).\n\"FIN7 identified employees at the company who worked in the IT department and had higher levels of administrative rights,\" the BlackBerry research and intelligence team said in a new write-up.\n\"They",
@@ -2252,6 +2268,116 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/",
+          "publishedOn": "2024-04-18T13:46:59.000Z",
+          "wordCount": 1152,
+          "title": "CERTFR-2024-AVI-0326 : Multiples vulnérabilités dans Oracle MySQL (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0325/",
+          "publishedOn": "2024-04-18T13:45:52.000Z",
+          "wordCount": 1105,
+          "title": "CERTFR-2024-AVI-0325 : Multiples vulnérabilités dans Oracle PeopleSoft (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0324/",
+          "publishedOn": "2024-04-18T13:45:20.000Z",
+          "wordCount": 1123,
+          "title": "CERTFR-2024-AVI-0324 : Multiples vulnérabilités dans Oracle Systems (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0323/",
+          "publishedOn": "2024-04-18T13:44:49.000Z",
+          "wordCount": 1025,
+          "title": "CERTFR-2024-AVI-0323 : Multiples vulnérabilités dans Oracle Weblogic (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0322/",
+          "publishedOn": "2024-04-18T13:44:07.000Z",
+          "wordCount": 1096,
+          "title": "CERTFR-2024-AVI-0322 : Multiples vulnérabilités dans Oracle Database Server (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE . Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0321/",
+          "publishedOn": "2024-04-18T13:43:29.000Z",
+          "wordCount": 1091,
+          "title": "CERTFR-2024-AVI-0321 : Multiples vulnérabilités dans Oracle Java SE (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0320/",
+          "publishedOn": "2024-04-18T13:42:04.000Z",
+          "wordCount": 1025,
+          "title": "CERTFR-2024-AVI-0320 : Multiples vulnérabilités dans Oracle VirtualBox (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.\n Cisco a indiqué avoir connaissance d'une preuve de concept …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/",
+          "publishedOn": "2024-04-18T07:30:07.000Z",
+          "wordCount": 991,
+          "title": "CERTFR-2024-AVI-0319 : Multiples vulnérabilités dans les produits Cisco (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0318/",
+          "publishedOn": "2024-04-18T07:09:08.000Z",
+          "wordCount": 1079,
+          "title": "CERTFR-2024-AVI-0318 : Multiples vulnérabilités dans les produits Mitel (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Cisco ClamAV. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0317/",
+          "publishedOn": "2024-04-18T07:07:27.000Z",
+          "wordCount": 924,
+          "title": "CERTFR-2024-AVI-0317 : Vulnérabilité dans Cisco ClamAV (18 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0316/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Xen. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0316/",
+          "publishedOn": "2024-04-18T06:54:48.000Z",
+          "wordCount": 956,
+          "title": "CERTFR-2024-AVI-0316 : Vulnérabilité dans les produits Xen (18 avril 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-003/",
           "author": null,
