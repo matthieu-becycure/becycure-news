@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-18T17:43:28.733Z</updated>
+    <updated>2024-04-18T18:13:14.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2578,17 +2578,6 @@ The attacks entail the exploitation of CVE-2024-27198 (CVSS score: 9.8) that e
         <summary type="html"><![CDATA[The Cyber Police of Ukraine has arrested three individuals on suspicion of hijacking more than 100 million emails and Instagram accounts from users across the world.
 The suspects, aged between 20 and 40, are said to be part of an organized criminal group living in different parts of the country. If convicted, they face up to 15 years in prison.
 The accounts, authorities said, were]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. EPA Forms Task Force to Protect Water Systems from Cyberattacks]]></title>
-        <id>https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html</id>
-        <link href="https://thehackernews.com/2024/03/us-epa-forms-task-force-to-protect.html"/>
-        <updated>2024-03-20T05:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Environmental Protection Agency (EPA) said it's forming a new "Water Sector Cybersecurity Task Force" to devise methods to counter the threats faced by the water sector in the country.
-"In addition to considering the prevalent vulnerabilities of water systems to cyberattacks and the challenges experienced by some systems in adopting best practices, this Task Force in its deliberations]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
