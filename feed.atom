@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-19T14:43:35.735Z</updated>
+    <updated>2024-04-19T15:11:00.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool]]></title>
+        <id>https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html</id>
+        <link href="https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html"/>
+        <updated>2024-04-19T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Technology, research, and government sectors in the Asia-Pacific region have been targeted by a threat actor called BlackTech as part of a recent cyber attack wave.
+The intrusions pave the way for an updated version of modular backdoor dubbed Waterbear as well as its enhanced successor referred to as Deuterbear.
+"Waterbear is known for its complexity, as it]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Attackers Can Own a Business Without Touching the Endpoint]]></title>
         <id>https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html</id>

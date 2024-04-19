@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Technology, research, and government sectors in the Asia-Pacific region have been targeted by a threat actor called BlackTech as part of a recent cyber attack wave.\nThe intrusions pave the way for an updated version of modular backdoor dubbed Waterbear as well as its enhanced successor referred to as Deuterbear.\n\"Waterbear is known for its complexity, as it",
+          "link": "https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html",
+          "publishedOn": "2024-04-19T13:44:00.000Z",
+          "wordCount": null,
+          "title": "BlackTech Targets Tech, Research, and Gov Sectors New 'Deuterbear' Tool",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGcUfhx1obbm71p9PknFOHSDt0JpRZAWhi6TYuS25Y_b9wL3NjX4nFwVEwHk6fetkwlUFBefLK2jaLL-lTiiX76QsZjJkjYfQFIuJkeIg8yEwHV_wfbjAAhFW4_b6gCAJnT-ky8oCMocwqZtiBNnt7APGxKNsBGioNBJ1NcnUUspJODg4nojqtpyFRTHT/s1600/exploit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiGcUfhx1obbm71p9PknFOHSDt0JpRZAWhi6TYuS25Y_b9wL3NjX4nFwVEwHk6fetkwlUFBefLK2jaLL-lTiiX76QsZjJkjYfQFIuJkeIg8yEwHV_wfbjAAhFW4_b6gCAJnT-ky8oCMocwqZtiBNnt7APGxKNsBGioNBJ1NcnUUspJODg4nojqtpyFRTHT/s1600/exploit.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Attackers are increasingly making use of “networkless” attack techniques targeting cloud apps and identities. Here’s how attackers can (and are) compromising organizations – without ever needing to touch the endpoint or conventional networked systems and services. \nBefore getting into the details of the attack techniques being used, let’s discuss why",
