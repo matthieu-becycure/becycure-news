@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-18T23:43:53.956Z</updated>
+    <updated>2024-04-19T00:47:22.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2495,16 +2495,6 @@ Described as an SQL injection flaw, it's rooted in a dependency called org.postg
 Called Loop DoS attacks, the approach pairs "servers of these protocols in such a way that they communicate with each other indefinitely," researchers from the CISPA Helmholtz-Center for]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0237 : [SCADA] Multiples vulnérabilités dans les produits Belden (20 mars 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0237/"/>
-        <updated>2024-03-20T12:34:31.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Belden. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
