@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-19T19:43:40.450Z</updated>
+    <updated>2024-04-19T20:10:42.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2562,17 +2562,6 @@ The findings come from cybersecurity firm JFrog, which said the issue could be e
         <link href="https://thehackernews.com/2024/03/making-sense-of-operational-technology.html"/>
         <updated>2024-03-21T09:23:00.000Z</updated>
         <summary type="html"><![CDATA[When you read reports about cyber-attacks affecting operational technology (OT), it’s easy to get caught up in the hype and assume every single one is sophisticated. But are OT environments all over the world really besieged by a constant barrage of complex cyber-attacks? Answering that would require breaking down the different types of OT cyber-attacks and then looking back on all the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Sanctions Russians Behind 'Doppelganger' Cyber Influence Campaign]]></title>
-        <id>https://thehackernews.com/2024/03/us-sanctions-russians-behind.html</id>
-        <link href="https://thehackernews.com/2024/03/us-sanctions-russians-behind.html"/>
-        <updated>2024-03-21T08:07:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Wednesday announced sanctions against two 46-year-old Russian nationals and the respective companies they own for engaging in cyber influence operations.
-Ilya Andreevich Gambashidze (Gambashidze), the founder of the Moscow-based company Social Design Agency (SDA), and Nikolai Aleksandrovich Tupikin (Tupikin), the CEO and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
