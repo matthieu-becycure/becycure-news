@@ -2237,6 +2237,86 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/",
+          "publishedOn": "2024-04-19T12:57:40.000Z",
+          "wordCount": 1673,
+          "title": "CERTFR-2024-AVI-0334 : Multiples vulnérabilités dans le noyau Linux de Debian (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0333/",
+          "publishedOn": "2024-04-19T12:42:20.000Z",
+          "wordCount": 1217,
+          "title": "CERTFR-2024-AVI-0333 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0332/",
+          "publishedOn": "2024-04-19T12:25:02.000Z",
+          "wordCount": 1751,
+          "title": "CERTFR-2024-AVI-0332 : Multiples vulnérabilités dans les produits Red Hat (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0331/",
+          "publishedOn": "2024-04-19T12:13:42.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0331 : Multiples vulnérabilités dans SolarWinds Platform (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0330/",
+          "publishedOn": "2024-04-19T11:51:38.000Z",
+          "wordCount": 1201,
+          "title": "CERTFR-2024-AVI-0330 : Multiples vulnérabilités dans les produits IBM (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/",
+          "publishedOn": "2024-04-19T11:40:29.000Z",
+          "wordCount": 2220,
+          "title": "CERTFR-2024-AVI-0329 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/",
+          "publishedOn": "2024-04-19T07:26:54.000Z",
+          "wordCount": 944,
+          "title": "CERTFR-2024-AVI-0328 : Vulnérabilité dans Citrix uberAgent (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/",
+          "publishedOn": "2024-04-19T07:09:50.000Z",
+          "wordCount": 1169,
+          "title": "CERTFR-2024-AVI-0327 : Multiples vulnérabilités dans Microsoft Edge (19 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0326/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Oracle MySQL. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
