@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-19T06:30:01.946Z</updated>
+    <updated>2024-04-19T06:43:24.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Target Middle East Governments with Evasive "CR4T" Backdoor]]></title>
+        <id>https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html</id>
+        <link href="https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html"/>
+        <updated>2024-04-19T06:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Government entities in the Middle East have been targeted as part of a previously undocumented campaign to deliver a new backdoor dubbed CR4T.
+Russian cybersecurity company Kaspersky said it discovered the activity in February 2024, with evidence suggesting that it may have been active since at least a year prior. The campaign has been codenamed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OfflRouter Malware Evades Detection in Ukraine for Almost a Decade]]></title>
         <id>https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html</id>
