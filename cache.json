@@ -3181,16 +3181,6 @@
           "wordCount": 1308,
           "title": "CERTFR-2024-AVI-0240 : Multiples vulnérabilités dans les produits IBM (22 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Xbox Gaming Services. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0239/",
-          "publishedOn": "2024-03-21T09:31:12.000Z",
-          "wordCount": 932,
-          "title": "CERTFR-2024-AVI-0239 : Vulnérabilité dans  Microsoft Xbox Gaming Services (21 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
