@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGF550dTV5JHULJGHWxMXXMTnUZtGgD3bct5LM24vLnfnFJNAcjyi_Cy5IXC6phAT5Ts_ugGkRkv0SwVOYecIzxIvKXVGd76AdM_hO9onAyXdrNmJ4MBsCYFLPlLDuDkQa0HKNewOOtXxaT7on3IExYpxe37Ies0mJqDPApp9ON4pm7o0lDjRfCblZ1iu/s1600/fke-news.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuGF550dTV5JHULJGHWxMXXMTnUZtGgD3bct5LM24vLnfnFJNAcjyi_Cy5IXC6phAT5Ts_ugGkRkv0SwVOYecIzxIvKXVGd76AdM_hO9onAyXdrNmJ4MBsCYFLPlLDuDkQa0HKNewOOtXxaT7on3IExYpxe37Ies0mJqDPApp9ON4pm7o0lDjRfCblZ1iu/s1600/fke-news.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti has disclosed details of a critical remote code execution flaw impacting Standalone Sentry, urging customers to apply the fixes immediately to stay protected against potential cyber threats.\nTracked as CVE-2023-41724, the vulnerability carries a CVSS score of 9.6.\n\"An unauthenticated threat actor can execute arbitrary commands on the underlying operating system of the appliance",
-          "link": "https://thehackernews.com/2024/03/ivanti-releases-urgent-fix-for-critical.html",
-          "publishedOn": "2024-03-21T03:55:00.000Z",
-          "wordCount": null,
-          "title": "Ivanti Releases Urgent Fix for Critical Sentry RCE Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDEy3qnXBnPKqoS4jynsJ3InXl0ssDuzvMu4kMuSj_41pyYBSd-UcSjPb7D1WkWy6j4qrl3iRWD350wGjy8YKZRgDsQnv11iHuKRojxS2Qp75bkSP12rToUz4xGkWXdmhnlxoYGRHVBmVUZD8oaiCgd_EN2Blk3loDKUwVD84vGyXRsiIXHw5w-UVRi6lQ/s1600/ivanti.jpg"
         }
       ]
     },
