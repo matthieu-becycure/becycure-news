@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-19T23:26:01.289Z</updated>
+    <updated>2024-04-19T23:43:45.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2521,16 +2521,6 @@ The findings come from cybersecurity firm JFrog, which said the issue could be e
         <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a tool referred to as AndroxGh0st that's used to target Laravel applications and steal sensitive data.
 "It works by scanning and taking out important information from .env files, revealing login details linked to AWS and Twilio," Juniper Threat Labs researcher Kashinath T Pattan said.
 "Classified as an SMTP cracker, it exploits SMTP]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Accelerate Vendor Risk Assessments in the Age of SaaS Sprawl]]></title>
-        <id>https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html</id>
-        <link href="https://thehackernews.com/2024/03/how-to-accelerate-vendor-risk.html"/>
-        <updated>2024-03-21T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital-first business environment dominated by SaaS applications, organizations increasingly depend on third-party vendors for essential cloud services and software solutions. As more vendors and services are added to the mix, the complexity and potential vulnerabilities within the SaaS supply chain snowball quickly. That’s why effective vendor risk management (VRM) is a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
