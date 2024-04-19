@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-19T11:43:25.004Z</updated>
+    <updated>2024-04-19T12:18:33.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Attackers Can Own a Business Without Touching the Endpoint]]></title>
+        <id>https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html</id>
+        <link href="https://thehackernews.com/2024/04/showcasing-networkless-identity-attacks.html"/>
+        <updated>2024-04-19T11:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are increasingly making use of “networkless” attack techniques targeting cloud apps and identities. Here’s how attackers can (and are) compromising organizations – without ever needing to touch the endpoint or conventional networked systems and services. 
+Before getting into the details of the attack techniques being used, let’s discuss why]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Akira Ransomware Gang Extorts $42 Million; Now Targets Linux Servers]]></title>
+        <id>https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html</id>
+        <link href="https://thehackernews.com/2024/04/akira-ransomware-gang-extorts-42.html"/>
+        <updated>2024-04-19T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors behind the Akira ransomware group have extorted approximately $42 million in illicit proceeds after breaching the networks of more than 250 victims as of January 1, 2024.
+"Since March 2023, Akira ransomware has impacted a wide range of businesses and critical infrastructure entities in North America, Europe, and Australia," cybersecurity agencies from the Netherlands and the U.S.,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Target Middle East Governments with Evasive "CR4T" Backdoor]]></title>
         <id>https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html</id>
