@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s1600/russian-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpl4KTifULp_KL519pfn_LM1Qpb_O-KwUZ-KS8DWzcElP_DeDwhEcg6IinPOAx7W6l3Fm_QpeK516gOx9IER4UKNO9wTC5C01n0yJCUsSDctagYCDNefWD-_7gC4gAXGL77Vti4ZkUUaa4I9XZnGUPS1l4rdz3dR0d8PnxYKpQ7besnv2JGxohYIMfOFTK/s1600/russian-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "New research has discovered over 800 packages in the npm registry which have discrepancies from their registry entries, out of which 18 have been found to exploit a technique called manifest confusion.\nThe findings come from cybersecurity firm JFrog, which said the issue could be exploited by threat actors to trick developers into running malicious code.\n\"It's an actual threat since",
-          "link": "https://thehackernews.com/2024/03/over-800-npm-packages-found-with.html",
-          "publishedOn": "2024-03-21T14:26:00.000Z",
-          "wordCount": null,
-          "title": "Over 800 npm Packages Found with Discrepancies, 18 Exploitable to 'Manifest Confusion'",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s1600/npm.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_eXZbgcmkdcPMPC8kxNVo6RKYUWs7aNXyHBLlMO3XZp4JREoigdE8kc6Wj1NzxVzwPXfR_gTuMRN5rG8PcDX2In-DcDNClEiUoCjCUjG8HsV2lO1le91AM6wBcdO9rnsfrAp45KyoE_1kwLerl_wZSzjv04oFDiWhyphenhyphen7k-PMVnTJXifkuzQ1IQkfWqbCU-/s1600/npm.jpg"
         }
       ]
     },
