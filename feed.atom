@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-20T03:43:37.554Z</updated>
+    <updated>2024-04-20T04:13:55.888Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2486,17 +2486,6 @@ With the capabilities of the]]></summary>
         <summary type="html"><![CDATA[The data wiping malware called AcidPour may have been deployed in attacks targeting four telecom providers in Ukraine, new findings from SentinelOne show.
 The cybersecurity firm also confirmed connections between the malware and AcidRain, tying it to threat activity clusters associated with Russian military intelligence.
 "AcidPour's expanded capabilities would enable it to better]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia Hackers Using TinyTurla-NG to Breach European NGO's Systems]]></title>
-        <id>https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html</id>
-        <link href="https://thehackernews.com/2024/03/russia-hackers-using-tinyturla-ng-to.html"/>
-        <updated>2024-03-21T16:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russia-linked threat actor known as Turla infected several systems belonging to an unnamed European non-governmental organization (NGO) in order to deploy a backdoor called TinyTurla-NG.
-"The attackers compromised the first system, established persistence and added exclusions to antivirus products running on these endpoints as part of their preliminary post-compromise actions," Cisco]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
