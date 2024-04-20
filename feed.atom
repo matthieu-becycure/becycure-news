@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-20T18:13:19.119Z</updated>
+    <updated>2024-04-20T18:28:44.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2488,17 +2488,6 @@ With the capabilities of the]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Justice Department Sues Apple Over Monopoly and Messaging Security]]></title>
-        <id>https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html</id>
-        <link href="https://thehackernews.com/2024/03/us-justice-department-sues-apple-over.html"/>
-        <updated>2024-03-22T06:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ), along with 16 other state and district attorneys general, on Thursday accused Apple of illegally maintaining a monopoly over smartphones, thereby undermining, among others, security and privacy of users when messaging non-iPhone users.
-"Apple wraps itself in a cloak of privacy, security, and consumer preferences to justify its anticompetitive]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
