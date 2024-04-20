@@ -3081,16 +3081,6 @@
           "wordCount": 1640,
           "title": "CERTFR-2024-AVI-0242 : Multiples vulnérabilités dans le noyau Linux de SUSE (22 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0241/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0241/",
-          "publishedOn": "2024-03-22T07:25:35.000Z",
-          "wordCount": 1336,
-          "title": "CERTFR-2024-AVI-0241 : Multiples vulnérabilités dans le noyau Linux de RedHat (22 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
