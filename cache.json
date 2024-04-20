@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/palo-alto-networks-discloses-more.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has shared more details of a critical security flaw impacting PAN-OS that has come under active exploitation in the wild by malicious actors.\nThe company described the vulnerability, tracked as CVE-2024-3400 (CVSS score: 10.0), as \"intricate\" and a combination of two bugs in versions PAN-OS 10.2, PAN-OS 11.0, and PAN-OS 11.1 of the software.\n\"In",
+          "link": "https://thehackernews.com/2024/04/palo-alto-networks-discloses-more.html",
+          "publishedOn": "2024-04-20T05:53:00.000Z",
+          "wordCount": null,
+          "title": "Palo Alto Networks Discloses More Details on Critical PAN-OS Flaw Under Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURNL4RogQrnLxwvgCDlll9yqvTq5Q_3mj8bxpFwzZgiYa6uIzZC_hADYdW6D4UOLTT3Iia7Q9JAU1UtCLGlQSWhpl7FwkfIBzpeL3470GIFsEIgopGmVz-DZMkP9O5g8M5i13qvzx2_WqMnlcMKTWFpaxBTeg5GAV0BQjcNzUnFF_yRXjvTNLY3cufdKN/s1600/panos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURNL4RogQrnLxwvgCDlll9yqvTq5Q_3mj8bxpFwzZgiYa6uIzZC_hADYdW6D4UOLTT3Iia7Q9JAU1UtCLGlQSWhpl7FwkfIBzpeL3470GIFsEIgopGmVz-DZMkP9O5g8M5i13qvzx2_WqMnlcMKTWFpaxBTeg5GAV0BQjcNzUnFF_yRXjvTNLY3cufdKN/s1600/panos.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/critical-update-crushftp-zero-day-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Users of the CrushFTP enterprise file transfer software are being urged to update to the latest version following the discovery of a security flaw that has come under targeted exploitation in the wild.\n\"CrushFTP v11 versions below 11.1 have a vulnerability where users can escape their VFS and download system files,\" CrushFTP said in an advisory released Friday.",
+          "link": "https://thehackernews.com/2024/04/critical-update-crushftp-zero-day-flaw.html",
+          "publishedOn": "2024-04-20T05:18:00.000Z",
+          "wordCount": null,
+          "title": "Critical Update: CrushFTP Zero-Day Flaw Exploited in Targeted Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdz9o-KZOsZDEl5SNHbl-I7LZX1VhYf4GDRf32RxTxBnfuzCgDSFVS_Gz56XYrBzm2BZzSAho1CBFujQ-IXDl1Hm2g_Rj7J-bkJTveAJn3k3x5o-jn24pFt2DbS5901MTQE1-e04GOM1KUhFW2JgmQuE8FzRhyKxl8zcSAdJCX_TdBhu9VRxWURsTgO9o/s1600/ftp.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdz9o-KZOsZDEl5SNHbl-I7LZX1VhYf4GDRf32RxTxBnfuzCgDSFVS_Gz56XYrBzm2BZzSAho1CBFujQ-IXDl1Hm2g_Rj7J-bkJTveAJn3k3x5o-jn24pFt2DbS5901MTQE1-e04GOM1KUhFW2JgmQuE8FzRhyKxl8zcSAdJCX_TdBhu9VRxWURsTgO9o/s1600/ftp.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/blacktech-targets-tech-research-and-gov.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Technology, research, and government sectors in the Asia-Pacific region have been targeted by a threat actor called BlackTech as part of a recent cyber attack wave.\nThe intrusions pave the way for an updated version of modular backdoor dubbed Waterbear as well as its enhanced successor referred to as Deuterbear.\n\"Waterbear is known for its complexity, as it",
