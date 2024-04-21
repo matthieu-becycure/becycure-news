@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new information stealer has been found leveraging Lua bytecode for added stealth and sophistication, findings from McAfee Labs reveal.\nThe cybersecurity firm has assessed it to be a variant of a known malware called RedLine Stealer owing to the fact that the command-and-control (C2) server IP address has been previously identified as associated with the malware.\nRedLine Stealer,",
+          "link": "https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html",
+          "publishedOn": "2024-04-21T08:42:00.000Z",
+          "wordCount": null,
+          "title": "New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKp96Jwc4R7bDqoN3v7fSZWFdCEwRgQ6DCaskmu3HdgEWb9Ur2ciNaWD7DPcwrHUbGWWiyDg3gG0bh9247Xkqr3kLUTFd1g4viEfuCYG-AiaXMnx9TPpft9tQo7CQfcYKkUTo_GpNI-IluYeLw8KCUY_ZgYsMT9gcFp3it77u9EM5Cz8RQQH-fpubD5GVF/s1600/chart.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKp96Jwc4R7bDqoN3v7fSZWFdCEwRgQ6DCaskmu3HdgEWb9Ur2ciNaWD7DPcwrHUbGWWiyDg3gG0bh9247Xkqr3kLUTFd1g4viEfuCYG-AiaXMnx9TPpft9tQo7CQfcYKkUTo_GpNI-IluYeLw8KCUY_ZgYsMT9gcFp3it77u9EM5Cz8RQQH-fpubD5GVF/s1600/chart.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/palo-alto-networks-discloses-more.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Palo Alto Networks has shared more details of a critical security flaw impacting PAN-OS that has come under active exploitation in the wild by malicious actors.\nThe company described the vulnerability, tracked as CVE-2024-3400 (CVSS score: 10.0), as \"intricate\" and a combination of two bugs in versions PAN-OS 10.2, PAN-OS 11.0, and PAN-OS 11.1 of the software.\n\"In",
