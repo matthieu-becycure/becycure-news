@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-21T17:43:37.379Z</updated>
+    <updated>2024-04-21T18:13:27.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2390,17 +2390,6 @@ According]]></summary>
         <updated>2024-03-24T05:24:00.000Z</updated>
         <summary type="html"><![CDATA[German authorities have announced the takedown of an illicit underground marketplace called Nemesis Market that peddled narcotics, stolen data, and various cybercrime services.
 The Federal Criminal Police Office (aka Bundeskriminalamt or BKA) said it seized the digital infrastructure associated with the darknet service located in Germany and Lithuania and confiscated €94,000 ($102,107)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hackers Use 'WINELOADER' Malware to Target German Political Parties]]></title>
-        <id>https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html</id>
-        <link href="https://thehackernews.com/2024/03/russian-hackers-use-wineloader-malware.html"/>
-        <updated>2024-03-23T06:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The WINELOADER backdoor used in recent cyber attacks targeting diplomatic entities with wine-tasting phishing lures has been attributed as the handiwork of a hacking group with links to Russia's Foreign Intelligence Service (SVR), which was responsible for breaching SolarWinds and Microsoft.
-The findings come from Mandiant, which said Midnight Blizzard (aka APT29, BlueBravo, or]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
