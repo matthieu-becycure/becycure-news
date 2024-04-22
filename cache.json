@@ -2093,6 +2093,86 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-018/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-018/",
+          "publishedOn": "2024-04-22T13:17:40.000Z",
+          "wordCount": 1756,
+          "title": "CERTFR-2024-ACT-018 : Bulletin d’actualité CERTFR-2024-ACT-018 (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/",
+          "publishedOn": "2024-04-22T11:44:24.000Z",
+          "wordCount": 973,
+          "title": "CERTFR-2024-AVI-0341 : Multiples vulnérabilités dans Synacor Zimbra Collaboration (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/",
+          "publishedOn": "2024-04-22T11:27:18.000Z",
+          "wordCount": 947,
+          "title": "CERTFR-2024-AVI-0340 : [SCADA] Multiples vulnérabilités dans les produits Moxa (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0339/",
+          "publishedOn": "2024-04-22T08:21:52.000Z",
+          "wordCount": 928,
+          "title": "CERTFR-2024-AVI-0339 : Vulnérabilité dans Microsoft Edge (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Siemens RUGGEDCOM APE1808. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0338/",
+          "publishedOn": "2024-04-22T08:17:58.000Z",
+          "wordCount": 940,
+          "title": "CERTFR-2024-AVI-0338 : [SCADA] Vulnérabilité dans Siemens RUGGEDCOM APE1808 (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0337/",
+          "publishedOn": "2024-04-22T08:14:22.000Z",
+          "wordCount": 992,
+          "title": "CERTFR-2024-AVI-0337 : Multiples vulnérabilités dans Mozilla Thunderbird (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0336/",
+          "publishedOn": "2024-04-22T08:09:35.000Z",
+          "wordCount": 1068,
+          "title": "CERTFR-2024-AVI-0336 : Multiples vulnérabilités dans les produits OwnCloud (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0335/",
+          "publishedOn": "2024-04-22T08:06:06.000Z",
+          "wordCount": 930,
+          "title": "CERTFR-2024-AVI-0335 : Vulnérabilité dans SolarWinds Platform (22 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0334/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer un déni de service, une atteinte à la confidentialité des données et une élévation de privilèges.",
