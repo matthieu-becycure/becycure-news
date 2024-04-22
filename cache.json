@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as ToddyCat has been observed using a wide range of tools to retain access to compromised environments and steal valuable data.\nRussian cybersecurity firm Kaspersky characterized the adversary as relying on various programs to harvest data on an \"industrial scale\" from primarily governmental organizations, some of them defense related, located in",
+          "link": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
+          "publishedOn": "2024-04-22T15:11:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hacker Group ToddyCat Uses Advanced Tools for Industrial-Scale Data Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s1600/hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Over the past two years, a shocking 51% of organizations surveyed in a leading industry report have been compromised by a cyberattack. Yes, over half. \nAnd this, in a world where enterprises deploy an average of 53 different security solutions to safeguard their digital domain. \nAlarming? Absolutely.\nA recent survey of CISOs and CIOs, commissioned by Pentera and",
