@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-23T07:23:46.825Z</updated>
+    <updated>2024-04-23T07:43:54.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse]]></title>
+        <id>https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html</id>
+        <link href="https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html"/>
+        <updated>2024-04-23T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of State on Monday said it's taking steps to impose visa restrictions on 13 individuals who are allegedly involved in the development and sale of commercial spyware or who are immediately family members of those involved in such businesses.
+"These individuals have facilitated or derived financial benefit from the misuse of this technology, which]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware]]></title>
         <id>https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html</id>
