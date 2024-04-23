@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Researchers have identified a dependency confusion vulnerability impacting an archived Apache project called Cordova App Harness.\nDependency confusion attacks take place owing to the fact that package managers check the public repositories before private registries, thus allowing a threat actor to publish a malicious package with the same name to a public package repository.\nThis&",
+          "link": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
+          "publishedOn": "2024-04-23T14:00:00.000Z",
+          "wordCount": null,
+          "title": "Apache Cordova App Harness Targeted in Dependency Confusion Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s1600/apache.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipTe4ORzwDOOxCYWvZaOfvGA9uYTEBpWtzRELUaWAOZ7WkdWkmohTE8pgyG5_qcRKl5fSctn_pJWI3WP91stGM3JNG5SoK00O6aOvh5DBctd3Ay1J0qIR_V2HW7-Q5oAxaukeL-9xd0en-r0PYrHeMGr4Sm8QPjFQ4Wr39xzlY0VpsPYUgYhO7E7Vs0j_9/s1600/apache.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the high-stakes world of cybersecurity, the battleground has shifted. Supply chain attacks have emerged as a potent threat, exploiting the intricate web of interconnected systems and third-party dependencies to breach even the most formidable defenses. But what if you could turn the tables and proactively hunt these threats before they wreak havoc?\nWe invite you to join us for an",
