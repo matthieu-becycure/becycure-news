@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-23T20:43:37.028Z</updated>
+    <updated>2024-04-23T21:09:35.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2574,17 +2574,6 @@ CVE-2021-44529 (CVSS score: 9.8) - Ivanti]]></summary>
         <link href="https://thehackernews.com/2024/03/key-lesson-from-microsofts-password.html"/>
         <updated>2024-03-25T11:37:00.000Z</updated>
         <summary type="html"><![CDATA[In January 2024, Microsoft discovered they’d been the victim of a hack orchestrated by Russian-state hackers Midnight Blizzard (sometimes known as Nobelium). The concerning detail about this case is how easy it was to breach the software giant. It wasn’t a highly technical hack that exploited a zero-day vulnerability – the hackers used a simple password spray attack to take control of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New "GoFetch" Vulnerability in Apple M-Series Chips Leaks Secret Encryption Keys]]></title>
-        <id>https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html</id>
-        <link href="https://thehackernews.com/2024/03/new-gofetch-vulnerability-in-apple-m.html"/>
-        <updated>2024-03-25T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[A new security shortcoming discovered in Apple M-series chips could be exploited to extract secret keys used during cryptographic operations.
-Dubbed GoFetch, the vulnerability relates to a microarchitectural side-channel attack that takes advantage of a feature known as data memory-dependent prefetcher (DMP) to target constant-time cryptographic implementations and capture sensitive data]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
