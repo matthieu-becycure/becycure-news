@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-23T05:10:10.554Z</updated>
+    <updated>2024-04-23T05:26:56.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware]]></title>
+        <id>https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html</id>
+        <link href="https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html"/>
+        <updated>2024-04-23T04:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russia-linked nation-state threat actor tracked as APT28 weaponized a security flaw in the Microsoft Windows Print Spooler component to deliver a previously unknown custom malware called GooseEgg.
+The post-compromise tool, which is said to have been used since at least June 2020 and possibly as early as April 2019, leveraged a now-patched flaw that allowed for]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hacker Group ToddyCat Uses Advanced Tools for Industrial-Scale Data Theft]]></title>
         <id>https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html</id>

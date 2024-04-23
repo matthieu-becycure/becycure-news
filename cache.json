@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russia-linked nation-state threat actor tracked as APT28 weaponized a security flaw in the Microsoft Windows Print Spooler component to deliver a previously unknown custom malware called GooseEgg.\nThe post-compromise tool, which is said to have been used since at least June 2020 and possibly as early as April 2019, leveraged a now-patched flaw that allowed for",
+          "link": "https://thehackernews.com/2024/04/russias-apt28-exploited-windows-print.html",
+          "publishedOn": "2024-04-23T04:23:00.000Z",
+          "wordCount": null,
+          "title": "Russia's APT28 Exploited Windows Print Spooler Flaw to Deploy 'GooseEgg' Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s1600/printer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_fROYmGngB4OefA4Mo8bWwygHybKze_nvXx_xyqquNJ6chD9s8J-a-Elrlu6LT5EoaI1NIkrelChdqgjfinkjVtdBKLDYu2ulrlQ0tR9JsmtC-L2_BhXdT60AtkQrxPTfwQUveDlPH_wKFuUfrVSmeMzUWsOslD0BTK96iP-U_mxL6GGy16oxBtN8YR8E/s1600/printer.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as ToddyCat has been observed using a wide range of tools to retain access to compromised environments and steal valuable data.\nRussian cybersecurity firm Kaspersky characterized the adversary as relying on various programs to harvest data on an \"industrial scale\" from primarily governmental organizations, some of them defense related, located in",
