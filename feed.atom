@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-23T12:19:39.045Z</updated>
+    <updated>2024-04-23T12:44:42.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Learn Proactive Supply Chain Threat Hunting Techniques]]></title>
+        <id>https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html</id>
+        <link href="https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html"/>
+        <updated>2024-04-23T11:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In the high-stakes world of cybersecurity, the battleground has shifted. Supply chain attacks have emerged as a potent threat, exploiting the intricate web of interconnected systems and third-party dependencies to breach even the most formidable defenses. But what if you could turn the tables and proactively hunt these threats before they wreak havoc?
+We invite you to join us for an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unmasking the True Cost of Cyberattacks: Beyond Ransom and Recovery]]></title>
         <id>https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html</id>

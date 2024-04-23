@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the high-stakes world of cybersecurity, the battleground has shifted. Supply chain attacks have emerged as a potent threat, exploiting the intricate web of interconnected systems and third-party dependencies to breach even the most formidable defenses. But what if you could turn the tables and proactively hunt these threats before they wreak havoc?\nWe invite you to join us for an",
+          "link": "https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html",
+          "publishedOn": "2024-04-23T11:28:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: Learn Proactive Supply Chain Threat Hunting Techniques",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s1600/webinar.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8frzo_MCme_KYmb0SHKfTCkXY6rRbNoQDVcPyJOfkX5cjCbdK5Jpr4ImdKuTJNq9NjEfQNIzDiA29j2Zg_VV6cHlwZRZTAmVltOVvB6bVgJBv3Pis8Y59Bk4BShoXWnCRIRi7m2R7TIJNIhgyh4CyqJ24v26XYZWFtotrti28S55ANi7kCniQoKNzuMk/s1600/webinar.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/unmasking-true-cost-of-cyberattacks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity breaches can be devastating for both individuals and businesses alike. While many people tend to focus on understanding how and why they were targeted by such breaches, there's a larger, more pressing question: What is the true financial impact of a cyberattack? According to research by Cybersecurity Ventures, the global cost of cybercrime is projected to reach",
