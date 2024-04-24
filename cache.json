@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security vulnerabilities uncovered in cloud-based pinyin keyboard apps could be exploited to reveal users' keystrokes to nefarious actors.\nThe findings come from the Citizen Lab, which discovered weaknesses in eight of nine apps from vendors like Baidu, Honor, iFlytek, OPPO, Samsung, Tencent, Vivo, and Xiaomi. The only vendor whose keyboard app did not have any security",
+          "link": "https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html",
+          "publishedOn": "2024-04-24T09:36:00.000Z",
+          "wordCount": null,
+          "title": "Major Security Flaws Expose Keystrokes of Over 1 Billion Chinese Keyboard App Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhysv9Vr-9_ufQmaJ4SD6qOv43h9-ycAg8WBdkh5Dw1Mgt5szz2UNW95DNZhfWyvFQYhtttQF9EYx-ab-ghj6GS_bZqYs6ObFK8aZmByk8QZhhIXp-8ACKFvvsbU2I8EZ_nYVBkXn5K0NvEhyGewChoGRt-LNYCRImwb0nbRd3kRNyTNQkYZ8zUH6cIX410/s1600/mobile.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhysv9Vr-9_ufQmaJ4SD6qOv43h9-ycAg8WBdkh5Dw1Mgt5szz2UNW95DNZhfWyvFQYhtttQF9EYx-ab-ghj6GS_bZqYs6ObFK8aZmByk8QZhhIXp-8ACKFvvsbU2I8EZ_nYVBkXn5K0NvEhyGewChoGRt-LNYCRImwb0nbRd3kRNyTNQkYZ8zUH6cIX410/s1600/mobile.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new malware campaign has been exploiting the updating mechanism of the eScan antivirus software to distribute backdoors and cryptocurrency miners like XMRig through a long-standing threat codenamed GuptiMiner targeting large corporate networks.\nCybersecurity firm Avast said the activity is the work of a threat actor with possible connections to a North Korean hacking group dubbed",
