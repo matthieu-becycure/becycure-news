@@ -3113,16 +3113,6 @@
           "wordCount": 979,
           "title": "CERTFR-2024-AVI-0249 : Multiples vulnérabilités dans Tenable Security Center (26 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-014/",
-          "author": null,
-          "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-014/",
-          "publishedOn": "2024-03-25T14:46:20.000Z",
-          "wordCount": 1664,
-          "title": "CERTFR-2024-ACT-014 : Bulletin d’actualité CERTFR-2024-ACT-014 (25 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
