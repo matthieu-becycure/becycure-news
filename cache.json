@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new ongoing malware campaign has been observed distributing three different stealers, such as CryptBot, LummaC2, and Rhadamanthys hosted on Content Delivery Network (CDN) cache domains since at least February 2024.\nCisco Talos has attributed the activity with moderate confidence to a threat actor tracked as CoralRaider, a suspected Vietnamese-origin",
+          "link": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
+          "publishedOn": "2024-04-24T04:50:00.000Z",
+          "wordCount": null,
+          "title": "CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s1600/talos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn9TEXkgFxxcrYO8bcIiZ3PbUyFbRFrzkUUvRP4W1jjW9yhngkZb5nUNqdgVnIuQWOj0HD0vGwFvKKxJNl4q4-m7RI9w-B1rlzmkyOQZKi-nde48HP9BymMgqGGQaNexNKi_cpLQQqA_H8xBNRS1l5vdCSBVGqyhtnQiU_k2xm-7M5Ob86zdXLnjhntlkp/s1600/talos.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Researchers have identified a dependency confusion vulnerability impacting an archived Apache project called Cordova App Harness.\nDependency confusion attacks take place owing to the fact that package managers check the public repositories before private registries, thus allowing a threat actor to publish a malicious package with the same name to a public package repository.\nThis&",
