@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-24T13:43:30.166Z</updated>
+    <updated>2024-04-24T14:11:19.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Treasury Sanctions Iranian Firms and Individuals Tied to Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html</id>
+        <link href="https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html"/>
+        <updated>2024-04-24T13:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Monday sanctioned two firms and four individuals for their involvement in malicious cyber activities on behalf of the Iranian Islamic Revolutionary Guard Corps Cyber Electronic Command (IRGC-CEC) from at least 2016 to April 2021.
+This includes the front companies Mehrsam Andisheh Saz Nik (MASN) and Dadeh]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike]]></title>
+        <id>https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html</id>
+        <link href="https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html"/>
+        <updated>2024-04-24T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an ongoing attack campaign that's leveraging phishing emails to deliver malware called SSLoad.
+The campaign, codenamed FROZEN#SHADOW by Securonix, also involves the deployment of Cobalt Strike and the ConnectWise ScreenConnect remote desktop software.
+"SSLoad is designed to stealthily infiltrate systems, gather sensitive]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Major Security Flaws Expose Keystrokes of Over 1 Billion Chinese Keyboard App Users]]></title>
         <id>https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html</id>
