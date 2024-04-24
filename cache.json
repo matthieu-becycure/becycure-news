@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware campaign has been exploiting the updating mechanism of the eScan antivirus software to distribute backdoors and cryptocurrency miners like XMRig through a long-standing threat codenamed GuptiMiner targeting large corporate networks.\nCybersecurity firm Avast said the activity is the work of a threat actor with possible connections to a North Korean hacking group dubbed",
+          "link": "https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html",
+          "publishedOn": "2024-04-24T07:02:00.000Z",
+          "wordCount": null,
+          "title": "eScan Antivirus Update Mechanism Exploited to Spread Backdoors and Miners",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlG2kXWEMk6-E3mHu3GyTl0Jl0tx14U3EpMbIvbw2WXVSZ5nzff12hGgsApTXSViiC0_2VTQXDGTFW_CizX7-tC5yWTCYYNwQxqgdBcLdETu0uulNIzqzvIiD2fMyjzxFqaDp9z5KgkQBRtuSgLuFeDim9CeWgYxPhYF9gTgWDIVxHyYsabGsFh18sJZSZ/s1600/antivirus.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlG2kXWEMk6-E3mHu3GyTl0Jl0tx14U3EpMbIvbw2WXVSZ5nzff12hGgsApTXSViiC0_2VTQXDGTFW_CizX7-tC5yWTCYYNwQxqgdBcLdETu0uulNIzqzvIiD2fMyjzxFqaDp9z5KgkQBRtuSgLuFeDim9CeWgYxPhYF9gTgWDIVxHyYsabGsFh18sJZSZ/s1600/antivirus.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new ongoing malware campaign has been observed distributing three different stealers, such as CryptBot, LummaC2, and Rhadamanthys hosted on Content Delivery Network (CDN) cache domains since at least February 2024.\nCisco Talos has attributed the activity with moderate confidence to a threat actor tracked as CoralRaider, a suspected Vietnamese-origin",
