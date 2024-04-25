@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-25T22:43:43.805Z</updated>
+    <updated>2024-04-25T23:10:43.172Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2557,17 +2557,6 @@ The vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical re
         <updated>2024-03-27T12:54:00.000Z</updated>
         <summary type="html"><![CDATA[A now-patched security flaw in the Microsoft Edge web browser could have been abused to install arbitrary extensions on users' systems and carry out malicious actions. 
 "This flaw could have allowed an attacker to exploit a private API, initially intended for marketing purposes, to covertly install additional browser extensions with broad permissions without the user's knowledge," Guardio]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SASE Solutions Fall Short Without Enterprise Browser Extensions, New Report Reveals]]></title>
-        <id>https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html</id>
-        <link href="https://thehackernews.com/2024/03/sase-solutions-fall-short-without.html"/>
-        <updated>2024-03-27T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[As SaaS applications dominate the business landscape, organizations need optimized network speed and robust security measures. Many of them have been turning to SASE, a product category that offers cloud-based network protection while enhancing network infrastructure performance.
-However, a new report: "Better Together: SASE and Enterprise Browser Extension for the SaaS-First Enterprise" (]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
