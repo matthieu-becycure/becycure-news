@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-25T17:43:39.190Z</updated>
+    <updated>2024-04-25T18:13:23.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures]]></title>
+        <id>https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html</id>
+        <link href="https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html"/>
+        <updated>2024-04-25T16:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-linked threat actor known as Lazarus Group employed its time-tested fabricated job lures to deliver a new remote access trojan called Kaolin RAT.
+The malware could, "aside from standard RAT functionality, change the last write timestamp of a selected file and load any received DLL binary from [command-and-control] server," Avast security researcher Luigino]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-ALE-007 : Multiples vulnérabilités dans les produits Cisco (25 avril 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/</id>
