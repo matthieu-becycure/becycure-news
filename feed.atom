@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-25T10:30:19.974Z</updated>
+    <updated>2024-04-25T10:43:46.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions]]></title>
+        <id>https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html</id>
+        <link href="https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html"/>
+        <updated>2024-04-25T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday announced the arrest of two co-founders of a cryptocurrency mixer called Samourai and seized the service for allegedly facilitating over $2 billion in illegal transactions and for laundering more than $100 million in criminal proceeds.
+To that end, Keonne Rodriguez, 35, and William Lonergan Hill, 65, have been charged]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny]]></title>
         <id>https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html</id>
