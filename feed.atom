@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-25T19:43:27.620Z</updated>
+    <updated>2024-04-25T20:10:33.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2579,18 +2579,6 @@ However, a new report: "Better Together: SASE and Enterprise Browser Extension f
         <updated>2024-03-27T10:39:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning that threat actors are actively exploiting a "disputed" and unpatched vulnerability in an open-source artificial intelligence (AI) platform called Anyscale Ray to hijack computing power for illicit cryptocurrency mining.
 "This vulnerability allows attackers to take over the companies' computing power and leak sensitive data," Oligo Security researchers Avi]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: New Phishing Attack Delivers Keylogger Disguised as Bank Payment Notice]]></title>
-        <id>https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html</id>
-        <link href="https://thehackernews.com/2024/03/alert-new-phishing-attack-delivers.html"/>
-        <updated>2024-03-27T07:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A new phishing campaign has been observed leveraging a novel loader malware to deliver an information stealer and keylogger called Agent Tesla.
-Trustwave SpiderLabs said it identified a phishing email bearing this attack chain on March 8, 2024. The message masquerades as a bank payment notification, urging the user to open an archive file attachment.
-The archive ("Bank Handlowy w Warszawie]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
