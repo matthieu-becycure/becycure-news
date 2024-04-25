@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-25T11:23:27.073Z</updated>
+    <updated>2024-04-25T11:43:33.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Network Threats: A Step-by-Step Attack Demonstration]]></title>
+        <id>https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html</id>
+        <link href="https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html"/>
+        <updated>2024-04-25T11:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Follow this real-life network attack simulation, covering 6 steps from Initial Access to Data Exfiltration. See how attackers remain undetected with the simplest tools and why you need multiple choke points in your defense strategy.
+Surprisingly, most network attacks are not exceptionally sophisticated, technologically advanced, or reliant on zero-day tools that exploit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOJ Arrests Founders of Crypto Mixer Samourai for $2 Billion in Illegal Transactions]]></title>
         <id>https://thehackernews.com/2024/04/doj-arrests-founders-of-crypto-mixer.html</id>
