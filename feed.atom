@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-26T14:43:35.710Z</updated>
+    <updated>2024-04-26T15:11:27.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Severe Flaws Disclosed in Brocade SANnav SAN Management Software]]></title>
+        <id>https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html</id>
+        <link href="https://thehackernews.com/2024/04/severe-flaws-disclosed-in-brocade.html"/>
+        <updated>2024-04-26T14:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Several security vulnerabilities disclosed in Brocade SANnav storage area network (SAN) management application could be exploited to compromise susceptible appliances.
+The 18 flaws impact all versions up to and including 2.3.0, according to independent security researcher Pierre Barre, who discovered and reported them.
+The issues range from incorrect firewall rules,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0353 : Multiples vulnérabilités dans le noyau Linux de Red Hat (26 avril 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/</id>
