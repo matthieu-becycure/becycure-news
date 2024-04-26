@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-26T10:43:35.522Z</updated>
+    <updated>2024-04-26T11:08:43.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[10 Critical Endpoint Security Tips You Should Know]]></title>
+        <id>https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html</id>
+        <link href="https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html"/>
+        <updated>2024-04-26T10:46:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital world, where connectivity is rules all, endpoints serve as the gateway to a business’s digital kingdom. And because of this, endpoints are one of hackers' favorite targets. 
+According to the IDC, 70% of successful breaches start at the endpoint. Unprotected endpoints provide vulnerable entry points to launch devastating cyberattacks. With IT]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 'Brokewell' Android Malware Spread Through Fake Browser Updates]]></title>
+        <id>https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html</id>
+        <link href="https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html"/>
+        <updated>2024-04-26T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Fake browser updates are being used to push a previously undocumented Android malware called Brokewell.
+"Brokewell is a typical modern banking malware equipped with both data-stealing and remote-control capabilities built into the malware," Dutch security firm ThreatFabric said in an analysis published Thursday.
+The malware is said to be in active development,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto Networks Outlines Remediation for Critical PAN-OS Flaw Under Attack]]></title>
+        <id>https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html</id>
+        <link href="https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html"/>
+        <updated>2024-04-26T10:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Palo Alto Networks has shared remediation guidance for a recently disclosed critical security flaw impacting PAN-OS that has come under active exploitation.
+The vulnerability, tracked as CVE-2024-3400 (CVSS score: 10.0), could be weaponized to obtain unauthenticated remote shell command execution on susceptible devices. It has been addressed in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploiting WP-Automatic Plugin Bug to Create Admin Accounts on WordPress Sites]]></title>
         <id>https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html</id>

@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's digital world, where connectivity is rules all, endpoints serve as the gateway to a business’s digital kingdom. And because of this, endpoints are one of hackers' favorite targets. \nAccording to the IDC, 70% of successful breaches start at the endpoint. Unprotected endpoints provide vulnerable entry points to launch devastating cyberattacks. With IT",
+          "link": "https://thehackernews.com/2024/04/10-critical-endpoint-security-tips-you.html",
+          "publishedOn": "2024-04-26T10:46:00.000Z",
+          "wordCount": null,
+          "title": "10 Critical Endpoint Security Tips You Should Know",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s1600/tips.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKqBbsK1mQE_xOQilpK5i8fFbuLFk3B8ZPVIgi5mUTgJRworp0V7bIC9A-tj9a2c1Cwg_CkrUoPP5lrvE-YscLc4jptJNnNRzPlVafN-cXj9yW8YsNsAjsoJHLxBhkQ4aBrR-ylwDR61t5t99j6Nra_Wo-M6YoDiH8H7yl7eYADUScVPbecG0SJzUkukE/s1600/tips.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Fake browser updates are being used to push a previously undocumented Android malware called Brokewell.\n\"Brokewell is a typical modern banking malware equipped with both data-stealing and remote-control capabilities built into the malware,\" Dutch security firm ThreatFabric said in an analysis published Thursday.\nThe malware is said to be in active development,",
+          "link": "https://thehackernews.com/2024/04/new-brokewell-android-malware-spread.html",
+          "publishedOn": "2024-04-26T10:42:00.000Z",
+          "wordCount": null,
+          "title": "New 'Brokewell' Android Malware Spread Through Fake Browser Updates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE9eeH2JGH6GFibi6gSwnWQ4vnHrWa1ekrq7ugJqj2uQHCKviLCjwVtko8DpuRJgFu-Ye4DR0i2YVuQc-t3rqFgy_mGeRTdE37SDc_GySLWJSL8ahyphenhyphenA7iAnptIsKon1uvsRhuCfIz-EzjpFcJgtPqC9jTG8upDIOBD6ikEbBRZmH_GdqZWzHeh7-0ANkcd/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE9eeH2JGH6GFibi6gSwnWQ4vnHrWa1ekrq7ugJqj2uQHCKviLCjwVtko8DpuRJgFu-Ye4DR0i2YVuQc-t3rqFgy_mGeRTdE37SDc_GySLWJSL8ahyphenhyphenA7iAnptIsKon1uvsRhuCfIz-EzjpFcJgtPqC9jTG8upDIOBD6ikEbBRZmH_GdqZWzHeh7-0ANkcd/s1600/android.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Palo Alto Networks has shared remediation guidance for a recently disclosed critical security flaw impacting PAN-OS that has come under active exploitation.\nThe vulnerability, tracked as CVE-2024-3400 (CVSS score: 10.0), could be weaponized to obtain unauthenticated remote shell command execution on susceptible devices. It has been addressed in",
+          "link": "https://thehackernews.com/2024/04/palo-alto-networks-outlines-remediation.html",
+          "publishedOn": "2024-04-26T10:18:00.000Z",
+          "wordCount": null,
+          "title": "Palo Alto Networks Outlines Remediation for Critical PAN-OS Flaw Under Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh51s_R2LKBS5_Vyt5ZYjPJ-AFIeQwqesJ00PFax-MVb5d89Zdg-KoxkkYQIorYYKCyVBw4vWSLB2aOKc63wLtPpUbmFGVypBHsyFKrrx3kchfcV8Zfv2GN0MI0xgc0kR07M9UBCCy5C45y8syjCvWFRwsScF-5HG2orj3BZR7jL-k_N9JiyDU9xtEWVnqY/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh51s_R2LKBS5_Vyt5ZYjPJ-AFIeQwqesJ00PFax-MVb5d89Zdg-KoxkkYQIorYYKCyVBw4vWSLB2aOKc63wLtPpUbmFGVypBHsyFKrrx3kchfcV8Zfv2GN0MI0xgc0kR07M9UBCCy5C45y8syjCvWFRwsScF-5HG2orj3BZR7jL-k_N9JiyDU9xtEWVnqY/s1600/hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/hackers-exploiting-wp-automatic-plugin.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are attempting to actively exploit a critical security flaw in the WP‑Automatic plugin for WordPress that could allow site takeovers.\nThe shortcoming, tracked as CVE-2024-27956, carries a CVSS score of 9.9 out of a maximum of 10. It impacts all versions of the plugin prior to 3.9.2.0.\n\"This vulnerability, a SQL injection (SQLi) flaw, poses a severe threat as",
