@@ -3145,26 +3145,6 @@
           "wordCount": 1244,
           "title": "CERTFR-2024-AVI-0262 : Multiples vulnérabilités dans les produits IBM (29 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été corrigées dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0261/",
-          "publishedOn": "2024-03-28T10:34:35.000Z",
-          "wordCount": 988,
-          "title": "CERTFR-2024-AVI-0261 : Multiples vulnérabilités dans Microsoft Edge (28 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0260/",
-          "publishedOn": "2024-03-28T10:31:06.000Z",
-          "wordCount": 1295,
-          "title": "CERTFR-2024-AVI-0260 : Multiples vulnérabilités dans les produits Cisco (28 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
