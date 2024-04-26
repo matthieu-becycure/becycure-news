@@ -2100,38 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL-VtQI47wDMn5mFnZwgXABjMrDqsWTbdpGleNX6ZYdLN-vlIL3Q18L6jd6Mss2gLkKAo-YpaBeji1mCAgOkoUn-rHzSNRL8uHKv77Qtbl-Joq8TEoHrP_Eb3rMqi3UTfJJ7QQ3OSYO8B2lzoc8Qyp5ux7Kc7Pbgwwc9eyUaejXvoJOBKz9ezvjXCREFlz/s1600/india.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL-VtQI47wDMn5mFnZwgXABjMrDqsWTbdpGleNX6ZYdLN-vlIL3Q18L6jd6Mss2gLkKAo-YpaBeji1mCAgOkoUn-rHzSNRL8uHKv77Qtbl-Joq8TEoHrP_Eb3rMqi3UTfJJ7QQ3OSYO8B2lzoc8Qyp5ux7Kc7Pbgwwc9eyUaejXvoJOBKz9ezvjXCREFlz/s1600/india.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting the Microsoft Sharepoint Server to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation in the wild.\nThe vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical remote code execution flaw that allows an authenticated attacker with",
-          "link": "https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html",
-          "publishedOn": "2024-03-27T13:15:00.000Z",
-          "wordCount": null,
-          "title": "CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqbhRw2aPiRc30nzTv6OoQayNmcxJY45m1Kml7gyKy1XhijrxgnmwnAqk555rWJkZLkIXYrN1qCZCD3GWgkr06YIcP9JcJtSSONs6yCIG3ux5vM5XP9AEmslQx8QVv9LQi51Oem0zMkoV5ZrJ4Nui2QiO2C1Ep_GJlxnMvzvxixQl3_0DyEz9bhLamiaH/s1600/SharePoint.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEqbhRw2aPiRc30nzTv6OoQayNmcxJY45m1Kml7gyKy1XhijrxgnmwnAqk555rWJkZLkIXYrN1qCZCD3GWgkr06YIcP9JcJtSSONs6yCIG3ux5vM5XP9AEmslQx8QVv9LQi51Oem0zMkoV5ZrJ4Nui2QiO2C1Ep_GJlxnMvzvxixQl3_0DyEz9bhLamiaH/s1600/SharePoint.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security flaw in the Microsoft Edge web browser could have been abused to install arbitrary extensions on users' systems and carry out malicious actions. \n\"This flaw could have allowed an attacker to exploit a private API, initially intended for marketing purposes, to covertly install additional browser extensions with broad permissions without the user's knowledge,\" Guardio",
-          "link": "https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html",
-          "publishedOn": "2024-03-27T12:54:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hfqeVHLTPOHxJq0REnUwUllrYfG9kYrEfHMVkQ6m_A9ex42vECeoErJfjIbOUn1YOeEpXxOKNr3FGUwNQb6Hq6b-l_Ku9XqJ5NrjE3qCO-GJFMSsuXGWp8a30kXls6fU7vVzJaCoMgomRLr7kkAK7OmpInI1i9Tg81-isZrBMt9pxv1Zz7OiNvTi-SSw/s1600/browser.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hfqeVHLTPOHxJq0REnUwUllrYfG9kYrEfHMVkQ6m_A9ex42vECeoErJfjIbOUn1YOeEpXxOKNr3FGUwNQb6Hq6b-l_Ku9XqJ5NrjE3qCO-GJFMSsuXGWp8a30kXls6fU7vVzJaCoMgomRLr7kkAK7OmpInI1i9Tg81-isZrBMt9pxv1Zz7OiNvTi-SSw/s1600/browser.jpg"
         }
       ]
     },
@@ -3148,36 +3116,6 @@
           "publishedOn": "2024-03-28T09:36:04.000Z",
           "wordCount": 928,
           "title": "CERTFR-2024-AVI-0255 : Vulnérabilité dans GLPI (28 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/",
-          "publishedOn": "2024-03-27T13:42:07.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2024-AVI-0254 : Multiples vulnérabilités dans Google Chrome (27 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/",
-          "publishedOn": "2024-03-27T13:39:49.000Z",
-          "wordCount": 939,
-          "title": "CERTFR-2024-AVI-0253 : Vulnérabilité dans Aruba ArubaOS-Switch (27 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/",
-          "publishedOn": "2024-03-27T13:33:55.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2024-AVI-0252 : Multiples vulnérabilités dans Nagios XI (27 mars 2024)",
           "imageUrl": null
         }
       ]

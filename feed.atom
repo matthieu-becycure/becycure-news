@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-26T00:48:01.119Z</updated>
+    <updated>2024-04-26T01:48:25.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2505,58 +2505,6 @@ Amidst this backdrop, a critical aspect subtly weaves into the]]></summary>
         <updated>2024-03-27T15:24:00.000Z</updated>
         <summary type="html"><![CDATA[Indian government entities and energy companies have been targeted by unknown threat actors with an aim to deliver a modified version of an open-source information stealer malware called HackBrowserData and exfiltrate sensitive information in some cases by using Slack as command-and-control (C2).
 "The information stealer was delivered via a phishing email, masquerading as an invitation letter]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0254 : Multiples vulnérabilités dans Google Chrome (27 mars 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0254/"/>
-        <updated>2024-03-27T13:42:07.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0253 : Vulnérabilité dans Aruba ArubaOS-Switch (27 mars 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0253/"/>
-        <updated>2024-03-27T13:39:49.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Aruba ArubaOS-Switch. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0252 : Multiples vulnérabilités dans Nagios XI (27 mars 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0252/"/>
-        <updated>2024-03-27T13:33:55.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns: Hackers Actively Attacking Microsoft SharePoint Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html</id>
-        <link href="https://thehackernews.com/2024/03/cisa-warns-hackers-actively-attacking.html"/>
-        <updated>2024-03-27T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting the Microsoft Sharepoint Server to its Known Exploited Vulnerabilities (KEV) catalog based on evidence of active exploitation in the wild.
-The vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical remote code execution flaw that allows an authenticated attacker with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Edge Bug Could Have Allowed Attackers to Silently Install Malicious Extensions]]></title>
-        <id>https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html</id>
-        <link href="https://thehackernews.com/2024/03/microsoft-edge-bug-could-have-allowed.html"/>
-        <updated>2024-03-27T12:54:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched security flaw in the Microsoft Edge web browser could have been abused to install arbitrary extensions on users' systems and carry out malicious actions. 
-"This flaw could have allowed an attacker to exploit a private API, initially intended for marketing purposes, to covertly install additional browser extensions with broad permissions without the user's knowledge," Guardio]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
