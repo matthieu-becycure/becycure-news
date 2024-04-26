@@ -3165,26 +3165,6 @@
           "wordCount": 1295,
           "title": "CERTFR-2024-AVI-0260 : Multiples vulnérabilités dans les produits Cisco (28 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0259/",
-          "publishedOn": "2024-03-28T09:56:28.000Z",
-          "wordCount": 977,
-          "title": "CERTFR-2024-AVI-0259 : Multiples vulnérabilités dans GitLab (28 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0258/",
-          "publishedOn": "2024-03-28T09:53:35.000Z",
-          "wordCount": 1062,
-          "title": "CERTFR-2024-AVI-0258 : Multiples vulnérabilités dans les produits Splunk (28 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
