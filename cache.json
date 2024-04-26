@@ -3185,36 +3185,6 @@
           "wordCount": 1062,
           "title": "CERTFR-2024-AVI-0258 : Multiples vulnérabilités dans les produits Splunk (28 mars 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Elasticsearch. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0257/",
-          "publishedOn": "2024-03-28T09:42:36.000Z",
-          "wordCount": 970,
-          "title": "CERTFR-2024-AVI-0257 : Multiples vulnérabilités dans Elasticsearch (28 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0256/",
-          "publishedOn": "2024-03-28T09:38:33.000Z",
-          "wordCount": 929,
-          "title": "CERTFR-2024-AVI-0256 : Vulnérabilité dans Wireshark (28 mars 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans GLPI. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0255/",
-          "publishedOn": "2024-03-28T09:36:04.000Z",
-          "wordCount": 928,
-          "title": "CERTFR-2024-AVI-0255 : Vulnérabilité dans GLPI (28 mars 2024)",
-          "imageUrl": null
         }
       ]
     }
