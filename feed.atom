@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-26T03:12:26.477Z</updated>
+    <updated>2024-04-26T03:26:54.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2494,17 +2494,6 @@ Amidst this backdrop, a critical aspect subtly weaves into the]]></summary>
         <updated>2024-03-28T08:07:00.000Z</updated>
         <summary type="html"><![CDATA[In June 2017, a study of more than 3,000 Massachusetts Institute of Technology (MIT) students published by the National Bureau for Economic Research (NBER) found that 98% of them were willing to give away their friends' email addresses in exchange for free pizza.
 "Whereas people say they care about privacy, they are willing to relinquish private data quite easily when]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Hit Indian Defense, Energy Sectors with Malware Posing as Air Force Invite]]></title>
-        <id>https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html</id>
-        <link href="https://thehackernews.com/2024/03/hackers-target-indian-defense-and.html"/>
-        <updated>2024-03-27T15:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Indian government entities and energy companies have been targeted by unknown threat actors with an aim to deliver a modified version of an open-source information stealer malware called HackBrowserData and exfiltrate sensitive information in some cases by using Slack as command-and-control (C2).
-"The information stealer was delivered via a phishing email, masquerading as an invitation letter]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
