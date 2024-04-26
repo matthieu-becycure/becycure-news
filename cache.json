@@ -2157,6 +2157,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/",
+          "publishedOn": "2024-04-26T12:39:30.000Z",
+          "wordCount": 1266,
+          "title": "CERTFR-2024-AVI-0353 : Multiples vulnérabilités dans le noyau Linux de Red Hat (26 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0352/",
+          "publishedOn": "2024-04-26T12:36:10.000Z",
+          "wordCount": 1213,
+          "title": "CERTFR-2024-AVI-0352 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (26 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0351/",
+          "publishedOn": "2024-04-26T11:51:16.000Z",
+          "wordCount": 1485,
+          "title": "CERTFR-2024-AVI-0351 : Multiples vulnérabilités dans le noyau Linux de SUSE (26 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0350/",
+          "publishedOn": "2024-04-26T11:27:57.000Z",
+          "wordCount": 1230,
+          "title": "CERTFR-2024-AVI-0350 : Multiples vulnérabilités dans les produits IBM (26 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité..",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/",
+          "publishedOn": "2024-04-26T11:11:04.000Z",
+          "wordCount": 932,
+          "title": "CERTFR-2024-AVI-0349 : [SCADA] Vulnérabilité dans les produits Belden (26 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
           "author": null,
           "description": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD.\n Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées.\n …",
