@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-27T02:33:43.272Z</updated>
+    <updated>2024-04-27T02:43:41.441Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2477,17 +2477,6 @@ In October 2023, Slovak cybersecurity firm ESET]]></summary>
         <updated>2024-03-28T16:50:00.000Z</updated>
         <summary type="html"><![CDATA[The Police of Finland (aka Poliisi) has formally accused a Chinese nation-state actor tracked as APT31 for orchestrating a cyber attack targeting the country's Parliament in 2020.
 The intrusion, per the authorities, is said to have occurred between fall 2020 and early 2021. The agency described the ongoing criminal probe as both demanding and time-consuming, involving extensive analysis of a "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darcula Phishing Network Leveraging RCS and iMessage to Evade Detection]]></title>
-        <id>https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html</id>
-        <link href="https://thehackernews.com/2024/03/darcula-phishing-network-leveraging-rcs.html"/>
-        <updated>2024-03-28T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[A sophisticated phishing-as-a-service (PhaaS) platform called Darcula has set its sights on organizations in over 100 countries by leveraging a massive network of more than 20,000 counterfeit domains to help cyber criminals launch attacks at scale.
-"Using iMessage and RCS rather than SMS to send text messages has the side effect of bypassing SMS firewalls, which is being used to great]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
