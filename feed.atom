@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-27T17:26:02.289Z</updated>
+    <updated>2024-04-27T17:43:48.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2466,17 +2466,6 @@ The shortcomings have been collectively named Unsaflok by researchers Lennert 
         <updated>2024-03-29T10:49:00.000Z</updated>
         <summary type="html"><![CDATA[Details have emerged about a vulnerability impacting the "wall" command of the util-linux package that could be potentially exploited by a bad actor to leak a user's password or alter the clipboard on certain Linux distributions.
 The bug, tracked as CVE-2024-28085, has been codenamed WallEscape by security researcher Skyler Ferrante. It has been described as a case of improper]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyPI Halts Sign-Ups Amid Surge of Malicious Package Uploads Targeting Developers]]></title>
-        <id>https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html</id>
-        <link href="https://thehackernews.com/2024/03/pypi-halts-sign-ups-amid-surge-of.html"/>
-        <updated>2024-03-29T05:37:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the Python Package Index (PyPI) repository briefly suspended new user sign-ups following an influx of malicious projects uploaded as part of a typosquatting campaign.
-It said "new project creation and new user registration" was temporarily halted to mitigate what it said was a "malware upload campaign." The incident was resolved 10 hours later, on March 28, 2024, at]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
