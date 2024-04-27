@@ -2052,22 +2052,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9ElOTbNAt5k5j-ltPGGFa-moCMT_im0qZ5EVVToyiRICw4d1Ih33RkYpae9Q_oSwKtbmJz3CF76qD1UxYzSEOHRj2myBEEMOmO5ZFbCEUiROcybT1xPypQ9dnBEEQ6gawO1CJJ0ukBgxyPocLIzYXo53n7tf3L31ItjRL6YTzRTzHupkeHnTMGlQYFk/s1600/main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9ElOTbNAt5k5j-ltPGGFa-moCMT_im0qZ5EVVToyiRICw4d1Ih33RkYpae9Q_oSwKtbmJz3CF76qD1UxYzSEOHRj2myBEEMOmO5ZFbCEUiROcybT1xPypQ9dnBEEQ6gawO1CJJ0ukBgxyPocLIzYXo53n7tf3L31ItjRL6YTzRTzHupkeHnTMGlQYFk/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Details have emerged about a vulnerability impacting the \"wall\" command of the util-linux package that could be potentially exploited by a bad actor to leak a user's password or alter the clipboard on certain Linux distributions.\nThe bug, tracked as CVE-2024-28085, has been codenamed WallEscape by security researcher Skyler Ferrante. It has been described as a case of improper",
-          "link": "https://thehackernews.com/2024/03/new-linux-bug-could-lead-to-user.html",
-          "publishedOn": "2024-03-29T10:49:00.000Z",
-          "wordCount": null,
-          "title": "New Linux Bug Could Lead to User Password Leaks and Clipboard Hijacking",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB2LKuRnaCvnJliLGGqYcYvKyz7EkTZobVJpB2qmVQZldJaDSf9dQe9DDfIg6wTusm18LyDAu3nFbjxR5dEHT7MFi6QjPYuvS1nOcJLTyVi64CW2ITNp1_UFRl_rLILldQMsxBDGn-dbLsHOgu7zozsB3BMDoGxf2CcHrJrdMtQzEoYD01UAkkjs5A8hL/s1600/linux.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhB2LKuRnaCvnJliLGGqYcYvKyz7EkTZobVJpB2qmVQZldJaDSf9dQe9DDfIg6wTusm18LyDAu3nFbjxR5dEHT7MFi6QjPYuvS1nOcJLTyVi64CW2ITNp1_UFRl_rLILldQMsxBDGn-dbLsHOgu7zozsB3BMDoGxf2CcHrJrdMtQzEoYD01UAkkjs5A8hL/s1600/linux.jpg"
         }
       ]
     },
