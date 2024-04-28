@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Identity and access management (IAM) services provider Okta has warned of a spike in the \"frequency and scale\" of credential stuffing attacks aimed at online services.\nThese unprecedented attacks, observed over the last month, are said to be facilitated by \"the broad availability of residential proxy services, lists of previously stolen credentials ('combo lists'), and scripting tools,\" the",
+          "link": "https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html",
+          "publishedOn": "2024-04-28T13:52:00.000Z",
+          "wordCount": null,
+          "title": "Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5kKLpHMnqqDxCtSvSwJ7UEMJ0vDbZTe7NYp1AQ6SQPP0bOCg2EA_G4Eu2BAhqcI1pBTz_8An3f3iyV68pI78-bhbtkGBEk8bXG5lYpHXOu8ra151wPC8mzD8FtU0RT10d0kx3R0ZKbo14F2BjdtTH1mPWj18sKWjXV4pKwm9o3B_fwnAaehpJvKGq0Wl8/s1600/key.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5kKLpHMnqqDxCtSvSwJ7UEMJ0vDbZTe7NYp1AQ6SQPP0bOCg2EA_G4Eu2BAhqcI1pBTz_8An3f3iyV68pI78-bhbtkGBEk8bXG5lYpHXOu8ra151wPC8mzD8FtU0RT10d0kx3R0ZKbo14F2BjdtTH1mPWj18sKWjXV4pKwm9o3B_fwnAaehpJvKGq0Wl8/s1600/key.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a targeted operation against Ukraine that has been found leveraging a nearly seven-year-old flaw in Microsoft Office to deliver Cobalt Strike on compromised systems.\nThe attack chain, which took place at the end of 2023 according to Deep Instinct, employs a PowerPoint slideshow file (\"signal-2023-12-20-160512.ppsx\") as the starting point, with",
