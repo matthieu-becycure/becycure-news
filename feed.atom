@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-28T17:09:23.355Z</updated>
+    <updated>2024-04-28T17:25:41.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2383,17 +2383,6 @@ The findings come from HUMAN's Satori Threat Intelligence team, which said the c
         <summary type="html"><![CDATA[Malicious ads and bogus websites are acting as a conduit to deliver two different stealer malware, including Atomic Stealer, targeting Apple macOS users.
 The ongoing infostealer attacks targeting macOS users may have adopted different methods to compromise victims' Macs, but operate with the end goal of stealing sensitive data, Jamf Threat Labs said in a report published Friday.
 One]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: Secret Backdoor Found in XZ Utils Library, Impacts Major Linux Distros]]></title>
-        <id>https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html</id>
-        <link href="https://thehackernews.com/2024/03/urgent-secret-backdoor-found-in-xz.html"/>
-        <updated>2024-03-30T05:23:00.000Z</updated>
-        <summary type="html"><![CDATA[RedHat on Friday released an "urgent security alert" warning that two versions of a popular data compression library called XZ Utils (previously LZMA Utils) have been backdoored with malicious code designed to allow unauthorized remote access.
-The software supply chain compromise, tracked as CVE-2024-3094, has a CVSS score of 10.0, indicating maximum severity. It impacts XZ Utils]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
