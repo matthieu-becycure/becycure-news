@@ -2061,6 +2061,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/",
+          "publishedOn": "2024-04-29T12:41:46.000Z",
+          "wordCount": 978,
+          "title": "CERTFR-2024-AVI-0355 : Multiples vulnérabilités dans Microsoft Edge (29 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-019/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-019/",
+          "publishedOn": "2024-04-29T11:22:42.000Z",
+          "wordCount": 1679,
+          "title": "CERTFR-2024-ACT-019 : Bulletin d’actualité CERTFR-2024-ACT-019 (29 avril 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/",
+          "publishedOn": "2024-04-29T07:58:54.000Z",
+          "wordCount": 1221,
+          "title": "CERTFR-2024-AVI-0354 : Multiples vulnérabilités dans les produits Qnap (29 avril 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0353/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
