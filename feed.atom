@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-29T11:43:30.075Z</updated>
+    <updated>2024-04-29T12:19:40.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM]]></title>
+        <id>https://thehackernews.com/2024/04/navigating-threat-landscape.html</id>
+        <link href="https://thehackernews.com/2024/04/navigating-threat-landscape.html"/>
+        <updated>2024-04-29T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[It comes as no surprise that today's cyber threats are orders of magnitude more complex than those of the past. And the ever-evolving tactics that attackers use demand the adoption of better, more holistic and consolidated ways to meet this non-stop challenge. Security teams constantly look for ways to reduce risk while improving security posture, but many]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover]]></title>
         <id>https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html</id>
