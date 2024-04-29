@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple critical security flaws have been disclosed in the Judge0 open-source online code execution system that could be exploited to obtain code execution on the target system.\nThe three flaws, all critical in nature, allow an \"adversary with sufficient access to perform a sandbox escape and obtain root permissions on the host machine,\" Australian",
+          "link": "https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html",
+          "publishedOn": "2024-04-29T09:58:00.000Z",
+          "wordCount": null,
+          "title": "Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppN76NCl4VWJWx9vC62a5UJWg6_8941jN40G4LoUaca6Urq6e7j7H_QtxIB06N_ZFQFaoEgSVhwlsqYzsArwt70PlPicfIwFwgkrGO7bGw_0vJOV2Nsn3Q7CP6xzhRFhpDo_N5_N-BJhLlifM5y17HDA6wac2K6hqEwrJ0AvrALHT1l_6QL0KKYz8uAeN/s1600/sandbox.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjppN76NCl4VWJWx9vC62a5UJWg6_8941jN40G4LoUaca6Urq6e7j7H_QtxIB06N_ZFQFaoEgSVhwlsqYzsArwt70PlPicfIwFwgkrGO7bGw_0vJOV2Nsn3Q7CP6xzhRFhpDo_N5_N-BJhLlifM5y17HDA6wac2K6hqEwrJ0AvrALHT1l_6QL0KKYz8uAeN/s1600/sandbox.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identity and access management (IAM) services provider Okta has warned of a spike in the \"frequency and scale\" of credential stuffing attacks aimed at online services.\nThese unprecedented attacks, observed over the last month, are said to be facilitated by \"the broad availability of residential proxy services, lists of previously stolen credentials ('combo lists'), and scripting tools,\" the",

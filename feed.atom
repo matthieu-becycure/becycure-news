@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-29T10:43:43.574Z</updated>
+    <updated>2024-04-29T11:10:34.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sandbox Escape Vulnerabilities in Judge0 Expose Systems to Complete Takeover]]></title>
+        <id>https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html</id>
+        <link href="https://thehackernews.com/2024/04/sandbox-escape-vulnerabilities-in.html"/>
+        <updated>2024-04-29T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple critical security flaws have been disclosed in the Judge0 open-source online code execution system that could be exploited to obtain code execution on the target system.
+The three flaws, all critical in nature, allow an "adversary with sufficient access to perform a sandbox escape and obtain root permissions on the host machine," Australian]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta Warns of Unprecedented Surge in Proxy-Driven Credential Stuffing Attacks]]></title>
         <id>https://thehackernews.com/2024/04/okta-warns-of-unprecedented-surge-in.html</id>
