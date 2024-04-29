@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-29T17:43:27.477Z</updated>
+    <updated>2024-04-29T18:13:26.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Prevented 2.28 Million Malicious Apps from Reaching Play Store in 2023]]></title>
+        <id>https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html</id>
+        <link href="https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html"/>
+        <updated>2024-04-29T17:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Monday revealed that almost 200,000 app submissions to its Play Store for Android were either rejected or remediated to address issues with access to sensitive data such as location or SMS messages over the past year.
+The tech giant also said it blocked 333,000 bad accounts from the app storefront in 2023 for attempting to distribute malware or for repeated policy violations.
+"In 2023,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China-Linked 'Muddling Meerkat' Hijacks DNS to Map Internet on Global Scale]]></title>
         <id>https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html</id>

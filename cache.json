@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Monday revealed that almost 200,000 app submissions to its Play Store for Android were either rejected or remediated to address issues with access to sensitive data such as location or SMS messages over the past year.\nThe tech giant also said it blocked 333,000 bad accounts from the app storefront in 2023 for attempting to distribute malware or for repeated policy violations.\n\"In 2023,",
+          "link": "https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html",
+          "publishedOn": "2024-04-29T17:07:00.000Z",
+          "wordCount": null,
+          "title": "Google Prevented 2.28 Million Malicious Apps from Reaching Play Store in 2023",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DasP12b7drEpQERA4AwBEHeIyvjyMXKnSwdhjuvKpUdqmuVxtwOunO82C6W6Qycj8LrexG63f9f5pXOdh13c9RAeLEERsZXgWYJkwnmeS1xdtdUaiOCCK9APZghrApgreOPCjlEUToF5FqRV3l7tFXj-LPQ9DwKjo3Szj1n4NY8G6gOkAkzBt_LS6faA/s1600/play.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_DasP12b7drEpQERA4AwBEHeIyvjyMXKnSwdhjuvKpUdqmuVxtwOunO82C6W6Qycj8LrexG63f9f5pXOdh13c9RAeLEERsZXgWYJkwnmeS1xdtdUaiOCCK9APZghrApgreOPCjlEUToF5FqRV3l7tFXj-LPQ9DwKjo3Szj1n4NY8G6gOkAkzBt_LS6faA/s1600/play.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A previously undocumented cyber threat dubbed Muddling Meerkat has been observed undertaking sophisticated domain name system (DNS) activities in a likely effort to evade security measures and conduct reconnaissance of networks across the world since October 2019.\nCloud security firm Infoblox described the threat actor as likely affiliated with the",
