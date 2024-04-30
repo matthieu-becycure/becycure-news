@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-30T21:43:23.219Z</updated>
+    <updated>2024-04-30T22:10:30.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2477,17 +2477,6 @@ The Indian nationals "were lured with employment opportunities to that country b
         <link href="https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html"/>
         <updated>2024-04-01T11:20:00.000Z</updated>
         <summary type="html"><![CDATA[Despite a plethora of available security solutions, more and more organizations fall victim to Ransomware and other threats. These continued threats aren't just an inconvenience that hurt businesses and end users - they damage the economy, endanger lives, destroy businesses and put national security at risk. But if that wasn’t enough – North Korea appears to be using revenue from cyber]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Apps Caught Secretly Turning Android Phones into Proxies for Cybercriminals]]></title>
-        <id>https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html</id>
-        <link href="https://thehackernews.com/2024/04/malicious-apps-caught-secretly-turning.html"/>
-        <updated>2024-04-01T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Several malicious Android apps that turn mobile devices running the operating system into residential proxies (RESIPs) for other threat actors have been observed on the Google Play Store.
-The findings come from HUMAN's Satori Threat Intelligence team, which said the cluster of VPN apps came fitted with a Golang library that transformed the user's device into a proxy node without their knowledge.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
