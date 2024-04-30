@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-30T23:10:25.148Z</updated>
+    <updated>2024-04-30T23:25:07.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2467,16 +2467,6 @@ The attacks primarily singled out hotel, travel, trading, financial, manufacturi
         <updated>2024-04-01T13:51:00.000Z</updated>
         <summary type="html"><![CDATA[The Indian government said it has rescued and repatriated about 250 citizens in Cambodia who were held captive and coerced into running cyber scams.
 The Indian nationals "were lured with employment opportunities to that country but were forced to undertake illegal cyber work," the Ministry of External Affairs (MEA) said in a statement, adding it had rescued 75 people in the past three]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detecting Windows-based Malware Through Better Visibility]]></title>
-        <id>https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html</id>
-        <link href="https://thehackernews.com/2024/04/detecting-windows-based-malware-through.html"/>
-        <updated>2024-04-01T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite a plethora of available security solutions, more and more organizations fall victim to Ransomware and other threats. These continued threats aren't just an inconvenience that hurt businesses and end users - they damage the economy, endanger lives, destroy businesses and put national security at risk. But if that wasn’t enough – North Korea appears to be using revenue from cyber]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
