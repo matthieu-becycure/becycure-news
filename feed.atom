@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-30T10:43:28.430Z</updated>
+    <updated>2024-04-30T11:10:03.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Government Releases New AI Security Guidelines for Critical Infrastructure]]></title>
+        <id>https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html</id>
+        <link href="https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html"/>
+        <updated>2024-04-30T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. government has unveiled new security guidelines aimed at bolstering critical infrastructure against artificial intelligence (AI)-related threats.
+"These guidelines are informed by the whole-of-government effort to assess AI risks across all sixteen critical infrastructure sectors, and address threats both to and from, and involving AI systems," the Department of Homeland Security (DHS)&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New U.K. Law Bans Default Passwords on Smart Devices Starting April 2024]]></title>
         <id>https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html</id>

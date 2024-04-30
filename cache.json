@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. government has unveiled new security guidelines aimed at bolstering critical infrastructure against artificial intelligence (AI)-related threats.\n\"These guidelines are informed by the whole-of-government effort to assess AI risks across all sixteen critical infrastructure sectors, and address threats both to and from, and involving AI systems,\" the Department of Homeland Security (DHS)&",
+          "link": "https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html",
+          "publishedOn": "2024-04-30T10:36:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Government Releases New AI Security Guidelines for Critical Infrastructure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFg-I75TPQ8p3EkXgIz6jAlyowo-W2L1Rb-59BMGZDZHsSinyo-U9cK4YLirmjPLT2wMecWBcZE3q138xUxiuWPCpjaOjghCqD2kVZp0YO2S3DB3qeSH6HEpYJxqJqCQMs6mjiDtDKLwo1a4o73mOEPFJs0MxhN9KaagVK7nuORcNQ8ATTsK6kvF3QDZW_/s1600/ai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFg-I75TPQ8p3EkXgIz6jAlyowo-W2L1Rb-59BMGZDZHsSinyo-U9cK4YLirmjPLT2wMecWBcZE3q138xUxiuWPCpjaOjghCqD2kVZp0YO2S3DB3qeSH6HEpYJxqJqCQMs6mjiDtDKLwo1a4o73mOEPFJs0MxhN9KaagVK7nuORcNQ8ATTsK6kvF3QDZW_/s1600/ai.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.K. National Cyber Security Centre (NCSC) is calling on manufacturers of smart devices to comply with new legislation that prohibits them from using default passwords, effective April 29, 2024.\n\"The law, known as the Product Security and Telecommunications Infrastructure act (or PSTI act), will help consumers to choose smart devices that have been designed to",
