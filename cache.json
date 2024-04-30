@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.K. National Cyber Security Centre (NCSC) is calling on manufacturers of smart devices to comply with new legislation that prohibits them from using default passwords, effective April 29, 2024.\n\"The law, known as the Product Security and Telecommunications Infrastructure act (or PSTI act), will help consumers to choose smart devices that have been designed to",
+          "link": "https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html",
+          "publishedOn": "2024-04-30T05:57:00.000Z",
+          "wordCount": null,
+          "title": "New U.K. Law Bans Default Passwords on Smart Devices Starting April 2024",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9EsRtxSHanSFrxOnJU0e0_qcEPNiZcQdsurPGExeS3pABm2OY-UKCn3aRhOnAef5GOONKdyv_J_qcvRpF15VIW0QSt1SfMAeql5sm_R8HV0Sak1kW1RW3gOy8PCtl6Uy-bWxxpVY5Yx5iYb-RJ2TujStKlmjQ2yS4StS-lq_okbkHc8JV9X2SRbaihnW/s1600/password.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9EsRtxSHanSFrxOnJU0e0_qcEPNiZcQdsurPGExeS3pABm2OY-UKCn3aRhOnAef5GOONKdyv_J_qcvRpF15VIW0QSt1SfMAeql5sm_R8HV0Sak1kW1RW3gOy8PCtl6Uy-bWxxpVY5Yx5iYb-RJ2TujStKlmjQ2yS4StS-lq_okbkHc8JV9X2SRbaihnW/s1600/password.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/google-prevented-228-million-malicious.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Monday revealed that almost 200,000 app submissions to its Play Store for Android were either rejected or remediated to address issues with access to sensitive data such as location or SMS messages over the past year.\nThe tech giant also said it blocked 333,000 bad accounts from the app storefront in 2023 for attempting to distribute malware or for repeated policy violations.\n\"In 2023,",
