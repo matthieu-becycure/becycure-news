@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-30T17:43:26.449Z</updated>
+    <updated>2024-04-30T18:15:31.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2488,17 +2488,6 @@ The Indian nationals "were lured with employment opportunities to that country b
         <updated>2024-04-01T10:10:00.000Z</updated>
         <summary type="html"><![CDATA[Several malicious Android apps that turn mobile devices running the operating system into residential proxies (RESIPs) for other threat actors have been observed on the Google Play Store.
 The findings come from HUMAN's Satori Threat Intelligence team, which said the cluster of VPN apps came fitted with a Golang library that transformed the user's device into a proxy node without their knowledge.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vultur Android Banking Trojan Returns with Upgraded Remote Control Capabilities]]></title>
-        <id>https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html</id>
-        <link href="https://thehackernews.com/2024/04/vultur-android-banking-trojan-returns.html"/>
-        <updated>2024-04-01T06:04:00.000Z</updated>
-        <summary type="html"><![CDATA[The Android banking trojan known as Vultur has resurfaced with a suite of new features and improved anti-analysis and detection evasion techniques, enabling its operators to remotely interact with a mobile device and harvest sensitive data.
-"Vultur has also started masquerading more of its malicious activity by encrypting its C2 communication, using multiple encrypted payloads that are decrypted]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
