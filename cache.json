@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/04/millions-of-malicious-imageless.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered multiple campaigns targeting Docker Hub by planting millions of malicious \"imageless\" containers over the past five years, once again underscoring how open-source registries could pave the way for supply chain attacks.\n\"Over four million of the repositories in Docker Hub are imageless and have no content except for the repository",
+          "link": "https://thehackernews.com/2024/04/millions-of-malicious-imageless.html",
+          "publishedOn": "2024-04-30T13:36:00.000Z",
+          "wordCount": null,
+          "title": "Millions of Malicious 'Imageless' Containers Planted on Docker Hub Over 5 Years",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV60ycag3gu19fGfBY_Q4zNcxY0p1dxw9j1AUl1ZjhUHOEj1jwT23M-UTQ_FR32i9FMaKoSE7POh9-eZ_U8a620DwdQtcHRvPSj5IUASrCgsOXV4b0TWPEWYWxW9AXJ167zMChZtkBNAdz8lMM-Azz2YO_WP0Qmj1MTI6kH1BHZ-kPQl_MvMGnl_zRuDjY/s1600/docker-hub.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV60ycag3gu19fGfBY_Q4zNcxY0p1dxw9j1AUl1ZjhUHOEj1jwT23M-UTQ_FR32i9FMaKoSE7POh9-eZ_U8a620DwdQtcHRvPSj5IUASrCgsOXV4b0TWPEWYWxW9AXJ167zMChZtkBNAdz8lMM-Azz2YO_WP0Qmj1MTI6kH1BHZ-kPQl_MvMGnl_zRuDjY/s1600/docker-hub.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. government has unveiled new security guidelines aimed at bolstering critical infrastructure against artificial intelligence (AI)-related threats.\n\"These guidelines are informed by the whole-of-government effort to assess AI risks across all sixteen critical infrastructure sectors, and address threats both to and from, and involving AI systems,\" the Department of Homeland Security (DHS)&",

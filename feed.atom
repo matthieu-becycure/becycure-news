@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-04-30T13:43:25.552Z</updated>
+    <updated>2024-04-30T14:09:50.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Millions of Malicious 'Imageless' Containers Planted on Docker Hub Over 5 Years]]></title>
+        <id>https://thehackernews.com/2024/04/millions-of-malicious-imageless.html</id>
+        <link href="https://thehackernews.com/2024/04/millions-of-malicious-imageless.html"/>
+        <updated>2024-04-30T13:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered multiple campaigns targeting Docker Hub by planting millions of malicious "imageless" containers over the past five years, once again underscoring how open-source registries could pave the way for supply chain attacks.
+"Over four million of the repositories in Docker Hub are imageless and have no content except for the repository]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Government Releases New AI Security Guidelines for Critical Infrastructure]]></title>
         <id>https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html</id>
