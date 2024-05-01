@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-01T18:43:27.034Z</updated>
+    <updated>2024-05-01T19:10:21.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2492,17 +2492,6 @@ In 2023 alone, a staggering 82% of data breaches were against public, private, o
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Synology Surveillance Station. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google to Delete Billions of Browsing Records in 'Incognito Mode' Privacy Lawsuit Settlement]]></title>
-        <id>https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html</id>
-        <link href="https://thehackernews.com/2024/04/google-to-delete-billions-of-browsing.html"/>
-        <updated>2024-04-02T07:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has agreed to purge billions of data records reflecting users' browsing activities to settle a class action lawsuit that claimed the search giant tracked them without their knowledge or consent in its Chrome browser.
-The class action, filed in 2020, alleged the company misled users by tracking their internet browsing activity who thought that it remained private when using the "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
