@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A forensic analysis of a graph dataset containing transactions on the Bitcoin blockchain has revealed clusters associated with illicit activity and money laundering, including detecting criminal proceeds sent to a crypto exchange and previously unknown wallets belonging to a Russian darknet market.\nThe findings come from Elliptic in collaboration with researchers from the&",
+          "link": "https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html",
+          "publishedOn": "2024-05-01T14:25:00.000Z",
+          "wordCount": null,
+          "title": "Bitcoin Forensic Analysis Uncovers Money Laundering Clusters and Criminal Proceeds",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWxADP1ARMwS8u094E6BhMuF0vfvJd_rCbLY9gLSSFCbJ7_CpY3f8AajraT87gINijNm-hDFZj2QmsoGRJz26OfmnR40y3O-_bddmNLQIh45SmYcR6jlt4rzqaC9Y3WjWMUOgG1zIMHrChvpNx0fqY_PnhvBveqdj_78NRzwRolWl6WZhrNa8eOFuXwZkB/s1600/blockchain.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWxADP1ARMwS8u094E6BhMuF0vfvJd_rCbLY9gLSSFCbJ7_CpY3f8AajraT87gINijNm-hDFZj2QmsoGRJz26OfmnR40y3O-_bddmNLQIh45SmYcR6jlt4rzqaC9Y3WjWMUOgG1zIMHrChvpNx0fqY_PnhvBveqdj_78NRzwRolWl6WZhrNa8eOFuXwZkB/s1600/blockchain.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a previously undocumented malware targeting Android devices that uses compromised WordPress sites as relays for its actual command-and-control (C2) servers for detection evasion.\nThe malware, codenamed Wpeeper, is an ELF binary that leverages the HTTPS protocol to secure its C2 communications.\n\"Wpeeper is a typical backdoor Trojan for Android",
