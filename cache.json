@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a previously undocumented malware targeting Android devices that uses compromised WordPress sites as relays for its actual command-and-control (C2) servers for detection evasion.\nThe malware, codenamed Wpeeper, is an ELF binary that leverages the HTTPS protocol to secure its C2 communications.\n\"Wpeeper is a typical backdoor Trojan for Android",
+          "link": "https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html",
+          "publishedOn": "2024-05-01T13:41:00.000Z",
+          "wordCount": null,
+          "title": "Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5u_Ii5UNgaP19fsdA0m9U32PEVpU6FbaSm0tdLdvEpq6EGKd6o17VbotVaji9enneE65_IrhOQf7m-1E-c17gXi5pt5g4-7lYCkSQFWvG4GD99roJ7J-_mXevDr4iFszo520guNZrk0bKk2sqmuXbM-XloK6GRo8pSBV4M3CiXa7ghsnf7Rg1z8AMYpVH/s1600/ndroid.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5u_Ii5UNgaP19fsdA0m9U32PEVpU6FbaSm0tdLdvEpq6EGKd6o17VbotVaji9enneE65_IrhOQf7m-1E-c17gXi5pt5g4-7lYCkSQFWvG4GD99roJ7J-_mXevDr4iFszo520guNZrk0bKk2sqmuXbM-XloK6GRo8pSBV4M3CiXa7ghsnf7Rg1z8AMYpVH/s1600/ndroid.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "There’s a natural human desire to avoid threatening scenarios. The irony, of course, is if you hope to attain any semblance of security, you’ve got to remain prepared to confront those very same threats.\nAs a decision-maker for your organization, you know this well. But no matter how many experts or trusted cybersecurity tools your organization has a standing guard,",
