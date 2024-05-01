@@ -3077,16 +3077,6 @@
           "wordCount": 1595,
           "title": "CERTFR-2024-ACT-015 : Bulletin d’actualité CERTFR-2024-ACT-015 (02 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une atteinte à la confidentialité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0267/",
-          "publishedOn": "2024-04-02T08:06:05.000Z",
-          "wordCount": 998,
-          "title": "CERTFR-2024-AVI-0267 : Vulnérabilité dans les produits Palo Alto Networks (02 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
