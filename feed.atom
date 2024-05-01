@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-01T10:43:24.764Z</updated>
+    <updated>2024-05-01T11:08:37.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Everyone's an Expert: How to Empower Your Employees for Cybersecurity Success]]></title>
+        <id>https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html</id>
+        <link href="https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html"/>
+        <updated>2024-05-01T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a natural human desire to avoid threatening scenarios. The irony, of course, is if you hope to attain any semblance of security, you’ve got to remain prepared to confront those very same threats.
+As a decision-maker for your organization, you know this well. But no matter how many experts or trusted cybersecurity tools your organization has a standing guard,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZLoader Malware Evolves with Anti-Analysis Trick from Zeus Banking Trojan]]></title>
+        <id>https://thehackernews.com/2024/05/zloader-malware-evolves-with-anti.html</id>
+        <link href="https://thehackernews.com/2024/05/zloader-malware-evolves-with-anti.html"/>
+        <updated>2024-05-01T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[The authors behind the resurfaced ZLoader malware have added a feature that was originally present in the Zeus banking trojan that it's based on, indicating that it's being actively developed.
+"The latest version, 2.4.1.0, introduces a feature to prevent execution on machines that differ from the original infection," Zscaler ThreatLabz researcher Santiago]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia]]></title>
         <id>https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html</id>
