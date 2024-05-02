@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware called Cuttlefish is targeting small office and home office (SOHO) routers with the goal of stealthily monitoring all traffic through the devices and gather authentication data from HTTP GET and POST requests.\n\"This malware is modular, designed primarily to steal authentication material found in web requests that transit the router from the adjacent",
+          "link": "https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html",
+          "publishedOn": "2024-05-02T05:04:00.000Z",
+          "wordCount": null,
+          "title": "New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNe67nDISGXYhECsz8hjhhdrir3btsZyG8G7-SMmVBbX-Kjq3e3l3wHvdrfcNhvnMsAdSM4dI4cMBB1IPJS3kuUMfwhS3O8EudzdIL29HAKxF-FXE4rmDq34uOmSZv6puZDe9xItkpvPYHne5lf1G_AULXbrHpyenhpxvr4OJqMaM-awJh_XMc0EGo_BQ/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyNe67nDISGXYhECsz8hjhhdrir3btsZyG8G7-SMmVBbX-Kjq3e3l3wHvdrfcNhvnMsAdSM4dI4cMBB1IPJS3kuUMfwhS3O8EudzdIL29HAKxF-FXE4rmDq34uOmSZv6puZDe9xItkpvPYHne5lf1G_AULXbrHpyenhpxvr4OJqMaM-awJh_XMc0EGo_BQ/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A forensic analysis of a graph dataset containing transactions on the Bitcoin blockchain has revealed clusters associated with illicit activity and money laundering, including detecting criminal proceeds sent to a crypto exchange and previously unknown wallets belonging to a Russian darknet market.\nThe findings come from Elliptic in collaboration with researchers from the&",
