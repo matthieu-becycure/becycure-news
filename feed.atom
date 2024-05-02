@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-02T22:43:30.609Z</updated>
+    <updated>2024-05-02T23:12:25.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2501,16 +2501,6 @@ The findings, released by the Department of Homeland Security (DHS) on Tuesday, 
         <summary type="html"><![CDATA[Google on Tuesday said it's piloting a new feature in Chrome called Device Bound Session Credentials (DBSC) to help protect users against session cookie theft by malware.
 The prototype – currently tested against "some" Google Account users running Chrome Beta – is built with an aim to make it an open web standard, the tech giant's Chromium team said.
 "By binding authentication sessions to the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attack Surface Management vs. Vulnerability Management]]></title>
-        <id>https://thehackernews.com/2024/04/attack-surface-management-vs.html</id>
-        <link href="https://thehackernews.com/2024/04/attack-surface-management-vs.html"/>
-        <updated>2024-04-03T11:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Attack surface management (ASM) and vulnerability management (VM) are often confused, and while they overlap, they’re not the same. The main difference between attack surface management and vulnerability management is in their scope: vulnerability management checks a list of known assets, while attack surface management assumes you have unknown assets and so begins with discovery. Let’s look at]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
