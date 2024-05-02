@@ -3145,16 +3145,6 @@
           "wordCount": 951,
           "title": "CERTFR-2024-AVI-0269 : Multiples vulnérabilités dans Mozilla Firefox (04 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans VMware SD-WAN. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0268/",
-          "publishedOn": "2024-04-03T07:59:59.000Z",
-          "wordCount": 982,
-          "title": "CERTFR-2024-AVI-0268 : Multiples vulnérabilités dans VMware SD-WAN (03 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
