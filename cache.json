@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Several popular Android applications available in Google Play Store are susceptible to a path traversal-affiliated vulnerability that could be exploited by a malicious app to overwrite arbitrary files in the vulnerable app's home directory.\n\"The implications of this vulnerability pattern include arbitrary code execution and token theft, depending on an application’s",
+          "link": "https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html",
+          "publishedOn": "2024-05-02T14:22:00.000Z",
+          "wordCount": null,
+          "title": "Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigmE-bZrGVDm13EWFXWLMYr044v3vExYNhz7ZgWpDBfjhuzCNOZHmUduocbXO37wpVMnX6NV4mgprnIoIxSc_6G_Gh7QHnUIz8Y1c0KNUIpJjnE4t8Uxu29YGdGxxirPHtpQnpBKCPxv88gvYiqU8Y3QGaAVChksvgAXyxsV2j7JWC2GyUimABOp6lNet5/s1600/apps.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigmE-bZrGVDm13EWFXWLMYr044v3vExYNhz7ZgWpDBfjhuzCNOZHmUduocbXO37wpVMnX6NV4mgprnIoIxSc_6G_Gh7QHnUIz8Y1c0KNUIpJjnE4t8Uxu29YGdGxxirPHtpQnpBKCPxv88gvYiqU8Y3QGaAVChksvgAXyxsV2j7JWC2GyUimABOp6lNet5/s1600/apps.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Ukrainian national has been sentenced to more than 13 years in prison and ordered to pay $16 million in restitution for carrying out thousands of ransomware attacks and extorting victims.\nYaroslav Vasinskyi (aka Rabotnik), 24, along with his co-conspirators part of the REvil ransomware group orchestrated more than 2,500 ransomware attacks and demanded ransom payments in",
