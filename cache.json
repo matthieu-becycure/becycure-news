@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Like antivirus software, vulnerability scans rely on a database of known weaknesses.\nThat’s why websites like VirusTotal exist, to give cyber practitioners a chance to see whether a malware sample is detected by multiple virus scanning engines, but this concept hasn’t existed in the vulnerability management space.\nThe benefits of using multiple scanning engines \nGenerally speaking",
+          "link": "https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html",
+          "publishedOn": "2024-05-02T10:25:00.000Z",
+          "wordCount": null,
+          "title": "When is One Vulnerability Scanner Not Enough?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKviT4De4sgrmOqC3LNheeaKAIrZWJxGjACpRDh6VAvwEPyULSveg4kb-r3O_bgfNbi31y0zWXGHa0wp8iHeFPzP8YLs06MFbln5o9zb4e3sbhDD2D_qQ2MUklFcmpdyGR1SOHTp-Ri7Xyr1zqJ1AD5ZDWyP7PejjY6iERNDuKJHmjWNxHHF_9p-2kssc/s1600/aa.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKviT4De4sgrmOqC3LNheeaKAIrZWJxGjACpRDh6VAvwEPyULSveg4kb-r3O_bgfNbi31y0zWXGHa0wp8iHeFPzP8YLs06MFbln5o9zb4e3sbhDD2D_qQ2MUklFcmpdyGR1SOHTp-Ri7Xyr1zqJ1AD5ZDWyP7PejjY6iERNDuKJHmjWNxHHF_9p-2kssc/s1600/aa.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud storage services provider Dropbox on Wednesday disclosed that Dropbox Sign (formerly HelloSign) was breached by unidentified threat actors, who accessed emails, usernames, and general account settings associated with all users of the digital signature product.\nThe company, in a filing with the U.S. Securities and Exchange Commission (SEC), said it became aware of the \"",
+          "link": "https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html",
+          "publishedOn": "2024-05-02T10:19:00.000Z",
+          "wordCount": null,
+          "title": "Dropbox Discloses Breach of Digital Signature Service Affecting All Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s1600/dropbox-sign.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s1600/dropbox-sign.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A never-before-seen botnet called Goldoon has been observed targeting D-Link routers with a nearly decade-old critical security flaw with the goal of using the compromised devices for further attacks.\nThe vulnerability in question is CVE-2015-2051 (CVSS score: 9.8), which affects D-Link DIR-645 routers and allows remote attackers to execute arbitrary",
+          "link": "https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html",
+          "publishedOn": "2024-05-02T10:10:00.000Z",
+          "wordCount": null,
+          "title": "New \"Goldoon\" Botnet Targets D-Link Routers With Decade-Old Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4v5FPWul2o3NA4tu-hE7TeA9riytUfYgvzYOOHYovfEf98OL0GhMOdfL9X8zp0AulqUZX8Hlm9yCmS_hj8E6ZAcoV5-reRixNq44xFiAFmVQrITXumlWmgEastltq14878stV86ttxbcVsPqh173g_wGzO5QU0XsiCpJIa8rC8x4hCE7hKv3q-SdzTFtW/s1600/souter.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4v5FPWul2o3NA4tu-hE7TeA9riytUfYgvzYOOHYovfEf98OL0GhMOdfL9X8zp0AulqUZX8Hlm9yCmS_hj8E6ZAcoV5-reRixNq44xFiAFmVQrITXumlWmgEastltq14878stV86ttxbcVsPqh173g_wGzO5QU0XsiCpJIa8rC8x4hCE7hKv3q-SdzTFtW/s1600/souter.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/cisa-warns-of-active-exploitation-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical flaw impacting GitLab to its Known Exploited Vulnerabilities (KEV) catalog, owing to active exploitation in the wild.\nTracked as CVE-2023-7028 (CVSS score: 10.0), the maximum severity vulnerability could facilitate account takeover by sending password reset emails to an unverified email",
