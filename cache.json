@@ -2157,6 +2157,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/",
+          "publishedOn": "2024-05-02T07:13:09.000Z",
+          "wordCount": 953,
+          "title": "CERTFR-2024-AVI-0360 : Multiples vulnérabilités dans dans SonicWall GMS (02 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0359/",
+          "publishedOn": "2024-05-02T06:50:30.000Z",
+          "wordCount": 1051,
+          "title": "CERTFR-2024-AVI-0359 : Multiples vulnérabilités dans les produits HPE Aruba Networking (02 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0358/",
+          "publishedOn": "2024-05-02T06:48:03.000Z",
+          "wordCount": 947,
+          "title": "CERTFR-2024-AVI-0358 : Multiples vulnérabilités dans Google Chrome (02 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0357/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Cisco IP Phone. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0357/",
+          "publishedOn": "2024-05-02T06:33:01.000Z",
+          "wordCount": 993,
+          "title": "CERTFR-2024-AVI-0357 : Multiples vulnérabilités dans Cisco IP Phone (02 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.",
