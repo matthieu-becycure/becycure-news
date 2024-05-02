@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-02T00:47:54.328Z</updated>
+    <updated>2024-05-02T01:49:42.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2426,17 +2426,6 @@ Targets of the ongoing campaign include entities spanning finance, services, mot
         <summary type="html"><![CDATA[A critical security flaw impacting the LayerSlider plugin for WordPress could be abused to extract sensitive information from databases, such as password hashes.
 The flaw, designated as CVE-2024-2879, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described as a case of SQL injection impacting versions from 7.9.11 through 7.10.0.
 The issue has been addressed in version]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Code in XZ Utils for Linux Systems Enables Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html</id>
-        <link href="https://thehackernews.com/2024/04/malicious-code-in-xz-utils-for-linux.html"/>
-        <updated>2024-04-02T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The malicious code inserted into the open-source library XZ Utils, a widely used package present in major Linux distributions, is also capable of facilitating remote code execution, a new analysis has revealed.
-The audacious supply chain compromise, tracked as CVE-2024-3094 (CVSS score: 10.0), came to light last week when Microsoft engineer and PostgreSQL developer Andres Freund]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
