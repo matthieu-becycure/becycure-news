@@ -3185,26 +3185,6 @@
           "wordCount": 988,
           "title": "CERTFR-2024-AVI-0271 : Multiples vulnérabilités dans les produits Ivanti (04 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Cisco Nexus Dashboard Fabric Controller. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0270/",
-          "publishedOn": "2024-04-04T08:03:12.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2024-AVI-0270 : Vulnérabilité dans Cisco Nexus Dashboard Fabric Controller (04 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0269/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0269/",
-          "publishedOn": "2024-04-04T07:52:32.000Z",
-          "wordCount": 951,
-          "title": "CERTFR-2024-AVI-0269 : Multiples vulnérabilités dans Mozilla Firefox (04 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
