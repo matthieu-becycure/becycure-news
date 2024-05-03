@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-03T05:10:53.801Z</updated>
+    <updated>2024-05-03T05:28:30.464Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Four Critical Vulnerabilities Expose HPE Aruba Devices to RCE Attacks]]></title>
+        <id>https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html</id>
+        <link href="https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html"/>
+        <updated>2024-05-03T04:50:00.000Z</updated>
+        <summary type="html"><![CDATA[HPE Aruba Networking (formerly Aruba Networks) has released security updates to address critical flaws impacting ArubaOS that could result in remote code execution (RCE) on affected systems.
+Of the 10 security defects, four are rated critical in severity -
+
+CVE-2024-26304 (CVSS score: 9.8) - Unauthenticated Buffer Overflow Vulnerability in the L2/L3 Management Service Accessed via]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Popular Android Apps Like Xiaomi, WPS Office Vulnerable to File Overwrite Flaw]]></title>
         <id>https://thehackernews.com/2024/05/popular-android-apps-like-xiaomi-wps.html</id>
