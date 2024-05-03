@@ -2068,22 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSul6T7JNOwMmmyov5MAIPTHFK_yEV4HQEerGakyw2uDWrziWPtpU8RPOZCBRdYIjLtpzlRkCJFOeKimAurxOmmYNuU6-8_Sp36YvUBXqDCU3kIAaxvfAWD7qXzSrAVVUFWl0IMUGhoQ0yozvTR3UrZynuSr2eqsOWlG0CLtbrUj1vnPvCtrR_1Lvh_b1/s1600/ivanti.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSul6T7JNOwMmmyov5MAIPTHFK_yEV4HQEerGakyw2uDWrziWPtpU8RPOZCBRdYIjLtpzlRkCJFOeKimAurxOmmYNuU6-8_Sp36YvUBXqDCU3kIAaxvfAWD7qXzSrAVVUFWl0IMUGhoQ0yozvTR3UrZynuSr2eqsOWlG0CLtbrUj1vnPvCtrR_1Lvh_b1/s1600/ivanti.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has disclosed that two Android security flaws impacting its Pixel smartphones have been exploited in the wild by forensic companies.\nThe high-severity zero-day vulnerabilities are as follows -\n\nCVE-2024-29745 - An information disclosure flaw in the bootloader component\nCVE-2024-29748 - A privilege escalation flaw in the firmware component\n\n\"There are indications that the [",
-          "link": "https://thehackernews.com/2024/04/google-warns-android-zero-day-flaws-in.html",
-          "publishedOn": "2024-04-03T16:10:00.000Z",
-          "wordCount": null,
-          "title": "Google Warns: Android Zero-Day Flaws in Pixel Phones Exploited by Forensic Companies",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfH_WunMAzWYLRN7XQXT5aQ_efFKfgVKAkubbCnl7uYxHPHMFnjYTKnZ9C9Jx7Q4iECWLX1dsVq27XRV8anQkArenpZ_jFDaDYdzRg80DGw3IxCKosJiqRYDuzWHu8OTKohdM-Z9WqXt04ZfBEzY0-xyhqSatu2o_BURy2ws8BEbSArBkwALwjSbFEK-qa/s1600/hacker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfH_WunMAzWYLRN7XQXT5aQ_efFKfgVKAkubbCnl7uYxHPHMFnjYTKnZ9C9Jx7Q4iECWLX1dsVq27XRV8anQkArenpZ_jFDaDYdzRg80DGw3IxCKosJiqRYDuzWHu8OTKohdM-Z9WqXt04ZfBEzY0-xyhqSatu2o_BURy2ws8BEbSArBkwALwjSbFEK-qa/s1600/hacker.png"
         }
       ]
     },
