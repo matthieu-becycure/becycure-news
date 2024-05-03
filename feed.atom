@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-03T23:24:34.856Z</updated>
+    <updated>2024-05-03T23:43:42.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2515,16 +2515,6 @@ Cisco Talos is tracking the cluster under the name CoralRaider, describing it a
         <summary type="html"><![CDATA[An updated version of an information-stealing malware called Rhadamanthys is being used in phishing campaigns targeting the oil and gas sector.
 "The phishing emails use a unique vehicle incident lure and, in later stages of the infection chain, spoof the Federal Bureau of Transportation in a PDF that mentions a significant fine for the incident," Cofense researcher Dylan Duncan said.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considerations for Operational Technology Cybersecurity]]></title>
-        <id>https://thehackernews.com/2024/04/considerations-for-operational.html</id>
-        <link href="https://thehackernews.com/2024/04/considerations-for-operational.html"/>
-        <updated>2024-04-04T11:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Operational Technology (OT) refers to the hardware and software used to change, monitor, or control the enterprise's physical devices, processes, and events. Unlike traditional Information Technology (IT) systems, OT systems directly impact the physical world. This unique characteristic of OT brings additional cybersecurity considerations not typically present in conventional IT security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
