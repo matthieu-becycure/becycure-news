@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/nsa-fbi-alert-on-n-korean-hackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. government on Thursday published a new cybersecurity advisory warning of North Korean threat actors' attempts to send emails in a manner that makes them appear like they are from legitimate and trusted parties.\nThe joint bulletin was published by the National Security Agency (NSA), the Federal Bureau of Investigation (FBI), and the Department of State.\n\"The",
+          "link": "https://thehackernews.com/2024/05/nsa-fbi-alert-on-n-korean-hackers.html",
+          "publishedOn": "2024-05-03T09:37:00.000Z",
+          "wordCount": null,
+          "title": "NSA, FBI Alert on N. Korean Hackers Spoofing Emails from Trusted Sources",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mijG5hWRArDQmZl2305BnZv9bSmiGu5vdypFQbNBzbebJukBY6mC634a-r-JZdp1HKUVykpsAKJLZFugges7bwhmE22gfOmEbKxndcURzMx1I7_Kz9c5izQg1VnEVjJ8A7LikbtYR7ykk9seNxXOl4DDEf2zMkQTKx3thlI74U-qamwgeJV8pLo9XhbL/s1600/rmails.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9mijG5hWRArDQmZl2305BnZv9bSmiGu5vdypFQbNBzbebJukBY6mC634a-r-JZdp1HKUVykpsAKJLZFugges7bwhmE22gfOmEbKxndcURzMx1I7_Kz9c5izQg1VnEVjJ8A7LikbtYR7ykk9seNxXOl4DDEf2zMkQTKx3thlI74U-qamwgeJV8pLo9XhbL/s1600/rmails.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/google-announces-passkeys-adopted-by.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Thursday announced that passkeys are being used by over 400 million Google accounts, authenticating users more than 1 billion times over the past two years.\n\"Passkeys are easy to use and phishing resistant, only relying on a fingerprint, face scan or a pin making them 50% faster than passwords,\" Heather Adkins, vice president of security engineering at Google, said.",
