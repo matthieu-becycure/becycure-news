@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-03T10:43:36.138Z</updated>
+    <updated>2024-05-03T11:08:57.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Guide Explains How to Eliminate the Risk of Shadow SaaS and Protect Corporate Data]]></title>
+        <id>https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html</id>
+        <link href="https://thehackernews.com/2024/05/new-guide-explains-how-to-eliminate.html"/>
+        <updated>2024-05-03T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[SaaS applications are dominating the corporate landscape. Their increased use enables organizations to push the boundaries of technology and business. At the same time, these applications also pose a new security risk that security leaders need to address, since the existing security stack does not enable complete control or comprehensive monitoring of their usage.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSA, FBI Alert on N. Korean Hackers Spoofing Emails from Trusted Sources]]></title>
         <id>https://thehackernews.com/2024/05/nsa-fbi-alert-on-n-korean-hackers.html</id>
