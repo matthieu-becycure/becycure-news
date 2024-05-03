@@ -2173,6 +2173,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/",
+          "publishedOn": "2024-05-03T11:31:22.000Z",
+          "wordCount": 1332,
+          "title": "CERTFR-2024-AVI-0366 : Multiples vulnérabilités dans les produits IBM (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/",
+          "publishedOn": "2024-05-03T11:25:06.000Z",
+          "wordCount": 994,
+          "title": "CERTFR-2024-AVI-0365 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/",
+          "publishedOn": "2024-05-03T11:22:58.000Z",
+          "wordCount": 2231,
+          "title": "CERTFR-2024-AVI-0364 : Multiples vulnérabilités dans le noyau Linux de RedHat (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/",
+          "publishedOn": "2024-05-03T11:13:54.000Z",
+          "wordCount": 2562,
+          "title": "CERTFR-2024-AVI-0363 : Multiples vulnérabilités dans le noyau Linux de SUSE (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le greffon Media Streaming de Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/",
+          "publishedOn": "2024-05-03T11:09:42.000Z",
+          "wordCount": 967,
+          "title": "CERTFR-2024-AVI-0362 : Multiples vulnérabilités dans le greffon Media Streaming de Qnap (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans PostgreSQL pgAdmin. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/",
+          "publishedOn": "2024-05-03T05:38:53.000Z",
+          "wordCount": 952,
+          "title": "CERTFR-2024-AVI-0361 : Multiples vulnérabilités dans PostgreSQL pgAdmin (03 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
