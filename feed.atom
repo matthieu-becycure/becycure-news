@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-03T06:43:39.919Z</updated>
+    <updated>2024-05-03T07:10:22.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Announces Passkeys Adopted by Over 400 Million Accounts]]></title>
+        <id>https://thehackernews.com/2024/05/google-announces-passkeys-adopted-by.html</id>
+        <link href="https://thehackernews.com/2024/05/google-announces-passkeys-adopted-by.html"/>
+        <updated>2024-05-03T06:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Thursday announced that passkeys are being used by over 400 million Google accounts, authenticating users more than 1 billion times over the past two years.
+"Passkeys are easy to use and phishing resistant, only relying on a fingerprint, face scan or a pin making them 50% faster than passwords," Heather Adkins, vice president of security engineering at Google, said.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Four Critical Vulnerabilities Expose HPE Aruba Devices to RCE Attacks]]></title>
         <id>https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html</id>
