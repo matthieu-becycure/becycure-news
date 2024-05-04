@@ -2052,22 +2052,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQWcYcAOTlIkcZh42hOo7tpHqw-bfgH-fI8AVtVlBvdAxG9T6sk7yiPcqLiF12fI1NFDSFs_E1DnXgFATAyWWrdnOapLOkunaH-MV9REbP5vKDzL5Vknra2-icIkjfR-jB-FdOieydkQK-dUrCpXcT7y6vT0n-MFfQzVLtEdhPvdJwkdT0RZ1wEJFG0gmo/s1600/ai.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQWcYcAOTlIkcZh42hOo7tpHqw-bfgH-fI8AVtVlBvdAxG9T6sk7yiPcqLiF12fI1NFDSFs_E1DnXgFATAyWWrdnOapLOkunaH-MV9REbP5vKDzL5Vknra2-icIkjfR-jB-FdOieydkQK-dUrCpXcT7y6vT0n-MFfQzVLtEdhPvdJwkdT0RZ1wEJFG0gmo/s1600/ai.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Compliance requirements are meant to increase cybersecurity transparency and accountability. As cyber threats increase, so do the number of compliance frameworks and the specificity of the security controls, policies, and activities they include.\nFor CISOs and their teams, that means compliance is a time-consuming, high-stakes process that demands strong organizational and",
-          "link": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
-          "publishedOn": "2024-04-05T11:18:00.000Z",
-          "wordCount": null,
-          "title": "CISO Perspectives on Complying with Cybersecurity Regulations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
         }
       ]
     },
@@ -3054,16 +3038,6 @@
           "publishedOn": "2024-04-05T11:25:33.000Z",
           "wordCount": 1097,
           "title": "CERTFR-2024-AVI-0276 : Multiples vulnérabilités dans le noyau Linux de SUSE (05 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0275/",
-          "publishedOn": "2024-04-05T11:22:31.000Z",
-          "wordCount": 1000,
-          "title": "CERTFR-2024-AVI-0275 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (05 avril 2024)",
           "imageUrl": null
         }
       ]
