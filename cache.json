@@ -2068,22 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Bogus installers for Adobe Acrobat Reader are being used to distribute a new multi-functional malware dubbed Byakugan.\nThe starting point of the attack is a PDF file written in Portuguese that, when opened, shows a blurred image and asks the victim to click on a link to download the Reader application to view the content.\nAccording to Fortinet FortiGuard Labs, clicking the URL",
-          "link": "https://thehackernews.com/2024/04/from-pdfs-to-payload-bogus-adobe.html",
-          "publishedOn": "2024-04-05T09:40:00.000Z",
-          "wordCount": null,
-          "title": "From PDFs to Payload: Bogus Adobe Acrobat Reader Installers Distribute Byakugan Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYKWHOcYSMYdLsSS2dodo4WH7ULk0EKXN4b3SrD0vczh2XphyphenhyphenyAVHO9GiIp9q6aiuuC4L5iCE7wwrPBHNE89xmOzaeTC3p6mKB-cvSKqQ22MLHTqcOG4QBKqhbQsa7i2uxrTn1Tau-LaV7s00GLLyUihHlCz0PkbhrCh_J8virrvKTZ6CijRFVeAGFVE-/s1600/code.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUYKWHOcYSMYdLsSS2dodo4WH7ULk0EKXN4b3SrD0vczh2XphyphenhyphenyAVHO9GiIp9q6aiuuC4L5iCE7wwrPBHNE89xmOzaeTC3p6mKB-cvSKqQ22MLHTqcOG4QBKqhbQsa7i2uxrTn1Tau-LaV7s00GLLyUihHlCz0PkbhrCh_J8virrvKTZ6CijRFVeAGFVE-/s1600/code.png"
         }
       ]
     },
