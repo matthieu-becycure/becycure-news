@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-04T19:43:27.497Z</updated>
+    <updated>2024-05-04T20:11:42.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2469,18 +2469,6 @@ For CISOs and their teams, that means compliance is a time-consuming, high-stake
         <summary type="html"><![CDATA[Bogus installers for Adobe Acrobat Reader are being used to distribute a new multi-functional malware dubbed Byakugan.
 The starting point of the attack is a PDF file written in Portuguese that, when opened, shows a blurred image and asks the victim to click on a link to download the Reader application to view the content.
 According to Fortinet FortiGuard Labs, clicking the URL]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Wave of JSOutProx Malware Targeting Financial Firms in APAC and MENA]]></title>
-        <id>https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html</id>
-        <link href="https://thehackernews.com/2024/04/new-wave-of-jsoutprox-malware-targeting.html"/>
-        <updated>2024-04-05T07:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Financial organizations in the Asia-Pacific (APAC) and Middle East and North Africa (MENA) are being targeted by a new version of an "evolving threat" called JSOutProx.
-"JSOutProx is a sophisticated attack framework utilizing both JavaScript and .NET," Resecurity said in a technical report published this week.
-"It employs the .NET (de)serialization feature to interact with a core]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
