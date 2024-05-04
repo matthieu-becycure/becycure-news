@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-04T19:09:39.548Z</updated>
+    <updated>2024-05-04T19:23:38.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2481,38 +2481,6 @@ According to Fortinet FortiGuard Labs, clicking the URL]]></summary>
         <summary type="html"><![CDATA[Financial organizations in the Asia-Pacific (APAC) and Middle East and North Africa (MENA) are being targeted by a new version of an "evolving threat" called JSOutProx.
 "JSOutProx is a sophisticated attack framework utilizing both JavaScript and .NET," Resecurity said in a technical report published this week.
 "It employs the .NET (de)serialization feature to interact with a core]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0274 : Multiples vulnérabilités dans Apache HTTP Server (05 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0274/"/>
-        <updated>2024-04-05T07:17:28.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0273 : Multiples vulnérabilités dans Microsoft Edge (05 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0273/"/>
-        <updated>2024-04-05T07:15:33.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une usurpation d'identité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Identify Multiple China Hacker Groups Exploiting Ivanti Security Flaws]]></title>
-        <id>https://thehackernews.com/2024/04/researchers-identify-multiple-china.html</id>
-        <link href="https://thehackernews.com/2024/04/researchers-identify-multiple-china.html"/>
-        <updated>2024-04-05T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple China-nexus threat actors have been linked to the zero-day exploitation of three security flaws impacting Ivanti appliances (CVE-2023-46805, CVE-2024-21887, and CVE-2024-21893).
-The clusters are being tracked by Mandiant under the monikers UNC5221, UNC5266, UNC5291, UNC5325, UNC5330, and UNC5337. Another group linked to the exploitation spree is UNC3886.
-The Google Cloud]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
