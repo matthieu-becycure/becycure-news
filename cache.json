@@ -710,6 +710,22 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhysv9Vr-9_ufQmaJ4SD6qOv43h9-ycAg8WBdkh5Dw1Mgt5szz2UNW95DNZhfWyvFQYhtttQF9EYx-ab-ghj6GS_bZqYs6ObFK8aZmByk8QZhhIXp-8ACKFvvsbU2I8EZ_nYVBkXn5K0NvEhyGewChoGRt-LNYCRImwb0nbRd3kRNyTNQkYZ8zUH6cIX410/s1600/mobile.png"
         },
         {
+          "id": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Compliance requirements are meant to increase cybersecurity transparency and accountability. As cyber threats increase, so do the number of compliance frameworks and the specificity of the security controls, policies, and activities they include.\nFor CISOs and their teams, that means compliance is a time-consuming, high-stakes process that demands strong organizational and",
+          "link": "https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html",
+          "publishedOn": "2024-04-24T09:24:00.000Z",
+          "wordCount": null,
+          "title": "CISO Perspectives on Complying with Cybersecurity Regulations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KcvfA7yo0I7juajdq02NSh8O17LjEKYHZjBPICSD8kbNuHIp9l0UTAWXsikadzOJE2Cwe0LPnrvzPyqW0YRO9MTp74q3Iz3Uh6w8fY2pLnncLpqG0cnsyDx7LylXWu7ys0AkparK32LCbz84ln7RZT73QK4NxW8yjtsg8kIQ_pNS-6KwaoYwUpSKDWA/s1600/MAIN.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/04/escan-antivirus-update-mechanism.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new malware campaign has been exploiting the updating mechanism of the eScan antivirus software to distribute backdoors and cryptocurrency miners like XMRig through a long-standing threat codenamed GuptiMiner targeting large corporate networks.\nCybersecurity firm Avast said the activity is the work of a threat actor with possible connections to a North Korean hacking group dubbed",
@@ -2998,46 +3014,6 @@
           "publishedOn": "2024-04-08T09:14:19.000Z",
           "wordCount": 1408,
           "title": "CERTFR-2024-ACT-016 : Bulletin d’actualité CERTFR-2024-ACT-016 (08 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0279/",
-          "publishedOn": "2024-04-05T11:33:30.000Z",
-          "wordCount": 1191,
-          "title": "CERTFR-2024-AVI-0279 : Multiples vulnérabilités dans les produits IBM (05 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans le noyau Linux de Debian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0278/",
-          "publishedOn": "2024-04-05T11:31:51.000Z",
-          "wordCount": 930,
-          "title": "CERTFR-2024-AVI-0278 : Vulnérabilité dans le noyau Linux de Debian (05 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0277/",
-          "publishedOn": "2024-04-05T11:27:46.000Z",
-          "wordCount": 1274,
-          "title": "CERTFR-2024-AVI-0277 : Multiples vulnérabilités dans le noyau Linux de RedHat (05 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, un contournement de la politique de sécurité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0276/",
-          "publishedOn": "2024-04-05T11:25:33.000Z",
-          "wordCount": 1097,
-          "title": "CERTFR-2024-AVI-0276 : Multiples vulnérabilités dans le noyau Linux de SUSE (05 avril 2024)",
           "imageUrl": null
         }
       ]
