@@ -2036,22 +2036,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG5QI8tTiZaTc8eCi4l4slOqXDMz_iKXTGpEmIByjKIxoMcFdEe-jF7xSBJGn5i0kKb5BvWLjRC7GN8vHvMObcgB-kMhTWLMIDxoaWJefyxTwx2pf6O8ymjzMrHOv4Lh_XMvSq1-ogX8d4227CIqOYhcGC2EUxUnzKVR6UUdYUy7C5cxI4jrLEF8qXUWw/s1600/scam.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGG5QI8tTiZaTc8eCi4l4slOqXDMz_iKXTGpEmIByjKIxoMcFdEe-jF7xSBJGn5i0kKb5BvWLjRC7GN8vHvMObcgB-kMhTWLMIDxoaWJefyxTwx2pf6O8ymjzMrHOv4Lh_XMvSq1-ogX8d4227CIqOYhcGC2EUxUnzKVR6UUdYUy7C5cxI4jrLEF8qXUWw/s1600/scam.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been found exploiting a critical flaw in Magento to inject a persistent backdoor into e-commerce websites.\nThe attack leverages CVE-2024-20720 (CVSS score: 9.1), which has been described by Adobe as a case of \"improper neutralization of special elements\" that could pave the way for arbitrary code execution.\nIt was addressed by the company as part of",
-          "link": "https://thehackernews.com/2024/04/hackers-exploit-magento-bug-to-steal.html",
-          "publishedOn": "2024-04-06T09:43:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Magento Bug to Steal Payment Data from E-commerce Websites",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvEvX8I4qP26LQ3nRgpRif4RBmoX-y5csTvKLcdwfozqKnFCGbZlBzFcoLeiDzu69ND0FW_60mEsiz0htVIGFigEx3QW4aHwHJxh-vg5XhWCZqnyYBHNpu5TKVjpstyEyt9PdhDo7F7XCuIfm4LyU1Jf7Aw4uiRp5fQ3kG4ww23F9W_k1_yW6FUHjYEg1y/s1600/website-hacked.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvEvX8I4qP26LQ3nRgpRif4RBmoX-y5csTvKLcdwfozqKnFCGbZlBzFcoLeiDzu69ND0FW_60mEsiz0htVIGFigEx3QW4aHwHJxh-vg5XhWCZqnyYBHNpu5TKVjpstyEyt9PdhDo7F7XCuIfm4LyU1Jf7Aw4uiRp5fQ3kG4ww23F9W_k1_yW6FUHjYEg1y/s1600/website-hacked.png"
         }
       ]
     },
