@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple security vulnerabilities have been disclosed in various applications and system components within Xiaomi devices running Android.\n\"The vulnerabilities in Xiaomi led to access to arbitrary activities, receivers and services with system privileges, theft of arbitrary files with system privileges, [and] disclosure of phone, settings and Xiaomi account data,\" mobile security firm",
+          "link": "https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html",
+          "publishedOn": "2024-05-06T10:03:00.000Z",
+          "wordCount": null,
+          "title": "Xiaomi Android Devices Hit by Multiple Flaws Across Apps and System Components",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0AFmbWqUNd3G018HE8XfB9AeeuQk0WmwbIBCh6gh7Mv2scbyd4gFaB1_lvhqVzFrPyrqnAoCb8DEArPjZ7JpST1b_5q_ZYJKdHfveDjKKq8zsSo4SZTVGBIJS7BJPeNSnYX1OmC_thfu-oGo4fW9gDBZhRYo7QeXCPYtHDe4IxYxVfsRvd0BumJ6et_6y/s1600/mi.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0AFmbWqUNd3G018HE8XfB9AeeuQk0WmwbIBCh6gh7Mv2scbyd4gFaB1_lvhqVzFrPyrqnAoCb8DEArPjZ7JpST1b_5q_ZYJKdHfveDjKKq8zsSo4SZTVGBIJS7BJPeNSnYX1OmC_thfu-oGo4fW9gDBZhRYo7QeXCPYtHDe4IxYxVfsRvd0BumJ6et_6y/s1600/mi.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/new-cuckoo-persistent-macos-spyware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new information stealer targeting Apple macOS systems that's designed to set up persistence on the infected hosts and act as a spyware.\nDubbed Cuckoo by Kandji, the malware is a universal Mach-O binary that's capable of running on both Intel- and Arm-based Macs.\nThe exact distribution vector is currently unclear, although there are",
