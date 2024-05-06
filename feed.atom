@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-06T14:43:28.607Z</updated>
+    <updated>2024-05-06T15:11:12.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Tinyproxy Flaw Opens Over 50,000 Hosts to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html</id>
+        <link href="https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html"/>
+        <updated>2024-05-06T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 50% of the 90,310 hosts have been found exposing a Tinyproxy service on the internet that's vulnerable to a critical unpatched security flaw in the HTTP/HTTPS proxy tool.
+
+The issue, tracked as CVE-2023-49606, carries a CVSS score of 9.8 out of a maximum of 10, per Cisco Talos, which described it as a use-after-free bug impacting versions 1.10.0 and 1.11.1, which is the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China-Linked Hackers Suspected in ArcaneDoor Cyberattacks Targeting Network Devices]]></title>
         <id>https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html</id>
@@ -16,6 +28,16 @@
 Dubbed ArcaneDoor, the activity is said to have commenced around July 2023, with the first confirmed attack against an unnamed victim]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ACT-020 : Bulletin d’actualité CERTFR-2024-ACT-020 (06 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-020/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-020/"/>
+        <updated>2024-05-06T11:55:02.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -38,6 +60,16 @@ With cybercriminals becoming more sophisticated, SMBs like you must do more to p
 "The vulnerabilities in Xiaomi led to access to arbitrary activities, receivers and services with system privileges, theft of arbitrary files with system privileges, [and] disclosure of phone, settings and Xiaomi account data," mobile security firm]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0367 : Vulnérabilité dans SolarWinds Serv-U (06 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0367/"/>
+        <updated>2024-05-06T08:42:28.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
