@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-06T13:43:32.414Z</updated>
+    <updated>2024-05-06T14:10:46.735Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Suspected in ArcaneDoor Cyberattacks Targeting Network Devices]]></title>
+        <id>https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html</id>
+        <link href="https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html"/>
+        <updated>2024-05-06T13:47:00.000Z</updated>
+        <summary type="html"><![CDATA[The recently uncovered cyber espionage campaign targeting perimeter network devices from several vendors, including Cisco, may have been the work of China-linked actors, according to new findings from attack surface management firm Censys.
+
+Dubbed ArcaneDoor, the activity is said to have commenced around July 2023, with the first confirmed attack against an unnamed victim]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It Costs How Much?!? The Financial Pitfalls of Cyberattacks on SMBs]]></title>
         <id>https://thehackernews.com/2024/05/it-costs-how-much-financial-pitfalls-of.html</id>
