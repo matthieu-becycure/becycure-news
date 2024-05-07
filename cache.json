@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/google-simplifies-2-factor.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Monday announced that it's simplifying the process of enabling two-factor authentication (2FA) for users with personal and Workspace accounts.\nAlso called, 2-Step Verification (2SV), it aims to add an extra layer of security to users' accounts to prevent takeover attacks in case the passwords are stolen.\nThe new change entails adding a second step method, such as an",
+          "link": "https://thehackernews.com/2024/05/google-simplifies-2-factor.html",
+          "publishedOn": "2024-05-07T10:02:00.000Z",
+          "wordCount": null,
+          "title": "Google Simplifies 2-Factor Authentication Setup (It's More Important Than Ever)",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhts8IRNt2lxOZ9dY9XPz7jMaACPUzRvigd7tqCinb8wiH2wSR3E4FZsKfkjtwLLp1cXJJWmnA3GekpLpUXNu5aCTz89_QtbKtYuE96g9_-KBO8FRVkE-KTSqIhiLI7jhUUhc0t8T9iX_Xf5FskuLpgpljGnDU-9NLfNsmMTtiNzkTQuMP7H2ETPUpYbINx/s1600/google.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhts8IRNt2lxOZ9dY9XPz7jMaACPUzRvigd7tqCinb8wiH2wSR3E4FZsKfkjtwLLp1cXJJWmnA3GekpLpUXNu5aCTz89_QtbKtYuE96g9_-KBO8FRVkE-KTSqIhiLI7jhUUhc0t8T9iX_Xf5FskuLpgpljGnDU-9NLfNsmMTtiNzkTQuMP7H2ETPUpYbINx/s1600/google.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Russian operator of a now-dismantled BTC-e cryptocurrency exchange has pleaded guilty to money laundering charges from 2011 to 2017.\nAlexander Vinnik, 44, was charged in January 2017 and taken into custody in Greece in July 2017. He was subsequently extradited to the U.S. in August 2022. Vinnik and his co-conspirators have been accused of owning and managing",
