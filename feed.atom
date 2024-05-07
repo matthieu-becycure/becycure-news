@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-07T20:23:26.513Z</updated>
+    <updated>2024-05-07T20:43:24.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2529,18 +2529,6 @@ Figure]]></summary>
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Targeting Latin America with Sophisticated Phishing Scheme]]></title>
-        <id>https://thehackernews.com/2024/04/cybercriminals-targeting-latin-america.html</id>
-        <link href="https://thehackernews.com/2024/04/cybercriminals-targeting-latin-america.html"/>
-        <updated>2024-04-08T08:36:00.000Z</updated>
-        <summary type="html"><![CDATA[A new phishing campaign has set its eyes on the Latin American region to deliver malicious payloads to Windows systems.
-"The phishing email contained a ZIP file attachment that when extracted reveals an HTML file that leads to a malicious file download posing as an invoice," Trustwave SpiderLabs researcher Karla Agregado said.
-The email message, the company said, originates from an email]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
