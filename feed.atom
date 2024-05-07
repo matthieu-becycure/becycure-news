@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-07T13:43:37.659Z</updated>
+    <updated>2024-05-07T14:10:07.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data]]></title>
+        <id>https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html</id>
+        <link href="https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html"/>
+        <updated>2024-05-07T13:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The Iranian state-backed hacking outfit called APT42 is making use of enhanced social engineering schemes to infiltrate target networks and cloud environments.
+Targets of the attack include Western and Middle Eastern NGOs, media organizations, academia, legal services and activists, Google Cloud subsidiary Mandiant said in a report published last week.
+"APT42 was]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Used ROOTROT Webshell in MITRE Network Intrusion]]></title>
+        <id>https://thehackernews.com/2024/05/china-linked-hackers-used-rootrot.html</id>
+        <link href="https://thehackernews.com/2024/05/china-linked-hackers-used-rootrot.html"/>
+        <updated>2024-05-07T12:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The MITRE Corporation has offered more details into the recently disclosed cyber attack, stating that the first evidence of the intrusion now dates back to December 31, 2023.
+The attack, which came to light last month, singled out MITRE's Networked Experimentation, Research, and Virtualization Environment (NERVE) through the exploitation of two Ivanti Connect Secure zero-day]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Case Study: The Malicious Comment]]></title>
         <id>https://thehackernews.com/2024/05/new-case-study-malicious-comment.html</id>
