@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-07T15:26:49.428Z</updated>
+    <updated>2024-05-07T15:43:32.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0369 : Multiples vulnérabilités dans les produits GLPI (07 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/"/>
+        <updated>2024-05-07T14:00:15.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APT42 Hackers Pose as Journalists to Harvest Credentials and Access Cloud Data]]></title>
         <id>https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html</id>
@@ -61,6 +71,16 @@ The new change entails adding a second step method, such as an]]></summary>
 Alexander Vinnik, 44, was charged in January 2017 and taken into custody in Greece in July 2017. He was subsequently extradited to the U.S. in August 2022. Vinnik and his co-conspirators have been accused of owning and managing]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0368 : [SCADA] Vulnérabilité dans Moxa NPort (07 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/"/>
+        <updated>2024-05-07T07:19:09.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Moxa NPort. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
