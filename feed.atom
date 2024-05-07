@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-07T09:27:27.745Z</updated>
+    <updated>2024-05-07T09:43:31.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering]]></title>
+        <id>https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html</id>
+        <link href="https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html"/>
+        <updated>2024-05-07T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A Russian operator of a now-dismantled BTC-e cryptocurrency exchange has pleaded guilty to money laundering charges from 2011 to 2017.
+Alexander Vinnik, 44, was charged in January 2017 and taken into custody in Greece in July 2017. He was subsequently extradited to the U.S. in August 2022. Vinnik and his co-conspirators have been accused of owning and managing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Tinyproxy Flaw Opens Over 50,000 Hosts to Remote Code Execution]]></title>
         <id>https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html</id>

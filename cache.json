@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Russian operator of a now-dismantled BTC-e cryptocurrency exchange has pleaded guilty to money laundering charges from 2011 to 2017.\nAlexander Vinnik, 44, was charged in January 2017 and taken into custody in Greece in July 2017. He was subsequently extradited to the U.S. in August 2022. Vinnik and his co-conspirators have been accused of owning and managing",
+          "link": "https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html",
+          "publishedOn": "2024-05-07T09:32:00.000Z",
+          "wordCount": null,
+          "title": "Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIlSmhoWO8r-KCBWDkiN4qRvrNv1eZtIxSFdEoB00SYs9Cp4AbFI9_B1xH5qZkTCIqxCt3hi0Yf-btBi7DJNNVEUdvEOrpzdmYMsbWxpEU-U01DcjS7luA_k12jlZudZbUPkZVPm8nAzUVNgcoKUuL_xVO9Mv4B_DrON01jr9qx_r0UXN4jbe_nnu1N6cs/s1600/btc.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIlSmhoWO8r-KCBWDkiN4qRvrNv1eZtIxSFdEoB00SYs9Cp4AbFI9_B1xH5qZkTCIqxCt3hi0Yf-btBi7DJNNVEUdvEOrpzdmYMsbWxpEU-U01DcjS7luA_k12jlZudZbUPkZVPm8nAzUVNgcoKUuL_xVO9Mv4B_DrON01jr9qx_r0UXN4jbe_nnu1N6cs/s1600/btc.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/critical-tinyproxy-flaw-opens-over.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More than 50% of the 90,310 hosts have been found exposing a Tinyproxy service on the internet that's vulnerable to a critical unpatched security flaw in the HTTP/HTTPS proxy tool.\n\nThe issue, tracked as CVE-2023-49606, carries a CVSS score of 9.8 out of a maximum of 10, per Cisco Talos, which described it as a use-after-free bug impacting versions 1.10.0 and 1.11.1, which is the",
