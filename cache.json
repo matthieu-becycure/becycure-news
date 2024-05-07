@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.K. National Crime Agency (NCA) has unmasked the administrator and developer of the LockBit ransomware operation, revealing it to be a 31-year-old Russian national named Dmitry Yuryevich Khoroshev.\nIn addition, Khoroshev has been sanctioned by the U.K. Foreign, Commonwealth and Development Office (FCD), the U.S. Department of the Treasury’s Office of Foreign Assets Control (",
+          "link": "https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html",
+          "publishedOn": "2024-05-07T15:49:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hacker Dmitry Khoroshev Unmasked as LockBit Ransomware Administrator",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-wdluAnaCMhtDZVypdjKCoD-my751uVGh6sFsjmHbzXyWAfsaR6FZVvKW7Kyxpj0ZNkxIJDmYTVKGGvUc3QeYs3DTTWIhYy6ARW5qxlWsXmszoFbqlMVfiFOuyEflW-yWGGBI3nhk34XBQ4cWyyMC0hZRypO7CiRKczdzgAHVRLl4RBvZTm6u58Tk7tS/s1600/lockbit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-wdluAnaCMhtDZVypdjKCoD-my751uVGh6sFsjmHbzXyWAfsaR6FZVvKW7Kyxpj0ZNkxIJDmYTVKGGvUc3QeYs3DTTWIhYy6ARW5qxlWsXmszoFbqlMVfiFOuyEflW-yWGGBI3nhk34XBQ4cWyyMC0hZRypO7CiRKczdzgAHVRLl4RBvZTm6u58Tk7tS/s1600/lockbit.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/apt42-hackers-pose-as-journalists-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Iranian state-backed hacking outfit called APT42 is making use of enhanced social engineering schemes to infiltrate target networks and cloud environments.\nTargets of the attack include Western and Middle Eastern NGOs, media organizations, academia, legal services and activists, Google Cloud subsidiary Mandiant said in a report published last week.\n\"APT42 was",
