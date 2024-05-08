@@ -3179,16 +3179,6 @@
           "wordCount": 1102,
           "title": "CERTFR-2024-AVI-0281 : [SCADA] Multiples vulnérabilités dans les produits Siemens (09 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0280/",
-          "publishedOn": "2024-04-09T05:25:17.000Z",
-          "wordCount": 938,
-          "title": "CERTFR-2024-AVI-0280 : Vulnérabilité dans OpenSSL (09 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
