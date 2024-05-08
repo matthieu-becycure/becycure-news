@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-08T14:43:24.890Z</updated>
+    <updated>2024-05-08T15:10:28.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A SaaS Security Challenge: Getting Permissions All in One Place]]></title>
+        <id>https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html</id>
+        <link href="https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html"/>
+        <updated>2024-05-08T14:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Permissions in SaaS platforms like Salesforce, Workday, and Microsoft 365 are remarkably precise. They spell out exactly which users have access to which data sets. The terminology differs between apps, but each user’s base permission is determined by their role, while additional permissions may be granted based on tasks or projects they are involved with. Layered on top of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Spectre-Style 'Pathfinder' Attack Targets Intel CPU, Leak Encryption Keys and Data]]></title>
+        <id>https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html</id>
+        <link href="https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html"/>
+        <updated>2024-05-08T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have discovered two novel attack methods targeting high-performance Intel CPUs that could be exploited to stage a key recovery attack against the Advanced Encryption Standard (AES) algorithm.
+The techniques have been collectively dubbed Pathfinder by a group of academics from the University of California San Diego, Purdue University, UNC Chapel]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Fundamentals of Cloud Security Stress Testing]]></title>
         <id>https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html</id>

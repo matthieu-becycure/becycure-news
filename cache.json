@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Permissions in SaaS platforms like Salesforce, Workday, and Microsoft 365 are remarkably precise. They spell out exactly which users have access to which data sets. The terminology differs between apps, but each user’s base permission is determined by their role, while additional permissions may be granted based on tasks or projects they are involved with. Layered on top of",
+          "link": "https://thehackernews.com/2024/05/a-saas-security-challenge-getting.html",
+          "publishedOn": "2024-05-08T14:18:00.000Z",
+          "wordCount": null,
+          "title": "A SaaS Security Challenge: Getting Permissions All in One Place",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s1600/as.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk9_-3ho9CnD6vcmj1tvvCvrvAdmKsFY-cbaja-5pRVV8_mArnYK3PxyRqgJ9nWCe9kovyGsFfO3BjgqUs8dmCsnFcYYxyCaeRSoVuS8kU648juKSN1toRwKGiUSbdvcFxO_AJkqalwScXF49DPxDqz23ZB4mLRQwVYZ7S_smVY-N924qApp-IpZGKvSE/s1600/as.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Researchers have discovered two novel attack methods targeting high-performance Intel CPUs that could be exploited to stage a key recovery attack against the Advanced Encryption Standard (AES) algorithm.\nThe techniques have been collectively dubbed Pathfinder by a group of academics from the University of California San Diego, Purdue University, UNC Chapel",
+          "link": "https://thehackernews.com/2024/05/new-spectre-style-pathfinder-attack.html",
+          "publishedOn": "2024-05-08T14:17:00.000Z",
+          "wordCount": null,
+          "title": "New Spectre-Style 'Pathfinder' Attack Targets Intel CPU, Leak Encryption Keys and Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s1600/cpu.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s1600/cpu.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "״Defenders think in lists, attackers think in graphs,” said John Lambert from Microsoft, distilling the fundamental difference in mindset between those who defend IT systems and those who try to compromise them.\nThe traditional approach for defenders is to list security gaps directly related to their assets in the network and eliminate as many as possible, starting with the most critical.",
