@@ -3029,36 +3029,6 @@
           "wordCount": 943,
           "title": "CERTFR-2024-AVI-0288 : Vulnérabilité dans Microsoft Office (10 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à l'intégrité des données et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0287/",
-          "publishedOn": "2024-04-10T06:07:15.000Z",
-          "wordCount": 1397,
-          "title": "CERTFR-2024-AVI-0287 : Multiples vulnérabilités dans les produits Fortinet (10 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0286/",
-          "publishedOn": "2024-04-10T05:52:39.000Z",
-          "wordCount": 1007,
-          "title": "CERTFR-2024-AVI-0286 : Multiples vulnérabilités dans les produits Xen (10 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans WordPress. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0285/",
-          "publishedOn": "2024-04-10T05:48:33.000Z",
-          "wordCount": 917,
-          "title": "CERTFR-2024-AVI-0285 : Vulnérabilité dans WordPress (10 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
