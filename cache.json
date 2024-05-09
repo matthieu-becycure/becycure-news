@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Researchers have detailed a Virtual Private Network (VPN) bypass technique dubbed TunnelVision that allows threat actors to snoop on victim's network traffic by just being on the same local network.\nThe \"decloaking\" method has been assigned the CVE identifier CVE-2024-3661 (CVSS score: 7.6). It impacts all operating systems that implement a DHCP client and has",
+          "link": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
+          "publishedOn": "2024-05-09T17:55:00.000Z",
+          "wordCount": null,
+          "title": "New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s1600/vpn.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQlsUsoiYy4aXpmIuXau1TgGOZCD90EijcsFIeenHhC3SbZx0oCAUNX5BXImJJt4h30CotZ6v2szc7nwoa7K1DksiIAUboLQbvpH_7gBFvurgPQd2ANs1v9JieyCVRolbQ3_smQa-p7gM2krtcbqLr0kfuCMhvxGNCjgBb5YqCnTMcCO-PDA_7R96f3VF2/s1600/vpn.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Polish government institutions have been targeted as part of a large-scale malware campaign orchestrated by a Russia-linked nation-state actor called APT28.\n\"The campaign sent emails with content intended to arouse the recipient's interest and persuade him to click on the link,\" the computer emergency response team, CERT Polska, said in a Wednesday bulletin.\nClicking on the link",
@@ -2978,26 +2994,6 @@
           "publishedOn": "2024-04-11T06:16:35.000Z",
           "wordCount": 972,
           "title": "CERTFR-2024-AVI-0293 : Multiples vulnérabilités dans Mitel MiCollab (11 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une usurpation d'identité et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0292/",
-          "publishedOn": "2024-04-10T06:29:24.000Z",
-          "wordCount": 1786,
-          "title": "CERTFR-2024-AVI-0292 : Multiples vulnérabilités dans les produits Microsoft (10 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0291/",
-          "publishedOn": "2024-04-10T06:29:23.000Z",
-          "wordCount": 1168,
-          "title": "CERTFR-2024-AVI-0291 : Multiples vulnérabilités dans Microsoft Azure (10 avril 2024)",
           "imageUrl": null
         }
       ]
