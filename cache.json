@@ -3059,16 +3059,6 @@
           "wordCount": 917,
           "title": "CERTFR-2024-AVI-0285 : Vulnérabilité dans WordPress (10 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0284/",
-          "publishedOn": "2024-04-10T05:29:09.000Z",
-          "wordCount": 1039,
-          "title": "CERTFR-2024-AVI-0284 : Multiples vulnérabilités dans les produits Adobe (10 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
