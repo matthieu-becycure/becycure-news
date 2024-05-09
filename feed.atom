@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-09T00:49:25.279Z</updated>
+    <updated>2024-05-09T01:54:09.864Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2432,29 +2432,6 @@ The vulnerability, tracked as CVE-2024-24576, has a CVSS score of 10.0, indicat
         <summary type="html"><![CDATA[A threat group of suspected Romanian origin called RUBYCARP has been observed maintaining a long-running botnet for carrying out crypto mining, distributed denial-of-service (DDoS), and phishing attacks.
 The group, believed to be active for at least 10 years, employs the botnet for financial gain, Sysdig said in a report shared with The Hacker News.
 "Its primary method of operation]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Targeting Human Rights Activists in Morocco and Western Sahara]]></title>
-        <id>https://thehackernews.com/2024/04/hackers-targeting-human-rights.html</id>
-        <link href="https://thehackernews.com/2024/04/hackers-targeting-human-rights.html"/>
-        <updated>2024-04-09T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Human rights activists in Morocco and the Western Sahara region are the targets of a new threat actor that leverages phishing attacks to trick victims into installing bogus Android apps and serve credential harvesting pages for Windows users.
-Cisco Talos is tracking the activity cluster under the name Starry Addax, describing it as primarily singling out activists associated with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Discover LG Smart TV Vulnerabilities Allowing Root Access]]></title>
-        <id>https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html</id>
-        <link href="https://thehackernews.com/2024/04/researchers-discover-lg-smart-tv.html"/>
-        <updated>2024-04-09T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in LG webOS running on its smart televisions that could be exploited to bypass authorization and gain root access on the devices.
-The findings come from Romanian cybersecurity firm Bitdefender, which discovered and reported the flaws in November 2023. The issues were fixed by LG as part of updates released on March 22, 2024.
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
