@@ -3119,26 +3119,6 @@
           "wordCount": 1284,
           "title": "CERTFR-2024-AVI-0295 : Multiples vulnérabilités dans les produits Palo Alto Networks (11 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0294/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0294/",
-          "publishedOn": "2024-04-11T06:26:07.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2024-AVI-0294 : Multiples vulnérabilités dans Google Chrome (11 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0293/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Mitel MiCollab. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0293/",
-          "publishedOn": "2024-04-11T06:16:35.000Z",
-          "wordCount": 972,
-          "title": "CERTFR-2024-AVI-0293 : Multiples vulnérabilités dans Mitel MiCollab (11 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
