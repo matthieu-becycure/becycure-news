@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Artificial intelligence (AI) is transforming cybersecurity, and those leading the charge are using it to outsmart increasingly advanced cyber threats.\nJoin us for an exciting webinar, \"The Future of Threat Hunting is Powered by Generative AI,\" where you'll explore how AI tools are shaping the future of cybersecurity defenses.\nDuring the session, Censys Security Researcher Aidan Holland will",
+          "link": "https://thehackernews.com/2024/05/censysgpt-ai-powered-threat-hunting-for.html",
+          "publishedOn": "2024-05-10T12:52:00.000Z",
+          "wordCount": null,
+          "title": "CensysGPT: AI-Powered Threat Hunting for Cybersecurity Pros (Webinar)",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQzKHxF9wi3LGibNRnANXUG8_15lCG3M1Xufs8A98ul3VXJnGRM_LhxYgNXMMIF6bEVuMk1irdTzogocwMaUQgv6xl34h-r4-TpWtnaV9dpLC3ZsX2XyRYNMvMQTjJmpIZrScfZJdRhQcn0hVrVjH-4EAxWu-EXyDq0ebtYgGX787Xuf40HWe1XQYxVC3/s1600/webinar.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrQzKHxF9wi3LGibNRnANXUG8_15lCG3M1Xufs8A98ul3VXJnGRM_LhxYgNXMMIF6bEVuMk1irdTzogocwMaUQgv6xl34h-r4-TpWtnaV9dpLC3ZsX2XyRYNMvMQTjJmpIZrScfZJdRhQcn0hVrVjH-4EAxWu-EXyDq0ebtYgGX787Xuf40HWe1XQYxVC3/s1600/webinar.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/chrome-zero-day-alert-update-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Thursday released security updates to address a zero-day flaw in Chrome that it said has been actively exploited in the wild.\nTracked as CVE-2024-4671, the high-severity vulnerability has been described as a case of use-after-free in the Visuals component. It was reported by an anonymous researcher on May 7, 2024.\nUse-after-free bugs, which arise when a program",
