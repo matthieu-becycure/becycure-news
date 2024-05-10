@@ -2141,6 +2141,166 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0385/",
+          "publishedOn": "2024-05-10T11:59:17.000Z",
+          "wordCount": 1910,
+          "title": "CERTFR-2024-AVI-0385 : Multiples vulnérabilités dans les produits IBM (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0384/",
+          "publishedOn": "2024-05-10T11:54:26.000Z",
+          "wordCount": 1377,
+          "title": "CERTFR-2024-AVI-0384 : Multiples vulnérabilités dans le noyau Linux de SUSE (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0383/",
+          "publishedOn": "2024-05-10T11:41:32.000Z",
+          "wordCount": 1656,
+          "title": "CERTFR-2024-AVI-0383 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0382/",
+          "publishedOn": "2024-05-10T11:33:40.000Z",
+          "wordCount": 1270,
+          "title": "CERTFR-2024-AVI-0382 : Multiples vulnérabilités dans le noyau Linux de RedHat (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0381/",
+          "publishedOn": "2024-05-10T11:31:11.000Z",
+          "wordCount": 2054,
+          "title": "CERTFR-2024-AVI-0381 : Multiples vulnérabilités dans le noyau Linux de Debian (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/",
+          "publishedOn": "2024-05-10T10:04:25.000Z",
+          "wordCount": 1117,
+          "title": "CERTFR-2024-AVI-0380 : Multiples vulnérabilités dans les produits NetApp (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans HPE Aruba Networking AOS-CX. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0379/",
+          "publishedOn": "2024-05-10T08:57:56.000Z",
+          "wordCount": 994,
+          "title": "CERTFR-2024-AVI-0379 : Vulnérabilité dans HPE Aruba Networking AOS-CX (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Juniper Junos OS. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0378/",
+          "publishedOn": "2024-05-10T08:56:21.000Z",
+          "wordCount": 1112,
+          "title": "CERTFR-2024-AVI-0378 : Multiples vulnérabilités dans Juniper Junos OS (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0377/",
+          "publishedOn": "2024-05-10T08:22:27.000Z",
+          "wordCount": 1178,
+          "title": "CERTFR-2024-AVI-0377 : Multiples vulnérabilités dans les produits F5 (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF), un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/",
+          "publishedOn": "2024-05-10T08:07:02.000Z",
+          "wordCount": 1020,
+          "title": "CERTFR-2024-AVI-0376 : Multiples vulnérabilités dans GitLab (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0375/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0375/",
+          "publishedOn": "2024-05-10T08:03:05.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0375 : Vulnérabilité dans Xen (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0374/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Veeam Service Provider Console. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0374/",
+          "publishedOn": "2024-05-10T07:58:19.000Z",
+          "wordCount": 946,
+          "title": "CERTFR-2024-AVI-0374 : Vulnérabilité dans Veeam Service Provider Console (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0373/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0373/",
+          "publishedOn": "2024-05-10T07:48:20.000Z",
+          "wordCount": 946,
+          "title": "CERTFR-2024-AVI-0373 : Vulnérabilité dans PostgreSQL (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.\n Google a connaissance d'une exploitation active de la vulnérabilité CVE-2024-4671.\n …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/",
+          "publishedOn": "2024-05-10T07:43:24.000Z",
+          "wordCount": 992,
+          "title": "CERTFR-2024-AVI-0372 : Multiples vulnérabilités dans Google Chrome (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/",
+          "publishedOn": "2024-05-10T07:39:30.000Z",
+          "wordCount": 1062,
+          "title": "CERTFR-2024-AVI-0371 : Multiples vulnérabilités dans Google Android (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0370/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Apple iTunes. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0370/",
+          "publishedOn": "2024-05-10T07:15:45.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0370 : Vulnérabilité dans iTunes pour Windows (10 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
