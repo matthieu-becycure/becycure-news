@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a novel attack that employs stolen cloud credentials to target cloud-hosted large language model (LLM) services with the goal of selling access to other threat actors.\nThe attack technique has been codenamed LLMjacking by the Sysdig Threat Research Team.\n\"Once initial access was obtained, they exfiltrated cloud credentials and gained",
+          "link": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
+          "publishedOn": "2024-05-10T07:41:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s1600/app.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s1600/app.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Researchers have detailed a Virtual Private Network (VPN) bypass technique dubbed TunnelVision that allows threat actors to snoop on victim's network traffic by just being on the same local network.\nThe \"decloaking\" method has been assigned the CVE identifier CVE-2024-3661 (CVSS score: 7.6). It impacts all operating systems that implement a DHCP client and has",

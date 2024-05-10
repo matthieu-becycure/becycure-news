@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-10T07:43:31.017Z</updated>
+    <updated>2024-05-10T08:13:37.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models]]></title>
+        <id>https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html</id>
+        <link href="https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html"/>
+        <updated>2024-05-10T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a novel attack that employs stolen cloud credentials to target cloud-hosted large language model (LLM) services with the goal of selling access to other threat actors.
+The attack technique has been codenamed LLMjacking by the Sysdig Threat Research Team.
+"Once initial access was obtained, they exfiltrated cloud credentials and gained]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation]]></title>
         <id>https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html</id>
