@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-10T18:43:32.827Z</updated>
+    <updated>2024-05-10T19:09:08.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2479,17 +2479,6 @@ PyPI,]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Expands Spyware Alert System to Warn Users of Mercenary Attacks]]></title>
-        <id>https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html</id>
-        <link href="https://thehackernews.com/2024/04/apple-expands-spyware-alert-system-to.html"/>
-        <updated>2024-04-11T06:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple on Wednesday revised its documentation pertaining to its mercenary spyware threat notification system to mention that it alerts users when they may have been individually targeted by such attacks.
-It also specifically called out companies like NSO Group for developing commercial surveillance tools such as Pegasus that are used by state actors to pull off "individually targeted]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
