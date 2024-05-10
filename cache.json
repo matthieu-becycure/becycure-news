@@ -3083,16 +3083,6 @@
           "wordCount": 2182,
           "title": "CERTFR-2024-AVI-0297 : Multiples vulnérabilités dans Juniper (11 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0296/",
-          "publishedOn": "2024-04-11T07:39:44.000Z",
-          "wordCount": 982,
-          "title": "CERTFR-2024-AVI-0296 : Multiples vulnérabilités dans GitLab (11 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
