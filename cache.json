@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The financially motivated threat actor known as FIN7 has been observed leveraging malicious Google ads spoofing legitimate brands as a means to deliver MSIX installers that culminate in the deployment of NetSupport RAT.\n\"The threat actors used malicious websites to impersonate well-known brands, including AnyDesk, WinSCP, BlackRock, Asana, Concur, The Wall",
+          "link": "https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html",
+          "publishedOn": "2024-05-11T07:29:00.000Z",
+          "wordCount": null,
+          "title": "FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidGxM7ADAzrplKASUpJQ3bzcolJSyabMKaYKT4HClyzRgCOuWCVvr4duu8KJkPW_9Ga8ADrETgYfu0Pwx9QosFgHep34F7jq5lOwmpYTooakEW-L3-1pyG0UDv5s2UEUJ-etPxVPf3FsuaCnRzo-2SfgR6sBYGaiuMLgIfVMCeQ_eylo2l6zR3vJ-i3oYb/s1600/browser.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidGxM7ADAzrplKASUpJQ3bzcolJSyabMKaYKT4HClyzRgCOuWCVvr4duu8KJkPW_9Ga8ADrETgYfu0Pwx9QosFgHep34F7jq5lOwmpYTooakEW-L3-1pyG0UDv5s2UEUJ-etPxVPf3FsuaCnRzo-2SfgR6sBYGaiuMLgIfVMCeQ_eylo2l6zR3vJ-i3oYb/s1600/browser.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/north-korean-hackers-deploy-new-golang.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The North Korean threat actor tracked as Kimsuky has been observed deploying a previously undocumented Golang-based malware dubbed Durian as part of highly-targeted cyber attacks aimed at South Korean cryptocurrency firms.\n\"Durian boasts comprehensive backdoor functionality, enabling the execution of delivered commands, additional file downloads and exfiltration of files,\" Kaspersky&",
