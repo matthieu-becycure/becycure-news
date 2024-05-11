@@ -3005,26 +3005,6 @@
           "wordCount": 993,
           "title": "CERTFR-2024-AVI-0300 : Multiples vulnérabilités dans PHP (12 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0299/",
-          "publishedOn": "2024-04-11T12:28:19.000Z",
-          "wordCount": 976,
-          "title": "CERTFR-2024-AVI-0299 : Multiples vulnérabilités dans les produits Citrix (11 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0298/",
-          "publishedOn": "2024-04-11T12:21:36.000Z",
-          "wordCount": 962,
-          "title": "CERTFR-2024-AVI-0298 : Vulnérabilité dans Spring Framework (11 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
