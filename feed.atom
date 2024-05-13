@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-13T06:43:25.994Z</updated>
+    <updated>2024-05-13T07:10:50.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious Python Package Hides Sliver C2 Framework in Fake Requests Library Logo]]></title>
+        <id>https://thehackernews.com/2024/05/malicious-python-package-hides-sliver.html</id>
+        <link href="https://thehackernews.com/2024/05/malicious-python-package-hides-sliver.html"/>
+        <updated>2024-05-13T06:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have identified a malicious Python package that purports to be an offshoot of the popular requests library and has been found concealing a Golang-version of the Sliver command-and-control (C2) framework within a PNG image of the project's logo. 
+The package employing this steganographic trickery is requests-darwin-lite, which has been]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT]]></title>
         <id>https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html</id>
