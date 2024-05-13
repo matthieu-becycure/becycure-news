@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "With the browser becoming the most prevalent workspace in the enterprise, it is also turning into a popular attack vector for cyber attackers. From account takeovers to malicious extensions to phishing attacks, the browser is a means for stealing sensitive data and accessing organizational systems.\nSecurity leaders who are planning their security architecture",
+          "link": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
+          "publishedOn": "2024-05-13T12:06:00.000Z",
+          "wordCount": null,
+          "title": "The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s1600/2024.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s1600/2024.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the last decade, there has been a growing disconnect between front-line analysts and senior management in IT and Cybersecurity. Well-documented challenges facing modern analysts revolve around a high volume of alerts, false positives, poor visibility of technical environments, and analysts spending too much time on manual tasks.\nThe Impact of Alert Fatigue and False Positives \nAnalysts",

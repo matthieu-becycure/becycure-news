@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-13T11:43:32.733Z</updated>
+    <updated>2024-05-13T12:20:11.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield]]></title>
+        <id>https://thehackernews.com/2024/05/the-2024-browser-security-report.html</id>
+        <link href="https://thehackernews.com/2024/05/the-2024-browser-security-report.html"/>
+        <updated>2024-05-13T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[With the browser becoming the most prevalent workspace in the enterprise, it is also turning into a popular attack vector for cyber attackers. From account takeovers to malicious extensions to phishing attacks, the browser is a means for stealing sensitive data and accessing organizational systems.
+Security leaders who are planning their security architecture]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike]]></title>
         <id>https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html</id>
