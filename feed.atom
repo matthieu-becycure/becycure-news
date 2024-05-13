@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-13T15:26:59.455Z</updated>
+    <updated>2024-05-13T15:43:28.106Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MITRE Unveils EMB3D: A Threat-Modeling Framework for Embedded Devices]]></title>
+        <id>https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html</id>
+        <link href="https://thehackernews.com/2024/05/mitre-unveils-emb3d-threat-modeling.html"/>
+        <updated>2024-05-13T14:29:00.000Z</updated>
+        <summary type="html"><![CDATA[The MITRE Corporation has officially made available a new threat-modeling framework called EMB3D for makers of embedded devices used in critical infrastructure environments.
+
+"The model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with the security mechanisms required to mitigate them," the non-profit said]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield]]></title>
         <id>https://thehackernews.com/2024/05/the-2024-browser-security-report.html</id>
