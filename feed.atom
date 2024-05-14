@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-14T14:28:46.484Z</updated>
+    <updated>2024-05-14T14:43:22.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html</id>
+        <link href="https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html"/>
+        <updated>2024-05-14T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Google on Monday shipped emergency fixes to address a new zero-day flaw in the Chrome web browser that has come under active exploitation in the wild.
+The high-severity vulnerability, tracked as CVE-2024-4761, is an out-of-bounds write bug impacting the V8 JavaScript and WebAssembly engine. It was reported anonymously on May 9, 2024.
+Out-of-bounds write bugs could be typically]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0395 : Multiples vulnérabilités dans les produits SAP (14 mai 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0395/</id>

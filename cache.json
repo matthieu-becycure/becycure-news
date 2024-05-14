@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Monday shipped emergency fixes to address a new zero-day flaw in the Chrome web browser that has come under active exploitation in the wild.\nThe high-severity vulnerability, tracked as CVE-2024-4761, is an out-of-bounds write bug impacting the V8 JavaScript and WebAssembly engine. It was reported anonymously on May 9, 2024.\nOut-of-bounds write bugs could be typically",
+          "link": "https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html",
+          "publishedOn": "2024-05-14T13:51:00.000Z",
+          "wordCount": null,
+          "title": "New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibh2nNGZ-2lt1wpR9uYjcE3feawRpDHdC-0unnr9Bfx0E6RMQ1Psb5mtKQQp6fwf91MEEFg5-KGH25MgZBcOUsm-2t1zwLIToKqT-6ayvgBebjkU5WQLZoEosXwsF8YtOfCuPupZK8fFXdjwiOdL-PPAj0TvFJPwekUglRjR_fKgJhewEq6rSQRSFMaUgK/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibh2nNGZ-2lt1wpR9uYjcE3feawRpDHdC-0unnr9Bfx0E6RMQ1Psb5mtKQQp6fwf91MEEFg5-KGH25MgZBcOUsm-2t1zwLIToKqT-6ayvgBebjkU5WQLZoEosXwsF8YtOfCuPupZK8fFXdjwiOdL-PPAj0TvFJPwekUglRjR_fKgJhewEq6rSQRSFMaUgK/s1600/chrome.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The maintainers of the Cacti open-source network monitoring and fault management framework have addressed a dozen security flaws, including two critical issues that could lead to the execution of arbitrary code.\nThe most severe of the vulnerabilities are listed below -\n\nCVE-2024-25641 (CVSS score: 9.1) - An arbitrary file write vulnerability in the \"Package Import\" feature that",
