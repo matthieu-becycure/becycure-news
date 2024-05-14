@@ -3099,16 +3099,6 @@
           "wordCount": 950,
           "title": "CERTFR-2024-AVI-0307 : Vulnérabilité dans Palo Alto Networks GlobalProtect (15 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0306/",
-          "publishedOn": "2024-04-15T07:49:09.000Z",
-          "wordCount": 957,
-          "title": "CERTFR-2024-AVI-0306 : Multiples vulnérabilités dans Microsoft Edge (15 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
