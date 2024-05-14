@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-14T20:12:35.731Z</updated>
+    <updated>2024-05-14T20:26:47.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2453,27 +2453,6 @@ While the original shortcoming was discovered and patched by the Lighttpd main
         <updated>2024-04-15T09:04:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a "renewed" cyber espionage campaign targeting users in South Asia with the aim of delivering an Apple iOS spyware implant called LightSpy.
 "The latest iteration of LightSpy, dubbed 'F_Warehouse,' boasts a modular framework with extensive spying features," the BlackBerry Threat Research and Intelligence Team said in a report published last]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0307 : Vulnérabilité dans Palo Alto Networks GlobalProtect (15 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/"/>
-        <updated>2024-04-15T08:23:22.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html</id>
-        <link href="https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html"/>
-        <updated>2024-04-15T08:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Palo Alto Networks has released hotfixes to address a maximum-severity security flaw impacting PAN-OS software that has come under active exploitation in the wild.
-Tracked as CVE-2024-3400 (CVSS score: 10.0), the critical vulnerability is a case of command injection in the GlobalProtect feature that an unauthenticated attacker could weaponize to execute arbitrary code with root]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

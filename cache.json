@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj633FM39iy4Ptak7gQiniTj-nj7x2IN2SR4us-AOn4rfHANHeAjjZL7fzi6r3KVFgAeOB0ClVjRhvQogDs-YK-ofRgDlyxCzQLPXwmbAvnk08nWIfmkKW213UzUPsmB-P2tYWaIwEzDOMCLztcnjYY0fnK8lP7070MtR5bPtKkZkO3RCQ2UScBevvxUKKo/s1600/iphone.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj633FM39iy4Ptak7gQiniTj-nj7x2IN2SR4us-AOn4rfHANHeAjjZL7fzi6r3KVFgAeOB0ClVjRhvQogDs-YK-ofRgDlyxCzQLPXwmbAvnk08nWIfmkKW213UzUPsmB-P2tYWaIwEzDOMCLztcnjYY0fnK8lP7070MtR5bPtKkZkO3RCQ2UScBevvxUKKo/s1600/iphone.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Palo Alto Networks has released hotfixes to address a maximum-severity security flaw impacting PAN-OS software that has come under active exploitation in the wild.\nTracked as CVE-2024-3400 (CVSS score: 10.0), the critical vulnerability is a case of command injection in the GlobalProtect feature that an unauthenticated attacker could weaponize to execute arbitrary code with root",
-          "link": "https://thehackernews.com/2024/04/palo-alto-networks-releases-urgent.html",
-          "publishedOn": "2024-04-15T08:17:00.000Z",
-          "wordCount": null,
-          "title": "Palo Alto Networks Releases Urgent Fixes for Exploited PAN-OS Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFk2Gn7nORhsJaYtMIldc0KGin9sMytX05vZYuVfTKPE0ObMQHdxbUUIoS7FJZ2W3MNxttaUOlHj5zq3TJWgwE172SNNbbrRk15q_VXL1cEGlLFRPA91tXwaz65jzO11j7Ij7S7kKLua_7hG38Ai1C8knxtAffOcsNFvwip9-Z0-QsUOl4Hu6-UnWKh1Dv/s1600/palo-alto-networks.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFk2Gn7nORhsJaYtMIldc0KGin9sMytX05vZYuVfTKPE0ObMQHdxbUUIoS7FJZ2W3MNxttaUOlHj5zq3TJWgwE172SNNbbrRk15q_VXL1cEGlLFRPA91tXwaz65jzO11j7Ij7S7kKLua_7hG38Ai1C8knxtAffOcsNFvwip9-Z0-QsUOl4Hu6-UnWKh1Dv/s1600/palo-alto-networks.png"
         }
       ]
     },
@@ -3088,16 +3072,6 @@
           "publishedOn": "2024-04-15T11:43:48.000Z",
           "wordCount": 952,
           "title": "CERTFR-2024-AVI-0308 : Vulnérabilité dans Stormshield Network Security (15 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Palo Alto Networks Global Protect. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0307/",
-          "publishedOn": "2024-04-15T08:23:22.000Z",
-          "wordCount": 950,
-          "title": "CERTFR-2024-AVI-0307 : Vulnérabilité dans Palo Alto Networks GlobalProtect (15 avril 2024)",
           "imageUrl": null
         }
       ]
