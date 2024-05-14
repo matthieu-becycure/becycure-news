@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-14T12:20:32.573Z</updated>
+    <updated>2024-05-14T12:54:32.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code]]></title>
+        <id>https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html</id>
+        <link href="https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html"/>
+        <updated>2024-05-14T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[The maintainers of the Cacti open-source network monitoring and fault management framework have addressed a dozen security flaws, including two critical issues that could lead to the execution of arbitrary code.
+The most severe of the vulnerabilities are listed below -
+
+CVE-2024-25641 (CVSS score: 9.1) - An arbitrary file write vulnerability in the "Package Import" feature that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Mistakes Organizations Make When Deploying Advanced Authentication]]></title>
         <id>https://thehackernews.com/2024/05/6-mistakes-organizations-make-when.html</id>
