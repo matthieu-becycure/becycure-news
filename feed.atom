@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-14T22:10:57.813Z</updated>
+    <updated>2024-05-14T22:29:39.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2434,16 +2434,6 @@ While the original shortcoming was discovered and patched by the Lighttpd main
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Timing is Everything: The Role of Just-in-Time Privileged Access in Security Evolution]]></title>
-        <id>https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html</id>
-        <link href="https://thehackernews.com/2024/04/timing-is-everything-role-of-just-in.html"/>
-        <updated>2024-04-15T10:21:00.000Z</updated>
-        <summary type="html"><![CDATA[To minimize the risk of privilege misuse, a trend in the privileged access management (PAM) solution market involves implementing just-in-time (JIT) privileged access. This approach to privileged identity management aims to mitigate the risks associated with prolonged high-level access by granting privileges temporarily and only when necessary, rather than providing users with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
