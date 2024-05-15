@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T18:43:39.373Z</updated>
+    <updated>2024-05-15T19:08:54.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Seizes BreachForums Again, Urges Users to Report Criminal Activity]]></title>
+        <id>https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html</id>
+        <link href="https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html"/>
+        <updated>2024-05-15T17:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement agencies have officially seized control of the notorious BreachForums platform, an online bazaar known for peddling stolen data, for the second time within a year.
+The website ("breachforums[.]st") has been replaced by a seizure banner stating the clearnet cybercrime forum is under the control of the Federal Bureau of Investigation (FBI). 
+The operation is the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Launches AI-Powered Theft and Data Protection Features for Android Devices]]></title>
         <id>https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html</id>
@@ -2592,16 +2604,6 @@ It has also been fined more than $7 million over charges that it revealed users'
 The U.S. Justice Department (DoJ) said the malware "gave the malware purchasers control over victim computers and enabled them to access victims' private communications, their login credentials, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0309 : Vulnérabilité dans Stormshield Network Security (16 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0309/"/>
-        <updated>2024-04-16T06:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
