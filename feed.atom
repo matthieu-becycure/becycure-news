@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T08:13:54.823Z</updated>
+    <updated>2024-05-15T08:30:14.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days]]></title>
+        <id>https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html</id>
+        <link href="https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html"/>
+        <updated>2024-05-15T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has addressed a total of 61 new security flaws in its software as part of its Patch Tuesday updates for May 2024, including two zero-days which have been actively exploited in the wild.
+Of the 61 flaws, one is rated Critical, 59 are rated Important, and one is rated Moderate in severity. This is in addition to 30 vulnerabilities&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware Patches Severe Security Flaws in Workstation and Fusion Products]]></title>
         <id>https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html</id>

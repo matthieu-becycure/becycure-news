@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has addressed a total of 61 new security flaws in its software as part of its Patch Tuesday updates for May 2024, including two zero-days which have been actively exploited in the wild.\nOf the 61 flaws, one is rated Critical, 59 are rated Important, and one is rated Moderate in severity. This is in addition to 30 vulnerabilities&",
+          "link": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
+          "publishedOn": "2024-05-15T07:17:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s1600/windows.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Multiple security flaws have been disclosed in VMware Workstation and Fusion products that could be exploited by threat actors to access sensitive information, trigger a denial-of-service (DoS) condition, and execute code under certain circumstances.\nThe four vulnerabilities impact Workstation versions 17.x and Fusion versions 13.x, with fixes available in version 17.5.2 and",
