@@ -3031,16 +3031,6 @@
           "wordCount": 1581,
           "title": "CERTFR-2024-ACT-017 : Bulletin d’actualité CERTFR-2024-ACT-017 (15 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Stormshield Network Security. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0308/",
-          "publishedOn": "2024-04-15T11:43:48.000Z",
-          "wordCount": 952,
-          "title": "CERTFR-2024-AVI-0308 : Vulnérabilité dans Stormshield Network Security (15 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
