@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T17:44:07.528Z</updated>
+    <updated>2024-05-15T18:13:45.536Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Launches AI-Powered Theft and Data Protection Features for Android Devices]]></title>
+        <id>https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html</id>
+        <link href="https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html"/>
+        <updated>2024-05-15T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced a slew of privacy and security features in Android, including a suite of advanced protection features to help secure users' devices and data in the event of a theft.
+These features aim to help protect data before, during and after a theft attempt, the tech giant said, adding they are expected to be available via an update to Google Play services for devices running]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps]]></title>
+        <id>https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html</id>
+        <link href="https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html"/>
+        <updated>2024-05-15T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google is unveiling a set of new features in Android 15 to prevent malicious apps installed on the device from capturing sensitive data.
+This constitutes an update to the Play Integrity API that third-party app developers can take advantage of to secure their applications against malware.
+"Developers can check if there are other apps running that could be capturing the screen, creating]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERTFR-2024-AVI-0408 : Multiples vulnérabilités dans les produits HPE Aruba Networking (15 mai 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/</id>
