@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T20:28:04.876Z</updated>
+    <updated>2024-05-15T20:43:39.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2579,18 +2579,6 @@ The flaw has been assigned the CVE identifier CVE-2024-31497, with the discover
         <updated>2024-04-16T11:10:00.000Z</updated>
         <summary type="html"><![CDATA[In today's rapidly evolving digital landscape, organizations face an increasingly complex array of cybersecurity threats. The proliferation of cloud services and remote work arrangements has heightened the vulnerability of digital identities to exploitation, making it imperative for businesses to fortify their identity security measures.
 Our recent research report, The Identity Underground]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC Fines Mental Health Startup Cerebral $7 Million for Major Privacy Violations]]></title>
-        <id>https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html</id>
-        <link href="https://thehackernews.com/2024/04/ftc-fines-mental-health-startup.html"/>
-        <updated>2024-04-16T08:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Federal Trade Commission (FTC) has ordered the mental telehealth company Cerebral from using or disclosing personal data for advertising purposes.
-It has also been fined more than $7 million over charges that it revealed users' sensitive personal health information and other data to third parties for advertising purposes and failed to honor its easy cancellation policies.
-"Cerebral and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
