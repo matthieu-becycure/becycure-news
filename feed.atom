@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T12:54:58.032Z</updated>
+    <updated>2024-05-15T13:12:39.097Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions]]></title>
+        <id>https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html</id>
+        <link href="https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html"/>
+        <updated>2024-05-15T12:29:00.000Z</updated>
+        <summary type="html"><![CDATA[An unnamed European Ministry of Foreign Affairs (MFA) and its three diplomatic missions in the Middle East were targeted by two previously undocumented backdoors tracked as LunarWeb and LunarMail.
+ESET, which identified the activity, attributed it with medium confidence to the Russia-aligned cyberespionage group Turla (aka Iron Hunter, Pensive Ursa, Secret Blizzard, Snake, Uroburos, and Venomous]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Cyber) Risk = Probability of Occurrence x Damage]]></title>
         <id>https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html</id>
