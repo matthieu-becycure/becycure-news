@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T23:11:24.999Z</updated>
+    <updated>2024-05-15T23:26:10.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2559,17 +2559,6 @@ The vulnerability has been codenamed LeakyCLI by cloud security firm Orca.
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack]]></title>
-        <id>https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html</id>
-        <link href="https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html"/>
-        <updated>2024-04-16T11:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the PuTTY Secure Shell (SSH) and Telnet client are alerting users of a critical vulnerability impacting versions from 0.68 through 0.80 that could be exploited to achieve full recovery of NIST P-521 (ecdsa-sha2-nistp521) private keys.
-The flaw has been assigned the CVE identifier CVE-2024-31497, with the discovery credited to researchers Fabian Bäumer and Marcus]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

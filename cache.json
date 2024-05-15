@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQ61q1unaO9nkqOW0K1z3EHh_y570jaSgouXAlR1rG01KYF40mzLUX25xa6EKLgay3bswJMsLNB1v_5ew0M3wtjM0zAjJ1KPV2XDDcuwaGgP3k3ZwDs8XiUrg8uDsO9-V7oGsk6_zJixelpe-UtNY15ozlCZG6it-JdO6aA7WsOhNP_XzYLtq11GnbYls/s1600/password.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwQ61q1unaO9nkqOW0K1z3EHh_y570jaSgouXAlR1rG01KYF40mzLUX25xa6EKLgay3bswJMsLNB1v_5ew0M3wtjM0zAjJ1KPV2XDDcuwaGgP3k3ZwDs8XiUrg8uDsO9-V7oGsk6_zJixelpe-UtNY15ozlCZG6it-JdO6aA7WsOhNP_XzYLtq11GnbYls/s1600/password.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The maintainers of the PuTTY Secure Shell (SSH) and Telnet client are alerting users of a critical vulnerability impacting versions from 0.68 through 0.80 that could be exploited to achieve full recovery of NIST P-521 (ecdsa-sha2-nistp521) private keys.\nThe flaw has been assigned the CVE identifier CVE-2024-31497, with the discovery credited to researchers Fabian Bäumer and Marcus",
-          "link": "https://thehackernews.com/2024/04/widely-used-putty-ssh-client-found.html",
-          "publishedOn": "2024-04-16T11:14:00.000Z",
-          "wordCount": null,
-          "title": "Widely-Used PuTTY SSH Client Found Vulnerable to Key Recovery Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMmsWxG-iiKSMtt4ml4JrmYmFKnKqX7IXYieNLcJxWMaNeYM8hoQI9GsfnCNwXRg0Pamr_tPRp4G8EplBXVQoeWrx2PG-HBARn4EqybK8Q4k-Srse6rFe1T35Fs5Vt5UOi4DqYCaamwo4r4nfL6_1v1Ie0YwkQ1L5IV-xDpTIt2yW9Eifl6Z-5Ac_qAO8/s1600/putty.png"
         }
       ]
     },
