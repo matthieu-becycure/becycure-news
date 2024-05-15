@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Dutch court on Tuesday sentenced one of the co-founders of the now-sanctioned Tornado Cash cryptocurrency mixer service to 5 years and 4 months in prison.\nWhile the name of the defendant was redacted in the verdict, it's known that Alexey Pertsev, a 31-year-old Russian national, has been awaiting trial in the Netherlands on money laundering charges.",
+          "link": "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
+          "publishedOn": "2024-05-15T08:28:00.000Z",
+          "wordCount": null,
+          "title": "Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPk-hQq2Zp77E2oPvv_a6v5qZcic-fMnamnazYDiOxRjCDkaBpawAz2aJHS5PDYLOy8LhfFefLGVniZ4QQaISgQuJZuDirj3cYon-WnvQVVaaW63p-EBRZuf-qnoa4i_anIXxGiyJ9C35NEN5b5_qwPYZfVuuzLqN4AyPnzFxA-otoo6obsvcDo7ZHidY/s1600/cash.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBPk-hQq2Zp77E2oPvv_a6v5qZcic-fMnamnazYDiOxRjCDkaBpawAz2aJHS5PDYLOy8LhfFefLGVniZ4QQaISgQuJZuDirj3cYon-WnvQVVaaW63p-EBRZuf-qnoa4i_anIXxGiyJ9C35NEN5b5_qwPYZfVuuzLqN4AyPnzFxA-otoo6obsvcDo7ZHidY/s1600/cash.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has addressed a total of 61 new security flaws in its software as part of its Patch Tuesday updates for May 2024, including two zero-days which have been actively exploited in the wild.\nOf the 61 flaws, one is rated Critical, 59 are rated Important, and one is rated Moderate in severity. This is in addition to 30 vulnerabilities&",
