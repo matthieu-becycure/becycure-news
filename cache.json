@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Here’s How to Enhance Your Cyber Resilience with CVSS\nIn late 2023, the Common Vulnerability Scoring System (CVSS) v4.0 was unveiled, succeeding the eight-year-old CVSS v3.0, with the aim to enhance vulnerability assessment for both industry and the public. This latest version introduces additional metrics like safety and automation to address criticism of lacking granularity",
+          "link": "https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html",
+          "publishedOn": "2024-05-15T11:38:00.000Z",
+          "wordCount": null,
+          "title": "(Cyber) Risk = Probability of Occurrence x Damage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s1600/2.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdgCH-Jik1Js52TVIN2kGab7KiF4kumGWoODciZOCHrfEG7sqYmkO4P2lte1JH6gZe7XwWbjGvNWLSfwj-D-7DkHDoh6HFCCrM826P2_1qm9fRfaRYLuTECiDaRkOMZRFllfyQKYJv7twdfLW27ZrrP8JEPTQGuEwUHSt-RDURMM3quAI5mWra9iD5e8k/s1600/2.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A malware botnet called Ebury is estimated to have compromised 400,000 Linux servers since 2009, out of which more than 100,000 were still compromised as of late 2023.\nThe findings come from Slovak cybersecurity firm ESET, which characterized it as one of the most advanced server-side malware campaigns for financial gain.\n\"Ebury actors have been pursuing monetization activities [...],",

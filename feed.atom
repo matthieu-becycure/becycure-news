@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T11:43:23.911Z</updated>
+    <updated>2024-05-15T12:21:12.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[(Cyber) Risk = Probability of Occurrence x Damage]]></title>
+        <id>https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html</id>
+        <link href="https://thehackernews.com/2024/05/get-cyber-resilient-with-cvss.html"/>
+        <updated>2024-05-15T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s How to Enhance Your Cyber Resilience with CVSS
+In late 2023, the Common Vulnerability Scoring System (CVSS) v4.0 was unveiled, succeeding the eight-year-old CVSS v3.0, with the aim to enhance vulnerability assessment for both industry and the public. This latest version introduces additional metrics like safety and automation to address criticism of lacking granularity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years]]></title>
         <id>https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html</id>
