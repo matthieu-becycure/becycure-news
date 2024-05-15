@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A malware botnet called Ebury is estimated to have compromised 400,000 Linux servers since 2009, out of which more than 100,000 were still compromised as of late 2023.\nThe findings come from Slovak cybersecurity firm ESET, which characterized it as one of the most advanced server-side malware campaigns for financial gain.\n\"Ebury actors have been pursuing monetization activities [...],",
+          "link": "https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html",
+          "publishedOn": "2024-05-15T10:56:00.000Z",
+          "wordCount": null,
+          "title": "Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcopCewQJMs6m2QrYmO-yLRWF8j0J1p3RH7nRvUNcxMzeMWla1RVkbi2DlVfqU2wQBYuv0hc9OZPZiC7RMVjlgmJSRYf-SBP2CzzHJZeEeMNbL632oiH9k1Lfqu2IjmVpXxltFVGCZ6PMOGkPBfiSFdz1eC1eiUL1JY3PcZh3_dnK_vm_0uN9cnr6EIA5/s1600/ebury.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFcopCewQJMs6m2QrYmO-yLRWF8j0J1p3RH7nRvUNcxMzeMWla1RVkbi2DlVfqU2wQBYuv0hc9OZPZiC7RMVjlgmJSRYf-SBP2CzzHJZeEeMNbL632oiH9k1Lfqu2IjmVpXxltFVGCZ6PMOGkPBfiSFdz1eC1eiUL1JY3PcZh3_dnK_vm_0uN9cnr6EIA5/s1600/ebury.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "While cloud adoption has been top of mind for many IT professionals for nearly a decade, it’s only in recent months, with industry changes and announcements from key players, that many recognize the time to make the move is now. It may feel like a daunting task, but tools exist to help you move your virtual machines (VMs) to a public cloud provider – like Microsoft Azure",
+          "link": "https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html",
+          "publishedOn": "2024-05-15T10:55:00.000Z",
+          "wordCount": null,
+          "title": "It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqRxRQHPZw-cjEhbW56EdcQ6QL-NR5uJjk9AYPcym9XjJWJQBj-JmPFSy1Texg4GXNJdN3TUVs53wcWG95ClRrZkhM1gFXZXHiajndG8OSe4WsPFWfo9j4-_yFS-YtPoi85r1ITbhyRy9NH5ar50KSviZMs3ZE2XImdZGj4sKTjL-lUzvsdQIa9eHF5R0/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A Dutch court on Tuesday sentenced one of the co-founders of the now-sanctioned Tornado Cash cryptocurrency mixer service to 5 years and 4 months in prison.\nWhile the name of the defendant was redacted in the verdict, it's known that Alexey Pertsev, a 31-year-old Russian national, has been awaiting trial in the Netherlands on money laundering charges.",

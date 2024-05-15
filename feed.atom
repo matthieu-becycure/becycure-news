@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-15T10:43:26.687Z</updated>
+    <updated>2024-05-15T11:09:11.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years]]></title>
+        <id>https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html</id>
+        <link href="https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html"/>
+        <updated>2024-05-15T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[A malware botnet called Ebury is estimated to have compromised 400,000 Linux servers since 2009, out of which more than 100,000 were still compromised as of late 2023.
+The findings come from Slovak cybersecurity firm ESET, which characterized it as one of the most advanced server-side malware campaigns for financial gain.
+"Ebury actors have been pursuing monetization activities [...],]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure]]></title>
+        <id>https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html</id>
+        <link href="https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html"/>
+        <updated>2024-05-15T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[While cloud adoption has been top of mind for many IT professionals for nearly a decade, it’s only in recent months, with industry changes and announcements from key players, that many recognize the time to make the move is now. It may feel like a daunting task, but tools exist to help you move your virtual machines (VMs) to a public cloud provider – like Microsoft Azure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering]]></title>
         <id>https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html</id>
