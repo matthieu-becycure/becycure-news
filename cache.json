@@ -3163,16 +3163,6 @@
           "wordCount": 1057,
           "title": "CERTFR-2024-AVI-0311 : Multiples vulnérabilités dans les produits Mozilla (17 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Juniper. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0310/",
-          "publishedOn": "2024-04-16T11:47:26.000Z",
-          "wordCount": 1021,
-          "title": "CERTFR-2024-AVI-0310 : Vulnérabilité dans les produits Juniper (16 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
