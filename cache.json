@@ -3179,16 +3179,6 @@
           "wordCount": 1060,
           "title": "CERTFR-2024-AVI-0314 : Multiples vulnérabilités dans Ivanti Avalanche (17 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0313/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0313/",
-          "publishedOn": "2024-04-17T09:16:05.000Z",
-          "wordCount": 1021,
-          "title": "CERTFR-2024-AVI-0313 : Multiples vulnérabilités dans Google Chrome (17 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
