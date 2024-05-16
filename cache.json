@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s1600/email.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s1600/email.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco is warning about a global surge in brute-force attacks targeting various devices, including Virtual Private Network (VPN) services, web application authentication interfaces, and SSH services, since at least March 18, 2024.\n\"These attacks all appear to be originating from TOR exit nodes and a range of other anonymizing tunnels and proxies,\" Cisco Talos said.\nSuccessful attacks could",
-          "link": "https://thehackernews.com/2024/04/cisco-warns-of-global-surge-in-brute.html",
-          "publishedOn": "2024-04-17T08:38:00.000Z",
-          "wordCount": null,
-          "title": "Cisco Warns of Global Surge in Brute-Force Attacks Targeting VPN and SSH Services",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGVGiUcAKLNNHI4LrpMocm4mzD0ch4_8LHU80LMDHGBSRfl6jvmGTECdEguYjuWKKCbrh3VU91jNfHBaFXK3vo1x-ux1jqtF9-JQFi_6W5pUqL_C9Sf2UOJlGA7UPvVhQogOwwaONv6k78iq1uJLzjv-d6lWT_fFYejxku1M-cfm78toOd_mC6sS1mXN_3/s1600/password.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGVGiUcAKLNNHI4LrpMocm4mzD0ch4_8LHU80LMDHGBSRfl6jvmGTECdEguYjuWKKCbrh3VU91jNfHBaFXK3vo1x-ux1jqtF9-JQFi_6W5pUqL_C9Sf2UOJlGA7UPvVhQogOwwaONv6k78iq1uJLzjv-d6lWT_fFYejxku1M-cfm78toOd_mC6sS1mXN_3/s1600/password.png"
         }
       ]
     },
@@ -3204,16 +3188,6 @@
           "publishedOn": "2024-04-17T09:16:05.000Z",
           "wordCount": 1021,
           "title": "CERTFR-2024-AVI-0313 : Multiples vulnérabilités dans Google Chrome (17 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0312/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0312/",
-          "publishedOn": "2024-04-17T08:30:50.000Z",
-          "wordCount": 1132,
-          "title": "CERTFR-2024-AVI-0312 : Multiples vulnérabilités dans les produits Atlassian (17 avril 2024)",
           "imageUrl": null
         }
       ]
