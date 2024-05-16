@@ -3101,26 +3101,6 @@
           "wordCount": 956,
           "title": "CERTFR-2024-AVI-0316 : Vulnérabilité dans les produits Xen (18 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-003/",
-          "author": null,
-          "description": "Depuis plus d’une décennie, les compétitions sportives internationales majeures font régulièrement l’objet d’attaques informatiques. Ces …",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-003/",
-          "publishedOn": "2024-04-17T11:24:33.000Z",
-          "wordCount": 1105,
-          "title": "CERTFR-2024-CTI-003 : Grands évènements sportifs en France – Évaluation de la menace 2024 (17 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0315/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0315/",
-          "publishedOn": "2024-04-17T11:14:09.000Z",
-          "wordCount": 925,
-          "title": "CERTFR-2024-AVI-0315 : Vulnérabilité dans SolarWinds Serv-U (17 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
