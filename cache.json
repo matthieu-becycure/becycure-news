@@ -3169,16 +3169,6 @@
           "wordCount": 925,
           "title": "CERTFR-2024-AVI-0315 : Vulnérabilité dans SolarWinds Serv-U (17 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0314/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Ivanti Avalanche. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0314/",
-          "publishedOn": "2024-04-17T09:42:25.000Z",
-          "wordCount": 1060,
-          "title": "CERTFR-2024-AVI-0314 : Multiples vulnérabilités dans Ivanti Avalanche (17 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
