@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Microsoft Threat Intelligence team said it has observed a threat it tracks under the name Storm-1811 abusing the client management tool Quick Assist to target users in social engineering attacks.\n\"Storm-1811 is a financially motivated cybercriminal group known to deploy Black Basta ransomware,\" the company said in a report published on May 15, 2024.\nThe",
+          "link": "https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html",
+          "publishedOn": "2024-05-16T03:16:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-PcUDkVO7cSuiKU_orq2mhb9VqxGYPcQgP4eSUAh4OL_-f_CubxQBn1Htu_Br7xERfpfD3QjIul2LRq6fTa6Iz43Snrla-go6qPN9o-aJJ7o7CxNU2kK4yvj6lPQKwLms8JbgbHX38B-apXbBuPkVN95W_0kdwXHmi1lBS43GDFcOvwEvIuNWFhtRdMo/s1600/ms.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhG-PcUDkVO7cSuiKU_orq2mhb9VqxGYPcQgP4eSUAh4OL_-f_CubxQBn1Htu_Br7xERfpfD3QjIul2LRq6fTa6Iz43Snrla-go6qPN9o-aJJ7o7CxNU2kK4yvj6lPQKwLms8JbgbHX38B-apXbBuPkVN95W_0kdwXHmi1lBS43GDFcOvwEvIuNWFhtRdMo/s1600/ms.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/google-patches-yet-another-actively.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has rolled out fixes to address a set of nine security issues in its Chrome browser, including a new zero-day that has been exploited in the wild.\nAssigned the CVE identifier CVE-2024-4947, the vulnerability relates to a type confusion bug in the V8 JavaScript and WebAssembly engine. It was reported by Kaspersky researchers Vasily Berdnikov and Boris",
+          "link": "https://thehackernews.com/2024/05/google-patches-yet-another-actively.html",
+          "publishedOn": "2024-05-16T03:01:00.000Z",
+          "wordCount": null,
+          "title": "Google Patches Yet Another Actively Exploited Chrome Zero-Day Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbF8wx_xuLZ51MTHpCOGdzhN7uoQqeUv9WnoyH1_pZ-84rV1BgjxUr1NQfMiogwJkoUXmvki27jHE-xRC-GwTpFEPuxTASdjeQIpdevA628w8I8Ufh-AHtkuK9jXo7CYdSxpqCjW8pFMP71VTdcutUPOQOZeexKjkzZi5vhypW952FbL8uw07mq-NMQF77/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbF8wx_xuLZ51MTHpCOGdzhN7uoQqeUv9WnoyH1_pZ-84rV1BgjxUr1NQfMiogwJkoUXmvki27jHE-xRC-GwTpFEPuxTASdjeQIpdevA628w8I8Ufh-AHtkuK9jXo7CYdSxpqCjW8pFMP71VTdcutUPOQOZeexKjkzZi5vhypW952FbL8uw07mq-NMQF77/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/fbi-seizes-breachforums-again-urges.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Law enforcement agencies have officially seized control of the notorious BreachForums platform, an online bazaar known for peddling stolen data, for the second time within a year.\nThe website (\"breachforums[.]st\") has been replaced by a seizure banner stating the clearnet cybercrime forum is under the control of the Federal Bureau of Investigation (FBI). \nThe operation is the",
