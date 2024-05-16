@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8FthSjsJfGJWa1Qvq9E5PiSyfq-LqFk07tOia2Y3tYn9WAaEzOnvB6Ztjx-hPaKDLS1E3jhTD8WUYerA4ua6aZ8x1v2YlWGcl8qXYs_kmgf-wV8CWcPYsL4LlOydskq-U-Ml2gpcDrwBxZfrDh3fnu1Xb6Et2rac_2jCQMgEPXZWg6iJhc8KYzgCXrXEs/s1600/linux.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8FthSjsJfGJWa1Qvq9E5PiSyfq-LqFk07tOia2Y3tYn9WAaEzOnvB6Ztjx-hPaKDLS1E3jhTD8WUYerA4ua6aZ8x1v2YlWGcl8qXYs_kmgf-wV8CWcPYsL4LlOydskq-U-Ml2gpcDrwBxZfrDh3fnu1Xb6Et2rac_2jCQMgEPXZWg6iJhc8KYzgCXrXEs/s1600/linux.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new campaign that's exploiting a recently disclosed security flaw in Fortinet FortiClient EMS devices to deliver ScreenConnect and Metasploit Powerfun payloads.\nThe activity entails the exploitation of CVE-2023-48788 (CVSS score: 9.3), a critical SQL injection flaw that could permit an unauthenticated attacker to execute unauthorized code or",
-          "link": "https://thehackernews.com/2024/04/hackers-exploit-fortinet-flaw-deploy.html",
-          "publishedOn": "2024-04-17T10:23:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Fortinet Flaw, Deploy ScreenConnect, Metasploit in New Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s1600/email.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDC4ybcFx_TM6RTVtiOzBVlawqdS9cKLGLr37h_c_QqybQ8wc3kLibnDp2b7hmCzXPsfbx5jk2Ge6Zhfq5I0KqYrEVfgCTXulf5v7Sc9Z7fxeky6LNj30j3o8YPLr4vCLetoz0yN3f1vrsSqQqk1F3Kzcx9Lco-IiGyViOPzkVKT4-z2NRt8eUwwbVGTjl/s1600/email.png"
         }
       ]
     },
