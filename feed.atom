@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-16T10:30:13.581Z</updated>
+    <updated>2024-05-16T10:43:23.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover 11 Security Flaws in GE HealthCare Ultrasound Machines]]></title>
+        <id>https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html</id>
+        <link href="https://thehackernews.com/2024/05/researchers-uncover-11-security-flaws.html"/>
+        <updated>2024-05-16T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Security researchers have disclosed almost a dozen security flaws impacting the GE HealthCare Vivid Ultrasound product family that could be exploited by malicious actors to tamper with patient data and even install ransomware under certain circumstances.
+"The impacts enabled by these flaws are manifold: from the implant of ransomware on the ultrasound machine to the access and manipulation of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Exploiting Microsoft’s Quick Assist Feature in Ransomware Attacks]]></title>
         <id>https://thehackernews.com/2024/05/cybercriminals-exploiting-microsofts.html</id>
