@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new report from XM Cyber has found – among other insights - a dramatic gap between where most organizations focus their security efforts, and where the most serious threats actually reside.\nThe new report, Navigating the Paths of Risk: The State of Exposure Management in 2024, is based on hundreds of thousands of attack path assessments conducted by the XM Cyber",
+          "link": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
+          "publishedOn": "2024-05-17T11:29:00.000Z",
+          "wordCount": null,
+          "title": "New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed more light on a remote access trojan (RAT) known as Deuterbear used by the China-linked BlackTech hacking group as part of a cyber espionage campaign targeting the Asia-Pacific region this year.\n\"Deuterbear, while similar to Waterbear in many ways, shows advancements in capabilities such as including support for shellcode plugins, avoiding handshakes",
+          "link": "https://thehackernews.com/2024/05/china-linked-hackers-adopt-two-stage.html",
+          "publishedOn": "2024-05-17T11:20:00.000Z",
+          "wordCount": null,
+          "title": "China-Linked Hackers Adopt Two-Stage Infection Tactic to Deploy Deuterbear RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s1600/cyber.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s1600/cyber.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Kimsuky (aka Springtail) advanced persistent threat (APT) group, which is linked to North Korea's Reconnaissance General Bureau (RGB), has been observed deploying a Linux version of its GoBear backdoor as part of a campaign targeting South Korean organizations.\nThe backdoor, codenamed Gomir, is \"structurally almost identical to GoBear, with extensive sharing of code between",
