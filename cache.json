@@ -2141,6 +2141,116 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/",
+          "publishedOn": "2024-05-17T12:30:54.000Z",
+          "wordCount": 1494,
+          "title": "CERTFR-2024-AVI-0422 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/",
+          "publishedOn": "2024-05-17T12:19:49.000Z",
+          "wordCount": 1175,
+          "title": "CERTFR-2024-AVI-0421 : Multiples vulnérabilités dans le noyau Linux de RedHat (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/",
+          "publishedOn": "2024-05-17T11:51:12.000Z",
+          "wordCount": 3099,
+          "title": "CERTFR-2024-AVI-0420 : Multiples vulnérabilités dans le noyau Linux de SUSE (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/",
+          "publishedOn": "2024-05-17T11:29:04.000Z",
+          "wordCount": 1252,
+          "title": "CERTFR-2024-AVI-0419 : Multiples vulnérabilités dans les produits IBM (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Azure Monitor Agent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0418/",
+          "publishedOn": "2024-05-17T08:29:18.000Z",
+          "wordCount": 932,
+          "title": "CERTFR-2024-AVI-0418 : Vulnérabilité dans Microsoft Azure Monitor Agent (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.\n Google indique que la vulnérabilité …",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0417/",
+          "publishedOn": "2024-05-17T08:29:15.000Z",
+          "wordCount": 1046,
+          "title": "CERTFR-2024-AVI-0417 : Multiples vulnérabilités dans Microsoft Edge (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/",
+          "publishedOn": "2024-05-17T08:22:42.000Z",
+          "wordCount": 923,
+          "title": "CERTFR-2024-AVI-0416 : Vulnérabilité dans OpenSSL (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/",
+          "publishedOn": "2024-05-17T08:08:27.000Z",
+          "wordCount": 976,
+          "title": "CERTFR-2024-AVI-0415 : Multiples vulnérabilités dans les produits Tenable (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/",
+          "publishedOn": "2024-05-17T07:56:28.000Z",
+          "wordCount": 999,
+          "title": "CERTFR-2024-AVI-0414 : Vulnérabilité dans les produits Palo Alto Networks (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/",
+          "publishedOn": "2024-05-17T07:39:13.000Z",
+          "wordCount": 984,
+          "title": "CERTFR-2024-AVI-0413 : Multiples vulnérabilités dans les produits MongoDB (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0412/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0412/",
+          "publishedOn": "2024-05-17T07:32:18.000Z",
+          "wordCount": 1015,
+          "title": "CERTFR-2024-AVI-0412 : Multiples vulnérabilités dans les produits Mitel (17 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0411/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Wireshark. Elles permettent à un attaquant de provoquer un déni de service.",
