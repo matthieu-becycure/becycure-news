@@ -2116,22 +2116,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7zG5RpaL3ybtITM8DbZhkUDxE8FcGzu8juHdCVqIyGGERvAAph0N3xY8JDCKlWHzCweyd4FVK4U1eEaCsl-Wg3WhsCf0cx0XQljqRg5pIC2GH9pV1tafGq1umfOhftlnIZliIBgXDMdyG4uY-4uy6Ian3DkjEZFE-lFrd1JX8Fpw_YPtdND_aNsZUuNQr/s1600/openmetadata.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7zG5RpaL3ybtITM8DbZhkUDxE8FcGzu8juHdCVqIyGGERvAAph0N3xY8JDCKlWHzCweyd4FVK4U1eEaCsl-Wg3WhsCf0cx0XQljqRg5pIC2GH9pV1tafGq1umfOhftlnIZliIBgXDMdyG4uY-4uy6Ian3DkjEZFE-lFrd1JX8Fpw_YPtdND_aNsZUuNQr/s1600/openmetadata.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Google malvertising campaign is leveraging a cluster of domains mimicking a legitimate IP scanner software to deliver a previously unknown backdoor dubbed MadMxShell.\n\"The threat actor registered multiple look-alike domains using a typosquatting technique and leveraged Google Ads to push these domains to the top of search engine results targeting specific search keywords, thereby",
-          "link": "https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html",
-          "publishedOn": "2024-04-18T04:48:00.000Z",
-          "wordCount": null,
-          "title": "Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI2N1BV9B2oinjvzQLikBcYsivultrBSKrjTZtBh7g_ovCExjPx9QbL1c1UT_i2OsNCIaWFB7pXx3DrrrwLtEyUq1VebH6bWeiew3ukt1BdO43P_FNfPGy2J2e3cGM4URiy8LtzJRk57Tp3jzo39NN-xHXWxwdzwbmFBG5-QdJ5tsfvoOW7pTvZ9qFr-kp/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI2N1BV9B2oinjvzQLikBcYsivultrBSKrjTZtBh7g_ovCExjPx9QbL1c1UT_i2OsNCIaWFB7pXx3DrrrwLtEyUq1VebH6bWeiew3ukt1BdO43P_FNfPGy2J2e3cGM4URiy8LtzJRk57Tp3jzo39NN-xHXWxwdzwbmFBG5-QdJ5tsfvoOW7pTvZ9qFr-kp/s1600/malware.png"
         }
       ]
     },

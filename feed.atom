@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T16:43:29.640Z</updated>
+    <updated>2024-05-17T17:09:49.858Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2629,17 +2629,6 @@ Described as one of the largest Phishing-as-a-Service (PhaaS) providers, LabHost
         <summary type="html"><![CDATA[Threat actors are actively exploiting critical vulnerabilities in OpenMetadata to gain unauthorized access to Kubernetes workloads and leverage them for cryptocurrency mining activity.
 That's according to the Microsoft Threat Intelligence team, which said the flaws have been weaponized since the start of April 2024.
 OpenMetadata is an open-source platform that operates as a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Malicious Google Ads Pushing Fake IP Scanner Software with Hidden Backdoor]]></title>
-        <id>https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html</id>
-        <link href="https://thehackernews.com/2024/04/malicious-google-ads-pushing-fake-ip.html"/>
-        <updated>2024-04-18T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Google malvertising campaign is leveraging a cluster of domains mimicking a legitimate IP scanner software to deliver a previously unknown backdoor dubbed MadMxShell.
-"The threat actor registered multiple look-alike domains using a typosquatting technique and leveraged Google Ads to push these domains to the top of search engine results targeting specific search keywords, thereby]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
