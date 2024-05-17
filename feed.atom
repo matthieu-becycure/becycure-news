@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T00:50:10.788Z</updated>
+    <updated>2024-05-17T01:52:43.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2483,17 +2483,6 @@ OpenMetadata is an open-source platform that operates as a]]></summary>
         <updated>2024-04-18T04:48:00.000Z</updated>
         <summary type="html"><![CDATA[A new Google malvertising campaign is leveraging a cluster of domains mimicking a legitimate IP scanner software to deliver a previously unknown backdoor dubbed MadMxShell.
 "The threat actor registered multiple look-alike domains using a typosquatting technique and leveraged Google Ads to push these domains to the top of search engine results targeting specific search keywords, thereby]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian APT Deploys New 'Kapeka' Backdoor in Eastern European Attacks]]></title>
-        <id>https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html</id>
-        <link href="https://thehackernews.com/2024/04/russian-apt-deploys-new-kapeka-backdoor.html"/>
-        <updated>2024-04-17T13:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented "flexible" backdoor called Kapeka has been "sporadically" observed in cyber attacks targeting Eastern Europe, including Estonia and Ukraine, since at least mid-2022.
-The findings come from Finnish cybersecurity firm WithSecure, which attributed the malware to the Russia-linked advanced persistent threat (APT) group tracked as Sandworm (aka APT44 or]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
