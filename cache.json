@@ -3203,16 +3203,6 @@
           "wordCount": 1025,
           "title": "CERTFR-2024-AVI-0320 : Multiples vulnérabilités dans Oracle VirtualBox (18 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et une élévation de privilèges.\n Cisco a indiqué avoir connaissance d'une preuve de concept …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0319/",
-          "publishedOn": "2024-04-18T07:30:07.000Z",
-          "wordCount": 991,
-          "title": "CERTFR-2024-AVI-0319 : Multiples vulnérabilités dans les produits Cisco (18 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
