@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T23:12:06.755Z</updated>
+    <updated>2024-05-17T23:26:35.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2544,17 +2544,6 @@ Cisco Talos said its findings are based on an analysis of over 100 confidential 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Oracle VirtualBox. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recover from Ransomware in 5 Minutes—We will Teach You How!]]></title>
-        <id>https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html</id>
-        <link href="https://thehackernews.com/2024/04/recover-from-ransomware-in-5-minuteswe.html"/>
-        <updated>2024-04-18T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Super Low RPO with Continuous Data Protection:Dial Back to Just Seconds Before an Attack
-Zerto, a Hewlett Packard Enterprise company, can help you detect and recover from ransomware in near real-time. This solution leverages continuous data protection (CDP) to ensure all workloads have the lowest recovery point objective (RPO) possible. The most valuable thing about CDP is that it does not use]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
