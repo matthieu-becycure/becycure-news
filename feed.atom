@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T07:23:22.305Z</updated>
+    <updated>2024-05-17T07:43:36.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now]]></title>
+        <id>https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html</id>
+        <link href="https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html"/>
+        <updated>2024-05-17T06:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting D-Link routers to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The list of vulnerabilities is as follows -
+
+CVE-2014-100005 - A cross-site request forgery (CSRF) vulnerability impacting D-Link DIR-600 routers that allows an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks]]></title>
         <id>https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html</id>

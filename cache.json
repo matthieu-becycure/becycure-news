@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting D-Link routers to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe list of vulnerabilities is as follows -\n\nCVE-2014-100005 - A cross-site request forgery (CSRF) vulnerability impacting D-Link DIR-600 routers that allows an",
+          "link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html",
+          "publishedOn": "2024-05-17T06:43:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjif0vHPiJpWqSsxYf6_ZftcHyQWnudXK5c0G1j4lk-mM1WJs-TZHhgitfonc7VJBNvCrZMtrAmL0ms_XPCe8LYGpB5CxrIn8xijJTtD98T5hDh7xTWBl5DkzbNmrY8Z2XwrVFa29h2SYwv2Ambz4DKI3fhCFPn3vzfFFcdHUR1NeJUzJfocCIac_SOBlZo/s1600/dlink.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjif0vHPiJpWqSsxYf6_ZftcHyQWnudXK5c0G1j4lk-mM1WJs-TZHhgitfonc7VJBNvCrZMtrAmL0ms_XPCe8LYGpB5CxrIn8xijJTtD98T5hDh7xTWBl5DkzbNmrY8Z2XwrVFa29h2SYwv2Ambz4DKI3fhCFPn3vzfFFcdHUR1NeJUzJfocCIac_SOBlZo/s1600/dlink.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Researchers have discovered a new security vulnerability stemming from a design flaw in the IEEE 802.11 Wi-Fi standard that tricks victims into connecting to a less secure wireless network and eavesdrop on their network traffic.\nThe SSID Confusion attack, tracked as CVE-2023-52424, impacts all operating systems and Wi-Fi clients, including home and mesh networks that are based on",
