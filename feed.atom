@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T22:10:30.332Z</updated>
+    <updated>2024-05-17T22:29:10.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2576,17 +2576,6 @@ The malware is "notable for an unconventional approach to evading analysis and d
         <summary type="html"><![CDATA[Sandboxes are synonymous with dynamic malware analysis. They help to execute malicious files in a safe virtual environment and observe their behavior. However, they also offer plenty of value in terms of static analysis. See these five scenarios where a sandbox can prove to be a useful tool in your investigations.
 Detecting Threats in PDFs
 PDF files are frequently exploited by threat actors to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Worldwide]]></title>
-        <id>https://thehackernews.com/2024/04/global-police-operation-disrupts.html</id>
-        <link href="https://thehackernews.com/2024/04/global-police-operation-disrupts.html"/>
-        <updated>2024-04-18T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 37 individuals have been arrested as part of an international crackdown on a cybercrime service called LabHost that has been used by criminal actors to steal personal credentials from victims around the world.
-Described as one of the largest Phishing-as-a-Service (PhaaS) providers, LabHost offered phishing pages targeting banks, high-profile organizations, and other service]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
