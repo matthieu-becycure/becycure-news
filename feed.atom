@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-17T09:27:29.477Z</updated>
+    <updated>2024-05-17T09:43:33.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html</id>
+        <link href="https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html"/>
+        <updated>2024-05-17T08:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The Kimsuky (aka Springtail) advanced persistent threat (APT) group, which is linked to North Korea's Reconnaissance General Bureau (RGB), has been observed deploying a Linux version of its GoBear backdoor as part of a campaign targeting South Korean organizations.
+The backdoor, codenamed Gomir, is "structurally almost identical to GoBear, with extensive sharing of code between]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Actively Exploited D-Link Router Vulnerabilities - Patch Now]]></title>
         <id>https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-d-link.html</id>
