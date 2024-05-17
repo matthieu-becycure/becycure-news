@@ -2068,38 +2068,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1600/Header-Image%201.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnfY7yQGO_usg88bKUwJpLvYr62J4HGFNo2X1jm_33wH56tRPbi4sHoRzz4V_xHpqqO1LO5KDC10QxQ731cb0D8XKY79Z_J_JtRHfsLtu38Hb54ChyphenhyphenGWrNPDHxnwmMf65pzWugO_40KBavHNmx-UySuH5TptSZUc3P_AbEcsiG0qmn8r8s-spKNZM2nVk/s1600/Header-Image%201.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/new-android-trojan-soumnibot-evades.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Android trojan called SoumniBot has been detected in the wild targeting users in South Korea by leveraging weaknesses in the manifest extraction and parsing procedure.\nThe malware is \"notable for an unconventional approach to evading analysis and detection, namely obfuscation of the Android manifest,\" Kaspersky researcher Dmitry Kalinin said in a technical analysis.",
-          "link": "https://thehackernews.com/2024/04/new-android-trojan-soumnibot-evades.html",
-          "publishedOn": "2024-04-18T10:31:00.000Z",
-          "wordCount": null,
-          "title": "New Android Trojan 'SoumniBot' Evades Detection with Clever Tricks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXXG-YvknzDz26fwJvjcHAiYRRxs5ITSe4EO-DUVIulOEtpb408Myl9ABgUT6IgowDR-Vh_TgCq09sfWAuFaWhVWQgIWa0i89gYWyKCnS_S0IuLp6Rq2L6Yay5fLSvJZHuWxwrXrTub8PitIQKVJ7bWakiElhF5NFr7ApFiAdG0zUpejkJJSjkgv_As_-/s1600/trojan.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpXXG-YvknzDz26fwJvjcHAiYRRxs5ITSe4EO-DUVIulOEtpb408Myl9ABgUT6IgowDR-Vh_TgCq09sfWAuFaWhVWQgIWa0i89gYWyKCnS_S0IuLp6Rq2L6Yay5fLSvJZHuWxwrXrTub8PitIQKVJ7bWakiElhF5NFr7ApFiAdG0zUpejkJJSjkgv_As_-/s1600/trojan.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/how-to-conduct-advanced-static-analysis.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Sandboxes are synonymous with dynamic malware analysis. They help to execute malicious files in a safe virtual environment and observe their behavior. However, they also offer plenty of value in terms of static analysis. See these five scenarios where a sandbox can prove to be a useful tool in your investigations.\nDetecting Threats in PDFs\nPDF files are frequently exploited by threat actors to",
-          "link": "https://thehackernews.com/2024/04/how-to-conduct-advanced-static-analysis.html",
-          "publishedOn": "2024-04-18T10:31:00.000Z",
-          "wordCount": null,
-          "title": "How to Conduct Advanced Static Analysis in a Malware Sandbox",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdLdeFsBp5WcONUpj6fXxAiA0NaKBUWrKpEK2jD90_XgRoUKtGT9pRY4XEqsvCYrO5v6TJL20ohj4jkmJ7Mb_sIcJQuJSvhofPamGdWtcYD9ReTVqaY1mgJ2qkxx0LYQjBoQj0yU2-NJgNwtCEJaVH8P1UCE8TTGLIYeTlUwAf5eRjDc-Mgy5gGN8q53o/s1600/anyrun.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdLdeFsBp5WcONUpj6fXxAiA0NaKBUWrKpEK2jD90_XgRoUKtGT9pRY4XEqsvCYrO5v6TJL20ohj4jkmJ7Mb_sIcJQuJSvhofPamGdWtcYD9ReTVqaY1mgJ2qkxx0LYQjBoQj0yU2-NJgNwtCEJaVH8P1UCE8TTGLIYeTlUwAf5eRjDc-Mgy5gGN8q53o/s1600/anyrun.png"
         }
       ]
     },
