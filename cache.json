@@ -2020,22 +2020,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzgB2sV2o7XCd8GfhFg9ioZ-iRvZT13ZBn0uFv-5gc74hXEeUmfbSzCAsEA23kT_lZdt10oT-dGaL2ZxvDQeOSvxDDkucmpWgkK70emGIn-AtYxLDJuckxg_5dHFdIuNYs3nw5bsw6tqikH-05WNmHjo7Omd9TTmOeJJTvIdh0abYwZM0K6gOuhNf2s1a/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzgB2sV2o7XCd8GfhFg9ioZ-iRvZT13ZBn0uFv-5gc74hXEeUmfbSzCAsEA23kT_lZdt10oT-dGaL2ZxvDQeOSvxDDkucmpWgkK70emGIn-AtYxLDJuckxg_5dHFdIuNYs3nw5bsw6tqikH-05WNmHjo7Omd9TTmOeJJTvIdh0abYwZM0K6gOuhNf2s1a/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Select Ukrainian government networks have remained infected with a malware called OfflRouter since 2015.\nCisco Talos said its findings are based on an analysis of over 100 confidential documents that were infected with the VBA macro virus and uploaded to the VirusTotal malware scanning platform.\n\"The documents contained VBA code to drop and run an executable with the name 'ctrlpanel.exe,'\"",
-          "link": "https://thehackernews.com/2024/04/offlrouter-malware-evades-detection-in.html",
-          "publishedOn": "2024-04-18T14:25:00.000Z",
-          "wordCount": null,
-          "title": "OfflRouter Malware Evades Detection in Ukraine for Almost a Decade",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiql6F8vCYrkcwRxtzGXvF7nUibNy6Pf-Pi7nWv0b1E36R4kETHLFpg4jvrehYoXOewkbCP6KVvt9A6dQs8wAWFrSw38x2sniPziFeJfudGccZ2fhVjjZ_p_EsF4NKByvisxtFSOFCX2g6qhfqG21jwdiVqxvOQ6uV2VoB7eRkgV6HyS_o9Db7_-7SVjGi2/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiql6F8vCYrkcwRxtzGXvF7nUibNy6Pf-Pi7nWv0b1E36R4kETHLFpg4jvrehYoXOewkbCP6KVvt9A6dQs8wAWFrSw38x2sniPziFeJfudGccZ2fhVjjZ_p_EsF4NKByvisxtFSOFCX2g6qhfqG21jwdiVqxvOQ6uV2VoB7eRkgV6HyS_o9Db7_-7SVjGi2/s1600/malware.png"
         }
       ]
     },
