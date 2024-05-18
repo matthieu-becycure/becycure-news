@@ -2959,16 +2959,6 @@
           "wordCount": 1201,
           "title": "CERTFR-2024-AVI-0330 : Multiples vulnérabilités dans les produits IBM (19 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un déni de service à distance et un contournement de la politique de …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0329/",
-          "publishedOn": "2024-04-19T11:40:29.000Z",
-          "wordCount": 2220,
-          "title": "CERTFR-2024-AVI-0329 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
