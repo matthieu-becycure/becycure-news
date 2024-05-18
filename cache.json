@@ -3001,16 +3001,6 @@
           "wordCount": 2220,
           "title": "CERTFR-2024-AVI-0329 : Multiples vulnérabilités dans le noyau Linux de SUSE (19 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0328/",
-          "publishedOn": "2024-04-19T07:26:54.000Z",
-          "wordCount": 944,
-          "title": "CERTFR-2024-AVI-0328 : Vulnérabilité dans Citrix uberAgent (19 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
