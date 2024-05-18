@@ -3011,16 +3011,6 @@
           "wordCount": 944,
           "title": "CERTFR-2024-AVI-0328 : Vulnérabilité dans Citrix uberAgent (19 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0327/",
-          "publishedOn": "2024-04-19T07:09:50.000Z",
-          "wordCount": 1169,
-          "title": "CERTFR-2024-AVI-0327 : Multiples vulnérabilités dans Microsoft Edge (19 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
