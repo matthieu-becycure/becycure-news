@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-18T01:51:09.414Z</updated>
+    <updated>2024-05-18T02:23:42.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2460,18 +2460,6 @@ Russian cybersecurity company Kaspersky said it discovered the activity in Febru
         <summary type="html"><![CDATA[Select Ukrainian government networks have remained infected with a malware called OfflRouter since 2015.
 Cisco Talos said its findings are based on an analysis of over 100 confidential documents that were infected with the VBA macro virus and uploaded to the VirusTotal malware scanning platform.
 "The documents contained VBA code to drop and run an executable with the name 'ctrlpanel.exe,'"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIN7 Cybercrime Group Targeting U.S. Auto Industry with Carbanak Backdoor]]></title>
-        <id>https://thehackernews.com/2024/04/fin7-cybercrime-group-targeting-us-auto.html</id>
-        <link href="https://thehackernews.com/2024/04/fin7-cybercrime-group-targeting-us-auto.html"/>
-        <updated>2024-04-18T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[The infamous cybercrime syndicate known as FIN7 has been linked to a spear-phishing campaign targeting the U.S. automotive industry to deliver a known backdoor called Carbanak (aka Anunak).
-"FIN7 identified employees at the company who worked in the IT department and had higher levels of administrative rights," the BlackBerry research and intelligence team said in a new write-up.
-"They]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
