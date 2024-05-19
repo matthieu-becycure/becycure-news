@@ -1972,22 +1972,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURNL4RogQrnLxwvgCDlll9yqvTq5Q_3mj8bxpFwzZgiYa6uIzZC_hADYdW6D4UOLTT3Iia7Q9JAU1UtCLGlQSWhpl7FwkfIBzpeL3470GIFsEIgopGmVz-DZMkP9O5g8M5i13qvzx2_WqMnlcMKTWFpaxBTeg5GAV0BQjcNzUnFF_yRXjvTNLY3cufdKN/s1600/panos.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjURNL4RogQrnLxwvgCDlll9yqvTq5Q_3mj8bxpFwzZgiYa6uIzZC_hADYdW6D4UOLTT3Iia7Q9JAU1UtCLGlQSWhpl7FwkfIBzpeL3470GIFsEIgopGmVz-DZMkP9O5g8M5i13qvzx2_WqMnlcMKTWFpaxBTeg5GAV0BQjcNzUnFF_yRXjvTNLY3cufdKN/s1600/panos.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/critical-update-crushftp-zero-day-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Users of the CrushFTP enterprise file transfer software are being urged to update to the latest version following the discovery of a security flaw that has come under targeted exploitation in the wild.\n\"CrushFTP v11 versions below 11.1 have a vulnerability where users can escape their VFS and download system files,\" CrushFTP said in an advisory released Friday.",
-          "link": "https://thehackernews.com/2024/04/critical-update-crushftp-zero-day-flaw.html",
-          "publishedOn": "2024-04-20T05:18:00.000Z",
-          "wordCount": null,
-          "title": "Critical Update: CrushFTP Zero-Day Flaw Exploited in Targeted Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdz9o-KZOsZDEl5SNHbl-I7LZX1VhYf4GDRf32RxTxBnfuzCgDSFVS_Gz56XYrBzm2BZzSAho1CBFujQ-IXDl1Hm2g_Rj7J-bkJTveAJn3k3x5o-jn24pFt2DbS5901MTQE1-e04GOM1KUhFW2JgmQuE8FzRhyKxl8zcSAdJCX_TdBhu9VRxWURsTgO9o/s1600/ftp.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdz9o-KZOsZDEl5SNHbl-I7LZX1VhYf4GDRf32RxTxBnfuzCgDSFVS_Gz56XYrBzm2BZzSAho1CBFujQ-IXDl1Hm2g_Rj7J-bkJTveAJn3k3x5o-jn24pFt2DbS5901MTQE1-e04GOM1KUhFW2JgmQuE8FzRhyKxl8zcSAdJCX_TdBhu9VRxWURsTgO9o/s1600/ftp.png"
         }
       ]
     },
