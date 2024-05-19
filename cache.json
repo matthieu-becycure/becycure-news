@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) has charged two arrested Chinese nationals for allegedly orchestrating a pig butchering scam that laundered at least $73 million from victims through shell companies.\nThe individuals, Daren Li, 41, and Yicheng Zhang, 38, were arrested in Atlanta and Los Angeles on April 12 and May 16, respectively.\nThe foreign nationals have been \"charged for leading a scheme",
+          "link": "https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html",
+          "publishedOn": "2024-05-19T09:46:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Nationals Arrested for Laundering $73 Million in Pig Butchering Crypto Scam",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYY-3t_2tEUCVX41dZcLK7NZIikQ7t63JtNS5jX7NbaaimvXybHsXlveMWPFT7QoHTxI9pM4DTdCije4sDSd7Yt6c46gYuudMKp1Ud0L92UBMhLd_6-0_QldH6ucXCnWnOEbzO52dMTHetk494taJhWkjOi6pows13Ixl-zhXBPBkCiAt8k9kD51LsiNip/s1600/pig.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYY-3t_2tEUCVX41dZcLK7NZIikQ7t63JtNS5jX7NbaaimvXybHsXlveMWPFT7QoHTxI9pM4DTdCije4sDSd7Yt6c46gYuudMKp1Ud0L92UBMhLd_6-0_QldH6ucXCnWnOEbzO52dMTHetk494taJhWkjOi6pows13Ixl-zhXBPBkCiAt8k9kD51LsiNip/s1600/pig.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/grandoreiro-banking-trojan-resurfaces.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind the Windows-based Grandoreiro banking trojan have returned in a global campaign since March 2024 following a law enforcement takedown in January.\nThe large-scale phishing attacks, likely facilitated by other cybercriminals via a malware-as-a-service (MaaS) model, target over 1,500 banks across the world, spanning more than 60 countries in Central and South",
