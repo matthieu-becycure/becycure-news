@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-20T11:43:37.970Z</updated>
+    <updated>2024-05-20T12:21:50.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks]]></title>
+        <id>https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html</id>
+        <link href="https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html"/>
+        <updated>2024-05-20T10:57:00.000Z</updated>
+        <summary type="html"><![CDATA[All developers want to create secure and dependable software. They should feel proud to release their code with the full confidence they did not introduce any weaknesses or anti-patterns into their applications. Unfortunately, developers are not writing their own code for the most part these days. 96% of all software contains some open-source components, and open-source components make]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cyber Criminals Exploit GitHub and FileZilla to Deliver Cocktail Malware]]></title>
         <id>https://thehackernews.com/2024/05/cyber-criminals-exploit-github-and.html</id>
