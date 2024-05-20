@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-20T12:21:50.069Z</updated>
+    <updated>2024-05-20T12:54:58.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal]]></title>
+        <id>https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html</id>
+        <link href="https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html"/>
+        <updated>2024-05-20T12:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple threat actors are weaponizing a design flaw in Foxit PDF Reader to deliver a variety of malware such as Agent Tesla, AsyncRAT, DCRat, NanoCore RAT, NjRAT, Pony, Remcos RAT, and XWorm.
+"This exploit triggers security warnings that could deceive unsuspecting users into executing harmful commands," Check Point said in a technical report. "This exploit has been used by multiple]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Defending Your Commits From Known CVEs With GitGuardian SCA And Git Hooks]]></title>
         <id>https://thehackernews.com/2024/05/defending-your-commits-from-known-cves.html</id>
