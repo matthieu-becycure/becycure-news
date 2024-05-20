@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-20T20:26:11.559Z</updated>
+    <updated>2024-05-20T20:43:35.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2365,18 +2365,6 @@ In our dataset of over 11,000 victim organizations that have experienced a Cyber
         <summary type="html"><![CDATA[Microsoft has revealed that North Korea-linked state-sponsored cyber actors has begun to use artificial intelligence (AI) to make its operations more effective and efficient.
 "They are learning to use tools powered by AI large language models (LLM) to make their operations more efficient and effective," the tech giant said in its latest report on East Asia hacking groups.
 The company]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth]]></title>
-        <id>https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html</id>
-        <link href="https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html"/>
-        <updated>2024-04-21T08:42:00.000Z</updated>
-        <summary type="html"><![CDATA[A new information stealer has been found leveraging Lua bytecode for added stealth and sophistication, findings from McAfee Labs reveal.
-The cybersecurity firm has assessed it to be a variant of a known malware called RedLine Stealer owing to the fact that the command-and-control (C2) server IP address has been previously identified as associated with the malware.
-RedLine Stealer,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2020,22 +2020,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s1600/ai.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip4DNdVoW3iewDMpe4AW_C1YNL5ckqycjcdf_EYiHQQkG1jG-ZSYhdjKyn6jrReuf0sg-_CdT-SM1gFQ-BblZifY05x8I9rNj8_c1dSU7LWIQ4dIAEE8zc8OPMu5u8ogKV-HrajTwpMQGHoiShBw4r_ILyXG2x9F6VVYGRGMqLzRZbbqgcvXM_4OfyYmcV/s1600/ai.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new information stealer has been found leveraging Lua bytecode for added stealth and sophistication, findings from McAfee Labs reveal.\nThe cybersecurity firm has assessed it to be a variant of a known malware called RedLine Stealer owing to the fact that the command-and-control (C2) server IP address has been previously identified as associated with the malware.\nRedLine Stealer,",
-          "link": "https://thehackernews.com/2024/04/new-redline-stealer-variant-disguised.html",
-          "publishedOn": "2024-04-21T08:42:00.000Z",
-          "wordCount": null,
-          "title": "New RedLine Stealer Variant Disguised as Game Cheats Using Lua Bytecode for Stealth",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKp96Jwc4R7bDqoN3v7fSZWFdCEwRgQ6DCaskmu3HdgEWb9Ur2ciNaWD7DPcwrHUbGWWiyDg3gG0bh9247Xkqr3kLUTFd1g4viEfuCYG-AiaXMnx9TPpft9tQo7CQfcYKkUTo_GpNI-IluYeLw8KCUY_ZgYsMT9gcFp3it77u9EM5Cz8RQQH-fpubD5GVF/s1600/chart.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKp96Jwc4R7bDqoN3v7fSZWFdCEwRgQ6DCaskmu3HdgEWb9Ur2ciNaWD7DPcwrHUbGWWiyDg3gG0bh9247Xkqr3kLUTFd1g4viEfuCYG-AiaXMnx9TPpft9tQo7CQfcYKkUTo_GpNI-IluYeLw8KCUY_ZgYsMT9gcFp3it77u9EM5Cz8RQQH-fpubD5GVF/s1600/chart.png"
         }
       ]
     },
