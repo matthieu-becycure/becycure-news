@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have observed a spike in email phishing campaigns starting early March 2024 that delivers Latrodectus, a nascent malware loader believed to be the successor to the IcedID malware.\n\"These campaigns typically involve a recognizable infection chain involving oversized JavaScript files that utilize WMI's ability to invoke msiexec.exe and install a remotely-hosted MSI",
+          "link": "https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html",
+          "publishedOn": "2024-05-20T05:47:00.000Z",
+          "wordCount": null,
+          "title": "Latrodectus Malware Loader Emerges as IcedID's Successor in Phishing Campaigns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSlRbIUbyKqPEtm2I428qqbur_PuJRbGTYuVER5b5E1uD4CLM5Bgbmb3U4deiV6hU_JXva6c7iak3XojM2XW1B97SiL5lZzf8tBmDgskBOy76M5m6_MMkfyJ9TuPwers54SvHNIa536wYfB7uGcEB5l3Lr4_wSOY59rVbZphqGx-XU11o3RioPxm-z7aw/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaSlRbIUbyKqPEtm2I428qqbur_PuJRbGTYuVER5b5E1uD4CLM5Bgbmb3U4deiV6hU_JXva6c7iak3XojM2XW1B97SiL5lZzf8tBmDgskBOy76M5m6_MMkfyJ9TuPwers54SvHNIa536wYfB7uGcEB5l3Lr4_wSOY59rVbZphqGx-XU11o3RioPxm-z7aw/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) has charged two arrested Chinese nationals for allegedly orchestrating a pig butchering scam that laundered at least $73 million from victims through shell companies.\nThe individuals, Daren Li, 41, and Yicheng Zhang, 38, were arrested in Atlanta and Los Angeles on April 12 and May 16, respectively.\nThe foreign nationals have been \"charged for leading a scheme",

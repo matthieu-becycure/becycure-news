@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-20T06:15:17.855Z</updated>
+    <updated>2024-05-20T06:32:23.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Latrodectus Malware Loader Emerges as IcedID's Successor in Phishing Campaigns]]></title>
+        <id>https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html</id>
+        <link href="https://thehackernews.com/2024/05/latrodectus-malware-loader-emerges-as.html"/>
+        <updated>2024-05-20T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have observed a spike in email phishing campaigns starting early March 2024 that delivers Latrodectus, a nascent malware loader believed to be the successor to the IcedID malware.
+"These campaigns typically involve a recognizable infection chain involving oversized JavaScript files that utilize WMI's ability to invoke msiexec.exe and install a remotely-hosted MSI]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Nationals Arrested for Laundering $73 Million in Pig Butchering Crypto Scam]]></title>
         <id>https://thehackernews.com/2024/05/chinese-nationals-arrested-for.html</id>
