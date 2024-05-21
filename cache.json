@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new attack campaign dubbed CLOUD#REVERSER has been observed leveraging legitimate cloud storage services like Google Drive and Dropbox to stage malicious payloads.\n\"The VBScript and PowerShell scripts in the CLOUD#REVERSER inherently involves command-and-control-like activities by using Google Drive and Dropbox as staging platforms to manage file uploads and downloads,\" Securonix",
+          "link": "https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html",
+          "publishedOn": "2024-05-21T14:19:00.000Z",
+          "wordCount": null,
+          "title": "Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The persistent threat actors behind the SolarMarker information-stealing malware have established a multi-tiered infrastructure to complicate law enforcement takedown efforts, new findings from Recorded Future show.\n\"The core of SolarMarker's operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely",
