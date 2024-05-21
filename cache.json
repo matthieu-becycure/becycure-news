@@ -2157,6 +2157,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/",
+          "publishedOn": "2024-05-21T13:34:52.000Z",
+          "wordCount": 939,
+          "title": "CERTFR-2024-AVI-0426 : Vulnérabilité dans Roundcube (21 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/",
+          "publishedOn": "2024-05-21T13:21:52.000Z",
+          "wordCount": 957,
+          "title": "CERTFR-2024-AVI-0425 : Multiples vulnérabilités dans Ruby on Rails (21 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/",
+          "publishedOn": "2024-05-21T13:14:15.000Z",
+          "wordCount": 936,
+          "title": "CERTFR-2024-AVI-0424 : Vulnérabilité dans Asterisk (21 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/",
+          "publishedOn": "2024-05-21T13:02:17.000Z",
+          "wordCount": 1084,
+          "title": "CERTFR-2024-AVI-0423 : Multiples vulnérabilités dans les produits NetApp (21 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/",
+          "publishedOn": "2024-05-21T08:50:15.000Z",
+          "wordCount": 2064,
+          "title": "CERTFR-2024-ACT-022 : Bulletin d’actualité CERTFR-2024-ACT-022 (21 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",

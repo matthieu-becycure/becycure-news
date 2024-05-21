@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T15:27:19.935Z</updated>
+    <updated>2024-05-21T15:43:26.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -18,6 +18,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0426 : Vulnérabilité dans Roundcube (21 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/"/>
+        <updated>2024-05-21T13:34:52.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0425 : Multiples vulnérabilités dans Ruby on Rails (21 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/"/>
+        <updated>2024-05-21T13:21:52.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0424 : Vulnérabilité dans Asterisk (21 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/"/>
+        <updated>2024-05-21T13:14:15.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure]]></title>
         <id>https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html</id>
         <link href="https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html"/>
@@ -26,6 +56,16 @@
 "The core of SolarMarker's operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-AVI-0423 : Multiples vulnérabilités dans les produits NetApp (21 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/"/>
+        <updated>2024-05-21T13:02:17.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -70,6 +110,16 @@ IT security compliance involves adhering to]]></summary>
 "Deprecating NTLM has been a huge ask from our security community as it will strengthen user authentication, and deprecation is planned in the second half of 2024," the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CERTFR-2024-ACT-022 : Bulletin d’actualité CERTFR-2024-ACT-022 (21 mai 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/"/>
+        <updated>2024-05-21T08:50:15.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
