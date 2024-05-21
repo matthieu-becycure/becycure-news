@@ -2084,22 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3WmhamH3F4LwTvjofjgtMTuWmXujmvcbfjc94bRJeUr1MD5xTkjmf-NN4kUG4Ie1aqsnwwdp9cl_5fX2aEdsX6wu7ALr22hPze4X6fprKD5kbPQ33MS0bh8jdTm9sWE8f5pXXsX5j8Yfl9PnszbuJm8ad6SsHRpUdRuaHW3kr2Facdv_An3E3MdGe3EN-/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Over the past two years, a shocking 51% of organizations surveyed in a leading industry report have been compromised by a cyberattack. Yes, over half. \nAnd this, in a world where enterprises deploy an average of 53 different security solutions to safeguard their digital domain. \nAlarming? Absolutely.\nA recent survey of CISOs and CIOs, commissioned by Pentera and",
-          "link": "https://thehackernews.com/2024/04/penteras-2024-report-reveals-hundreds.html",
-          "publishedOn": "2024-04-22T11:30:00.000Z",
-          "wordCount": null,
-          "title": "Pentera's 2024 Report Reveals Hundreds of Security Events per Week, Highlighting the Criticality of Continuous Validation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfMeGEXXxPjQrPfvW-rREW_oBcDe6Yr5g9GiLuRIuCifiTSw1ZV4Ec0BcjCwei88C5yaxFi_r1g44HLZPj4FLC6ciaabUB5-zpOxwkuVmdtBBgLRPS8sVFnAmIIlMhXGJFig43txOhhKZoYi4t1dWKEsCWohQ9SW0LlnLCHY3purjGVvXJL-Tgu6yiAd8/s1600/pen.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfMeGEXXxPjQrPfvW-rREW_oBcDe6Yr5g9GiLuRIuCifiTSw1ZV4Ec0BcjCwei88C5yaxFi_r1g44HLZPj4FLC6ciaabUB5-zpOxwkuVmdtBBgLRPS8sVFnAmIIlMhXGJFig43txOhhKZoYi4t1dWKEsCWohQ9SW0LlnLCHY3purjGVvXJL-Tgu6yiAd8/s1600/pen.jpg"
         }
       ]
     },
@@ -3026,16 +3010,6 @@
           "publishedOn": "2024-04-22T11:44:24.000Z",
           "wordCount": 973,
           "title": "CERTFR-2024-AVI-0341 : Multiples vulnérabilités dans Synacor Zimbra Collaboration (22 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0340/",
-          "publishedOn": "2024-04-22T11:27:18.000Z",
-          "wordCount": 947,
-          "title": "CERTFR-2024-AVI-0340 : [SCADA] Multiples vulnérabilités dans les produits Moxa (22 avril 2024)",
           "imageUrl": null
         }
       ]
