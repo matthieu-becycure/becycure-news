@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T22:43:40.512Z</updated>
+    <updated>2024-05-21T23:12:09.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2421,18 +2421,6 @@ A recent survey of CISOs and CIOs, commissioned by Pentera and]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITRE Corporation Breached by Nation-State Hackers Exploiting Ivanti Flaws]]></title>
-        <id>https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html</id>
-        <link href="https://thehackernews.com/2024/04/mitre-corporation-breached-by-nation.html"/>
-        <updated>2024-04-22T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The MITRE Corporation revealed that it was the target of a nation-state cyber attack that exploited two zero-day flaws in Ivanti Connect Secure appliances starting in January 2024.
-The intrusion led to the compromise of its Networked Experimentation, Research, and Virtualization Environment (NERVE), an unclassified research and prototyping network.
-The unknown adversary "performed reconnaissance]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
