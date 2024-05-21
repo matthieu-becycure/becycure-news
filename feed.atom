@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T17:10:05.516Z</updated>
+    <updated>2024-05-21T17:27:18.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical GitHub Enterprise Server Flaw Allows Authentication Bypass]]></title>
+        <id>https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html</id>
+        <link href="https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html"/>
+        <updated>2024-05-21T16:16:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has rolled out fixes to address a maximum severity flaw in the GitHub Enterprise Server (GHES) that could allow an attacker to bypass authentication protections.
+Tracked as CVE-2024-4985 (CVSS score: 10.0), the issue could permit unauthorized access to an instance without requiring prior authentication.
+"On instances that use SAML single sign-on (SSO) authentication with the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malware Delivery via Cloud Services Exploits Unicode Trick to Deceive Users]]></title>
         <id>https://thehackernews.com/2024/05/malware-delivery-via-cloud-services.html</id>
