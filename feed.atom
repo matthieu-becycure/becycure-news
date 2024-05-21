@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T11:43:42.434Z</updated>
+    <updated>2024-05-21T12:19:53.629Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Five Core Tenets Of Highly Effective DevSecOps Practices]]></title>
+        <id>https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html</id>
+        <link href="https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html"/>
+        <updated>2024-05-21T11:33:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the enduring challenges of building modern applications is to make them more secure without disrupting high-velocity DevOps processes or degrading the developer experience. Today’s cyber threat landscape is rife with sophisticated attacks aimed at all different parts of the software supply chain and the urgency for software-producing organizations to adopt DevSecOps practices that deeply]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox]]></title>
         <id>https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html</id>
@@ -14,6 +24,17 @@
         <summary type="html"><![CDATA[A critical security flaw has been disclosed in the llama_cpp_python Python package that could be exploited by threat actors to achieve arbitrary code execution.
 Tracked as CVE-2024-34359 (CVSS score: 9.7), the flaw has been codenamed Llama Drama by software supply chain security firm Checkmarx.
 "If exploited, it could allow attackers to execute arbitrary code on your system,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Streamlining IT Security Compliance Using the Wazuh FIM Capability]]></title>
+        <id>https://thehackernews.com/2024/05/streamlining-it-security-compliance.html</id>
+        <link href="https://thehackernews.com/2024/05/streamlining-it-security-compliance.html"/>
+        <updated>2024-05-21T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[File Integrity Monitoring (FIM) is an IT security control that monitors and detects file changes in computer systems. It helps organizations audit important files and system configurations by routinely scanning and verifying their integrity. Most information security standards mandate the use of FIM for businesses to ensure the integrity of their data.
+IT security compliance involves adhering to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
