@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in the llama_cpp_python Python package that could be exploited by threat actors to achieve arbitrary code execution.\nTracked as CVE-2024-34359 (CVSS score: 9.7), the flaw has been codenamed Llama Drama by software supply chain security firm Checkmarx.\n\"If exploited, it could allow attackers to execute arbitrary code on your system,",
+          "link": "https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html",
+          "publishedOn": "2024-05-21T10:22:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VqOkAZrz_HIQstJ1Xqey1yQxhbv4BPE3ZRxcFvPmNbbFvEGjwOuPq_EJFXuusvUJeyWr9bLpcFMuY0k2QRmwsTi4vlCAm1qxHoNnaZCa8bjafLYFSOiOjQs0KQW2RrysWZdTY9755sPGC9MD0vHTYGYqPwQXxU_s7_-gowaxvMnA32n6E369yDP3ovN0/s1600/pdf.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VqOkAZrz_HIQstJ1Xqey1yQxhbv4BPE3ZRxcFvPmNbbFvEGjwOuPq_EJFXuusvUJeyWr9bLpcFMuY0k2QRmwsTi4vlCAm1qxHoNnaZCa8bjafLYFSOiOjQs0KQW2RrysWZdTY9755sPGC9MD0vHTYGYqPwQXxU_s7_-gowaxvMnA32n6E369yDP3ovN0/s1600/pdf.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Monday confirmed its plans to deprecate NT LAN Manager (NTLM) in Windows 11 in the second half of the year, as it announced a slew of new security measures to harden the widely-used desktop operating system.\n\"Deprecating NTLM has been a huge ask from our security community as it will strengthen user authentication, and deprecation is planned in the second half of 2024,\" the",

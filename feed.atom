@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T10:43:35.126Z</updated>
+    <updated>2024-05-21T11:10:15.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox]]></title>
+        <id>https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html</id>
+        <link href="https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html"/>
+        <updated>2024-05-21T10:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the llama_cpp_python Python package that could be exploited by threat actors to achieve arbitrary code execution.
+Tracked as CVE-2024-34359 (CVSS score: 9.7), the flaw has been codenamed Llama Drama by software supply chain security firm Checkmarx.
+"If exploited, it could allow attackers to execute arbitrary code on your system,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses]]></title>
         <id>https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html</id>
