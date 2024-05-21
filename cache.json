@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The persistent threat actors behind the SolarMarker information-stealing malware have established a multi-tiered infrastructure to complicate law enforcement takedown efforts, new findings from Recorded Future show.\n\"The core of SolarMarker's operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely",
+          "link": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
+          "publishedOn": "2024-05-21T13:07:00.000Z",
+          "wordCount": null,
+          "title": "SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKDnmEKwvzLV2hL7i2IT8S_VQhFv6YwsXJibqHeluhcApde6rbg88bCohB453m2cTCkdc2cfiWD-9QqmXH58eqe16Xi-cYoDrekGAas2rovMyHR-AUzNlr-u5uAvVR3C_3nOAZ-e6qfZTDs6bd-Y25HtCe5xThuhKDr44buyCiEGZMWhQSC9Gx27LX2NfD/s1600/may.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKDnmEKwvzLV2hL7i2IT8S_VQhFv6YwsXJibqHeluhcApde6rbg88bCohB453m2cTCkdc2cfiWD-9QqmXH58eqe16Xi-cYoDrekGAas2rovMyHR-AUzNlr-u5uAvVR3C_3nOAZ-e6qfZTDs6bd-Y25HtCe5xThuhKDr44buyCiEGZMWhQSC9Gx27LX2NfD/s1600/may.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "One of the enduring challenges of building modern applications is to make them more secure without disrupting high-velocity DevOps processes or degrading the developer experience. Today’s cyber threat landscape is rife with sophisticated attacks aimed at all different parts of the software supply chain and the urgency for software-producing organizations to adopt DevSecOps practices that deeply",

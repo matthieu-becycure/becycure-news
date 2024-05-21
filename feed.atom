@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-21T12:47:01.571Z</updated>
+    <updated>2024-05-21T13:13:15.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure]]></title>
+        <id>https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html</id>
+        <link href="https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html"/>
+        <updated>2024-05-21T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[The persistent threat actors behind the SolarMarker information-stealing malware have established a multi-tiered infrastructure to complicate law enforcement takedown efforts, new findings from Recorded Future show.
+"The core of SolarMarker's operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five Core Tenets Of Highly Effective DevSecOps Practices]]></title>
         <id>https://thehackernews.com/2024/05/five-core-tenets-of-highly-effective.html</id>
