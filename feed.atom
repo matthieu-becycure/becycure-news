@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T10:30:45.743Z</updated>
+    <updated>2024-05-22T10:43:23.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate SaaS Security Posture Management Checklist, 2025 Edition]]></title>
+        <id>https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html</id>
+        <link href="https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html"/>
+        <updated>2024-05-22T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the first edition of The Ultimate SaaS Security Posture Management (SSPM) Checklist was released three years ago, the corporate SaaS sprawl has been growing at a double-digit pace. In large enterprises, the number of SaaS applications in use today is in the hundreds, spread across departmental stacks, complicating the job of security teams to protect organizations against]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack]]></title>
         <id>https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html</id>
