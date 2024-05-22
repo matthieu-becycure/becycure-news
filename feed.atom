@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T02:44:51.513Z</updated>
+    <updated>2024-05-22T03:13:27.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2365,17 +2365,6 @@ The full names of the defendants were not disclosed by the Office of the Feder
         <updated>2024-04-23T04:23:00.000Z</updated>
         <summary type="html"><![CDATA[The Russia-linked nation-state threat actor tracked as APT28 weaponized a security flaw in the Microsoft Windows Print Spooler component to deliver a previously unknown custom malware called GooseEgg.
 The post-compromise tool, which is said to have been used since at least June 2020 and possibly as early as April 2019, leveraged a now-patched flaw that allowed for]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hacker Group ToddyCat Uses Advanced Tools for Industrial-Scale Data Theft]]></title>
-        <id>https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html</id>
-        <link href="https://thehackernews.com/2024/04/russian-hacker-group-toddycat-uses.html"/>
-        <updated>2024-04-22T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as ToddyCat has been observed using a wide range of tools to retain access to compromised environments and steal valuable data.
-Russian cybersecurity firm Kaspersky characterized the adversary as relying on various programs to harvest data on an "industrial scale" from primarily governmental organizations, some of them defense related, located in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
