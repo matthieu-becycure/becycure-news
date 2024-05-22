@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Taiwanese company QNAP has rolled out fixes for a set of medium-severity flaws impacting QTS and QuTS hero, some of which could be exploited to achieve code execution on its network-attached storage (NAS) appliances.\nThe issues, which impact QTS 5.1.x and QuTS hero h5.1.x, are listed below -\n\nCVE-2024-21902 - An incorrect permission assignment for critical resource",
+          "link": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
+          "publishedOn": "2024-05-22T05:15:00.000Z",
+          "wordCount": null,
+          "title": "QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5bLaF3ZIspfO3Y7DlBlt_w6meAz5I2NO5P3J4kM7uEa1N1z63dXEtIYGux9Xusy-JfQyDAdimpXn94NiyEJSw26uFuT0lfJK1Y438RytqZxdJu7qEKEGoo8gWlLt6iQIxZZuUNr9XMGlwvpc5SUXiLuQRAy_G_H-UV7d5po2WtRRas3I1tMoA9MT249h/s1600/qnap.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5bLaF3ZIspfO3Y7DlBlt_w6meAz5I2NO5P3J4kM7uEa1N1z63dXEtIYGux9Xusy-JfQyDAdimpXn94NiyEJSw26uFuT0lfJK1Y438RytqZxdJu7qEKEGoo8gWlLt6iQIxZZuUNr9XMGlwvpc5SUXiLuQRAy_G_H-UV7d5po2WtRRas3I1tMoA9MT249h/s1600/qnap.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Popular enterprise services provider Zoom has announced the rollout of post-quantum end-to-end encryption (E2EE) for Zoom Meetings, with support for Zoom Phone and Zoom Rooms coming in the future.\n\"As adversarial threats become more sophisticated, so does the need to safeguard user data,\" the company said in a statement. \"With the launch of post-quantum E2EE, we are doubling down on",
+          "link": "https://thehackernews.com/2024/05/zoom-adopts-nist-approved-post-quantum.html",
+          "publishedOn": "2024-05-22T04:46:00.000Z",
+          "wordCount": null,
+          "title": "Zoom Adopts NIST-Approved Post-Quantum End-to-End Encryption for Meetings",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1XStqI7Xt3HD-h8HZpNkSg0-fMeNgnZlK-la-AItk7288oVV0E-ZZhNYZjAWKZWInIToLdffwXG6UGPawJgR5kwcH2iLVHAsgXe9oke8zpUhDgg_oHnytLi9VxXb8qIW-k94axQEoYSPeh8OqtR1rHW_R-9uY7UP6yJeewStWfP6eA9ZStXnYvVPGpb1x/s1600/zoom.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1XStqI7Xt3HD-h8HZpNkSg0-fMeNgnZlK-la-AItk7288oVV0E-ZZhNYZjAWKZWInIToLdffwXG6UGPawJgR5kwcH2iLVHAsgXe9oke8zpUhDgg_oHnytLi9VxXb8qIW-k94axQEoYSPeh8OqtR1rHW_R-9uY7UP6yJeewStWfP6eA9ZStXnYvVPGpb1x/s1600/zoom.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Users of Veeam Backup Enterprise Manager are being urged to update to the latest version following the discovery of a critical security flaw that could permit an adversary to bypass authentication protections.\nTracked as CVE-2024-29849 (CVSS score: 9.8), the vulnerability could allow an unauthenticated attacker to log in to the Veeam Backup Enterprise Manager web interface as",
