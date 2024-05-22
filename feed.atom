@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T07:43:34.734Z</updated>
+    <updated>2024-05-22T08:14:46.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html</id>
+        <link href="https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html"/>
+        <updated>2024-05-22T07:41:00.000Z</updated>
+        <summary type="html"><![CDATA[An unknown threat actor is exploiting known security flaws in Microsoft Exchange Server to deploy a keylogger malware in attacks targeting entities in Africa and the Middle East.
+Russian cybersecurity firm Positive Technologies said it identified over 30 victims spanning government agencies, banks, IT companies, and educational institutions. The first-ever compromise dates back to 2021.
+"This]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances]]></title>
         <id>https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html</id>

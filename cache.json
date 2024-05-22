@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An unknown threat actor is exploiting known security flaws in Microsoft Exchange Server to deploy a keylogger malware in attacks targeting entities in Africa and the Middle East.\nRussian cybersecurity firm Positive Technologies said it identified over 30 victims spanning government agencies, banks, IT companies, and educational institutions. The first-ever compromise dates back to 2021.\n\"This",
+          "link": "https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html",
+          "publishedOn": "2024-05-22T07:41:00.000Z",
+          "wordCount": null,
+          "title": "MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvFbct90kMiUaJ1POK6KYGnSysRgM_OI3n4DV56YgeG8j59sa86Mrvaz3bdjsbLERLY4vWPAOGFb0PTMzZnAV7kmwawe_3hkr4n0OY5mbnFVLjEGweubLIOMcfUr51fT5rWH6jPQQU29-CvmknyaN_IXHhbGKM8hOFLSRK7FssY0RXxLrSV9Z66uT1QTs/s1600/ms.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvFbct90kMiUaJ1POK6KYGnSysRgM_OI3n4DV56YgeG8j59sa86Mrvaz3bdjsbLERLY4vWPAOGFb0PTMzZnAV7kmwawe_3hkr4n0OY5mbnFVLjEGweubLIOMcfUr51fT5rWH6jPQQU29-CvmknyaN_IXHhbGKM8hOFLSRK7FssY0RXxLrSV9Z66uT1QTs/s1600/ms.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Taiwanese company QNAP has rolled out fixes for a set of medium-severity flaws impacting QTS and QuTS hero, some of which could be exploited to achieve code execution on its network-attached storage (NAS) appliances.\nThe issues, which impact QTS 5.1.x and QuTS hero h5.1.x, are listed below -\n\nCVE-2024-21902 - An incorrect permission assignment for critical resource",
