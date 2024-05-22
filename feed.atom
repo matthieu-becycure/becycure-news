@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T12:20:31.655Z</updated>
+    <updated>2024-05-22T12:54:55.531Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rockwell Advises Disconnecting Internet-Facing ICS Devices Amid Cyber Threats]]></title>
+        <id>https://thehackernews.com/2024/05/rockwell-advises-disconnecting-internet.html</id>
+        <link href="https://thehackernews.com/2024/05/rockwell-advises-disconnecting-internet.html"/>
+        <updated>2024-05-22T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Rockwell Automation is urging its customers to disconnect all industrial control systems (ICSs) not meant to be connected to the public-facing internet to mitigate unauthorized or malicious cyber activity.
+The company said it's issuing the advisory due to "heightened geopolitical tensions and adversarial cyber activity globally."
+To that end, customers are required to take immediate]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Ultimate SaaS Security Posture Management Checklist, 2025 Edition]]></title>
         <id>https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html</id>
