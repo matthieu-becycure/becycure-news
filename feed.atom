@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T04:30:41.405Z</updated>
+    <updated>2024-05-22T04:43:30.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass]]></title>
+        <id>https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html</id>
+        <link href="https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html"/>
+        <updated>2024-05-22T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Users of Veeam Backup Enterprise Manager are being urged to update to the latest version following the discovery of a critical security flaw that could permit an adversary to bypass authentication protections.
+Tracked as CVE-2024-29849 (CVSS score: 9.8), the vulnerability could allow an unauthenticated attacker to log in to the Veeam Backup Enterprise Manager web interface as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical GitHub Enterprise Server Flaw Allows Authentication Bypass]]></title>
         <id>https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html</id>
