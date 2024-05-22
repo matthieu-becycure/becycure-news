@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T23:26:49.742Z</updated>
+    <updated>2024-05-22T23:43:38.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2851,17 +2851,6 @@ Cisco Talos has attributed the activity with moderate confidence to a threat act
         <summary type="html"><![CDATA[Researchers have identified a dependency confusion vulnerability impacting an archived Apache project called Cordova App Harness.
 Dependency confusion attacks take place owing to the fact that package managers check the public repositories before private registries, thus allowing a threat actor to publish a malicious package with the same name to a public package repository.
 This&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Learn Proactive Supply Chain Threat Hunting Techniques]]></title>
-        <id>https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html</id>
-        <link href="https://thehackernews.com/2024/04/webinar-learn-proactive-supply-chain.html"/>
-        <updated>2024-04-23T11:28:00.000Z</updated>
-        <summary type="html"><![CDATA[In the high-stakes world of cybersecurity, the battleground has shifted. Supply chain attacks have emerged as a potent threat, exploiting the intricate web of interconnected systems and third-party dependencies to breach even the most formidable defenses. But what if you could turn the tables and proactively hunt these threats before they wreak havoc?
-We invite you to join us for an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
