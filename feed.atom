@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-22T18:31:27.456Z</updated>
+    <updated>2024-05-22T18:43:24.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2896,17 +2896,6 @@ They called on the industry and governments to take urgent action to ensure publ
         <summary type="html"><![CDATA[German authorities said they have issued arrest warrants against three citizens on suspicion of spying for China.
 The full names of the defendants were not disclosed by the Office of the Federal Prosecutor (aka Generalbundesanwalt), but it includes Herwig F., Ina F., and Thomas R.
 "The suspects are strongly suspected of working for a Chinese secret service since an unspecified]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Imposes Visa Restrictions on 13 Linked to Commercial Spyware Misuse]]></title>
-        <id>https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html</id>
-        <link href="https://thehackernews.com/2024/04/us-imposes-visa-restrictions-on-13.html"/>
-        <updated>2024-04-23T06:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of State on Monday said it's taking steps to impose visa restrictions on 13 individuals who are allegedly involved in the development and sale of commercial spyware or who are immediately family members of those involved in such businesses.
-"These individuals have facilitated or derived financial benefit from the misuse of this technology, which]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
