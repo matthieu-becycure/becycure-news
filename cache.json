@@ -3001,16 +3001,6 @@
           "wordCount": 1756,
           "title": "CERTFR-2024-ACT-018 : Bulletin d’actualité CERTFR-2024-ACT-018 (22 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur, un contournement de la politique de sécurité, une injection de code indirecte à distance (XSS)",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0341/",
-          "publishedOn": "2024-04-22T11:44:24.000Z",
-          "wordCount": 973,
-          "title": "CERTFR-2024-AVI-0341 : Multiples vulnérabilités dans Synacor Zimbra Collaboration (22 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
