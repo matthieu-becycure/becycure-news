@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked threat actor known as Sharp Panda has expanded their targeting to include governmental organizations in Africa and the Caribbean as part of an ongoing cyber espionage campaign.\n\"The campaign adopts Cobalt Strike Beacon as the payload, enabling backdoor functionalities like C2 communication and command execution while minimizing the exposure of their custom tools,\" Check Point",
+          "link": "https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html",
+          "publishedOn": "2024-05-23T13:50:00.000Z",
+          "wordCount": null,
+          "title": "New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa & Caribbean Govts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlkZwkfhY4C7r6p8rgzF7VBSkgvPmpejWI0E2EV3OBgpij7TXXrh2t8kEBZz_JuTWDJBeOp-xAm1rpItMLKpHZBhAWg8cbyR_1kEELZKHalXqoO9M3K47jMo0bkAD1WgUaXiduxQ1w7qKVEQBbZgfdRgBcv0wpshyMrENHuvZOMRRWS4ek0ihxWh1vNtC/s1600/china.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAlkZwkfhY4C7r6p8rgzF7VBSkgvPmpejWI0E2EV3OBgpij7TXXrh2t8kEBZz_JuTWDJBeOp-xAm1rpItMLKpHZBhAWg8cbyR_1kEELZKHalXqoO9M3K47jMo0bkAD1WgUaXiduxQ1w7qKVEQBbZgfdRgBcv0wpshyMrENHuvZOMRRWS4ek0ihxWh1vNtC/s1600/china.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Conversations about data security tend to diverge into three main threads:\n\nHow can we protect the data we store on our on-premises or cloud infrastructure?\nWhat strategies and tools or platforms can reliably backup and restore data?\nWhat would losing all this data cost us, and how quickly could we get it back?\n\nAll are valid and necessary conversations for technology organizations of all shapes",

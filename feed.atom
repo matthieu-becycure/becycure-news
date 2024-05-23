@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T14:28:48.566Z</updated>
+    <updated>2024-05-23T14:43:24.697Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Frontiers, Old Tactics: Chinese Espionage Group Targets Africa & Caribbean Govts]]></title>
+        <id>https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html</id>
+        <link href="https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html"/>
+        <updated>2024-05-23T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked threat actor known as Sharp Panda has expanded their targeting to include governmental organizations in Africa and the Caribbean as part of an ongoing cyber espionage campaign.
+"The campaign adopts Cobalt Strike Beacon as the payload, enabling backdoor functionalities like C2 communication and command execution while minimizing the exposure of their custom tools," Check Point]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Are Your SaaS Backups as Secure as Your Production Data?]]></title>
         <id>https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html</id>
