@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T21:10:04.927Z</updated>
+    <updated>2024-05-23T21:24:57.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2890,27 +2890,6 @@ The campaign, codenamed FROZEN#SHADOW by Securonix, also involves the deploym
 The findings come from the Citizen Lab, which discovered weaknesses in eight of nine apps from vendors like Baidu, Honor, iFlytek, OPPO, Samsung, Tencent, Vivo, and Xiaomi. The only vendor whose keyboard app did not have any security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISO Perspectives on Complying with Cybersecurity Regulations]]></title>
-        <id>https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html</id>
-        <link href="https://thehackernews.com/2024/04/ciso-perspectives-on-complying-with.html"/>
-        <updated>2024-04-24T09:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Compliance requirements are meant to increase cybersecurity transparency and accountability. As cyber threats increase, so do the number of compliance frameworks and the specificity of the security controls, policies, and activities they include.
-For CISOs and their teams, that means compliance is a time-consuming, high-stakes process that demands strong organizational and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0342 : Multiples vulnérabilités dans NagiosXI (24 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0342/"/>
-        <updated>2024-04-24T09:22:44.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans NagiosXI. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur et une atteinte à l'intégrité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
