@@ -3495,16 +3495,6 @@
           "wordCount": 976,
           "title": "CERTFR-2024-AVI-0344 : Multiples vulnérabilités dans les produits Mitel (25 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0343/",
-          "publishedOn": "2024-04-24T11:37:59.000Z",
-          "wordCount": 963,
-          "title": "CERTFR-2024-AVI-0343 : Multiples vulnérabilités dans Google Chrome (24 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
