@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti on Tuesday rolled out fixes to address multiple critical security flaws in Endpoint Manager (EPM) that could be exploited to achieve remote code execution under certain circumstances.\nSix of the 10 vulnerabilities – from CVE-2024-29822 through CVE-2024-29827 (CVSS scores: 9.6) – relate to SQL injection flaws that allow an unauthenticated attacker within the same network to",
+          "link": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
+          "publishedOn": "2024-05-23T09:21:00.000Z",
+          "wordCount": null,
+          "title": "Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEa6bwJvaq28OX6jN8eDPiagXRVIzk6CY9H8C305W20wTNoG-Ay-8lBW4H5Z51ecA5QH5SG2qNDr_UAlfYJjiC-nxXAAEOGyeEB0y3B3l0162iMh7NiUkZZaPdnC_9h4uSKffO94tRnJxusu9d1md5Zz-ollf-j3ZPNKoaPi0hN98K7XDNQzfq_0-T9IV/s1600/ivanti.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEa6bwJvaq28OX6jN8eDPiagXRVIzk6CY9H8C305W20wTNoG-Ay-8lBW4H5Z51ecA5QH5SG2qNDr_UAlfYJjiC-nxXAAEOGyeEB0y3B3l0162iMh7NiUkZZaPdnC_9h4uSKffO94tRnJxusu9d1md5Zz-ollf-j3ZPNKoaPi0hN98K7XDNQzfq_0-T9IV/s1600/ivanti.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft on Wednesday outlined its plans to deprecate Visual Basic Script (VBScript) in the second half of 2024 in favor of more advanced alternatives such as JavaScript and PowerShell.\n\"Technology has advanced over the years, giving rise to more powerful and versatile scripting languages such as JavaScript and PowerShell,\" Microsoft Program Manager Naveen Shankar said. \"These languages",
