@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T21:24:57.294Z</updated>
+    <updated>2024-05-23T21:43:33.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2879,17 +2879,6 @@ The campaign, codenamed FROZEN#SHADOW by Securonix, also involves the deploym
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Security Flaws Expose Keystrokes of Over 1 Billion Chinese Keyboard App Users]]></title>
-        <id>https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html</id>
-        <link href="https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html"/>
-        <updated>2024-04-24T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Security vulnerabilities uncovered in cloud-based pinyin keyboard apps could be exploited to reveal users' keystrokes to nefarious actors.
-The findings come from the Citizen Lab, which discovered weaknesses in eight of nine apps from vendors like Baidu, Honor, iFlytek, OPPO, Samsung, Tencent, Vivo, and Xiaomi. The only vendor whose keyboard app did not have any security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
