@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T11:23:38.421Z</updated>
+    <updated>2024-05-23T11:43:35.846Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are Your SaaS Backups as Secure as Your Production Data?]]></title>
+        <id>https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html</id>
+        <link href="https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html"/>
+        <updated>2024-05-23T11:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Conversations about data security tend to diverge into three main threads:
+
+How can we protect the data we store on our on-premises or cloud infrastructure?
+What strategies and tools or platforms can reliably backup and restore data?
+What would losing all this data cost us, and how quickly could we get it back?
+
+All are valid and necessary conversations for technology organizations of all shapes]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside Operation Diplomatic Specter: Chinese APT Group's Stealthy Tactics Exposed]]></title>
+        <id>https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html</id>
+        <link href="https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html"/>
+        <updated>2024-05-23T11:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Governmental entities in the Middle East, Africa, and Asia are the target of a Chinese advanced persistent threat (APT) group as part of an ongoing cyber espionage campaign dubbed Operation Diplomatic Specter since at least late 2022.
+"An analysis of this threat actor’s activity reveals long-term espionage operations against at least seven governmental entities," Palo Alto Networks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager]]></title>
         <id>https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html</id>

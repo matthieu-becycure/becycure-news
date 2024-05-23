@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Conversations about data security tend to diverge into three main threads:\n\nHow can we protect the data we store on our on-premises or cloud infrastructure?\nWhat strategies and tools or platforms can reliably backup and restore data?\nWhat would losing all this data cost us, and how quickly could we get it back?\n\nAll are valid and necessary conversations for technology organizations of all shapes",
+          "link": "https://thehackernews.com/2024/05/are-your-saas-backups-as-secure-as-your.html",
+          "publishedOn": "2024-05-23T11:14:00.000Z",
+          "wordCount": null,
+          "title": "Are Your SaaS Backups as Secure as Your Production Data?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s1600/backup.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmr_pWHGGoDsIhVRmyCKdgq59prGEo4oUwE7B5cwWtEXOajczEMKAkOgdbxCQfoKivdI83xTzKfuFSjcBeWhQkUP19PpPIm_CcJ9dO-xJF8T83BB61sZkj9WUkjDTvjg3WoeJgI-pll8jqtRIM7PPb0Fnu-Qpk6klB7sGBPqrhsgxiB52ulk4RZ_UEA1s/s1600/backup.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Governmental entities in the Middle East, Africa, and Asia are the target of a Chinese advanced persistent threat (APT) group as part of an ongoing cyber espionage campaign dubbed Operation Diplomatic Specter since at least late 2022.\n\"An analysis of this threat actor’s activity reveals long-term espionage operations against at least seven governmental entities,\" Palo Alto Networks",
+          "link": "https://thehackernews.com/2024/05/inside-operation-diplomatic-specter.html",
+          "publishedOn": "2024-05-23T11:14:00.000Z",
+          "wordCount": null,
+          "title": "Inside Operation Diplomatic Specter: Chinese APT Group's Stealthy Tactics Exposed",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetOjivWbM8-lvWBoEXtqy3n6cxhXESjRxC1XdOXP3VCgjBAqgH4-iShIFr3y-nX-gNRiWJjRC7FCCQcFOJevjTkIy5JWpF1Z4n8lohzAKY5uWHX4Ao1XpEOTiE3bg6lXwaL2F8zr3RQSKKu7rQAH89f45u74r2PtchODjXSPvD-npuXfC85GZIf6zu05K/s1600/china.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetOjivWbM8-lvWBoEXtqy3n6cxhXESjRxC1XdOXP3VCgjBAqgH4-iShIFr3y-nX-gNRiWJjRC7FCCQcFOJevjTkIy5JWpF1Z4n8lohzAKY5uWHX4Ao1XpEOTiE3bg6lXwaL2F8zr3RQSKKu7rQAH89f45u74r2PtchODjXSPvD-npuXfC85GZIf6zu05K/s1600/china.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ivanti on Tuesday rolled out fixes to address multiple critical security flaws in Endpoint Manager (EPM) that could be exploited to achieve remote code execution under certain circumstances.\nSix of the 10 vulnerabilities – from CVE-2024-29822 through CVE-2024-29827 (CVSS scores: 9.6) – relate to SQL injection flaws that allow an unauthenticated attacker within the same network to",
