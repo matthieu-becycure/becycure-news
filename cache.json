@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ransomware attacks targeting VMware ESXi infrastructure following an established pattern regardless of the file-encrypting malware deployed.\n\"Virtualization platforms are a core component of organizational IT infrastructure, yet they often suffer from inherent misconfigurations and vulnerabilities, making them a lucrative and highly effective target for threat actors to abuse,\"",
+          "link": "https://thehackernews.com/2024/05/ransomware-attacks-exploit-vmware-esxi.html",
+          "publishedOn": "2024-05-23T17:03:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware Attacks Exploit VMware ESXi Vulnerabilities in Alarming Pattern",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiemf-PMvxq0BrRiBbpx3_uBlifu0KTdvk6SvjSWLxQa2COyn8WixzXcHrRpA8Zh-8tDmTeS2sBpVIaH69eM5O4TCavuyEndvfTvBCDyXetChmekEp22w0Av5PCIytyivYiDr0ikI0DA6ozzMufBtGu5YUeEI9WrIuSj03kapMGuqgwNHwHWe9LlsQhDSj/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiemf-PMvxq0BrRiBbpx3_uBlifu0KTdvk6SvjSWLxQa2COyn8WixzXcHrRpA8Zh-8tDmTeS2sBpVIaH69eM5O4TCavuyEndvfTvBCDyXetChmekEp22w0Av5PCIytyivYiDr0ikI0DA6ozzMufBtGu5YUeEI9WrIuSj03kapMGuqgwNHwHWe9LlsQhDSj/s1600/ransomware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a security flaw impacting Apache Flink, the open-source, unified stream-processing and batch-processing framework, to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2020-17519, the issue relates to a case of improper access control that",
+          "link": "https://thehackernews.com/2024/05/cisa-warns-of-actively-exploited-apache.html",
+          "publishedOn": "2024-05-23T16:44:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Actively Exploited Apache Flink Security Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s1600/apache.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_BPCHREhHQ1Du75lWUU9nN2iRWZMxHLtKBcNliRHVzP-kP6u3LsKxh-rwxEQiNceXWz977qyK90HnokhahAjAFIc6p9P7g500ysl9T_Q_fbiu1T7l_tz61o76Chy-fr4SxUBWjL6bh92sixzFw_7EeWqv91LL4JylanSGkrlxthrta6T6ENvskEuxzjM/s1600/apache.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/new-frontiers-old-tactics-chinese-cyber.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-linked threat actor known as Sharp Panda has expanded their targeting to include governmental organizations in Africa and the Caribbean as part of an ongoing cyber espionage campaign.\n\"The campaign adopts Cobalt Strike Beacon as the payload, enabling backdoor functionalities like C2 communication and command execution while minimizing the exposure of their custom tools,\" Check Point",
