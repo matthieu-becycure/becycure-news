@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T16:44:12.555Z</updated>
+    <updated>2024-05-23T17:11:49.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2898,17 +2898,6 @@ For CISOs and their teams, that means compliance is a time-consuming, high-stake
         <updated>2024-04-24T07:02:00.000Z</updated>
         <summary type="html"><![CDATA[A new malware campaign has been exploiting the updating mechanism of the eScan antivirus software to distribute backdoors and cryptocurrency miners like XMRig through a long-standing threat codenamed GuptiMiner targeting large corporate networks.
 Cybersecurity firm Avast said the activity is the work of a threat actor with possible connections to a North Korean hacking group dubbed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CoralRaider Malware Campaign Exploits CDN Cache to Spread Info-Stealers]]></title>
-        <id>https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html</id>
-        <link href="https://thehackernews.com/2024/04/coralraider-malware-campaign-exploits.html"/>
-        <updated>2024-04-24T04:50:00.000Z</updated>
-        <summary type="html"><![CDATA[A new ongoing malware campaign has been observed distributing three different stealers, such as CryptBot, LummaC2, and Rhadamanthys hosted on Content Delivery Network (CDN) cache domains since at least February 2024.
-Cisco Talos has attributed the activity with moderate confidence to a threat actor tracked as CoralRaider, a suspected Vietnamese-origin]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
