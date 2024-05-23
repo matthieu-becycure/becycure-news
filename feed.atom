@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-23T01:52:59.118Z</updated>
+    <updated>2024-05-23T02:24:50.012Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2839,18 +2839,6 @@ Cybersecurity firm Avast said the activity is the work of a threat actor with po
         <updated>2024-04-24T04:50:00.000Z</updated>
         <summary type="html"><![CDATA[A new ongoing malware campaign has been observed distributing three different stealers, such as CryptBot, LummaC2, and Rhadamanthys hosted on Content Delivery Network (CDN) cache domains since at least February 2024.
 Cisco Talos has attributed the activity with moderate confidence to a threat actor tracked as CoralRaider, a suspected Vietnamese-origin]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache Cordova App Harness Targeted in Dependency Confusion Attack]]></title>
-        <id>https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html</id>
-        <link href="https://thehackernews.com/2024/04/apache-cordova-app-harness-targeted-in.html"/>
-        <updated>2024-04-23T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have identified a dependency confusion vulnerability impacting an archived Apache project called Cordova App Harness.
-Dependency confusion attacks take place owing to the fact that package managers check the public repositories before private registries, thus allowing a threat actor to publish a malicious package with the same name to a public package repository.
-This&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
