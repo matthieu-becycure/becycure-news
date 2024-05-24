@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-24T11:43:37.297Z</updated>
+    <updated>2024-05-24T12:19:38.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar]]></title>
+        <id>https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html</id>
+        <link href="https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html"/>
+        <updated>2024-05-24T11:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't be fooled into thinking that cyber threats are only a problem for large organizations. The truth is that cybercriminals are increasingly targeting smaller businesses, and they're getting smarter every day.
+Join our FREE webinar "Navigating the SMB Threat Landscape: Key Insights from Huntress' Threat Report," in which Jamie Levy — Director of Adversary Tactics at Huntress, a renowned]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?]]></title>
         <id>https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html</id>

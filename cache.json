@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Don't be fooled into thinking that cyber threats are only a problem for large organizations. The truth is that cybercriminals are increasingly targeting smaller businesses, and they're getting smarter every day.\nJoin our FREE webinar \"Navigating the SMB Threat Landscape: Key Insights from Huntress' Threat Report,\" in which Jamie Levy — Director of Adversary Tactics at Huntress, a renowned",
+          "link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
+          "publishedOn": "2024-05-24T11:49:00.000Z",
+          "wordCount": null,
+          "title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s1600/webinar.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s1600/webinar.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Introduction\nThe infamous Colonial pipeline ransomware attack (2021) and SolarWinds supply chain attack (2020) were more than data leaks; they were seismic shifts in cybersecurity. These attacks exposed a critical challenge for Chief Information Security Officers (CISOs): holding their ground while maintaining control over cloud security in the accelerating world of DevOps.",
