@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eOMH0yikc2ziP8w_7miQp1DwkrTONPaXzgc73RsZ-4RZsBi7Yjespp6W3_drwPUPRBDrIgHmhWCbzSndSnIw2nDMWT7TqFNUVZF-p2EW8RkOwsSemxY_mi8CNQNtgf2K03pD5yrDg1oOc38p_5P22w0q0ofhVAl3jlKZ9qX15PnEISMwYvyIq-Sniaf4/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-eOMH0yikc2ziP8w_7miQp1DwkrTONPaXzgc73RsZ-4RZsBi7Yjespp6W3_drwPUPRBDrIgHmhWCbzSndSnIw2nDMWT7TqFNUVZF-p2EW8RkOwsSemxY_mi8CNQNtgf2K03pD5yrDg1oOc38p_5P22w0q0ofhVAl3jlKZ9qX15PnEISMwYvyIq-Sniaf4/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Follow this real-life network attack simulation, covering 6 steps from Initial Access to Data Exfiltration. See how attackers remain undetected with the simplest tools and why you need multiple choke points in your defense strategy.\nSurprisingly, most network attacks are not exceptionally sophisticated, technologically advanced, or reliant on zero-day tools that exploit",
-          "link": "https://thehackernews.com/2024/04/network-threats-step-by-step-attack.html",
-          "publishedOn": "2024-04-25T11:13:00.000Z",
-          "wordCount": null,
-          "title": "Network Threats: A Step-by-Step Attack Demonstration",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDOyS1S888meelUl1cpWWsxFECf0UWUbjcNquQn8TDmo_AFpCSz8bdcg6LefFmQN2FPpH6M9uQwrKctEeNtvlcysjW7jMWzYZjrKzZTJZw-ld57FN-CSTy5tm-E3Azc8-XDLYyOnRZHQzn2UVUNz4btGn4FaT_AecWR4mFZuWBz2xvI77FXRX_BQ42t94/s1600/cato.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDOyS1S888meelUl1cpWWsxFECf0UWUbjcNquQn8TDmo_AFpCSz8bdcg6LefFmQN2FPpH6M9uQwrKctEeNtvlcysjW7jMWzYZjrKzZTJZw-ld57FN-CSTy5tm-E3Azc8-XDLYyOnRZHQzn2UVUNz4btGn4FaT_AecWR4mFZuWBz2xvI77FXRX_BQ42t94/s1600/cato.png"
         }
       ]
     },
@@ -3546,16 +3530,6 @@
           "publishedOn": "2024-04-25T16:18:19.000Z",
           "wordCount": 1330,
           "title": "CERTFR-2024-ALE-007 : Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits MongoDB. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0348/",
-          "publishedOn": "2024-04-25T11:13:31.000Z",
-          "wordCount": 945,
-          "title": "CERTFR-2024-AVI-0348 : Vulnérabilité dans les produits MongoDB (25 avril 2024)",
           "imageUrl": null
         }
       ]
