@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s1600/chrome.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOJ1N6tCmjOK21_YkiAxPX575UKUYrDWZp7fdvLdIDMjrzybEyAPMFSpCwhMo6HQCydt_5FveigTdhS0uYcw_rnLY3W7ZmWQYUpwk3UFoFBzkdkYcpuEZicF6GrbciS6mC-_EjXfuacIPkoBYZXpX7I7SebHPut5eFUqLEzyisD2Dlc0k3d6u9fPqlbTdJ/s1600/chrome.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new malware campaign leveraged two zero-day flaws in Cisco networking gear to deliver custom malware and facilitate covert data collection on target environments.\nCisco Talos, which dubbed the activity ArcaneDoor, attributing it as the handiwork of a previously undocumented sophisticated state-sponsored actor it tracks under the name UAT4356 (aka Storm-1849 by Microsoft).\n\"",
-          "link": "https://thehackernews.com/2024/04/state-sponsored-hackers-exploit-two.html",
-          "publishedOn": "2024-04-25T05:50:00.000Z",
-          "wordCount": null,
-          "title": "State-Sponsored Hackers Exploit Two Cisco Zero-Day Vulnerabilities for Espionage",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2_t8GcML7j7I_THIDx4FdvQGgSjJwnsT4OpcIrj9Sl8qXx19py3ah1B9LpV6Ute_e6RRIRttOdrHMbU5nY4boWOMjiqLh60vaBEJgu2PgiIDBYywajCKkyYi2VYyZG_Tg77inzknAV8Ra6vds_rZnPlkxVzJC-EOfWWAaJiu4k84kq3PKUkO9xg15di1/s1600/cisc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2_t8GcML7j7I_THIDx4FdvQGgSjJwnsT4OpcIrj9Sl8qXx19py3ah1B9LpV6Ute_e6RRIRttOdrHMbU5nY4boWOMjiqLh60vaBEJgu2PgiIDBYywajCKkyYi2VYyZG_Tg77inzknAV8Ra6vds_rZnPlkxVzJC-EOfWWAaJiu4k84kq3PKUkO9xg15di1/s1600/cisc.jpg"
         }
       ]
     },
