@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Introduction\nThe infamous Colonial pipeline ransomware attack (2021) and SolarWinds supply chain attack (2020) were more than data leaks; they were seismic shifts in cybersecurity. These attacks exposed a critical challenge for Chief Information Security Officers (CISOs): holding their ground while maintaining control over cloud security in the accelerating world of DevOps.",
+          "link": "https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html",
+          "publishedOn": "2024-05-24T10:35:00.000Z",
+          "wordCount": null,
+          "title": "DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij92OQITp179Lh8GyMrrxHpgOHGq-opbSJFwmj9RmB-YK_-KfdyCwvk9gmphCXTFXS17_xp9KqhfNi4tWF2A9FIQJV9ngNl-G4feZOMJPCHAnVWwaNeoK-z3Rr1hBtDcIogV-TVUklEhMtEqqwo09bjcJt9x3fGuzwnsul42HMmJI4w3Dn4mufDxtoYk0B/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij92OQITp179Lh8GyMrrxHpgOHGq-opbSJFwmj9RmB-YK_-KfdyCwvk9gmphCXTFXS17_xp9KqhfNi4tWF2A9FIQJV9ngNl-G4feZOMJPCHAnVWwaNeoK-z3Rr1hBtDcIogV-TVUklEhMtEqqwo09bjcJt9x3fGuzwnsul42HMmJI4w3Dn4mufDxtoYk0B/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Thursday rolled out fixes to address a high-severity security flaw in its Chrome browser that it said has been exploited in the wild.\nAssigned the CVE identifier CVE-2024-5274, the vulnerability relates to a type confusion bug in the V8 JavaScript and WebAssembly engine. It was reported by Clément Lecigne of Google's Threat Analysis Group and Brendon Tiszka of",
+          "link": "https://thehackernews.com/2024/05/google-detects-4th-chrome-zero-day-in.html",
+          "publishedOn": "2024-05-24T10:10:00.000Z",
+          "wordCount": null,
+          "title": "Google Detects 4th Chrome Zero-Day in May Actively Under Attack - Update ASAP",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQY2j1dSbQkHtYem6znrRSPDop8X-YNX_3H9RaQAs5Dn65HrCGJWW8mCPZJrbJL-5AEQ5yL0kt84CDrCXxu73n9Eo2q37km-dMyseVRXab0FvdlKBVYKKG3_-sSB_VXEu-5Ukc3AnOdVrm7Ox9nSnCxTdzhmwInkQI33wu_qHWteY7VmQxIPdrwaBUkoEZ/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQY2j1dSbQkHtYem6znrRSPDop8X-YNX_3H9RaQAs5Dn65HrCGJWW8mCPZJrbJL-5AEQ5yL0kt84CDrCXxu73n9Eo2q37km-dMyseVRXab0FvdlKBVYKKG3_-sSB_VXEu-5Ukc3AnOdVrm7Ox9nSnCxTdzhmwInkQI33wu_qHWteY7VmQxIPdrwaBUkoEZ/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/courtroom-software-backdoored-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Malicious actors have backdoored the installer associated with courtroom video recording software developed by Justice AV Solutions (JAVS) to deliver malware that's associated with a known backdoor called RustDoor.\nThe software supply chain attack, tracked as CVE-2024-4978, impacts JAVS Viewer v8.3.7, a component of the JAVS Suite 8 that allows users to create, manage, publish,",
