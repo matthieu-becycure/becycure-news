@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-24T18:31:08.476Z</updated>
+    <updated>2024-05-24T18:43:37.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2969,18 +2969,6 @@ To that end, Keonne Rodriguez, 35, and William Lonergan Hill, 65, have been char
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Postpones Third-Party Cookie Deprecation Amid U.K. Regulatory Scrutiny]]></title>
-        <id>https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html</id>
-        <link href="https://thehackernews.com/2024/04/google-postpones-third-party-cookie.html"/>
-        <updated>2024-04-25T06:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has once again pushed its plans to deprecate third-party tracking cookies in its Chrome web browser as it works to address outstanding competition concerns from U.K. regulators over its Privacy Sandbox initiative.
-The tech giant said it's working closely with the U.K. Competition and Markets Authority (CMA) and hopes to achieve an agreement by the end of the year.
-As part of the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
