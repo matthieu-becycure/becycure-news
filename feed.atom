@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-24T13:27:01.610Z</updated>
+    <updated>2024-05-24T13:43:41.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fake Antivirus Websites Deliver Malware to Android and Windows Devices]]></title>
+        <id>https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html</id>
+        <link href="https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html"/>
+        <updated>2024-05-24T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed making use of fake websites masquerading as legitimate antivirus solutions from Avast, Bitdefender, and Malwarebytes to propagate malware capable of stealing sensitive information from Android and Windows devices.
+"Hosting malicious software through sites which look legitimate is predatory to general consumers, especially those who look to protect their devices]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans les produits IBM (24 mai 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0442</id>

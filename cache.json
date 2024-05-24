@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed making use of fake websites masquerading as legitimate antivirus solutions from Avast, Bitdefender, and Malwarebytes to propagate malware capable of stealing sensitive information from Android and Windows devices.\n\"Hosting malicious software through sites which look legitimate is predatory to general consumers, especially those who look to protect their devices",
+          "link": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
+          "publishedOn": "2024-05-24T12:50:00.000Z",
+          "wordCount": null,
+          "title": "Fake Antivirus Websites Deliver Malware to Android and Windows Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Don't be fooled into thinking that cyber threats are only a problem for large organizations. The truth is that cybercriminals are increasingly targeting smaller businesses, and they're getting smarter every day.\nJoin our FREE webinar \"Navigating the SMB Threat Landscape: Key Insights from Huntress' Threat Report,\" in which Jamie Levy — Director of Adversary Tactics at Huntress, a renowned",
