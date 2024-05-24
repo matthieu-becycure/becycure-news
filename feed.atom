@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-24T00:50:43.679Z</updated>
+    <updated>2024-05-24T01:54:09.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2844,29 +2844,6 @@ As part of the]]></summary>
         <summary type="html"><![CDATA[A new malware campaign leveraged two zero-day flaws in Cisco networking gear to deliver custom malware and facilitate covert data collection on target environments.
 Cisco Talos, which dubbed the activity ArcaneDoor, attributing it as the handiwork of a previously undocumented sophisticated state-sponsored actor it tracks under the name UAT4356 (aka Storm-1849 by Microsoft).
 "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Treasury Sanctions Iranian Firms and Individuals Tied to Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html</id>
-        <link href="https://thehackernews.com/2024/04/us-treasury-sanctions-iranian-firms-and.html"/>
-        <updated>2024-04-24T13:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) on Monday sanctioned two firms and four individuals for their involvement in malicious cyber activities on behalf of the Iranian Islamic Revolutionary Guard Corps Cyber Electronic Command (IRGC-CEC) from at least 2016 to April 2021.
-This includes the front companies Mehrsam Andisheh Saz Nik (MASN) and Dadeh]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike]]></title>
-        <id>https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html</id>
-        <link href="https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html"/>
-        <updated>2024-04-24T13:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an ongoing attack campaign that's leveraging phishing emails to deliver malware called SSLoad.
-The campaign, codenamed FROZEN#SHADOW by Securonix, also involves the deployment of Cobalt Strike and the ConnectWise ScreenConnect remote desktop software.
-"SSLoad is designed to stealthily infiltrate systems, gather sensitive]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
