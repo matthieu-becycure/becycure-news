@@ -3521,16 +3521,6 @@
           "wordCount": 932,
           "title": "CERTFR-2024-AVI-0349 : [SCADA] Vulnérabilité dans les produits Belden (26 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
-          "author": null,
-          "description": "Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD.\n Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées.\n …",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/",
-          "publishedOn": "2024-04-25T16:18:19.000Z",
-          "wordCount": 1330,
-          "title": "CERTFR-2024-ALE-007 : Multiples vulnérabilités dans les produits Cisco (25 avril 2024)",
-          "imageUrl": null
         }
       ]
     }

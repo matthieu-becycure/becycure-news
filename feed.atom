@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-25T04:12:39.715Z</updated>
+    <updated>2024-05-25T04:29:30.874Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2884,18 +2884,6 @@ The shortcoming, tracked as CVE-2024-27956, carries a CVSS score of 9.9 out of 
 The malware could, "aside from standard RAT functionality, change the last write timestamp of a selected file and load any received DLL binary from [command-and-control] server," Avast security researcher Luigino]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-ALE-007 : Multiples vulnérabilités dans les produits Cisco (25 avril 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/</id>
-        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-007/"/>
-        <updated>2024-04-25T16:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Le 24 avril 2024, Cisco a publié trois avis de sécurité concernant des vulnérabilités affectant les équipements de sécurité ASA et FTD.
- Deux d'entre eux concernent les vulnérabilités CVE-2024-20353 et CVE-2024-20359 qui sont activement exploitées dans le cadre d'attaques ciblées.
- …]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
