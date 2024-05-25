@@ -3447,16 +3447,6 @@
           "wordCount": 1230,
           "title": "CERTFR-2024-AVI-0350 : Multiples vulnérabilités dans les produits IBM (26 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Belden. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité..",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0349/",
-          "publishedOn": "2024-04-26T11:11:04.000Z",
-          "wordCount": 932,
-          "title": "CERTFR-2024-AVI-0349 : [SCADA] Vulnérabilité dans les produits Belden (26 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
