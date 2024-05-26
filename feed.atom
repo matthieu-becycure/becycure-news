@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-26T17:09:43.814Z</updated>
+    <updated>2024-05-26T17:27:46.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2762,18 +2762,6 @@ These unprecedented attacks, observed over the last month, are said to be facili
         <updated>2024-04-27T12:47:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a targeted operation against Ukraine that has been found leveraging a nearly seven-year-old flaw in Microsoft Office to deliver Cobalt Strike on compromised systems.
 The attack chain, which took place at the end of 2023 according to Deep Instinct, employs a PowerPoint slideshow file ("signal-2023-12-20-160512.ppsx") as the starting point, with]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bogus npm Packages Used to Trick Software Developers into Installing Malware]]></title>
-        <id>https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html</id>
-        <link href="https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html"/>
-        <updated>2024-04-27T05:12:00.000Z</updated>
-        <summary type="html"><![CDATA[An ongoing social engineering campaign is targeting software developers with bogus npm packages under the guise of a job interview to trick them into downloading a Python backdoor.
-Cybersecurity firm Securonix is tracking the activity under the name DEV#POPPER, linking it to North Korean threat actors.
-"During these fraudulent interviews, the developers are often asked]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
