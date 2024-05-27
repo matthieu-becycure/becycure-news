@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-26T23:43:26.343Z</updated>
+    <updated>2024-05-27T00:51:41.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2751,17 +2751,6 @@ The three flaws, all critical in nature, allow an "adversary with sufficient 
         <updated>2024-04-28T13:52:00.000Z</updated>
         <summary type="html"><![CDATA[Identity and access management (IAM) services provider Okta has warned of a spike in the "frequency and scale" of credential stuffing attacks aimed at online services.
 These unprecedented attacks, observed over the last month, are said to be facilitated by "the broad availability of residential proxy services, lists of previously stolen credentials ('combo lists'), and scripting tools," the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukraine Targeted in Cyberattack Exploiting 7-Year-Old Microsoft Office Flaw]]></title>
-        <id>https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html</id>
-        <link href="https://thehackernews.com/2024/04/ukraine-targeted-in-cyberattack.html"/>
-        <updated>2024-04-27T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a targeted operation against Ukraine that has been found leveraging a nearly seven-year-old flaw in Microsoft Office to deliver Cobalt Strike on compromised systems.
-The attack chain, which took place at the end of 2023 according to Deep Instinct, employs a PowerPoint slideshow file ("signal-2023-12-20-160512.ppsx") as the starting point, with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
