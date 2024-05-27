@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-27T12:46:37.177Z</updated>
+    <updated>2024-05-27T13:12:50.977Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud]]></title>
+        <id>https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html</id>
+        <link href="https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html"/>
+        <updated>2024-05-27T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft is calling attention to a Morocco-based cybercrime group dubbed Storm-0539 that's behind gift card fraud and theft through highly sophisticated email and SMS phishing attacks.
+"Their primary motivation is to steal gift cards and profit by selling them online at a discounted rate," the company said in its latest Cyber Signals report. "We've seen some examples where]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Report: The Dark Side of Phishing Protection]]></title>
         <id>https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html</id>

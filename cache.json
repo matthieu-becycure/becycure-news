@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft is calling attention to a Morocco-based cybercrime group dubbed Storm-0539 that's behind gift card fraud and theft through highly sophisticated email and SMS phishing attacks.\n\"Their primary motivation is to steal gift cards and profit by selling them online at a discounted rate,\" the company said in its latest Cyber Signals report. \"We've seen some examples where",
+          "link": "https://thehackernews.com/2024/05/moroccan-cybercrime-group-steals-up-to.html",
+          "publishedOn": "2024-05-27T12:12:00.000Z",
+          "wordCount": null,
+          "title": "Moroccan Cybercrime Group Steals Up to $100K Daily Through Gift Card Fraud",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Pp-B9n0oLyoWt3WiCPxOpa8Lqsuh6ZIkGPQYwM510J4dhf8nBIZkNrmwvj_Ip-On1zfagGJWuy05PKHeiDKRjOASKQhhv_AGP-L1mRyElX5LNESQ2W90z-cCRzpU1LiN7rfZQCFnN34KQip3gmtHn0N2pKqGPtygvbnui2KTLzHBADCyU68h80aR-gKu/s1600/gift-card.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1Pp-B9n0oLyoWt3WiCPxOpa8Lqsuh6ZIkGPQYwM510J4dhf8nBIZkNrmwvj_Ip-On1zfagGJWuy05PKHeiDKRjOASKQhhv_AGP-L1mRyElX5LNESQ2W90z-cCRzpU1LiN7rfZQCFnN34KQip3gmtHn0N2pKqGPtygvbnui2KTLzHBADCyU68h80aR-gKu/s1600/gift-card.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The transition to the cloud, poor password hygiene and the evolution in webpage technologies have all enabled the rise in phishing attacks. But despite sincere efforts by security stakeholders to mitigate them - through email protection, firewall rules and employee education - phishing attacks are still a very risky attack vector.\nA new report by LayerX explores the state of",
