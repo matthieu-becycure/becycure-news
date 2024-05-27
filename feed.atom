@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-27T11:43:50.409Z</updated>
+    <updated>2024-05-27T12:20:14.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Report: The Dark Side of Phishing Protection]]></title>
+        <id>https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html</id>
+        <link href="https://thehackernews.com/2024/05/report-dark-side-of-phishing-protection.html"/>
+        <updated>2024-05-27T11:46:00.000Z</updated>
+        <summary type="html"><![CDATA[The transition to the cloud, poor password hygiene and the evolution in webpage technologies have all enabled the rise in phishing attacks. But despite sincere efforts by security stakeholders to mitigate them - through email protection, firewall rules and employee education - phishing attacks are still a very risky attack vector.
+A new report by LayerX explores the state of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI]]></title>
         <id>https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html</id>
