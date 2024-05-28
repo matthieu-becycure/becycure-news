@@ -3497,16 +3497,6 @@
           "wordCount": 1679,
           "title": "CERTFR-2024-ACT-019 : Bulletin d’actualité CERTFR-2024-ACT-019 (29 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0354/",
-          "publishedOn": "2024-04-29T07:58:54.000Z",
-          "wordCount": 1221,
-          "title": "CERTFR-2024-AVI-0354 : Multiples vulnérabilités dans les produits Qnap (29 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
