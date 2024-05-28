@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-28T22:43:33.267Z</updated>
+    <updated>2024-05-28T23:11:28.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2821,27 +2821,6 @@ Cloud security firm Infoblox described the threat actor as likely affiliated wit
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating the Threat Landscape: Understanding Exposure Management, Pentesting, Red Teaming and RBVM]]></title>
-        <id>https://thehackernews.com/2024/04/navigating-threat-landscape.html</id>
-        <link href="https://thehackernews.com/2024/04/navigating-threat-landscape.html"/>
-        <updated>2024-04-29T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[It comes as no surprise that today's cyber threats are orders of magnitude more complex than those of the past. And the ever-evolving tactics that attackers use demand the adoption of better, more holistic and consolidated ways to meet this non-stop challenge. Security teams constantly look for ways to reduce risk while improving security posture, but many]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New R Programming Vulnerability Exposes Projects to Supply Chain Attacks]]></title>
-        <id>https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html</id>
-        <link href="https://thehackernews.com/2024/04/new-r-programming-vulnerability-exposes.html"/>
-        <updated>2024-04-29T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[A security vulnerability has been discovered in the R programming language that could be exploited by a threat actor to create a malicious RDS (R Data Serialization) file such that it results in code execution when loaded and referenced.
-The flaw, assigned the CVE identifier CVE-2024-27322, "involves the use of promise objects and lazy evaluation in R," AI application security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
