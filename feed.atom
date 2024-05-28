@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-28T11:23:57.043Z</updated>
+    <updated>2024-05-28T11:43:45.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets]]></title>
+        <id>https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html</id>
+        <link href="https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html"/>
+        <updated>2024-05-28T11:12:00.000Z</updated>
+        <summary type="html"><![CDATA[You’re probably familiar with the term “critical assets”.
+These are the technology assets within your company's IT infrastructure that are essential to the functioning of your organization. If anything happens to these assets, such as application servers, databases, or privileged identities, the ramifications to your security posture can be severe. 
+But is every technology asset considered]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Warn of CatDDoS Botnet and DNSBomb DDoS Attack Technique]]></title>
         <id>https://thehackernews.com/2024/05/researchers-warn-of-catddos-botnet-and.html</id>
