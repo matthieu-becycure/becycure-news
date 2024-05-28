@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-28T13:12:56.330Z</updated>
+    <updated>2024-05-28T13:27:16.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian National Pleads Guilty to $37 Million Cryptocurrency Theft Scheme]]></title>
+        <id>https://thehackernews.com/2024/05/indian-national-pleads-guilty-to-37.html</id>
+        <link href="https://thehackernews.com/2024/05/indian-national-pleads-guilty-to-37.html"/>
+        <updated>2024-05-28T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[An Indian national has pleaded guilty in the U.S. over charges of stealing more than $37 million by setting up a website that impersonated the Coinbase cryptocurrency exchange platform.
+Chirag Tomar, 30, pleaded guilty to wire fraud conspiracy, which carries a maximum sentence of 20 years in prison and a $250,000 fine. He was arrested on December 20, 2023, upon entering the country.
+"Tomar and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4-Step Approach to Mapping and Securing Your Organization's Most Critical Assets]]></title>
         <id>https://thehackernews.com/2024/05/4-step-approach-to-mapping-and-securing.html</id>
