@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-29T10:43:29.231Z</updated>
+    <updated>2024-05-29T11:09:52.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Uncovers 'Moonstone Sleet' — New North Korean Hacker Group]]></title>
+        <id>https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html</id>
+        <link href="https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html"/>
+        <updated>2024-05-29T10:35:00.000Z</updated>
+        <summary type="html"><![CDATA[A never-before-seen North Korean threat actor codenamed Moonstone Sleet has been attributed as behind cyber attacks targeting individuals and organizations in the software and information technology, education, and defense industrial base sectors with ransomware and bespoke malware previously associated with the infamous Lazarus Group.
+"Moonstone Sleet is observed to set up fake companies and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BreachForums Returns Just Weeks After FBI Seizure - Honeypot or Blunder?]]></title>
         <id>https://thehackernews.com/2024/05/breachforums-returns-just-weeks-after.html</id>

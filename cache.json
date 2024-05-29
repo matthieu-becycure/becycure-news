@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A never-before-seen North Korean threat actor codenamed Moonstone Sleet has been attributed as behind cyber attacks targeting individuals and organizations in the software and information technology, education, and defense industrial base sectors with ransomware and bespoke malware previously associated with the infamous Lazarus Group.\n\"Moonstone Sleet is observed to set up fake companies and",
+          "link": "https://thehackernews.com/2024/05/microsoft-uncovers-moonstone-sleet-new.html",
+          "publishedOn": "2024-05-29T10:35:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Uncovers 'Moonstone Sleet' — New North Korean Hacker Group",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkI-x1100w5YtZC83Qrwi6iRsWVk7Sn7UPUzwkN8kY7Ogvt8_sJ7nD9hJnBzLjBx5GpKlbtiJgSstddN4DTiTtfWuNAHMBdcjVtn9e0GmfFJjPfH5-zyV5JXcwQfTFMWlsiXRywEx4YBGYxUb2oDPy_iYgRxSYuM5LaK_kRhbkUtfnxG6cAEhfqE0dqyoB/s1600/north-korean-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkI-x1100w5YtZC83Qrwi6iRsWVk7Sn7UPUzwkN8kY7Ogvt8_sJ7nD9hJnBzLjBx5GpKlbtiJgSstddN4DTiTtfWuNAHMBdcjVtn9e0GmfFJjPfH5-zyV5JXcwQfTFMWlsiXRywEx4YBGYxUb2oDPy_iYgRxSYuM5LaK_kRhbkUtfnxG6cAEhfqE0dqyoB/s1600/north-korean-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/breachforums-returns-just-weeks-after.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The online criminal bazaar BreachForums has been resurrected merely two weeks after a U.S.-led coordinated law enforcement action dismantled and seized control of its infrastructure.\nCybersecurity researchers and dark web trackers Brett Callow, Dark Web Informer, and FalconFeeds revealed the site's online return at breachforums[.]st – one of the dismantled sites – by a user named ShinyHunters,",
