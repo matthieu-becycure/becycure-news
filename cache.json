@@ -2189,6 +2189,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. Check Point indique que la vulnérabilité CVE-2024-24919 est activement exploitée.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449",
+          "publishedOn": "2024-05-29T14:18:02.000Z",
+          "wordCount": 413,
+          "title": "Vulnérabilité dans les produits Check Point (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448",
+          "publishedOn": "2024-05-29T13:11:01.000Z",
+          "wordCount": 322,
+          "title": "Multiples vulnérabilités dans Nagios XI (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447",
+          "publishedOn": "2024-05-29T12:16:29.000Z",
+          "wordCount": 321,
+          "title": "Vulnérabilité dans SPIP (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446",
+          "publishedOn": "2024-05-29T09:18:06.000Z",
+          "wordCount": 362,
+          "title": "Vulnérabilité dans OpenSSL (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445",
+          "publishedOn": "2024-05-29T09:11:02.000Z",
+          "wordCount": 336,
+          "title": "Vulnérabilité dans Spring Cloud Skipper (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Citrix Workspace app pour Mac. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444",
+          "publishedOn": "2024-05-29T08:04:50.000Z",
+          "wordCount": 328,
+          "title": "Vulnérabilité dans Citrix Workspace app pour Mac (29 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-023",
           "author": null,
           "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
