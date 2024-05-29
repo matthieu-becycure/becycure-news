@@ -3543,16 +3543,6 @@
           "wordCount": 993,
           "title": "CERTFR-2024-AVI-0357 : Multiples vulnérabilités dans Cisco IP Phone (02 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Nessus Network Monitor. Elles permettent à un attaquant de provoquer un déni de service et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0356/",
-          "publishedOn": "2024-04-30T05:19:42.000Z",
-          "wordCount": 959,
-          "title": "CERTFR-2024-AVI-0356 : Multiples vulnérabilités dans Tenable Nessus Network Monitor (30 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
