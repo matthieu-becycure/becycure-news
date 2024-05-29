@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have warned of a new malicious Python package that has been discovered in the Python Package Index (PyPI) repository to facilitate cryptocurrency theft as part of a broader campaign.\nThe package in question is pytoileur, which has been downloaded 316 times as of writing. Interestingly, the package author, who goes by the name PhilipsPY, has uploaded a new version of the",
+          "link": "https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html",
+          "publishedOn": "2024-05-29T17:22:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Abuse StackOverflow to Promote Malicious Python Package",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpwYCtgh66IBPc9X1QdLiJ8pP1PFmwmzD94qTeS-FPqpgpdNRgAHCaf8evh6Y7j0XRjrb51Y_T0yw3bOgcj2gKCe73tuRFld6mEGKYQh1_NshybQVUI_LzFDA9uyr1zuI4gT5tn-ryUOzDh-I4UO9dwwPrz0utACFRjhBCamAuhSF3sENCX8XpBlJm8wIL/s1600/py.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpwYCtgh66IBPc9X1QdLiJ8pP1PFmwmzD94qTeS-FPqpgpdNRgAHCaf8evh6Y7j0XRjrb51Y_T0yw3bOgcj2gKCe73tuRFld6mEGKYQh1_NshybQVUI_LzFDA9uyr1zuI4gT5tn-ryUOzDh-I4UO9dwwPrz0utACFRjhBCamAuhSF3sENCX8XpBlJm8wIL/s1600/py.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/check-point-warns-of-zero-day-attacks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Check Point is warning of a zero-day vulnerability in its Network Security gateway products that threat actors have exploited in the wild.\nTracked as CVE-2024-24919, the issue impacts CloudGuard Network, Quantum Maestro, Quantum Scalable Chassis, Quantum Security Gateways, and Quantum Spark appliances.\n\"The vulnerability potentially allows an attacker to read certain information on",
@@ -2180,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02a1Tazh7Fugr5KFSouik52lSE-Z3kxkwVvc3QYGnwJ9z1r-23MMtHTrMY7Bbsjba2igKYrNwWMUlQ8P5gQhfViZrvQ2wDx-YgO8nHqhBCZUcDUnZgZl0mgVKByOvgWMuLmVQf7Iv7KG2w3QftwzJACTLoH9z7VsyZCXWpafusiwdU3DvI_fZ57xt97o/s1600/ot.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj02a1Tazh7Fugr5KFSouik52lSE-Z3kxkwVvc3QYGnwJ9z1r-23MMtHTrMY7Bbsjba2igKYrNwWMUlQ8P5gQhfViZrvQ2wDx-YgO8nHqhBCZUcDUnZgZl0mgVKByOvgWMuLmVQf7Iv7KG2w3QftwzJACTLoH9z7VsyZCXWpafusiwdU3DvI_fZ57xt97o/s1600/ot.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.K. National Cyber Security Centre (NCSC) is calling on manufacturers of smart devices to comply with new legislation that prohibits them from using default passwords, effective April 29, 2024.\n\"The law, known as the Product Security and Telecommunications Infrastructure act (or PSTI act), will help consumers to choose smart devices that have been designed to",
-          "link": "https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html",
-          "publishedOn": "2024-04-30T05:57:00.000Z",
-          "wordCount": null,
-          "title": "New U.K. Law Bans Default Passwords on Smart Devices Starting April 2024",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9EsRtxSHanSFrxOnJU0e0_qcEPNiZcQdsurPGExeS3pABm2OY-UKCn3aRhOnAef5GOONKdyv_J_qcvRpF15VIW0QSt1SfMAeql5sm_R8HV0Sak1kW1RW3gOy8PCtl6Uy-bWxxpVY5Yx5iYb-RJ2TujStKlmjQ2yS4StS-lq_okbkHc8JV9X2SRbaihnW/s1600/password.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI9EsRtxSHanSFrxOnJU0e0_qcEPNiZcQdsurPGExeS3pABm2OY-UKCn3aRhOnAef5GOONKdyv_J_qcvRpF15VIW0QSt1SfMAeql5sm_R8HV0Sak1kW1RW3gOy8PCtl6Uy-bWxxpVY5Yx5iYb-RJ2TujStKlmjQ2yS4StS-lq_okbkHc8JV9X2SRbaihnW/s1600/password.png"
         }
       ]
     },

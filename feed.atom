@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-29T17:43:45.395Z</updated>
+    <updated>2024-05-29T18:13:49.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Abuse StackOverflow to Promote Malicious Python Package]]></title>
+        <id>https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html</id>
+        <link href="https://thehackernews.com/2024/05/cybercriminals-abuse-stackoverflow-to.html"/>
+        <updated>2024-05-29T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have warned of a new malicious Python package that has been discovered in the Python Package Index (PyPI) repository to facilitate cryptocurrency theft as part of a broader campaign.
+The package in question is pytoileur, which has been downloaded 316 times as of writing. Interestingly, the package author, who goes by the name PhilipsPY, has uploaded a new version of the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check Point Warns of Zero-Day Attacks on its VPN Gateway Products]]></title>
         <id>https://thehackernews.com/2024/05/check-point-warns-of-zero-day-attacks.html</id>
@@ -2883,17 +2894,6 @@ As a decision-maker for your organization, you know this well. But no matter how
         <link href="https://thehackernews.com/2024/04/considerations-for-operational.html"/>
         <updated>2024-04-30T10:24:00.000Z</updated>
         <summary type="html"><![CDATA[Operational Technology (OT) refers to the hardware and software used to change, monitor, or control the enterprise's physical devices, processes, and events. Unlike traditional Information Technology (IT) systems, OT systems directly impact the physical world. This unique characteristic of OT brings additional cybersecurity considerations not typically present in conventional IT security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New U.K. Law Bans Default Passwords on Smart Devices Starting April 2024]]></title>
-        <id>https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html</id>
-        <link href="https://thehackernews.com/2024/04/new-uk-law-bans-default-passwords-on.html"/>
-        <updated>2024-04-30T05:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.K. National Cyber Security Centre (NCSC) is calling on manufacturers of smart devices to comply with new legislation that prohibits them from using default passwords, effective April 29, 2024.
-"The law, known as the Product Security and Telecommunications Infrastructure act (or PSTI act), will help consumers to choose smart devices that have been designed to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
