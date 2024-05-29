@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-29T00:54:06.691Z</updated>
+    <updated>2024-05-29T01:57:40.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2788,17 +2788,6 @@ As a decision-maker for your organization, you know this well. But no matter how
         <summary type="html"><![CDATA[Google on Monday revealed that almost 200,000 app submissions to its Play Store for Android were either rejected or remediated to address issues with access to sensitive data such as location or SMS messages over the past year.
 The tech giant also said it blocked 333,000 bad accounts from the app storefront in 2023 for attempting to distribute malware or for repeated policy violations.
 "In 2023,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Linked 'Muddling Meerkat' Hijacks DNS to Map Internet on Global Scale]]></title>
-        <id>https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html</id>
-        <link href="https://thehackernews.com/2024/04/china-linked-muddling-meerkat-hijacks.html"/>
-        <updated>2024-04-29T13:46:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented cyber threat dubbed Muddling Meerkat has been observed undertaking sophisticated domain name system (DNS) activities in a likely effort to evade security measures and conduct reconnaissance of networks across the world since October 2019.
-Cloud security firm Infoblox described the threat actor as likely affiliated with the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
