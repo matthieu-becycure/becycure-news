@@ -3429,16 +3429,6 @@
           "wordCount": 959,
           "title": "CERTFR-2024-AVI-0356 : Multiples vulnérabilités dans Tenable Nessus Network Monitor (30 avril 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0355/",
-          "publishedOn": "2024-04-29T12:41:46.000Z",
-          "wordCount": 978,
-          "title": "CERTFR-2024-AVI-0355 : Multiples vulnérabilités dans Microsoft Edge (29 avril 2024)",
-          "imageUrl": null
         }
       ]
     }
