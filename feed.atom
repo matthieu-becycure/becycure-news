@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-29T22:30:19.619Z</updated>
+    <updated>2024-05-29T22:43:32.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2873,17 +2873,6 @@ As a decision-maker for your organization, you know this well. But no matter how
         <updated>2024-04-30T13:36:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered multiple campaigns targeting Docker Hub by planting millions of malicious "imageless" containers over the past five years, once again underscoring how open-source registries could pave the way for supply chain attacks.
 "Over four million of the repositories in Docker Hub are imageless and have no content except for the repository]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Government Releases New AI Security Guidelines for Critical Infrastructure]]></title>
-        <id>https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html</id>
-        <link href="https://thehackernews.com/2024/04/us-government-releases-new-ai-security.html"/>
-        <updated>2024-04-30T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. government has unveiled new security guidelines aimed at bolstering critical infrastructure against artificial intelligence (AI)-related threats.
-"These guidelines are informed by the whole-of-government effort to assess AI risks across all sixteen critical infrastructure sectors, and address threats both to and from, and involving AI systems," the Department of Homeland Security (DHS)&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
