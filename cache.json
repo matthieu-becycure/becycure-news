@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have warned that multiple high-severity security vulnerabilities in WordPress plugins are being actively exploited by threat actors to create rogue administrator accounts for follow-on exploitation.\n\"These vulnerabilities are found in various WordPress plugins and are prone to unauthenticated stored cross-site scripting (XSS) attacks due to inadequate input sanitization",
+          "link": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
+          "publishedOn": "2024-05-30T13:49:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXZ2HjGB9ebgJZmTu8ttzfcvQqk6Q_tJfAPluUM8vIsgvMiO-qy1gZ7vCIykNtBYaq2PeijLVLEMWn9JIVP1umtNEVtbZ6HG3ZU5YB5LpyMnCRSoN5tiuCziANr0_SsvHus0CwHyh1ZstP1GYL9PWIjtlloGeBZE7Jsq4KzYBpewkBQwIXuLpgk5isl_4/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXZ2HjGB9ebgJZmTu8ttzfcvQqk6Q_tJfAPluUM8vIsgvMiO-qy1gZ7vCIykNtBYaq2PeijLVLEMWn9JIVP1umtNEVtbZ6HG3ZU5YB5LpyMnCRSoN5tiuCziANr0_SsvHus0CwHyh1ZstP1GYL9PWIjtlloGeBZE7Jsq4KzYBpewkBQwIXuLpgk5isl_4/s1600/wordpress.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/how-to-build-your-autonomous-soc.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security leaders are in a tricky position trying to discern how much new AI-driven cybersecurity tools could actually benefit a security operations center (SOC). The hype about generative AI is still everywhere, but security teams have to live in reality. They face constantly incoming alerts from endpoint security platforms, SIEM tools, and phishing emails reported by internal users. Security",
@@ -2220,6 +2236,16 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004",
+          "author": null,
+          "description": "Entre le 27 et le 29 mai 2024, une opération de démantèlement de plusieurs infrastructures liées à des codes cybercriminels a été menée dans le cadre d’une coopération judiciaire internationale impliquant les autorités allemandes, néerlandaises, danoises, françaises, britanniques et américaines....",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004",
+          "publishedOn": "2024-05-30T12:58:03.000Z",
+          "wordCount": 1809,
+          "title": "Opération ENDGAME (30 mai 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453",
           "author": null,
