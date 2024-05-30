@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-30T18:15:45.442Z</updated>
+    <updated>2024-05-30T18:32:59.043Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3010,17 +3010,6 @@ As a decision-maker for your organization, you know this well. But no matter how
         <updated>2024-05-01T10:27:00.000Z</updated>
         <summary type="html"><![CDATA[The authors behind the resurfaced ZLoader malware have added a feature that was originally present in the Zeus banking trojan that it's based on, indicating that it's being actively developed.
 "The latest version, 2.4.1.0, introduces a feature to prevent execution on machines that differ from the original infection," Zscaler ThreatLabz researcher Santiago]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-NSA Employee Sentenced to 22 Years for Trying to Sell U.S. Secrets to Russia]]></title>
-        <id>https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html</id>
-        <link href="https://thehackernews.com/2024/05/ex-nsa-employee-sentenced-to-22-years.html"/>
-        <updated>2024-05-01T06:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A former employee of the U.S. National Security Agency (NSA) has been sentenced to nearly 22 years (262 months) in prison for attempting to transfer classified documents to Russia.
-"This sentence should serve as a stark warning to all those entrusted with protecting national defense information that there are consequences to betraying that trust," said FBI Director Christopher Wray.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
