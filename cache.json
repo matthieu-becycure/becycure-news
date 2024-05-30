@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Europol on Thursday said it shut down the infrastructure associated with several malware loader operations such as IcedID, SystemBC, PikaBot, SmokeLoader, Bumblebee, and TrickBot as part of a coordinated law enforcement effort codenamed Operation Endgame.\n\"The actions focused on disrupting criminal services through arresting High Value Targets, taking down the criminal infrastructures and",
+          "link": "https://thehackernews.com/2024/05/europol-dismantles-100-servers-linked.html",
+          "publishedOn": "2024-05-30T10:40:00.000Z",
+          "wordCount": null,
+          "title": "Europol Shuts Down 100+ Servers Linked to IcedID, TrickBot, and Other Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) on Wednesday said it dismantled what it described as \"likely the world's largest botnet ever,\" which consisted of an army of 19 million infected devices that was leased to other threat actors to commit a wide array of offenses.\nThe botnet, which has a global footprint spanning more than 190 countries, functioned as a residential proxy service known as 911 S5.",
