@@ -2221,6 +2221,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453",
+          "publishedOn": "2024-05-30T09:29:19.000Z",
+          "wordCount": 335,
+          "title": "Vulnérabilité dans Ivanti Endpoint Manager (30 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. L'éditeur indique avoir connaissance de tentatives d'exploitation depuis le 30 avril 2024. Le CERT-FR a connaissance de l’exploitation de cette...",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008",
+          "publishedOn": "2024-05-30T09:07:27.000Z",
+          "wordCount": 511,
+          "title": "Vulnérabilité dans les produits Check Point  (30 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0452",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans StormShield SSL VPN Client. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0452",
+          "publishedOn": "2024-05-30T07:26:01.000Z",
+          "wordCount": 339,
+          "title": "Multiples vulnérabilités dans StormShield SSL VPN Client (30 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0451",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Mitel MiVoice MX-ONE. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0451",
+          "publishedOn": "2024-05-30T07:21:02.000Z",
+          "wordCount": 324,
+          "title": "Vulnérabilité dans Mitel MiVoice MX-ONE (30 mai 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0450",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Nginx. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0450",
+          "publishedOn": "2024-05-30T07:20:44.000Z",
+          "wordCount": 356,
+          "title": "Multiples vulnérabilités dans Nginx (30 mai 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. Check Point indique que la vulnérabilité CVE-2024-24919 est activement exploitée.",
