@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-30T22:43:24.479Z</updated>
+    <updated>2024-05-30T23:11:37.198Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2988,17 +2988,6 @@ The findings come from Elliptic in collaboration with researchers from the&]]
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously undocumented malware targeting Android devices that uses compromised WordPress sites as relays for its actual command-and-control (C2) servers for detection evasion.
 The malware, codenamed Wpeeper, is an ELF binary that leverages the HTTPS protocol to secure its C2 communications.
 "Wpeeper is a typical backdoor Trojan for Android]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone's an Expert: How to Empower Your Employees for Cybersecurity Success]]></title>
-        <id>https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html</id>
-        <link href="https://thehackernews.com/2024/05/everyones-expert-how-to-empower-your.html"/>
-        <updated>2024-05-01T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a natural human desire to avoid threatening scenarios. The irony, of course, is if you hope to attain any semblance of security, you’ve got to remain prepared to confront those very same threats.
-As a decision-maker for your organization, you know this well. But no matter how many experts or trusted cybersecurity tools your organization has a standing guard,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
