@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-30T09:12:38.994Z</updated>
+    <updated>2024-05-30T09:26:59.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Dismantles World's Largest 911 S5 Botnet, with 19 Million Infected Devices]]></title>
+        <id>https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html</id>
+        <link href="https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html"/>
+        <updated>2024-05-30T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday said it dismantled what it described as "likely the world's largest botnet ever," which consisted of an army of 19 million infected devices that was leased to other threat actors to commit a wide array of offenses.
+The botnet, which has a global footprint spanning more than 190 countries, functioned as a residential proxy service known as 911 S5.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Okta Warns of Credential Stuffing Attacks Targeting Customer Identity Cloud]]></title>
         <id>https://thehackernews.com/2024/05/okta-warns-of-credential-stuffing.html</id>
