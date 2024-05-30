@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-30T00:51:08.172Z</updated>
+    <updated>2024-05-30T01:56:05.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2862,17 +2862,6 @@ As a decision-maker for your organization, you know this well. But no matter how
         <updated>2024-05-01T06:32:00.000Z</updated>
         <summary type="html"><![CDATA[A former employee of the U.S. National Security Agency (NSA) has been sentenced to nearly 22 years (262 months) in prison for attempting to transfer classified documents to Russia.
 "This sentence should serve as a stark warning to all those entrusted with protecting national defense information that there are consequences to betraying that trust," said FBI Director Christopher Wray.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Millions of Malicious 'Imageless' Containers Planted on Docker Hub Over 5 Years]]></title>
-        <id>https://thehackernews.com/2024/04/millions-of-malicious-imageless.html</id>
-        <link href="https://thehackernews.com/2024/04/millions-of-malicious-imageless.html"/>
-        <updated>2024-04-30T13:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered multiple campaigns targeting Docker Hub by planting millions of malicious "imageless" containers over the past five years, once again underscoring how open-source registries could pave the way for supply chain attacks.
-"Over four million of the repositories in Docker Hub are imageless and have no content except for the repository]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
