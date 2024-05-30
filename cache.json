@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the RedTail cryptocurrency mining malware have added a recently disclosed security flaw impacting Palo Alto Networks firewalls to its exploit arsenal.\nThe addition of the PAN-OS vulnerability to its toolkit has been complemented by updates to the malware, which now incorporates new anti-analysis techniques, according to findings from web infrastructure and security",
+          "link": "https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html",
+          "publishedOn": "2024-05-30T14:24:00.000Z",
+          "wordCount": null,
+          "title": "RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s1600/palo.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s1600/palo.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have warned that multiple high-severity security vulnerabilities in WordPress plugins are being actively exploited by threat actors to create rogue administrator accounts for follow-on exploitation.\n\"These vulnerabilities are found in various WordPress plugins and are prone to unauthenticated stored cross-site scripting (XSS) attacks due to inadequate input sanitization",

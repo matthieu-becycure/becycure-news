@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-30T14:43:35.335Z</updated>
+    <updated>2024-05-30T15:11:48.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html</id>
+        <link href="https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html"/>
+        <updated>2024-05-30T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the RedTail cryptocurrency mining malware have added a recently disclosed security flaw impacting Palo Alto Networks firewalls to its exploit arsenal.
+The addition of the PAN-OS vulnerability to its toolkit has been complemented by updates to the malware, which now incorporates new anti-analysis techniques, according to findings from web infrastructure and security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities]]></title>
         <id>https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html</id>
