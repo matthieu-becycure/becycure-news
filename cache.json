@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "More than 600,000 small office/home office (SOHO) routers are estimated to have been bricked and taken offline following a destructive cyber attack staged by unidentified cyber actors, disrupting users' access to the internet.\nThe mysterious event, which took place between October 25 and 27, 2023, and impacted a single internet service provider (ISP) in the U.S., has been codenamed Pumpkin",
+          "link": "https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html",
+          "publishedOn": "2024-05-31T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4qNrTWSCWvP6osbw_wVN0Ha4-mI_pulRm75k2EYj6D3Emw7umiMnKa1TdwJQhBmfFD4QocAmje6AS2_zaIsgAJsRGflKl2NFn10y_T_LyczAYc8Leul9U_hrX1ki9lOGWzYVWFqMjfba2IlgTOrZIyokIMJWMd6ppj0Q3IC-UylP6X7kxA-R2v5PDwg4/s1600/soho.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4qNrTWSCWvP6osbw_wVN0Ha4-mI_pulRm75k2EYj6D3Emw7umiMnKa1TdwJQhBmfFD4QocAmje6AS2_zaIsgAJsRGflKl2NFn10y_T_LyczAYc8Leul9U_hrX1ki9lOGWzYVWFqMjfba2IlgTOrZIyokIMJWMd6ppj0Q3IC-UylP6X7kxA-R2v5PDwg4/s1600/soho.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft has emphasized the need for securing internet-exposed operational technology (OT) devices following a spate of cyber attacks targeting such environments since late 2023.\n\"These repeated attacks against OT devices emphasize the crucial need to improve the security posture of OT devices and prevent critical systems from becoming easy targets,\" the Microsoft Threat Intelligence team said.",

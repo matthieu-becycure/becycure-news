@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T17:43:33.174Z</updated>
+    <updated>2024-05-31T18:14:11.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mysterious Cyber Attack Took Down 600,000+ Routers in the U.S.]]></title>
+        <id>https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html</id>
+        <link href="https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html"/>
+        <updated>2024-05-31T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 600,000 small office/home office (SOHO) routers are estimated to have been bricked and taken offline following a destructive cyber attack staged by unidentified cyber actors, disrupting users' access to the internet.
+The mysterious event, which took place between October 25 and 27, 2023, and impacted a single internet service provider (ISP) in the U.S., has been codenamed Pumpkin]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices]]></title>
         <id>https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html</id>
