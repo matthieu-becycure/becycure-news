@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T16:43:35.812Z</updated>
+    <updated>2024-05-31T17:10:19.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3057,17 +3057,6 @@ The vulnerability in question is CVE-2015-2051 (CVSS score: 9.8), which affect
         <updated>2024-05-02T06:15:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical flaw impacting GitLab to its Known Exploited Vulnerabilities (KEV) catalog, owing to active exploitation in the wild.
 Tracked as CVE-2023-7028 (CVSS score: 10.0), the maximum severity vulnerability could facilitate account takeover by sending password reset emails to an unverified email]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cuttlefish Malware Hijacks Router Connections, Sniffs for Cloud Credentials]]></title>
-        <id>https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html</id>
-        <link href="https://thehackernews.com/2024/05/new-cuttlefish-malware-hijacks-router.html"/>
-        <updated>2024-05-02T05:04:00.000Z</updated>
-        <summary type="html"><![CDATA[A new malware called Cuttlefish is targeting small office and home office (SOHO) routers with the goal of stealthily monitoring all traffic through the devices and gather authentication data from HTTP GET and POST requests.
-"This malware is modular, designed primarily to steal authentication material found in web requests that transit the router from the adjacent]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
