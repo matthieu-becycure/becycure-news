@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T14:10:08.418Z</updated>
+    <updated>2024-05-31T14:28:12.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices]]></title>
+        <id>https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html</id>
+        <link href="https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html"/>
+        <updated>2024-05-31T13:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has emphasized the need for securing internet-exposed operational technology (OT) devices following a spate of cyber attacks targeting such environments since late 2023.
+"These repeated attacks against OT devices emphasize the crucial need to improve the security posture of OT devices and prevent critical systems from becoming easy targets," the Microsoft Threat Intelligence team said.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond Threat Detection – A Race to Digital Security]]></title>
         <id>https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has emphasized the need for securing internet-exposed operational technology (OT) devices following a spate of cyber attacks targeting such environments since late 2023.\n\"These repeated attacks against OT devices emphasize the crucial need to improve the security posture of OT devices and prevent critical systems from becoming easy targets,\" the Microsoft Threat Intelligence team said.",
+          "link": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
+          "publishedOn": "2024-05-31T13:42:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhr0XVPZUAeGKXtjMGHPkiYeINtEq0FNhhJQW226VK-A674Dw-CfCTP7Im6Glf-vD-jHbB-j0sC9i3HkIw2vPExTCLy8tiyfcuramj9hPmhvVOE_nn1IlSN0crVAHVNMZ72Qi5SOsfnXGwoewakcdKooqJPwWfzQXY7_UZlDLdeWUocJavZu5YPEDK7Wcm/s1600/OT.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhr0XVPZUAeGKXtjMGHPkiYeINtEq0FNhhJQW226VK-A674Dw-CfCTP7Im6Glf-vD-jHbB-j0sC9i3HkIw2vPExTCLy8tiyfcuramj9hPmhvVOE_nn1IlSN0crVAHVNMZ72Qi5SOsfnXGwoewakcdKooqJPwWfzQXY7_UZlDLdeWUocJavZu5YPEDK7Wcm/s1600/OT.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Digital content is a double-edged sword, providing vast benefits while simultaneously posing significant threats to organizations across the globe. The sharing of digital content has increased significantly in recent years, mainly via email, digital documents, and chat. In turn, this has created an expansive attack surface and has made ‘digital content’ the preferred carrier for cybercriminals",
