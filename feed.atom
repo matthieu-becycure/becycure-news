@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T00:51:53.447Z</updated>
+    <updated>2024-05-31T01:55:44.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2976,18 +2976,6 @@ Tracked as CVE-2023-7028 (CVSS score: 10.0), the maximum severity vulnerabilit
         <updated>2024-05-01T14:25:00.000Z</updated>
         <summary type="html"><![CDATA[A forensic analysis of a graph dataset containing transactions on the Bitcoin blockchain has revealed clusters associated with illicit activity and money laundering, including detecting criminal proceeds sent to a crypto exchange and previously unknown wallets belonging to a Russian darknet market.
 The findings come from Elliptic in collaboration with researchers from the&]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Malware Wpeeper Uses Compromised WordPress Sites to Hide C2 Servers]]></title>
-        <id>https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html</id>
-        <link href="https://thehackernews.com/2024/05/android-malware-wpeeper-uses.html"/>
-        <updated>2024-05-01T13:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously undocumented malware targeting Android devices that uses compromised WordPress sites as relays for its actual command-and-control (C2) servers for detection evasion.
-The malware, codenamed Wpeeper, is an ELF binary that leverages the HTTPS protocol to secure its C2 communications.
-"Wpeeper is a typical backdoor Trojan for Android]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
