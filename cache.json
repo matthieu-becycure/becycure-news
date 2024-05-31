@@ -3687,16 +3687,6 @@
           "wordCount": 952,
           "title": "CERTFR-2024-AVI-0361 : Multiples vulnérabilités dans PostgreSQL pgAdmin (03 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans SonicWall GMS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0360/",
-          "publishedOn": "2024-05-02T07:13:09.000Z",
-          "wordCount": 953,
-          "title": "CERTFR-2024-AVI-0360 : Multiples vulnérabilités dans dans SonicWall GMS (02 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
