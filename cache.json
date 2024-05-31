@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian GRU-backed threat actor APT28 has been attributed as behind a series of campaigns targeting networks across Europe with the HeadLace malware and credential-harvesting web pages.\nAPT28, also known by the names BlueDelta, Fancy Bear, Forest Blizzard, FROZENLAKE, Iron Twilight, ITG05, Pawn Storm, Sednit, Sofacy, and TA422, is an advanced persistent threat (APT) group affiliated with",
+          "link": "https://thehackernews.com/2024/05/russian-hackers-target-europe-with.html",
+          "publishedOn": "2024-05-31T10:10:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Target Europe with HeadLace Malware and Credential Harvesting",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqgDqbirJixJ8up6WN4btsQDXxoXl5eP-SzYw9jfSLVvz0g49uQ0t8hBw9zYe4L5KxopvZ6dFhCLs-UurcJtaC_aod6IH4grzzTNMdf3E2VNwtbyMLADZ83Ypw5YvJssC00RFn1YS9ZoOEtgBOvdERJwSSSAGfq2J9Fyx830vF4Vb0P5fZxoUfzlPyAEKe/s1600/rf.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqgDqbirJixJ8up6WN4btsQDXxoXl5eP-SzYw9jfSLVvz0g49uQ0t8hBw9zYe4L5KxopvZ6dFhCLs-UurcJtaC_aod6IH4grzzTNMdf3E2VNwtbyMLADZ83Ypw5YvJssC00RFn1YS9ZoOEtgBOvdERJwSSSAGfq2J9Fyx830vF4Vb0P5fZxoUfzlPyAEKe/s1600/rf.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "OpenAI on Thursday disclosed that it took steps to cut off five covert influence operations (IO) originating from China, Iran, Israel, and Russia that sought to abuse its artificial intelligence (AI) tools to manipulate public discourse or political outcomes online while obscuring their true identity.\nThese activities, which were detected over the past three months, used its AI models to",
