@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T01:55:44.397Z</updated>
+    <updated>2024-05-31T02:27:50.197Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2965,17 +2965,6 @@ Tracked as CVE-2023-7028 (CVSS score: 10.0), the maximum severity vulnerabilit
         <updated>2024-05-02T05:04:00.000Z</updated>
         <summary type="html"><![CDATA[A new malware called Cuttlefish is targeting small office and home office (SOHO) routers with the goal of stealthily monitoring all traffic through the devices and gather authentication data from HTTP GET and POST requests.
 "This malware is modular, designed primarily to steal authentication material found in web requests that transit the router from the adjacent]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin Forensic Analysis Uncovers Money Laundering Clusters and Criminal Proceeds]]></title>
-        <id>https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html</id>
-        <link href="https://thehackernews.com/2024/05/bitcoin-forensic-analysis-uncovers.html"/>
-        <updated>2024-05-01T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A forensic analysis of a graph dataset containing transactions on the Bitcoin blockchain has revealed clusters associated with illicit activity and money laundering, including detecting criminal proceeds sent to a crypto exchange and previously unknown wallets belonging to a Russian darknet market.
-The findings come from Elliptic in collaboration with researchers from the&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
