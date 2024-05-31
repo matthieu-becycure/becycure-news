@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T21:43:44.297Z</updated>
+    <updated>2024-05-31T22:10:15.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3006,17 +3006,6 @@ Generally speaking]]></summary>
         <updated>2024-05-02T10:19:00.000Z</updated>
         <summary type="html"><![CDATA[Cloud storage services provider Dropbox on Wednesday disclosed that Dropbox Sign (formerly HelloSign) was breached by unidentified threat actors, who accessed emails, usernames, and general account settings associated with all users of the digital signature product.
 The company, in a filing with the U.S. Securities and Exchange Commission (SEC), said it became aware of the "]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New "Goldoon" Botnet Targets D-Link Routers With Decade-Old Flaw]]></title>
-        <id>https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html</id>
-        <link href="https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html"/>
-        <updated>2024-05-02T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A never-before-seen botnet called Goldoon has been observed targeting D-Link routers with a nearly decade-old critical security flaw with the goal of using the compromised devices for further attacks.
-The vulnerability in question is CVE-2015-2051 (CVSS score: 9.8), which affects D-Link DIR-645 routers and allows remote attackers to execute arbitrary]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

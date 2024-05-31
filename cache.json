@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s1600/dropbox-sign.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS19R9R74AYS4WuYsaqsqsOJcxhX5dQr8ljEj9Ev9kry_2e_9O1sMMKKc5NyJeUkWVa368VL_99g_x6v-rAEpc5JsZwpZ3xRGfXwzKwhjSg-naw-6zc8cJUDfHZFm4_efUzERKtPKaJhZopIEFCqfU4WQGfaVm_Hr8wsX-2ObwHrDjIhkKpOstta_K-Gtq/s1600/dropbox-sign.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A never-before-seen botnet called Goldoon has been observed targeting D-Link routers with a nearly decade-old critical security flaw with the goal of using the compromised devices for further attacks.\nThe vulnerability in question is CVE-2015-2051 (CVSS score: 9.8), which affects D-Link DIR-645 routers and allows remote attackers to execute arbitrary",
-          "link": "https://thehackernews.com/2024/05/new-goldoon-botnet-targets-d-link.html",
-          "publishedOn": "2024-05-02T10:10:00.000Z",
-          "wordCount": null,
-          "title": "New \"Goldoon\" Botnet Targets D-Link Routers With Decade-Old Flaw",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4v5FPWul2o3NA4tu-hE7TeA9riytUfYgvzYOOHYovfEf98OL0GhMOdfL9X8zp0AulqUZX8Hlm9yCmS_hj8E6ZAcoV5-reRixNq44xFiAFmVQrITXumlWmgEastltq14878stV86ttxbcVsPqh173g_wGzO5QU0XsiCpJIa8rC8x4hCE7hKv3q-SdzTFtW/s1600/souter.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4v5FPWul2o3NA4tu-hE7TeA9riytUfYgvzYOOHYovfEf98OL0GhMOdfL9X8zp0AulqUZX8Hlm9yCmS_hj8E6ZAcoV5-reRixNq44xFiAFmVQrITXumlWmgEastltq14878stV86ttxbcVsPqh173g_wGzO5QU0XsiCpJIa8rC8x4hCE7hKv3q-SdzTFtW/s1600/souter.png"
         }
       ]
     },
