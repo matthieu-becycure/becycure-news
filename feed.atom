@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T22:10:15.440Z</updated>
+    <updated>2024-05-31T22:28:54.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2982,30 +2982,6 @@ CVE-2024-26304 (CVSS score: 9.8) - Unauthenticated Buffer Overflow Vulnerabilit
         <updated>2024-05-02T12:26:00.000Z</updated>
         <summary type="html"><![CDATA[A Ukrainian national has been sentenced to more than 13 years in prison and ordered to pay $16 million in restitution for carrying out thousands of ransomware attacks and extorting victims.
 Yaroslav Vasinskyi (aka Rabotnik), 24, along with his co-conspirators part of the REvil ransomware group orchestrated more than 2,500 ransomware attacks and demanded ransom payments in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When is One Vulnerability Scanner Not Enough?]]></title>
-        <id>https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html</id>
-        <link href="https://thehackernews.com/2024/05/when-is-one-vulnerability-scanner-not.html"/>
-        <updated>2024-05-02T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Like antivirus software, vulnerability scans rely on a database of known weaknesses.
-That’s why websites like VirusTotal exist, to give cyber practitioners a chance to see whether a malware sample is detected by multiple virus scanning engines, but this concept hasn’t existed in the vulnerability management space.
-The benefits of using multiple scanning engines 
-Generally speaking]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dropbox Discloses Breach of Digital Signature Service Affecting All Users]]></title>
-        <id>https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html</id>
-        <link href="https://thehackernews.com/2024/05/dropbox-discloses-breach-of-digital.html"/>
-        <updated>2024-05-02T10:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud storage services provider Dropbox on Wednesday disclosed that Dropbox Sign (formerly HelloSign) was breached by unidentified threat actors, who accessed emails, usernames, and general account settings associated with all users of the digital signature product.
-The company, in a filing with the U.S. Securities and Exchange Commission (SEC), said it became aware of the "]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
