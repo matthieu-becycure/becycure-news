@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "OpenAI on Thursday disclosed that it took steps to cut off five covert influence operations (IO) originating from China, Iran, Israel, and Russia that sought to abuse its artificial intelligence (AI) tools to manipulate public discourse or political outcomes online while obscuring their true identity.\nThese activities, which were detected over the past three months, used its AI models to",
+          "link": "https://thehackernews.com/2024/05/openai-meta-tiktok-disrupt-multiple-ai.html",
+          "publishedOn": "2024-05-31T08:11:00.000Z",
+          "wordCount": null,
+          "title": "OpenAI, Meta, TikTok Disrupt Multiple AI-Powered Disinformation Campaigns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5DwGizCk9zAHXKl__9uNACJ5pAihc6jwTzQJdELsuiTAb6sY38Urt-40YQCbGxZBqVc45UZYf7WcEKgGc0iu3m0Sv_aOAmvnqBuOc6h4nk-MF3SN-p65zGlSzzIan0bXFiBeGVRE1ia2g8MtHPyzFHC-auG39IS5pRFV9unP3kFRokXeN8wyKrvSTJjvi/s1600/openai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5DwGizCk9zAHXKl__9uNACJ5pAihc6jwTzQJdELsuiTAb6sY38Urt-40YQCbGxZBqVc45UZYf7WcEKgGc0iu3m0Sv_aOAmvnqBuOc6h4nk-MF3SN-p65zGlSzzIan0bXFiBeGVRE1ia2g8MtHPyzFHC-auG39IS5pRFV9unP3kFRokXeN8wyKrvSTJjvi/s1600/openai.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/cisa-alerts-federal-agencies-to-patch.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a security flaw impacting the Linux kernel to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2024-1086 (CVSS score: 7.8), the high-severity issue relates to a use-after-free bug in the netfilter component that permits a local attacker to elevate privileges",
