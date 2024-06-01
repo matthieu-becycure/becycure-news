@@ -3597,16 +3597,6 @@
           "wordCount": 967,
           "title": "CERTFR-2024-AVI-0362 : Multiples vulnérabilités dans le greffon Media Streaming de Qnap (03 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans PostgreSQL pgAdmin. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0361/",
-          "publishedOn": "2024-05-03T05:38:53.000Z",
-          "wordCount": 952,
-          "title": "CERTFR-2024-AVI-0361 : Multiples vulnérabilités dans PostgreSQL pgAdmin (03 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
