@@ -3539,16 +3539,6 @@
           "wordCount": 2562,
           "title": "CERTFR-2024-AVI-0363 : Multiples vulnérabilités dans le noyau Linux de SUSE (03 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le greffon Media Streaming de Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0362/",
-          "publishedOn": "2024-05-03T11:09:42.000Z",
-          "wordCount": 967,
-          "title": "CERTFR-2024-AVI-0362 : Multiples vulnérabilités dans le greffon Media Streaming de Qnap (03 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
