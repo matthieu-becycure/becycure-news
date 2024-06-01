@@ -3499,16 +3499,6 @@
           "wordCount": 925,
           "title": "CERTFR-2024-AVI-0367 : Vulnérabilité dans SolarWinds Serv-U (06 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0366/",
-          "publishedOn": "2024-05-03T11:31:22.000Z",
-          "wordCount": 1332,
-          "title": "CERTFR-2024-AVI-0366 : Multiples vulnérabilités dans les produits IBM (03 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
