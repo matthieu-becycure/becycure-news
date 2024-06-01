@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF7bwY6WUrT8XUlfXdbeTpgfrmfSdY14HRI1tJXk1VcYavcOvM4Z0_Bgkd3zE31wYdj8XOI7r7VqW6DcdJ9dsvujkuRSFMv95muyzs8QPjZkWALDbN-JsKrprqxYBdjOMtBDQBD6C5q7UnquAeI6HkYXlfjQTLlc5LMOrlCBD4LeZPbHEodHmeZXPjUZE2/s1600/google.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF7bwY6WUrT8XUlfXdbeTpgfrmfSdY14HRI1tJXk1VcYavcOvM4Z0_Bgkd3zE31wYdj8XOI7r7VqW6DcdJ9dsvujkuRSFMv95muyzs8QPjZkWALDbN-JsKrprqxYBdjOMtBDQBD6C5q7UnquAeI6HkYXlfjQTLlc5LMOrlCBD4LeZPbHEodHmeZXPjUZE2/s1600/google.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "HPE Aruba Networking (formerly Aruba Networks) has released security updates to address critical flaws impacting ArubaOS that could result in remote code execution (RCE) on affected systems.\nOf the 10 security defects, four are rated critical in severity -\n\nCVE-2024-26304 (CVSS score: 9.8) - Unauthenticated Buffer Overflow Vulnerability in the L2/L3 Management Service Accessed via",
-          "link": "https://thehackernews.com/2024/05/four-critical-vulnerabilities-expose.html",
-          "publishedOn": "2024-05-03T04:50:00.000Z",
-          "wordCount": null,
-          "title": "Four Critical Vulnerabilities Expose HPE Aruba Devices to RCE Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_NiSACku3pJ34UhfJlL5i5pAXWTJEjWyhyphenhyphencR7-iJS3qoNhs71PrBYlOjixCXAZBW6pA_P-WrCwfgLqmmZdbbUYLaocUZDzPsA6s86pCmeoGlcgArUN1Q4NJmJbEVt2uS9m5hf2lZ1sfAIVBc_T3S7txOYzElo7uqAwlZAJ25R28xEM00pV6LzEaok1AW/s1600/hpe.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ_NiSACku3pJ34UhfJlL5i5pAXWTJEjWyhyphenhyphencR7-iJS3qoNhs71PrBYlOjixCXAZBW6pA_P-WrCwfgLqmmZdbbUYLaocUZDzPsA6s86pCmeoGlcgArUN1Q4NJmJbEVt2uS9m5hf2lZ1sfAIVBc_T3S7txOYzElo7uqAwlZAJ25R28xEM00pV6LzEaok1AW/s1600/hpe.png"
         }
       ]
     },
