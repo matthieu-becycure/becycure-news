@@ -3509,36 +3509,6 @@
           "wordCount": 1332,
           "title": "CERTFR-2024-AVI-0366 : Multiples vulnérabilités dans les produits IBM (03 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0365/",
-          "publishedOn": "2024-05-03T11:25:06.000Z",
-          "wordCount": 994,
-          "title": "CERTFR-2024-AVI-0365 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (03 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de RedHat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0364/",
-          "publishedOn": "2024-05-03T11:22:58.000Z",
-          "wordCount": 2231,
-          "title": "CERTFR-2024-AVI-0364 : Multiples vulnérabilités dans le noyau Linux de RedHat (03 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0363/",
-          "publishedOn": "2024-05-03T11:13:54.000Z",
-          "wordCount": 2562,
-          "title": "CERTFR-2024-AVI-0363 : Multiples vulnérabilités dans le noyau Linux de SUSE (03 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
