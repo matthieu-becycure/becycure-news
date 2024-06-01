@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Artificial Intelligence (AI) company Hugging Face on Friday disclosed that it detected unauthorized access to its Spaces platform earlier this week.\n\"We have suspicions that a subset of Spaces’ secrets could have been accessed without authorization,\" it said in an advisory.\nSpaces offers a way for users to create, host, and share AI and machine learning (ML) applications. It also functions as a",
+          "link": "https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html",
+          "publishedOn": "2024-06-01T07:34:00.000Z",
+          "wordCount": null,
+          "title": "AI Company Hugging Face Notifies Users of Suspected Unauthorized Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKgULChR4YXP1kdJMi9DcpuuPel-a1bikg5-h5bYwwEPJw5HHCVMRBs9CR3E9Ze_cJa4KSL9PHU1at2o42UFxQK_4bXBg5Q-86lapp9rpTfkqfK2XVGyIupaS-b80oPJ731c9_VIj-cB9cNBs-mdEk_pxVKV6DsGUHalxF8PUyKd3OIQvmaLJg9GT8BXpH/s1600/ai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKgULChR4YXP1kdJMi9DcpuuPel-a1bikg5-h5bYwwEPJw5HHCVMRBs9CR3E9Ze_cJa4KSL9PHU1at2o42UFxQK_4bXBg5Q-86lapp9rpTfkqfK2XVGyIupaS-b80oPJ731c9_VIj-cB9cNBs-mdEk_pxVKV6DsGUHalxF8PUyKd3OIQvmaLJg9GT8BXpH/s1600/ai.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/05/mysterious-cyber-attack-takes-down.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More than 600,000 small office/home office (SOHO) routers are estimated to have been bricked and taken offline following a destructive cyber attack staged by unidentified cyber actors, disrupting users' access to the internet.\nThe mysterious event, which took place between October 25 and 27, 2023, and impacted a single internet service provider (ISP) in the U.S., has been codenamed Pumpkin",
