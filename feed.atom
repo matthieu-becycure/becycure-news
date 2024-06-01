@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-05-31T23:43:32.620Z</updated>
+    <updated>2024-06-01T00:54:18.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2971,17 +2971,6 @@ CVE-2024-26304 (CVSS score: 9.8) - Unauthenticated Buffer Overflow Vulnerabilit
         <updated>2024-05-02T14:22:00.000Z</updated>
         <summary type="html"><![CDATA[Several popular Android applications available in Google Play Store are susceptible to a path traversal-affiliated vulnerability that could be exploited by a malicious app to overwrite arbitrary files in the vulnerable app's home directory.
 "The implications of this vulnerability pattern include arbitrary code execution and token theft, depending on an application’s]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ukrainian REvil Hacker Sentenced to 13 Years and Ordered to Pay $16 Million]]></title>
-        <id>https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html</id>
-        <link href="https://thehackernews.com/2024/05/ukrainian-revil-hacker-sentenced-to-13.html"/>
-        <updated>2024-05-02T12:26:00.000Z</updated>
-        <summary type="html"><![CDATA[A Ukrainian national has been sentenced to more than 13 years in prison and ordered to pay $16 million in restitution for carrying out thousands of ransomware attacks and extorting victims.
-Yaroslav Vasinskyi (aka Rabotnik), 24, along with his co-conspirators part of the REvil ransomware group orchestrated more than 2,500 ransomware attacks and demanded ransom payments in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
