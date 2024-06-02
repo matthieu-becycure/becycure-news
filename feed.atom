@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-01T23:43:23.278Z</updated>
+    <updated>2024-06-02T00:54:42.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2844,28 +2844,6 @@ The exact distribution vector is currently unclear, although there are]]></summa
         <updated>2024-05-04T08:38:00.000Z</updated>
         <summary type="html"><![CDATA[Czechia and Germany on Friday revealed that they were the target of a long-term cyber espionage campaign conducted by the Russia-linked nation-state actor known as APT28, drawing condemnation from the European Union (E.U.), the North Atlantic Treaty Organization (NATO), the U.K., and the U.S.
 The Czech Republic's Ministry of Foreign Affairs (MFA), in a statement, said some unnamed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert-Led Webinar - Uncovering Latest DDoS Tactics and Learn How to Fight Back]]></title>
-        <id>https://thehackernews.com/2024/05/expert-led-webinar-learn-latest-ddos.html</id>
-        <link href="https://thehackernews.com/2024/05/expert-led-webinar-learn-latest-ddos.html"/>
-        <updated>2024-05-03T12:53:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's rapidly evolving digital landscape, the threat of Distributed Denial of Service (DDoS) attacks looms more significant than ever. As these cyber threats grow in sophistication, understanding and countering them becomes crucial for any business seeking to protect its online presence.
-To address this urgent need, we are thrilled to announce our upcoming webinar, "Uncovering Contemporary]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Increasingly Abusing Microsoft Graph API for Stealthy Malware Communications]]></title>
-        <id>https://thehackernews.com/2024/05/hackers-increasingly-abusing-microsoft.html</id>
-        <link href="https://thehackernews.com/2024/05/hackers-increasingly-abusing-microsoft.html"/>
-        <updated>2024-05-03T12:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been increasingly weaponizing Microsoft Graph API for malicious purposes with the aim of evading detection.
-This is done to "facilitate communications with command-and-control (C&C) infrastructure hosted on Microsoft cloud services," the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
