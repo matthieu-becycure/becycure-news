@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-03T08:15:29.259Z</updated>
+    <updated>2024-06-03T08:31:19.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andariel Hackers Target South Korean Institutes with New Dora RAT Malware]]></title>
+        <id>https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html</id>
+        <link href="https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html"/>
+        <updated>2024-06-03T07:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-linked threat actor known as Andariel has been observed using a new Golang-based backdoor called Dora RAT in its attacks targeting educational institutes, manufacturing firms, and construction businesses in South Korea.
+"Keylogger, Infostealer, and proxy tools on top of the backdoor were utilized for the attacks," the AhnLab Security Intelligence Center (ASEC) said in a report]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beware: Fake Browser Updates Deliver BitRAT and Lumma Stealer Malware]]></title>
         <id>https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html</id>

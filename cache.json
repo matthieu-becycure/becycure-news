@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korea-linked threat actor known as Andariel has been observed using a new Golang-based backdoor called Dora RAT in its attacks targeting educational institutes, manufacturing firms, and construction businesses in South Korea.\n\"Keylogger, Infostealer, and proxy tools on top of the backdoor were utilized for the attacks,\" the AhnLab Security Intelligence Center (ASEC) said in a report",
+          "link": "https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html",
+          "publishedOn": "2024-06-03T07:34:00.000Z",
+          "wordCount": null,
+          "title": "Andariel Hackers Target South Korean Institutes with New Dora RAT Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW655hLoE7NqzdNqGqd0C7qVOMMyfShvNxQn11B3tDLE7-B3wY_vRCfzMTxKsNBfxez-WrZ73ZArdU-2GgZ2MsRnYxW_ascsZUlDZkEznpO3p1lmFfDwHqVOCI0bKTM2YiRt6IsULtp01VDH2XycRYw2_y-XIvkDgSJiV9-9KCVLXUcNFfbaznlhhl32S4/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiW655hLoE7NqzdNqGqd0C7qVOMMyfShvNxQn11B3tDLE7-B3wY_vRCfzMTxKsNBfxez-WrZ73ZArdU-2GgZ2MsRnYxW_ascsZUlDZkEznpO3p1lmFfDwHqVOCI0bKTM2YiRt6IsULtp01VDH2XycRYw2_y-XIvkDgSJiV9-9KCVLXUcNFfbaznlhhl32S4/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/beware-fake-browser-updates-deliver.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Fake web browser updates are being used to deliver remote access trojans (RATs) and information stealer malware such as BitRAT and Lumma Stealer (aka LummaC2).\n\"Fake browser updates have been responsible for numerous malware infections, including those of the well-known SocGholish malware,\" cybersecurity firm eSentire said in a new report. \"In April 2024, we observed FakeBat being distributed",
