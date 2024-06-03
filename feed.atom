@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-03T10:14:41.398Z</updated>
+    <updated>2024-06-03T10:33:46.962Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions]]></title>
+        <id>https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html</id>
+        <link href="https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html"/>
+        <updated>2024-06-03T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Now-patched authorization bypass issues impacting Cox modems that could have been abused as a starting point to gain unauthorized access to the devices and run malicious commands.
+"This series of vulnerabilities demonstrated a way in which a fully external attacker with no prerequisites could've executed commands and modified the settings of millions of modems, accessed any business customer's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andariel Hackers Target South Korean Institutes with New Dora RAT Malware]]></title>
         <id>https://thehackernews.com/2024/06/andariel-hackers-target-south-korean.html</id>
