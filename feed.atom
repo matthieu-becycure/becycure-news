@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-04T06:43:34.708Z</updated>
+    <updated>2024-06-04T07:10:55.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DarkGate Malware Replaces AutoIt with AutoHotkey in Latest Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html</id>
+        <link href="https://thehackernews.com/2024/06/darkgate-malware-replaces-autoit-with.html"/>
+        <updated>2024-06-04T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Cyber attacks involving the DarkGate malware-as-a-service (MaaS) operation have shifted away from AutoIt scripts to an AutoHotkey mechanism to deliver the last stages, underscoring continued efforts on the part of the threat actors to continuously stay ahead of the detection curve.
+The updates have been observed in version 6 of DarkGate released in March 2024 by its developer RastaFarEye, who]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oracle WebLogic Server OS Command Injection Flaw Under Active Attack]]></title>
         <id>https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html</id>
