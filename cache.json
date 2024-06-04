@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian organizations are at the receiving end of cyber attacks that have been found to deliver a Windows version of a malware called Decoy Dog.\nCybersecurity company Positive Technologies is tracking the activity cluster under the name Operation Lahat, attributing it to an advanced persistent threat (APT) group called HellHounds.\n\"The Hellhounds group compromises organizations they select and",
+          "link": "https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html",
+          "publishedOn": "2024-06-04T15:33:00.000Z",
+          "wordCount": null,
+          "title": "Russian Power Companies, IT Firms, and Govt Agencies Hit by Decoy Dog Trojan",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH8ZcmW9-GH3xeOuEbhWBdb9ccMATnVsBt-PD08_sU44QXp5ULH-TaKlY5RPOlCEgMyMRg7popHFf3YOeN3O0a8-DkFOT7PvFqHlw2oENwN3cpRRc8_Yp5f392iQKwXI_3HenCWBrV5N0i7SromtDghHdFL9JpFz0kHJ_sfbaMbkWg_N-ewSdb0LgZxA1g/s1600/dns.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH8ZcmW9-GH3xeOuEbhWBdb9ccMATnVsBt-PD08_sU44QXp5ULH-TaKlY5RPOlCEgMyMRg7popHFf3YOeN3O0a8-DkFOT7PvFqHlw2oENwN3cpRRc8_Yp5f392iQKwXI_3HenCWBrV5N0i7SromtDghHdFL9JpFz0kHJ_sfbaMbkWg_N-ewSdb0LgZxA1g/s1600/dns.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Progress Software has rolled out updates to address a critical security flaw impacting the Telerik Report Server that could be potentially exploited by a remote attacker to bypass authentication and create rogue administrator users.\nThe issue, tracked as CVE-2024-4358, carries a CVSS score of 9.8 out of a maximum of 10.0.\n\"In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or",
