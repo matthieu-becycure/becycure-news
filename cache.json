@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a security flaw impacting the Oracle WebLogic Server to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2017-3506 (CVSS score: 7.4), the issue concerns an operating system (OS) command injection vulnerability that could be exploited to obtain unauthorized",
+          "link": "https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html",
+          "publishedOn": "2024-06-04T03:25:00.000Z",
+          "wordCount": null,
+          "title": "Oracle WebLogic Server OS Command Injection Flaw Under Active Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s1600/oracle.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s1600/oracle.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new suspicious package uploaded to the npm package registry that's designed to drop a remote access trojan (RAT) on compromised systems.\nThe package in question is glup-debugger-log, which targets users of the gulp toolkit by masquerading as a \"logger for gulp and gulp plugins.\" It has been downloaded 175 times to date.\nSoftware supply chain security",
