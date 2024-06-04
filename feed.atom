@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-04T22:43:27.156Z</updated>
+    <updated>2024-06-04T23:12:11.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2980,17 +2980,6 @@ Dubbed ArcaneDoor, the activity is said to have commenced around July 2023, wit
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It Costs How Much?!? The Financial Pitfalls of Cyberattacks on SMBs]]></title>
-        <id>https://thehackernews.com/2024/05/it-costs-how-much-financial-pitfalls-of.html</id>
-        <link href="https://thehackernews.com/2024/05/it-costs-how-much-financial-pitfalls-of.html"/>
-        <updated>2024-05-06T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybercriminals are vipers. They’re like snakes in the grass, hiding behind their keyboards, waiting to strike. And if you're a small- and medium-sized business (SMB), your organization is the ideal lair for these serpents to slither into. 
-With cybercriminals becoming more sophisticated, SMBs like you must do more to protect themselves. But at what price? That’s the daunting question]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
