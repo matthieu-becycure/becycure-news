@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-04T21:43:33.259Z</updated>
+    <updated>2024-06-04T22:11:17.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2989,17 +2989,6 @@ Dubbed ArcaneDoor, the activity is said to have commenced around July 2023, wit
         <updated>2024-05-06T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cybercriminals are vipers. They’re like snakes in the grass, hiding behind their keyboards, waiting to strike. And if you're a small- and medium-sized business (SMB), your organization is the ideal lair for these serpents to slither into. 
 With cybercriminals becoming more sophisticated, SMBs like you must do more to protect themselves. But at what price? That’s the daunting question]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xiaomi Android Devices Hit by Multiple Flaws Across Apps and System Components]]></title>
-        <id>https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html</id>
-        <link href="https://thehackernews.com/2024/05/xiaomi-android-devices-hit-by-multiple.html"/>
-        <updated>2024-05-06T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple security vulnerabilities have been disclosed in various applications and system components within Xiaomi devices running Android.
-"The vulnerabilities in Xiaomi led to access to arbitrary activities, receivers and services with system privileges, theft of arbitrary files with system privileges, [and] disclosure of phone, settings and Xiaomi account data," mobile security firm]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
