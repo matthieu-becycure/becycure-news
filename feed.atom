@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T11:43:24.654Z</updated>
+    <updated>2024-06-05T12:20:48.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese State-Backed Cyber Espionage Targets Southeast Asian Government]]></title>
+        <id>https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html</id>
+        <link href="https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html"/>
+        <updated>2024-06-05T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[An unnamed high-profile government organization in Southeast Asia emerged as the target of a "complex, long-running" Chinese state-sponsored cyber espionage operation codenamed Crimson Palace.
+"The overall goal behind the campaign was to maintain access to the target network for cyberespionage in support of Chinese state interests," Sophos researchers Paul Jaramillo, Morgan Demboski, Sean]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpacking 2024's SaaS Threat Predictions]]></title>
+        <id>https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html</id>
+        <link href="https://thehackernews.com/2024/06/unpacking-2024s-saas-threat-predictions.html"/>
+        <updated>2024-06-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Early in 2024, Wing Security released its State of SaaS Security report, offering surprising insights into emerging threats and best practices in the SaaS domain. Now, halfway through the year, several SaaS threat predictions from the report have already proven accurate. Fortunately, SaaS Security Posture Management (SSPM) solutions have prioritized mitigation capabilities to address many of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide]]></title>
         <id>https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html</id>
