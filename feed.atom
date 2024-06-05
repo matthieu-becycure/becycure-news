@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T07:43:32.337Z</updated>
+    <updated>2024-06-05T08:13:52.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models]]></title>
+        <id>https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html</id>
+        <link href="https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html"/>
+        <updated>2024-06-05T07:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Zyxel has released security updates to address critical flaws impacting two of its network-attached storage (NAS) devices that have currently reached end-of-life (EoL) status.
+Successful exploitation of three of the five vulnerabilities could permit an unauthenticated attacker to execute operating system (OS) commands and arbitrary code on affected installations.
+Impacted models include NAS326]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs]]></title>
         <id>https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html</id>
