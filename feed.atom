@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T21:43:42.925Z</updated>
+    <updated>2024-06-05T22:10:40.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2986,18 +2986,6 @@ The attack, which came to light last month, singled out MITRE's Networked Exper
         <updated>2024-05-07T10:42:00.000Z</updated>
         <summary type="html"><![CDATA[How safe is your comments section? Discover how a seemingly innocent 'thank you' comment on a product page concealed a malicious vulnerability, underscoring the necessity of robust security measures. Read the full real-life case study here. 
 When is a ‘Thank you’ not a ‘Thank you’? When it’s a sneaky bit of code that’s been hidden inside a ‘Thank You’]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Simplifies 2-Factor Authentication Setup (It's More Important Than Ever)]]></title>
-        <id>https://thehackernews.com/2024/05/google-simplifies-2-factor.html</id>
-        <link href="https://thehackernews.com/2024/05/google-simplifies-2-factor.html"/>
-        <updated>2024-05-07T10:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Monday announced that it's simplifying the process of enabling two-factor authentication (2FA) for users with personal and Workspace accounts.
-Also called, 2-Step Verification (2SV), it aims to add an extra layer of security to users' accounts to prevent takeover attacks in case the passwords are stolen.
-The new change entails adding a second step method, such as an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
