@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T10:43:37.269Z</updated>
+    <updated>2024-06-05T11:09:09.795Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rebranded Knight Ransomware Targeting Healthcare and Businesses Worldwide]]></title>
+        <id>https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html</id>
+        <link href="https://thehackernews.com/2024/06/rebranded-knight-ransomware-targeting.html"/>
+        <updated>2024-06-05T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of a nascent ransomware strain called RansomHub has revealed it to be an updated and rebranded version of Knight ransomware, itself an evolution of another ransomware known as Cyclops.
+Knight (aka Cyclops 2.0) ransomware first arrived in May 2023, employing double extortion tactics to steal and encrypt victims' data for financial gain. It's operational across multiple platforms,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models]]></title>
         <id>https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html</id>
