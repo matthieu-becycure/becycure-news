@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T22:29:39.968Z</updated>
+    <updated>2024-06-05T22:43:31.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2975,17 +2975,6 @@ Targets of the attack include Western and Middle Eastern NGOs, media organizati
         <updated>2024-05-07T12:55:00.000Z</updated>
         <summary type="html"><![CDATA[The MITRE Corporation has offered more details into the recently disclosed cyber attack, stating that the first evidence of the intrusion now dates back to December 31, 2023.
 The attack, which came to light last month, singled out MITRE's Networked Experimentation, Research, and Virtualization Environment (NERVE) through the exploitation of two Ivanti Connect Secure zero-day]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Case Study: The Malicious Comment]]></title>
-        <id>https://thehackernews.com/2024/05/new-case-study-malicious-comment.html</id>
-        <link href="https://thehackernews.com/2024/05/new-case-study-malicious-comment.html"/>
-        <updated>2024-05-07T10:42:00.000Z</updated>
-        <summary type="html"><![CDATA[How safe is your comments section? Discover how a seemingly innocent 'thank you' comment on a product page concealed a malicious vulnerability, underscoring the necessity of robust security measures. Read the full real-life case study here. 
-When is a ‘Thank you’ not a ‘Thank you’? When it’s a sneaky bit of code that’s been hidden inside a ‘Thank You’]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
