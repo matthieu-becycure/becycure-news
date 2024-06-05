@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T21:26:30.070Z</updated>
+    <updated>2024-06-05T21:43:42.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2998,17 +2998,6 @@ When is a ‘Thank you’ not a ‘Thank you’? When it’s a sneaky bit of cod
         <summary type="html"><![CDATA[Google on Monday announced that it's simplifying the process of enabling two-factor authentication (2FA) for users with personal and Workspace accounts.
 Also called, 2-Step Verification (2SV), it aims to add an extra layer of security to users' accounts to prevent takeover attacks in case the passwords are stolen.
 The new change entails adding a second step method, such as an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering]]></title>
-        <id>https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html</id>
-        <link href="https://thehackernews.com/2024/05/russian-operator-of-btc-e-crypto.html"/>
-        <updated>2024-05-07T09:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A Russian operator of a now-dismantled BTC-e cryptocurrency exchange has pleaded guilty to money laundering charges from 2011 to 2017.
-Alexander Vinnik, 44, was charged in January 2017 and taken into custody in Greece in July 2017. He was subsequently extradited to the U.S. in August 2022. Vinnik and his co-conspirators have been accused of owning and managing]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
