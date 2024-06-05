@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-05T00:51:35.842Z</updated>
+    <updated>2024-06-05T01:56:01.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2956,18 +2956,6 @@ Alexander Vinnik, 44, was charged in January 2017 and taken into custody in Gree
         <summary type="html"><![CDATA[More than 50% of the 90,310 hosts have been found exposing a Tinyproxy service on the internet that's vulnerable to a critical unpatched security flaw in the HTTP/HTTPS proxy tool.
 
 The issue, tracked as CVE-2023-49606, carries a CVSS score of 9.8 out of a maximum of 10, per Cisco Talos, which described it as a use-after-free bug impacting versions 1.10.0 and 1.11.1, which is the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China-Linked Hackers Suspected in ArcaneDoor Cyberattacks Targeting Network Devices]]></title>
-        <id>https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html</id>
-        <link href="https://thehackernews.com/2024/05/china-linked-hackers-suspected-in.html"/>
-        <updated>2024-05-06T13:47:00.000Z</updated>
-        <summary type="html"><![CDATA[The recently uncovered cyber espionage campaign targeting perimeter network devices from several vendors, including Cisco, may have been the work of China-linked actors, according to new findings from attack surface management firm Censys.
-
-Dubbed ArcaneDoor, the activity is said to have commenced around July 2023, with the first confirmed attack against an unnamed victim]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
