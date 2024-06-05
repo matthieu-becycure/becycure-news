@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Popular video-sharing platform TikTok has acknowledged a security issue that has been exploited by threat actors to take control of high-profile accounts on the platform.\nThe development was first reported by Semafor and Forbes, which detailed a zero-click account takeover campaign that allows malware propagated via direct messages to compromise brand and celebrity accounts without having to",
+          "link": "https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html",
+          "publishedOn": "2024-06-05T06:22:00.000Z",
+          "wordCount": null,
+          "title": "Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiuNQYnPYlDm3fv5Jg8Ffd402F_pvyfQrDRj3jN3_0r5xyOzweNqglsesejcBYk-CoxfSyx4J6kh_1KaCe1cNU4sl2joHQTAPw5Khqdhg1ghBBaOji4ScJm65lk_Oy40RYjTr9yYQh51VIt1lBUbnOLvho_biZhwYeIvjXcKl6CmbuixyUoqfq_3qiajj/s1600/tiktok.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiuNQYnPYlDm3fv5Jg8Ffd402F_pvyfQrDRj3jN3_0r5xyOzweNqglsesejcBYk-CoxfSyx4J6kh_1KaCe1cNU4sl2joHQTAPw5Khqdhg1ghBBaOji4ScJm65lk_Oy40RYjTr9yYQh51VIt1lBUbnOLvho_biZhwYeIvjXcKl6CmbuixyUoqfq_3qiajj/s1600/tiktok.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/russian-power-companies-it-firms-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Russian organizations are at the receiving end of cyber attacks that have been found to deliver a Windows version of a malware called Decoy Dog.\nCybersecurity company Positive Technologies is tracking the activity cluster under the name Operation Lahat, attributing it to an advanced persistent threat (APT) group called HellHounds.\n\"The Hellhounds group compromises organizations they select and",
