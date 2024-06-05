@@ -3689,16 +3689,6 @@
           "wordCount": 960,
           "title": "CERTFR-2024-AVI-0369 : Multiples vulnérabilités dans les produits GLPI (07 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Moxa NPort. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0368/",
-          "publishedOn": "2024-05-07T07:19:09.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2024-AVI-0368 : [SCADA] Vulnérabilité dans Moxa NPort (07 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
