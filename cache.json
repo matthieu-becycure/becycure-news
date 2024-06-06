@@ -2244,38 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s1600/cpu.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCsXxKSHjymsIMRDDrahsvY3mz_fB0fJj8ZZiVAsOCuyhG7SsO0WlvM_jMqvLhVvvEAsX0Pi2sbuDgu8ZMlNRaK_OkANH4GzvsL8K7TYEcyI-dvPzbHMC-H-1lYURtObXu8WLtF56ou9HUkmg_6mRikd1gp6KOXuDMgvV-LdLOogFHxVGWx2pOeVchbVx6/s1600/cpu.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "״Defenders think in lists, attackers think in graphs,” said John Lambert from Microsoft, distilling the fundamental difference in mindset between those who defend IT systems and those who try to compromise them.\nThe traditional approach for defenders is to list security gaps directly related to their assets in the network and eliminate as many as possible, starting with the most critical.",
-          "link": "https://thehackernews.com/2024/05/the-fundamentals-of-cloud-security.html",
-          "publishedOn": "2024-05-08T10:58:00.000Z",
-          "wordCount": null,
-          "title": "The Fundamentals of Cloud Security Stress Testing",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9g0_5hh9yyfiqTDAJeGldQ363-xqM83qZitESxMRryqG8TxZrN0XEBeKwwJvWIzoV_MgNFQSFwlYIw6D-9kvBsLkEQ4x-jwm0W1f2mBfmESM1hyMmnQ1s9rQFzu_5aSyLIrguF0hROMma0LFvJuIr3zsyNyuzWLcR88ebXEzdLdbGffcUxTPy4-Ltzi4/s1600/pen.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9g0_5hh9yyfiqTDAJeGldQ363-xqM83qZitESxMRryqG8TxZrN0XEBeKwwJvWIzoV_MgNFQSFwlYIw6D-9kvBsLkEQ4x-jwm0W1f2mBfmESM1hyMmnQ1s9rQFzu_5aSyLIrguF0hROMma0LFvJuIr3zsyNyuzWLcR88ebXEzdLdbGffcUxTPy4-Ltzi4/s1600/pen.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newer version of a malware loader called Hijack Loader has been observed incorporating an updated set of anti-analysis techniques to fly under the radar.\n\"These enhancements aim to increase the malware's stealthiness, thereby remaining undetected for longer periods of time,\" Zscaler ThreatLabz researcher Muhammed Irfan V A said in a technical report.\n\"Hijack",
-          "link": "https://thehackernews.com/2024/05/hijack-loader-malware-employs-process.html",
-          "publishedOn": "2024-05-08T10:58:00.000Z",
-          "wordCount": null,
-          "title": "Hijack Loader Malware Employs Process Hollowing, UAC Bypass in Latest Version",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPvhxGd_HGIF7-1OfNtRETRbpPNP33Y8GrqyC4vMegYiv65ZJxIPQYzHOLQPIf8VctiQ3SZ8FJYyPe4_ymMO3V6YclEEXI_IKFDh9IdPN3qDv7pmfFoiB_TNYple9aJlp_xxX2kj5vOulQ2WUFQ8eVz83fdF98SqYM9aK8H8gGec4MuQIjg86j1M74ahJ/s1600/data.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHPvhxGd_HGIF7-1OfNtRETRbpPNP33Y8GrqyC4vMegYiv65ZJxIPQYzHOLQPIf8VctiQ3SZ8FJYyPe4_ymMO3V6YclEEXI_IKFDh9IdPN3qDv7pmfFoiB_TNYple9aJlp_xxX2kj5vOulQ2WUFQ8eVz83fdF98SqYM9aK8H8gGec4MuQIjg86j1M74ahJ/s1600/data.png"
         }
       ]
     },
