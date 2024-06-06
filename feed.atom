@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-06T18:43:36.453Z</updated>
+    <updated>2024-06-06T19:11:15.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3007,17 +3007,6 @@ The traditional approach for defenders is to list security gaps directly related
         <summary type="html"><![CDATA[A newer version of a malware loader called Hijack Loader has been observed incorporating an updated set of anti-analysis techniques to fly under the radar.
 "These enhancements aim to increase the malware's stealthiness, thereby remaining undetected for longer periods of time," Zscaler ThreatLabz researcher Muhammed Irfan V A said in a technical report.
 "Hijack]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploiting LiteSpeed Cache Bug to Gain Full Control of WordPress Sites]]></title>
-        <id>https://thehackernews.com/2024/05/hackers-exploiting-litespeed-cache-bug.html</id>
-        <link href="https://thehackernews.com/2024/05/hackers-exploiting-litespeed-cache-bug.html"/>
-        <updated>2024-05-08T07:03:00.000Z</updated>
-        <summary type="html"><![CDATA[A high-severity flaw impacting the LiteSpeed Cache plugin for WordPress is being actively exploited by threat actors to create rogue admin accounts on susceptible websites.
-The findings come from WPScan, which said that the vulnerability (CVE-2023-40000, CVSS score: 8.3) has been leveraged to set up bogus admin users with the names wpsupp‑user]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
