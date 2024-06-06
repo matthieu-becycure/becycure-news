@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has announced plans to store Maps Timeline data locally on users' devices instead of their Google account effective December 1, 2024.\nThe changes were originally announced by the tech giant in December 2023, alongside changes to the auto-delete control when enabling Location History by setting it to three months by default, down from the previous limit of 18 months.\nGoogle Maps Timeline,",
+          "link": "https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html",
+          "publishedOn": "2024-06-06T07:15:00.000Z",
+          "wordCount": null,
+          "title": "Google Maps Timeline Data to be Stored Locally on Your Device for Privacy",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd0gj3EfesRLbqd1fEZAI1ZV-uYFreCGOkuRZMe51jSGDYha2xh69re8tAbfW0wJDSCNBhU6sjWWwkE5a9uyCUDFsmV10vnykyyGMwePtw_JnkVJ5H3xcCd_vKi3VEh4DPLIQhJCZ3VOmLehWRhM4R2xi9xrJ2pHl_0XaNoFfXpsECRqLuysMtLIDHTXOv/s1600/google.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd0gj3EfesRLbqd1fEZAI1ZV-uYFreCGOkuRZMe51jSGDYha2xh69re8tAbfW0wJDSCNBhU6sjWWwkE5a9uyCUDFsmV10vnykyyGMwePtw_JnkVJ5H3xcCd_vKi3VEh4DPLIQhJCZ3VOmLehWRhM4R2xi9xrJ2pHl_0XaNoFfXpsECRqLuysMtLIDHTXOv/s1600/google.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/hackers-target-python-developers-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a malicious Python package uploaded to the Python Package Index (PyPI) repository that's designed to deliver an information stealer called Lumma (aka LummaC2).\nThe package in question is crytic-compilers, a typosquatted version of a legitimate library named crytic-compile. The rogue package was downloaded 441 times before it was taken down by PyPI",

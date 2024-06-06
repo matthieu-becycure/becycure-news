@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-06T07:43:51.081Z</updated>
+    <updated>2024-06-06T08:14:27.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Maps Timeline Data to be Stored Locally on Your Device for Privacy]]></title>
+        <id>https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html</id>
+        <link href="https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html"/>
+        <updated>2024-06-06T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced plans to store Maps Timeline data locally on users' devices instead of their Google account effective December 1, 2024.
+The changes were originally announced by the tech giant in December 2023, alongside changes to the auto-delete control when enabling Location History by setting it to three months by default, down from the previous limit of 18 months.
+Google Maps Timeline,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Target Python Developers with Fake "Crytic-Compilers" Package on PyPI]]></title>
         <id>https://thehackernews.com/2024/06/hackers-target-python-developers-with.html</id>
