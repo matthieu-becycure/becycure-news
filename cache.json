@@ -3599,16 +3599,6 @@
           "wordCount": 936,
           "title": "CERTFR-2024-AVI-0370 : Vulnérabilité dans iTunes pour Windows (10 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits GLPI. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0369/",
-          "publishedOn": "2024-05-07T14:00:15.000Z",
-          "wordCount": 960,
-          "title": "CERTFR-2024-AVI-0369 : Multiples vulnérabilités dans les produits GLPI (07 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
