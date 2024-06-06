@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-06T03:43:27.681Z</updated>
+    <updated>2024-06-06T04:13:16.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2931,17 +2931,6 @@ The traditional approach for defenders is to list security gaps directly related
         <updated>2024-05-08T07:03:00.000Z</updated>
         <summary type="html"><![CDATA[A high-severity flaw impacting the LiteSpeed Cache plugin for WordPress is being actively exploited by threat actors to create rogue admin accounts on susceptible websites.
 The findings come from WPScan, which said that the vulnerability (CVE-2023-40000, CVSS score: 8.3) has been leveraged to set up bogus admin users with the names wpsupp‑user]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian Hacker Dmitry Khoroshev Unmasked as LockBit Ransomware Administrator]]></title>
-        <id>https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html</id>
-        <link href="https://thehackernews.com/2024/05/russian-hacker-dmitry-khoroshev.html"/>
-        <updated>2024-05-07T15:49:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.K. National Crime Agency (NCA) has unmasked the administrator and developer of the LockBit ransomware operation, revealing it to be a 31-year-old Russian national named Dmitry Yuryevich Khoroshev.
-In addition, Khoroshev has been sanctioned by the U.K. Foreign, Commonwealth and Development Office (FCD), the U.S. Department of the Treasury’s Office of Foreign Assets Control (]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
