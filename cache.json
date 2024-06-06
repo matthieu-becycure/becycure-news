@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Learn about critical threats that can impact your organization and the bad actors behind them from Cybersixgill’s threat experts. Each story shines a light on underground activities, the threat actors involved, and why you should care, along with what you can do to mitigate risk. \nIn an increasingly interconnected world, supply chain attacks have emerged as a formidable threat, compromising",
+          "link": "https://thehackernews.com/2024/06/third-party-cyber-attacks-threat-no-one.html",
+          "publishedOn": "2024-06-06T11:30:00.000Z",
+          "wordCount": null,
+          "title": "Third-Party Cyber Attacks: The Threat No One Sees Coming – Here's How to Stop Them",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Tom works for a reputable financial institution. He has a long, complex password that would be near-impossible to guess. He’s memorized it by heart, so he started using it for his social media accounts and on his personal devices too. Unbeknownst to Tom, one of these sites has had its password database compromised by hackers and put it up for sale on the dark web. Now threat actors are working",
@@ -2268,6 +2284,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466",
+          "publishedOn": "2024-06-06T07:24:26.000Z",
+          "wordCount": 406,
+          "title": "Multiples vulnérabilités dans les produits Elastic (06 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans MongoDB PyMongo. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465",
+          "publishedOn": "2024-06-06T07:11:10.000Z",
+          "wordCount": 320,
+          "title": "Vulnérabilité dans MongoDB PyMongo (06 juin 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464",
           "author": null,
