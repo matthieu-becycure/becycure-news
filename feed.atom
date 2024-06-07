@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-07T22:43:37.322Z</updated>
+    <updated>2024-06-07T23:12:09.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3069,29 +3069,6 @@ The "decloaking" method has been assigned the CVE identifier CVE-2024-3661 (
         <summary type="html"><![CDATA[Polish government institutions have been targeted as part of a large-scale malware campaign orchestrated by a Russia-linked nation-state actor called APT28.
 "The campaign sent emails with content intended to arouse the recipient's interest and persuade him to click on the link," the computer emergency response team, CERT Polska, said in a Wednesday bulletin.
 Clicking on the link]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Guide: How to Scale Your vCISO Services Profitably]]></title>
-        <id>https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html</id>
-        <link href="https://thehackernews.com/2024/05/new-guide-how-to-scale-your-vciso.html"/>
-        <updated>2024-05-09T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity and compliance guidance are in high demand among SMEs. However, many of them cannot afford to hire a full-time CISO. A vCISO can answer this need by offering on-demand access to top-tier cybersecurity expertise. This is also an opportunity for MSPs and MSSPs to grow their business and bottom line.
-MSPs and MSSPs that expand their offerings and provide vCISO services]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirai Botnet Exploits Ivanti Connect Secure Flaws for Malicious Payload Delivery]]></title>
-        <id>https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html</id>
-        <link href="https://thehackernews.com/2024/05/mirai-botnet-exploits-ivanti-connect.html"/>
-        <updated>2024-05-09T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Two recently disclosed security flaws in Ivanti Connect Secure (ICS) devices are being exploited to deploy the infamous Mirai botnet.
-That's according to findings from Juniper Threat Labs, which said the vulnerabilities CVE-2023-46805 and CVE-2024-21887 have been leveraged to deliver the botnet payload.
-While CVE-2023-46805 is an authentication bypass flaw,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
