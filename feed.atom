@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-07T05:43:48.563Z</updated>
+    <updated>2024-06-07T06:16:23.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances]]></title>
+        <id>https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html</id>
+        <link href="https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html"/>
+        <updated>2024-06-07T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor known as Commando Cat has been linked to an ongoing cryptojacking attack campaign that leverages poorly secured Docker instances to deploy cryptocurrency miners for financial gain.
+"The attackers used the cmd.cat/chattr docker image container that retrieves the payload from their own command-and-control (C&C) infrastructure," Trend Micro researchers Sunil Bharti and Shubham]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks]]></title>
         <id>https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Commando Cat has been linked to an ongoing cryptojacking attack campaign that leverages poorly secured Docker instances to deploy cryptocurrency miners for financial gain.\n\"The attackers used the cmd.cat/chattr docker image container that retrieves the payload from their own command-and-control (C&C) infrastructure,\" Trend Micro researchers Sunil Bharti and Shubham",
+          "link": "https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html",
+          "publishedOn": "2024-06-07T05:10:00.000Z",
+          "wordCount": null,
+          "title": "Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHgPh9MYCyy8ZSzzZjXQNd6JaqQX6WCtr6zfxXx3aOUhbj5v_Szu411JvvXu-bPhjQ7qWbnJrM-5UBpZy8LRKZ06k_IT8hyphenhyphenadauRkvtjOKH2Th-qvStmj-k8n4e-IsANp2sD4ELvcg82rhLXWYR2mWWZPT7l-UrA4wOl-07vuNtRbi0czHD7wxgCD9dm0/s1600/cat.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHgPh9MYCyy8ZSzzZjXQNd6JaqQX6WCtr6zfxXx3aOUhbj5v_Szu411JvvXu-bPhjQ7qWbnJrM-5UBpZy8LRKZ06k_IT8hyphenhyphenadauRkvtjOKH2Th-qvStmj-k8n4e-IsANp2sD4ELvcg82rhLXWYR2mWWZPT7l-UrA4wOl-07vuNtRbi0czHD7wxgCD9dm0/s1600/cat.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The distributed denial-of-service (DDoS) botnet known as Muhstik has been observed leveraging a now-patched security flaw impacting Apache RocketMQ to co-opt susceptible servers and expand its scale.\n\"Muhstik is a well-known threat targeting IoT devices and Linux-based servers, notorious for its ability to infect devices and utilize them for cryptocurrency mining and launching Distributed Denial",
