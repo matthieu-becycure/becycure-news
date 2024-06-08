@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7hyphenhyphennU2IYjiz-ihf3HI2sV7T0y8bp02Lny2zKl22QLmn60deJC7JrSYqlkAEihse0cDSvFoTKVWehDNwJHrR4xoMZOMSFkDUTBuDWNqQ6tbDT5Z7hZ784vbqPeKYUv9W9NFIV32gq8n_72bAOq0NcSHKiEtrKHmePuoQcgVdyRddlABJ3R4Q0upkj8NZG/s1600/apps.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7hyphenhyphennU2IYjiz-ihf3HI2sV7T0y8bp02Lny2zKl22QLmn60deJC7JrSYqlkAEihse0cDSvFoTKVWehDNwJHrR4xoMZOMSFkDUTBuDWNqQ6tbDT5Z7hZ784vbqPeKYUv9W9NFIV32gq8n_72bAOq0NcSHKiEtrKHmePuoQcgVdyRddlABJ3R4Q0upkj8NZG/s1600/apps.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a novel attack that employs stolen cloud credentials to target cloud-hosted large language model (LLM) services with the goal of selling access to other threat actors.\nThe attack technique has been codenamed LLMjacking by the Sysdig Threat Research Team.\n\"Once initial access was obtained, they exfiltrated cloud credentials and gained",
-          "link": "https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html",
-          "publishedOn": "2024-05-10T07:41:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s1600/app.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8sh-XmpsFwYT_aLaIqq4Tzn_W8HiANHxel6Vyy2-hLUvNgqpex97k8qG7SE8xPouPjkPpF-RuctUUeURbv0wg8sR-RUBFStCYplZP56arpce9kZ0rg8rb_bMRMFGV3Q_u5h3PUxznvpjiCljMNt33Yk2IcleXBku1rS0K6saao9m6MTqHsFiMDmcvdkJ-/s1600/app.png"
         }
       ]
     },
@@ -3712,26 +3696,6 @@
           "publishedOn": "2024-05-10T07:48:20.000Z",
           "wordCount": 946,
           "title": "CERTFR-2024-AVI-0373 : Vulnérabilité dans PostgreSQL (10 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.\n Google a connaissance d'une exploitation active de la vulnérabilité CVE-2024-4671.\n …",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/",
-          "publishedOn": "2024-05-10T07:43:24.000Z",
-          "wordCount": 992,
-          "title": "CERTFR-2024-AVI-0372 : Multiples vulnérabilités dans Google Chrome (10 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/",
-          "publishedOn": "2024-05-10T07:39:30.000Z",
-          "wordCount": 1062,
-          "title": "CERTFR-2024-AVI-0371 : Multiples vulnérabilités dans Google Android (10 mai 2024)",
           "imageUrl": null
         }
       ]

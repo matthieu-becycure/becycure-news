@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-08T19:23:41.743Z</updated>
+    <updated>2024-06-08T19:43:45.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3025,40 +3025,6 @@ The]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0373/"/>
         <updated>2024-05-10T07:48:20.000Z</updated>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0372 : Multiples vulnérabilités dans Google Chrome (10 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0372/"/>
-        <updated>2024-05-10T07:43:24.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
- Google a connaissance d'une exploitation active de la vulnérabilité CVE-2024-4671.
- …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover 'LLMjacking' Scheme Targeting Cloud-Hosted AI Models]]></title>
-        <id>https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html</id>
-        <link href="https://thehackernews.com/2024/05/researchers-uncover-llmjacking-scheme.html"/>
-        <updated>2024-05-10T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a novel attack that employs stolen cloud credentials to target cloud-hosted large language model (LLM) services with the goal of selling access to other threat actors.
-The attack technique has been codenamed LLMjacking by the Sysdig Threat Research Team.
-"Once initial access was obtained, they exfiltrated cloud credentials and gained]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0371 : Multiples vulnérabilités dans Google Android (10 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0371/"/>
-        <updated>2024-05-10T07:39:30.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
