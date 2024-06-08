@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-08T03:12:03.149Z</updated>
+    <updated>2024-06-08T03:28:23.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3057,18 +3057,6 @@ The attack technique has been codenamed LLMjacking by the Sysdig Threat Resear
         <updated>2024-05-09T17:55:00.000Z</updated>
         <summary type="html"><![CDATA[Researchers have detailed a Virtual Private Network (VPN) bypass technique dubbed TunnelVision that allows threat actors to snoop on victim's network traffic by just being on the same local network.
 The "decloaking" method has been assigned the CVE identifier CVE-2024-3661 (CVSS score: 7.6). It impacts all operating systems that implement a DHCP client and has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kremlin-Backed APT28 Targets Polish Institutions in Large-Scale Malware Campaign]]></title>
-        <id>https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html</id>
-        <link href="https://thehackernews.com/2024/05/kremlin-backed-apt28-targets-polish.html"/>
-        <updated>2024-05-09T15:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Polish government institutions have been targeted as part of a large-scale malware campaign orchestrated by a Russia-linked nation-state actor called APT28.
-"The campaign sent emails with content intended to arouse the recipient's interest and persuade him to click on the link," the computer emergency response team, CERT Polska, said in a Wednesday bulletin.
-Clicking on the link]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
