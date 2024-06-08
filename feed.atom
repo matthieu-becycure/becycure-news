@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-08T05:43:25.901Z</updated>
+    <updated>2024-06-08T06:14:12.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3048,17 +3048,6 @@ The attack technique has been codenamed LLMjacking by the Sysdig Threat Resear
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Apple iTunes. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New TunnelVision Attack Allows Hijacking of VPN Traffic via DHCP Manipulation]]></title>
-        <id>https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html</id>
-        <link href="https://thehackernews.com/2024/05/new-tunnelvision-attack-allows.html"/>
-        <updated>2024-05-09T17:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have detailed a Virtual Private Network (VPN) bypass technique dubbed TunnelVision that allows threat actors to snoop on victim's network traffic by just being on the same local network.
-The "decloaking" method has been assigned the CVE identifier CVE-2024-3661 (CVSS score: 7.6). It impacts all operating systems that implement a DHCP client and has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
