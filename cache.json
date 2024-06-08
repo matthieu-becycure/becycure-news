@@ -3657,46 +3657,6 @@
           "wordCount": 1178,
           "title": "CERTFR-2024-AVI-0377 : Multiples vulnérabilités dans les produits F5 (10 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une injection de requêtes illégitimes par rebond (CSRF), un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0376/",
-          "publishedOn": "2024-05-10T08:07:02.000Z",
-          "wordCount": 1020,
-          "title": "CERTFR-2024-AVI-0376 : Multiples vulnérabilités dans GitLab (10 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0375/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0375/",
-          "publishedOn": "2024-05-10T08:03:05.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2024-AVI-0375 : Vulnérabilité dans Xen (10 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0374/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Veeam Service Provider Console. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0374/",
-          "publishedOn": "2024-05-10T07:58:19.000Z",
-          "wordCount": 946,
-          "title": "CERTFR-2024-AVI-0374 : Vulnérabilité dans Veeam Service Provider Console (10 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0373/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans PostgreSQL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0373/",
-          "publishedOn": "2024-05-10T07:48:20.000Z",
-          "wordCount": 946,
-          "title": "CERTFR-2024-AVI-0373 : Vulnérabilité dans PostgreSQL (10 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
