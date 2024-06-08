@@ -3617,16 +3617,6 @@
           "wordCount": 2054,
           "title": "CERTFR-2024-AVI-0381 : Multiples vulnérabilités dans le noyau Linux de Debian (10 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0380/",
-          "publishedOn": "2024-05-10T10:04:25.000Z",
-          "wordCount": 1117,
-          "title": "CERTFR-2024-AVI-0380 : Multiples vulnérabilités dans les produits NetApp (10 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
