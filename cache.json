@@ -3733,16 +3733,6 @@
           "wordCount": 1062,
           "title": "CERTFR-2024-AVI-0371 : Multiples vulnérabilités dans Google Android (10 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0370/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Apple iTunes. Elle permet à un attaquant de provoquer une exécution de code arbitraire et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0370/",
-          "publishedOn": "2024-05-10T07:15:45.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2024-AVI-0370 : Vulnérabilité dans iTunes pour Windows (10 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
