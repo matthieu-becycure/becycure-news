@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-09T19:23:35.148Z</updated>
+    <updated>2024-06-09T19:43:37.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2826,17 +2826,6 @@ In a joint advisory published by the Cybersecurity and Infrastructure Security A
         <updated>2024-05-13T06:18:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have identified a malicious Python package that purports to be an offshoot of the popular requests library and has been found concealing a Golang-version of the Sliver command-and-control (C2) framework within a PNG image of the project's logo. 
 The package employing this steganographic trickery is requests-darwin-lite, which has been]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIN7 Hacker Group Leverages Malicious Google Ads to Deliver NetSupport RAT]]></title>
-        <id>https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html</id>
-        <link href="https://thehackernews.com/2024/05/fin7-hacker-group-leverages-malicious.html"/>
-        <updated>2024-05-11T07:29:00.000Z</updated>
-        <summary type="html"><![CDATA[The financially motivated threat actor known as FIN7 has been observed leveraging malicious Google ads spoofing legitimate brands as a means to deliver MSIX installers that culminate in the deployment of NetSupport RAT.
-"The threat actors used malicious websites to impersonate well-known brands, including AnyDesk, WinSCP, BlackRock, Asana, Concur, The Wall]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
