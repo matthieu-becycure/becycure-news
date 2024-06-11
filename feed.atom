@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-11T16:44:09.243Z</updated>
+    <updated>2024-06-11T17:11:07.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Cynet Makes MSPs Rich & Their Clients Secure]]></title>
+        <id>https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html</id>
+        <link href="https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html"/>
+        <updated>2024-06-11T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Managed service providers (MSPs) are on the front lines of soaring demand for cybersecurity services as cyberattacks increase in volume and sophistication. Cynet has emerged as the security vendor of choice for MSPs to capitalize on existing relationships with SMB clients and profitably expand their client base. By unifying a full suite of cybersecurity capabilities in a simple, cost-effective]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale]]></title>
         <id>https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html</id>
