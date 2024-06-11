@@ -3639,16 +3639,6 @@
           "wordCount": 1287,
           "title": "CERTFR-2024-AVI-0388 : Multiples vulnérabilités dans Moodle (13 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans VMware Avi Load Balancer. Elles permettent à un attaquant de provoquer une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0387/",
-          "publishedOn": "2024-05-13T11:36:36.000Z",
-          "wordCount": 966,
-          "title": "CERTFR-2024-AVI-0387 : Multiples vulnérabilités dans VMware Avi Load Balancer (13 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
