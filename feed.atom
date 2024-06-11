@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-11T22:10:34.562Z</updated>
+    <updated>2024-06-11T22:27:57.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2982,29 +2982,6 @@ Security leaders who are planning their security architecture]]></summary>
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHQ Response Platform and Risk Centre to Enable Management and Analysts Alike]]></title>
-        <id>https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html</id>
-        <link href="https://thehackernews.com/2024/05/shq-response-platform-and-risk-centre.html"/>
-        <updated>2024-05-13T10:19:00.000Z</updated>
-        <summary type="html"><![CDATA[In the last decade, there has been a growing disconnect between front-line analysts and senior management in IT and Cybersecurity. Well-documented challenges facing modern analysts revolve around a high volume of alerts, false positives, poor visibility of technical environments, and analysts spending too much time on manual tasks.
-The Impact of Alert Fatigue and False Positives 
-Analysts]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Severe Vulnerabilities in Cinterion Cellular Modems Pose Risks to Various Industries]]></title>
-        <id>https://thehackernews.com/2024/05/severe-vulnerabilities-in-cinterion.html</id>
-        <link href="https://thehackernews.com/2024/05/severe-vulnerabilities-in-cinterion.html"/>
-        <updated>2024-05-13T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed multiple security flaws in Cinterion cellular modems that could be potentially exploited by threat actors to access sensitive information and achieve code execution.
-"These vulnerabilities include critical flaws that permit remote code execution and unauthorized privilege escalation, posing substantial risks to integral communication networks and IoT]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
