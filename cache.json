@@ -3707,16 +3707,6 @@
           "wordCount": 1313,
           "title": "CERTFR-2024-ACT-021 : Bulletin d’actualité CERTFR-2024-ACT-021 (13 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0386/",
-          "publishedOn": "2024-05-13T07:34:15.000Z",
-          "wordCount": 1018,
-          "title": "CERTFR-2024-AVI-0386 : Multiples vulnérabilités dans Microsoft Edge (13 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
