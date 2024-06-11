@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple has announced the launch of a \"groundbreaking cloud intelligence system\" called Private Cloud Compute (PCC) that's designed for processing artificial intelligence (AI) tasks in a privacy-preserving manner in the cloud.\nThe tech giant described PCC as the \"most advanced security architecture ever deployed for cloud AI compute at scale.\"\nPCC coincides with the arrival of new generative AI (",
+          "link": "https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html",
+          "publishedOn": "2024-06-11T10:10:00.000Z",
+          "wordCount": null,
+          "title": "Apple Integrates OpenAI's ChatGPT into Siri for iOS, iPadOS, and macOS",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh9m5GZR5UpDR2oHlqSXyT_tGgOd02N6R0k6o7sEsFzGz2LoaQrR2t1ZcE_-B5dt2zahBet9IIyANZd_bv75ukNu0IjUchEbNPTHvKVvMa8YDImlgjYBHYR9grlm7sFoTBTcnZL8f2qEtZh4C4CHjtG_tV6WStr49A9EuGAE73tkrYlDvpbqyHVCtVP6RJ/s1600/APPLE.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh9m5GZR5UpDR2oHlqSXyT_tGgOd02N6R0k6o7sEsFzGz2LoaQrR2t1ZcE_-B5dt2zahBet9IIyANZd_bv75ukNu0IjUchEbNPTHvKVvMa8YDImlgjYBHYR9grlm7sFoTBTcnZL8f2qEtZh4C4CHjtG_tV6WStr49A9EuGAE73tkrYlDvpbqyHVCtVP6RJ/s1600/APPLE.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/china-linked-valleyrat-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered an updated version of malware called ValleyRAT that's being distributed as part of a new campaign.\n\"In the latest version, ValleyRAT introduced new commands, such as capturing screenshots, process filtering, forced shutdown, and clearing Windows event logs,\" Zscaler ThreatLabz researchers Muhammed Irfan V A and Manisha Ramcharan Prajapati said.\nValleyRAT",
