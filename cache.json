@@ -3639,16 +3639,6 @@
           "wordCount": 1262,
           "title": "CERTFR-2024-AVI-0395 : Multiples vulnérabilités dans les produits SAP (14 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0394/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0394/",
-          "publishedOn": "2024-05-14T11:42:26.000Z",
-          "wordCount": 1054,
-          "title": "CERTFR-2024-AVI-0394 : Multiples vulnérabilités dans les produits Typo3 (14 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
