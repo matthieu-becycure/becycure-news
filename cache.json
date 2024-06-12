@@ -3737,16 +3737,6 @@
           "wordCount": 925,
           "title": "CERTFR-2024-AVI-0390 : Vulnérabilité dans StrongSwan (14 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0389/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Belden. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0389/",
-          "publishedOn": "2024-05-14T07:02:11.000Z",
-          "wordCount": 968,
-          "title": "CERTFR-2024-AVI-0389 : [SCADA] Multiples vulnérabilités dans les produits Belden (14 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
