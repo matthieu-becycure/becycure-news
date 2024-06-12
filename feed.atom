@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-11T23:43:40.252Z</updated>
+    <updated>2024-06-12T00:52:39.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2941,27 +2941,6 @@ CVE-2024-25641 (CVSS score: 9.1) - An arbitrary file write vulnerability in the
 "The model provides a cultivated knowledge base of cyber threats to embedded devices, providing a common understanding of these threats with the security mechanisms required to mitigate them," the non-profit said]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield]]></title>
-        <id>https://thehackernews.com/2024/05/the-2024-browser-security-report.html</id>
-        <link href="https://thehackernews.com/2024/05/the-2024-browser-security-report.html"/>
-        <updated>2024-05-13T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[With the browser becoming the most prevalent workspace in the enterprise, it is also turning into a popular attack vector for cyber attackers. From account takeovers to malicious extensions to phishing attacks, the browser is a means for stealing sensitive data and accessing organizational systems.
-Security leaders who are planning their security architecture]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0388 : Multiples vulnérabilités dans Moodle (13 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/"/>
-        <updated>2024-05-13T11:55:12.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

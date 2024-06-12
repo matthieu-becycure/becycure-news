@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1D1wnx1DJ7Arc47tALIJpvQa-wwjJIS_F5-laBVgVXphQ9vqQvjXzHT_BGrmzNZp8B16UDdxoq4LJygejxxCrEDhIJo1TTXbF_zHVb1oHtIYaEk626-oenl-YNtbbT6iboroTycRoj-ZqIxfumBl21Gne9TjRG1lw_KS3kQ5DNnpV5KBAgOgl1VbKJo9y/s1600/device.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1D1wnx1DJ7Arc47tALIJpvQa-wwjJIS_F5-laBVgVXphQ9vqQvjXzHT_BGrmzNZp8B16UDdxoq4LJygejxxCrEDhIJo1TTXbF_zHVb1oHtIYaEk626-oenl-YNtbbT6iboroTycRoj-ZqIxfumBl21Gne9TjRG1lw_KS3kQ5DNnpV5KBAgOgl1VbKJo9y/s1600/device.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "With the browser becoming the most prevalent workspace in the enterprise, it is also turning into a popular attack vector for cyber attackers. From account takeovers to malicious extensions to phishing attacks, the browser is a means for stealing sensitive data and accessing organizational systems.\nSecurity leaders who are planning their security architecture",
-          "link": "https://thehackernews.com/2024/05/the-2024-browser-security-report.html",
-          "publishedOn": "2024-05-13T12:06:00.000Z",
-          "wordCount": null,
-          "title": "The 2024 Browser Security Report Uncovers How Every Web Session Could be a Security Minefield",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s1600/2024.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijSLFEn8-QfApj4gdNDUFOgQ-2WUKqdp737_4VxzL4xySRYwTXmYvbnVNcSqJeyAh-1nrQQ0ukxawxrTiS43xRjNaHnjAoo4NER14CUws2-alIb7SGE5u1vsW5OysBftZIN1X12cVmPkXrOdGpcU-TGjvF0-8xgkDE7fYMJIljp23hyphenhyphenu9DobEtWoxMaqAh/s1600/2024.png"
         }
       ]
     },
@@ -3628,16 +3612,6 @@
           "publishedOn": "2024-05-14T02:00:00.000Z",
           "wordCount": 471,
           "title": "Multiples vulnérabilités dans les produits Typo3 (14 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS), une injection de requêtes illégitimes par rebond (CSRF), un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0388/",
-          "publishedOn": "2024-05-13T11:55:12.000Z",
-          "wordCount": 1287,
-          "title": "CERTFR-2024-AVI-0388 : Multiples vulnérabilités dans Moodle (13 mai 2024)",
           "imageUrl": null
         }
       ]
