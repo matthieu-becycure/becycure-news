@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-12T23:11:13.425Z</updated>
+    <updated>2024-06-12T23:26:43.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2972,29 +2972,6 @@ Out-of-bounds write bugs could be typically]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0393 : [SCADA] Multiples vulnérabilités dans les produits Siemens (14 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0393/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0393/"/>
-        <updated>2024-05-14T11:24:35.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaws in Cacti Framework Could Let Attackers Execute Malicious Code]]></title>
-        <id>https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html</id>
-        <link href="https://thehackernews.com/2024/05/critical-flaws-in-cacti-framework-could.html"/>
-        <updated>2024-05-14T11:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The maintainers of the Cacti open-source network monitoring and fault management framework have addressed a dozen security flaws, including two critical issues that could lead to the execution of arbitrary code.
-The most severe of the vulnerabilities are listed below -
-
-CVE-2024-25641 (CVSS score: 9.1) - An arbitrary file write vulnerability in the "Package Import" feature that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
