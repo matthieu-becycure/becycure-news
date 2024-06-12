@@ -2365,6 +2365,126 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0489",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0489",
+          "publishedOn": "2024-06-12T12:51:35.000Z",
+          "wordCount": 667,
+          "title": "Multiples vulnérabilités dans les produits Microsoft (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0488",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0488",
+          "publishedOn": "2024-06-12T12:51:34.000Z",
+          "wordCount": 476,
+          "title": "Multiples vulnérabilités dans Microsoft Azure (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0486",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0486",
+          "publishedOn": "2024-06-12T12:51:33.000Z",
+          "wordCount": 1594,
+          "title": "Multiples vulnérabilités dans Microsoft Windows (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0487",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0487",
+          "publishedOn": "2024-06-12T12:51:33.000Z",
+          "wordCount": 377,
+          "title": "Multiples vulnérabilités dans Microsoft .Net (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0485",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0485",
+          "publishedOn": "2024-06-12T12:51:32.000Z",
+          "wordCount": 483,
+          "title": "Multiples vulnérabilités dans Microsoft Office (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0484",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0484",
+          "publishedOn": "2024-06-12T11:43:04.000Z",
+          "wordCount": 631,
+          "title": "Multiples vulnérabilités dans les produits Fortinet (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-005",
+          "author": null,
+          "description": "L'année 2023 et le début de l'année 2024 ont été marqués par de nombreux incidents concernant des équipements de sécurité présents notamment en bordure de réseau. Ces incidents ont pour origine l'exploitation d'une ou plusieurs vulnérabilités critiques dans des pare-feux, passerelles VPN ou...",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-005",
+          "publishedOn": "2024-06-12T10:32:32.000Z",
+          "wordCount": 437,
+          "title": "Failles sur les équipements de sécurité - Retour d'expérience du CERT-FR (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0483",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0483",
+          "publishedOn": "2024-06-12T09:42:55.000Z",
+          "wordCount": 569,
+          "title": "Multiples vulnérabilités dans les produits Adobe (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0482",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0482",
+          "publishedOn": "2024-06-12T09:33:40.000Z",
+          "wordCount": 446,
+          "title": "Multiples vulnérabilités dans Mozilla Firefox (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0481",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0481",
+          "publishedOn": "2024-06-12T09:31:35.000Z",
+          "wordCount": 403,
+          "title": "Multiples vulnérabilités dans Google Chrome (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0480",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Citrix. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0480",
+          "publishedOn": "2024-06-12T09:19:09.000Z",
+          "wordCount": 335,
+          "title": "Vulnérabilité dans les produits Citrix (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0479",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking AirWave Management Platform. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0479",
+          "publishedOn": "2024-06-12T09:02:11.000Z",
+          "wordCount": 382,
+          "title": "Multiples vulnérabilités dans HPE Aruba Networking AirWave Management Platform (12 juin 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0478",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
