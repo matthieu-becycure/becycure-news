@@ -3717,26 +3717,6 @@
           "wordCount": 1261,
           "title": "CERTFR-2024-AVI-0392 : Multiples vulnérabilités dans les produits Apple (14 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0391/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.\n Google a connaissance d'une exploitation active de la vulnérabilité CVE-2024-4761.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0391/",
-          "publishedOn": "2024-05-14T07:19:05.000Z",
-          "wordCount": 961,
-          "title": "CERTFR-2024-AVI-0391 : Vulnérabilité dans Google Chrome (14 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0390/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Strongswan. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0390/",
-          "publishedOn": "2024-05-14T07:12:29.000Z",
-          "wordCount": 925,
-          "title": "CERTFR-2024-AVI-0390 : Vulnérabilité dans StrongSwan (14 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
