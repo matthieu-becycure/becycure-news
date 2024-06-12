@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-12T04:43:40.000Z</updated>
+    <updated>2024-06-12T05:11:12.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Patches for 51 Flaws, Including Critical MSMQ Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/06/microsoft-issues-patches-for-51-flaws.html</id>
+        <link href="https://thehackernews.com/2024/06/microsoft-issues-patches-for-51-flaws.html"/>
+        <updated>2024-06-12T04:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released security updates to address 51 flaws as part of its Patch Tuesday updates for June 2024.
+Of the 51 vulnerabilities, one is rated Critical and 50 are rated Important. This is in addition to 17 vulnerabilities resolved in the Chromium-based Edge browser over the past month.
+None of the security flaws have been actively exploited in the wild, with one of them listed as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Cynet Makes MSPs Rich & Their Clients Secure]]></title>
         <id>https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html</id>
