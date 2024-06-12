@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-12T22:43:29.315Z</updated>
+    <updated>2024-06-12T23:11:13.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2993,27 +2993,6 @@ Out-of-bounds write bugs could be typically]]></summary>
 The most severe of the vulnerabilities are listed below -
 
 CVE-2024-25641 (CVSS score: 9.1) - An arbitrary file write vulnerability in the "Package Import" feature that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Mistakes Organizations Make When Deploying Advanced Authentication]]></title>
-        <id>https://thehackernews.com/2024/05/6-mistakes-organizations-make-when.html</id>
-        <link href="https://thehackernews.com/2024/05/6-mistakes-organizations-make-when.html"/>
-        <updated>2024-05-14T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Deploying advanced authentication measures is key to helping organizations address their weakest cybersecurity link: their human users. Having some form of 2-factor authentication in place is a great start, but many organizations may not yet be in that spot or have the needed level of authentication sophistication to adequately safeguard organizational data. When deploying]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ongoing Campaign Bombarded Enterprises with Spam Emails and Phone Calls]]></title>
-        <id>https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html</id>
-        <link href="https://thehackernews.com/2024/05/ongoing-campaign-bombarded-enterprises.html"/>
-        <updated>2024-05-14T10:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered an ongoing social engineering campaign that bombards enterprises with spam emails with the goal of obtaining initial access to their environments for follow-on exploitation.
-"The incident involves a threat actor overwhelming a user's email with junk and calling the user, offering assistance," Rapid7 researchers Tyler McGraw, Thomas Elkins, and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
