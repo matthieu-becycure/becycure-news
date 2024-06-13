@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-13T00:52:02.750Z</updated>
+    <updated>2024-06-13T01:57:14.659Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2938,18 +2938,6 @@ Of the 61 flaws, one is rated Critical, 59 are rated Important, and one is rated
         <updated>2024-05-14T15:49:00.000Z</updated>
         <summary type="html"><![CDATA[Multiple security flaws have been disclosed in VMware Workstation and Fusion products that could be exploited by threat actors to access sensitive information, trigger a denial-of-service (DoS) condition, and execute code under certain circumstances.
 The four vulnerabilities impact Workstation versions 17.x and Fusion versions 13.x, with fixes available in version 17.5.2 and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Chrome Zero-Day Vulnerability CVE-2024-4761 Under Active Exploitation]]></title>
-        <id>https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html</id>
-        <link href="https://thehackernews.com/2024/05/new-chrome-zero-day-vulnerability-cve.html"/>
-        <updated>2024-05-14T13:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Monday shipped emergency fixes to address a new zero-day flaw in the Chrome web browser that has come under active exploitation in the wild.
-The high-severity vulnerability, tracked as CVE-2024-4761, is an out-of-bounds write bug impacting the V8 JavaScript and WebAssembly engine. It was reported anonymously on May 9, 2024.
-Out-of-bounds write bugs could be typically]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
