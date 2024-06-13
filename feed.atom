@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-13T06:33:13.807Z</updated>
+    <updated>2024-06-13T06:43:51.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Cross-Platform Malware 'Noodle RAT' Targets Windows and Linux Systems]]></title>
+        <id>https://thehackernews.com/2024/06/new-cross-platform-malware-noodle-rat.html</id>
+        <link href="https://thehackernews.com/2024/06/new-cross-platform-malware-noodle-rat.html"/>
+        <updated>2024-06-13T06:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented cross-platform malware codenamed Noodle RAT has been put to use by Chinese-speaking threat actors either for espionage or cybercrime for years.
+While this backdoor was previously categorized as a variant of Gh0st RAT and Rekoobe, Trend Micro security researcher Hara Hiroaki said "this backdoor is not merely a variant of existing malware, but is a new type altogether."]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters]]></title>
         <id>https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html</id>
