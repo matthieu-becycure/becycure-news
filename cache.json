@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/ukraine-police-arrest-suspect-linked-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Cyber Police of Ukraine has announced the arrest of a local man who is suspected to have offered their services to LockBit and Conti ransomware groups.\nThe unnamed 28-year-old native of the Kharkiv region allegedly specialized in the development of crypters to encrypt and obfuscate malicious payloads in order to evade detection by security programs.\nThe product is believed to have been",
+          "link": "https://thehackernews.com/2024/06/ukraine-police-arrest-suspect-linked-to.html",
+          "publishedOn": "2024-06-13T08:05:00.000Z",
+          "wordCount": null,
+          "title": "Ukraine Police Arrest Suspect Linked to LockBit and Conti Ransomware Groups",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic30L6OrYwEdvbx_wEmz73w87xAl5sPzn_zWGh3furDf99w8mdOrIL30MTzsE4LBnCC8Z4GcSeu8yYGL80qQdvcF6k1FiKN3BZ2puvqc9RWKMFqxvhK19nKUkpN-d_mvspzElhRaHSZQJXFi_xA3zQXJDIfSDfxKehLdgVZcmo8c6UTgef0ADqblXdKRvk/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic30L6OrYwEdvbx_wEmz73w87xAl5sPzn_zWGh3furDf99w8mdOrIL30MTzsE4LBnCC8Z4GcSeu8yYGL80qQdvcF6k1FiKN3BZ2puvqc9RWKMFqxvhK19nKUkpN-d_mvspzElhRaHSZQJXFi_xA3zQXJDIfSDfxKehLdgVZcmo8c6UTgef0ADqblXdKRvk/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has warned that a security flaw impacting Pixel Firmware has been exploited in the wild as a zero-day.\nThe high-severity vulnerability, tagged as CVE-2024-32896, has been described as an elevation of privilege issue in Pixel Firmware.\nThe company did not share any additional details related to the nature of attacks exploiting it, but noted \"there are indications that CVE-2024-32896 may be",
