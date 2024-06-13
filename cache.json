@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s1600/windows.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRWyceMEGNjv9gX0r64Da_hcbZmpbkOE-U-sRN8zX5m3iKTPCFAQ3Zc_NsfOM_1Qmf1yjGWcK1bHa0BZv-HAVVNJdWGHID9CIYZNyaYyU_AsoaYnz7iyUmHtBZrlRT78cpQGdTaN1iSQlBW_vV8udl18eRRpI8wV7OvTtsEBuLhwdFgsoe7F4FOqgMe8vM/s1600/windows.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple security flaws have been disclosed in VMware Workstation and Fusion products that could be exploited by threat actors to access sensitive information, trigger a denial-of-service (DoS) condition, and execute code under certain circumstances.\nThe four vulnerabilities impact Workstation versions 17.x and Fusion versions 13.x, with fixes available in version 17.5.2 and",
-          "link": "https://thehackernews.com/2024/05/vmware-patches-severe-security-flaws-in.html",
-          "publishedOn": "2024-05-14T15:49:00.000Z",
-          "wordCount": null,
-          "title": "VMware Patches Severe Security Flaws in Workstation and Fusion Products",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-pzoIE9OnLDHB8KIQVybTE2wnBsTI_1QVCBzh5pnbmIaPdYMHYjnH0mxkSowWMkCqZzsANsz5iKxL96siXr3O04tsO_PEV-j_NA4JKPbuIOaXRJC9fE-CIKOfNOy8TLIawuFf-Q0hTvSGjvKzFxlHNnFsRq_k1bfd7_wfohmNRVtgUXNYGXasYHaSpl3Y/s1600/vmware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-pzoIE9OnLDHB8KIQVybTE2wnBsTI_1QVCBzh5pnbmIaPdYMHYjnH0mxkSowWMkCqZzsANsz5iKxL96siXr3O04tsO_PEV-j_NA4JKPbuIOaXRJC9fE-CIKOfNOy8TLIawuFf-Q0hTvSGjvKzFxlHNnFsRq_k1bfd7_wfohmNRVtgUXNYGXasYHaSpl3Y/s1600/vmware.png"
         }
       ]
     },
