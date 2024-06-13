@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-13T20:11:48.555Z</updated>
+    <updated>2024-06-13T20:28:54.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2887,17 +2887,6 @@ The findings come from Slovak cybersecurity firm ESET, which characterized it as
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch Court Sentences Tornado Cash Co-Founder to 5 Years in Prison for Money Laundering]]></title>
-        <id>https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html</id>
-        <link href="https://thehackernews.com/2024/05/dutch-court-sentences-tornado-cash-co.html"/>
-        <updated>2024-05-15T08:28:00.000Z</updated>
-        <summary type="html"><![CDATA[A Dutch court on Tuesday sentenced one of the co-founders of the now-sanctioned Tornado Cash cryptocurrency mixer service to 5 years and 4 months in prison.
-While the name of the defendant was redacted in the verdict, it's known that Alexey Pertsev, a 31-year-old Russian national, has been awaiting trial in the Netherlands on money laundering charges.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
