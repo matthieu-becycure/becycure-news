@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-13T19:09:00.780Z</updated>
+    <updated>2024-06-13T19:23:46.027Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2896,17 +2896,6 @@ The findings come from Slovak cybersecurity firm ESET, which characterized it as
         <updated>2024-05-15T08:28:00.000Z</updated>
         <summary type="html"><![CDATA[A Dutch court on Tuesday sentenced one of the co-founders of the now-sanctioned Tornado Cash cryptocurrency mixer service to 5 years and 4 months in prison.
 While the name of the defendant was redacted in the verdict, it's known that Alexey Pertsev, a 31-year-old Russian national, has been awaiting trial in the Netherlands on money laundering charges.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patches 61 Flaws, Including Two Actively Exploited Zero-Days]]></title>
-        <id>https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html</id>
-        <link href="https://thehackernews.com/2024/05/microsoft-patches-61-flaws-including.html"/>
-        <updated>2024-05-15T07:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has addressed a total of 61 new security flaws in its software as part of its Patch Tuesday updates for May 2024, including two zero-days which have been actively exploited in the wild.
-Of the 61 flaws, one is rated Critical, 59 are rated Important, and one is rated Moderate in severity. This is in addition to 30 vulnerabilities&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
