@@ -3573,16 +3573,6 @@
           "wordCount": 938,
           "title": "CERTFR-2024-AVI-0398 : Vulnérabilité dans Microsoft Edge (15 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0397/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0397/",
-          "publishedOn": "2024-05-15T08:46:43.000Z",
-          "wordCount": 2635,
-          "title": "CERTFR-2024-AVI-0397 : Multiples vulnérabilités dans les produits Intel (15 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
