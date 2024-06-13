@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-13T22:43:27.619Z</updated>
+    <updated>2024-06-13T23:11:54.201Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2793,28 +2793,6 @@ In late 2023, the Common Vulnerability Scoring System (CVSS) v4.0 was unveiled, 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ebury Botnet Malware Compromises 400,000 Linux Servers Over Past 14 Years]]></title>
-        <id>https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html</id>
-        <link href="https://thehackernews.com/2024/05/ebury-botnet-malware-compromises-400000.html"/>
-        <updated>2024-05-15T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[A malware botnet called Ebury is estimated to have compromised 400,000 Linux servers since 2009, out of which more than 100,000 were still compromised as of late 2023.
-The findings come from Slovak cybersecurity firm ESET, which characterized it as one of the most advanced server-side malware campaigns for financial gain.
-"Ebury actors have been pursuing monetization activities [...],]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Time to Master the Lift & Shift: Migrating from VMware vSphere to Microsoft Azure]]></title>
-        <id>https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html</id>
-        <link href="https://thehackernews.com/2024/05/its-time-to-master-lift-shift-migrating.html"/>
-        <updated>2024-05-15T10:55:00.000Z</updated>
-        <summary type="html"><![CDATA[While cloud adoption has been top of mind for many IT professionals for nearly a decade, it’s only in recent months, with industry changes and announcements from key players, that many recognize the time to make the move is now. It may feel like a daunting task, but tools exist to help you move your virtual machines (VMs) to a public cloud provider – like Microsoft Azure]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
