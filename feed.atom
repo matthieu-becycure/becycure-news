@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-14T04:43:41.687Z</updated>
+    <updated>2024-06-14T05:11:01.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns]]></title>
+        <id>https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html</id>
+        <link href="https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html"/>
+        <updated>2024-06-14T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Thursday revealed that it's delaying the rollout of the controversial artificial intelligence (AI)-powered Recall feature for Copilot+ PCs.
+To that end, the company said it intends to shift from general availability preview available first in the Windows Insider Program (WIP) in the coming weeks.
+"We are adjusting the release model for Recall to leverage the expertise of the Windows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models]]></title>
         <id>https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html</id>
@@ -2696,29 +2708,6 @@ Assigned the CVE identifier CVE-2024-4947, the vulnerability relates to a type 
         <summary type="html"><![CDATA[Law enforcement agencies have officially seized control of the notorious BreachForums platform, an online bazaar known for peddling stolen data, for the second time within a year.
 The website ("breachforums[.]st") has been replaced by a seizure banner stating the clearnet cybercrime forum is under the control of the Federal Bureau of Investigation (FBI). 
 The operation is the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Launches AI-Powered Theft and Data Protection Features for Android Devices]]></title>
-        <id>https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html</id>
-        <link href="https://thehackernews.com/2024/05/google-adds-ai-powered-theft-protection.html"/>
-        <updated>2024-05-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced a slew of privacy and security features in Android, including a suite of advanced protection features to help secure users' devices and data in the event of a theft.
-These features aim to help protect data before, during and after a theft attempt, the tech giant said, adding they are expected to be available via an update to Google Play services for devices running]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android 15 Rolls Out Advanced Features to Protect Users from Scams and Malicious Apps]]></title>
-        <id>https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html</id>
-        <link href="https://thehackernews.com/2024/05/android-15-introduces-new-features-to.html"/>
-        <updated>2024-05-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is unveiling a set of new features in Android 15 to prevent malicious apps installed on the device from capturing sensitive data.
-This constitutes an update to the Play Integrity API that third-party app developers can take advantage of to secure their applications against malware.
-"Developers can check if there are other apps running that could be capturing the screen, creating]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
