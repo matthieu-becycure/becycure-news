@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-14T06:43:37.952Z</updated>
+    <updated>2024-06-14T07:11:27.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics]]></title>
+        <id>https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html</id>
+        <link href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html"/>
+        <updated>2024-06-14T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors linked to North Korea have accounted for one-third of all the phishing activity targeting Brazil since 2020, as the country's emergence as an influential power has drawn the attention of cyber espionage groups.
+"North Korean government-backed actors have targeted the Brazilian government and Brazil's aerospace, technology, and financial services sectors," Google's Mandiant and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Delays AI-Powered Recall Feature for Copilot+ PCs Amid Security Concerns]]></title>
         <id>https://thehackernews.com/2024/06/microsoft-delays-ai-powered-recall.html</id>
