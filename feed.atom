@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-14T14:12:02.921Z</updated>
+    <updated>2024-06-14T14:30:03.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit]]></title>
+        <id>https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html</id>
+        <link href="https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html"/>
+        <updated>2024-06-14T13:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Google's plans to deprecate third-party tracking cookies in its Chrome web browser with Privacy Sandbox has run into fresh trouble after Austrian privacy non-profit noyb (none of your business) said the feature can still be used to track users.
+"While the so-called 'Privacy Sandbox' is advertised as an improvement over extremely invasive third-party tracking, the tracking is now simply done]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans]]></title>
         <id>https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html</id>

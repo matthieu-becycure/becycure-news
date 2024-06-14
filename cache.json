@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google's plans to deprecate third-party tracking cookies in its Chrome web browser with Privacy Sandbox has run into fresh trouble after Austrian privacy non-profit noyb (none of your business) said the feature can still be used to track users.\n\"While the so-called 'Privacy Sandbox' is advertised as an improvement over extremely invasive third-party tracking, the tracking is now simply done",
+          "link": "https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html",
+          "publishedOn": "2024-06-14T13:21:00.000Z",
+          "wordCount": null,
+          "title": "Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Og78pM_zo3-KRxwOLwUyNVKMGhnqJ3wWiRuJ_pvZ_ZMLMKW5AaIC7dj9owR-LaUNOjABQdd_ZNlPqGjM4XfGmN9hQv4Yfa4UCudIDDzY_XL0qQBbor2ZjishdiG_M4AuMEe-5hy8eEuQCW4T0-b0u5vmLckNpu3N8eGLfvYOUVjbxUhPXBC5hjEJl4Du/s1600/privacy.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0Og78pM_zo3-KRxwOLwUyNVKMGhnqJ3wWiRuJ_pvZ_ZMLMKW5AaIC7dj9owR-LaUNOjABQdd_ZNlPqGjM4XfGmN9hQv4Yfa4UCudIDDzY_XL0qQBbor2ZjishdiG_M4AuMEe-5hy8eEuQCW4T0-b0u5vmLckNpu3N8eGLfvYOUVjbxUhPXBC5hjEJl4Du/s1600/privacy.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Data is growing faster than ever. Remember when petabytes (that's 1,000,000 gigabytes!) were only for tech giants? Well, that's so last decade! Today, businesses of all sizes are swimming in petabytes.\nBut this isn't just about storage anymore. This data is ALIVE—it's constantly accessed, analyzed, shared, and even used to train the next wave of AI.\nThis creates a huge challenge: how do you",
