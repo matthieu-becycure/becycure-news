@@ -2317,6 +2317,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0498",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0498",
+          "publishedOn": "2024-06-14T12:48:37.000Z",
+          "wordCount": 715,
+          "title": "Multiples vulnérabilités dans les produits IBM (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0497",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0497",
+          "publishedOn": "2024-06-14T12:42:43.000Z",
+          "wordCount": 944,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0496",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0496",
+          "publishedOn": "2024-06-14T12:23:12.000Z",
+          "wordCount": 3661,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0495",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0495",
+          "publishedOn": "2024-06-14T12:14:58.000Z",
+          "wordCount": 855,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0494",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans FreeRADIUS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0494",
+          "publishedOn": "2024-06-14T09:35:14.000Z",
+          "wordCount": 323,
+          "title": "Vulnérabilité dans FreeRADIUS (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0493",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0493",
+          "publishedOn": "2024-06-14T08:01:55.000Z",
+          "wordCount": 427,
+          "title": "Multiples vulnérabilités dans les produits Mozilla (14 juin 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0492",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Google Android et Pixel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une élévation de privilèges. Google indique que la vulnérabilité CVE-2024-32896...",
