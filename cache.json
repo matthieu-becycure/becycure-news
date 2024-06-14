@@ -3415,26 +3415,6 @@
           "wordCount": 913,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (17 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0411/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Wireshark. Elles permettent à un attaquant de provoquer un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0411/",
-          "publishedOn": "2024-05-16T07:42:41.000Z",
-          "wordCount": 980,
-          "title": "CERTFR-2024-AVI-0411 : Multiples vulnérabilités dans Wireshark (16 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0410/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.\n Google indique que la vulnérabilité CVE-2024-4947 est activement exploitée.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0410/",
-          "publishedOn": "2024-05-16T07:26:57.000Z",
-          "wordCount": 964,
-          "title": "CERTFR-2024-AVI-0410 : Multiples vulnérabilités dans Google Chrome (16 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
