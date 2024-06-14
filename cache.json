@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzmzJIldOiZh2c4S9W_dAr7OIpkKAYlProKSmMCr0WI30vVIfl9ynDpMLu9_Z-Fr9kIEV0rvm7TZOotA5d79_htMnvCLYW12I_enFTHhlAEfqNnk5_hAaNp6hGqGdr9dIxSX2hVKZcQVuGFb-ajdN_k1pN1VwtZ_ywDtPJnll3oM_dSdz1JXVkdk__agp/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjzmzJIldOiZh2c4S9W_dAr7OIpkKAYlProKSmMCr0WI30vVIfl9ynDpMLu9_Z-Fr9kIEV0rvm7TZOotA5d79_htMnvCLYW12I_enFTHhlAEfqNnk5_hAaNp6hGqGdr9dIxSX2hVKZcQVuGFb-ajdN_k1pN1VwtZ_ywDtPJnll3oM_dSdz1JXVkdk__agp/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An unnamed European Ministry of Foreign Affairs (MFA) and its three diplomatic missions in the Middle East were targeted by two previously undocumented backdoors tracked as LunarWeb and LunarMail.\nESET, which identified the activity, attributed it with medium confidence to the Russia-aligned cyberespionage group Turla (aka Iron Hunter, Pensive Ursa, Secret Blizzard, Snake, Uroburos, and Venomous",
-          "link": "https://thehackernews.com/2024/05/turla-group-deploys-lunarweb-and.html",
-          "publishedOn": "2024-05-15T12:29:00.000Z",
-          "wordCount": null,
-          "title": "Turla Group Deploys LunarWeb and LunarMail Backdoors in Diplomatic Missions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cHYoES0UHkeCQhIzrtg0-1PPT-Pd5wjEMvOv8Xs6Coix-T0WYczWTIeJPtTASn03jxqIlTXjgCY3TQlBpshgywr1ORTLltZGa1OyOXAtVLtl5TL9WLGaA5Fl0onRYieAlgE7Lz6OsJBV9B5ChUtpMfNxi0o3yVGc7dsFQZScPQp0jXgxxay5CI69u22e/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0cHYoES0UHkeCQhIzrtg0-1PPT-Pd5wjEMvOv8Xs6Coix-T0WYczWTIeJPtTASn03jxqIlTXjgCY3TQlBpshgywr1ORTLltZGa1OyOXAtVLtl5TL9WLGaA5Fl0onRYieAlgE7Lz6OsJBV9B5ChUtpMfNxi0o3yVGc7dsFQZScPQp0jXgxxay5CI69u22e/s1600/malware.png"
         }
       ]
     },
@@ -3414,46 +3398,6 @@
           "publishedOn": "2024-05-16T02:00:00.000Z",
           "wordCount": 381,
           "title": "Multiples vulnérabilités dans Google Chrome (16 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0408/",
-          "publishedOn": "2024-05-15T12:36:30.000Z",
-          "wordCount": 1119,
-          "title": "CERTFR-2024-AVI-0408 : Multiples vulnérabilités dans les produits HPE Aruba Networking (15 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0407/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0407/",
-          "publishedOn": "2024-05-15T12:32:27.000Z",
-          "wordCount": 926,
-          "title": "CERTFR-2024-AVI-0407 : Vulnérabilité dans LibreOffice (15 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0406/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0406/",
-          "publishedOn": "2024-05-15T12:02:49.000Z",
-          "wordCount": 1031,
-          "title": "CERTFR-2024-AVI-0406 : Multiples vulnérabilités dans les produits Adobe (15 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0405/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0405/",
-          "publishedOn": "2024-05-15T11:49:03.000Z",
-          "wordCount": 986,
-          "title": "CERTFR-2024-AVI-0405 : Multiples vulnérabilités dans les produits VMware (15 mai 2024)",
           "imageUrl": null
         }
       ]
