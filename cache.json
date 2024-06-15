@@ -3249,26 +3249,6 @@
           "wordCount": 923,
           "title": "CERTFR-2024-AVI-0416 : Vulnérabilité dans OpenSSL (17 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0415/",
-          "publishedOn": "2024-05-17T08:08:27.000Z",
-          "wordCount": 976,
-          "title": "CERTFR-2024-AVI-0415 : Multiples vulnérabilités dans les produits Tenable (17 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Palo Alto Networks. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0414/",
-          "publishedOn": "2024-05-17T07:56:28.000Z",
-          "wordCount": 999,
-          "title": "CERTFR-2024-AVI-0414 : Vulnérabilité dans les produits Palo Alto Networks (17 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
