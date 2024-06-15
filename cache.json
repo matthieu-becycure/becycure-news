@@ -3239,16 +3239,6 @@
           "wordCount": 1046,
           "title": "CERTFR-2024-AVI-0417 : Multiples vulnérabilités dans Microsoft Edge (17 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/",
-          "publishedOn": "2024-05-17T08:22:42.000Z",
-          "wordCount": 923,
-          "title": "CERTFR-2024-AVI-0416 : Vulnérabilité dans OpenSSL (17 mai 2024)",
-          "imageUrl": null
         }
       ]
     }

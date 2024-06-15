@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-15T20:11:49.323Z</updated>
+    <updated>2024-06-15T20:28:09.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2556,16 +2556,6 @@ The backdoor, codenamed Gomir, is "structurally almost identical to GoBear, wit
         <updated>2024-05-17T08:29:15.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.
  Google indique que la vulnérabilité …]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CERTFR-2024-AVI-0416 : Vulnérabilité dans OpenSSL (17 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0416/"/>
-        <updated>2024-05-17T08:22:42.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
