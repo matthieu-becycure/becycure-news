@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4mP8B96EWYEiuIhr6QfWevzBBDrF1MExz8DaxQyyFW5Xi8oI5PbXBXtS9s2pHFVphKGD-17WDofzuHK0yqCr6pZ6wlGEPnWXEpVl8O5bynP0-n-wITgskYUjgHq5TqJp0XGOSm9hW1oAmzlsRdvXHciMXmnCjotvoj0Tugvqgcu4fvm_4WwFVgZxLgaJ/s1600/victim.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI4mP8B96EWYEiuIhr6QfWevzBBDrF1MExz8DaxQyyFW5Xi8oI5PbXBXtS9s2pHFVphKGD-17WDofzuHK0yqCr6pZ6wlGEPnWXEpVl8O5bynP0-n-wITgskYUjgHq5TqJp0XGOSm9hW1oAmzlsRdvXHciMXmnCjotvoj0Tugvqgcu4fvm_4WwFVgZxLgaJ/s1600/victim.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new report from XM Cyber has found – among other insights - a dramatic gap between where most organizations focus their security efforts, and where the most serious threats actually reside.\nThe new report, Navigating the Paths of Risk: The State of Exposure Management in 2024, is based on hundreds of thousands of attack path assessments conducted by the XM Cyber",
-          "link": "https://thehackernews.com/2024/05/new-xm-cyber-research-80-of-exposures.html",
-          "publishedOn": "2024-05-17T11:29:00.000Z",
-          "wordCount": null,
-          "title": "New XM Cyber Research: 80% of Exposures from Misconfigurations, Less Than 1% from CVEs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s1600/main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyW5tQUIjpctocrlvWbnUcdnROq7YRBoKp5VQEfa97lFMq6oPX_VN0u_eDInWPMdG2cCEcZgH9L8c0MjYSQoGHpGE1pTPos0ihhtK1IuZIYz7X7go2EOMELR9ch2bTiYMY0ffMQ28jSrkM-xv7KmHgbUTyppDuM_xywMtAR6ZyT5UkT8eR3po0JIXTSeo/s1600/main.png"
         }
       ]
     },
@@ -3176,16 +3160,6 @@
           "publishedOn": "2024-05-17T11:51:12.000Z",
           "wordCount": 3099,
           "title": "CERTFR-2024-AVI-0420 : Multiples vulnérabilités dans le noyau Linux de SUSE (17 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0419/",
-          "publishedOn": "2024-05-17T11:29:04.000Z",
-          "wordCount": 1252,
-          "title": "CERTFR-2024-AVI-0419 : Multiples vulnérabilités dans les produits IBM (17 mai 2024)",
           "imageUrl": null
         }
       ]
