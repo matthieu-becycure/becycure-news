@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-15T03:43:39.691Z</updated>
+    <updated>2024-06-15T04:14:18.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2697,17 +2697,6 @@ CVE-2014-100005 - A cross-site request forgery (CSRF) vulnerability impacting D
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Wi-Fi Vulnerability Enables Network Eavesdropping via Downgrade Attacks]]></title>
-        <id>https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html</id>
-        <link href="https://thehackernews.com/2024/05/new-wi-fi-vulnerability-enabling.html"/>
-        <updated>2024-05-16T16:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Researchers have discovered a new security vulnerability stemming from a design flaw in the IEEE 802.11 Wi-Fi standard that tricks victims into connecting to a less secure wireless network and eavesdrop on their network traffic.
-The SSID Confusion attack, tracked as CVE-2023-52424, impacts all operating systems and Wi-Fi clients, including home and mesh networks that are based on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
