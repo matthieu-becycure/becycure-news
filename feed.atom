@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-15T07:43:50.345Z</updated>
+    <updated>2024-06-15T08:13:28.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Halts AI Training on EU User Data Amid Privacy Concerns]]></title>
+        <id>https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html</id>
+        <link href="https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html"/>
+        <updated>2024-06-15T07:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta on Friday said it's delaying its efforts to train the company's large language models (LLMs) using public content shared by adult users on Facebook and Instagram in the European Union following a request from the Irish Data Protection Commission (DPC).
+The company expressed disappointment at having to put its AI plans on pause, stating it had taken into account feedback from regulators and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit]]></title>
         <id>https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html</id>
