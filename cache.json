@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s1600/cyber.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd44DTDc43zIEkapTS7x1xzyCuyAq_BI-BiV3FPnh7kVYP1TcsOx6e8Vrbg1HCEfH5WSLrvA5nQqj6MuOxwidV_Z932WsQP4IY4evbsueNrOTCA41v9AK8CSs7sEGvsiLkFMK9y_wVU6sMKHy3ga73CEwIJjnJjLdbfBUD2QihTjVvHBxrbWQXpYfiiNKn/s1600/cyber.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Kimsuky (aka Springtail) advanced persistent threat (APT) group, which is linked to North Korea's Reconnaissance General Bureau (RGB), has been observed deploying a Linux version of its GoBear backdoor as part of a campaign targeting South Korean organizations.\nThe backdoor, codenamed Gomir, is \"structurally almost identical to GoBear, with extensive sharing of code between",
-          "link": "https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html",
-          "publishedOn": "2024-05-17T08:46:00.000Z",
-          "wordCount": null,
-          "title": "Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKkkd9TlpBH69SJ2A5la8Bres_d4l53vzANAK7W2RVh3HJoJjX9PuIhhtiYhO5YlDnu8RuFrT8bAyj_0DwcjPB4tSIcLglj7N2PGus3G1cYnF29ytBkUvgf_DuGCsD5wc7c9NZ-Y5WoSifZzg5ZcNs2nbhRgepHlfcURgaVUvEu_6OQwZktjWfr-did40B/s1600/linux.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKkkd9TlpBH69SJ2A5la8Bres_d4l53vzANAK7W2RVh3HJoJjX9PuIhhtiYhO5YlDnu8RuFrT8bAyj_0DwcjPB4tSIcLglj7N2PGus3G1cYnF29ytBkUvgf_DuGCsD5wc7c9NZ-Y5WoSifZzg5ZcNs2nbhRgepHlfcURgaVUvEu_6OQwZktjWfr-did40B/s1600/linux.png"
         }
       ]
     },

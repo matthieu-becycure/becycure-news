@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-15T20:43:36.340Z</updated>
+    <updated>2024-06-15T21:09:45.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2524,17 +2524,6 @@ The new report, Navigating the Paths of Risk: The State of Exposure Management i
         <updated>2024-05-17T11:20:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have shed more light on a remote access trojan (RAT) known as Deuterbear used by the China-linked BlackTech hacking group as part of a cyber espionage campaign targeting the Asia-Pacific region this year.
 "Deuterbear, while similar to Waterbear in many ways, shows advancements in capabilities such as including support for shellcode plugins, avoiding handshakes]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimsuky APT Deploying Linux Backdoor Gomir in South Korean Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html</id>
-        <link href="https://thehackernews.com/2024/05/kimsuky-apt-deploying-linux-backdoor.html"/>
-        <updated>2024-05-17T08:46:00.000Z</updated>
-        <summary type="html"><![CDATA[The Kimsuky (aka Springtail) advanced persistent threat (APT) group, which is linked to North Korea's Reconnaissance General Bureau (RGB), has been observed deploying a Linux version of its GoBear backdoor as part of a campaign targeting South Korean organizations.
-The backdoor, codenamed Gomir, is "structurally almost identical to GoBear, with extensive sharing of code between]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
