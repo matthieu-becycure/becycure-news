@@ -3269,26 +3269,6 @@
           "wordCount": 999,
           "title": "CERTFR-2024-AVI-0414 : Vulnérabilité dans les produits Palo Alto Networks (17 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0413/",
-          "publishedOn": "2024-05-17T07:39:13.000Z",
-          "wordCount": 984,
-          "title": "CERTFR-2024-AVI-0413 : Multiples vulnérabilités dans les produits MongoDB (17 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0412/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0412/",
-          "publishedOn": "2024-05-17T07:32:18.000Z",
-          "wordCount": 1015,
-          "title": "CERTFR-2024-AVI-0412 : Multiples vulnérabilités dans les produits Mitel (17 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
