@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-15T09:11:08.065Z</updated>
+    <updated>2024-06-15T09:25:36.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html</id>
+        <link href="https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html"/>
+        <updated>2024-06-15T08:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected Pakistan-based threat actor has been linked to a cyber espionage campaign targeting Indian government entities in 2024.
+Cybersecurity company Volexity is tracking the activity under the moniker UTA0137, noting the adversary's exclusive use of a malware called DISGOMOJI that's written in Golang and is designed to infect Linux systems.
+"It is a modified version of the public project]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Halts AI Training on EU User Data Amid Privacy Concerns]]></title>
         <id>https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html</id>
