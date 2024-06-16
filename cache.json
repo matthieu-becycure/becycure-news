@@ -3131,36 +3131,6 @@
           "wordCount": 2064,
           "title": "CERTFR-2024-ACT-022 : Bulletin d’actualité CERTFR-2024-ACT-022 (21 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0422/",
-          "publishedOn": "2024-05-17T12:30:54.000Z",
-          "wordCount": 1494,
-          "title": "CERTFR-2024-AVI-0422 : Multiples vulnérabilités dans le noyau Linux d’Ubuntu (17 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0421/",
-          "publishedOn": "2024-05-17T12:19:49.000Z",
-          "wordCount": 1175,
-          "title": "CERTFR-2024-AVI-0421 : Multiples vulnérabilités dans le noyau Linux de RedHat (17 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0420/",
-          "publishedOn": "2024-05-17T11:51:12.000Z",
-          "wordCount": 3099,
-          "title": "CERTFR-2024-AVI-0420 : Multiples vulnérabilités dans le noyau Linux de SUSE (17 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
