@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-16T05:11:41.589Z</updated>
+    <updated>2024-06-16T05:30:24.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2462,17 +2462,6 @@ The foreign nationals have been "charged for leading a scheme]]></summary>
         <updated>2024-05-19T07:59:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actors behind the Windows-based Grandoreiro banking trojan have returned in a global campaign since March 2024 following a law enforcement takedown in January.
 The large-scale phishing attacks, likely facilitated by other cybercriminals via a malware-as-a-service (MaaS) model, target over 1,500 banks across the world, spanning more than 60 countries in Central and South]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kinsing Hacker Group Exploits More Flaws to Expand Botnet for Cryptojacking]]></title>
-        <id>https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html</id>
-        <link href="https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html"/>
-        <updated>2024-05-17T17:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The cryptojacking group known as Kinsing has demonstrated its ability to continuously evolve and adapt, proving to be a persistent threat by swiftly integrating newly disclosed vulnerabilities to exploit arsenal and expand its botnet.
-The findings come from cloud security firm Aqua, which described the threat actor as actively orchestrating illicit cryptocurrency mining]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
