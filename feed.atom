@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-17T12:21:05.169Z</updated>
+    <updated>2024-06-17T12:56:35.699Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Infiltrate East Asian Firm for 3 Years Using F5 Devices]]></title>
+        <id>https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html</id>
+        <link href="https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html"/>
+        <updated>2024-06-17T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected China-nexus cyber espionage actor has been attributed as behind a prolonged attack against an unnamed organization located in East Asia for a period of about three years, with the adversary establishing persistence using legacy F5 BIG-IP appliances and using it as an internal command-and-control (C&C) for defense evasion purposes.
+Cybersecurity company Sygnia, which responded to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What is DevSecOps and Why is it Essential for Secure Software Delivery?]]></title>
         <id>https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html</id>
