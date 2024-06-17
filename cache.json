@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Traditional application security practices are not effective in the modern DevOps world. When security scans are run only at the end of the software delivery lifecycle (either right before or after a service is deployed), the ensuing process of compiling and fixing vulnerabilities creates massive overhead for developers. The overhead that degrades velocity and puts production deadlines at risk.",
+          "link": "https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html",
+          "publishedOn": "2024-06-17T11:26:00.000Z",
+          "wordCount": null,
+          "title": "What is DevSecOps and Why is it Essential for Secure Software Delivery?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s1600/devsec.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s1600/devsec.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Legitimate-but-compromised websites are being used as a conduit to deliver a Windows backdoor dubbed BadSpace under the guise of fake browser updates.\n\"The threat actor employs a multi-stage attack chain involving an infected website, a command-and-control (C2) server, in some cases a fake browser update, and a JScript downloader to deploy a backdoor into the victim's system,\" German",
