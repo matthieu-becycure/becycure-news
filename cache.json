@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "VMware has released updates to address critical flaws impacting Cloud Foundation, vCenter Server, and vSphere ESXi that could be exploited to achieve privilege escalation and remote code execution.\nThe list of vulnerabilities is as follows -\n\nCVE-2024-37079 & CVE-2024-37080 (CVSS scores: 9.8) - Multiple heap-overflow vulnerabilities in the implementation of the DCE/RPC protocol that could",
+          "link": "https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html",
+          "publishedOn": "2024-06-18T08:24:00.000Z",
+          "wordCount": null,
+          "title": "VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_363QDqRSIeSM8F37EYkY6wGLOXzTBSSck2QQQga13k-aL9x9Ah2h692wmXPTmjV6XoB2hx4tGXepQqHY6F1jbUIU9qkGP-1X2cNL2aVa8lBtYF-Yw-ZSvIryy3QEjT-VevSnahRiYJW8I8JG62G2HfWCuBj2UEXt32b4Nwuk7Mq_CUHNpFepAn8kCIc/s1600/vmware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEho_363QDqRSIeSM8F37EYkY6wGLOXzTBSSck2QQQga13k-aL9x9Ah2h692wmXPTmjV6XoB2hx4tGXepQqHY6F1jbUIU9qkGP-1X2cNL2aVa8lBtYF-Yw-ZSvIryy3QEjT-VevSnahRiYJW8I8JG62G2HfWCuBj2UEXt32b4Nwuk7Mq_CUHNpFepAn8kCIc/s1600/vmware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Singapore Police Force (SPF) has announced the extradition of two men from Malaysia for their alleged involvement in a mobile malware campaign targeting citizens in the country since June 2023.\nThe unnamed individuals, aged 26 and 47, engaged in scams that tricked unsuspecting users into downloading malicious apps onto their Android devices via phishing campaigns with the aim of stealing",
