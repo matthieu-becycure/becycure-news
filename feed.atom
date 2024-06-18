@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-18T13:43:25.799Z</updated>
+    <updated>2024-06-18T14:10:36.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer]]></title>
+        <id>https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html</id>
+        <link href="https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html"/>
+        <updated>2024-06-18T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are luring unsuspecting users with free or pirated versions of commercial software to deliver a malware loader called Hijack Loader, which then deploys an information stealer known as Vidar Stealer.
+"Adversaries had managed to trick users into downloading password-protected archive files containing trojanized copies of a Cisco Webex Meetings App (ptService.exe)," Trellix security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Annual SaaS Security Report: 2025 CISO Plans and Priorities]]></title>
         <id>https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html</id>
