@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-18T10:11:58.927Z</updated>
+    <updated>2024-06-18T10:31:45.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Targets Exposed Docker APIs for Cryptocurrency Mining]]></title>
+        <id>https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html</id>
+        <link href="https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html"/>
+        <updated>2024-06-18T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new malware campaign that targets publicly exposed Docket API endpoints with the aim of delivering cryptocurrency miners and other payloads.
+Included among the tools deployed is a remote access tool that's capable of downloading and executing more malicious programs as well as a utility to propagate the malware via SSH, cloud analytics platform Datadog]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware Issues Patches for Cloud Foundation, vCenter Server, and vSphere ESXi]]></title>
         <id>https://thehackernews.com/2024/06/vmware-issues-patches-for-cloud.html</id>
