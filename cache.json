@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A controversial proposal put forth by the European Union to scan users' private messages for detection child sexual abuse material (CSAM) poses severe risks to end-to-end encryption (E2EE), warned Meredith Whittaker, president of the Signal Foundation, which maintains the privacy-focused messaging service of the same name.\n\"Mandating mass scanning of private communications fundamentally",
+          "link": "https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html",
+          "publishedOn": "2024-06-18T16:22:00.000Z",
+          "wordCount": null,
+          "title": "Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s1600/signal.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3S1wmofuBBBu8z7KbLOM3NRQHpSTeXGT8OuGJv9ANaVZRegeD8GecYliNH8msynXeGIfYuj63wsHfvuvOeXP0RjgWaIct9pXzpKSBmYaQZyzjiTIHNuwBy_QXOyqV3o5OX9gEtruiOnUBpvPOmPMdvwVRtOlF64rXNgkmkXbr7Qc1artQnargGT9ed7kL/s1600/signal.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are luring unsuspecting users with free or pirated versions of commercial software to deliver a malware loader called Hijack Loader, which then deploys an information stealer known as Vidar Stealer.\n\"Adversaries had managed to trick users into downloading password-protected archive files containing trojanized copies of a Cisco Webex Meetings App (ptService.exe),\" Trellix security",
