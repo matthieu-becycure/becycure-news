@@ -2381,6 +2381,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001",
+          "author": null,
+          "description": "🇬🇧 The following indicators of compromise are associated with the phishing campaigns by the Nobelium intrusion set described in the CERTFR-2024-CTI-006 report. These technical elements are provided to help detecting malicious activities in logs or inside live network trafic. DOWNLOAD IOCs (JSON...",
+          "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001",
+          "publishedOn": "2024-06-19T12:52:43.000Z",
+          "wordCount": 301,
+          "title": "🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506",
+          "publishedOn": "2024-06-19T11:30:45.000Z",
+          "wordCount": 1290,
+          "title": "Multiples vulnérabilités dans Juniper Secure Analytics (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006",
+          "author": null,
+          "description": "Several cyberattacks against French diplomatic entities can be linked to the Nobelium intrusion set. Nobelium is an intrusion set active since at least October 2020, used against high-value targets, most likely for espionage purposes. Western diplomatic entities, such as embassies and Ministries...",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006",
+          "publishedOn": "2024-06-19T09:20:57.000Z",
+          "wordCount": 442,
+          "title": "🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505",
+          "publishedOn": "2024-06-19T08:41:06.000Z",
+          "wordCount": 475,
+          "title": "Multiples vulnérabilités dans Moodle (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504",
+          "publishedOn": "2024-06-19T08:32:26.000Z",
+          "wordCount": 519,
+          "title": "Multiples vulnérabilités dans les produits Atlassian (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503",
+          "publishedOn": "2024-06-19T07:58:56.000Z",
+          "wordCount": 347,
+          "title": "Multiples vulnérabilités dans Google Chrome (19 juin 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0502",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
