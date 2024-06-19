@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolmFL73ScF7XKfwHbFkQh58Wc8QOJ22Xi48brzDqAa-yPkJycBBF2-APfh2hbqy-sCaUyi05NYHCIXgdI99qqE7XKYjPQG07mA7zdF8U3SVcvj-lpFncWg8EkQ6yuKzfxbPvt1BUhsFnMfKO5wxKdLqIMGyekmUjYEWjaznW1aVW2KfyGShmfqSmWO7JT/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiolmFL73ScF7XKfwHbFkQh58Wc8QOJ22Xi48brzDqAa-yPkJycBBF2-APfh2hbqy-sCaUyi05NYHCIXgdI99qqE7XKYjPQG07mA7zdF8U3SVcvj-lpFncWg8EkQ6yuKzfxbPvt1BUhsFnMfKO5wxKdLqIMGyekmUjYEWjaznW1aVW2KfyGShmfqSmWO7JT/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple threat actors are weaponizing a design flaw in Foxit PDF Reader to deliver a variety of malware such as Agent Tesla, AsyncRAT, DCRat, NanoCore RAT, NjRAT, Pony, Remcos RAT, and XWorm.\n\"This exploit triggers security warnings that could deceive unsuspecting users into executing harmful commands,\" Check Point said in a technical report. \"This exploit has been used by multiple",
-          "link": "https://thehackernews.com/2024/05/foxit-pdf-reader-flaw-exploited-by.html",
-          "publishedOn": "2024-05-20T12:20:00.000Z",
-          "wordCount": null,
-          "title": "Foxit PDF Reader Flaw Exploited by Hackers to Deliver Diverse Malware Arsenal",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRiV_XiRI9o2S5jAcxj7y6CyJFJEriCacEVFhydLwRPJLFqxhs6qGG6wdDhH8K6-HKrBLDTUN8MX2hqb_513Qu2JtOo5E_J-FiO-KjyqMKvv4qldMUwpwBgHnmCfUyppRmYBAS0AIYh86_BgPN5gBPGcN50ofL0hWx05Teogx2goq8d42BTEl8AeuqVLR/s1600/pdf.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinRiV_XiRI9o2S5jAcxj7y6CyJFJEriCacEVFhydLwRPJLFqxhs6qGG6wdDhH8K6-HKrBLDTUN8MX2hqb_513Qu2JtOo5E_J-FiO-KjyqMKvv4qldMUwpwBgHnmCfUyppRmYBAS0AIYh86_BgPN5gBPGcN50ofL0hWx05Teogx2goq8d42BTEl8AeuqVLR/s1600/pdf.png"
         }
       ]
     },
