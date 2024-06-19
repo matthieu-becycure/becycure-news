@@ -2324,38 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw has been disclosed in the llama_cpp_python Python package that could be exploited by threat actors to achieve arbitrary code execution.\nTracked as CVE-2024-34359 (CVSS score: 9.7), the flaw has been codenamed Llama Drama by software supply chain security firm Checkmarx.\n\"If exploited, it could allow attackers to execute arbitrary code on your system,",
-          "link": "https://thehackernews.com/2024/05/researchers-uncover-flaws-in-python.html",
-          "publishedOn": "2024-05-21T10:22:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Flaws in Python Package for AI Models and PDF.js Used by Firefox",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VqOkAZrz_HIQstJ1Xqey1yQxhbv4BPE3ZRxcFvPmNbbFvEGjwOuPq_EJFXuusvUJeyWr9bLpcFMuY0k2QRmwsTi4vlCAm1qxHoNnaZCa8bjafLYFSOiOjQs0KQW2RrysWZdTY9755sPGC9MD0vHTYGYqPwQXxU_s7_-gowaxvMnA32n6E369yDP3ovN0/s1600/pdf.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VqOkAZrz_HIQstJ1Xqey1yQxhbv4BPE3ZRxcFvPmNbbFvEGjwOuPq_EJFXuusvUJeyWr9bLpcFMuY0k2QRmwsTi4vlCAm1qxHoNnaZCa8bjafLYFSOiOjQs0KQW2RrysWZdTY9755sPGC9MD0vHTYGYqPwQXxU_s7_-gowaxvMnA32n6E369yDP3ovN0/s1600/pdf.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/streamlining-it-security-compliance.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "File Integrity Monitoring (FIM) is an IT security control that monitors and detects file changes in computer systems. It helps organizations audit important files and system configurations by routinely scanning and verifying their integrity. Most information security standards mandate the use of FIM for businesses to ensure the integrity of their data.\nIT security compliance involves adhering to",
-          "link": "https://thehackernews.com/2024/05/streamlining-it-security-compliance.html",
-          "publishedOn": "2024-05-21T10:21:00.000Z",
-          "wordCount": null,
-          "title": "Streamlining IT Security Compliance Using the Wazuh FIM Capability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
         }
       ]
     },
