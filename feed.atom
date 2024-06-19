@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-19T07:43:42.439Z</updated>
+    <updated>2024-06-19T08:14:37.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mailcow Mail Server Flaws Expose Servers to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html</id>
+        <link href="https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html"/>
+        <updated>2024-06-19T07:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Two security vulnerabilities have been disclosed in the Mailcow open-source mail server suite that could be exploited by malicious actors to achieve arbitrary code execution on susceptible instances.
+Both shortcomings impact all versions of the software prior to version 2024-04, which was released on April 4, 2024. The issues were responsibly disclosed by SonarSource on March 22, 2024.
+The flaws]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM]]></title>
         <id>https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html</id>
