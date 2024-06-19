@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-19T10:43:28.886Z</updated>
+    <updated>2024-06-19T11:10:14.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Void Arachne Uses Deepfakes and AI to Deliver Malicious VPNs to Chinese Users]]></title>
+        <id>https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html</id>
+        <link href="https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html"/>
+        <updated>2024-06-19T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[Chinese-speaking users are the target of a never-before-seen threat activity cluster codenamed Void Arachne that employs malicious Windows Installer (MSI) files for virtual private networks (VPNs) to deliver a command-and-control (C&C) framework called Winos 4.0.
+"The campaign also promotes compromised MSI files embedded with nudifiers and deepfake pornography-generating software, as well as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: Markopolo's Scam Targeting Crypto Users via Fake Meeting Software]]></title>
+        <id>https://thehackernews.com/2024/06/warning-markopolos-scam-targeting.html</id>
+        <link href="https://thehackernews.com/2024/06/warning-markopolos-scam-targeting.html"/>
+        <updated>2024-06-19T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor who goes by alias markopolo has been identified as behind a large-scale cross-platform scam that targets digital currency users on social media with information stealer malware and carries out cryptocurrency theft.
+The attack chains involve the use of a purported virtual meeting software named Vortax (and 23 other apps) that are used as a conduit to deliver Rhadamanthys, StealC,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mailcow Mail Server Flaws Expose Servers to Remote Code Execution]]></title>
         <id>https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html</id>
