@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Are your tags really safe with Google Tag Manager? If you've been thinking that using GTM means that your tracking tags and pixels are safely managed, then it might be time to think again. In this article we look at how a big-ticket seller that does business on every continent came unstuck when it forgot that you can’t afford to allow tags to go unmanaged or become misconfigured. \nRead the",
+          "link": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
+          "publishedOn": "2024-06-19T11:03:00.000Z",
+          "wordCount": null,
+          "title": "New Case Study: Unmanaged GTM Tags Become a Security Nightmare",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Chinese-speaking users are the target of a never-before-seen threat activity cluster codenamed Void Arachne that employs malicious Windows Installer (MSI) files for virtual private networks (VPNs) to deliver a command-and-control (C&C) framework called Winos 4.0.\n\"The campaign also promotes compromised MSI files embedded with nudifiers and deepfake pornography-generating software, as well as",

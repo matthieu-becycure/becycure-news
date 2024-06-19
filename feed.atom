@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-19T11:23:49.080Z</updated>
+    <updated>2024-06-19T11:43:48.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Case Study: Unmanaged GTM Tags Become a Security Nightmare]]></title>
+        <id>https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html</id>
+        <link href="https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html"/>
+        <updated>2024-06-19T11:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Are your tags really safe with Google Tag Manager? If you've been thinking that using GTM means that your tracking tags and pixels are safely managed, then it might be time to think again. In this article we look at how a big-ticket seller that does business on every continent came unstuck when it forgot that you can’t afford to allow tags to go unmanaged or become misconfigured. 
+Read the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Void Arachne Uses Deepfakes and AI to Deliver Malicious VPNs to Chinese Users]]></title>
         <id>https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html</id>
