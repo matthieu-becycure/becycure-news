@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUbFqcVY0YG6VRFKm6-WYJAcisG41l5ZPKgUZfc9txVMWZZaijfrG4VPR2VGzAsH6_vXb70rLFiWs4wRrOIDn6XxfHO2SC_WFrEutY0XBEuQNC3CN6KsZDTAoWeVo4Hv1gzr0ZzSvACnw3nZ6WOtPqdHj8x3MIsRxWRkVyv7kqI769UGKP7HaVOCHMmR8/s1600/WAZUH.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Monday confirmed its plans to deprecate NT LAN Manager (NTLM) in Windows 11 in the second half of the year, as it announced a slew of new security measures to harden the widely-used desktop operating system.\n\"Deprecating NTLM has been a huge ask from our security community as it will strengthen user authentication, and deprecation is planned in the second half of 2024,\" the",
-          "link": "https://thehackernews.com/2024/05/windows-11-to-deprecate-ntlm-add-ai.html",
-          "publishedOn": "2024-05-21T09:02:00.000Z",
-          "wordCount": null,
-          "title": "Windows 11 to Deprecate NTLM, Add AI-Powered App Controls and Security Defenses",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHDwHlrCflIV4o3REgAPy3VOZKYfTb2HCUtsRIoJFtKj8JH2fG2TVJGE66ln4oaqW4ES_bUKf7vsuot29ybqQOhZFavsn0jWpAizM33_3BtnWUXJYn_2jvLg8pjfyZ-Y_Qj4VUgJgf6mQiQ03m-iwuKIO_mVBnh3840-70h4BZ1a2DPdHKI7pe5hZ3GKo/s1600/ms.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNHDwHlrCflIV4o3REgAPy3VOZKYfTb2HCUtsRIoJFtKj8JH2fG2TVJGE66ln4oaqW4ES_bUKf7vsuot29ybqQOhZFavsn0jWpAizM33_3BtnWUXJYn_2jvLg8pjfyZ-Y_Qj4VUgJgf6mQiQ03m-iwuKIO_mVBnh3840-70h4BZ1a2DPdHKI7pe5hZ3GKo/s1600/ms.jpg"
         }
       ]
     },
@@ -3348,26 +3332,6 @@
           "publishedOn": "2024-05-21T13:02:17.000Z",
           "wordCount": 1084,
           "title": "CERTFR-2024-AVI-0423 : Multiples vulnérabilités dans les produits NetApp (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022",
-          "publishedOn": "2024-05-21T08:50:51.000Z",
-          "wordCount": 1437,
-          "title": "Bulletin d’actualité CERTFR-2024-ACT-022 (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas …",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-022/",
-          "publishedOn": "2024-05-21T08:50:15.000Z",
-          "wordCount": 2064,
-          "title": "CERTFR-2024-ACT-022 : Bulletin d’actualité CERTFR-2024-ACT-022 (21 mai 2024)",
           "imageUrl": null
         }
       ]
