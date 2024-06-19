@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Crypto exchange Kraken revealed that an unnamed security researcher exploited an \"extremely critical\" zero-day flaw in its platform to steal $3 million in digital assets and refused to return them.\nDetails of the incident were shared by Kraken's Chief Security Officer, Nick Percoco, on X (formerly Twitter), stating it received a Bug Bounty program alert about a bug that \"allowed them to",
+          "link": "https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html",
+          "publishedOn": "2024-06-19T16:40:00.000Z",
+          "wordCount": null,
+          "title": "Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHgJlqHLiGVaoIa3w7KEj4HNDEaCdWCJ5kt287N2VrM2IN20krWTM6Uy9Wi-x77CXEroCggF-SLE92YIXX0jyVkzUM7q4X4c7_jv5Lj4ikImB9u5G1SCCjq5Ssy3-Fo9UA-Wd89qE6sqr4PyauBCacs1xfJr1Qwy8fh-k45HtStpPA7S08FrBzi0xnD78d/s1600/crypto.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHgJlqHLiGVaoIa3w7KEj4HNDEaCdWCJ5kt287N2VrM2IN20krWTM6Uy9Wi-x77CXEroCggF-SLE92YIXX0jyVkzUM7q4X4c7_jv5Lj4ikImB9u5G1SCCjq5Ssy3-Fo9UA-Wd89qE6sqr4PyauBCacs1xfJr1Qwy8fh-k45HtStpPA7S08FrBzi0xnD78d/s1600/crypto.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The China-nexus cyber espionage actor linked to the zero-day exploitation of security flaws in Fortinet, Ivanti, and VMware devices has been observed utilizing multiple persistence mechanisms in order to maintain unfettered access to compromised environments.\n\"Persistence mechanisms encompassed network devices, hypervisors, and virtual machines, ensuring alternative channels remain available",
