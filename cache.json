@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-nexus cyber espionage actor linked to the zero-day exploitation of security flaws in Fortinet, Ivanti, and VMware devices has been observed utilizing multiple persistence mechanisms in order to maintain unfettered access to compromised environments.\n\"Persistence mechanisms encompassed network devices, hypervisors, and virtual machines, ensuring alternative channels remain available",
+          "link": "https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html",
+          "publishedOn": "2024-06-19T15:09:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Cyber Espionage Group Exploits Fortinet, Ivanti and VMware Zero-Days",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s1600/china.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s1600/china.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Are your tags really safe with Google Tag Manager? If you've been thinking that using GTM means that your tracking tags and pixels are safely managed, then it might be time to think again. In this article we look at how a big-ticket seller that does business on every continent came unstuck when it forgot that you can’t afford to allow tags to go unmanaged or become misconfigured. \nRead the",
