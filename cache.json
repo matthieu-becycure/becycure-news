@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioTnZmiFKh2JLfZDTfrFq34naZPdVFoyrtHkUV3fN_KU9PLcaqhKUj7hlpFmzSfs4VGslRhei0qYvvVzkQ_F05jK9VrR7HGTryCM3jEPGNAdHDpxDJ7IPaot2VYw2i8h-g8IW9UVYVNcn2H57FzXhus20cO151d2FSvXeNbclAg7TYtydG6DD4hHJFXNlM/s1600/code.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The persistent threat actors behind the SolarMarker information-stealing malware have established a multi-tiered infrastructure to complicate law enforcement takedown efforts, new findings from Recorded Future show.\n\"The core of SolarMarker's operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely",
-          "link": "https://thehackernews.com/2024/05/solarmarker-malware-evolves-to-resist.html",
-          "publishedOn": "2024-05-21T13:07:00.000Z",
-          "wordCount": null,
-          "title": "SolarMarker Malware Evolves to Resist Takedown Attempts with Multi-Tiered Infrastructure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKDnmEKwvzLV2hL7i2IT8S_VQhFv6YwsXJibqHeluhcApde6rbg88bCohB453m2cTCkdc2cfiWD-9QqmXH58eqe16Xi-cYoDrekGAas2rovMyHR-AUzNlr-u5uAvVR3C_3nOAZ-e6qfZTDs6bd-Y25HtCe5xThuhKDr44buyCiEGZMWhQSC9Gx27LX2NfD/s1600/may.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKDnmEKwvzLV2hL7i2IT8S_VQhFv6YwsXJibqHeluhcApde6rbg88bCohB453m2cTCkdc2cfiWD-9QqmXH58eqe16Xi-cYoDrekGAas2rovMyHR-AUzNlr-u5uAvVR3C_3nOAZ-e6qfZTDs6bd-Y25HtCe5xThuhKDr44buyCiEGZMWhQSC9Gx27LX2NfD/s1600/may.png"
         }
       ]
     },
@@ -3188,86 +3172,6 @@
           "publishedOn": "2024-05-22T12:59:50.000Z",
           "wordCount": 465,
           "title": "Multiples vulnérabilités dans les produits VMware (22 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426",
-          "publishedOn": "2024-05-21T13:34:53.000Z",
-          "wordCount": 361,
-          "title": "Multiples vulnérabilités dans Roundcube (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0426/",
-          "publishedOn": "2024-05-21T13:34:52.000Z",
-          "wordCount": 939,
-          "title": "CERTFR-2024-AVI-0426 : Vulnérabilité dans Roundcube (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425",
-          "publishedOn": "2024-05-21T13:21:54.000Z",
-          "wordCount": 371,
-          "title": "Vulnérabilité dans Ruby on Rails (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Ruby on Rails. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0425/",
-          "publishedOn": "2024-05-21T13:21:52.000Z",
-          "wordCount": 957,
-          "title": "CERTFR-2024-AVI-0425 : Multiples vulnérabilités dans Ruby on Rails (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424",
-          "publishedOn": "2024-05-21T13:14:17.000Z",
-          "wordCount": 353,
-          "title": "Vulnérabilité dans Asterisk (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Asterisk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0424/",
-          "publishedOn": "2024-05-21T13:14:15.000Z",
-          "wordCount": 936,
-          "title": "CERTFR-2024-AVI-0424 : Vulnérabilité dans Asterisk (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données, une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423",
-          "publishedOn": "2024-05-21T13:02:19.000Z",
-          "wordCount": 500,
-          "title": "Multiples vulnérabilités dans les produits NetApp (21 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0423/",
-          "publishedOn": "2024-05-21T13:02:17.000Z",
-          "wordCount": 1084,
-          "title": "CERTFR-2024-AVI-0423 : Multiples vulnérabilités dans les produits NetApp (21 mai 2024)",
           "imageUrl": null
         }
       ]
