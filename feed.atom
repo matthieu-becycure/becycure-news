@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T15:43:47.419Z</updated>
+    <updated>2024-06-20T16:14:52.927Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2561,17 +2561,6 @@ CVE-2024-21902 - An incorrect permission assignment for critical resource]]></s
         <updated>2024-05-22T04:46:00.000Z</updated>
         <summary type="html"><![CDATA[Popular enterprise services provider Zoom has announced the rollout of post-quantum end-to-end encryption (E2EE) for Zoom Meetings, with support for Zoom Phone and Zoom Rooms coming in the future.
 "As adversarial threats become more sophisticated, so does the need to safeguard user data," the company said in a statement. "With the launch of post-quantum E2EE, we are doubling down on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Veeam Backup Enterprise Manager Flaw Allows Authentication Bypass]]></title>
-        <id>https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html</id>
-        <link href="https://thehackernews.com/2024/05/critical-veeam-backup-enterprise.html"/>
-        <updated>2024-05-22T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Users of Veeam Backup Enterprise Manager are being urged to update to the latest version following the discovery of a critical security flaw that could permit an adversary to bypass authentication protections.
-Tracked as CVE-2024-29849 (CVSS score: 9.8), the vulnerability could allow an unauthenticated attacker to log in to the Veeam Backup Enterprise Manager web interface as]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
