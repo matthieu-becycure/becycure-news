@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T17:09:58.939Z</updated>
+    <updated>2024-06-20T17:27:10.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2537,19 +2537,6 @@ Elastic Security Labs is tracking the campaign under the name REF4578 and the pr
         <summary type="html"><![CDATA[An unknown threat actor is exploiting known security flaws in Microsoft Exchange Server to deploy a keylogger malware in attacks targeting entities in Africa and the Middle East.
 Russian cybersecurity firm Positive Technologies said it identified over 30 victims spanning government agencies, banks, IT companies, and educational institutions. The first-ever compromise dates back to 2021.
 "This]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances]]></title>
-        <id>https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html</id>
-        <link href="https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html"/>
-        <updated>2024-05-22T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Taiwanese company QNAP has rolled out fixes for a set of medium-severity flaws impacting QTS and QuTS hero, some of which could be exploited to achieve code execution on its network-attached storage (NAS) appliances.
-The issues, which impact QTS 5.1.x and QuTS hero h5.1.x, are listed below -
-
-CVE-2024-21902 - An incorrect permission assignment for critical resource]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

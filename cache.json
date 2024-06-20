@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvFbct90kMiUaJ1POK6KYGnSysRgM_OI3n4DV56YgeG8j59sa86Mrvaz3bdjsbLERLY4vWPAOGFb0PTMzZnAV7kmwawe_3hkr4n0OY5mbnFVLjEGweubLIOMcfUr51fT5rWH6jPQQU29-CvmknyaN_IXHhbGKM8hOFLSRK7FssY0RXxLrSV9Z66uT1QTs/s1600/ms.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuvFbct90kMiUaJ1POK6KYGnSysRgM_OI3n4DV56YgeG8j59sa86Mrvaz3bdjsbLERLY4vWPAOGFb0PTMzZnAV7kmwawe_3hkr4n0OY5mbnFVLjEGweubLIOMcfUr51fT5rWH6jPQQU29-CvmknyaN_IXHhbGKM8hOFLSRK7FssY0RXxLrSV9Z66uT1QTs/s1600/ms.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Taiwanese company QNAP has rolled out fixes for a set of medium-severity flaws impacting QTS and QuTS hero, some of which could be exploited to achieve code execution on its network-attached storage (NAS) appliances.\nThe issues, which impact QTS 5.1.x and QuTS hero h5.1.x, are listed below -\n\nCVE-2024-21902 - An incorrect permission assignment for critical resource",
-          "link": "https://thehackernews.com/2024/05/qnap-patches-new-flaws-in-qts-and-quts.html",
-          "publishedOn": "2024-05-22T05:15:00.000Z",
-          "wordCount": null,
-          "title": "QNAP Patches New Flaws in QTS and QuTS hero Impacting NAS Appliances",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5bLaF3ZIspfO3Y7DlBlt_w6meAz5I2NO5P3J4kM7uEa1N1z63dXEtIYGux9Xusy-JfQyDAdimpXn94NiyEJSw26uFuT0lfJK1Y438RytqZxdJu7qEKEGoo8gWlLt6iQIxZZuUNr9XMGlwvpc5SUXiLuQRAy_G_H-UV7d5po2WtRRas3I1tMoA9MT249h/s1600/qnap.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc5bLaF3ZIspfO3Y7DlBlt_w6meAz5I2NO5P3J4kM7uEa1N1z63dXEtIYGux9Xusy-JfQyDAdimpXn94NiyEJSw26uFuT0lfJK1Y438RytqZxdJu7qEKEGoo8gWlLt6iQIxZZuUNr9XMGlwvpc5SUXiLuQRAy_G_H-UV7d5po2WtRRas3I1tMoA9MT249h/s1600/qnap.png"
         }
       ]
     },
