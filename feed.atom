@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T06:33:37.628Z</updated>
+    <updated>2024-06-20T06:43:32.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations]]></title>
+        <id>https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html</id>
+        <link href="https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html"/>
+        <updated>2024-06-20T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new evasive malware loader named SquidLoader that spreads via phishing campaigns targeting Chinese organizations.
+AT&T LevelBlue Labs, which first observed the malware in late April 2024, said it incorporates features that are designed to thwart static and dynamic analysis and ultimately evade detection.
+Attack chains leverage phishing emails that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw]]></title>
         <id>https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html</id>
