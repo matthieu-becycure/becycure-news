@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s1600/ad.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp6y1XzqX90laJKklPWt-J8GLPqsLLhQgel2A66R37lIV1a-GXWdhNRyxhjr48qM5o4cVY686YtuyjYB8g5Wc87GoqrnHkXSD9E0v_QFb-gXCfpMTevJTpVJNy16q_7hkJWJpmuoc3aMoXfUoP5om8qQTpDsUFSGWeSPSM-itkRfev6IrWelyoK0LXevY/s1600/ad.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new cryptojacking campaign that employs vulnerable drivers to disable known security solutions (EDRs) and thwart detection in what's called a Bring Your Own Vulnerable Driver (BYOVD) attack.\nElastic Security Labs is tracking the campaign under the name REF4578 and the primary payload as GHOSTENGINE. Previous research from Chinese",
-          "link": "https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html",
-          "publishedOn": "2024-05-22T08:57:00.000Z",
-          "wordCount": null,
-          "title": "GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s1600/crypto-malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpO0fXo_l1wNBmNdjsT-Ec0GymVUtBx7JFCV-5EpgBNUBofiO9QAaORQlVJ16cQpM7AWFI-RNlW4S9QJKimnT1UWajxND12eQpcfQPST1ySneL5altHruvqmdWMP_x2m9BC98QYG1rDR0pqQGhk2wNbYif1tt0-MhywRtg8VWcU3tm55SVYxze0KwuefRW/s1600/crypto-malware.png"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T20:43:40.963Z</updated>
+    <updated>2024-06-20T21:11:51.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2514,17 +2514,6 @@ To that end, customers are required to take immediate]]></summary>
         <link href="https://thehackernews.com/2024/05/the-ultimate-saas-security-posture.html"/>
         <updated>2024-05-22T10:01:00.000Z</updated>
         <summary type="html"><![CDATA[Since the first edition of The Ultimate SaaS Security Posture Management (SSPM) Checklist was released three years ago, the corporate SaaS sprawl has been growing at a double-digit pace. In large enterprises, the number of SaaS applications in use today is in the hundreds, spread across departmental stacks, complicating the job of security teams to protect organizations against]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GHOSTENGINE Exploits Vulnerable Drivers to Disable EDRs in Cryptojacking Attack]]></title>
-        <id>https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html</id>
-        <link href="https://thehackernews.com/2024/05/ghostengine-exploits-vulnerable-drivers.html"/>
-        <updated>2024-05-22T08:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new cryptojacking campaign that employs vulnerable drivers to disable known security solutions (EDRs) and thwart detection in what's called a Bring Your Own Vulnerable Driver (BYOVD) attack.
-Elastic Security Labs is tracking the campaign under the name REF4578 and the primary payload as GHOSTENGINE. Previous research from Chinese]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
