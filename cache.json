@@ -2317,6 +2317,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Sonicwall. Elles permettent à un attaquant de provoquer un déni de service à distance",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509",
+          "publishedOn": "2024-06-20T12:34:54.000Z",
+          "wordCount": 345,
+          "title": "Multiples vulnérabilités dans SonicWall SonicOS (20 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508",
+          "publishedOn": "2024-06-20T12:29:34.000Z",
+          "wordCount": 445,
+          "title": "Multiples vulnérabilités dans les produits Moxa (20 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507",
+          "author": null,
+          "description": "Une vulnérabilités a été découverte dans Spring Cloud Function. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507",
+          "publishedOn": "2024-06-20T07:19:50.000Z",
+          "wordCount": 332,
+          "title": "Vulnérabilité dans Spring Cloud Function (20 juin 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001",
           "author": null,
           "description": "🇬🇧 The following indicators of compromise are associated with the phishing campaigns by the Nobelium intrusion set described in the CERTFR-2024-CTI-006 report. These technical elements are provided to help detecting malicious activities in logs or inside live network trafic. DOWNLOAD IOCs (JSON...",
