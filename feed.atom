@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T07:43:26.592Z</updated>
+    <updated>2024-06-20T08:15:13.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html</id>
+        <link href="https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html"/>
+        <updated>2024-06-20T08:09:00.000Z</updated>
+        <summary type="html"><![CDATA[A new Rust-based information stealer malware called Fickle Stealer has been observed being delivered via multiple attack chains with the goal of harvesting sensitive information from compromised hosts.
+Fortinet FortiGuard Labs said it's aware of four different distribution methods -- namely VBA dropper, VBA downloader, link downloader, and executable downloader -- with some of them using a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations]]></title>
         <id>https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html</id>
