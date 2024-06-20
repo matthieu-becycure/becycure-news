@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnd2XOr4_BAEgKAgVP2BpMDxTM0-2N7APBDZcaJ3IIkfsLflVBwH-F_LBOfHiHtEdHuTEx_LBNMSEzQLn2wWExMDu0IG8k28WBTiJGVWW68G82XgcoIK30w3ra0bgLH-WbQtomJ_xRPO-4MpdUglFJ7ahLpya4wIsS7rhyphenhyphenW2vrMjcL4Ux_es32VDwNZNL/s1600/veeam.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJnd2XOr4_BAEgKAgVP2BpMDxTM0-2N7APBDZcaJ3IIkfsLflVBwH-F_LBOfHiHtEdHuTEx_LBNMSEzQLn2wWExMDu0IG8k28WBTiJGVWW68G82XgcoIK30w3ra0bgLH-WbQtomJ_xRPO-4MpdUglFJ7ahLpya4wIsS7rhyphenhyphenW2vrMjcL4Ux_es32VDwNZNL/s1600/veeam.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitHub has rolled out fixes to address a maximum severity flaw in the GitHub Enterprise Server (GHES) that could allow an attacker to bypass authentication protections.\nTracked as CVE-2024-4985 (CVSS score: 10.0), the issue could permit unauthorized access to an instance without requiring prior authentication.\n\"On instances that use SAML single sign-on (SSO) authentication with the",
-          "link": "https://thehackernews.com/2024/05/critical-github-enterprise-server-flaw.html",
-          "publishedOn": "2024-05-21T16:16:00.000Z",
-          "wordCount": null,
-          "title": "Critical GitHub Enterprise Server Flaw Allows Authentication Bypass",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYu3YNaZw5J6noJEe8zgsNAEl9NPjhiLltDjm8S3LuKCsaN7FSchdxUjk0SpCgdLeXLtKIk9rW7B7pOc5w-b9qVgzD5_G71PYH3YRntp_6vVDIAC_8BX87fUtdAaMul7BElKKeo0nk5l4GOv58yuKDFqPFCPfei1qEnbW8za_px4V5Szn5v68T1Lwe6zAX/s1600/github.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYu3YNaZw5J6noJEe8zgsNAEl9NPjhiLltDjm8S3LuKCsaN7FSchdxUjk0SpCgdLeXLtKIk9rW7B7pOc5w-b9qVgzD5_G71PYH3YRntp_6vVDIAC_8BX87fUtdAaMul7BElKKeo0nk5l4GOv58yuKDFqPFCPfei1qEnbW8za_px4V5Szn5v68T1Lwe6zAX/s1600/github.png"
         }
       ]
     },
