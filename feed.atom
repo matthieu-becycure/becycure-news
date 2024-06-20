@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-20T19:23:35.381Z</updated>
+    <updated>2024-06-20T19:43:31.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2525,18 +2525,6 @@ To that end, customers are required to take immediate]]></summary>
         <updated>2024-05-22T08:57:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new cryptojacking campaign that employs vulnerable drivers to disable known security solutions (EDRs) and thwart detection in what's called a Bring Your Own Vulnerable Driver (BYOVD) attack.
 Elastic Security Labs is tracking the campaign under the name REF4578 and the primary payload as GHOSTENGINE. Previous research from Chinese]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS Exchange Server Flaws Exploited to Deploy Keylogger in Targeted Attacks]]></title>
-        <id>https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html</id>
-        <link href="https://thehackernews.com/2024/05/ms-exchange-server-flaws-exploited-to.html"/>
-        <updated>2024-05-22T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[An unknown threat actor is exploiting known security flaws in Microsoft Exchange Server to deploy a keylogger malware in attacks targeting entities in Africa and the Middle East.
-Russian cybersecurity firm Positive Technologies said it identified over 30 victims spanning government agencies, banks, IT companies, and educational institutions. The first-ever compromise dates back to 2021.
-"This]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
