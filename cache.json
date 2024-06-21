@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Created by John Tuckner and the team at automation and AI-powered workflow platform Tines, the SOC Automation Capability Matrix (SOC ACM) is a set of techniques designed to help security operations teams understand their automation capabilities and respond more effectively to incidents. \nA customizable, vendor-agnostic tool featuring lists of automation opportunities, it's",
+          "link": "https://thehackernews.com/2024/02/how-to-use-tiness-soc-automation.html",
+          "publishedOn": "2024-06-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How to Use Tines's SOC Automation Capability Matrix",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A malvertising campaign is leveraging trojanized installers for popular software such as Google Chrome and Microsoft Teams to drop a backdoor called Oyster (aka Broomstick and CleanUpLoader).\nThat's according to findings from Rapid7, which identified lookalike websites hosting the malicious payloads that users are redirected to after searching for them on search engines like Google and Bing.\nThe",
