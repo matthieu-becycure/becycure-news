@@ -3163,16 +3163,6 @@
           "wordCount": 448,
           "title": "Multiples vulnérabilités dans les produits Mitel (24 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0435",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0435",
-          "publishedOn": "2024-05-23T09:32:32.000Z",
-          "wordCount": 436,
-          "title": "Multiples vulnérabilités dans les produits Cisco (23 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
