@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetOjivWbM8-lvWBoEXtqy3n6cxhXESjRxC1XdOXP3VCgjBAqgH4-iShIFr3y-nX-gNRiWJjRC7FCCQcFOJevjTkIy5JWpF1Z4n8lohzAKY5uWHX4Ao1XpEOTiE3bg6lXwaL2F8zr3RQSKKu7rQAH89f45u74r2PtchODjXSPvD-npuXfC85GZIf6zu05K/s1600/china.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgetOjivWbM8-lvWBoEXtqy3n6cxhXESjRxC1XdOXP3VCgjBAqgH4-iShIFr3y-nX-gNRiWJjRC7FCCQcFOJevjTkIy5JWpF1Z4n8lohzAKY5uWHX4Ao1XpEOTiE3bg6lXwaL2F8zr3RQSKKu7rQAH89f45u74r2PtchODjXSPvD-npuXfC85GZIf6zu05K/s1600/china.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti on Tuesday rolled out fixes to address multiple critical security flaws in Endpoint Manager (EPM) that could be exploited to achieve remote code execution under certain circumstances.\nSix of the 10 vulnerabilities – from CVE-2024-29822 through CVE-2024-29827 (CVSS scores: 9.6) – relate to SQL injection flaws that allow an unauthenticated attacker within the same network to",
-          "link": "https://thehackernews.com/2024/05/ivanti-patches-critical-remote-code.html",
-          "publishedOn": "2024-05-23T09:21:00.000Z",
-          "wordCount": null,
-          "title": "Ivanti Patches Critical Remote Code Execution Flaws in Endpoint Manager",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEa6bwJvaq28OX6jN8eDPiagXRVIzk6CY9H8C305W20wTNoG-Ay-8lBW4H5Z51ecA5QH5SG2qNDr_UAlfYJjiC-nxXAAEOGyeEB0y3B3l0162iMh7NiUkZZaPdnC_9h4uSKffO94tRnJxusu9d1md5Zz-ollf-j3ZPNKoaPi0hN98K7XDNQzfq_0-T9IV/s1600/ivanti.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiEa6bwJvaq28OX6jN8eDPiagXRVIzk6CY9H8C305W20wTNoG-Ay-8lBW4H5Z51ecA5QH5SG2qNDr_UAlfYJjiC-nxXAAEOGyeEB0y3B3l0162iMh7NiUkZZaPdnC_9h4uSKffO94tRnJxusu9d1md5Zz-ollf-j3ZPNKoaPi0hN98K7XDNQzfq_0-T9IV/s1600/ivanti.png"
         }
       ]
     },
