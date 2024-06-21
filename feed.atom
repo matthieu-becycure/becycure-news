@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-21T01:56:11.638Z</updated>
+    <updated>2024-06-21T02:29:07.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2420,28 +2420,6 @@ Six of the 10 vulnerabilities – from CVE-2024-29822 through CVE-2024-29827 (
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0433"/>
         <updated>2024-05-22T14:29:38.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Warn of Chinese-Aligned Hackers Targeting South China Sea Countries]]></title>
-        <id>https://thehackernews.com/2024/05/researchers-warn-of-chinese-aligned.html</id>
-        <link href="https://thehackernews.com/2024/05/researchers-warn-of-chinese-aligned.html"/>
-        <updated>2024-05-22T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a previously undocumented threat group called Unfading Sea Haze that's believed to have been active since 2018.
-The intrusion singled out high-level organizations in South China Sea countries, particularly military and government targets, Bitdefender said in a report shared with The Hacker News.
-"The investigation revealed a troubling]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Atlassian (22 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0432</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0432"/>
-        <updated>2024-05-22T14:01:08.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
