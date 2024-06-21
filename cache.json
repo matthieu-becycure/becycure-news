@@ -3105,56 +3105,6 @@
           "wordCount": 639,
           "title": "Multiples vulnérabilités dans les produits Atlassian (22 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0431",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Veeam. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0431",
-          "publishedOn": "2024-05-22T13:26:43.000Z",
-          "wordCount": 437,
-          "title": "Multiples vulnérabilités dans les produits Veeam (22 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0430",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0430",
-          "publishedOn": "2024-05-22T13:22:46.000Z",
-          "wordCount": 372,
-          "title": "Multiples vulnérabilités dans Google Chrome (22 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0429",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits SolarWinds. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0429",
-          "publishedOn": "2024-05-22T13:17:32.000Z",
-          "wordCount": 352,
-          "title": "Vulnérabilité dans les produits SolarWinds (22 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0428",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Qnap. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0428",
-          "publishedOn": "2024-05-22T13:12:16.000Z",
-          "wordCount": 405,
-          "title": "Multiples vulnérabilités dans les produits Qnap (22 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0427",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0427",
-          "publishedOn": "2024-05-22T12:59:50.000Z",
-          "wordCount": 465,
-          "title": "Multiples vulnérabilités dans les produits VMware (22 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
