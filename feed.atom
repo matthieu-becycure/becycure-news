@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-21T17:29:30.187Z</updated>
+    <updated>2024-06-21T17:43:38.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2508,17 +2508,6 @@ All are valid and necessary conversations for technology organizations of all sh
         <updated>2024-05-23T09:21:00.000Z</updated>
         <summary type="html"><![CDATA[Ivanti on Tuesday rolled out fixes to address multiple critical security flaws in Endpoint Manager (EPM) that could be exploited to achieve remote code execution under certain circumstances.
 Six of the 10 vulnerabilities – from CVE-2024-29822 through CVE-2024-29827 (CVSS scores: 9.6) – relate to SQL injection flaws that allow an unauthenticated attacker within the same network to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End of an Era: Microsoft Phases Out VBScript for JavaScript and PowerShell]]></title>
-        <id>https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html</id>
-        <link href="https://thehackernews.com/2024/05/the-end-of-era-microsoft-phases-out.html"/>
-        <updated>2024-05-23T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Wednesday outlined its plans to deprecate Visual Basic Script (VBScript) in the second half of 2024 in favor of more advanced alternatives such as JavaScript and PowerShell.
-"Technology has advanced over the years, giving rise to more powerful and versatile scripting languages such as JavaScript and PowerShell," Microsoft Program Manager Naveen Shankar said. "These languages]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
