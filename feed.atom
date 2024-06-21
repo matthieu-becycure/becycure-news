@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-21T09:11:59.771Z</updated>
+    <updated>2024-06-21T09:26:57.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SolarWinds Serv-U Vulnerability Under Active Attack - Patch Immediately]]></title>
+        <id>https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html</id>
+        <link href="https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html"/>
+        <updated>2024-06-21T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A recently patched high-severity flaw impacting SolarWinds Serv-U file transfer software is being actively exploited by malicious actors in the wild.
+The vulnerability, tracked as CVE-2024-28995 (CVSS score: 8.6), concerns a directory transversal bug that could allow attackers to read sensitive files on the host machine.
+Affecting all versions of the software prior to and including Serv-U 15.4.2]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Bans Kaspersky Software, Citing National Security Risks]]></title>
         <id>https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html</id>
