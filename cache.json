@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Commerce's Bureau of Industry and Security (BIS) on Thursday announced a \"first of its kind\" ban that prohibits Kaspersky Lab's U.S. subsidiary from directly or indirectly offering its security software in the country.\nThe blockade also extends to the cybersecurity company's affiliates, subsidiaries and parent companies, the department said, adding the action is based on",
+          "link": "https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html",
+          "publishedOn": "2024-06-21T04:25:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Bans Kaspersky Software, Citing National Security Risks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s1600/kaspersky.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s1600/kaspersky.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Phoenix SecureCore UEFI firmware that affects multiple families of Intel Core desktop and mobile processors.\nTracked as CVE-2024-0762 (CVSS score: 7.5), the \"UEFIcanhazbufferoverflow\" vulnerability has been described as a case of a buffer overflow stemming from the use of an unsafe variable in the Trusted Platform",
