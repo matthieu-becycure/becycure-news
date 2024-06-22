@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-22T22:28:20.452Z</updated>
+    <updated>2024-06-22T22:43:37.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2389,17 +2389,6 @@ Join our FREE webinar "Navigating the SMB Threat Landscape: Key Insights from Hu
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps Dilemma: How Can CISOs Regain Control in the Age of Speed?]]></title>
-        <id>https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html</id>
-        <link href="https://thehackernews.com/2024/05/devops-dilemma-how-can-cisos-regain.html"/>
-        <updated>2024-05-24T10:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Introduction
-The infamous Colonial pipeline ransomware attack (2021) and SolarWinds supply chain attack (2020) were more than data leaks; they were seismic shifts in cybersecurity. These attacks exposed a critical challenge for Chief Information Security Officers (CISOs): holding their ground while maintaining control over cloud security in the accelerating world of DevOps.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
