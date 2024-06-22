@@ -3007,16 +3007,6 @@
           "wordCount": 447,
           "title": "Multiples vulnérabilités dans les produits IBM (24 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0441",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0441",
-          "publishedOn": "2024-05-24T11:27:46.000Z",
-          "wordCount": 380,
-          "title": "Vulnérabilité dans les produits WithSecure (24 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
