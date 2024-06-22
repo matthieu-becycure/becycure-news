@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2O3IRYLkP56xaJ5-EMsyacYO4-NiXnllH5gHfd_AucezX2dXR0o4nAUSGs0_Mhx_xrkyspck4H15gXljHjq2efu_x0tl1JHeh3fx7DmlLewuciJIfhls2xWbq7o9bPfYly7lJBJiAhvrGrmt1NxDNR0zvtWw_Zp0L3aqkBiXxfkUzeoWom0qYCLmgtHp/s1600/court.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq2O3IRYLkP56xaJ5-EMsyacYO4-NiXnllH5gHfd_AucezX2dXR0o4nAUSGs0_Mhx_xrkyspck4H15gXljHjq2efu_x0tl1JHeh3fx7DmlLewuciJIfhls2xWbq7o9bPfYly7lJBJiAhvrGrmt1NxDNR0zvtWw_Zp0L3aqkBiXxfkUzeoWom0qYCLmgtHp/s1600/court.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered that the malware known as BLOODALCHEMY used in attacks targeting government organizations in Southern and Southeastern Asia is in fact an updated version of Deed RAT, which is believed to be a successor to ShadowPad.\n\"The origin of BLOODALCHEMY and Deed RAT is ShadowPad and given the history of ShadowPad being utilized in numerous APT",
-          "link": "https://thehackernews.com/2024/05/japanese-experts-warn-of-bloodalchemy.html",
-          "publishedOn": "2024-05-24T09:13:00.000Z",
-          "wordCount": null,
-          "title": "Japanese Experts Warn of BLOODALCHEMY Malware Targeting Government Agencies",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0WR_Xyh7kTaazS9rsbZWua3sn9ZB1AivlTaJeT8FZTJLPc5ISy-UtnNL-mLGXLqKHlm_UbhMpwd2hdJRJCRKqxuxMS8PGRXnBeNVhZ_Pqq1z_XPcL7qurXgTPOlUgRdVNJxmrNQpxwCizIYVS1DFVduh4z82maNRWr6FuiferSfEjMOmG1axKVR-yZn0/s1600/server.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw0WR_Xyh7kTaazS9rsbZWua3sn9ZB1AivlTaJeT8FZTJLPc5ISy-UtnNL-mLGXLqKHlm_UbhMpwd2hdJRJCRKqxuxMS8PGRXnBeNVhZ_Pqq1z_XPcL7qurXgTPOlUgRdVNJxmrNQpxwCizIYVS1DFVduh4z82maNRWr6FuiferSfEjMOmG1axKVR-yZn0/s1600/server.png"
         }
       ]
     },
@@ -3100,16 +3084,6 @@
           "publishedOn": "2024-05-24T11:12:12.000Z",
           "wordCount": 873,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (24 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0438",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0438",
-          "publishedOn": "2024-05-24T09:14:45.000Z",
-          "wordCount": 1112,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (24 mai 2024)",
           "imageUrl": null
         }
       ]
