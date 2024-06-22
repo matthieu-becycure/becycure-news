@@ -3111,26 +3111,6 @@
           "wordCount": 1112,
           "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (24 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0437",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Google Chrome. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2024-5274 est activement exploitée.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0437",
-          "publishedOn": "2024-05-24T09:08:19.000Z",
-          "wordCount": 365,
-          "title": "Vulnérabilité dans Google Chrome (24 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0436",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0436",
-          "publishedOn": "2024-05-24T09:01:13.000Z",
-          "wordCount": 448,
-          "title": "Multiples vulnérabilités dans les produits Mitel (24 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
