@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NYJzMwaBmPPr2xgwv5e5G3gcXxOFfosCEdWWR6SQVy3GnGtNkVghRp7Gfat-Bcx5vh5sfcLZxfOpx2pZ8tPEwdCmfYQzUsLw8aDy43NB7qpXsGl_sZciwzLhtatN60dsR6AV-N4eIag-ks44Zu_RkLd6aOI1j8OeV_DshVZU88vBAY4fWaGEZ9rOZu3W/s1600/wiz.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NYJzMwaBmPPr2xgwv5e5G3gcXxOFfosCEdWWR6SQVy3GnGtNkVghRp7Gfat-Bcx5vh5sfcLZxfOpx2pZ8tPEwdCmfYQzUsLw8aDy43NB7qpXsGl_sZciwzLhtatN60dsR6AV-N4eIag-ks44Zu_RkLd6aOI1j8OeV_DshVZU88vBAY4fWaGEZ9rOZu3W/s1600/wiz.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The MITRE Corporation has revealed that the cyber attack targeting the not-for-profit company towards late December 2023 by exploiting zero-day flaws in Ivanti Connect Secure (ICS) involved the actor creating rogue virtual machines (VMs) within its VMware environment.\n\"The adversary created their own rogue VMs within the VMware environment, leveraging compromised vCenter Server access,\" MITRE",
-          "link": "https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html",
-          "publishedOn": "2024-05-24T16:30:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s1600/server.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s1600/server.png"
         }
       ]
     },

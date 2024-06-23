@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-23T04:29:57.821Z</updated>
+    <updated>2024-06-23T04:43:31.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2314,17 +2314,6 @@ The attack method, called transparent phishing or adversary-in-the-middle (Ait
         <updated>2024-05-25T09:11:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a critical security flaw in an artificial intelligence (AI)-as-a-service provider Replicate that could have allowed threat actors to gain access to proprietary AI models and sensitive information.
 "Exploitation of this vulnerability would have allowed unauthorized access to the AI prompts and results of all Replicate's platform customers,"]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Created Rogue VMs to Evade Detection in Recent MITRE Cyber Attack]]></title>
-        <id>https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html</id>
-        <link href="https://thehackernews.com/2024/05/hackers-created-rogue-vms-to-evade.html"/>
-        <updated>2024-05-24T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The MITRE Corporation has revealed that the cyber attack targeting the not-for-profit company towards late December 2023 by exploiting zero-day flaws in Ivanti Connect Secure (ICS) involved the actor creating rogue virtual machines (VMs) within its VMware environment.
-"The adversary created their own rogue VMs within the VMware environment, leveraging compromised vCenter Server access," MITRE]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
