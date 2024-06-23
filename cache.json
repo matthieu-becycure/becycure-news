@@ -2148,38 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s1600/server.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd7DBL3q3NvlgpVS469muOptoIjz4_GdmMgcq63agM-VwgPgHclAOT1E5GRR5F0B9uqcBgcY-Sv5iL-k08uqLr54H35B8nMuX_tqPQS_fWoCueQJ2EPwtACUOQBfUBWt0XUI96IhVQmJhH_O9A2AJaTPUPAxcjkzB3UxbCzTriGbXDuwl1Y2sBl3sh7MBn/s1600/server.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors have been observed making use of fake websites masquerading as legitimate antivirus solutions from Avast, Bitdefender, and Malwarebytes to propagate malware capable of stealing sensitive information from Android and Windows devices.\n\"Hosting malicious software through sites which look legitimate is predatory to general consumers, especially those who look to protect their devices",
-          "link": "https://thehackernews.com/2024/05/fake-antivirus-websites-deliver-malware.html",
-          "publishedOn": "2024-05-24T12:50:00.000Z",
-          "wordCount": null,
-          "title": "Fake Antivirus Websites Deliver Malware to Android and Windows Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPdZb6x35oUmhaA1G1zHfkDTK8l4-zTz22MHS0JmU7VvlXBKMbhJIpHrcOGlKtLFw8RwwphORbBM3sV0oEAbu5ikhXmy5yDtcsMO7mjManhy8zSMRGgkBzaJVED5IhKPMqFBOmlCM15UCmWYNDFydBCjrhINUV1X3aSP0fZACZ8QJM-FvdMUv6K7jT7jsp/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Don't be fooled into thinking that cyber threats are only a problem for large organizations. The truth is that cybercriminals are increasingly targeting smaller businesses, and they're getting smarter every day.\nJoin our FREE webinar \"Navigating the SMB Threat Landscape: Key Insights from Huntress' Threat Report,\" in which Jamie Levy — Director of Adversary Tactics at Huntress, a renowned",
-          "link": "https://thehackernews.com/2024/05/how-do-hackers-blend-in-so-well-learn.html",
-          "publishedOn": "2024-05-24T11:49:00.000Z",
-          "wordCount": null,
-          "title": "How Do Hackers Blend In So Well? Learn Their Tricks in This Expert Webinar",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s1600/webinar.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdmKvc88o3FzKcGjd72sZKGn8cZGVK46HFzqo6Q1Qz7bpo_-mJu743SW_4o_EoeOQ9_Aghf8ylqboQRfGIphfYargRLVami4fYE3z8tUfEN7r9Zplh8P0UdVN6Qm8anCTAD-3E5ijVR6UavObNv-dzg4xlJR6E1ieIXQ4ZCMx1ALq0Xcb97AXcRbkNg0AU/s1600/webinar.png"
         }
       ]
     },
@@ -2996,16 +2964,6 @@
           "publishedOn": "2024-05-27T07:27:49.000Z",
           "wordCount": 459,
           "title": "Multiples vulnérabilités dans Microsoft Edge (27 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0442",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0442",
-          "publishedOn": "2024-05-24T11:55:37.000Z",
-          "wordCount": 447,
-          "title": "Multiples vulnérabilités dans les produits IBM (24 mai 2024)",
           "imageUrl": null
         }
       ]
