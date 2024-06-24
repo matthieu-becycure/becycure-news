@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have detailed a now-patch security flaw affecting the Ollama open-source artificial intelligence (AI) infrastructure platform that could be exploited to achieve remote code execution.\nTracked as CVE-2024-37032, the vulnerability has been codenamed Probllama by cloud security firm Wiz. Following responsible disclosure on May 5, 2024, the issue was addressed in version",
+          "link": "https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html",
+          "publishedOn": "2024-06-24T13:52:00.000Z",
+          "wordCount": null,
+          "title": "Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wldQKjYyuy5Q2fhGGA-A9Nd5PccHrMIPFei2Lbh-o5cLSDJo_O-jYntv0ZLEm4FcJkSVyR_qcXuah7Lz5GpaDlP7dvw7Nywre-okBXz6Cw-RCV8BO9cF4FsV9WgehGhtVR7J0I7NEnKJ4L0kDov-tL3R_BPF-IGtMWhS6NuBvdWcN5CKVIVFi_LWtAy9/s1600/mail.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wldQKjYyuy5Q2fhGGA-A9Nd5PccHrMIPFei2Lbh-o5cLSDJo_O-jYntv0ZLEm4FcJkSVyR_qcXuah7Lz5GpaDlP7dvw7Nywre-okBXz6Cw-RCV8BO9cF4FsV9WgehGhtVR7J0I7NEnKJ4L0kDov-tL3R_BPF-IGtMWhS6NuBvdWcN5CKVIVFi_LWtAy9/s1600/mail.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/ease-burden-with-ai-driven-threat.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Learn about critical threats that can impact your organization and the bad actors behind them from Cybersixgill’s threat experts. Each story shines a light on underground activities, the threat actors involved, and why you should care, along with what you can do to mitigate risk. \nCybersecurity professionals are facing unprecedented challenges as they strive to manage increasing workloads",
