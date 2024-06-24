@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-24T05:11:30.311Z</updated>
+    <updated>2024-06-24T05:29:06.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices]]></title>
+        <id>https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html</id>
+        <link href="https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html"/>
+        <updated>2024-06-24T05:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple threat actors, including cyber espionage groups, are employing an open-source Android remote administration tool called Rafel RAT to meet their operational objectives by masquerading it as Instagram, WhatsApp, and various e-commerce and antivirus apps.
+"It provides malicious actors with a powerful toolkit for remote administration and control, enabling a range of malicious activities]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor]]></title>
         <id>https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html</id>
