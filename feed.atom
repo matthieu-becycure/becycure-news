@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-25T18:15:41.312Z</updated>
+    <updated>2024-06-25T18:32:59.666Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2464,17 +2464,6 @@ The attack method, called transparent phishing or adversary-in-the-middle (Ait
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2024-5274 est activement exploitée.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakistan-linked Hackers Deploy Python, Golang, and Rust Malware on Indian Targets]]></title>
-        <id>https://thehackernews.com/2024/05/pakistan-linked-hackers-deploy-python.html</id>
-        <link href="https://thehackernews.com/2024/05/pakistan-linked-hackers-deploy-python.html"/>
-        <updated>2024-05-27T06:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The Pakistan-nexus Transparent Tribe actor has been linked to a new set of attacks targeting Indian government, defense, and aerospace sectors using cross-platform malware written in Python, Golang, and Rust.
-"This cluster of activity spanned from late 2023 to April 2024 and is anticipated to persist," the BlackBerry Research and Intelligence Team said in a technical report]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
