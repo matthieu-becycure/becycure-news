@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk2dBGe5R5Hq5UhFoaG6DITVPuLDiriZEbXMTke95UC9APcM7IX_LB0hS-7LvB6CY-GLDmc1-CjpuQwooq2DvkB867vQeAgMwwWiwc8-mqNihnSTQWkVTmp0tywgLje94tn9d705buAhNzMwm2MPpGyQCCD0luYO7w5i04e6HCZm1doqZbtJ_xB0rIvg/s1600/layerx.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIk2dBGe5R5Hq5UhFoaG6DITVPuLDiriZEbXMTke95UC9APcM7IX_LB0hS-7LvB6CY-GLDmc1-CjpuQwooq2DvkB867vQeAgMwwWiwc8-mqNihnSTQWkVTmp0tywgLje94tn9d705buAhNzMwm2MPpGyQCCD0luYO7w5i04e6HCZm1doqZbtJ_xB0rIvg/s1600/layerx.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are alerting of phishing campaigns that abuse Cloudflare Workers to serve phishing sites that are used to harvest users' credentials associated with Microsoft, Gmail, Yahoo!, and cPanel Webmail.\nThe attack method, called transparent phishing or adversary-in-the-middle (AitM) phishing, \"uses Cloudflare Workers to act as a reverse proxy server for a",
-          "link": "https://thehackernews.com/2024/05/new-tricks-in-phishing-playbook.html",
-          "publishedOn": "2024-05-27T09:02:00.000Z",
-          "wordCount": null,
-          "title": "New Tricks in the Phishing Playbook: Cloudflare Workers, HTML Smuggling, GenAI",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ef101SowhJwU352YPVl3iAtc9xMdIuCrJhAUmumTKJvxhVrabFgVgzPDShoBhSudHO6sc0CPmEEhhyphenhyphenTjBHR6dOEB3gfolK1OwEtIYXDlVhWns4K3Yf-f3NiW4Ayt9cGEFFSkjVEY5BF6rrkTxjN769Mx6AnUFUcSpJ5c_TFb-4xWWjkkQFGC0nzUWPW4/s1600/phishing.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3ef101SowhJwU352YPVl3iAtc9xMdIuCrJhAUmumTKJvxhVrabFgVgzPDShoBhSudHO6sc0CPmEEhhyphenhyphenTjBHR6dOEB3gfolK1OwEtIYXDlVhWns4K3Yf-f3NiW4Ayt9cGEFFSkjVEY5BF6rrkTxjN769Mx6AnUFUcSpJ5c_TFb-4xWWjkkQFGC0nzUWPW4/s1600/phishing.png"
         }
       ]
     },
