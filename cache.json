@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Four Vietnamese nationals with ties to the FIN9 cybercrime group have been indicted in the U.S. for their involvement in a series of computer intrusions that caused over $71 million in losses to companies.\nThe defendants, Ta Van Tai (aka Quynh Hoa and Bich Thuy), Nguyen Viet Quoc (aka Tien Nguyen), Nguyen Trang Xuyen, and Nguyen Van Truong (aka Chung Nguyen), have been accused of conducting",
+          "link": "https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html",
+          "publishedOn": "2024-06-25T03:52:00.000Z",
+          "wordCount": null,
+          "title": "4 FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBOK75Wu-NVMURXtB631FNOXQDiky_bM4zb-mJNMGfaBz9LcCgbgl5cOmu4i__LWd_1NXq0D10Sa8RfmlsnDuUdn3g3aRBW_y-5R7lsJZ8U7AJleGDcmsHc1vVngKztcB6PqbYtL0RFs3JuP-eGaw5WP0qu1ekHeb0rVqWiyyBIEYioa6PDkSu7O1phZJX/s1600/fin-hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBOK75Wu-NVMURXtB631FNOXQDiky_bM4zb-mJNMGfaBz9LcCgbgl5cOmu4i__LWd_1NXq0D10Sa8RfmlsnDuUdn3g3aRBW_y-5R7lsJZ8U7AJleGDcmsHc1vVngKztcB6PqbYtL0RFs3JuP-eGaw5WP0qu1ekHeb0rVqWiyyBIEYioa6PDkSu7O1phZJX/s1600/fin-hacker.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple WordPress plugins have been backdoored to inject malicious code that makes it possible to create rogue administrator accounts with the aim of performing arbitrary actions.\n\"The injected malware attempts to create a new administrative user account and then sends those details back to the attacker-controlled server,\" Wordfence security researcher Chloe Chamberland said in a Monday alert.",
+          "link": "https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html",
+          "publishedOn": "2024-06-25T03:32:00.000Z",
+          "wordCount": null,
+          "title": "Multiple WordPress Plugins Compromised: Hackers Create Rogue Admin Accounts",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRP63qpR4yIAwEfP6coCSE8G8dXz5hjoHx9epqVpX6-HNILrqlhD8777IYx2D9DEe8dADddCCr2ZRAJjlif-DPe_f57OlB_R-3GFdztBj3EQZwnZF52oVeU6maraZkQFtBKQeQ65qgekdgdv7lSnm7zePDbwNWJSdUXak7c5PF3iaCgaV6fbx0M8itu1BN/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRP63qpR4yIAwEfP6coCSE8G8dXz5hjoHx9epqVpX6-HNILrqlhD8777IYx2D9DEe8dADddCCr2ZRAJjlif-DPe_f57OlB_R-3GFdztBj3EQZwnZF52oVeU6maraZkQFtBKQeQ65qgekdgdv7lSnm7zePDbwNWJSdUXak7c5PF3iaCgaV6fbx0M8itu1BN/s1600/wordpress.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/google-introduces-project-naptime-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has developed a new framework called Project Naptime that it says enables a large language model (LLM) to carry out vulnerability research with an aim to improve automated discovery approaches.\n\"The Naptime architecture is centered around the interaction between an AI agent and a target codebase,\" Google Project Zero researchers Sergei Glazunov and Mark Brand said. \"The agent is provided",
