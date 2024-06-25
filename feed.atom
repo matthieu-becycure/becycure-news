@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-25T05:43:43.690Z</updated>
+    <updated>2024-06-25T06:16:03.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wikileaks' Julian Assange Released from U.K. Prison, Heads to Australia]]></title>
+        <id>https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html</id>
+        <link href="https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html"/>
+        <updated>2024-06-25T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[WikiLeaks founder Julian Assange has been freed in the U.K. and has departed the country after serving more than five years in a maximum security prison at Belmarsh for what was described by the U.S. government as the "largest compromises of classified information in the history" of the country.
+Capping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal count of conspiring to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree]]></title>
         <id>https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "WikiLeaks founder Julian Assange has been freed in the U.K. and has departed the country after serving more than five years in a maximum security prison at Belmarsh for what was described by the U.S. government as the \"largest compromises of classified information in the history\" of the country.\nCapping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal count of conspiring to",
+          "link": "https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html",
+          "publishedOn": "2024-06-25T05:03:00.000Z",
+          "wordCount": null,
+          "title": "Wikileaks' Julian Assange Released from U.K. Prison, Heads to Australia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzLBlqJuXcndDN_xQKMRldo0EmMwZc5hemGjB6Gn0vGgq4gJfNRogKyfMcRwRSnq-SXyAkT0WutXZ6_KeE2f2tkhR4mr5jMMQYI7xuoiw8nNI7wDBaAI4Uy2sUPLgRre_Dv3n2xLGcnS5FZRCBnjMwWnQzEIk_ZzyhTNtyYLR4psH9dApA80wLOBkNTdc/s1600/wikileas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwzLBlqJuXcndDN_xQKMRldo0EmMwZc5hemGjB6Gn0vGgq4gJfNRogKyfMcRwRSnq-SXyAkT0WutXZ6_KeE2f2tkhR4mr5jMMQYI7xuoiw8nNI7wDBaAI4Uy2sUPLgRre_Dv3n2xLGcnS5FZRCBnjMwWnQzEIk_ZzyhTNtyYLR4psH9dApA80wLOBkNTdc/s1600/wikileas.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Four Vietnamese nationals with ties to the FIN9 cybercrime group have been indicted in the U.S. for their involvement in a series of computer intrusions that caused over $71 million in losses to companies.\nThe defendants, Ta Van Tai (aka Quynh Hoa and Bich Thuy), Nguyen Viet Quoc (aka Tien Nguyen), Nguyen Trang Xuyen, and Nguyen Van Truong (aka Chung Nguyen), have been accused of conducting",
