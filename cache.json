@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Browser security is becoming increasingly popular, as organizations understand the need to protect at the point of risk - the browser. Network and endpoint solutions are limited in their ability to protect from web-borne threats like phishing websites or malicious browser extensions. They also do not protect from internal data exfiltration, like employees pasting sensitive data to ChatGPT. As it",
+          "link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
+          "publishedOn": "2024-06-25T09:42:00.000Z",
+          "wordCount": null,
+          "title": "How to Cut Costs with a Browser Security Platform",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s1600/CISO.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s1600/CISO.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "WikiLeaks founder Julian Assange has been freed in the U.K. and has departed the country after serving more than five years in a maximum security prison at Belmarsh for what was described by the U.S. government as the \"largest compromises of classified information in the history\" of the country.\nCapping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal count of conspiring to",

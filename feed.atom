@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-25T10:31:51.636Z</updated>
+    <updated>2024-06-25T10:43:38.632Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Cut Costs with a Browser Security Platform]]></title>
+        <id>https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html</id>
+        <link href="https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html"/>
+        <updated>2024-06-25T09:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Browser security is becoming increasingly popular, as organizations understand the need to protect at the point of risk - the browser. Network and endpoint solutions are limited in their ability to protect from web-borne threats like phishing websites or malicious browser extensions. They also do not protect from internal data exfiltration, like employees pasting sensitive data to ChatGPT. As it]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wikileaks' Julian Assange Released from U.K. Prison, Heads to Australia]]></title>
         <id>https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html</id>
