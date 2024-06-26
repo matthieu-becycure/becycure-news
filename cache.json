@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A newly disclosed critical security flaw impacting Progress Software MOVEit Transfer is already seeing exploitation attempts in the wild shortly after details of the bug were publicly disclosed.\nThe vulnerability, tracked as CVE-2024-5806 (CVSS score: 9.1), concerns an authentication bypass that impacts the following versions -\n\nFrom 2023.0.0 before 2023.0.11\nFrom 2023.1.0 before 2023.1.6, and&",
+          "link": "https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html",
+          "publishedOn": "2024-06-26T14:57:00.000Z",
+          "wordCount": null,
+          "title": "New MOVEit Transfer Vulnerability Under Active Exploitation - Patch ASAP!",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWujfa-zIkEKSSZrmJRXr8RYxicsbfk05Dp2v5jIamA7oX8WOyvd40jWPsAT7iE_LigNbqOdLHqD9ViOS1d5Cbuq7rPA5wbt6XZL5WkIsG0FKx5dvpqeFhLe-a0nqCMh23TAKHsabeBEzQtqBhGkhXBlk9Ol63yGqFG-v09rZFDm7L5sG1yOFiwZAZ8s11/s1600/move.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWujfa-zIkEKSSZrmJRXr8RYxicsbfk05Dp2v5jIamA7oX8WOyvd40jWPsAT7iE_LigNbqOdLHqD9ViOS1d5Cbuq7rPA5wbt6XZL5WkIsG0FKx5dvpqeFhLe-a0nqCMh23TAKHsabeBEzQtqBhGkhXBlk9Ol63yGqFG-v09rZFDm7L5sG1yOFiwZAZ8s11/s1600/move.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors with suspected ties to China and North Korea have been linked to ransomware and data encryption attacks targeting government and critical infrastructure sectors across the world between 2021 and 2023.\nWhile one cluster of activity has been associated with the ChamelGang (aka CamoFei), the second cluster overlaps with activity previously attributed to Chinese and North Korean",
@@ -2332,6 +2348,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0520",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Progress. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0520",
+          "publishedOn": "2024-06-26T11:52:08.000Z",
+          "wordCount": 382,
+          "title": "Multiples vulnérabilités dans les produits Progress (26 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0519",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0519",
+          "publishedOn": "2024-06-26T07:54:10.000Z",
+          "wordCount": 451,
+          "title": "Multiples vulnérabilités dans les produits VMware (26 juin 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0518",
           "author": null,
