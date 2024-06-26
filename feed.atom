@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-26T09:29:01.735Z</updated>
+    <updated>2024-06-26T09:43:23.381Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Credit Card Skimmer Targets WordPress, Magento, and OpenCart Sites]]></title>
+        <id>https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html</id>
+        <link href="https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html"/>
+        <updated>2024-06-26T08:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple content management system (CMS) platforms like WordPress, Magento, and OpenCart have been targeted by a new credit card web skimmer called Caesar Cipher Skimmer.
+A web skimmer refers to malware that is injected into e-commerce sites with the goal of stealing financial and payment information. 
+According to Sucuri, the latest campaign entails making malicious modifications to the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Medusa Android Trojan Targets Banking Users Across 7 Countries]]></title>
         <id>https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html</id>

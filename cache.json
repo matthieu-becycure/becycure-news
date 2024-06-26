@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Multiple content management system (CMS) platforms like WordPress, Magento, and OpenCart have been targeted by a new credit card web skimmer called Caesar Cipher Skimmer.\nA web skimmer refers to malware that is injected into e-commerce sites with the goal of stealing financial and payment information. \nAccording to Sucuri, the latest campaign entails making malicious modifications to the",
+          "link": "https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html",
+          "publishedOn": "2024-06-26T08:37:00.000Z",
+          "wordCount": null,
+          "title": "New Credit Card Skimmer Targets WordPress, Magento, and OpenCart Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2itw7YXHsRmsuIXG1junMJO-SNk0dwbTRHjHO0LfUh1eofC9a_ffibz8f_3cxI8qFSe2BtHIpgcyWHfnPuT2EYo68YOAqGP2wf94VHI-n2JM1Psoq7kLLe73DRxlr370A5gD6-HivzniZxKBBbE9hQzEo8gPMBuqis9gC6cwZ_SJoxiE9MavrR_bcEIFP/s1600/skimmer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2itw7YXHsRmsuIXG1junMJO-SNk0dwbTRHjHO0LfUh1eofC9a_ffibz8f_3cxI8qFSe2BtHIpgcyWHfnPuT2EYo68YOAqGP2wf94VHI-n2JM1Psoq7kLLe73DRxlr370A5gD6-HivzniZxKBBbE9hQzEo8gPMBuqis9gC6cwZ_SJoxiE9MavrR_bcEIFP/s1600/skimmer.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered an updated version of an Android banking trojan called Medusa that has been used to target users in Canada, France, Italy, Spain, Turkey, the U.K., and the U.S.\nThe new fraud campaigns, observed in May 2024 and active since July 2023, manifested through five different botnets operated by various affiliates, cybersecurity firm Cleafy said in an analysis",
