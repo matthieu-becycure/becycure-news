@@ -3217,16 +3217,6 @@
           "wordCount": 336,
           "title": "Vulnérabilité dans Spring Cloud Skipper (29 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Citrix Workspace app pour Mac. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0444",
-          "publishedOn": "2024-05-29T08:04:50.000Z",
-          "wordCount": 328,
-          "title": "Vulnérabilité dans Citrix Workspace app pour Mac (29 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
