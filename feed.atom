@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-27T23:27:15.991Z</updated>
+    <updated>2024-06-27T23:43:25.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2477,17 +2477,6 @@ The malware is "specifically aimed at stealing credentials that are required to 
         <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) has sentenced a 31-year-old to 10 years in prison for laundering more than $4.5 million through business email compromise (BEC) schemes and romance scams.
 Malachi Mullings, 31, of Sandy Springs, Georgia pleaded guilty to the money laundering offenses in January 2023.
 According to court documents, Mullings is said to have opened 20 bank accounts in the name of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Research Warns About Weak Offboarding Management and Insider Risks]]></title>
-        <id>https://thehackernews.com/2024/05/new-research-warns-about-weak.html</id>
-        <link href="https://thehackernews.com/2024/05/new-research-warns-about-weak.html"/>
-        <updated>2024-05-29T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[A recent study by Wing Security found that 63% of businesses may have former employees with access to organizational data, and that automating SaaS Security can help mitigate offboarding risks. 
-Employee offboarding is typically seen as a routine administrative task, but it can pose substantial security risks, if not handled correctly. Failing to quickly and thoroughly remove access for]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
