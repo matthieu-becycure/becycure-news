@@ -3197,26 +3197,6 @@
           "wordCount": 321,
           "title": "Vulnérabilité dans SPIP (29 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance, une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0446",
-          "publishedOn": "2024-05-29T09:18:06.000Z",
-          "wordCount": 362,
-          "title": "Vulnérabilité dans OpenSSL (29 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0445",
-          "publishedOn": "2024-05-29T09:11:02.000Z",
-          "wordCount": 336,
-          "title": "Vulnérabilité dans Spring Cloud Skipper (29 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
