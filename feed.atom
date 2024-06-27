@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-27T10:13:08.073Z</updated>
+    <updated>2024-06-27T10:33:21.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Python to Build Secure Blockchain Applications]]></title>
+        <id>https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html</id>
+        <link href="https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html"/>
+        <updated>2024-06-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Did you know it’s now possible to build blockchain applications, known also as decentralized applications (or “dApps” for short) in native Python? Blockchain development has traditionally required learning specialized languages, creating a barrier for many developers… until now. AlgoKit, an all-in-one development toolkit for Algorand, enables developers to build blockchain applications in pure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks]]></title>
         <id>https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html</id>
