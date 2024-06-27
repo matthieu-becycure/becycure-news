@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-27T14:29:18.141Z</updated>
+    <updated>2024-06-27T14:44:00.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads]]></title>
+        <id>https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html</id>
+        <link href="https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html"/>
+        <updated>2024-06-27T14:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The peer-to-peer malware botnet known as P2PInfect has been found targeting misconfigured Redis servers with ransomware and cryptocurrency miners.
+The development marks the threat's transition from what appeared to be a dormant botnet with unclear motives to a financially motivated operation.
+"With its latest updates to the crypto miner, ransomware payload, and rootkit elements, it demonstrates]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans OpenSSL (27 juin 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522"/>
+        <updated>2024-06-27T11:53:02.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Secrets of Hidden AI Training on Your Data]]></title>
         <id>https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html</id>
@@ -46,6 +68,16 @@ The vulnerability, tracked as CVE-2024-5565 (CVSS score: 8.1), relates to a case
 Amin Timovich Stigal, the defendant in question, is assessed to be affiliated with the Main Directorate of the General Staff of the Armed Forces of the Russian]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans GitLab (27 juin 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0521</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0521"/>
+        <updated>2024-06-27T06:48:17.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
