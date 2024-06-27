@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-27T07:24:09.202Z</updated>
+    <updated>2024-06-27T07:43:32.425Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application]]></title>
+        <id>https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html</id>
+        <link href="https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html"/>
+        <updated>2024-06-27T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in Fortra FileCatalyst Workflow that, if left unpatched, could allow an attacker to tamper with the application database.
+Tracked as CVE-2024-5276, the vulnerability carries a CVSS score of 9.8. It impacts FileCatalyst Workflow versions 5.1.6 Build 135 and earlier. It has been addressed in version 5.1.6 build 139.
+"An SQL injection vulnerability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New MOVEit Transfer Vulnerability Under Active Exploitation - Patch ASAP!]]></title>
         <id>https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html</id>
