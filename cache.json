@@ -3119,16 +3119,6 @@
           "wordCount": 356,
           "title": "Multiples vulnérabilités dans Nginx (30 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. Check Point indique que la vulnérabilité CVE-2024-24919 est activement exploitée.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0449",
-          "publishedOn": "2024-05-29T14:18:02.000Z",
-          "wordCount": 413,
-          "title": "Vulnérabilité dans les produits Check Point (29 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
