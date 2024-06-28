@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-28T08:30:28.458Z</updated>
+    <updated>2024-06-28T08:43:46.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Warn of Flaws in Widely Used Industrial Gas Analysis Equipment]]></title>
+        <id>https://thehackernews.com/2024/06/researchers-warn-of-flaws-in-widely.html</id>
+        <link href="https://thehackernews.com/2024/06/researchers-warn-of-flaws-in-widely.html"/>
+        <updated>2024-06-28T07:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiple security flaws have been disclosed in Emerson Rosemount gas chromatographs that could be exploited by malicious actors to obtain sensitive information, induce a denial-of-service (DoS) condition, and even execute arbitrary commands.
+The flaws impact GC370XA, GC700XA, and GC1500XA and reside in versions 4.1.5 and prior.
+According to operational technology (OT) security firm Claroty, the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TeamViewer Detects Security Breach in Corporate IT Environment]]></title>
         <id>https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html</id>
