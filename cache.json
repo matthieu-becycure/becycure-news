@@ -3171,16 +3171,6 @@
           "wordCount": 1809,
           "title": "Opération ENDGAME (30 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0453",
-          "publishedOn": "2024-05-30T09:29:19.000Z",
-          "wordCount": 335,
-          "title": "Vulnérabilité dans Ivanti Endpoint Manager (30 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
