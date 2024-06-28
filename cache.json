@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security researchers have shed more light on the cryptocurrency mining operation conducted by the 8220 Gang by exploiting known security flaws in the Oracle WebLogic Server.\n\"The threat actor employs fileless execution techniques, using DLL reflective and process injection, allowing the malware code to run solely in memory and avoid disk-based detection mechanisms,\" Trend Micro researchers Ahmed",
+          "link": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
+          "publishedOn": "2024-06-28T11:59:00.000Z",
+          "wordCount": null,
+          "title": "8220 Gang Exploits Oracle WebLogic Server Flaws for Cryptocurrency Mining",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNP5VH7iT7xWsfwY0p0tRrgM1xbQT9XmK5GRFpP1tjt8LucoW87hg6WmpOGQ04veFKc_j4oJwpQurEVqTH79KmF01OVwHYPKC4ym18vfFhlZmjye-9IU6OPNJ4tc_Bhm5szqjigXAZVtuAi9voCEdLQhyxQQu4fQl_mUihwTEdGDt4mnQSCeWHe4f-5N4A/s1600/crypto.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNP5VH7iT7xWsfwY0p0tRrgM1xbQT9XmK5GRFpP1tjt8LucoW87hg6WmpOGQ04veFKc_j4oJwpQurEVqTH79KmF01OVwHYPKC4ym18vfFhlZmjye-9IU6OPNJ4tc_Bhm5szqjigXAZVtuAi9voCEdLQhyxQQu4fQl_mUihwTEdGDt4mnQSCeWHe4f-5N4A/s1600/crypto.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The modern kill chain is eluding enterprises because they aren’t protecting the infrastructure of modern business: SaaS. \nSaaS continues to dominate software adoption, and it accounts for the greatest share of public cloud spending. But enterprises and SMBs alike haven’t revised their security programs or adopted security tooling built for SaaS. \nSecurity teams keep jamming on-prem",
+          "link": "https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html",
+          "publishedOn": "2024-06-28T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeTcCiaBYoKyVQNecJEkeGUE_48HAfeL6IMJe7i6ExwR9n1t6lLeUyNl_5NUOdpY3sfWsINJTxUUQ8dTKhDQMnaqm_udWX3TENzJJ6tsJGVIj8JyXlKXr5UMnVnLCvtxi3TVNIRGwdHf9IewHE5JLlQZnDZlzOe9KWRUDgAq-43vA2wGS1l2UH_MW7wO4/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeTcCiaBYoKyVQNecJEkeGUE_48HAfeL6IMJe7i6ExwR9n1t6lLeUyNl_5NUOdpY3sfWsINJTxUUQ8dTKhDQMnaqm_udWX3TENzJJ6tsJGVIj8JyXlKXr5UMnVnLCvtxi3TVNIRGwdHf9IewHE5JLlQZnDZlzOe9KWRUDgAq-43vA2wGS1l2UH_MW7wO4/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/new-snailload-attack-exploits-network.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A group of security researchers from the Graz University of Technology have demonstrated a new side-channel attack known as SnailLoad that could be used to remotely infer a user's web activity.\n\"SnailLoad exploits a bottleneck present on all Internet connections,\" the researchers said in a study released this week.\n\"This bottleneck influences the latency of network packets, allowing an attacker",
