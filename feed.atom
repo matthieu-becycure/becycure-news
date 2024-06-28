@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-28T20:43:30.994Z</updated>
+    <updated>2024-06-28T21:12:08.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2492,27 +2492,6 @@ The addition of the PAN-OS vulnerability to its toolkit has been complemented by
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Ivanti Endpoint Manager. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans les produits Check Point  (30 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008</id>
-        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008"/>
-        <updated>2024-05-30T09:07:27.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. L'éditeur indique avoir connaissance de tentatives d'exploitation depuis le 30 avril 2024. Le CERT-FR a connaissance de l’exploitation de cette...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Dismantles World's Largest 911 S5 Botnet, with 19 Million Infected Devices]]></title>
-        <id>https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html</id>
-        <link href="https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html"/>
-        <updated>2024-05-30T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday said it dismantled what it described as "likely the world's largest botnet ever," which consisted of an army of 19 million infected devices that was leased to other threat actors to commit a wide array of offenses.
-The botnet, which has a global footprint spanning more than 190 countries, functioned as a residential proxy service known as 911 S5.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

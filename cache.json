@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0jhUgYZZ5k9OZmDNPOpzzykhWI7Q6znPTeSnrmqLYBBzsqR5iIkgXDXPeoJ1-4hsj7t-rEwPUNQbXBDXpRvUOq3fn7R0d4h0NB0Nu1ky8qwjIA-HrZqyHuVIMA7c-wzQ3WtTOP-fdqDKpSBm_wwMaDK3bnjD9P2G91v2kRV41BtDgqcLeUzoPJ_Hw7JYI/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Justice (DoJ) on Wednesday said it dismantled what it described as \"likely the world's largest botnet ever,\" which consisted of an army of 19 million infected devices that was leased to other threat actors to commit a wide array of offenses.\nThe botnet, which has a global footprint spanning more than 190 countries, functioned as a residential proxy service known as 911 S5.",
-          "link": "https://thehackernews.com/2024/05/us-dismantles-worlds-largest-911-s5.html",
-          "publishedOn": "2024-05-30T08:55:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Dismantles World's Largest 911 S5 Botnet, with 19 Million Infected Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtTJDHXh0p8e0ZbpdErjrQtJBPACIlTd-duGYydpjgItjv0ukkR2BQO4UERyf_hHeNtLK_eFzgeEEV2DKHIb3wI2khx0jimQaXvIDUuD2ACrqQFbGT6o_yVeH7yU0lgixUSGdUR8kNyTK_fZBcfYAKWi93JtdKAcxyNAbEtDsCUAgF3GAB0WPVKdCY0K6/s1600/map.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFtTJDHXh0p8e0ZbpdErjrQtJBPACIlTd-duGYydpjgItjv0ukkR2BQO4UERyf_hHeNtLK_eFzgeEEV2DKHIb3wI2khx0jimQaXvIDUuD2ACrqQFbGT6o_yVeH7yU0lgixUSGdUR8kNyTK_fZBcfYAKWi93JtdKAcxyNAbEtDsCUAgF3GAB0WPVKdCY0K6/s1600/map.png"
         }
       ]
     },
@@ -3196,16 +3180,6 @@
           "publishedOn": "2024-05-30T09:29:19.000Z",
           "wordCount": 335,
           "title": "Vulnérabilité dans Ivanti Endpoint Manager (30 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données. L'éditeur indique avoir connaissance de tentatives d'exploitation depuis le 30 avril 2024. Le CERT-FR a connaissance de l’exploitation de cette...",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-008",
-          "publishedOn": "2024-05-30T09:07:27.000Z",
-          "wordCount": 511,
-          "title": "Vulnérabilité dans les produits Check Point  (30 mai 2024)",
           "imageUrl": null
         }
       ]
