@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitLab has released security updates to address 14 security flaws, including one critical vulnerability that could be exploited to run continuous integration and continuous deployment (CI/CD) pipelines as any user.\nThe weaknesses, which affect GitLab Community Edition (CE) and Enterprise Edition (EE), have been addressed in versions 17.1.1, 17.0.3, and 16.11.5.\nThe most severe of the",
+          "link": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
+          "publishedOn": "2024-06-28T14:18:00.000Z",
+          "wordCount": null,
+          "title": "GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s1600/gitlab.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s1600/gitlab.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/06/8220-gang-exploits-oracle-weblogic.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Security researchers have shed more light on the cryptocurrency mining operation conducted by the 8220 Gang by exploiting known security flaws in the Oracle WebLogic Server.\n\"The threat actor employs fileless execution techniques, using DLL reflective and process injection, allowing the malware code to run solely in memory and avoid disk-based detection mechanisms,\" Trend Micro researchers Ahmed",
@@ -2332,6 +2348,76 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0529",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0529",
+          "publishedOn": "2024-06-28T12:39:22.000Z",
+          "wordCount": 753,
+          "title": "Multiples vulnérabilités dans les produits IBM (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0528",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0528",
+          "publishedOn": "2024-06-28T11:56:23.000Z",
+          "wordCount": 744,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0527",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0527",
+          "publishedOn": "2024-06-28T11:49:34.000Z",
+          "wordCount": 2314,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0526",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0526",
+          "publishedOn": "2024-06-28T11:37:28.000Z",
+          "wordCount": 5143,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0525",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0525",
+          "publishedOn": "2024-06-28T07:34:16.000Z",
+          "wordCount": 404,
+          "title": "Multiples vulnérabilités dans les produits Juniper Networks (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0524",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0524",
+          "publishedOn": "2024-06-28T07:08:36.000Z",
+          "wordCount": 403,
+          "title": "Multiples vulnérabilités dans les produits VMware (28 juin 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0523",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0523",
+          "publishedOn": "2024-06-28T06:58:58.000Z",
+          "wordCount": 439,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (28 juin 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522",
           "author": null,
