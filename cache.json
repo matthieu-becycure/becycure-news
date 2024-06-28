@@ -3129,16 +3129,6 @@
           "wordCount": 413,
           "title": "Vulnérabilité dans les produits Check Point (29 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0448",
-          "publishedOn": "2024-05-29T13:11:01.000Z",
-          "wordCount": 322,
-          "title": "Multiples vulnérabilités dans Nagios XI (29 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
