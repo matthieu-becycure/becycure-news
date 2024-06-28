@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2oN4wA3-1nzpUfMF9tGkFGhB-Vw3OkHXSml-BmnvgJUpF4ItSykgbTAbbQC9NPC77B-n-BRDpYQUHbdk0uI2hU8x5mY1rX03OEvR3w7w_H6DL3esp7vZ4NdtWiotWz3gYjKnebIhi2ozwZWjpoaW6cD6yEHkChlBBOJn4-v1gGa4WY1ZBBUx7Brme6R1k/s1600/cyber.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2oN4wA3-1nzpUfMF9tGkFGhB-Vw3OkHXSml-BmnvgJUpF4ItSykgbTAbbQC9NPC77B-n-BRDpYQUHbdk0uI2hU8x5mY1rX03OEvR3w7w_H6DL3esp7vZ4NdtWiotWz3gYjKnebIhi2ozwZWjpoaW6cD6yEHkChlBBOJn4-v1gGa4WY1ZBBUx7Brme6R1k/s1600/cyber.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Justice (DoJ) has sentenced a 31-year-old to 10 years in prison for laundering more than $4.5 million through business email compromise (BEC) schemes and romance scams.\nMalachi Mullings, 31, of Sandy Springs, Georgia pleaded guilty to the money laundering offenses in January 2023.\nAccording to court documents, Mullings is said to have opened 20 bank accounts in the name of",
-          "link": "https://thehackernews.com/2024/05/us-sentences-31-year-old-to-10-years.html",
-          "publishedOn": "2024-05-29T11:50:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Sentences 31-Year-Old to 10 Years for Laundering $4.5M in Email Scams",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj69UMr98SgrEoosx71G77H-d6Rs62uPdULDSsFyYq_PCe8CaZSagT-XLr98qEelk7S3F_Iz-qOvJDhqWmq-2_N-RiGCT7fVqox-pY3pNMaf9FyvZh9WzBLnqx7BbP909uW1khXNqt8f7h3w2DL0W6RwrkT5VnmXs6MHI_CjAAthlHKCybhW39r1-QZG-Rp/s1600/email.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj69UMr98SgrEoosx71G77H-d6Rs62uPdULDSsFyYq_PCe8CaZSagT-XLr98qEelk7S3F_Iz-qOvJDhqWmq-2_N-RiGCT7fVqox-pY3pNMaf9FyvZh9WzBLnqx7BbP909uW1khXNqt8f7h3w2DL0W6RwrkT5VnmXs6MHI_CjAAthlHKCybhW39r1-QZG-Rp/s1600/email.png"
         }
       ]
     },
@@ -3154,16 +3138,6 @@
           "publishedOn": "2024-05-29T13:11:01.000Z",
           "wordCount": 322,
           "title": "Multiples vulnérabilités dans Nagios XI (29 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0447",
-          "publishedOn": "2024-05-29T12:16:29.000Z",
-          "wordCount": 321,
-          "title": "Vulnérabilité dans SPIP (29 mai 2024)",
           "imageUrl": null
         }
       ]
