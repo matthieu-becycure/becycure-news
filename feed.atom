@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-29T22:43:47.440Z</updated>
+    <updated>2024-06-29T23:11:36.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2355,16 +2355,6 @@ The mysterious event, which took place between October 25 and 27, 2023, and impa
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond Threat Detection – A Race to Digital Security]]></title>
-        <id>https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html</id>
-        <link href="https://thehackernews.com/2024/05/beyond-threat-detection-race-to-digital.html"/>
-        <updated>2024-05-31T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital content is a double-edged sword, providing vast benefits while simultaneously posing significant threats to organizations across the globe. The sharing of digital content has increased significantly in recent years, mainly via email, digital documents, and chat. In turn, this has created an expansive attack surface and has made ‘digital content’ the preferred carrier for cybercriminals]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
