@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-29T00:51:56.411Z</updated>
+    <updated>2024-06-29T01:56:16.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2440,27 +2440,6 @@ Tracked as CVE-2024-1086 (CVSS score: 7.8), the high-severity issue relates to a
 The addition of the PAN-OS vulnerability to its toolkit has been complemented by updates to the malware, which now incorporates new anti-analysis techniques, according to findings from web infrastructure and security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html</id>
-        <link href="https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html"/>
-        <updated>2024-05-30T13:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have warned that multiple high-severity security vulnerabilities in WordPress plugins are being actively exploited by threat actors to create rogue administrator accounts for follow-on exploitation.
-"These vulnerabilities are found in various WordPress plugins and are prone to unauthenticated stored cross-site scripting (XSS) attacks due to inadequate input sanitization]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opération ENDGAME (30 mai 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004</id>
-        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004"/>
-        <updated>2024-05-30T12:58:03.000Z</updated>
-        <summary type="html"><![CDATA[Entre le 27 et le 29 mai 2024, une opération de démantèlement de plusieurs infrastructures liées à des codes cybercriminels a été menée dans le cadre d’une coopération judiciaire internationale impliquant les autorités allemandes, néerlandaises, danoises, françaises, britanniques et américaines....]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

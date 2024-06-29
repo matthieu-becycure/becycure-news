@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s1600/palo.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjTSnKADlNe8X88fkT5RUmI9sCPjKw3HZg1ZQocpUnaepMram8ogMbgCPsFfj0pJwjUH0LmoaZa9JnCeHV6YO72Z39NxWrmBvM69pDChKrtjf5YRvRIzaK5ls93Po1PZOM_8PP0V5Ke3SyI_WmilI6aEErYs0NPtICde_G7A6td06GlhbGagDkmu3udMr1/s1600/palo.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have warned that multiple high-severity security vulnerabilities in WordPress plugins are being actively exploited by threat actors to create rogue administrator accounts for follow-on exploitation.\n\"These vulnerabilities are found in various WordPress plugins and are prone to unauthenticated stored cross-site scripting (XSS) attacks due to inadequate input sanitization",
-          "link": "https://thehackernews.com/2024/05/researchers-uncover-active-exploitation.html",
-          "publishedOn": "2024-05-30T13:49:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover Active Exploitation of WordPress Plugin Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXZ2HjGB9ebgJZmTu8ttzfcvQqk6Q_tJfAPluUM8vIsgvMiO-qy1gZ7vCIykNtBYaq2PeijLVLEMWn9JIVP1umtNEVtbZ6HG3ZU5YB5LpyMnCRSoN5tiuCziANr0_SsvHus0CwHyh1ZstP1GYL9PWIjtlloGeBZE7Jsq4KzYBpewkBQwIXuLpgk5isl_4/s1600/wordpress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBXZ2HjGB9ebgJZmTu8ttzfcvQqk6Q_tJfAPluUM8vIsgvMiO-qy1gZ7vCIykNtBYaq2PeijLVLEMWn9JIVP1umtNEVtbZ6HG3ZU5YB5LpyMnCRSoN5tiuCziANr0_SsvHus0CwHyh1ZstP1GYL9PWIjtlloGeBZE7Jsq4KzYBpewkBQwIXuLpgk5isl_4/s1600/wordpress.png"
         }
       ]
     },
@@ -3128,16 +3112,6 @@
           "publishedOn": "2024-05-31T07:26:20.000Z",
           "wordCount": 359,
           "title": "Multiples vulnérabilités dans Google Chrome (31 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004",
-          "author": null,
-          "description": "Entre le 27 et le 29 mai 2024, une opération de démantèlement de plusieurs infrastructures liées à des codes cybercriminels a été menée dans le cadre d’une coopération judiciaire internationale impliquant les autorités allemandes, néerlandaises, danoises, françaises, britanniques et américaines....",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-004",
-          "publishedOn": "2024-05-30T12:58:03.000Z",
-          "wordCount": 1809,
-          "title": "Opération ENDGAME (30 mai 2024)",
           "imageUrl": null
         }
       ]
