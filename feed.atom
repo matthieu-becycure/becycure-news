@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-29T03:13:14.646Z</updated>
+    <updated>2024-06-29T03:30:46.855Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2416,17 +2416,6 @@ Tracked as CVE-2024-1086 (CVSS score: 7.8), the high-severity issue relates to a
         <updated>2024-05-30T16:37:00.000Z</updated>
         <summary type="html"><![CDATA[Cloudflare on Thursday said it took steps to disrupt a month-long phishing campaign orchestrated by a Russia-aligned threat actor called FlyingYeti targeting Ukraine.
 "The FlyingYeti campaign capitalized on anxiety over the potential loss of access to housing and utilities by enticing targets to open malicious files via debt-themed lures," Cloudflare's threat intelligence team Cloudforce One]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyber Espionage Alert: LilacSquid Targets IT, Energy, and Pharma Sectors]]></title>
-        <id>https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html</id>
-        <link href="https://thehackernews.com/2024/05/cyber-espionage-alert-lilacsquid.html"/>
-        <updated>2024-05-30T15:26:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented cyber espionage-focused threat actor named LilacSquid has been linked to targeted attacks spanning various sectors in the United States (U.S.), Europe, and Asia as part of a data theft campaign since at least 2021.
-"The campaign is geared toward establishing long-term access to compromised victim organizations to enable LilacSquid to siphon data of interest to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
