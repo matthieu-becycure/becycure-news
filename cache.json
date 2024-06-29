@@ -3045,26 +3045,6 @@
           "wordCount": 721,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (31 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0455",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0455",
-          "publishedOn": "2024-05-31T07:30:58.000Z",
-          "wordCount": 464,
-          "title": "Multiples vulnérabilités dans les produits Trend Micro (31 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0454",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0454",
-          "publishedOn": "2024-05-31T07:26:20.000Z",
-          "wordCount": 359,
-          "title": "Multiples vulnérabilités dans Google Chrome (31 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
