@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-29T04:32:24.592Z</updated>
+    <updated>2024-06-29T04:43:29.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2405,17 +2405,6 @@ These activities, which were detected over the past three months, used its AI mo
         <updated>2024-05-30T17:45:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a security flaw impacting the Linux kernel to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
 Tracked as CVE-2024-1086 (CVSS score: 7.8), the high-severity issue relates to a use-after-free bug in the netfilter component that permits a local attacker to elevate privileges]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FlyingYeti Exploits WinRAR Vulnerability to Deliver COOKBOX Malware in Ukraine]]></title>
-        <id>https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html</id>
-        <link href="https://thehackernews.com/2024/05/flyingyeti-exploits-winrar.html"/>
-        <updated>2024-05-30T16:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare on Thursday said it took steps to disrupt a month-long phishing campaign orchestrated by a Russia-aligned threat actor called FlyingYeti targeting Ukraine.
-"The FlyingYeti campaign capitalized on anxiety over the potential loss of access to housing and utilities by enticing targets to open malicious files via debt-themed lures," Cloudflare's threat intelligence team Cloudforce One]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
