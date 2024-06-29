@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-29T01:56:16.569Z</updated>
+    <updated>2024-06-29T02:28:47.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2427,17 +2427,6 @@ Tracked as CVE-2024-1086 (CVSS score: 7.8), the high-severity issue relates to a
         <updated>2024-05-30T15:26:00.000Z</updated>
         <summary type="html"><![CDATA[A previously undocumented cyber espionage-focused threat actor named LilacSquid has been linked to targeted attacks spanning various sectors in the United States (U.S.), Europe, and Asia as part of a data theft campaign since at least 2021.
 "The campaign is geared toward establishing long-term access to compromised victim organizations to enable LilacSquid to siphon data of interest to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedTail Crypto-Mining Malware Exploiting Palo Alto Networks Firewall Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html</id>
-        <link href="https://thehackernews.com/2024/05/redtail-crypto-mining-malware.html"/>
-        <updated>2024-05-30T14:24:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind the RedTail cryptocurrency mining malware have added a recently disclosed security flaw impacting Palo Alto Networks firewalls to its exploit arsenal.
-The addition of the PAN-OS vulnerability to its toolkit has been complemented by updates to the malware, which now incorporates new anti-analysis techniques, according to findings from web infrastructure and security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
