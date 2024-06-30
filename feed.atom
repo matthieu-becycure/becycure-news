@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-06-30T19:23:41.394Z</updated>
+    <updated>2024-06-30T19:43:26.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2279,18 +2279,6 @@ Cato’s Cyber Threat Research Lab (Cato CTRL, see more details below) has recen
         <updated>2024-06-03T03:51:00.000Z</updated>
         <summary type="html"><![CDATA[Fake web browser updates are being used to deliver remote access trojans (RATs) and information stealer malware such as BitRAT and Lumma Stealer (aka LummaC2).
 "Fake browser updates have been responsible for numerous malware infections, including those of the well-known SocGholish malware," cybersecurity firm eSentire said in a new report. "In April 2024, we observed FakeBat being distributed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Company Hugging Face Notifies Users of Suspected Unauthorized Access]]></title>
-        <id>https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html</id>
-        <link href="https://thehackernews.com/2024/06/ai-company-hugging-face-notifies-users.html"/>
-        <updated>2024-06-01T07:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence (AI) company Hugging Face on Friday disclosed that it detected unauthorized access to its Spaces platform earlier this week.
-"We have suspicions that a subset of Spaces’ secrets could have been accessed without authorization," it said in an advisory.
-Spaces offers a way for users to create, host, and share AI and machine learning (ML) applications. It also functions as a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
