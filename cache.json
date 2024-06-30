@@ -2977,26 +2977,6 @@
           "wordCount": 1372,
           "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 mai 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données, un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0457",
-          "publishedOn": "2024-05-31T12:54:17.000Z",
-          "wordCount": 1077,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (31 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0456",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0456",
-          "publishedOn": "2024-05-31T12:22:18.000Z",
-          "wordCount": 721,
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (31 mai 2024)",
-          "imageUrl": null
         }
       ]
     }
