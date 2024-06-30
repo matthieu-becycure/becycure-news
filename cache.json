@@ -2164,22 +2164,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4qNrTWSCWvP6osbw_wVN0Ha4-mI_pulRm75k2EYj6D3Emw7umiMnKa1TdwJQhBmfFD4QocAmje6AS2_zaIsgAJsRGflKl2NFn10y_T_LyczAYc8Leul9U_hrX1ki9lOGWzYVWFqMjfba2IlgTOrZIyokIMJWMd6ppj0Q3IC-UylP6X7kxA-R2v5PDwg4/s1600/soho.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir4qNrTWSCWvP6osbw_wVN0Ha4-mI_pulRm75k2EYj6D3Emw7umiMnKa1TdwJQhBmfFD4QocAmje6AS2_zaIsgAJsRGflKl2NFn10y_T_LyczAYc8Leul9U_hrX1ki9lOGWzYVWFqMjfba2IlgTOrZIyokIMJWMd6ppj0Q3IC-UylP6X7kxA-R2v5PDwg4/s1600/soho.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has emphasized the need for securing internet-exposed operational technology (OT) devices following a spate of cyber attacks targeting such environments since late 2023.\n\"These repeated attacks against OT devices emphasize the crucial need to improve the security posture of OT devices and prevent critical systems from becoming easy targets,\" the Microsoft Threat Intelligence team said.",
-          "link": "https://thehackernews.com/2024/05/microsoft-warns-of-surge-in-cyber.html",
-          "publishedOn": "2024-05-31T13:42:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Warns of Surge in Cyber Attacks Targeting Internet-Exposed OT Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhr0XVPZUAeGKXtjMGHPkiYeINtEq0FNhhJQW226VK-A674Dw-CfCTP7Im6Glf-vD-jHbB-j0sC9i3HkIw2vPExTCLy8tiyfcuramj9hPmhvVOE_nn1IlSN0crVAHVNMZ72Qi5SOsfnXGwoewakcdKooqJPwWfzQXY7_UZlDLdeWUocJavZu5YPEDK7Wcm/s1600/OT.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhr0XVPZUAeGKXtjMGHPkiYeINtEq0FNhhJQW226VK-A674Dw-CfCTP7Im6Glf-vD-jHbB-j0sC9i3HkIw2vPExTCLy8tiyfcuramj9hPmhvVOE_nn1IlSN0crVAHVNMZ72Qi5SOsfnXGwoewakcdKooqJPwWfzQXY7_UZlDLdeWUocJavZu5YPEDK7Wcm/s1600/OT.png"
         }
       ]
     },
@@ -2956,26 +2940,6 @@
           "publishedOn": "2024-06-03T07:49:08.000Z",
           "wordCount": 322,
           "title": "Vulnérabilité dans les caméras Synology (03 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0459",
-          "publishedOn": "2024-05-31T13:22:15.000Z",
-          "wordCount": 807,
-          "title": "Multiples vulnérabilités dans les produits IBM (31 mai 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0458",
-          "publishedOn": "2024-05-31T13:00:42.000Z",
-          "wordCount": 1372,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (31 mai 2024)",
           "imageUrl": null
         }
       ]
