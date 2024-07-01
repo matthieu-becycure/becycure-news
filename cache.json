@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A trio of security flaws has been uncovered in the CocoaPods dependency manager for Swift and Objective-C Cocoa projects that could be exploited to stage software supply chain attacks, putting downstream customers at severe risks.\nThe vulnerabilities allow \"any malicious actor to claim ownership over thousands of unclaimed pods and insert malicious code into many of the most popular iOS and",
+          "link": "https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html",
+          "publishedOn": "2024-07-01T16:12:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4XMLqZptCkn7ifIbKGNRWsYao93PQLI_x3x8VZigNo90bYOFGmw4jFFboOxaUu6Qvb2pXPGk_s6FEaz17DOyhSYIQ2ptN60p6yN5WJHX6I5PoAWaZaCHjJTOnsk3QoGzNOp16Nd8dw9C3RRfC4Pis3Ia0Z9jY5TdQ8anlENDdRuRzNGvjfnKayb-rEMJ/s1600/Supply-Chain-Attack.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4XMLqZptCkn7ifIbKGNRWsYao93PQLI_x3x8VZigNo90bYOFGmw4jFFboOxaUu6Qvb2pXPGk_s6FEaz17DOyhSYIQ2ptN60p6yN5WJHX6I5PoAWaZaCHjJTOnsk3QoGzNOp16Nd8dw9C3RRfC4Pis3Ia0Z9jY5TdQ8anlENDdRuRzNGvjfnKayb-rEMJ/s1600/Supply-Chain-Attack.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as Transparent Tribe has continued to unleash malware-laced Android apps as part of a social engineering campaign to target individuals of interest.\n\"These APKs continue the group's trend of embedding spyware into curated video browsing applications, with a new expansion targeting mobile gamers, weapons enthusiasts, and TikTok fans,\" SentinelOne security researcher Alex",
