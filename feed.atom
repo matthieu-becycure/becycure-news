@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-01T15:12:05.237Z</updated>
+    <updated>2024-07-01T15:27:58.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -18,6 +18,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans OpenSSH (01 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009</id>
+        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009"/>
+        <updated>2024-07-01T12:56:56.000Z</updated>
+        <summary type="html"><![CDATA[Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Indian Software Firm's Products Hacked to Spread Data-Stealing Malware]]></title>
         <id>https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html</id>
         <link href="https://thehackernews.com/2024/07/indian-software-firms-products-hacked.html"/>
@@ -26,6 +36,16 @@
 The installers correspond to Notezilla, RecentX, and Copywhiz, according to cybersecurity firm Rapid7, which discovered the supply chain compromise on June 18, 2024. The issue has since been remediated by Conceptworld as of June 24]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans OpenSSH (01 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0531</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0531"/>
+        <updated>2024-07-01T11:19:21.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +67,26 @@ The installers correspond to Notezilla, RecentX, and Copywhiz, according to cybe
 The vulnerability has been assigned the CVE identifier CVE-2024-6387. It resides in the OpenSSH server component, also known as sshd, which is designed to listen for connections from any of the client]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits NetApp (01 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0530</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0530"/>
+        <updated>2024-07-01T08:07:18.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-028 (01 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-028</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-028"/>
+        <updated>2024-07-01T07:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
