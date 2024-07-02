@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-02T22:11:13.313Z</updated>
+    <updated>2024-07-02T22:29:46.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2436,17 +2436,6 @@ Odd is also said to go by the nicknames Aron, C700, Cbd748, Ivanov Odd, Mors, Mo
         <updated>2024-06-03T10:56:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors are evolving, yet Cyber Threat Intelligence (CTI) remains confined to each isolated point solution. Organizations require a holistic analysis across external data, inbound and outbound threats and network activity. This will enable evaluating the true state of cybersecurity in the enterprise.
 Cato’s Cyber Threat Research Lab (Cato CTRL, see more details below) has recently released]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researcher Uncovers Flaws in Cox Modems, Potentially Impacting Millions]]></title>
-        <id>https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html</id>
-        <link href="https://thehackernews.com/2024/06/researcher-uncovers-flaws-in-cox-modems.html"/>
-        <updated>2024-06-03T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Now-patched authorization bypass issues impacting Cox modems that could have been abused as a starting point to gain unauthorized access to the devices and run malicious commands.
-"This series of vulnerabilities demonstrated a way in which a fully external attacker with no prerequisites could've executed commands and modified the settings of millions of modems, accessed any business customer's]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
