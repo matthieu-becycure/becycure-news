@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Meta's decision to offer an ad-free subscription in the European Union (E.U.) has faced a new setback after regulators accused the social media behemoth of breaching the bloc's competition rules by forcing users to choose between seeing ads or paying to avoid them.\nThe European Commission said the company's \"pay or consent\" advertising model is in contravention of the Digital Markets Act (DMA).",
+          "link": "https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html",
+          "publishedOn": "2024-07-02T05:10:00.000Z",
+          "wordCount": null,
+          "title": "Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOXS7zkqh97-NanwDxCeE3XohTCVAXEuMqU3QzMiZ6Dp2APqMiPHpXiOfC4ZZRqfkA8fHdvGN2e0S4Ahmr-I6SWVkGDYpu3-MTe87di85k1brXy53xb0Q911V3l1DdJoVpmOfMhC09XRAYfJJ5nhKF_DfKQf5091tqV9oJUUIvCxFjDBMPn0kffooobgi/s1600/meta.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcOXS7zkqh97-NanwDxCeE3XohTCVAXEuMqU3QzMiZ6Dp2APqMiPHpXiOfC4ZZRqfkA8fHdvGN2e0S4Ahmr-I6SWVkGDYpu3-MTe87di85k1brXy53xb0Q911V3l1DdJoVpmOfMhC09XRAYfJJ5nhKF_DfKQf5091tqV9oJUUIvCxFjDBMPn0kffooobgi/s1600/meta.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A China-nexus cyber espionage group named Velvet Ant has been observed exploiting a zero-day flaw in Cisco NX-OS Software used in its switches to deliver malware.\nThe vulnerability, tracked as CVE-2024-20399 (CVSS score: 6.0), concerns a case of command injection that allows an authenticated, local attacker to execute arbitrary commands as root on the underlying operating system of an affected",
+          "link": "https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html",
+          "publishedOn": "2024-07-02T04:48:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFpTKS49jwhfQpcN_DKBjcPukrcV0JRkpZ3zGMovIQLhS5STmUfaIbOfGShamu48xU-aCUkM3CKl_1sYH0ZI_LThJzVhD6fS_xteyR4ra3kJQRCnOvQ9oGqbmaTDWix7W-IgaoEaxrqqwYKLoAM-NrcEFS_yVJw83WvkEt1zW-g8jNGi4x4jKQb0_ofS8/s1600/CISCO.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUFpTKS49jwhfQpcN_DKBjcPukrcV0JRkpZ3zGMovIQLhS5STmUfaIbOfGShamu48xU-aCUkM3CKl_1sYH0ZI_LThJzVhD6fS_xteyR4ra3kJQRCnOvQ9oGqbmaTDWix7W-IgaoEaxrqqwYKLoAM-NrcEFS_yVJw83WvkEt1zW-g8jNGi4x4jKQb0_ofS8/s1600/CISCO.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An Australian man has been charged with running a fake Wi-Fi access point during a domestic flight with an aim to steal user credentials and data.\nThe unnamed 42-year-old \"allegedly established fake free Wi-Fi access points, which mimicked legitimate networks, to capture personal data from unsuspecting victims who mistakenly connected to them,\" the Australian Federal Police (AFP) said in a press",
