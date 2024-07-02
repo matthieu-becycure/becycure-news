@@ -3123,16 +3123,6 @@
           "wordCount": 829,
           "title": "Bulletin d’actualité CERTFR-2024-ACT-024 (03 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les caméras Synology. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0460",
-          "publishedOn": "2024-06-03T07:49:08.000Z",
-          "wordCount": 322,
-          "title": "Vulnérabilité dans les caméras Synology (03 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
