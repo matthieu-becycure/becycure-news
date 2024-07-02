@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The cybersecurity threat landscape has witnessed a dramatic and alarming rise in the average ransomware payment, an increase exceeding 500%. Sophos, a global leader in cybersecurity, revealed in its annual \"State of Ransomware 2024\" report that the average ransom payment has increased 500% in the last year with organizations that paid a ransom reporting an average payment of $2 million, up from",
+          "link": "https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html",
+          "publishedOn": "2024-07-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "How MFA Failures are Fueling a 500% Surge in Ransomware Losses",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaX8oRZJlpsU-XVfbDnvR2bUidQFUHeCaD-0NpVTdWJjRWG74jzNn5EksqT85ohqPHDrYgUxlqLK4DXGDJRmA8KnUVFfs3cd3yVx36UdiRIzvaVYC7P3gqfoG1QBokLtT0ZIC08LGA7T3hF2MEtTL0GqtNbEUYj0XPypmD0Fav6Pg8QkWaWcdXA6pi91Y/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaX8oRZJlpsU-XVfbDnvR2bUidQFUHeCaD-0NpVTdWJjRWG74jzNn5EksqT85ohqPHDrYgUxlqLK4DXGDJRmA8KnUVFfs3cd3yVx36UdiRIzvaVYC7P3gqfoG1QBokLtT0ZIC08LGA7T3hF2MEtTL0GqtNbEUYj0XPypmD0Fav6Pg8QkWaWcdXA6pi91Y/s1600/ransomware.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Modern CPUs from Intel, including Raptor Lake and Alder Lake, have been found vulnerable to a new side-channel attack that could be exploited to leak sensitive information from the processors.\nThe attack, codenamed Indirector by security researchers Luyi Li, Hosein Yavarzadeh, and Dean Tullsen, leverages shortcomings identified in Indirect Branch Predictor (IBP) and the Branch Target Buffer (BTB",
+          "link": "https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html",
+          "publishedOn": "2024-07-02T10:28:00.000Z",
+          "wordCount": null,
+          "title": "New Intel CPU Vulnerability 'Indirector' Exposes Sensitive Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0NoU9BsJsrzRqKtOCUdvFRjITrPewugkox1kEcfAJWhM6oY2_GpAW-pNAOYKC5-a-9JRkamRLbLLxCxRnMPtPYThxLwC9liakHVwL07or3h2qGcePO9kKqgzRJu6qKbAGV7H623bqaRWwSgFNSofrLFAkcu6K51l_f0ut3oQDTfygrdebWG1gsgCqW5t/s1600/intel.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD0NoU9BsJsrzRqKtOCUdvFRjITrPewugkox1kEcfAJWhM6oY2_GpAW-pNAOYKC5-a-9JRkamRLbLLxCxRnMPtPYThxLwC9liakHVwL07or3h2qGcePO9kKqgzRJu6qKbAGV7H623bqaRWwSgFNSofrLFAkcu6K51l_f0ut3oQDTfygrdebWG1gsgCqW5t/s1600/intel.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Meta's decision to offer an ad-free subscription in the European Union (E.U.) has faced a new setback after regulators accused the social media behemoth of breaching the bloc's competition rules by forcing users to choose between seeing ads or paying to avoid them.\nThe European Commission said the company's \"pay or consent\" advertising model is in contravention of the Digital Markets Act (DMA).",
