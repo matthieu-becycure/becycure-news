@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-02T22:43:39.711Z</updated>
+    <updated>2024-07-02T23:11:11.270Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2427,17 +2427,6 @@ Odd is also said to go by the nicknames Aron, C700, Cbd748, Ivanov Odd, Mors, Mo
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SASE Threat Report: 8 Key Findings for Enterprise Security]]></title>
-        <id>https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html</id>
-        <link href="https://thehackernews.com/2024/06/sase-threat-report-8-key-findings-for.html"/>
-        <updated>2024-06-03T10:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are evolving, yet Cyber Threat Intelligence (CTI) remains confined to each isolated point solution. Organizations require a holistic analysis across external data, inbound and outbound threats and network activity. This will enable evaluating the true state of cybersecurity in the enterprise.
-Cato’s Cyber Threat Research Lab (Cato CTRL, see more details below) has recently released]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
