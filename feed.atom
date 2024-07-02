@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-02T04:43:41.764Z</updated>
+    <updated>2024-07-02T05:12:15.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Man Charged for Fake Wi-Fi Scam on Domestic Flights]]></title>
+        <id>https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html</id>
+        <link href="https://thehackernews.com/2024/07/australian-man-charged-for-fake-wi-fi.html"/>
+        <updated>2024-07-02T04:29:00.000Z</updated>
+        <summary type="html"><![CDATA[An Australian man has been charged with running a fake Wi-Fi access point during a domestic flight with an aim to steal user credentials and data.
+The unnamed 42-year-old "allegedly established fake free Wi-Fi access points, which mimicked legitimate networks, to capture personal data from unsuspecting victims who mistakenly connected to them," the Australian Federal Police (AFP) said in a press]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks]]></title>
         <id>https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html</id>
