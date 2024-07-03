@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T00:53:00.676Z</updated>
+    <updated>2024-07-03T01:57:52.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2403,18 +2403,6 @@ Tracked as CVE-2017-3506 (CVSS score: 7.4), the issue concerns an operating syst
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new suspicious package uploaded to the npm package registry that's designed to drop a remote access trojan (RAT) on compromised systems.
 The package in question is glup-debugger-log, which targets users of the gulp toolkit by masquerading as a "logger for gulp and gulp plugins." It has been downloaded 175 times to date.
 Software supply chain security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Authorities Ramp Up Efforts to Capture the Mastermind Behind Emotet]]></title>
-        <id>https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html</id>
-        <link href="https://thehackernews.com/2024/06/authorities-ramp-up-efforts-to-capture.html"/>
-        <updated>2024-06-03T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Law enforcement authorities behind Operation Endgame are seeking information related to an individual who goes by the name Odd and is allegedly the mastermind behind the Emotet malware. 
-Odd is also said to go by the nicknames Aron, C700, Cbd748, Ivanov Odd, Mors, Morse, Veron over the past few years, according to a video released by the agencies.
-"Who is he working with? What is his]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
