@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T03:43:34.392Z</updated>
+    <updated>2024-07-03T04:13:27.634Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks]]></title>
+        <id>https://thehackernews.com/2024/07/israeli-entities-targeted-by.html</id>
+        <link href="https://thehackernews.com/2024/07/israeli-entities-targeted-by.html"/>
+        <updated>2024-07-03T03:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an attack campaign that targets various Israeli entities with publicly-available frameworks like Donut and Sliver.
+The campaign, believed to be highly targeted in nature, "leverage target-specific infrastructure and custom WordPress websites as a payload delivery mechanism, but affect a variety of entities across unrelated verticals, and rely on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korean ERP Vendor's Server Hacked to Spread Xctdoor Malware]]></title>
+        <id>https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html</id>
+        <link href="https://thehackernews.com/2024/07/south-korean-erp-vendors-server-hacked.html"/>
+        <updated>2024-07-03T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[An unnamed South Korean enterprise resource planning (ERP) vendor's product update server has been found to be compromised to deliver a Go-based backdoor dubbed Xctdoor.
+The AhnLab Security Intelligence Center (ASEC), which identified the attack in May 2024, did not attribute it to a known threat actor or group, but noted that the tactics overlap with that of Andariel, a sub-cluster within the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How MFA Failures are Fueling a 500% Surge in Ransomware Losses]]></title>
         <id>https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html</id>
