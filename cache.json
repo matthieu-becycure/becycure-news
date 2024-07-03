@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s1600/oracle.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIFmmWqWmOCV2ivCBgH1ENWnO8CcobtaPnuuEldZ7UVbjapv3fnRoHthde1MOhUgpP6hbMY2kT1CkJ-nwmk4ziJInNtJ3KYP6E39_fe8Q4AYdwpmzqw2TGlQORUIaoxHALyTYoPzV6b9vDQc3aO9wF5j28w-Ovzd_E_cJqlvPjU-EUTEIyJVDFwDImlL_b/s1600/oracle.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new suspicious package uploaded to the npm package registry that's designed to drop a remote access trojan (RAT) on compromised systems.\nThe package in question is glup-debugger-log, which targets users of the gulp toolkit by masquerading as a \"logger for gulp and gulp plugins.\" It has been downloaded 175 times to date.\nSoftware supply chain security",
-          "link": "https://thehackernews.com/2024/06/researchers-uncover-rat-dropping-npm.html",
-          "publishedOn": "2024-06-03T14:00:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover RAT-Dropping npm Package Targeting Gulp Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s1600/npm.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5U5y3W4Hkt5kVRqqv6S1In4tHdVHpg24UrDa-GDG236_3aAOi09j3yARqQ47FUA23W_tUVBOOtK8e3H9oZl15mHQ7LTX1oR4_aHCv5e-xV8hDcpaYFDQTA3X7jg34i-imn_jXccLQa-O1JKWdlSozlL9wi4x6d6Aqgae7_z85jZn-JlQlRFppjxk8uyev/s1600/npm.png"
         }
       ]
     },
