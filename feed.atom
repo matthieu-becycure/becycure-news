@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T15:12:11.760Z</updated>
+    <updated>2024-07-03T15:28:11.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2475,17 +2475,6 @@ The attack chain, per Fortinet FortiGuard Labs, involves a Microsoft Excel file 
         <updated>2024-06-04T06:33:00.000Z</updated>
         <summary type="html"><![CDATA[Cyber attacks involving the DarkGate malware-as-a-service (MaaS) operation have shifted away from AutoIt scripts to an AutoHotkey mechanism to deliver the last stages, underscoring continued efforts on the part of the threat actors to continuously stay ahead of the detection curve.
 The updates have been observed in version 6 of DarkGate released in March 2024 by its developer RastaFarEye, who]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle WebLogic Server OS Command Injection Flaw Under Active Attack]]></title>
-        <id>https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html</id>
-        <link href="https://thehackernews.com/2024/06/oracle-weblogic-server-os-command.html"/>
-        <updated>2024-06-04T03:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a security flaw impacting the Oracle WebLogic Server to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-Tracked as CVE-2017-3506 (CVSS score: 7.4), the issue concerns an operating system (OS) command injection vulnerability that could be exploited to obtain unauthorized]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
