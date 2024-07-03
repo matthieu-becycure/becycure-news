@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The loader-as-a-service (LaaS) known as FakeBat has become one of the most widespread loader malware families distributed using the drive-by download technique this year, findings from Sekoia reveal.\n\"FakeBat primarily aims to download and execute the next-stage payload, such as IcedID, Lumma, RedLine, SmokeLoader, SectopRAT, and Ursnif,\" the company said in a Tuesday analysis.\nDrive-by attacks",
+          "link": "https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html",
+          "publishedOn": "2024-07-03T07:05:00.000Z",
+          "wordCount": null,
+          "title": "FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMv3BzA7GmnnloseKlNcPn5oFH9kg1L8PKXPTATG4agdfp1QgWViFuoNqKxhuQy8IX4x6fPdX-IRu1LuSRbWH0kcekdcBbUI-D72vJIkRgHVQ2qLpJWVtdK9fiaCGmQdS5F7GqaEOck30YHam3eXhekW67jjR-nWcjwfxrWzawh94NGZii2oSFN34Ki7Tz/s1600/anudesk.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMv3BzA7GmnnloseKlNcPn5oFH9kg1L8PKXPTATG4agdfp1QgWViFuoNqKxhuQy8IX4x6fPdX-IRu1LuSRbWH0kcekdcBbUI-D72vJIkRgHVQ2qLpJWVtdK9fiaCGmQdS5F7GqaEOck30YHam3eXhekW67jjR-nWcjwfxrWzawh94NGZii2oSFN34Ki7Tz/s1600/anudesk.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/israeli-entities-targeted-by.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered an attack campaign that targets various Israeli entities with publicly-available frameworks like Donut and Sliver.\nThe campaign, believed to be highly targeted in nature, \"leverage target-specific infrastructure and custom WordPress websites as a payload delivery mechanism, but affect a variety of entities across unrelated verticals, and rely on",
