@@ -3127,16 +3127,6 @@
           "wordCount": 322,
           "title": "Vulnérabilité dans SolarWinds Platform (04 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0461",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0461",
-          "publishedOn": "2024-06-04T07:50:13.000Z",
-          "wordCount": 475,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (04 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
