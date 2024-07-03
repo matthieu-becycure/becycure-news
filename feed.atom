@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T22:43:46.928Z</updated>
+    <updated>2024-07-03T23:13:04.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2430,18 +2430,6 @@ The issue, tracked as CVE-2024-4358, carries a CVSS score of 9.8 out of a maximu
         <updated>2024-06-04T11:19:00.000Z</updated>
         <summary type="html"><![CDATA[The landscape of browser security has undergone significant changes over the past decade. While Browser Isolation was once considered the gold standard for protecting against browser exploits and malware downloads, it has become increasingly inadequate and insecure in today's SaaS-centric world.
 The limitations of Browser Isolation, such as degraded browser performance and inability to tackle]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Use MS Excel Macro to Launch Multi-Stage Malware Attack in Ukraine]]></title>
-        <id>https://thehackernews.com/2024/06/hackers-use-ms-excel-macro-to-launch.html</id>
-        <link href="https://thehackernews.com/2024/06/hackers-use-ms-excel-macro-to-launch.html"/>
-        <updated>2024-06-04T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[A new sophisticated cyber attack has been observed targeting endpoints geolocated to Ukraine with an aim to deploy Cobalt Strike and seize control of the compromised hosts.
-The attack chain, per Fortinet FortiGuard Labs, involves a Microsoft Excel file that carries an embedded VBA macro to initiate the infection,
-"The attacker uses a multi-stage malware strategy to deliver the notorious 'Cobalt]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
