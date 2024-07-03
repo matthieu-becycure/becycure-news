@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T22:11:23.457Z</updated>
+    <updated>2024-07-03T22:30:21.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2442,18 +2442,6 @@ The limitations of Browser Isolation, such as degraded browser performance and i
         <summary type="html"><![CDATA[A new sophisticated cyber attack has been observed targeting endpoints geolocated to Ukraine with an aim to deploy Cobalt Strike and seize control of the compromised hosts.
 The attack chain, per Fortinet FortiGuard Labs, involves a Microsoft Excel file that carries an embedded VBA macro to initiate the infection,
 "The attacker uses a multi-stage malware strategy to deliver the notorious 'Cobalt]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowflake Warns: Targeted Credential Theft Campaign Hits Cloud Customers]]></title>
-        <id>https://thehackernews.com/2024/06/snowflake-warns-targeted-credential.html</id>
-        <link href="https://thehackernews.com/2024/06/snowflake-warns-targeted-credential.html"/>
-        <updated>2024-06-04T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Cloud computing and analytics company Snowflake said a "limited number" of its customers have been singled out as part of a targeted campaign.
-"We have not identified evidence suggesting this activity was caused by a vulnerability, misconfiguration, or breach of Snowflake’s platform," the company said in a joint statement along with CrowdStrike and Google-owned Mandiant.
-"We have not identified]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
