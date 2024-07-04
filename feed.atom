@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T23:11:46.411Z</updated>
+    <updated>2024-07-04T23:26:23.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2396,17 +2396,6 @@ Google Maps Timeline,]]></summary>
         <updated>2024-06-06T05:49:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious Python package uploaded to the Python Package Index (PyPI) repository that's designed to deliver an information stealer called Lumma (aka LummaC2).
 The package in question is crytic-compilers, a typosquatted version of a legitimate library named crytic-compile. The rogue package was downloaded 441 times before it was taken down by PyPI]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese State-Backed Cyber Espionage Targets Southeast Asian Government]]></title>
-        <id>https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html</id>
-        <link href="https://thehackernews.com/2024/06/chinese-state-backed-cyber-espionage.html"/>
-        <updated>2024-06-05T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[An unnamed high-profile government organization in Southeast Asia emerged as the target of a "complex, long-running" Chinese state-sponsored cyber espionage operation codenamed Crimson Palace.
-"The overall goal behind the campaign was to maintain access to the target network for cyberespionage in support of Chinese state interests," Sophos researchers Paul Jaramillo, Morgan Demboski, Sean]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
