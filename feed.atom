@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T18:14:48.203Z</updated>
+    <updated>2024-07-04T18:32:13.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2440,27 +2440,6 @@ Knight (aka Cyclops 2.0) ransomware first arrived in May 2023, employing double 
         <summary type="html"><![CDATA[Zyxel has released security updates to address critical flaws impacting two of its network-attached storage (NAS) devices that have currently reached end-of-life (EoL) status.
 Successful exploitation of three of the five vulnerabilities could permit an unauthenticated attacker to execute operating system (OS) commands and arbitrary code on affected installations.
 Impacted models include NAS326]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans SolarWinds Platform (05 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464"/>
-        <updated>2024-06-05T06:25:09.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs]]></title>
-        <id>https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html</id>
-        <link href="https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html"/>
-        <updated>2024-06-05T06:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Popular video-sharing platform TikTok has acknowledged a security issue that has been exploited by threat actors to take control of high-profile accounts on the platform.
-The development was first reported by Semafor and Forbes, which detailed a zero-click account takeover campaign that allows malware propagated via direct messages to compromise brand and celebrity accounts without having to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

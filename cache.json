@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCSeMxnwYp91ki-sYP1KK7ySdEhj9Av_tFh5VsIIlrjnjVgpVxTL3gJ8SRbGcyOPJViTlzBFTlJ6R8mpdzUemoNQpMPUgVeiEfOq80fDpSOIVySQx_K4xdEX1tbuq_XEBS2SVvyvKSDRbaiP6zsJeMPWTOAUk_68e9Nj0_iZ2JB62CzET-RRKZOhwU7CpY/s1600/nas.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCSeMxnwYp91ki-sYP1KK7ySdEhj9Av_tFh5VsIIlrjnjVgpVxTL3gJ8SRbGcyOPJViTlzBFTlJ6R8mpdzUemoNQpMPUgVeiEfOq80fDpSOIVySQx_K4xdEX1tbuq_XEBS2SVvyvKSDRbaiP6zsJeMPWTOAUk_68e9Nj0_iZ2JB62CzET-RRKZOhwU7CpY/s1600/nas.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Popular video-sharing platform TikTok has acknowledged a security issue that has been exploited by threat actors to take control of high-profile accounts on the platform.\nThe development was first reported by Semafor and Forbes, which detailed a zero-click account takeover campaign that allows malware propagated via direct messages to compromise brand and celebrity accounts without having to",
-          "link": "https://thehackernews.com/2024/06/celebrity-tiktok-accounts-compromised.html",
-          "publishedOn": "2024-06-05T06:22:00.000Z",
-          "wordCount": null,
-          "title": "Celebrity TikTok Accounts Compromised Using Zero-Click Attack via DMs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiuNQYnPYlDm3fv5Jg8Ffd402F_pvyfQrDRj3jN3_0r5xyOzweNqglsesejcBYk-CoxfSyx4J6kh_1KaCe1cNU4sl2joHQTAPw5Khqdhg1ghBBaOji4ScJm65lk_Oy40RYjTr9yYQh51VIt1lBUbnOLvho_biZhwYeIvjXcKl6CmbuixyUoqfq_3qiajj/s1600/tiktok.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIiuNQYnPYlDm3fv5Jg8Ffd402F_pvyfQrDRj3jN3_0r5xyOzweNqglsesejcBYk-CoxfSyx4J6kh_1KaCe1cNU4sl2joHQTAPw5Khqdhg1ghBBaOji4ScJm65lk_Oy40RYjTr9yYQh51VIt1lBUbnOLvho_biZhwYeIvjXcKl6CmbuixyUoqfq_3qiajj/s1600/tiktok.png"
         }
       ]
     },
@@ -3120,16 +3104,6 @@
           "publishedOn": "2024-06-06T07:11:10.000Z",
           "wordCount": 320,
           "title": "Vulnérabilité dans MongoDB PyMongo (06 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans SolarWinds Platform. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0464",
-          "publishedOn": "2024-06-05T06:25:09.000Z",
-          "wordCount": 359,
-          "title": "Multiples vulnérabilités dans SolarWinds Platform (05 juin 2024)",
           "imageUrl": null
         }
       ]
