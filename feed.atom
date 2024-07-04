@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T19:09:30.752Z</updated>
+    <updated>2024-07-04T19:23:41.882Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2428,18 +2428,6 @@ The package in question is crytic-compilers, a typosquatted version of a legitim
         <updated>2024-06-05T10:10:00.000Z</updated>
         <summary type="html"><![CDATA[An analysis of a nascent ransomware strain called RansomHub has revealed it to be an updated and rebranded version of Knight ransomware, itself an evolution of another ransomware known as Cyclops.
 Knight (aka Cyclops 2.0) ransomware first arrived in May 2023, employing double extortion tactics to steal and encrypt victims' data for financial gain. It's operational across multiple platforms,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zyxel Releases Patches for Firmware Vulnerabilities in EoL NAS Models]]></title>
-        <id>https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html</id>
-        <link href="https://thehackernews.com/2024/06/zyxel-releases-patches-for-firmware.html"/>
-        <updated>2024-06-05T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Zyxel has released security updates to address critical flaws impacting two of its network-attached storage (NAS) devices that have currently reached end-of-life (EoL) status.
-Successful exploitation of three of the five vulnerabilities could permit an unauthenticated attacker to execute operating system (OS) commands and arbitrary code on affected installations.
-Impacted models include NAS326]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
