@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cloud communications provider Twilio has revealed that unidentified threat actors took advantage of an unauthenticated endpoint in Authy to identify data associated with Authy accounts, including users' cell phone numbers.\nThe company said it took steps to secure the endpoint to no longer accept unauthenticated requests.\nThe development comes days after an online persona named ShinyHunters",
+          "link": "https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html",
+          "publishedOn": "2024-07-04T03:37:00.000Z",
+          "wordCount": null,
+          "title": "Twilio's Authy App Breach Exposes Millions of Phone Numbers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Recently the Office of the Director of National Intelligence (ODNI) unveiled a new strategy for open-source intelligence (OSINT) and referred to OSINT as the “INT of first resort”. Public and private sector organizations are realizing the value that the discipline can provide but are also finding that the exponential growth of digital data in recent years has overwhelmed many traditional OSINT",
