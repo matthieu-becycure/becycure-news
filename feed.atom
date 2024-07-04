@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T10:30:17.754Z</updated>
+    <updated>2024-07-04T10:43:44.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Uncovers Critical Flaws in Rockwell Automation PanelView Plus]]></title>
+        <id>https://thehackernews.com/2024/07/microsoft-uncovers-critical-flaws-in.html</id>
+        <link href="https://thehackernews.com/2024/07/microsoft-uncovers-critical-flaws-in.html"/>
+        <updated>2024-07-04T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has revealed two security flaws in Rockwell Automation PanelView Plus that could be weaponized by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition.
+"The [remote code execution] vulnerability in PanelView Plus involves two custom classes that can be abused to upload and load a malicious DLL into the device," security researcher]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brazil Halts Meta's AI Data Processing Amid Privacy Concerns]]></title>
         <id>https://thehackernews.com/2024/07/brazil-halts-metas-ai-data-processing.html</id>

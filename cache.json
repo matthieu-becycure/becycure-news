@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/microsoft-uncovers-critical-flaws-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft has revealed two security flaws in Rockwell Automation PanelView Plus that could be weaponized by remote, unauthenticated attackers to execute arbitrary code and trigger a denial-of-service (DoS) condition.\n\"The [remote code execution] vulnerability in PanelView Plus involves two custom classes that can be abused to upload and load a malicious DLL into the device,\" security researcher",
+          "link": "https://thehackernews.com/2024/07/microsoft-uncovers-critical-flaws-in.html",
+          "publishedOn": "2024-07-04T09:10:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Uncovers Critical Flaws in Rockwell Automation PanelView Plus",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIL1sdnlSuKRuMQcSdgJvvwWLPwCagMlvm3hY2E5bHo6qBVsf7oCRjunze5-PgBqPGpLXWnoWZyTwnYdz-1x4xyvgGe9mrrVLVt__uUZ0uB83Gc8X8YdAXq_6AvD29Fz0pWijAon3JTrpKxdx71tBtKWIl7YoFdnJsJfey88DY3Kvt5mJlaByk_R1Db15/s1600/rockwell.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbIL1sdnlSuKRuMQcSdgJvvwWLPwCagMlvm3hY2E5bHo6qBVsf7oCRjunze5-PgBqPGpLXWnoWZyTwnYdz-1x4xyvgGe9mrrVLVt__uUZ0uB83Gc8X8YdAXq_6AvD29Fz0pWijAon3JTrpKxdx71tBtKWIl7YoFdnJsJfey88DY3Kvt5mJlaByk_R1Db15/s1600/rockwell.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/brazil-halts-metas-ai-data-processing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Brazil's data protection authority, Autoridade Nacional de Proteção de Dados (ANPD), has temporarily banned Meta from processing users' personal data to train the company's artificial intelligence (AI) algorithms.\nThe ANPD said it found \"evidence of processing of personal data based on inadequate legal hypothesis, lack of transparency, limitation of the rights of data subjects, and risks to",
