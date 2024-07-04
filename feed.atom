@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T02:34:31.790Z</updated>
+    <updated>2024-07-04T02:49:16.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2397,18 +2397,6 @@ The development was first reported by Semafor and Forbes, which detailed a zero-
         <summary type="html"><![CDATA[Russian organizations are at the receiving end of cyber attacks that have been found to deliver a Windows version of a malware called Decoy Dog.
 Cybersecurity company Positive Technologies is tracking the activity cluster under the name Operation Lahat, attributing it to an advanced persistent threat (APT) group called HellHounds.
 "The Hellhounds group compromises organizations they select and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telerik Report Server Flaw Could Let Attackers Create Rogue Admin Accounts]]></title>
-        <id>https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html</id>
-        <link href="https://thehackernews.com/2024/06/telerik-report-server-flaw-could-let.html"/>
-        <updated>2024-06-04T14:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Progress Software has rolled out updates to address a critical security flaw impacting the Telerik Report Server that could be potentially exploited by a remote attacker to bypass authentication and create rogue administrator users.
-The issue, tracked as CVE-2024-4358, carries a CVSS score of 9.8 out of a maximum of 10.0.
-"In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
