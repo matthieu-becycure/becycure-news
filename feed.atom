@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-04T06:44:16.093Z</updated>
+    <updated>2024-07-04T07:12:06.456Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Brazil Halts Meta's AI Data Processing Amid Privacy Concerns]]></title>
+        <id>https://thehackernews.com/2024/07/brazil-halts-metas-ai-data-processing.html</id>
+        <link href="https://thehackernews.com/2024/07/brazil-halts-metas-ai-data-processing.html"/>
+        <updated>2024-07-04T06:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Brazil's data protection authority, Autoridade Nacional de Proteção de Dados (ANPD), has temporarily banned Meta from processing users' personal data to train the company's artificial intelligence (AI) algorithms.
+The ANPD said it found "evidence of processing of personal data based on inadequate legal hypothesis, lack of transparency, limitation of the rights of data subjects, and risks to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike]]></title>
         <id>https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html</id>
