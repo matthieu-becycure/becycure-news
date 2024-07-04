@@ -2253,6 +2253,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0543",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Apache Tomcat. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0543",
+          "publishedOn": "2024-07-04T12:48:00.000Z",
+          "wordCount": 349,
+          "title": "Vulnérabilité dans Apache Tomcat (04 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0542",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0542",
+          "publishedOn": "2024-07-04T12:31:16.000Z",
+          "wordCount": 313,
+          "title": "Vulnérabilité dans MongoDB (04 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0541",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0541",
+          "publishedOn": "2024-07-04T12:24:09.000Z",
+          "wordCount": 393,
+          "title": "Multiples vulnérabilités dans les produits Splunk (04 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0540",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Python. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0540",
+          "publishedOn": "2024-07-04T12:04:00.000Z",
+          "wordCount": 387,
+          "title": "Multiples vulnérabilités dans Python (04 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans le composant OpenSSH utilisé par différents systèmes d'exploitation. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
