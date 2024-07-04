@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-03T23:43:26.152Z</updated>
+    <updated>2024-07-04T00:52:59.017Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2411,16 +2411,6 @@ The issue, tracked as CVE-2024-4358, carries a CVSS score of 9.8 out of a maximu
 "In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans SolarWinds Platform (04 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462"/>
-        <updated>2024-06-04T11:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

@@ -3069,16 +3069,6 @@
           "wordCount": 392,
           "title": "Multiples vulnérabilités dans Ruby on Rails (05 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Platform. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0462",
-          "publishedOn": "2024-06-04T11:58:08.000Z",
-          "wordCount": 322,
-          "title": "Vulnérabilité dans SolarWinds Platform (04 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
