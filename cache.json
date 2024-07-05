@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The supply chain attack targeting widely-used Polyfill[.]io JavaScript library is wider in scope than previously thought, with new findings from Censys showing that over 380,000 hosts are embedding a polyfill script linking to the malicious domain as of July 2, 2024.\nThis includes references to \"https://cdn.polyfill[.]io\" or \"https://cdn.polyfill[.]com\" in their HTTP responses, the attack",
+          "link": "https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html",
+          "publishedOn": "2024-07-05T04:18:00.000Z",
+          "wordCount": null,
+          "title": "Polyfill[.]io Attack Impacts Over 380,000 Hosts, Including Major Companies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4pLyZRjUlwwDS7wu0RqPqlzJi1UA8JDMf4RM6i-So-sGjvIMDe5rGC15ZdBUUmKX-2_scZUf5Ye3vhNP0QO2MXgfHlTMTbaC4FSSivforoLh_zXAiONEXfQvQZTj0NTk1QyXhjlopQ-Jt9eAZlO0ZAivaJho-m654hIwZs0hjfxG0rfDv5xNqSkZlw6ys/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4pLyZRjUlwwDS7wu0RqPqlzJi1UA8JDMf4RM6i-So-sGjvIMDe5rGC15ZdBUUmKX-2_scZUf5Ye3vhNP0QO2MXgfHlTMTbaC4FSSivforoLh_zXAiONEXfQvQZTj0NTk1QyXhjlopQ-Jt9eAZlO0ZAivaJho-m654hIwZs0hjfxG0rfDv5xNqSkZlw6ys/s1600/code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new botnet called Zergeca that's capable of conducting distributed denial-of-service (DDoS) attacks.\nWritten in Golang, the botnet is so named for its reference to a string named \"ootheca\" present in the command-and-control (C2) servers (\"ootheca[.]pw\" and \"ootheca[.]top\").\n\"Functionally, Zergeca is not just a typical DDoS botnet; besides supporting six",
