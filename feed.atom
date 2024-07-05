@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-05T04:15:41.272Z</updated>
+    <updated>2024-07-05T04:33:14.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Golang-Based Zergeca Botnet Capable of Powerful DDoS Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html</id>
+        <link href="https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html"/>
+        <updated>2024-07-05T03:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new botnet called Zergeca that's capable of conducting distributed denial-of-service (DDoS) attacks.
+Written in Golang, the botnet is so named for its reference to a string named "ootheca" present in the command-and-control (C2) servers ("ootheca[.]pw" and "ootheca[.]top").
+"Functionally, Zergeca is not just a typical DDoS botnet; besides supporting six]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulnérabilité dans Apache Tomcat (04 juillet 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0543</id>
