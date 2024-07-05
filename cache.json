@@ -3125,16 +3125,6 @@
           "wordCount": 415,
           "title": "Multiples vulnérabilités dans PHP (07 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466",
-          "publishedOn": "2024-06-06T07:24:26.000Z",
-          "wordCount": 406,
-          "title": "Multiples vulnérabilités dans les produits Elastic (06 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
