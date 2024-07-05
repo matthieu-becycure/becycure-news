@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-05T14:11:27.868Z</updated>
+    <updated>2024-07-05T14:29:30.149Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits IBM (05 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547"/>
+        <updated>2024-07-05T13:06:13.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar Alert: Learn How ITDR Solutions Stop Sophisticated Identity Attacks]]></title>
         <id>https://thehackernews.com/2024/07/webinar-alert-learn-how-itdr-solutions.html</id>
@@ -31,6 +41,16 @@ The 840 Mpps DDoS attack is said to have been a combination of a TCP]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux d'Ubuntu (05 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0546</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0546"/>
+        <updated>2024-07-05T11:23:15.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blueprint for Success: Implementing a CTEM Operation]]></title>
         <id>https://thehackernews.com/2024/07/blueprint-for-success-implementing-ctem.html</id>
         <link href="https://thehackernews.com/2024/07/blueprint-for-success-implementing-ctem.html"/>
@@ -39,6 +59,26 @@ The 840 Mpps DDoS attack is said to have been a combination of a TCP]]></summary
 In 2022, a new framework was coined by Gartner]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans VMware Cloud Director Availability (05 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545"/>
+        <updated>2024-07-05T09:38:37.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Cloud Director Availability. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Apache HTTP Server (05 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0544</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0544"/>
+        <updated>2024-07-05T09:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Apache HTTP Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
