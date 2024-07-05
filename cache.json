@@ -2196,38 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s1600/hacking.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf0b7qi43DfzwqM-7yszlfC4otg0Lbj1V0X_KuM0YsaADhlAInihyOevmMpFxA_pL1lSJwFDqFDiTseCkVYqZD3ZkWd0K2eQMCohprkBnZhhcxPr-aKcePFW13tm8q-CrLFvyrareMdJPGRB6FQ1bBmKagtab1ufdmN35zJsxL5uEMn6oRrQvl-d_Qh0/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Tom works for a reputable financial institution. He has a long, complex password that would be near-impossible to guess. He’s memorized it by heart, so he started using it for his social media accounts and on his personal devices too. Unbeknownst to Tom, one of these sites has had its password database compromised by hackers and put it up for sale on the dark web. Now threat actors are working",
-          "link": "https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html",
-          "publishedOn": "2024-06-06T09:55:00.000Z",
-          "wordCount": null,
-          "title": "Prevent Account Takeover with Better Password Security",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFN-Tl11nEwb1NHJor09V-vh76L4XkhcimjHqaCbqCat0n8WtB_WeKt7TklB6RxnxFIVQZ7syKstwg1-bZbeuve-EXR4XiF0XXXVhErzqzrDNOQJeVuvRqbSmatcMqbYPaLzxMEEDgKwNMBsgwU_XZ-QJQdaQNYLUBf8lQNf9ad24QfLddrnFaPD6cKz8/s1600/main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFN-Tl11nEwb1NHJor09V-vh76L4XkhcimjHqaCbqCat0n8WtB_WeKt7TklB6RxnxFIVQZ7syKstwg1-bZbeuve-EXR4XiF0XXXVhErzqzrDNOQJeVuvRqbSmatcMqbYPaLzxMEEDgKwNMBsgwU_XZ-QJQdaQNYLUBf8lQNf9ad24QfLddrnFaPD6cKz8/s1600/main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are increasingly abusing legitimate and commercially available packer software such as BoxedApp to evade detection and distribute malware such as remote access trojans and information stealers.\n\"The majority of the attributed malicious samples targeted financial institutions and government industries,\" Check Point security researcher Jiri Vinopal said in an analysis.\nThe volume of",
-          "link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html",
-          "publishedOn": "2024-06-06T09:54:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Legitimate Packer Software to Spread Malware Undetected",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s1600/malware-detection.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s1600/malware-detection.png"
         }
       ]
     },

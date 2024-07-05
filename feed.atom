@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-05T21:43:34.973Z</updated>
+    <updated>2024-07-05T22:12:07.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2441,28 +2441,6 @@ The agency attributed the attacks to a threat actor it tracks under the moniker 
         <updated>2024-06-06T11:30:00.000Z</updated>
         <summary type="html"><![CDATA[Learn about critical threats that can impact your organization and the bad actors behind them from Cybersixgill’s threat experts. Each story shines a light on underground activities, the threat actors involved, and why you should care, along with what you can do to mitigate risk. 
 In an increasingly interconnected world, supply chain attacks have emerged as a formidable threat, compromising]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prevent Account Takeover with Better Password Security]]></title>
-        <id>https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html</id>
-        <link href="https://thehackernews.com/2024/06/prevent-account-takeover-with-better.html"/>
-        <updated>2024-06-06T09:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Tom works for a reputable financial institution. He has a long, complex password that would be near-impossible to guess. He’s memorized it by heart, so he started using it for his social media accounts and on his personal devices too. Unbeknownst to Tom, one of these sites has had its password database compromised by hackers and put it up for sale on the dark web. Now threat actors are working]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Legitimate Packer Software to Spread Malware Undetected]]></title>
-        <id>https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html</id>
-        <link href="https://thehackernews.com/2024/06/hackers-exploit-legitimate-packer.html"/>
-        <updated>2024-06-06T09:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are increasingly abusing legitimate and commercially available packer software such as BoxedApp to evade detection and distribute malware such as remote access trojans and information stealers.
-"The majority of the attributed malicious samples targeted financial institutions and government industries," Check Point security researcher Jiri Vinopal said in an analysis.
-The volume of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
