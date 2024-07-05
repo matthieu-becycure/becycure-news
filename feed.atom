@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-05T19:08:52.813Z</updated>
+    <updated>2024-07-05T19:23:23.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2473,28 +2473,6 @@ The volume of]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0466"/>
         <updated>2024-06-06T07:24:26.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Elastic. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Maps Timeline Data to be Stored Locally on Your Device for Privacy]]></title>
-        <id>https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html</id>
-        <link href="https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html"/>
-        <updated>2024-06-06T07:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced plans to store Maps Timeline data locally on users' devices instead of their Google account effective December 1, 2024.
-The changes were originally announced by the tech giant in December 2023, alongside changes to the auto-delete control when enabling Location History by setting it to three months by default, down from the previous limit of 18 months.
-Google Maps Timeline,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans MongoDB PyMongo (06 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465"/>
-        <updated>2024-06-06T07:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans MongoDB PyMongo. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

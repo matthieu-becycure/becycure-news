@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s1600/malware-detection.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_LNIyR5m8YXI8wRkvRBDR2mbGmsHBP1nOJM4zszaaoVuFxyvsy1H5Cd_RvuZy2YxZcpN0z3bHx_JHkOooZb29RLoYF6PlOXNjaHRm6JsDMzo-k_dFM79z7sS2x1MHoN83Z4_EuFRALnqQLPe1VFCkV1MYRY-zSMX3XvMimLxlme90m_151JvpabNz1HuM/s1600/malware-detection.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced plans to store Maps Timeline data locally on users' devices instead of their Google account effective December 1, 2024.\nThe changes were originally announced by the tech giant in December 2023, alongside changes to the auto-delete control when enabling Location History by setting it to three months by default, down from the previous limit of 18 months.\nGoogle Maps Timeline,",
-          "link": "https://thehackernews.com/2024/06/google-maps-timeline-data-to-be-stored.html",
-          "publishedOn": "2024-06-06T07:15:00.000Z",
-          "wordCount": null,
-          "title": "Google Maps Timeline Data to be Stored Locally on Your Device for Privacy",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd0gj3EfesRLbqd1fEZAI1ZV-uYFreCGOkuRZMe51jSGDYha2xh69re8tAbfW0wJDSCNBhU6sjWWwkE5a9uyCUDFsmV10vnykyyGMwePtw_JnkVJ5H3xcCd_vKi3VEh4DPLIQhJCZ3VOmLehWRhM4R2xi9xrJ2pHl_0XaNoFfXpsECRqLuysMtLIDHTXOv/s1600/google.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd0gj3EfesRLbqd1fEZAI1ZV-uYFreCGOkuRZMe51jSGDYha2xh69re8tAbfW0wJDSCNBhU6sjWWwkE5a9uyCUDFsmV10vnykyyGMwePtw_JnkVJ5H3xcCd_vKi3VEh4DPLIQhJCZ3VOmLehWRhM4R2xi9xrJ2pHl_0XaNoFfXpsECRqLuysMtLIDHTXOv/s1600/google.png"
         }
       ]
     },
@@ -3150,16 +3134,6 @@
           "publishedOn": "2024-06-06T07:24:26.000Z",
           "wordCount": 406,
           "title": "Multiples vulnérabilités dans les produits Elastic (06 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans MongoDB PyMongo. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0465",
-          "publishedOn": "2024-06-06T07:11:10.000Z",
-          "wordCount": 320,
-          "title": "Vulnérabilité dans MongoDB PyMongo (06 juin 2024)",
           "imageUrl": null
         }
       ]
