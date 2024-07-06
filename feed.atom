@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-06T19:08:56.079Z</updated>
+    <updated>2024-07-06T19:23:40.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2397,17 +2397,6 @@ To that end, apps that generate content using AI must ensure they don't create]]
         <updated>2024-06-07T07:48:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Federal Bureau of Investigation (FBI) has disclosed that it's in possession of more than 7,000 decryption keys associated with the LockBit ransomware operation to help victims get their data back at no cost.
 "We are reaching out to known LockBit victims and encouraging anyone who suspects they were a victim to visit our Internet Crime Complaint Center at ic3.gov," FBI Cyber Division]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPECTR Malware Targets Ukraine Defense Forces in SickSync Campaign]]></title>
-        <id>https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html</id>
-        <link href="https://thehackernews.com/2024/06/spectr-malware-targets-ukraine-defense.html"/>
-        <updated>2024-06-07T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting defense forces in the country with a malware called SPECTR as part of an espionage campaign dubbed SickSync.
-The agency attributed the attacks to a threat actor it tracks under the moniker UAC-0020, which is also called Vermin and is assessed to be associated with security agencies of the Luhansk]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
