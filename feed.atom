@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-06T17:09:13.730Z</updated>
+    <updated>2024-07-06T17:26:11.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2408,17 +2408,6 @@ To that end, apps that generate content using AI must ensure they don't create]]
         <updated>2024-06-07T07:13:00.000Z</updated>
         <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of cyber attacks targeting defense forces in the country with a malware called SPECTR as part of an espionage campaign dubbed SickSync.
 The agency attributed the attacks to a threat actor it tracks under the moniker UAC-0020, which is also called Vermin and is assessed to be associated with security agencies of the Luhansk]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances]]></title>
-        <id>https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html</id>
-        <link href="https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html"/>
-        <updated>2024-06-07T05:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as Commando Cat has been linked to an ongoing cryptojacking attack campaign that leverages poorly secured Docker instances to deploy cryptocurrency miners for financial gain.
-"The attackers used the cmd.cat/chattr docker image container that retrieves the payload from their own command-and-control (C&C) infrastructure," Trend Micro researchers Sunil Bharti and Shubham]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

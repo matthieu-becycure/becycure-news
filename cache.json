@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dCF_MZ8R1aV_r0lLupLaF_MR-agH5s0ooWlT5NTlg5ueBWMyQ466ShykUNTqi0g6itGHHOWZVemZwV2Yu8lab9e33FDMcex7rxYuFHB8FGuoyO7xFU_c-WMoCoIguyX_tTlJt0EkcO_Is2Ui59nAaU5jdzOJsl_fVeGOAAkaaTKscoo0rtRl3D4YBo7Y/s1600/target.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dCF_MZ8R1aV_r0lLupLaF_MR-agH5s0ooWlT5NTlg5ueBWMyQ466ShykUNTqi0g6itGHHOWZVemZwV2Yu8lab9e33FDMcex7rxYuFHB8FGuoyO7xFU_c-WMoCoIguyX_tTlJt0EkcO_Is2Ui59nAaU5jdzOJsl_fVeGOAAkaaTKscoo0rtRl3D4YBo7Y/s1600/target.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Commando Cat has been linked to an ongoing cryptojacking attack campaign that leverages poorly secured Docker instances to deploy cryptocurrency miners for financial gain.\n\"The attackers used the cmd.cat/chattr docker image container that retrieves the payload from their own command-and-control (C&C) infrastructure,\" Trend Micro researchers Sunil Bharti and Shubham",
-          "link": "https://thehackernews.com/2024/06/commando-cat-cryptojacking-attacks.html",
-          "publishedOn": "2024-06-07T05:10:00.000Z",
-          "wordCount": null,
-          "title": "Commando Cat Cryptojacking Attacks Target Misconfigured Docker Instances",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHgPh9MYCyy8ZSzzZjXQNd6JaqQX6WCtr6zfxXx3aOUhbj5v_Szu411JvvXu-bPhjQ7qWbnJrM-5UBpZy8LRKZ06k_IT8hyphenhyphenadauRkvtjOKH2Th-qvStmj-k8n4e-IsANp2sD4ELvcg82rhLXWYR2mWWZPT7l-UrA4wOl-07vuNtRbi0czHD7wxgCD9dm0/s1600/cat.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHgPh9MYCyy8ZSzzZjXQNd6JaqQX6WCtr6zfxXx3aOUhbj5v_Szu411JvvXu-bPhjQ7qWbnJrM-5UBpZy8LRKZ06k_IT8hyphenhyphenadauRkvtjOKH2Th-qvStmj-k8n4e-IsANp2sD4ELvcg82rhLXWYR2mWWZPT7l-UrA4wOl-07vuNtRbi0czHD7wxgCD9dm0/s1600/cat.png"
         }
       ]
     },
