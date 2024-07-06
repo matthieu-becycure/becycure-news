@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-06T00:51:41.877Z</updated>
+    <updated>2024-07-06T01:55:35.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2419,17 +2419,6 @@ The agency attributed the attacks to a threat actor it tracks under the moniker 
         <updated>2024-06-07T05:10:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actor known as Commando Cat has been linked to an ongoing cryptojacking attack campaign that leverages poorly secured Docker instances to deploy cryptocurrency miners for financial gain.
 "The attackers used the cmd.cat/chattr docker image container that retrieves the payload from their own command-and-control (C&C) infrastructure," Trend Micro researchers Sunil Bharti and Shubham]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muhstik Botnet Exploiting Apache RocketMQ Flaw to Expand DDoS Attacks]]></title>
-        <id>https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html</id>
-        <link href="https://thehackernews.com/2024/06/muhstik-botnet-exploiting-apache.html"/>
-        <updated>2024-06-06T13:14:00.000Z</updated>
-        <summary type="html"><![CDATA[The distributed denial-of-service (DDoS) botnet known as Muhstik has been observed leveraging a now-patched security flaw impacting Apache RocketMQ to co-opt susceptible servers and expand its scale.
-"Muhstik is a well-known threat targeting IoT devices and Linux-based servers, notorious for its ability to infect devices and utilize them for cryptocurrency mining and launching Distributed Denial]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
