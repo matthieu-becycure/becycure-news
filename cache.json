@@ -2961,16 +2961,6 @@
           "wordCount": 716,
           "title": "Multiples vulnérabilités dans les produits IBM (07 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0469",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Elastic. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0469",
-          "publishedOn": "2024-06-07T11:26:43.000Z",
-          "wordCount": 322,
-          "title": "Vulnérabilité dans les produits Elastic (07 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
