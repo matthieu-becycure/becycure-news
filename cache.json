@@ -2921,16 +2921,6 @@
           "wordCount": 867,
           "title": "Bulletin d'actualité CERTFR-2024-ACT-025 (10 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0467",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans SolarWinds Serv-U. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0467",
-          "publishedOn": "2024-06-07T14:07:00.000Z",
-          "wordCount": 322,
-          "title": "Vulnérabilité dans SolarWinds Serv-U (07 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
