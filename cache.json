@@ -2931,26 +2931,6 @@
           "wordCount": 322,
           "title": "Vulnérabilité dans SolarWinds Serv-U (07 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0472",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0472",
-          "publishedOn": "2024-06-07T13:33:27.000Z",
-          "wordCount": 471,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian (07 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0471",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0471",
-          "publishedOn": "2024-06-07T13:20:18.000Z",
-          "wordCount": 1201,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (07 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
