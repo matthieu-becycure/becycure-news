@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-07T03:43:41.333Z</updated>
+    <updated>2024-07-07T04:13:13.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2279,29 +2279,6 @@ According to DEVCORE security researcher, the shortcoming makes]]></summary>
         <updated>2024-06-08T06:54:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft on Friday said it will disable its much-criticized artificial intelligence (AI)-powered Recall feature by default and make it an opt-in.
 Recall, currently in preview and coming exclusively to Copilot+ PCs on June 18, 2024, functions as an "explorable visual timeline" by capturing screenshots of what appears on users' screens every five seconds, which are subsequently analyzed and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Cyber Hygiene Guide: Learn How to Simplify Your Security Efforts]]></title>
-        <id>https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html</id>
-        <link href="https://thehackernews.com/2024/06/ultimate-cyber-hygiene-guide-learn-how.html"/>
-        <updated>2024-06-07T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 was a year of unprecedented cyberattacks. Ransomware crippled businesses, DDoS attacks disrupted critical services, and data breaches exposed millions of sensitive records. The cost of these attacks? Astronomical. The damage to reputations? Irreparable.
-But here's the shocking truth: many of these attacks could have been prevented with basic cyber hygiene.
-Are you ready to transform your]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LightSpy Spyware's macOS Variant Found with Advanced Surveillance Capabilities]]></title>
-        <id>https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html</id>
-        <link href="https://thehackernews.com/2024/06/lightspy-spywares-macos-variant-found.html"/>
-        <updated>2024-06-07T15:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed that the LightSpy spyware allegedly targeting Apple iOS users is in fact a previously undocumented macOS variant of the implant.
-The findings come from both Huntress Labs and ThreatFabric, which separately analyzed the artifacts associated with the cross-platform malware framework that likely possesses capabilities to infect Android, iOS, Windows, macOS,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
