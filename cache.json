@@ -2020,22 +2020,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsmKvpWMnsrIG5QoQ9jDpSY-czFUfoFRy1kJE566ebCiRpKJMz8w0BkBmp_ZI_XD7QU8d1w2PHjIBk1z47iuMRO-8WG8oXnivM-UqiViMckLKzzBe0HZe_STM1HvXX4t3dF57J1raNnU2eyjMaTArfFdjX7cwB0G4PtGJvShA_4paHZyd7575-A7yLKbd/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpsmKvpWMnsrIG5QoQ9jDpSY-czFUfoFRy1kJE566ebCiRpKJMz8w0BkBmp_ZI_XD7QU8d1w2PHjIBk1z47iuMRO-8WG8oXnivM-UqiViMckLKzzBe0HZe_STM1HvXX4t3dF57J1raNnU2eyjMaTArfFdjX7cwB0G4PtGJvShA_4paHZyd7575-A7yLKbd/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Details have emerged about a new critical security flaw impacting PHP that could be exploited to achieve remote code execution under certain circumstances.\nThe vulnerability, tracked as CVE-2024-4577, has been described as a CGI argument injection vulnerability affecting all versions of PHP installed on the Windows operating system.\nAccording to DEVCORE security researcher, the shortcoming makes",
-          "link": "https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html",
-          "publishedOn": "2024-06-08T07:35:00.000Z",
-          "wordCount": null,
-          "title": "New PHP Vulnerability Exposes Windows Servers to Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJMVQwlBIUAMPQtsReXRN3k8ttvKE49dlbJVPZJgnzjEw-VIl7voeFz2A76WzwPtHpUhvg1xgIaWqvPLUXqmm2ZMD3Ggs0-MGB15FlBKNQ6A1oabhMtyUUivabvHLm9EvajbguJ5wCGUf8fjdM65rm-0pka0kmqb-9qTgeL0uOAL4E3hhAD279sA5ZpSu/s1600/php.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLJMVQwlBIUAMPQtsReXRN3k8ttvKE49dlbJVPZJgnzjEw-VIl7voeFz2A76WzwPtHpUhvg1xgIaWqvPLUXqmm2ZMD3Ggs0-MGB15FlBKNQ6A1oabhMtyUUivabvHLm9EvajbguJ5wCGUf8fjdM65rm-0pka0kmqb-9qTgeL0uOAL4E3hhAD279sA5ZpSu/s1600/php.png"
         }
       ]
     },

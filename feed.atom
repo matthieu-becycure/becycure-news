@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-07T19:23:42.872Z</updated>
+    <updated>2024-07-07T19:43:33.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2256,18 +2256,6 @@ Perhaps even more so than in other professional domains, cybersecurity professio
         <updated>2024-06-10T05:29:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a threat actor known as Sticky Werewolf that has been linked to cyber attacks targeting entities in Russia and Belarus.
 The phishing attacks were aimed at a pharmaceutical company, a Russian research institute dealing with microbiology and vaccine development, and the aviation sector, expanding beyond their initial focus of government]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New PHP Vulnerability Exposes Windows Servers to Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html</id>
-        <link href="https://thehackernews.com/2024/06/new-php-vulnerability-exposes-windows.html"/>
-        <updated>2024-06-08T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Details have emerged about a new critical security flaw impacting PHP that could be exploited to achieve remote code execution under certain circumstances.
-The vulnerability, tracked as CVE-2024-4577, has been described as a CGI argument injection vulnerability affecting all versions of PHP installed on the Windows operating system.
-According to DEVCORE security researcher, the shortcoming makes]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
