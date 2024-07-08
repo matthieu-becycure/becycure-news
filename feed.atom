@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-08T14:31:21.979Z</updated>
+    <updated>2024-07-08T14:43:27.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Ransomware-as-a-Service 'Eldorado' Targets Windows and Linux Systems]]></title>
+        <id>https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html</id>
+        <link href="https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html"/>
+        <updated>2024-07-08T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[An emerging ransomware-as-a-service (RaaS) operation called Eldorado comes with locker variants to encrypt files on Windows and Linux systems.
+Eldorado first appeared on March 16, 2024, when an advertisement for the affiliate program was posted on the ransomware forum RAMP, Singapore-headquartered Group-IB said.
+The cybersecurity firm, which infiltrated the ransomware group, noted that its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy]]></title>
         <id>https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html</id>
