@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-08T16:14:22.110Z</updated>
+    <updated>2024-07-08T16:33:25.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New APT Group "CloudSorcerer" Targets Russian Government Entities]]></title>
+        <id>https://thehackernews.com/2024/07/new-apt-group-cloudsorcerer-targets.html</id>
+        <link href="https://thehackernews.com/2024/07/new-apt-group-cloudsorcerer-targets.html"/>
+        <updated>2024-07-08T15:42:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented advanced persistent threat (APT) group dubbed CloudSorcerer has been observed targeting Russian government entities by leveraging cloud services for command-and-control (C2) and data exfiltration.
+Cybersecurity firm Kaspersky, which discovered the activity in May 2024, the tradecraft adopted by the threat actor bears similarities with that of CloudWizard, but pointed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Web Malware Logs Expose 3,300 Users Linked to Child Abuse Sites]]></title>
         <id>https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html</id>
