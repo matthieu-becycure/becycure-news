@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An analysis of information-stealing malware logs published on the dark web has led to the discovery of thousands of consumers of child sexual abuse material (CSAM), indicating how such information could be used to combat serious crimes.\n\"Approximately 3,300 unique users were found with accounts on known CSAM sources,\" Recorded Future said in a proof-of-concept (PoC) report published last week. \"",
+          "link": "https://thehackernews.com/2024/07/dark-web-malware-logs-expose-3300-users.html",
+          "publishedOn": "2024-07-08T15:08:00.000Z",
+          "wordCount": null,
+          "title": "Dark Web Malware Logs Expose 3,300 Users Linked to Child Abuse Sites",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIOkHrKyHEbR3rAkxvSoNBHkroLChspoB753zfzBzQPGCjJW50KJVlxpq1jOIL6h77FeG68BfXOvU4eLGIUDnu2X9jvM-AgHmAQevkmeizO1AJPRzTNkQzzrleaZKCv-5x29cJOqOXaaf31-F1PHSqYUafXRXcMMBR_7Cuid-WiHMhZiutPZ_ii6J5C3i/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIOkHrKyHEbR3rAkxvSoNBHkroLChspoB753zfzBzQPGCjJW50KJVlxpq1jOIL6h77FeG68BfXOvU4eLGIUDnu2X9jvM-AgHmAQevkmeizO1AJPRzTNkQzzrleaZKCv-5x29cJOqOXaaf31-F1PHSqYUafXRXcMMBR_7Cuid-WiHMhZiutPZ_ii6J5C3i/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/new-ransomware-as-service-eldorado.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An emerging ransomware-as-a-service (RaaS) operation called Eldorado comes with locker variants to encrypt files on Windows and Linux systems.\nEldorado first appeared on March 16, 2024, when an advertisement for the affiliate program was posted on the ransomware forum RAMP, Singapore-headquartered Group-IB said.\nThe cybersecurity firm, which infiltrated the ransomware group, noted that its",
