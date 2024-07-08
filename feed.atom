@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-08T11:10:32.826Z</updated>
+    <updated>2024-07-08T11:24:07.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Key Questions CISOs Must Ask Themselves About Their Cybersecurity Strategy]]></title>
+        <id>https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html</id>
+        <link href="https://thehackernews.com/2024/07/5-key-questions-cisos-must-ask.html"/>
+        <updated>2024-07-08T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Events like the recent massive CDK ransomware attack – which shuttered car dealerships across the U.S. in late June 2024 – barely raise public eyebrows anymore. 
+Yet businesses, and the people that lead them, are justifiably jittery. Every CISO knows that cybersecurity is an increasingly hot topic for executives and board members alike. And when the inevitable CISO/Board briefing rolls]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts Warn of Mekotio Banking Trojan Targeting Latin American Countries]]></title>
         <id>https://thehackernews.com/2024/07/experts-warn-of-mekotio-banking-trojan.html</id>
