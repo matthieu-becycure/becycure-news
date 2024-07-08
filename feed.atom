@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-08T08:32:01.835Z</updated>
+    <updated>2024-07-08T08:43:39.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service]]></title>
+        <id>https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html</id>
+        <link href="https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html"/>
+        <updated>2024-07-08T06:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Four unpatched security flaws, including three critical ones, have been disclosed in the Gogs open-source, self-hosted Git service that could enable an authenticated attacker to breach susceptible instances, steal or wipe source code, and even plant backdoors.
+The vulnerabilities, according to SonarSource researchers Thomas Chauchefoin and Paul Gerste, are listed below -
+
+CVE-2024-39930 (CVSS]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Removes VPN Apps from Russian App Store Amid Government Pressure]]></title>
         <id>https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html</id>
