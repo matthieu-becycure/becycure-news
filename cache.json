@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Apple removed a number of virtual private network (VPN) apps in Russia from its App Store on July 4, 2024, following a request by Russia's state communications watchdog Roskomnadzor, Russian news media reported.\nThis includes the mobile apps of 25 VPN service providers, including ProtonVPN, Red Shield VPN, NordVPN and Le VPN, according to MediaZona. It's worth noting that NordVPN previously shut",
+          "link": "https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html",
+          "publishedOn": "2024-07-08T06:28:00.000Z",
+          "wordCount": null,
+          "title": "Apple Removes VPN Apps from Russian App Store Amid Government Pressure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ABnNMPX07wC70mllZBeTVjTh-4Ux6z9miW5TeUc9ti2bIC0aaU8R1gT99CW_jU4knPaDJiEaFpSlOX4C5DhPMNYlQbflMMocShYp6E9e3LvUjL2TlPLoiBZZ4Pv23elETRbrJtDd3otRDJyjk_ibOkAUWQqANXJo7B4avsP8cOmoETcT5LiL3q5wsvNH/s1600/vpn.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2ABnNMPX07wC70mllZBeTVjTh-4Ux6z9miW5TeUc9ti2bIC0aaU8R1gT99CW_jU4knPaDJiEaFpSlOX4C5DhPMNYlQbflMMocShYp6E9e3LvUjL2TlPLoiBZZ4Pv23elETRbrJtDd3otRDJyjk_ibOkAUWQqANXJo7B4avsP8cOmoETcT5LiL3q5wsvNH/s1600/vpn.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/webinar-alert-learn-how-itdr-solutions.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identity theft isn't just about stolen credit cards anymore. Today, cybercriminals are using advanced tactics to infiltrate organizations and cause major damage with compromised credentials.\nThe stakes are high: ransomware attacks, lateral movement, and devastating data breaches.\nDon't be caught off guard. Join us for a groundbreaking webinar that will change the way you approach cybersecurity.",
