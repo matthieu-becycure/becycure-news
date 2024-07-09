@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-09T23:28:22.073Z</updated>
+    <updated>2024-07-09T23:43:22.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2413,17 +2413,6 @@ Valhall GPU Kernel Driver (all versions from r34p0 to r40p0)
         <summary type="html"><![CDATA[Cybersecurity researchers have spotted a phishing attack distributing the More_eggs malware by masquerading it as a resume, a technique originally detected more than two years ago.
 The attack, which was unsuccessful, targeted an unnamed company in the industrial services industry in May 2024, Canadian cybersecurity firm eSentire disclosed last week.
 "Specifically, the targeted individual was a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity CPEs: Unraveling the What, Why & How]]></title>
-        <id>https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html</id>
-        <link href="https://thehackernews.com/2024/06/cybersecurity-cpes-unraveling-what-why.html"/>
-        <updated>2024-06-10T11:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Staying Sharp: Cybersecurity CPEs Explained
-Perhaps even more so than in other professional domains, cybersecurity professionals constantly face new threats. To ensure you stay on top of your game, many certification programs require earning Continuing Professional Education (CPE) credits. CPEs are essentially units of measurement used to quantify the time and effort professionals spend on]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
