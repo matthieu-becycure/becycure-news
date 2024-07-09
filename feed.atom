@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-09T17:11:31.838Z</updated>
+    <updated>2024-07-09T17:29:27.572Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2468,17 +2468,6 @@ Perhaps even more so than in other professional domains, cybersecurity professio
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sticky Werewolf Expands Cyber Attack Targets in Russia and Belarus]]></title>
-        <id>https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html</id>
-        <link href="https://thehackernews.com/2024/06/sticky-werewolf-expands-cyber-attack.html"/>
-        <updated>2024-06-10T05:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a threat actor known as Sticky Werewolf that has been linked to cyber attacks targeting entities in Russia and Belarus.
-The phishing attacks were aimed at a pharmaceutical company, a Russian research institute dealing with microbiology and vaccine development, and the aviation sector, expanding beyond their initial focus of government]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
