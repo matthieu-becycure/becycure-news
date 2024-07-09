@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a security vulnerability in the RADIUS network authentication protocol called BlastRADIUS that could be exploited by an attacker to stage Mallory-in-the-middle (MitM) attacks and bypass integrity checks under certain circumstances.\n\"The RADIUS protocol allows certain Access-Request messages to have no integrity or authentication checks,\" InkBridge",
+          "link": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
+          "publishedOn": "2024-07-09T12:39:00.000Z",
+          "wordCount": null,
+          "title": "RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have found that it's possible for attackers to weaponize improperly configured Jenkins Script Console instances to further criminal activities such as cryptocurrency mining.\n\"Misconfigurations such as improperly set up authentication mechanisms expose the '/script' endpoint to attackers,\" Trend Micro's Shubham Singh and Sunil Bharti said in a technical write-up",
