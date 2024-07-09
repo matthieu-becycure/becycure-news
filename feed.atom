@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-09T23:13:44.618Z</updated>
+    <updated>2024-07-09T23:28:22.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2424,17 +2424,6 @@ The attack, which was unsuccessful, targeted an unnamed company in the industria
         <updated>2024-06-10T11:31:00.000Z</updated>
         <summary type="html"><![CDATA[Staying Sharp: Cybersecurity CPEs Explained
 Perhaps even more so than in other professional domains, cybersecurity professionals constantly face new threats. To ensure you stay on top of your game, many certification programs require earning Continuing Professional Education (CPE) credits. CPEs are essentially units of measurement used to quantify the time and effort professionals spend on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers]]></title>
-        <id>https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html</id>
-        <link href="https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html"/>
-        <updated>2024-06-10T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft is warning about the potential abuse of Azure Service Tags by malicious actors to forge requests from a trusted service and get around firewall rules, thereby allowing them to gain unauthorized access to cloud resources.
-"This case does highlight an inherent risk in using service tags as a single mechanism for vetting incoming network traffic," the Microsoft Security Response Center (]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

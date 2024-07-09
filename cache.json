@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s1600/main.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4sgIJEDYE0-zh6BmIH9XSWucf0gUeKojcAhpbggufIVHtSZ4vDD6DjzHlo_AlO5IqzmBx3yU0uQxA6GO-kJAD9RWdWtyCrbkwcY55zh3HuypFD0MrcS-wiVdMcXOr_t4hhChRSp24DiXO9FRKyK7Z8BXPM5-6SKiCFFlkukzmZnHWS3Ce4Qo2jKM9P9U/s1600/main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft is warning about the potential abuse of Azure Service Tags by malicious actors to forge requests from a trusted service and get around firewall rules, thereby allowing them to gain unauthorized access to cloud resources.\n\"This case does highlight an inherent risk in using service tags as a single mechanism for vetting incoming network traffic,\" the Microsoft Security Response Center (",
-          "link": "https://thehackernews.com/2024/06/azure-service-tags-vulnerability.html",
-          "publishedOn": "2024-06-10T11:20:00.000Z",
-          "wordCount": null,
-          "title": "Azure Service Tags Vulnerability: Microsoft Warns of Potential Abuse by Hackers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjEqJ-bEzUrjGe8Ea8UCLd0DKc1_FyRvFy1X0L4ebjIONIsZB44xrOZIz7T65tlHYvdqxocM41F96IgYRSLTN8vZl-Pv6uoxAq0wYUFmWj45-Y-VeiQL_8Msk2M3Xzk8NUAvXCmgw56x-qzVzb4_3l50W7x_5mXIJnC61KcrViSTxZ9blaPblIj-ntAw9/s1600/image.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPjEqJ-bEzUrjGe8Ea8UCLd0DKc1_FyRvFy1X0L4ebjIONIsZB44xrOZIz7T65tlHYvdqxocM41F96IgYRSLTN8vZl-Pv6uoxAq0wYUFmWj45-Y-VeiQL_8Msk2M3Xzk8NUAvXCmgw56x-qzVzb4_3l50W7x_5mXIJnC61KcrViSTxZ9blaPblIj-ntAw9/s1600/image.gif"
         }
       ]
     },
