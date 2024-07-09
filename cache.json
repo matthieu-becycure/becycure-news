@@ -3109,16 +3109,6 @@
           "wordCount": 402,
           "title": "Vulnérabilité dans VMware Tanzu (10 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-025",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-025",
-          "publishedOn": "2024-06-10T06:57:11.000Z",
-          "wordCount": 867,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-025 (10 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
