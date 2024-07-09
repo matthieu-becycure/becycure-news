@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-09T22:43:37.041Z</updated>
+    <updated>2024-07-09T23:13:44.618Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2435,17 +2435,6 @@ Perhaps even more so than in other professional domains, cybersecurity professio
         <updated>2024-06-10T11:20:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft is warning about the potential abuse of Azure Service Tags by malicious actors to forge requests from a trusted service and get around firewall rules, thereby allowing them to gain unauthorized access to cloud resources.
 "This case does highlight an inherent risk in using service tags as a single mechanism for vetting incoming network traffic," the Microsoft Security Response Center (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Takes Down Influence Campaigns Tied to China, Indonesia, and Russia]]></title>
-        <id>https://thehackernews.com/2024/06/google-takes-down-influence-campaigns.html</id>
-        <link href="https://thehackernews.com/2024/06/google-takes-down-influence-campaigns.html"/>
-        <updated>2024-06-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has revealed that it took down 1,320 YouTube channels and 1,177 Blogger blogs as part of a coordinated influence operation connected to the People’s Republic of China (PRC).
-"The coordinated inauthentic network uploaded content in Chinese and English about China and U.S. foreign affairs," Google Threat Analysis Group (TAG) researcher Billy Leonard said in the company's quarterly bulletin]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
