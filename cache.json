@@ -3211,26 +3211,6 @@
           "wordCount": 556,
           "title": "Multiples vulnérabilités dans les produits Schneider Electric (11 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0475",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Security Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0475",
-          "publishedOn": "2024-06-11T08:06:34.000Z",
-          "wordCount": 401,
-          "title": "Multiples vulnérabilités dans Tenable Security Center (11 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0474",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Veeam Recovery Orchestrator. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0474",
-          "publishedOn": "2024-06-11T07:59:20.000Z",
-          "wordCount": 329,
-          "title": "Vulnérabilité dans Veeam Recovery Orchestrator (11 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
