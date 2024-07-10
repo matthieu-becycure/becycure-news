@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-10T18:44:15.870Z</updated>
+    <updated>2024-07-10T19:10:38.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2568,17 +2568,6 @@ ValleyRAT]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Veeam Recovery Orchestrator. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowflake Breach Exposes 165 Customers' Data in Ongoing Extortion Campaign]]></title>
-        <id>https://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html</id>
-        <link href="https://thehackernews.com/2024/06/snowflake-breach-exposes-165-customers.html"/>
-        <updated>2024-06-11T06:52:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 165 customers of Snowflake are said to have had their information potentially exposed as part of an ongoing campaign designed to facilitate data theft and extortion, indicating the operation has broader implications than previously thought.
-Google-owned Mandiant, which is assisting the cloud data warehousing platform in its incident response efforts, is tracking the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
