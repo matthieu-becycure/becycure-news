@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-10T03:43:35.702Z</updated>
+    <updated>2024-07-10T04:15:26.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New OpenSSH Vulnerability Discovered: Potential Remote Code Execution Risk]]></title>
+        <id>https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html</id>
+        <link href="https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html"/>
+        <updated>2024-07-10T03:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Select versions of the OpenSSH secure networking suite are susceptible to a new vulnerability that can trigger remote code execution (RCE).
+The vulnerability, tracked as CVE-2024-6409 (CVSS score: 7.0), is distinct from CVE-2024-6387 (aka RegreSSHion) and relates to a case of code execution in the privsep child process due to a race condition in signal handling. It only impacts versions 8.7p1]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans les produits SAP (09 juillet 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0554</id>
