@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cryptocurrency analysts have shed light on an online marketplace called HuiOne Guarantee that's widely used by cybercriminals in Southeast Asia, particularly those linked to pig butchering scams.\n\"Merchants on the platform offer technology, data, and money laundering services, and have engaged in transactions totaling at least $11 billion,\" Elliptic said in a report shared with The Hacker News.",
+          "link": "https://thehackernews.com/2024/07/crypto-analysts-expose-huione.html",
+          "publishedOn": "2024-07-10T07:20:00.000Z",
+          "wordCount": null,
+          "title": "Crypto Analysts Expose HuiOne Guarantee's $11 Billion Cybercrime Transactions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl1FOtt34fVpB1fa1HbMcpppvcZTy-hxLrtwf9_5AfdsgYyKLEZsGGH5reyoPkZlKqEkvrikfTp3OT1HPaSeD3Ye77yH9VpyiOgSKWQYl5LrFJVMqqf69UZUsnqh5ng_0ZBraB_z3ta_uCu8-WzKGY11iBZeNfXKFQBaaQk5UPfHQVSvNkQ8itV7dNVMUk/s1600/cybercrime.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgl1FOtt34fVpB1fa1HbMcpppvcZTy-hxLrtwf9_5AfdsgYyKLEZsGGH5reyoPkZlKqEkvrikfTp3OT1HPaSeD3Ye77yH9VpyiOgSKWQYl5LrFJVMqqf69UZUsnqh5ng_0ZBraB_z3ta_uCu8-WzKGY11iBZeNfXKFQBaaQk5UPfHQVSvNkQ8itV7dNVMUk/s1600/cybercrime.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The sophisticated malware known as ViperSoftX has been observed being distributed as eBooks over torrents.\n\"A notable aspect of the current variant of ViperSoftX is that it uses the Common Language Runtime (CLR) to dynamically load and run PowerShell commands, thereby creating a PowerShell environment within AutoIt for operations,\" Trellix security researchers Mathanraj Thangaraju and Sijo Jacob",
