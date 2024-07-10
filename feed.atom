@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-10T22:43:38.632Z</updated>
+    <updated>2024-07-10T23:11:20.067Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2514,16 +2514,6 @@ The adversary, according to Infoblox security researchers Dr. Renée Burton and 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Critical Pentest Findings 2024: What You Need to Know]]></title>
-        <id>https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html</id>
-        <link href="https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html"/>
-        <updated>2024-06-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the most effective ways for information technology (IT) professionals to uncover a company’s weaknesses before the bad guys do is penetration testing. By simulating real-world cyberattacks, penetration testing, sometimes called pentests, provides invaluable insights into an organization’s security posture, revealing weaknesses that could potentially lead to data breaches or other security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
