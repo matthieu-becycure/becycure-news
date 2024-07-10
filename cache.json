@@ -3153,16 +3153,6 @@
           "wordCount": 669,
           "title": "Multiples vulnérabilités dans les produits SAP (11 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0476",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Schneider Electric. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0476",
-          "publishedOn": "2024-06-11T11:17:17.000Z",
-          "wordCount": 556,
-          "title": "Multiples vulnérabilités dans les produits Schneider Electric (11 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
