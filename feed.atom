@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-10T06:15:50.955Z</updated>
+    <updated>2024-07-10T06:34:20.501Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html</id>
+        <link href="https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html"/>
+        <updated>2024-07-10T05:35:00.000Z</updated>
+        <summary type="html"><![CDATA[The sophisticated malware known as ViperSoftX has been observed being distributed as eBooks over torrents.
+"A notable aspect of the current variant of ViperSoftX is that it uses the Common Language Runtime (CLR) to dynamically load and run PowerShell commands, thereby creating a PowerShell environment within AutoIt for operations," Trellix security researchers Mathanraj Thangaraju and Sijo Jacob]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New OpenSSH Vulnerability Discovered: Potential Remote Code Execution Risk]]></title>
         <id>https://thehackernews.com/2024/07/new-openssh-vulnerability-discovered.html</id>
