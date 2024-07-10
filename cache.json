@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A now-patched security flaw in Veeam Backup & Replication software is being exploited by a nascent ransomware operation known as EstateRansomware.\nSingapore-headquartered Group-IB, which discovered the threat actor in early April 2024, said the modus operandi involved the exploitation of CVE-2023-27532 (CVSS score: 7.5) to carry out the malicious activities.\nInitial access to the target",
+          "link": "https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html",
+          "publishedOn": "2024-07-10T13:06:00.000Z",
+          "wordCount": null,
+          "title": "New Ransomware Group Exploiting Veeam Backup Software Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHl3_plMYIY3arT58MO9NzvI4HayD9Z1ej65ohvis1OEc8pLs__4lYT4VWwEfYDt3-IJaslL0nwvzMs9-HvzcPOBD5qiQ4Bmzag0NUofBY-CFicSZxQNfCKE1wYEgqe8shTAxydyxruIRW4cyaGtUaCfqBvJyKPv3kFU53Fu9neRTvNfuKvw-yjbHSd_C/s1600/gib.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHl3_plMYIY3arT58MO9NzvI4HayD9Z1ej65ohvis1OEc8pLs__4lYT4VWwEfYDt3-IJaslL0nwvzMs9-HvzcPOBD5qiQ4Bmzag0NUofBY-CFicSZxQNfCKE1wYEgqe8shTAxydyxruIRW4cyaGtUaCfqBvJyKPv3kFU53Fu9neRTvNfuKvw-yjbHSd_C/s1600/gib.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/smash-and-grab-extortion.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Problem\nThe “2024 Attack Intelligence Report” from the staff at Rapid7 [1] is a well-researched, well-written report that is worthy of careful study. Some key takeaways are: \n\n53% of the over 30 new vulnerabilities that were widely exploited in 2023 and at the start of 2024 were zero-days.\nMore mass compromise events arose from zero-day vulnerabilities than from n-day vulnerabilities.",
