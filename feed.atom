@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-10T21:43:35.506Z</updated>
+    <updated>2024-07-10T22:10:32.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2522,18 +2522,6 @@ The adversary, according to Infoblox security researchers Dr. Renée Burton and 
         <link href="https://thehackernews.com/2024/06/top-10-critical-pentest-findings-2024.html"/>
         <updated>2024-06-11T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[One of the most effective ways for information technology (IT) professionals to uncover a company’s weaknesses before the bad guys do is penetration testing. By simulating real-world cyberattacks, penetration testing, sometimes called pentests, provides invaluable insights into an organization’s security posture, revealing weaknesses that could potentially lead to data breaches or other security]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Integrates OpenAI's ChatGPT into Siri for iOS, iPadOS, and macOS]]></title>
-        <id>https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html</id>
-        <link href="https://thehackernews.com/2024/06/apple-integrates-openais-chatgpt-into.html"/>
-        <updated>2024-06-11T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple has announced the launch of a "groundbreaking cloud intelligence system" called Private Cloud Compute (PCC) that's designed for processing artificial intelligence (AI) tasks in a privacy-preserving manner in the cloud.
-The tech giant described PCC as the "most advanced security architecture ever deployed for cloud AI compute at scale."
-PCC coincides with the arrival of new generative AI (]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
