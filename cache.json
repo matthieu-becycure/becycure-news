@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1HRdlIuTn7v0Jjd1u2J9X_8FnGgnC90pgkk4H0sQsgso_ud0_3354-6NyIWwlHU8eHQ66Bld_cLzYCWFRlKvyVTE0-_I9hPRskwwmCmB9MI37eH6t7N-UK_fqemggx55d3pQGrKJMorfHSv-ZEM7JkAoN6GPzvt9oyP6lsujo3KZJKfkDJyxHQhrCDRO3/s1600/snow.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1HRdlIuTn7v0Jjd1u2J9X_8FnGgnC90pgkk4H0sQsgso_ud0_3354-6NyIWwlHU8eHQ66Bld_cLzYCWFRlKvyVTE0-_I9hPRskwwmCmB9MI37eH6t7N-UK_fqemggx55d3pQGrKJMorfHSv-ZEM7JkAoN6GPzvt9oyP6lsujo3KZJKfkDJyxHQhrCDRO3/s1600/snow.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Arm is warning of a security vulnerability impacting Mali GPU Kernel Driver that it said has been actively exploited in the wild.\nTracked as CVE-2024-4610, the use-after-free issue impacts the following products -\n\nBifrost GPU Kernel Driver (all versions from r34p0 to r40p0)\nValhall GPU Kernel Driver (all versions from r34p0 to r40p0)\n\n\"A local non-privileged user can make improper GPU memory",
-          "link": "https://thehackernews.com/2024/06/arm-warns-of-actively-exploited-zero.html",
-          "publishedOn": "2024-06-11T06:37:00.000Z",
-          "wordCount": null,
-          "title": "Arm Warns of Actively Exploited Zero-Day Vulnerability in Mali GPU Drivers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s1600/arm.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhG5AsvS2gEQ-pxPRoQ4tOBea9IFIOb5G-IU8QECbl1nDiUNZncXQNZoSHeUhj3XNycXMQay2h8BK5fNRxdseRbZ-OvIDQUfKNlsP8zTERdEd5y2qWxrf735C3IxKivPQuDq5UUJ_Gu40jPIuCkDGW4p39ZrNO38dg9oAev1euRrGmcYNXAeFMwwBSB9Pf/s1600/arm.png"
         }
       ]
     },
