@@ -3255,16 +3255,6 @@
           "wordCount": 403,
           "title": "Multiples vulnérabilités dans Google Chrome (12 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0480",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Citrix. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0480",
-          "publishedOn": "2024-06-12T09:19:09.000Z",
-          "wordCount": 335,
-          "title": "Vulnérabilité dans les produits Citrix (12 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
