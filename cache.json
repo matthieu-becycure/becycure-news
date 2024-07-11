@@ -3225,36 +3225,6 @@
           "wordCount": 437,
           "title": "Failles sur les équipements de sécurité - Retour d'expérience du CERT-FR (12 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0483",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0483",
-          "publishedOn": "2024-06-12T09:42:55.000Z",
-          "wordCount": 569,
-          "title": "Multiples vulnérabilités dans les produits Adobe (12 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0482",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Firefox. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0482",
-          "publishedOn": "2024-06-12T09:33:40.000Z",
-          "wordCount": 446,
-          "title": "Multiples vulnérabilités dans Mozilla Firefox (12 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0481",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0481",
-          "publishedOn": "2024-06-12T09:31:35.000Z",
-          "wordCount": 403,
-          "title": "Multiples vulnérabilités dans Google Chrome (12 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
