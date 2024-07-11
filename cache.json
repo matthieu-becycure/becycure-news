@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8buY3TWXdD5KvZBLA9vo5llseeSeSdH8z1TdoDw-iRb1wppgSXc6EIwxY6p_CGGLoTLQFEIxX3Z6lgpNPFaQHw4C-5rnFgB54f6ahNSP-vVIFFsSzIg-9mjBO6qN3oLy7gFnOW65ubrxE3cvyKhKzIHnlLt_HDp5fCnI6G6BwAXFXlkLMid_nb-0QLzN/s1600/ransomware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8buY3TWXdD5KvZBLA9vo5llseeSeSdH8z1TdoDw-iRb1wppgSXc6EIwxY6p_CGGLoTLQFEIxX3Z6lgpNPFaQHw4C-5rnFgB54f6ahNSP-vVIFFsSzIg-9mjBO6qN3oLy7gFnOW65ubrxE3cvyKhKzIHnlLt_HDp5fCnI6G6BwAXFXlkLMid_nb-0QLzN/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of an ongoing phishing campaign that leverages recruiting- and job-themed lures to deliver a Windows-based backdoor named WARMCOOKIE.\n\"WARMCOOKIE appears to be an initial backdoor tool used to scout out victim networks and deploy additional payloads,\" Elastic Security Labs researcher Daniel Stepanic said in a new analysis. \"Each sample is compiled",
-          "link": "https://thehackernews.com/2024/06/new-phishing-campaign-deploys.html",
-          "publishedOn": "2024-06-12T08:47:00.000Z",
-          "wordCount": null,
-          "title": "New Phishing Campaign Deploys WARMCOOKIE Backdoor Targeting Job Seekers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnwD8qAGiKWVL4GrVv-wBN31h7NRaVtzvMhiHNiHFwIaWcN4MyYCsZGMVjh-v_WlETv7Ug9Qlt6dOXMsW_jDHmla4kTWzahPnI5WxL-KtSgMt6VmD7_bJAVZ0tjpslPMPqrXel-Qan3IPpCJrkWKM_RY4U9bijyZ3qwFzIjpR3YiDTNsnDgd2bv_wZYbt/s1600/cyberattack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsnwD8qAGiKWVL4GrVv-wBN31h7NRaVtzvMhiHNiHFwIaWcN4MyYCsZGMVjh-v_WlETv7Ug9Qlt6dOXMsW_jDHmla4kTWzahPnI5WxL-KtSgMt6VmD7_bJAVZ0tjpslPMPqrXel-Qan3IPpCJrkWKM_RY4U9bijyZ3qwFzIjpR3YiDTNsnDgd2bv_wZYbt/s1600/cyberattack.png"
         }
       ]
     },
@@ -3280,16 +3264,6 @@
           "publishedOn": "2024-06-12T09:19:09.000Z",
           "wordCount": 335,
           "title": "Vulnérabilité dans les produits Citrix (12 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0479",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans HPE Aruba Networking AirWave Management Platform. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0479",
-          "publishedOn": "2024-06-12T09:02:11.000Z",
-          "wordCount": 382,
-          "title": "Multiples vulnérabilités dans HPE Aruba Networking AirWave Management Platform (12 juin 2024)",
           "imageUrl": null
         }
       ]
