@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-11T17:10:35.246Z</updated>
+    <updated>2024-07-11T17:29:27.739Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -27,6 +27,36 @@ Cataloged as CVE-2024-5910 (CVSS score: 9.3), the vulnerability has been describ
 The fresh packages, about 60 in number and spanning 290 versions, demonstrate a refined approach from the previous set that came to light in October 2023, software supply]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans GitLab (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572"/>
+        <updated>2024-07-11T14:26:26.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codes malveillants utilisés à des fins destructrices (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002</id>
+        <link href="https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002"/>
+        <updated>2024-07-11T13:25:45.000Z</updated>
+        <summary type="html"><![CDATA[Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication ["Codes malveillants utilisés à des fins destructrices"](/cti/CERTFR-2024-CTI-007/ ) ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou...]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Codes malveillants utilisés à des fins destructrices (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007</id>
+        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007"/>
+        <updated>2024-07-11T12:49:37.000Z</updated>
+        <summary type="html"><![CDATA[Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +90,86 @@ The attacks primarily single out mining, manufacturing, hospitality, and utiliti
 "The majority of the custom code in the malware appears to be focused on anti-analysis,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits VMware (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571"/>
+        <updated>2024-07-11T09:09:11.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Compromission de la bibliothèque polyfill[.]io (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030"/>
+        <updated>2024-07-11T08:55:21.000Z</updated>
+        <summary type="html"><![CDATA[Résumé Le 25 juin 2024, l’éditeur Sansec indique que des redirections malveillantes sont déployées par la bibliothèque polyfill.js. Cette dernière est employée par plusieurs centaines de milliers de sites à travers le monde et permet à des sites web de supporter des navigateurs obsolètes comme...]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Moxa (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570"/>
+        <updated>2024-07-11T08:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Cisco (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569"/>
+        <updated>2024-07-11T08:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Wireshark (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568"/>
+        <updated>2024-07-11T08:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Palo Alto Networks (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567"/>
+        <updated>2024-07-11T08:03:47.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans GLPI (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566"/>
+        <updated>2024-07-11T07:49:22.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Mitel (11 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565"/>
+        <updated>2024-07-11T07:33:16.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
