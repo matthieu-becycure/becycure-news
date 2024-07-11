@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked advanced persistent threat (APT) group codenamed APT41 is suspected to be using an \"advanced and upgraded version\" of a known malware called StealthVector to deliver a previously undocumented backdoor dubbed MoonWalk.\nThe new variant of StealthVector – which is also referred to as DUSTPAN – has been codenamed DodgeBox by Zscaler ThreatLabz, which discovered the loader strain in",
+          "link": "https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html",
+          "publishedOn": "2024-07-11T12:31:00.000Z",
+          "wordCount": null,
+          "title": "Chinese APT41 Upgrades Malware Arsenal with DodgeBox and MoonWalk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimkWEQrDMcJoLwqwbS3aJhPZaKxjpj2IdiIfCCZQyvqKqgEwF072u4s8plue2sBsAPm-MJ9f1E-c2TeGUKp8A_NG9l5G6psAsY02QAtOLCmAc8Tw-gv3_GFSxIZs7FNR8zhTYeHq6vRMBzu35gEGZZa-55KqvUHWeDS6oxjdzwfVuNFhqauVkujNQJ6Tyi/s1600/chinese-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimkWEQrDMcJoLwqwbS3aJhPZaKxjpj2IdiIfCCZQyvqKqgEwF072u4s8plue2sBsAPm-MJ9f1E-c2TeGUKp8A_NG9l5G6psAsY02QAtOLCmAc8Tw-gv3_GFSxIZs7FNR8zhTYeHq6vRMBzu35gEGZZa-55KqvUHWeDS6oxjdzwfVuNFhqauVkujNQJ6Tyi/s1600/chinese-hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Today, all organizations are exposed to the threat of cyber breaches, irrespective of their scale. Historically, larger companies were frequent targets due to their substantial resources, sensitive data, and regulatory responsibilities, whereas smaller entities often underestimated their attractiveness to hackers. However, this assumption is precarious, as cybercriminals frequently exploit",
