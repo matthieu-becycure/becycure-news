@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-11T03:43:33.066Z</updated>
+    <updated>2024-07-11T04:15:02.782Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Jobs]]></title>
+        <id>https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html</id>
+        <link href="https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html"/>
+        <updated>2024-07-11T03:51:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab has shipped another round of updates to close out security flaws in its software development platform, including a critical bug that allows an attacker to run pipeline jobs as an arbitrary user.
+Tracked as CVE-2024-6385, the vulnerability carries a CVSS score of 9.6 out of a maximum of 10.0.
+"An issue was discovered in GitLab CE/EE affecting versions 15.8 prior to 16.11.6, 17.0 prior to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Ransomware Group Exploiting Veeam Backup Software Vulnerability]]></title>
         <id>https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html</id>
@@ -2460,16 +2472,6 @@ The security flaw in question is CVE-2024-26169 (CVSS score: 7.8), an elevation 
         <summary type="html"><![CDATA[Microsoft has released security updates to address 51 flaws as part of its Patch Tuesday updates for June 2024.
 Of the 51 vulnerabilities, one is rated Critical and 50 are rated Important. This is in addition to 17 vulnerabilities resolved in the Chromium-based Edge browser over the past month.
 None of the security flaws have been actively exploited in the wild, with one of them listed as]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Cynet Makes MSPs Rich & Their Clients Secure]]></title>
-        <id>https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html</id>
-        <link href="https://thehackernews.com/2024/06/how-cynet-makes-msps-rich-their-clients.html"/>
-        <updated>2024-06-11T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Managed service providers (MSPs) are on the front lines of soaring demand for cybersecurity services as cyberattacks increase in volume and sophistication. Cynet has emerged as the security vendor of choice for MSPs to capitalize on existing relationships with SMB clients and profitably expand their client base. By unifying a full suite of cybersecurity capabilities in a simple, cost-effective]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
