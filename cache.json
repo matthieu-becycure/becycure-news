@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qyeUbw1tV3KjKmV7UBAIoCFeFNdgCcFOhV91pgwMKLZejiFJxMTaEKZLK0JnJhXg0or4UfRMLr8qpnsLUmAxAeSUs0gzjJKdQlfcR84lP1Xo9vx6R0YL-iQy5WhK_7EQUu1IqnmzfSFDXL7-1yDfBAr2f5I7laFn4r9k9APe-IWrJZ8-hhUE5grEMer8/s1600/one.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1qyeUbw1tV3KjKmV7UBAIoCFeFNdgCcFOhV91pgwMKLZejiFJxMTaEKZLK0JnJhXg0or4UfRMLr8qpnsLUmAxAeSUs0gzjJKdQlfcR84lP1Xo9vx6R0YL-iQy5WhK_7EQUu1IqnmzfSFDXL7-1yDfBAr2f5I7laFn4r9k9APe-IWrJZ8-hhUE5grEMer8/s1600/one.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/black-basta-ransomware-may-have.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors linked to the Black Basta ransomware may have exploited a recently disclosed privilege escalation flaw in the Microsoft Windows Error Reporting Service as zero-day, according to new findings from Symantec.\nThe security flaw in question is CVE-2024-26169 (CVSS score: 7.8), an elevation of privilege bug in the Windows Error Reporting Service that could be exploited to achieve SYSTEM",
-          "link": "https://thehackernews.com/2024/06/black-basta-ransomware-may-have.html",
-          "publishedOn": "2024-06-12T11:11:00.000Z",
-          "wordCount": null,
-          "title": "Black Basta Ransomware May Have Exploited MS Windows Zero-Day Flaw",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8buY3TWXdD5KvZBLA9vo5llseeSeSdH8z1TdoDw-iRb1wppgSXc6EIwxY6p_CGGLoTLQFEIxX3Z6lgpNPFaQHw4C-5rnFgB54f6ahNSP-vVIFFsSzIg-9mjBO6qN3oLy7gFnOW65ubrxE3cvyKhKzIHnlLt_HDp5fCnI6G6BwAXFXlkLMid_nb-0QLzN/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo8buY3TWXdD5KvZBLA9vo5llseeSeSdH8z1TdoDw-iRb1wppgSXc6EIwxY6p_CGGLoTLQFEIxX3Z6lgpNPFaQHw4C-5rnFgB54f6ahNSP-vVIFFsSzIg-9mjBO6qN3oLy7gFnOW65ubrxE3cvyKhKzIHnlLt_HDp5fCnI6G6BwAXFXlkLMid_nb-0QLzN/s1600/ransomware.png"
         }
       ]
     },
