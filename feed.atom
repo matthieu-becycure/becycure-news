@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-11T10:31:09.744Z</updated>
+    <updated>2024-07-11T10:43:36.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Poco RAT Targets Spanish-Speaking Victims in Phishing Campaign]]></title>
+        <id>https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html</id>
+        <link href="https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html"/>
+        <updated>2024-07-11T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Spanish language victims are the target of an email phishing campaign that delivers a new remote access trojan (RAT) called Poco RAT since at least February 2024.
+The attacks primarily single out mining, manufacturing, hospitality, and utilities sectors, according to cybersecurity company Cofense.
+"The majority of the custom code in the malware appears to be focused on anti-analysis,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks]]></title>
         <id>https://thehackernews.com/2024/07/php-vulnerability-exploited-to-spread.html</id>

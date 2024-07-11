@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Spanish language victims are the target of an email phishing campaign that delivers a new remote access trojan (RAT) called Poco RAT since at least February 2024.\nThe attacks primarily single out mining, manufacturing, hospitality, and utilities sectors, according to cybersecurity company Cofense.\n\"The majority of the custom code in the malware appears to be focused on anti-analysis,",
+          "link": "https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html",
+          "publishedOn": "2024-07-11T10:12:00.000Z",
+          "wordCount": null,
+          "title": "New Poco RAT Targets Spanish-Speaking Victims in Phishing Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8LNcwmw4vq8SCQBtv0NpgGBZ8g_CrX7-ST2zE7JT_9wAu6TpmypPXtABiWYJvpDfgzQJf4wD3OCiB3KENkqusLzhyphenhyphenpUU-8z59dU2xT3JdgwYTUfyUvoa1i2Rmp2bQjT5dwqFh2n_SqdzDxad2cRDQ2qugqW_Surlw8BJLnM_N7HOPVSEx9fIKWbBxzv3/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8LNcwmw4vq8SCQBtv0NpgGBZ8g_CrX7-ST2zE7JT_9wAu6TpmypPXtABiWYJvpDfgzQJf4wD3OCiB3KENkqusLzhyphenhyphenpUU-8z59dU2xT3JdgwYTUfyUvoa1i2Rmp2bQjT5dwqFh2n_SqdzDxad2cRDQ2qugqW_Surlw8BJLnM_N7HOPVSEx9fIKWbBxzv3/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/php-vulnerability-exploited-to-spread.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Multiple threat actors have been observed exploiting a recently disclosed security flaw in PHP to deliver remote access trojans, cryptocurrency miners, and distributed denial-of-service (DDoS) botnets.\nThe vulnerability in question is CVE-2024-4577 (CVSS score: 9.8), which allows an attacker to remotely execute malicious commands on Windows systems using Chinese and Japanese language locales. It",
