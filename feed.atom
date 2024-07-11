@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-11T11:10:35.160Z</updated>
+    <updated>2024-07-11T11:24:42.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Streamlined Security Solutions: PAM for Small to Medium-sized Businesses]]></title>
+        <id>https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html</id>
+        <link href="https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html"/>
+        <updated>2024-07-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today, all organizations are exposed to the threat of cyber breaches, irrespective of their scale. Historically, larger companies were frequent targets due to their substantial resources, sensitive data, and regulatory responsibilities, whereas smaller entities often underestimated their attractiveness to hackers. However, this assumption is precarious, as cybercriminals frequently exploit]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Poco RAT Targets Spanish-Speaking Victims in Phishing Campaign]]></title>
         <id>https://thehackernews.com/2024/07/new-poco-rat-targets-spanish-speaking.html</id>
