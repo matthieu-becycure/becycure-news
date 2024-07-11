@@ -3215,16 +3215,6 @@
           "wordCount": 631,
           "title": "Multiples vulnérabilités dans les produits Fortinet (12 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-005",
-          "author": null,
-          "description": "L'année 2023 et le début de l'année 2024 ont été marqués par de nombreux incidents concernant des équipements de sécurité présents notamment en bordure de réseau. Ces incidents ont pour origine l'exploitation d'une ou plusieurs vulnérabilités critiques dans des pare-feux, passerelles VPN ou...",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-005",
-          "publishedOn": "2024-06-12T10:32:32.000Z",
-          "wordCount": 437,
-          "title": "Failles sur les équipements de sécurité - Retour d'expérience du CERT-FR (12 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
