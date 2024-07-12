@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-12T08:15:18.484Z</updated>
+    <updated>2024-07-12T08:31:46.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation]]></title>
+        <id>https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html</id>
+        <link href="https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html"/>
+        <updated>2024-07-12T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) said it seized two internet domains and searched nearly 1,000 social media accounts that Russian threat actors allegedly used to covertly spread pro-Kremlin disinformation in the country and abroad on a large scale.
+"The social media bot farm used elements of AI to create fictitious social media profiles — often purporting to belong to individuals in the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palo Alto Networks Patches Critical Flaw in Expedition Migration Tool]]></title>
         <id>https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html</id>
