@@ -2180,38 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s1600/wing.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaAa0njkVJcMZnrJ1ZymrErIv35hgnS6tfw3MyraHhNhBLJNGXEp8JRD1_WaFj7C_zMkhj9Dblo2w-kM8D3Nt9L5EPrcK-CVQiOfm7d2UIFy2N63yh_Ve1d9nsbuSmd4gP2c3byDrkZyXbuJlRasGzPOX6YT_X8lFaPMunCnePZAHbQGKYAOAC1JPmvv38/s1600/wing.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/pakistan-linked-malware-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors with ties to Pakistan have been linked to a long-running malware campaign dubbed Operation Celestial Force since at least 2018.\nThe activity, still ongoing, entails the use of an Android malware called GravityRAT and a Windows-based malware loader codenamed HeavyLift, according to Cisco Talos, which are administered using another standalone tool referred to as GravityAdmin.\nThe",
-          "link": "https://thehackernews.com/2024/06/pakistan-linked-malware-campaign.html",
-          "publishedOn": "2024-06-13T10:26:00.000Z",
-          "wordCount": null,
-          "title": "Pakistan-linked Malware Campaign Evolves to Target Windows, Android, and macOS",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb58l6ELDLcDn-mE_LWeT_CgVAhh7BVOUv1AW7ChPMxFmtp3K8AmtBGVcZIuTGL3ksVYNP-P9uCQUrz3UskNumy9ao5FTyguLohWtInrg2muzHDWm5mz6BgmyMOFUSM_G2lZ7P9mq3yqxs7OobMgLNdSGZkRhcIVUoBmDOWM3kYoIyu_R7e_7Ug3M2E_OY/s1600/pakistani-hacker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb58l6ELDLcDn-mE_LWeT_CgVAhh7BVOUv1AW7ChPMxFmtp3K8AmtBGVcZIuTGL3ksVYNP-P9uCQUrz3UskNumy9ao5FTyguLohWtInrg2muzHDWm5mz6BgmyMOFUSM_G2lZ7P9mq3yqxs7OobMgLNdSGZkRhcIVUoBmDOWM3kYoIyu_R7e_7Ug3M2E_OY/s1600/pakistani-hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/cybercriminals-employ-phantomloader-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The nascent malware known as SSLoad is being delivered by means of a previously undocumented loader called PhantomLoader, according to findings from cybersecurity firm Intezer.\n\"The loader is added to a legitimate DLL, usually EDR or AV products, by binary patching the file and employing self-modifying techniques to evade detection,\" security researchers Nicole Fishbein and Ryan Robinson said in",
-          "link": "https://thehackernews.com/2024/06/cybercriminals-employ-phantomloader-to.html",
-          "publishedOn": "2024-06-13T10:19:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Employ PhantomLoader to Distribute SSLoad Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8xSHAOOMPkKDFrZRWEtfS2qMRn4DBZuTl0p4dGhq0FJcN5h-LZhQmtoxn3rU4_bYcaQi4n_hWzGGEJnw6rUyFlFjHAm0i8bCesWx8-TBCTI7ZMvOWeky06zgmzPhzVLLOy6flNi13nwp0VNQSRNT2qA5Hx-0xK0AL8C0V-u1jdTwYoutGqshGiUPz_5s_/s1600/malware.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8xSHAOOMPkKDFrZRWEtfS2qMRn4DBZuTl0p4dGhq0FJcN5h-LZhQmtoxn3rU4_bYcaQi4n_hWzGGEJnw6rUyFlFjHAm0i8bCesWx8-TBCTI7ZMvOWeky06zgmzPhzVLLOy6flNi13nwp0VNQSRNT2qA5Hx-0xK0AL8C0V-u1jdTwYoutGqshGiUPz_5s_/s1600/malware.jpg"
         }
       ]
     },
