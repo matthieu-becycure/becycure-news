@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-12T10:12:21.280Z</updated>
+    <updated>2024-07-12T10:31:41.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar]]></title>
+        <id>https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html</id>
+        <link href="https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html"/>
+        <updated>2024-07-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's digital age, passwords serve as the keys to our most sensitive information, from social media accounts to banking and business systems. This immense power brings with it significant responsibility—and vulnerability.
+Most people don't realize their credentials have been compromised until the damage is done.
+Imagine waking up to drained bank accounts, stolen identities, or a company's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Seizes Domains Used by AI-Powered Russian Bot Farm for Disinformation]]></title>
         <id>https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html</id>

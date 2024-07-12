@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In today's digital age, passwords serve as the keys to our most sensitive information, from social media accounts to banking and business systems. This immense power brings with it significant responsibility—and vulnerability.\nMost people don't realize their credentials have been compromised until the damage is done.\nImagine waking up to drained bank accounts, stolen identities, or a company's",
+          "link": "https://thehackernews.com/2024/07/ever-wonder-how-hackers-really-steal.html",
+          "publishedOn": "2024-07-12T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Ever Wonder How Hackers Really Steal Passwords? Discover Their Tactics in This Webinar",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s1600/webinar.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUy28ZMXJrdosdjk0pbV38QDSdmKw2OhnVP8Rrv9obU46VFzUub11vjAhfcc4871kkHYg7YCa90NOdU3C9YkPzNzXRH3w7hYkgK25afudD1lEXpj9wjjxH6oD4Tm3zpWRVpm3h-7yWJeVKDkoYmCqVYYGSLSYK-Klk-l3LZ_odi6RSJ5fy7fjabGAhko/s1600/webinar.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/us-seizes-domains-used-by-ai-powered.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) said it seized two internet domains and searched nearly 1,000 social media accounts that Russian threat actors allegedly used to covertly spread pro-Kremlin disinformation in the country and abroad on a large scale.\n\"The social media bot farm used elements of AI to create fictitious social media profiles — often purporting to belong to individuals in the",
