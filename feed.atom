@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-12T00:53:28.183Z</updated>
+    <updated>2024-07-12T01:58:46.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2460,18 +2460,6 @@ The company did not share any additional details related to the nature of attack
         <updated>2024-06-13T06:25:00.000Z</updated>
         <summary type="html"><![CDATA[A previously undocumented cross-platform malware codenamed Noodle RAT has been put to use by Chinese-speaking threat actors either for espionage or cybercrime for years.
 While this backdoor was previously categorized as a variant of Gh0st RAT and Rekoobe, Trend Micro security researcher Hara Hiroaki said "this backdoor is not merely a variant of existing malware, but is a new type altogether."]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cryptojacking Campaign Targets Misconfigured Kubernetes Clusters]]></title>
-        <id>https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html</id>
-        <link href="https://thehackernews.com/2024/06/cryptojacking-campaign-targets.html"/>
-        <updated>2024-06-12T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have warned of an ongoing cryptojacking campaign targeting misconfigured Kubernetes clusters to mine Dero cryptocurrency.
-Cloud security firm Wiz, which shed light on the activity, said it's an updated variant of a financially motivated operation that was first documented by CrowdStrike in March 2023.
-"In this incident, the threat actor abused anonymous access to an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
