@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-12T18:15:47.947Z</updated>
+    <updated>2024-07-12T18:35:34.431Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2588,17 +2588,6 @@ The product is believed to have been]]></summary>
         <summary type="html"><![CDATA[Google has warned that a security flaw impacting Pixel Firmware has been exploited in the wild as a zero-day.
 The high-severity vulnerability, tagged as CVE-2024-32896, has been described as an elevation of privilege issue in Pixel Firmware.
 The company did not share any additional details related to the nature of attacks exploiting it, but noted "there are indications that CVE-2024-32896 may be]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cross-Platform Malware 'Noodle RAT' Targets Windows and Linux Systems]]></title>
-        <id>https://thehackernews.com/2024/06/new-cross-platform-malware-noodle-rat.html</id>
-        <link href="https://thehackernews.com/2024/06/new-cross-platform-malware-noodle-rat.html"/>
-        <updated>2024-06-13T06:25:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented cross-platform malware codenamed Noodle RAT has been put to use by Chinese-speaking threat actors either for espionage or cybercrime for years.
-While this backdoor was previously categorized as a variant of Gh0st RAT and Rekoobe, Trend Micro security researcher Hara Hiroaki said "this backdoor is not merely a variant of existing malware, but is a new type altogether."]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
