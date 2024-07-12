@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-12T12:22:04.916Z</updated>
+    <updated>2024-07-12T12:56:34.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Australian Defence Force Private and Husband Charged with Espionage for Russia]]></title>
+        <id>https://thehackernews.com/2024/07/australian-defence-force-private-and.html</id>
+        <link href="https://thehackernews.com/2024/07/australian-defence-force-private-and.html"/>
+        <updated>2024-07-12T12:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Two Russian-born Australian citizens have been arrested and charged in the country for spying on behalf of Russia as part of a "complex" law enforcement operation codenamed BURGAZADA.
+This includes a 40-year-old woman, an Australian Defence Force (ADF) Army Private, and her husband, a 62-year-old self-employed laborer. Media reports have identified them as Kira Korolev and Igor Korolev,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments]]></title>
         <id>https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html</id>
