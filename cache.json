@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic30L6OrYwEdvbx_wEmz73w87xAl5sPzn_zWGh3furDf99w8mdOrIL30MTzsE4LBnCC8Z4GcSeu8yYGL80qQdvcF6k1FiKN3BZ2puvqc9RWKMFqxvhK19nKUkpN-d_mvspzElhRaHSZQJXFi_xA3zQXJDIfSDfxKehLdgVZcmo8c6UTgef0ADqblXdKRvk/s1600/hacker.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic30L6OrYwEdvbx_wEmz73w87xAl5sPzn_zWGh3furDf99w8mdOrIL30MTzsE4LBnCC8Z4GcSeu8yYGL80qQdvcF6k1FiKN3BZ2puvqc9RWKMFqxvhK19nKUkpN-d_mvspzElhRaHSZQJXFi_xA3zQXJDIfSDfxKehLdgVZcmo8c6UTgef0ADqblXdKRvk/s1600/hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has warned that a security flaw impacting Pixel Firmware has been exploited in the wild as a zero-day.\nThe high-severity vulnerability, tagged as CVE-2024-32896, has been described as an elevation of privilege issue in Pixel Firmware.\nThe company did not share any additional details related to the nature of attacks exploiting it, but noted \"there are indications that CVE-2024-32896 may be",
-          "link": "https://thehackernews.com/2024/06/google-warns-of-pixel-firmware-security.html",
-          "publishedOn": "2024-06-13T07:08:00.000Z",
-          "wordCount": null,
-          "title": "Google Warns of Pixel Firmware Security Flaw Exploited as Zero-Day",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92IvlWj42Yny1WRZL_gSs10RrV5ahMiQsteDPywWw_EmutO2qszGCBpWsg4ZpZOUVeJjoKTk-iU0xPz95fzv_ChwctuHItz_UavHtP1pkuu7kGkmKk3TYN6TXkZM8ZlPAw9oAOL3cBaEjK23tGMVtEAvHwDPkrqSHiT0P9Q1I_jNBgpzI2AdE3J7nF8of/s1600/android.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92IvlWj42Yny1WRZL_gSs10RrV5ahMiQsteDPywWw_EmutO2qszGCBpWsg4ZpZOUVeJjoKTk-iU0xPz95fzv_ChwctuHItz_UavHtP1pkuu7kGkmKk3TYN6TXkZM8ZlPAw9oAOL3cBaEjK23tGMVtEAvHwDPkrqSHiT0P9Q1I_jNBgpzI2AdE3J7nF8of/s1600/android.png"
         }
       ]
     },
