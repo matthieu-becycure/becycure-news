@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a short-lived DarkGate malware campaign that leveraged Samba file shares to initiate the infections.\nPalo Alto Networks Unit 42 said the activity spanned the months of March and April 2024, with the infection chains using servers running public-facing Samba file shares hosting Visual Basic Script (VBS) and JavaScript files. Targets included North",
+          "link": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
+          "publishedOn": "2024-07-12T14:51:00.000Z",
+          "wordCount": null,
+          "title": "DarkGate Malware Exploits Samba File Shares in Short-Lived Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two Russian-born Australian citizens have been arrested and charged in the country for spying on behalf of Russia as part of a \"complex\" law enforcement operation codenamed BURGAZADA.\nThis includes a 40-year-old woman, an Australian Defence Force (ADF) Army Private, and her husband, a 62-year-old self-employed laborer. Media reports have identified them as Kira Korolev and Igor Korolev,",
