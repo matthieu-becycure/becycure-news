@@ -3199,26 +3199,6 @@
           "wordCount": 597,
           "title": "Multiples vulnérabilités dans Google Android et Pixel (13 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0491",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0491",
-          "publishedOn": "2024-06-13T09:22:26.000Z",
-          "wordCount": 545,
-          "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (13 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0490",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0490",
-          "publishedOn": "2024-06-13T09:14:04.000Z",
-          "wordCount": 393,
-          "title": "Multiples vulnérabilités dans GitLab (13 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
