@@ -2100,22 +2100,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s1600/ever.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRh0-BGrMBbz3oySybW80OkfsLoA3gAbs8sVJ6SsMydZlzLDKDKGlGV2WLZHVQ08-cVvxAosJwtE9YKGz2wBlTs3P5rnz9VXBQC6pkpKFx2LeEj0iyADSARZa0Lq1j5ONJJ2lVHMrHAaPiHvkgX7Yk8gGoi2IcvooGuJHb41AtrlZaSWqjiBvyvvFDDHkV/s1600/ever.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/zkteco-biometric-system-found.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An analysis of a hybrid biometric access system from Chinese manufacturer ZKTeco has uncovered two dozen security flaws that could be used by attackers to defeat authentication, steal biometric data, and even deploy malicious backdoors.\n\"By adding random user data to the database or using a fake QR code, a nefarious actor can easily bypass the verification process and gain unauthorized access,\"",
-          "link": "https://thehackernews.com/2024/06/zkteco-biometric-system-found.html",
-          "publishedOn": "2024-06-14T08:09:00.000Z",
-          "wordCount": null,
-          "title": "ZKTeco Biometric System Found Vulnerable to 24 Critical Security Flaws",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLjPcITZkM8AG9bIdlPjZ7e23Q0sD0fQ69x6VbGFseNUdceTweLs6pR8ytjSj150WShAVXZwFM0D6SOoy9odz9RvwB1Bi1_ZZ5nZzSUS8EyeMSV1bU_sFsRU_ihU7pI8J2Hs_yKsPp78wBqZtvijseWvTy0Nb_IdaXO-8TtRxLWp92Uwvj5n51J5HUZsfU/s1600/bio.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLjPcITZkM8AG9bIdlPjZ7e23Q0sD0fQ69x6VbGFseNUdceTweLs6pR8ytjSj150WShAVXZwFM0D6SOoy9odz9RvwB1Bi1_ZZ5nZzSUS8EyeMSV1bU_sFsRU_ihU7pI8J2Hs_yKsPp78wBqZtvijseWvTy0Nb_IdaXO-8TtRxLWp92Uwvj5n51J5HUZsfU/s1600/bio.png"
         }
       ]
     },
@@ -3082,16 +3066,6 @@
           "publishedOn": "2024-06-14T09:35:14.000Z",
           "wordCount": 323,
           "title": "Vulnérabilité dans FreeRADIUS (14 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0493",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0493",
-          "publishedOn": "2024-06-14T08:01:55.000Z",
-          "wordCount": 427,
-          "title": "Multiples vulnérabilités dans les produits Mozilla (14 juin 2024)",
           "imageUrl": null
         }
       ]
