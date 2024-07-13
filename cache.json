@@ -3057,16 +3057,6 @@
           "wordCount": 855,
           "title": "Multiples vulnérabilités dans Microsoft Edge (14 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0494",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans FreeRADIUS. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0494",
-          "publishedOn": "2024-06-14T09:35:14.000Z",
-          "wordCount": 323,
-          "title": "Vulnérabilité dans FreeRADIUS (14 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
