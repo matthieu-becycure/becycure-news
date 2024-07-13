@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-13T22:43:24.611Z</updated>
+    <updated>2024-07-13T23:10:39.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2427,17 +2427,6 @@ This creates a huge challenge: how do you]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Regulated Industries are Turning to Military-Grade Cyber Defenses]]></title>
-        <id>https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html</id>
-        <link href="https://thehackernews.com/2024/06/why-regulated-industries-are-turning-to.html"/>
-        <updated>2024-06-14T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[As cyber threats loom large and data breaches continue to pose increasingly significant risks. Organizations and industries that handle sensitive information and valuable assets make prime targets for cybercriminals seeking financial gain or strategic advantage. 
-Which is why many highly regulated sectors, from finance to utilities, are turning to military-grade cyber defenses to safeguard]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
