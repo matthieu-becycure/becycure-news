@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-13T18:43:39.033Z</updated>
+    <updated>2024-07-13T19:09:12.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2469,17 +2469,6 @@ Which is why many highly regulated sectors, from finance to utilities, are turni
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics]]></title>
-        <id>https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html</id>
-        <link href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html"/>
-        <updated>2024-06-14T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors linked to North Korea have accounted for one-third of all the phishing activity targeting Brazil since 2020, as the country's emergence as an influential power has drawn the attention of cyber espionage groups.
-"North Korean government-backed actors have targeted the Brazilian government and Brazil's aerospace, technology, and financial services sectors," Google's Mandiant and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
