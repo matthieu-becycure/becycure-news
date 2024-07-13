@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "American telecom service provider AT&T has confirmed that threat actors managed to access data belonging to \"nearly all\" of its wireless customers as well as customers of mobile virtual network operators (MVNOs) using AT&T's wireless network.\n\"Threat actors unlawfully accessed an AT&T workspace on a third-party cloud platform and, between April 14 and April 25, 2024, exfiltrated",
+          "link": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
+          "publishedOn": "2024-07-13T05:51:00.000Z",
+          "wordCount": null,
+          "title": "AT&T Confirms Data Breach Affecting Nearly All Wireless Customers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s1600/att.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM4LwCd9Cuv579QiqJQ0FxMHCyWnSqBU1OsV1QaL6YpttGTmR_6uUE2GzkdkaQcWT4masqki11RMAZGlQyZ39O_jFZCi8X8socCHXZrtQzhPxRdRb56VWW-rTspmxZIWOdEKWJZYQ29BLS9thwdsn8S5UiCSEzcvyp-aQAw5olHXEeoyhDu05VfRbrdfV/s1600/att.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/darkgate-malware-exploits-samba-file.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a short-lived DarkGate malware campaign that leveraged Samba file shares to initiate the infections.\nPalo Alto Networks Unit 42 said the activity spanned the months of March and April 2024, with the infection chains using servers running public-facing Samba file shares hosting Visual Basic Script (VBS) and JavaScript files. Targets included North",
