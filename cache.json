@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSRVY5orQDEimtEwxazfRl0KJDpjKAiehmqWAFb2IdLqytw2xFudSqu2uMwZCdiaYCgVvt1moKwseyM40p6BCleOqmC368ifVnFX2hgtJZmXtJM09QWwgm1hC4XgP_7nFX60U713hMQSPQ2Nj4sDqKofBD7UgymJ7qw-6nuQsvCG0oyhuIJxzKPAkysCd/s1600/recall.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWSRVY5orQDEimtEwxazfRl0KJDpjKAiehmqWAFb2IdLqytw2xFudSqu2uMwZCdiaYCgVvt1moKwseyM40p6BCleOqmC368ifVnFX2hgtJZmXtJM09QWwgm1hC4XgP_7nFX60U713hMQSPQ2Nj4sDqKofBD7UgymJ7qw-6nuQsvCG0oyhuIJxzKPAkysCd/s1600/recall.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The security risks posed by the Pickle format have once again come to the fore with the discovery of a new \"hybrid machine learning (ML) model exploitation technique\" dubbed Sleepy Pickle.\nThe attack method, per Trail of Bits, weaponizes the ubiquitous format used to package and distribute machine learning (ML) models to corrupt the model itself, posing a severe supply chain risk to an",
-          "link": "https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html",
-          "publishedOn": "2024-06-13T14:08:00.000Z",
-          "wordCount": null,
-          "title": "New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8b7A4rSkW6hju0Yl1EddDkxRwBBLzDU9pDIEGkYrRKkGeTRn6qoXNO_rQxzd8cQlRpcIvzT_-JvU5HfFPLPK_TKZlAYlcie6O7hOAtpmUl_cZYUYCoK_dmVkyAwo_j8V6MQrUCo-LA1kQniRNeu9D12R0cj0jbFqd8L305wKTiIeoLzCPWh1pZU6G8A8/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd8b7A4rSkW6hju0Yl1EddDkxRwBBLzDU9pDIEGkYrRKkGeTRn6qoXNO_rQxzd8cQlRpcIvzT_-JvU5HfFPLPK_TKZlAYlcie6O7hOAtpmUl_cZYUYCoK_dmVkyAwo_j8V6MQrUCo-LA1kQniRNeu9D12R0cj0jbFqd8L305wKTiIeoLzCPWh1pZU6G8A8/s1600/ms.png"
         }
       ]
     },

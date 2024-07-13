@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-13T01:59:09.796Z</updated>
+    <updated>2024-07-13T02:34:12.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2479,17 +2479,6 @@ Which is why many highly regulated sectors, from finance to utilities, are turni
         <summary type="html"><![CDATA[Microsoft on Thursday revealed that it's delaying the rollout of the controversial artificial intelligence (AI)-powered Recall feature for Copilot+ PCs.
 To that end, the company said it intends to shift from general availability preview available first in the Windows Insider Program (WIP) in the coming weeks.
 "We are adjusting the release model for Recall to leverage the expertise of the Windows]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Attack Technique 'Sleepy Pickle' Targets Machine Learning Models]]></title>
-        <id>https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html</id>
-        <link href="https://thehackernews.com/2024/06/new-attack-technique-sleepy-pickle.html"/>
-        <updated>2024-06-13T14:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The security risks posed by the Pickle format have once again come to the fore with the discovery of a new "hybrid machine learning (ML) model exploitation technique" dubbed Sleepy Pickle.
-The attack method, per Trail of Bits, weaponizes the ubiquitous format used to package and distribute machine learning (ML) models to corrupt the model itself, posing a severe supply chain risk to an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
