@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-14T21:43:27.654Z</updated>
+    <updated>2024-07-14T22:11:19.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2328,17 +2328,6 @@ The attacks, which target South Korean users, are designed to propagate the malw
         <updated>2024-06-16T04:31:00.000Z</updated>
         <summary type="html"><![CDATA[Law enforcement authorities have allegedly arrested a key member of the notorious cybercrime group called Scattered Spider.
 The individual, a 22-year-old man from the United Kingdom, was arrested this week in the Spanish city of Palma de Mallorca as he attempted to board a flight to Italy. The move is said to be a joint effort between the U.S. Federal Bureau of Investigation (FBI) and the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grandoreiro Banking Trojan Hits Brazil as Smishing Scams Surge in Pakistan]]></title>
-        <id>https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html</id>
-        <link href="https://thehackernews.com/2024/06/grandoreiro-banking-trojan-hits-brazil.html"/>
-        <updated>2024-06-15T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Pakistan has become the latest target of a threat actor called the Smishing Triad, marking the first expansion of its footprint beyond the E.U., Saudi Arabia, the U.A.E., and the U.S.
-"The group's latest tactic involves sending malicious messages on behalf of Pakistan Post to customers of mobile carriers via iMessage and SMS," Resecurity said in a report published earlier this week. "The goal is]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
