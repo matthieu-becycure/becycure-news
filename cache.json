@@ -2020,22 +2020,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQvbfY8y10D8oFXqOF9NwLjQFWiVCIACWzLH4Ta3Tpb-LuzR0itJ6Qr9UPmGmbzez7Bdne6cF20mYTo1LcIodqXVyuj_4bPNsniaA58X-Tm5h5fziw5D9tFWo2HaZ3lN-ePcVuMxKJbbWtsS8UoDg-FCOBn2HJBt_ZM5XRUXTQ3lEG9JfDnAwjTVVVeR/s1600/malware.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0MQvbfY8y10D8oFXqOF9NwLjQFWiVCIACWzLH4Ta3Tpb-LuzR0itJ6Qr9UPmGmbzez7Bdne6cF20mYTo1LcIodqXVyuj_4bPNsniaA58X-Tm5h5fziw5D9tFWo2HaZ3lN-ePcVuMxKJbbWtsS8UoDg-FCOBn2HJBt_ZM5XRUXTQ3lEG9JfDnAwjTVVVeR/s1600/malware.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A suspected Pakistan-based threat actor has been linked to a cyber espionage campaign targeting Indian government entities in 2024.\nCybersecurity company Volexity is tracking the activity under the moniker UTA0137, noting the adversary's exclusive use of a malware called DISGOMOJI that's written in Golang and is designed to infect Linux systems.\n\"It is a modified version of the public project",
-          "link": "https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html",
-          "publishedOn": "2024-06-15T08:13:00.000Z",
-          "wordCount": null,
-          "title": "Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouiJdHlDATGpVqfPwd8pptQOFLHfzUFyuOMR-SFxRl07Z4MXkEdkOHWrNzbSTumd163a1d3NkGW3bZRSh1g3q1yAtSO5vmx7-H84FO-DFEgwaM51lDpquM4qD2Izdp87xURyHjFcDA_1JJv2aFbdYi3jsUPGaEts-VtjrYFbPJfmsM-6IFaCnmlywz1bk/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhouiJdHlDATGpVqfPwd8pptQOFLHfzUFyuOMR-SFxRl07Z4MXkEdkOHWrNzbSTumd163a1d3NkGW3bZRSh1g3q1yAtSO5vmx7-H84FO-DFEgwaM51lDpquM4qD2Izdp87xURyHjFcDA_1JJv2aFbdYi3jsUPGaEts-VtjrYFbPJfmsM-6IFaCnmlywz1bk/s1600/malware.png"
         }
       ]
     },

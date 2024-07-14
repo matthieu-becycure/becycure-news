@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-14T20:11:36.576Z</updated>
+    <updated>2024-07-14T20:25:49.807Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2339,18 +2339,6 @@ The individual, a 22-year-old man from the United Kingdom, was arrested this wee
         <updated>2024-06-15T09:51:00.000Z</updated>
         <summary type="html"><![CDATA[Pakistan has become the latest target of a threat actor called the Smishing Triad, marking the first expansion of its footprint beyond the E.U., Saudi Arabia, the U.A.E., and the U.S.
 "The group's latest tactic involves sending malicious messages on behalf of Pakistan Post to customers of mobile carriers via iMessage and SMS," Resecurity said in a report published earlier this week. "The goal is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pakistani Hackers Use DISGOMOJI Malware in Indian Government Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html</id>
-        <link href="https://thehackernews.com/2024/06/pakistani-hackers-use-disgomoji-malware.html"/>
-        <updated>2024-06-15T08:13:00.000Z</updated>
-        <summary type="html"><![CDATA[A suspected Pakistan-based threat actor has been linked to a cyber espionage campaign targeting Indian government entities in 2024.
-Cybersecurity company Volexity is tracking the activity under the moniker UTA0137, noting the adversary's exclusive use of a malware called DISGOMOJI that's written in Golang and is designed to infect Linux systems.
-"It is a modified version of the public project]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
