@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-14T19:43:38.007Z</updated>
+    <updated>2024-07-14T20:11:36.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2351,17 +2351,6 @@ The individual, a 22-year-old man from the United Kingdom, was arrested this wee
         <summary type="html"><![CDATA[A suspected Pakistan-based threat actor has been linked to a cyber espionage campaign targeting Indian government entities in 2024.
 Cybersecurity company Volexity is tracking the activity under the moniker UTA0137, noting the adversary's exclusive use of a malware called DISGOMOJI that's written in Golang and is designed to infect Linux systems.
 "It is a modified version of the public project]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Halts AI Training on EU User Data Amid Privacy Concerns]]></title>
-        <id>https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html</id>
-        <link href="https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html"/>
-        <updated>2024-06-15T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta on Friday said it's delaying its efforts to train the company's large language models (LLMs) using public content shared by adult users on Facebook and Instagram in the European Union following a request from the Irish Data Protection Commission (DPC).
-The company expressed disappointment at having to put its AI plans on pause, stating it had taken into account feedback from regulators and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
