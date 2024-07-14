@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-14T00:58:17.380Z</updated>
+    <updated>2024-07-14T02:09:56.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2362,17 +2362,6 @@ Cybersecurity company Volexity is tracking the activity under the moniker UTA013
         <updated>2024-06-15T07:49:00.000Z</updated>
         <summary type="html"><![CDATA[Meta on Friday said it's delaying its efforts to train the company's large language models (LLMs) using public content shared by adult users on Facebook and Instagram in the European Union following a request from the Irish Data Protection Commission (DPC).
 The company expressed disappointment at having to put its AI plans on pause, stating it had taken into account feedback from regulators and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's Privacy Sandbox Accused of User Tracking by Austrian Non-Profit]]></title>
-        <id>https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html</id>
-        <link href="https://thehackernews.com/2024/06/googles-privacy-sandbox-accused-of-user.html"/>
-        <updated>2024-06-14T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Google's plans to deprecate third-party tracking cookies in its Chrome web browser with Privacy Sandbox has run into fresh trouble after Austrian privacy non-profit noyb (none of your business) said the feature can still be used to track users.
-"While the so-called 'Privacy Sandbox' is advertised as an improvement over extremely invasive third-party tracking, the tracking is now simply done]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
