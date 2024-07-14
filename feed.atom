@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-13T23:43:43.042Z</updated>
+    <updated>2024-07-14T00:58:17.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2375,58 +2375,6 @@ The company expressed disappointment at having to put its AI plans on pause, sta
 "While the so-called 'Privacy Sandbox' is advertised as an improvement over extremely invasive third-party tracking, the tracking is now simply done]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits IBM (14 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0498</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0498"/>
-        <updated>2024-06-14T12:48:37.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de Red Hat (14 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0497</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0497"/>
-        <updated>2024-06-14T12:42:43.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Secure Petabyte-Scale Data in a Webinar with Industry Titans]]></title>
-        <id>https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html</id>
-        <link href="https://thehackernews.com/2024/06/learn-to-secure-petabyte-scale-data-in.html"/>
-        <updated>2024-06-14T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Data is growing faster than ever. Remember when petabytes (that's 1,000,000 gigabytes!) were only for tech giants? Well, that's so last decade! Today, businesses of all sizes are swimming in petabytes.
-But this isn't just about storage anymore. This data is ALIVE—it's constantly accessed, analyzed, shared, and even used to train the next wave of AI.
-This creates a huge challenge: how do you]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de SUSE (14 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0496</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0496"/>
-        <updated>2024-06-14T12:23:12.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Edge (14 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0495</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0495"/>
-        <updated>2024-06-14T12:14:58.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
