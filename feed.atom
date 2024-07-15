@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-15T05:29:36.254Z</updated>
+    <updated>2024-07-15T05:43:35.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New HardBit Ransomware 4.0 Uses Passphrase Protection to Evade Detection]]></title>
+        <id>https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html</id>
+        <link href="https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html"/>
+        <updated>2024-07-15T05:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new version of a ransomware strain called HardBit that comes packaged with new obfuscation techniques to deter analysis efforts.
+"Unlike previous versions, HardBit Ransomware group enhanced the version 4.0 with passphrase protection," Cybereason researchers Kotaro Ogino and Koshi Oyama said in an analysis.
+"The passphrase needs to be provided during]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AT&T Confirms Data Breach Affecting Nearly All Wireless Customers]]></title>
         <id>https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html</id>

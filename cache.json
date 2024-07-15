@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a new version of a ransomware strain called HardBit that comes packaged with new obfuscation techniques to deter analysis efforts.\n\"Unlike previous versions, HardBit Ransomware group enhanced the version 4.0 with passphrase protection,\" Cybereason researchers Kotaro Ogino and Koshi Oyama said in an analysis.\n\"The passphrase needs to be provided during",
+          "link": "https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html",
+          "publishedOn": "2024-07-15T05:10:00.000Z",
+          "wordCount": null,
+          "title": "New HardBit Ransomware 4.0 Uses Passphrase Protection to Evade Detection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu-mUPcxAvCNombKEdgs_Lazl1FJtHJntEzLfiHUjCVgfhuDlPL7vdy188ezbgMAqGi2j0cFqFGHWd15LhFH0Dg51I1NpERM6KfkXmytBLYsOwO176FbVglq5fVYcn7NB7umuOnwP1_h4IPFRJyhoJlF4MqiXnxHf6C9N7Poe0ou-nux8vPGSbUZ8hiqo1/s1600/hardbit-ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu-mUPcxAvCNombKEdgs_Lazl1FJtHJntEzLfiHUjCVgfhuDlPL7vdy188ezbgMAqGi2j0cFqFGHWd15LhFH0Dg51I1NpERM6KfkXmytBLYsOwO176FbVglq5fVYcn7NB7umuOnwP1_h4IPFRJyhoJlF4MqiXnxHf6C9N7Poe0ou-nux8vPGSbUZ8hiqo1/s1600/hardbit-ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/at-confirms-data-breach-affecting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "American telecom service provider AT&T has confirmed that threat actors managed to access data belonging to \"nearly all\" of its wireless customers as well as customers of mobile virtual network operators (MVNOs) using AT&T's wireless network.\n\"Threat actors unlawfully accessed an AT&T workspace on a third-party cloud platform and, between April 14 and April 25, 2024, exfiltrated",
