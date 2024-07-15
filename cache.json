@@ -2074,8 +2074,68 @@
     {
       "title": "CERT-FR",
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
-      "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
+      "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/",
+          "publishedOn": "2024-07-15T12:18:23.000Z",
+          "wordCount": 333,
+          "title": "Vulnérabilité dans les produits Cisco (15 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-031/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-031/",
+          "publishedOn": "2024-07-15T11:58:52.000Z",
+          "wordCount": 998,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-031 (15 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0583/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0583/",
+          "publishedOn": "2024-07-15T11:50:35.000Z",
+          "wordCount": 338,
+          "title": "Vulnérabilité dans les produits Kaspersky (15 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0582/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0582/",
+          "publishedOn": "2024-07-15T08:11:24.000Z",
+          "wordCount": 358,
+          "title": "Vulnérabilité dans les produits Axis (15 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0581/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0581/",
+          "publishedOn": "2024-07-15T07:24:26.000Z",
+          "wordCount": 392,
+          "title": "Vulnérabilité dans les produits ESET (15 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580/",
+          "publishedOn": "2024-07-12T13:27:19.000Z",
+          "wordCount": 1047,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (12 juillet 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0580",
           "author": null,
@@ -2084,6 +2144,16 @@
           "publishedOn": "2024-07-12T13:27:19.000Z",
           "wordCount": 1057,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/",
+          "publishedOn": "2024-07-12T12:45:05.000Z",
+          "wordCount": 977,
+          "title": "Multiples vulnérabilités dans les produits IBM (12 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2097,6 +2167,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/",
+          "publishedOn": "2024-07-12T12:26:32.000Z",
+          "wordCount": 2538,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
@@ -2104,6 +2184,16 @@
           "publishedOn": "2024-07-12T12:26:32.000Z",
           "wordCount": 2548,
           "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/",
+          "publishedOn": "2024-07-12T11:45:30.000Z",
+          "wordCount": 1306,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (12 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2117,6 +2207,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/",
+          "publishedOn": "2024-07-12T09:50:06.000Z",
+          "wordCount": 303,
+          "title": "Vulnérabilité dans Exim (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
@@ -2124,6 +2224,16 @@
           "publishedOn": "2024-07-12T09:50:06.000Z",
           "wordCount": 313,
           "title": "Vulnérabilité dans Exim (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0575/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0575/",
+          "publishedOn": "2024-07-12T08:11:26.000Z",
+          "wordCount": 3149,
+          "title": "Multiples vulnérabilités dans les produits Juniper Networks (12 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2137,6 +2247,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/",
+          "publishedOn": "2024-07-12T07:32:37.000Z",
+          "wordCount": 304,
+          "title": "Vulnérabilité dans Citrix uberAgent (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
@@ -2144,6 +2264,16 @@
           "publishedOn": "2024-07-12T07:32:37.000Z",
           "wordCount": 314,
           "title": "Vulnérabilité dans Citrix uberAgent (12 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/",
+          "publishedOn": "2024-07-12T07:21:13.000Z",
+          "wordCount": 316,
+          "title": "Vulnérabilité dans les produits Microsoft (12 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2157,6 +2287,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/",
+          "publishedOn": "2024-07-11T14:26:26.000Z",
+          "wordCount": 389,
+          "title": "Multiples vulnérabilités dans GitLab (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
@@ -2167,12 +2307,32 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002/",
+          "author": null,
+          "description": "Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication /cti/CERTFR-2024-CTI-007/ ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou de détection :",
+          "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002/",
+          "publishedOn": "2024-07-11T13:25:45.000Z",
+          "wordCount": 312,
+          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002",
           "author": null,
           "description": "Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication [\"Codes malveillants utilisés à des fins destructrices\"](/cti/CERTFR-2024-CTI-007/ ) ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou...",
           "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002",
           "publishedOn": "2024-07-11T13:25:45.000Z",
           "wordCount": 322,
+          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/",
+          "author": null,
+          "description": "Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...",
+          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/",
+          "publishedOn": "2024-07-11T12:49:37.000Z",
+          "wordCount": 456,
           "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
           "imageUrl": null
         },
@@ -2187,6 +2347,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/",
+          "publishedOn": "2024-07-11T09:09:11.000Z",
+          "wordCount": 326,
+          "title": "Vulnérabilité dans les produits VMware (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -2194,6 +2364,16 @@
           "publishedOn": "2024-07-11T09:09:11.000Z",
           "wordCount": 336,
           "title": "Vulnérabilité dans les produits VMware (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030/",
+          "author": null,
+          "description": "Résumé Le 25 juin 2024, l’éditeur Sansec indique que des redirections malveillantes sont déployées par la bibliothèque polyfill.js. Cette dernière est employée par plusieurs centaines de milliers de sites à travers le monde et permet à des sites web de supporter des navigateurs obsolètes comme...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030/",
+          "publishedOn": "2024-07-11T08:55:21.000Z",
+          "wordCount": 754,
+          "title": "Compromission de la bibliothèque polyfill[.]io (11 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2207,6 +2387,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570/",
+          "publishedOn": "2024-07-11T08:49:24.000Z",
+          "wordCount": 625,
+          "title": "Vulnérabilité dans les produits Moxa (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
@@ -2214,6 +2404,16 @@
           "publishedOn": "2024-07-11T08:49:24.000Z",
           "wordCount": 635,
           "title": "Vulnérabilité dans les produits Moxa (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569/",
+          "publishedOn": "2024-07-11T08:37:47.000Z",
+          "wordCount": 310,
+          "title": "Vulnérabilité dans les produits Cisco (11 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2227,6 +2427,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568/",
+          "publishedOn": "2024-07-11T08:32:32.000Z",
+          "wordCount": 306,
+          "title": "Vulnérabilité dans Wireshark (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
@@ -2234,6 +2444,16 @@
           "publishedOn": "2024-07-11T08:32:32.000Z",
           "wordCount": 316,
           "title": "Vulnérabilité dans Wireshark (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567/",
+          "publishedOn": "2024-07-11T08:03:47.000Z",
+          "wordCount": 591,
+          "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (11 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2247,6 +2467,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566/",
+          "publishedOn": "2024-07-11T07:49:22.000Z",
+          "wordCount": 371,
+          "title": "Multiples vulnérabilités dans GLPI (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
@@ -2254,6 +2484,16 @@
           "publishedOn": "2024-07-11T07:49:22.000Z",
           "wordCount": 381,
           "title": "Multiples vulnérabilités dans GLPI (11 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565/",
+          "publishedOn": "2024-07-11T07:33:16.000Z",
+          "wordCount": 372,
+          "title": "Vulnérabilité dans les produits Mitel (11 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2267,6 +2507,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/",
+          "publishedOn": "2024-07-10T09:19:09.000Z",
+          "wordCount": 394,
+          "title": "Multiples vulnérabilités dans les produits Tenable (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
@@ -2274,6 +2524,16 @@
           "publishedOn": "2024-07-10T09:19:09.000Z",
           "wordCount": 404,
           "title": "Multiples vulnérabilités dans les produits Tenable (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/",
+          "publishedOn": "2024-07-10T09:05:09.000Z",
+          "wordCount": 652,
+          "title": "Multiples vulnérabilités dans les produits Citrix (10 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2287,6 +2547,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0562/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0562/",
+          "publishedOn": "2024-07-10T07:53:10.000Z",
+          "wordCount": 416,
+          "title": "Multiples vulnérabilités dans Joomla! (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0562",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
@@ -2294,6 +2564,16 @@
           "publishedOn": "2024-07-10T07:53:10.000Z",
           "wordCount": 426,
           "title": "Multiples vulnérabilités dans Joomla! (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0561/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0561/",
+          "publishedOn": "2024-07-10T07:45:21.000Z",
+          "wordCount": 674,
+          "title": "Multiples vulnérabilités dans les produits Fortinet (10 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2307,6 +2587,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0560/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0560/",
+          "publishedOn": "2024-07-10T07:40:06.000Z",
+          "wordCount": 1630,
+          "title": "Multiples vulnérabilités dans les produits Microsoft (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0560",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
@@ -2314,6 +2604,16 @@
           "publishedOn": "2024-07-10T07:40:06.000Z",
           "wordCount": 1640,
           "title": "Multiples vulnérabilités dans les produits Microsoft (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0559/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0559/",
+          "publishedOn": "2024-07-10T07:40:05.000Z",
+          "wordCount": 465,
+          "title": "Multiples vulnérabilités dans Microsoft Azure (10 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2327,6 +2627,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0558/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0558/",
+          "publishedOn": "2024-07-10T07:40:04.000Z",
+          "wordCount": 592,
+          "title": "Multiples vulnérabilités dans Microsoft .Net (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0558",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Microsoft .Net. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
@@ -2334,6 +2644,16 @@
           "publishedOn": "2024-07-10T07:40:04.000Z",
           "wordCount": 602,
           "title": "Multiples vulnérabilités dans Microsoft .Net (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0557/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que les...",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0557/",
+          "publishedOn": "2024-07-10T07:40:03.000Z",
+          "wordCount": 2991,
+          "title": "Multiples vulnérabilités dans Microsoft Windows (10 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2347,6 +2667,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0556/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0556/",
+          "publishedOn": "2024-07-10T07:40:01.000Z",
+          "wordCount": 437,
+          "title": "Multiples vulnérabilités dans Microsoft Office (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0556",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
@@ -2354,6 +2684,16 @@
           "publishedOn": "2024-07-10T07:40:01.000Z",
           "wordCount": 447,
           "title": "Multiples vulnérabilités dans Microsoft Office (10 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0555/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0555/",
+          "publishedOn": "2024-07-10T07:33:25.000Z",
+          "wordCount": 435,
+          "title": "Multiples vulnérabilités dans les produits Mozilla (10 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2367,6 +2707,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0554/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0554/",
+          "publishedOn": "2024-07-09T13:38:56.000Z",
+          "wordCount": 729,
+          "title": "Multiples vulnérabilités dans les produits SAP (09 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0554",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits SAP. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et une injection de code indirecte à distance (XSS).",
@@ -2374,6 +2724,16 @@
           "publishedOn": "2024-07-09T13:38:56.000Z",
           "wordCount": 739,
           "title": "Multiples vulnérabilités dans les produits SAP (09 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0552/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0552/",
+          "publishedOn": "2024-07-09T13:13:44.000Z",
+          "wordCount": 4627,
+          "title": "Multiples vulnérabilités dans les produits Siemens (09 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2387,6 +2747,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0551/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0551/",
+          "publishedOn": "2024-07-09T12:58:55.000Z",
+          "wordCount": 365,
+          "title": "Vulnérabilité OpenSSH dans des systèmes d'exploitation (09 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0551",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans OpenSSH. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
@@ -2397,6 +2767,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans le protocole RADIUS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550/",
+          "publishedOn": "2024-07-09T12:51:12.000Z",
+          "wordCount": 330,
+          "title": "Vulnérabilité dans le protocole RADIUS (09 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans le protocole RADIUS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
@@ -2404,6 +2784,16 @@
           "publishedOn": "2024-07-09T12:51:12.000Z",
           "wordCount": 340,
           "title": "Vulnérabilité dans le protocole RADIUS (09 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549/",
+          "publishedOn": "2024-07-09T12:27:38.000Z",
+          "wordCount": 384,
+          "title": "Vulnérabilité dans les produits Schneider Electric (09 juillet 2024)",
           "imageUrl": null
         },
         {
@@ -2594,6 +2984,16 @@
           "publishedOn": "2024-07-02T07:55:50.000Z",
           "wordCount": 357,
           "title": "Vulnérabilité dans Cisco NX-OS (02 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
+          "author": null,
+          "description": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
+          "publishedOn": "2024-07-01T12:56:56.000Z",
+          "wordCount": 594,
+          "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
           "imageUrl": null
         },
         {
