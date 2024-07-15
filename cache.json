@@ -2074,7 +2074,7 @@
     {
       "title": "CERT-FR",
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
-      "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
+      "siteUrl": "https://www.cert.ssi.gouv.fr/feed",
       "articles": [
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/",
