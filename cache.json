@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/singapore-banks-to-phase-out-otps-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Retail banking institutions in Singapore have three months to phase out the use of one-time passwords (OTPs) for authentication purposes when signing into online accounts to mitigate the risk of phishing attacks.\nThe decision was announced by the Monetary Authority of Singapore (MAS) and The Association of Banks in Singapore (ABS) on July 9, 2024.\n\"Customers who have activated their digital",
+          "link": "https://thehackernews.com/2024/07/singapore-banks-to-phase-out-otps-for.html",
+          "publishedOn": "2024-07-15T07:19:00.000Z",
+          "wordCount": null,
+          "title": "Singapore Banks to Phase Out OTPs for Online Logins Within 3 Months",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdcem2rmps5Nf5IOV-wTBOTNeDXcLucM2BUrFcLz-O4NnS6BQAuasrVzJfrmuEIxURrr5gtpWOT53vXRgJElh1HOLb8qz0LKGa4PjGp53TbwGbOfXdTMH2XmNK0OibJXu_qpu8__YDKLwwKKF0DekUaxeZ_0kpFz-y0FD0o4vxxSG3pjnSeYphOO9nAxY/s1600/OTP-login.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRdcem2rmps5Nf5IOV-wTBOTNeDXcLucM2BUrFcLz-O4NnS6BQAuasrVzJfrmuEIxURrr5gtpWOT53vXRgJElh1HOLb8qz0LKGa4PjGp53TbwGbOfXdTMH2XmNK0OibJXu_qpu8__YDKLwwKKF0DekUaxeZ_0kpFz-y0FD0o4vxxSG3pjnSeYphOO9nAxY/s1600/OTP-login.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/new-hardbit-ransomware-40-uses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a new version of a ransomware strain called HardBit that comes packaged with new obfuscation techniques to deter analysis efforts.\n\"Unlike previous versions, HardBit Ransomware group enhanced the version 4.0 with passphrase protection,\" Cybereason researchers Kotaro Ogino and Koshi Oyama said in an analysis.\n\"The passphrase needs to be provided during",
