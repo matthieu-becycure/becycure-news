@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-16T17:10:22.762Z</updated>
+    <updated>2024-07-16T17:28:34.231Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2863,18 +2863,6 @@ Cybersecurity company Sygnia, which responded to]]></summary>
         <updated>2024-06-17T06:28:00.000Z</updated>
         <summary type="html"><![CDATA[Legitimate-but-compromised websites are being used as a conduit to deliver a Windows backdoor dubbed BadSpace under the guise of fake browser updates.
 "The threat actor employs a multi-stage attack chain involving an infected website, a command-and-control (C2) server, in some cases a fake browser update, and a JScript downloader to deploy a backdoor into the victim's system," German]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NiceRAT Malware Targets South Korean Users via Cracked Software]]></title>
-        <id>https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html</id>
-        <link href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html"/>
-        <updated>2024-06-17T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed deploying a malware called NiceRAT to co-opt infected devices into a botnet.
-The attacks, which target South Korean users, are designed to propagate the malware under the guise of cracked software, such as Microsoft Windows, or tools that purport to offer license verification for Microsoft Office.
-"Due to the nature of crack programs, information sharing amongst]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
