@@ -3475,16 +3475,6 @@
           "wordCount": 407,
           "title": "Multiples vulnérabilités dans Elastic Kibana (17 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0499",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0499",
-          "publishedOn": "2024-06-17T07:15:27.000Z",
-          "wordCount": 327,
-          "title": "Vulnérabilité dans NetApp StorageGRID (17 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
