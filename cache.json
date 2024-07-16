@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Identity-based threats on SaaS applications are a growing concern among security professionals, although few have the capabilities to detect and respond to them. \nAccording to the US Cybersecurity and Infrastructure Security Agency (CISA), 90% of all cyberattacks begin with phishing, an identity-based threat. Throw in attacks that use stolen credentials, over-provisioned accounts, and",
+          "link": "https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html",
+          "publishedOn": "2024-07-16T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Threat Prevention & Detection in SaaS Environments - 101",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s1600/adaptive.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXKL32iLEPc0uIbAtrupoAR9xhX0_rpFkou0ZbUVs61Epj8UAq8PtZRW0Is_joyguVin0J5YsLkz8wUwdJ8k5GnRZ7odKea3cXPihf7SZgbkp8-8sc2_oLZtUggcEVKG8z46inwCumNCbxjE7AIhRWivkcHmMDj_arbb1pR4KOHvTzHAlacgxUyDmOs8/s1600/adaptive.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have identified two malicious packages on the npm package registry that concealed backdoor code to execute malicious commands sent from a remote server.\nThe packages in question – img-aws-s3-object-multipart-copy and legacyaws-s3-object-multipart-copy – have been downloaded 190 and 48 times each. As of writing, they have been taken down by the npm security team.\n\"They",

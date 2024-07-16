@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-16T11:10:46.743Z</updated>
+    <updated>2024-07-16T11:23:31.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Threat Prevention & Detection in SaaS Environments - 101]]></title>
+        <id>https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html</id>
+        <link href="https://thehackernews.com/2024/07/threat-prevention-detection-in-saas.html"/>
+        <updated>2024-07-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Identity-based threats on SaaS applications are a growing concern among security professionals, although few have the capabilities to detect and respond to them. 
+According to the US Cybersecurity and Infrastructure Security Agency (CISA), 90% of all cyberattacks begin with phishing, an identity-based threat. Throw in attacks that use stolen credentials, over-provisioned accounts, and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious npm Packages Found Using Image Files to Hide Backdoor Code]]></title>
         <id>https://thehackernews.com/2024/07/malicious-npm-packages-found-using.html</id>
