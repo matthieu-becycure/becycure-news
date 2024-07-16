@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s1600/devsec.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s1600/devsec.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Legitimate-but-compromised websites are being used as a conduit to deliver a Windows backdoor dubbed BadSpace under the guise of fake browser updates.\n\"The threat actor employs a multi-stage attack chain involving an infected website, a command-and-control (C2) server, in some cases a fake browser update, and a JScript downloader to deploy a backdoor into the victim's system,\" German",
-          "link": "https://thehackernews.com/2024/06/hackers-exploit-legitimate-websites-to.html",
-          "publishedOn": "2024-06-17T06:28:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit Legitimate Websites to Deliver BadSpace Windows Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbfRNNx-WWYDezf7mCqqOBRyqGSEHO2ViG4pIlt-D49YNy9o_YiPfYlSbG7k32emZ10FfF1qN4msnxRqtsiF-XJskr-bz6clO2d3WVoiolQ9GBY2HdDh4Cw7qOiid8VRyUk-2ogy7RpF-cDTDnHcSUKFFzukRu4OmgFb4ZXnavnYwqyxbQnZZtyF0waxx/s1600/chrome.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdbfRNNx-WWYDezf7mCqqOBRyqGSEHO2ViG4pIlt-D49YNy9o_YiPfYlSbG7k32emZ10FfF1qN4msnxRqtsiF-XJskr-bz6clO2d3WVoiolQ9GBY2HdDh4Cw7qOiid8VRyUk-2ogy7RpF-cDTDnHcSUKFFzukRu4OmgFb4ZXnavnYwqyxbQnZZtyF0waxx/s1600/chrome.png"
         }
       ]
     },
