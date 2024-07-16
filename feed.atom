@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-16T23:12:30.822Z</updated>
+    <updated>2024-07-16T23:30:06.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2812,16 +2812,6 @@ Tracked as CVE-2024-3080, the vulnerability carries a CVSS score of 9.8 out of a
         <updated>2024-06-17T11:59:00.000Z</updated>
         <summary type="html"><![CDATA[A suspected China-nexus cyber espionage actor has been attributed as behind a prolonged attack against an unnamed organization located in East Asia for a period of about three years, with the adversary establishing persistence using legacy F5 BIG-IP appliances and using it as an internal command-and-control (C&C) for defense evasion purposes.
 Cybersecurity company Sygnia, which responded to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is DevSecOps and Why is it Essential for Secure Software Delivery?]]></title>
-        <id>https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html</id>
-        <link href="https://thehackernews.com/2024/06/what-is-devsecops-and-why-is-it.html"/>
-        <updated>2024-06-17T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Traditional application security practices are not effective in the modern DevOps world. When security scans are run only at the end of the software delivery lifecycle (either right before or after a service is deployed), the ensuing process of compiling and fixing vulnerabilities creates massive overhead for developers. The overhead that degrades velocity and puts production deadlines at risk.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
