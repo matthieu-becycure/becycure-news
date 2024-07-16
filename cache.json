@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An advanced persistent threat (APT) group called Void Banshee has been observed exploiting a recently disclosed security flaw in the Microsoft MHTML browser engine as a zero-day to deliver an information stealer called Atlantida.\nCybersecurity firm Trend Micro, which observed the activity in mid-May 2024, the vulnerability – tracked as CVE-2024-38112 – was used as part of a multi-stage attack",
+          "link": "https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html",
+          "publishedOn": "2024-07-16T09:00:00.000Z",
+          "wordCount": null,
+          "title": "Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImhMdPqocAD4SOYzjqLKf_MqvV9ye-Xxip9Lv5qAVPYmMIkWmWGyg2lIFoGFr6Nu1PQN_aXodt2tbZ_opMkusheMkAgGEN_Eay3uOfNLHJU98h9TJkCA2vnTZehPfsPe1fqvWJKE17TwUzhEMbJRpceoKiwXrbEb47tArj0rhZkIkq7gJ5Q9XxUty1Gsw/s1600/windows.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhImhMdPqocAD4SOYzjqLKf_MqvV9ye-Xxip9Lv5qAVPYmMIkWmWGyg2lIFoGFr6Nu1PQN_aXodt2tbZ_opMkusheMkAgGEN_Eay3uOfNLHJU98h9TJkCA2vnTZehPfsPe1fqvWJKE17TwUzhEMbJRpceoKiwXrbEb47tArj0rhZkIkq7gJ5Q9XxUty1Gsw/s1600/windows.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Russian security vendor Kaspersky has said it's exiting the U.S. market nearly a month after the Commerce Department announced a ban on the sale of its software in the country citing a national security risk.\nNews of the closure was first reported by journalist Kim Zetter.\nThe company is expected to wind down its U.S. operations on July 20, 2024, the same day the ban comes into effect. It's also",
