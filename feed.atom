@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-16T12:22:30.222Z</updated>
+    <updated>2024-07-16T12:52:41.887Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -30,6 +30,16 @@ The packages in question – img-aws-s3-object-multipart-copy and legacyaws-s3-o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Stormshield (16 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/"/>
+        <updated>2024-07-16T09:22:39.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks]]></title>
         <id>https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html</id>
         <link href="https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html"/>
@@ -49,6 +59,16 @@ That's according to independent findings from cybersecurity firms Check Point an
 Cybersecurity firm Trend Micro, which observed the activity in mid-May 2024, the vulnerability – tracked as CVE-2024-38112 – was used as part of a multi-stage attack]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits VMware (16 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0585/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0585/"/>
+        <updated>2024-07-16T06:44:29.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
