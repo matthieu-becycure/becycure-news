@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian security vendor Kaspersky has said it's exiting the U.S. market nearly a month after the Commerce Department announced a ban on the sale of its software in the country citing a national security risk.\nNews of the closure was first reported by journalist Kim Zetter.\nThe company is expected to wind down its U.S. operations on July 20, 2024, the same day the ban comes into effect. It's also",
+          "link": "https://thehackernews.com/2024/07/kaspersky-exits-us-market-following.html",
+          "publishedOn": "2024-07-16T04:16:00.000Z",
+          "wordCount": null,
+          "title": "Kaspersky Exits U.S. Market Following Commerce Department Ban",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s1600/kaspersky.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaK5APAD4aHqItl66YKtksKy5vzGPn0FrFRFSMVvU3lboUEF7ryh2v-_IuO284um8yfoKojP1cALdpo_xoH2LuJrPzV_AsR9EFtfMFs-Zd4v9yLgFJUVFeeNlbso4O5FkcU1ibXH0VBHhICSX0mLXmkWCcxWNGqmpbNsfXX4bZ8vFgUdaV0vuvaSfwF_6s/s1600/kaspersky.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical security flaw impacting OSGeo GeoServer GeoTools to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nGeoServer is an open-source software server written in Java that allows users to share and edit geospatial data. It is the reference implementation of the Open",
+          "link": "https://thehackernews.com/2024/07/cisa-warns-of-actively-exploited-rce.html",
+          "publishedOn": "2024-07-16T04:01:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Actively Exploited RCE Flaw in GeoServer GeoTools Software",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rVP0xWyV841AjF1CAqBO5_4xWbs7388BoCkIqkuWTVBD36O0exO9UpYBXrCwbkqKKaD3npJY4ylsCyaweo4ftwdEPrxa9CQzljZicW1eH6IgfNZIbJyv1W7bFaw0P81gnvRoDBDGdLA1qfaveqAYKpRmk6mUzWnBL4ab1mdmIycgpln9JosmMFicbqU_/s1600/geoserver.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8rVP0xWyV841AjF1CAqBO5_4xWbs7388BoCkIqkuWTVBD36O0exO9UpYBXrCwbkqKKaD3npJY4ylsCyaweo4ftwdEPrxa9CQzljZicW1eH6IgfNZIbJyv1W7bFaw0P81gnvRoDBDGdLA1qfaveqAYKpRmk6mUzWnBL4ab1mdmIycgpln9JosmMFicbqU_/s1600/geoserver.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/github-token-leak-exposes-pythons-core.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers said they discovered an accidentally leaked GitHub token that could have granted elevated access to the GitHub repositories of the Python language, Python Package Index (PyPI), and the Python Software Foundation (PSF) repositories.\nJFrog, which found the GitHub Personal Access Token, said the secret was leaked in a public Docker container hosted on Docker Hub.\n\"This",
