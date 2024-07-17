@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T19:23:42.819Z</updated>
+    <updated>2024-07-17T19:43:26.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2975,17 +2975,6 @@ Included among the tools deployed is a remote access tool that's capable of down
 The list of vulnerabilities is as follows -
 
 CVE-2024-37079 & CVE-2024-37080 (CVSS scores: 9.8) - Multiple heap-overflow vulnerabilities in the implementation of the DCE/RPC protocol that could]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Singapore Police Extradites Malaysians Linked to Android Malware Fraud]]></title>
-        <id>https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html</id>
-        <link href="https://thehackernews.com/2024/06/singapore-police-extradites-malaysians.html"/>
-        <updated>2024-06-18T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[The Singapore Police Force (SPF) has announced the extradition of two men from Malaysia for their alleged involvement in a mobile malware campaign targeting citizens in the country since June 2023.
-The unnamed individuals, aged 26 and 47, engaged in scams that tricked unsuspecting users into downloading malicious apps onto their Android devices via phishing campaigns with the aim of stealing]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
