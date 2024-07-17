@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T08:43:49.463Z</updated>
+    <updated>2024-07-17T09:14:20.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-linked APT17 Targets Italian Companies with 9002 RAT Malware]]></title>
+        <id>https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html</id>
+        <link href="https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html"/>
+        <updated>2024-07-17T08:47:00.000Z</updated>
+        <summary type="html"><![CDATA[A China-linked threat actor called APT17 has been observed targeting Italian companies and government entities using a variant of a known malware referred to as 9002 RAT.
+The two targeted attacks took place on June 24 and July 2, 2024, Italian cybersecurity company TG Soft said in an analysis published last week.
+"The first campaign on June 24, 2024 used an Office document, while the second]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks]]></title>
         <id>https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html</id>
