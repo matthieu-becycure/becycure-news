@@ -2189,6 +2189,146 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Sonicwall NetExtender. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/",
+          "publishedOn": "2024-07-17T11:10:41.000Z",
+          "wordCount": 311,
+          "title": "Vulnérabilité dans Sonicwall NetExtender (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0599/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0599/",
+          "publishedOn": "2024-07-17T10:04:42.000Z",
+          "wordCount": 389,
+          "title": "Multiples vulnérabilités dans Oracle Weblogic (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0598/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0598/",
+          "publishedOn": "2024-07-17T09:56:26.000Z",
+          "wordCount": 360,
+          "title": "Multiples vulnérabilités dans Oracle Virtualization (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0597/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0597/",
+          "publishedOn": "2024-07-17T09:51:29.000Z",
+          "wordCount": 360,
+          "title": "Multiples vulnérabilités dans Oracle Systems (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0596/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0596/",
+          "publishedOn": "2024-07-17T09:46:54.000Z",
+          "wordCount": 426,
+          "title": "Multiples vulnérabilités dans Oracle PeopleSoft (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0595/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle MYSQL. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0595/",
+          "publishedOn": "2024-07-17T09:38:02.000Z",
+          "wordCount": 587,
+          "title": "Multiples vulnérabilités dans Oracle MySQL (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0594/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0594/",
+          "publishedOn": "2024-07-17T09:22:26.000Z",
+          "wordCount": 448,
+          "title": "Multiples vulnérabilités dans Oracle Java SE (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0593/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0593/",
+          "publishedOn": "2024-07-17T08:57:05.000Z",
+          "wordCount": 431,
+          "title": "Multiples vulnérabilités dans Oracle Database Server (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0592/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Synacor Zimbra Collaboration. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0592/",
+          "publishedOn": "2024-07-17T08:42:58.000Z",
+          "wordCount": 344,
+          "title": "Multiples vulnérabilités dans Synacor Zimbra Collaboration (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0591/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0591/",
+          "publishedOn": "2024-07-17T08:34:04.000Z",
+          "wordCount": 362,
+          "title": "Multiples vulnérabilités dans Google Chrome (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0590/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0590/",
+          "publishedOn": "2024-07-17T08:27:04.000Z",
+          "wordCount": 550,
+          "title": "Multiples vulnérabilités dans les produits Atlassian (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0589/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0589/",
+          "publishedOn": "2024-07-17T08:13:07.000Z",
+          "wordCount": 390,
+          "title": "Multiples vulnérabilités dans Xen (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0588/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Mozilla Thunderbird. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0588/",
+          "publishedOn": "2024-07-17T07:59:40.000Z",
+          "wordCount": 419,
+          "title": "Multiples vulnérabilités dans Mozilla Thunderbird (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0587/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0587/",
+          "publishedOn": "2024-07-17T07:47:48.000Z",
+          "wordCount": 650,
+          "title": "Multiples vulnérabilités dans les produits VMware (17 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
