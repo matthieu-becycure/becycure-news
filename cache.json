@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWpQM-bvKh3s3o06afEOI2oL-RZtWovqtimm1sa67DikSN8usbloz982qIGwoAF9cTa_8zBh14DHQvkqmzPSl1744O6EdS0af0LuE5nJnS7aiIl-bslQ1jxYnCCLQnX27jME9RJo9RWHGzSE4h8I8XHCCkmMT4VrZjCehaLf4QIGZKD7FGpKiaIT6EM0/s1600/main.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFWpQM-bvKh3s3o06afEOI2oL-RZtWovqtimm1sa67DikSN8usbloz982qIGwoAF9cTa_8zBh14DHQvkqmzPSl1744O6EdS0af0LuE5nJnS7aiIl-bslQ1jxYnCCLQnX27jME9RJo9RWHGzSE4h8I8XHCCkmMT4VrZjCehaLf4QIGZKD7FGpKiaIT6EM0/s1600/main.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new malware campaign that targets publicly exposed Docket API endpoints with the aim of delivering cryptocurrency miners and other payloads.\nIncluded among the tools deployed is a remote access tool that's capable of downloading and executing more malicious programs as well as a utility to propagate the malware via SSH, cloud analytics platform Datadog",
-          "link": "https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html",
-          "publishedOn": "2024-06-18T09:41:00.000Z",
-          "wordCount": null,
-          "title": "New Malware Targets Exposed Docker APIs for Cryptocurrency Mining",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghhRVYJXah-YDUVVSkd5YnwjiffHaFyz1zQRf08ialLrs3v5iFEWfz02ac4ru3AAglTaE15k6xqqa4w916neUksf3NwuJnsDg6LbvsH-YMKm_1DOmJvTNogrsrbIx4lwBRmw6Vg4OYSjTnL-tm14jXxAEOGIKYi07Om1J9LYQ-N9HcNP2JfRFdez-7rtT9/s1600/docker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghhRVYJXah-YDUVVSkd5YnwjiffHaFyz1zQRf08ialLrs3v5iFEWfz02ac4ru3AAglTaE15k6xqqa4w916neUksf3NwuJnsDg6LbvsH-YMKm_1DOmJvTNogrsrbIx4lwBRmw6Vg4OYSjTnL-tm14jXxAEOGIKYi07Om1J9LYQ-N9HcNP2JfRFdez-7rtT9/s1600/docker.png"
         }
       ]
     },

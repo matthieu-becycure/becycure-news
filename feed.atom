@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T21:25:47.280Z</updated>
+    <updated>2024-07-17T21:43:27.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2951,17 +2951,6 @@ The flaws]]></summary>
         <updated>2024-06-18T11:23:00.000Z</updated>
         <summary type="html"><![CDATA[Seventy percent of enterprises are prioritizing investment in SaaS security by establishing dedicated teams to secure SaaS applications, as part of a growing trend of maturity in this field of cybersecurity, according to a new survey released this month by the Cloud Security Alliance (CSA).
 Despite economic instability and major job cuts in 2023, organizations drastically increased investment in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Malware Targets Exposed Docker APIs for Cryptocurrency Mining]]></title>
-        <id>https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html</id>
-        <link href="https://thehackernews.com/2024/06/new-malware-targets-exposed-docker-apis.html"/>
-        <updated>2024-06-18T09:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new malware campaign that targets publicly exposed Docket API endpoints with the aim of delivering cryptocurrency miners and other payloads.
-Included among the tools deployed is a remote access tool that's capable of downloading and executing more malicious programs as well as a utility to propagate the malware via SSH, cloud analytics platform Datadog]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
