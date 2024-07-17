@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered an updated variant of a known stealer malware that attackers affiliated with the Democratic People's Republic of Korea (DPRK) have delivered as part of prior cyber espionage campaigns targeting job seekers.\nThe artifact in question is an Apple macOS disk image (DMG) file named \"MiroTalk.dmg\" that mimics the legitimate video call service of the same name,",
+          "link": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
+          "publishedOn": "2024-07-17T16:27:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Update BeaverTail Malware to Target MacOS Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s1600/apple.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s1600/apple.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Attacks on your network are often meticulously planned operations launched by sophisticated threats. Sometimes your technical fortifications provide a formidable challenge, and the attack requires assistance from the inside to succeed. For example, in 2022, the FBI issued a warning1 that SIM swap attacks are growing: gain control of the phone and earn a gateway to email, bank accounts, stocks,",

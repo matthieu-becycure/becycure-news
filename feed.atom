@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T16:34:10.555Z</updated>
+    <updated>2024-07-17T16:45:30.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Update BeaverTail Malware to Target MacOS Users]]></title>
+        <id>https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html</id>
+        <link href="https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html"/>
+        <updated>2024-07-17T16:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated variant of a known stealer malware that attackers affiliated with the Democratic People's Republic of Korea (DPRK) have delivered as part of prior cyber espionage campaigns targeting job seekers.
+The artifact in question is an Apple macOS disk image (DMG) file named "MiroTalk.dmg" that mimics the legitimate video call service of the same name,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulnérabilité dans Sonicwall NetExtender (17 juillet 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/</id>
