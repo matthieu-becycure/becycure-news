@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attacks on your network are often meticulously planned operations launched by sophisticated threats. Sometimes your technical fortifications provide a formidable challenge, and the attack requires assistance from the inside to succeed. For example, in 2022, the FBI issued a warning1 that SIM swap attacks are growing: gain control of the phone and earn a gateway to email, bank accounts, stocks,",
+          "link": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
+          "publishedOn": "2024-07-17T11:09:00.000Z",
+          "wordCount": null,
+          "title": "Navigating Insider Risks: Are your Employees Enabling External Threats?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s1600/everfox.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s1600/everfox.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/fin7-group-advertises-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The financially motivated threat actor known as FIN7 has been observed using multiple pseudonyms across several underground forums to likely advertise a tool known to be used by ransomware groups like Black Basta.\n\"AvNeutralizer (aka AuKill), a highly specialized tool developed by FIN7 to tamper with security solutions, has been marketed in the criminal underground and used by multiple",
+          "link": "https://thehackernews.com/2024/07/fin7-group-advertises-security.html",
+          "publishedOn": "2024-07-17T10:33:00.000Z",
+          "wordCount": null,
+          "title": "FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A China-linked threat actor called APT17 has been observed targeting Italian companies and government entities using a variant of a known malware referred to as 9002 RAT.\nThe two targeted attacks took place on June 24 and July 2, 2024, Italian cybersecurity company TG Soft said in an analysis published last week.\n\"The first campaign on June 24, 2024 used an Office document, while the second",
