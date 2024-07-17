@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T06:44:27.861Z</updated>
+    <updated>2024-07-17T07:12:01.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scattered Spider Adopts RansomHub and Qilin Ransomware for Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html</id>
+        <link href="https://thehackernews.com/2024/07/scattered-spider-adopts-ransomhub-and.html"/>
+        <updated>2024-07-17T05:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The infamous cybercrime group known as Scattered Spider has incorporated ransomware strains such as RansomHub and Qilin into its arsenal, Microsoft has revealed.
+Scattered Spider is the designation given to a threat actor that's known for its sophisticated social engineering schemes to breach targets and establish persistence for follow-on exploitation and data theft. It also has a history of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP]]></title>
         <id>https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html</id>
