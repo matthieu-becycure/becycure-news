@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T02:44:00.413Z</updated>
+    <updated>2024-07-17T03:14:00.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2781,16 +2781,6 @@ CVE-2024-37079 & CVE-2024-37080 (CVSS scores: 9.8) - Multiple heap-overflow vuln
 The unnamed individuals, aged 26 and 47, engaged in scams that tricked unsuspecting users into downloading malicious apps onto their Android devices via phishing campaigns with the aim of stealing]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-026 (17 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-026</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-026"/>
-        <updated>2024-06-17T14:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
