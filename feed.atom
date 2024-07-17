@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-17T23:12:42.946Z</updated>
+    <updated>2024-07-17T23:27:11.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2942,17 +2942,6 @@ The flaws]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Annual SaaS Security Report: 2025 CISO Plans and Priorities]]></title>
-        <id>https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html</id>
-        <link href="https://thehackernews.com/2024/06/the-annual-saas-security-report-2025.html"/>
-        <updated>2024-06-18T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Seventy percent of enterprises are prioritizing investment in SaaS security by establishing dedicated teams to secure SaaS applications, as part of a growing trend of maturity in this field of cybersecurity, according to a new survey released this month by the Cloud Security Alliance (CSA).
-Despite economic instability and major job cuts in 2023, organizations drastically increased investment in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
