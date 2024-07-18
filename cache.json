@@ -3653,26 +3653,6 @@
           "wordCount": 442,
           "title": "🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0505",
-          "publishedOn": "2024-06-19T08:41:06.000Z",
-          "wordCount": 475,
-          "title": "Multiples vulnérabilités dans Moodle (19 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504",
-          "publishedOn": "2024-06-19T08:32:26.000Z",
-          "wordCount": 519,
-          "title": "Multiples vulnérabilités dans les produits Atlassian (19 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
