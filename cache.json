@@ -3559,16 +3559,6 @@
           "wordCount": 347,
           "title": "Multiples vulnérabilités dans Google Chrome (19 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0502",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0502",
-          "publishedOn": "2024-06-18T12:23:18.000Z",
-          "wordCount": 369,
-          "title": "Multiples vulnérabilités dans les produits VMware (18 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
