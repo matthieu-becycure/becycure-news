@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released patches to address a maximum-severity security flaw impacting Smart Software Manager On-Prem (Cisco SSM On-Prem) that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users.\nThe vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.\n\"This vulnerability is due to improper",
+          "link": "https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html",
+          "publishedOn": "2024-07-18T06:01:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kQGLCd5dG9hrwNd08NUuVNOMNbm-q3l7Vju6IN635OZMUPAWUcCj7tH9pgo8_dG2STGkQg5thiZ3xltY8lodlzvggKc8JS82rgKDR5lyLcm66Gy8TvvClLHHuAAFxoClYkCZmjaGK4AtvG12eifXqCidhHHH0TsybnrCgeeoTwYj0cWoYOAmXWrHh74V/s1600/cisco.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kQGLCd5dG9hrwNd08NUuVNOMNbm-q3l7Vju6IN635OZMUPAWUcCj7tH9pgo8_dG2STGkQg5thiZ3xltY8lodlzvggKc8JS82rgKDR5lyLcm66Gy8TvvClLHHuAAFxoClYkCZmjaGK4AtvG12eifXqCidhHHH0TsybnrCgeeoTwYj0cWoYOAmXWrHh74V/s1600/cisco.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered an updated variant of a known stealer malware that attackers affiliated with the Democratic People's Republic of Korea (DPRK) have delivered as part of prior cyber espionage campaigns targeting job seekers.\nThe artifact in question is an Apple macOS disk image (DMG) file named \"MiroTalk.dmg\" that mimics the legitimate video call service of the same name,",

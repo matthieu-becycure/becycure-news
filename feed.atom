@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T05:43:41.430Z</updated>
+    <updated>2024-07-18T06:16:10.947Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager]]></title>
+        <id>https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html</id>
+        <link href="https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html"/>
+        <updated>2024-07-18T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released patches to address a maximum-severity security flaw impacting Smart Software Manager On-Prem (Cisco SSM On-Prem) that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users.
+The vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.
+"This vulnerability is due to improper]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Update BeaverTail Malware to Target MacOS Users]]></title>
         <id>https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html</id>
