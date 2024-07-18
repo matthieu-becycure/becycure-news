@@ -3643,16 +3643,6 @@
           "wordCount": 1290,
           "title": "Multiples vulnérabilités dans Juniper Secure Analytics (19 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006",
-          "author": null,
-          "description": "Several cyberattacks against French diplomatic entities can be linked to the Nobelium intrusion set. Nobelium is an intrusion set active since at least October 2020, used against high-value targets, most likely for espionage purposes. Western diplomatic entities, such as embassies and Ministries...",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-006",
-          "publishedOn": "2024-06-19T09:20:57.000Z",
-          "wordCount": 442,
-          "title": "🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
