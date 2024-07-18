@@ -3673,16 +3673,6 @@
           "wordCount": 519,
           "title": "Multiples vulnérabilités dans les produits Atlassian (19 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503",
-          "publishedOn": "2024-06-19T07:58:56.000Z",
-          "wordCount": 347,
-          "title": "Multiples vulnérabilités dans Google Chrome (19 juin 2024)",
-          "imageUrl": null
         }
       ]
     }

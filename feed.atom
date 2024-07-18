@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T19:43:40.282Z</updated>
+    <updated>2024-07-18T20:12:03.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3027,16 +3027,6 @@ The attack chains involve the use of a purported virtual meeting software named 
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0504"/>
         <updated>2024-06-19T08:32:26.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Google Chrome (19 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0503"/>
-        <updated>2024-06-19T07:58:56.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
