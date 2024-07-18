@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T00:53:31.415Z</updated>
+    <updated>2024-07-18T01:59:56.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2919,17 +2919,6 @@ The flaws]]></summary>
         <updated>2024-06-18T16:22:00.000Z</updated>
         <summary type="html"><![CDATA[A controversial proposal put forth by the European Union to scan users' private messages for detection child sexual abuse material (CSAM) poses severe risks to end-to-end encryption (E2EE), warned Meredith Whittaker, president of the Signal Foundation, which maintains the privacy-focused messaging service of the same name.
 "Mandating mass scanning of private communications fundamentally]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Exploit Free Software Lures to Deploy Hijack Loader and Vidar Stealer]]></title>
-        <id>https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html</id>
-        <link href="https://thehackernews.com/2024/06/cybercriminals-exploit-free-software.html"/>
-        <updated>2024-06-18T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are luring unsuspecting users with free or pirated versions of commercial software to deliver a malware loader called Hijack Loader, which then deploys an information stealer known as Vidar Stealer.
-"Adversaries had managed to trick users into downloading password-protected archive files containing trojanized copies of a Cisco Webex Meetings App (ptService.exe)," Trellix security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
