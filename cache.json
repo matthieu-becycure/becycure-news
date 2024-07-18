@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Let's face it: AppSec and developers often feel like they're on opposing teams. You're battling endless vulnerabilities while they just want to ship code. Sound familiar?\nIt's a common challenge, but there is a solution.\nEver wish they proactively cared about security? The answer lies in a proven, but often overlooked, strategy: Security Champion Programs — a way to turn developers from",
+          "link": "https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html",
+          "publishedOn": "2024-07-18T11:45:00.000Z",
+          "wordCount": null,
+          "title": "AppSec Webinar: How to Turn Developers into Security Champions",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s1600/mend.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig92TRtJ9ez8Qh4E80Yw2wu6nU4AJLnky_T4fDE-QhTAcJB8vvUgFvBqdKvlCqxafv3BXcDjwXW7bCS7hGgPOk3CIBd7Ait3x1SdrFP1kgjT11fqfFYMDJJmkVFoC0eUz5pj-gM0D5iddxlG56UfvQn-QrtlJv7-pJZI8O-SSv1ingrmMnlPjBi3Hwujnk/s1600/mend.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As the travel industry rebounds post-pandemic, it is increasingly targeted by automated threats, with the sector experiencing nearly 21% of all bot attack requests last year. That’s according to research from Imperva, a Thales company. In their 2024 Bad Bot Report, Imperva finds that bad bots accounted for 44.5% of the industry’s web traffic in 2023—a significant jump from 37.4% in 2022.",

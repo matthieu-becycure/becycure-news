@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T11:43:33.888Z</updated>
+    <updated>2024-07-18T12:22:39.606Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AppSec Webinar: How to Turn Developers into Security Champions]]></title>
+        <id>https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html</id>
+        <link href="https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html"/>
+        <updated>2024-07-18T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's face it: AppSec and developers often feel like they're on opposing teams. You're battling endless vulnerabilities while they just want to ship code. Sound familiar?
+It's a common challenge, but there is a solution.
+Ever wish they proactively cared about security? The answer lies in a proven, but often overlooked, strategy: Security Champion Programs — a way to turn developers from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Automated Threats Pose Increasing Risk to the Travel Industry]]></title>
         <id>https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html</id>
