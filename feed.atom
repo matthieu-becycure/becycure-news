@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T04:14:32.513Z</updated>
+    <updated>2024-07-18T04:32:05.773Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2908,17 +2908,6 @@ The attack chains involve the use of a purported virtual meeting software named 
         <summary type="html"><![CDATA[Two security vulnerabilities have been disclosed in the Mailcow open-source mail server suite that could be exploited by malicious actors to achieve arbitrary code execution on susceptible instances.
 Both shortcomings impact all versions of the software prior to version 2024-04, which was released on April 4, 2024. The issues were responsibly disclosed by SonarSource on March 22, 2024.
 The flaws]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Signal Foundation Warns Against EU's Plan to Scan Private Messages for CSAM]]></title>
-        <id>https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html</id>
-        <link href="https://thehackernews.com/2024/06/signal-foundation-warns-against-eus.html"/>
-        <updated>2024-06-18T16:22:00.000Z</updated>
-        <summary type="html"><![CDATA[A controversial proposal put forth by the European Union to scan users' private messages for detection child sexual abuse material (CSAM) poses severe risks to end-to-end encryption (E2EE), warned Meredith Whittaker, president of the Signal Foundation, which maintains the privacy-focused messaging service of the same name.
-"Mandating mass scanning of private communications fundamentally]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
