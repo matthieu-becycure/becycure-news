@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJvOtIzI2dgCsuRe_JryE-wT8cQGG9pIWs4HI3RW4QfmxZnoNGjHPmf3PDwAmhm_xRInfxwQkurDMofQtQUxRdWqt7v9I-GmZsAruDYi1P9qiJYn88fWCzEvxbQXwuX3nZNO7TuVzCnYINzpEoCxY_Z7WA6VZ6jPMGOrD_t4kbOHHpzcTXy3iPFJkE6VB/s1600/meeting.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNJvOtIzI2dgCsuRe_JryE-wT8cQGG9pIWs4HI3RW4QfmxZnoNGjHPmf3PDwAmhm_xRInfxwQkurDMofQtQUxRdWqt7v9I-GmZsAruDYi1P9qiJYn88fWCzEvxbQXwuX3nZNO7TuVzCnYINzpEoCxY_Z7WA6VZ6jPMGOrD_t4kbOHHpzcTXy3iPFJkE6VB/s1600/meeting.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Two security vulnerabilities have been disclosed in the Mailcow open-source mail server suite that could be exploited by malicious actors to achieve arbitrary code execution on susceptible instances.\nBoth shortcomings impact all versions of the software prior to version 2024-04, which was released on April 4, 2024. The issues were responsibly disclosed by SonarSource on March 22, 2024.\nThe flaws",
-          "link": "https://thehackernews.com/2024/06/mailcow-mail-server-flaws-expose.html",
-          "publishedOn": "2024-06-19T07:36:00.000Z",
-          "wordCount": null,
-          "title": "Mailcow Mail Server Flaws Expose Servers to Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yl4xpsRQlCddnE34H-Qy7y0XdnOL1ar9GL89rTeRP1ZykyrRMI_53L9qXRW0ZP01RnCPMZWKOFw_ySZFMPQ0kwH0vdjgCW1y_Xm8Z9mf-xXMy2gMYvtqgp9CPW54o9oT7xyC535BX13et2DqCt9fZKpU4dygrCCmw-mv0Jy7T05CRlCoRQmKxc3EjYfc/s1600/mailcow-hacking.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2yl4xpsRQlCddnE34H-Qy7y0XdnOL1ar9GL89rTeRP1ZykyrRMI_53L9qXRW0ZP01RnCPMZWKOFw_ySZFMPQ0kwH0vdjgCW1y_Xm8Z9mf-xXMy2gMYvtqgp9CPW54o9oT7xyC535BX13et2DqCt9fZKpU4dygrCCmw-mv0Jy7T05CRlCoRQmKxc3EjYfc/s1600/mailcow-hacking.png"
         }
       ]
     },
