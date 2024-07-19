@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new evasive malware loader named SquidLoader that spreads via phishing campaigns targeting Chinese organizations.\nAT&T LevelBlue Labs, which first observed the malware in late April 2024, said it incorporates features that are designed to thwart static and dynamic analysis and ultimately evade detection.\nAttack chains leverage phishing emails that",
-          "link": "https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html",
-          "publishedOn": "2024-06-20T06:34:00.000Z",
-          "wordCount": null,
-          "title": "Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LbUE7vSJy3jeN_7qMCfC2_B4Nr4W57_P3sA-Esu-nFUKx1HKKOmwHzf2-jA_yzMVhsT2DYuUkZAsrefzVGmolZXGVambmGfKT8lw5qTFC7J0qZi0t9U_3tXqF2KqFh1f1BWG_Wd6M0dYsOIAZdwuIU-L2_iQQrSqxbDXwzLmqgWVkDP12IXOvtQ0ahyphenhypheni/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9LbUE7vSJy3jeN_7qMCfC2_B4Nr4W57_P3sA-Esu-nFUKx1HKKOmwHzf2-jA_yzMVhsT2DYuUkZAsrefzVGmolZXGVambmGfKT8lw5qTFC7J0qZi0t9U_3tXqF2KqFh1f1BWG_Wd6M0dYsOIAZdwuIU-L2_iQQrSqxbDXwzLmqgWVkDP12IXOvtQ0ahyphenhypheni/s1600/malware.png"
         }
       ]
     },
