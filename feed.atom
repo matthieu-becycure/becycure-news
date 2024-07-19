@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T16:33:35.927Z</updated>
+    <updated>2024-07-19T16:44:58.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -30,6 +30,56 @@ Astamirov was arrested in Arizona by U.S. law]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans IBM MaaS360 (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/"/>
+        <updated>2024-07-19T11:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de Debian (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/"/>
+        <updated>2024-07-19T11:50:42.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de Red Hat (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/"/>
+        <updated>2024-07-19T11:42:58.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/"/>
+        <updated>2024-07-19T11:37:17.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de SUSE (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/"/>
+        <updated>2024-07-19T11:25:06.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Safeguard Personal and Corporate Identities with Identity Intelligence]]></title>
         <id>https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html</id>
         <link href="https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html"/>
@@ -38,6 +88,16 @@ Astamirov was arrested in Arizona by U.S. law]]></summary>
 In the current cyber threat landscape, the protection of personal and corporate identities has become vital.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/"/>
+        <updated>2024-07-19T09:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Le 19 juillet 2024, le CERT-FR a été informé d’incidents affectant des systèmes sur lesquels l’agent de l’EDR Crowdstrike Falcon est installé et utilisant le système d’exploitation Microsoft Windows. Le présent bulletin d’actualité reprend les différents éléments dont le CERT-FR a connaissance....]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +136,16 @@ Key Speakers and Their]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans SolarWinds Access Rights Manager (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/"/>
+        <updated>2024-07-19T07:20:15.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SolarWinds Patches 11 Critical Flaws in Access Rights Manager Software]]></title>
         <id>https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html</id>
         <link href="https://thehackernews.com/2024/07/solarwinds-patches-11-critical-flaws-in.html"/>
@@ -84,6 +154,26 @@ Key Speakers and Their]]></summary>
 Of the 11 vulnerabilities, seven are rated Critical in severity and carry a CVSS score of 9.6 out of 10.0. The remaining four weaknesses have been rated High in severity, with each of them having a CVSS]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans VMware Tanzu (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/"/>
+        <updated>2024-07-19T07:07:01.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Edge (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/"/>
+        <updated>2024-07-19T06:49:40.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

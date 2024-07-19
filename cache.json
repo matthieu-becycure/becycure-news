@@ -2253,6 +2253,96 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/",
+          "publishedOn": "2024-07-19T11:55:03.000Z",
+          "wordCount": 323,
+          "title": "Vulnérabilité dans IBM MaaS360 (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/",
+          "publishedOn": "2024-07-19T11:50:42.000Z",
+          "wordCount": 1054,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0612/",
+          "publishedOn": "2024-07-19T11:42:58.000Z",
+          "wordCount": 984,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0611/",
+          "publishedOn": "2024-07-19T11:37:17.000Z",
+          "wordCount": 2158,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0610/",
+          "publishedOn": "2024-07-19T11:25:06.000Z",
+          "wordCount": 1731,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/",
+          "author": null,
+          "description": "Le 19 juillet 2024, le CERT-FR a été informé d’incidents affectant des systèmes sur lesquels l’agent de l’EDR Crowdstrike Falcon est installé et utilisant le système d’exploitation Microsoft Windows. Le présent bulletin d’actualité reprend les différents éléments dont le CERT-FR a connaissance....",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/",
+          "publishedOn": "2024-07-19T09:48:52.000Z",
+          "wordCount": 951,
+          "title": "Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0609/",
+          "publishedOn": "2024-07-19T07:20:15.000Z",
+          "wordCount": 632,
+          "title": "Multiples vulnérabilités dans SolarWinds Access Rights Manager (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/",
+          "publishedOn": "2024-07-19T07:07:01.000Z",
+          "wordCount": 379,
+          "title": "Vulnérabilité dans VMware Tanzu (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/",
+          "publishedOn": "2024-07-19T06:49:40.000Z",
+          "wordCount": 490,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (19 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0606/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
