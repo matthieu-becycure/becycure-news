@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T22:43:22.582Z</updated>
+    <updated>2024-07-19T23:11:45.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3050,17 +3050,6 @@ The attacks have been attributed to a cluster tracked by Microsoft under the nam
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tool Overload: Why MSPs Are Still Drowning with Countless Cybersecurity Tools in 2024]]></title>
-        <id>https://thehackernews.com/2024/06/tool-overload-why-msps-are-still.html</id>
-        <link href="https://thehackernews.com/2024/06/tool-overload-why-msps-are-still.html"/>
-        <updated>2024-06-20T10:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Highlights
-Complex Tool Landscape: Explore the wide array of cybersecurity tools used by MSPs, highlighting the common challenge of managing multiple systems that may overlap in functionality but lack integration.Top Cybersecurity Challenges: Discuss the main challenges MSPs face, including integration issues, limited visibility across systems, and the high cost and complexity of maintaining]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
