@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T13:43:39.180Z</updated>
+    <updated>2024-07-19T14:12:13.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide]]></title>
+        <id>https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html</id>
+        <link href="https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html"/>
+        <updated>2024-07-19T12:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Businesses across the world have been hit by widespread disruptions to their Windows workstations stemming from a faulty update pushed out by cybersecurity company CrowdStrike.
+"CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts," the company's CEO George Kurtz said in a statement. "Mac and Linux hosts are not impacted. This is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html</id>
+        <link href="https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html"/>
+        <updated>2024-07-19T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Two Russian nationals have pleaded guilty in a U.S. court for their participation as affiliates in the LockBit ransomware scheme and helping facilitate ransomware attacks across the world.
+The defendants include Ruslan Magomedovich Astamirov, 21, of Chechen Republic, and Mikhail Vasiliev, 34, a dual Canadian and Russian national of Bradford, Ontario.
+Astamirov was arrested in Arizona by U.S. law]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Safeguard Personal and Corporate Identities with Identity Intelligence]]></title>
         <id>https://thehackernews.com/2024/07/safeguard-personal-and-corporate.html</id>
