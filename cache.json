@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioybnSxI-9QflvNm_HLi4shz_gcXEbNThy8F7WZAdRX6o0NVzJt4Ojn5bUXblR0DH7FILsUmteaS6I5R4506wLdxnSjQSshOoiNn7cuOXukzdrYvacGDgaK5wf9EvyElna7UXa2XaEQK5qa6jTXekIAqF5uHtV-foyeoX38iLPCycgJzBwvnLth1PxCzIr/s1600/telecom.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioybnSxI-9QflvNm_HLi4shz_gcXEbNThy8F7WZAdRX6o0NVzJt4Ojn5bUXblR0DH7FILsUmteaS6I5R4506wLdxnSjQSshOoiNn7cuOXukzdrYvacGDgaK5wf9EvyElna7UXa2XaEQK5qa6jTXekIAqF5uHtV-foyeoX38iLPCycgJzBwvnLth1PxCzIr/s1600/telecom.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new Rust-based information stealer malware called Fickle Stealer has been observed being delivered via multiple attack chains with the goal of harvesting sensitive information from compromised hosts.\nFortinet FortiGuard Labs said it's aware of four different distribution methods -- namely VBA dropper, VBA downloader, link downloader, and executable downloader -- with some of them using a",
-          "link": "https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html",
-          "publishedOn": "2024-06-20T08:09:00.000Z",
-          "wordCount": null,
-          "title": "New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s1600/malware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbxNSlLcUEbUuoCTiYAIV2cTSmy-vb1hDjuLpZ4BZivUofvKJu-OLfoF1RgkJ6VZf5iws7uwRZEnmNoc8C5qKSqzaR8nIVNS8-Cc2F-zlgF1yovK300p90auqFBv14IUBe6V0oEebBU5Q7MjePKXKVKxcdJl80XqXLwbpD9vk9ujMiuBK-I88agL7MgqI5/s1600/malware.png"
         }
       ]
     },

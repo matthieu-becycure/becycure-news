@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T19:43:28.694Z</updated>
+    <updated>2024-07-19T20:13:38.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3070,17 +3070,6 @@ Complex Tool Landscape: Explore the wide array of cybersecurity tools used by MS
         <updated>2024-06-20T10:22:00.000Z</updated>
         <summary type="html"><![CDATA[Cyber espionage groups associated with China have been linked to a long-running campaign that has infiltrated several telecom operators located in a single Asian country at least since 2021.
 "The attackers placed backdoors on the networks of targeted companies and also attempted to steal credentials," the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration]]></title>
-        <id>https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html</id>
-        <link href="https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html"/>
-        <updated>2024-06-20T08:09:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Rust-based information stealer malware called Fickle Stealer has been observed being delivered via multiple attack chains with the goal of harvesting sensitive information from compromised hosts.
-Fortinet FortiGuard Labs said it's aware of four different distribution methods -- namely VBA dropper, VBA downloader, link downloader, and executable downloader -- with some of them using a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
