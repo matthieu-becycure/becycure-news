@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A suspected pro-Houthi threat group targeted at least three humanitarian organizations in Yemen with Android spyware designed to harvest sensitive information.\nThese attacks, attributed to an activity cluster codenamed OilAlpha, entail a new set of malicious mobile apps that come with their own supporting infrastructure, Recorded Future's Insikt Group said.\nTargets of the ongoing campaign",
+          "link": "https://thehackernews.com/2024/07/pro-houthi-group-targets-yemen-aid.html",
+          "publishedOn": "2024-07-19T09:29:00.000Z",
+          "wordCount": null,
+          "title": "Pro-Houthi Group Targets Yemen Aid Organizations with Android Spyware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioNsUu6exJ2mqlsOpWeX3NauL6WdhipzMTVbKY9wKzYbM_LMHzMd0hQETJwMgd8pffifBqMrA5WI8-xUkLhwH73C_NbAdXFh1u3tXs-8DqH04U3w3eFYzxq99p283J1gLcQTq4k0cVtFmRjfD76FJ94T6CPTLxLUam9VhjvO95rBM1q8PKhSH9G1KJ9ZY/s1600/android-spyware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioNsUu6exJ2mqlsOpWeX3NauL6WdhipzMTVbKY9wKzYbM_LMHzMd0hQETJwMgd8pffifBqMrA5WI8-xUkLhwH73C_NbAdXFh1u3tXs-8DqH04U3w3eFYzxq99p283J1gLcQTq4k0cVtFmRjfD76FJ94T6CPTLxLUam9VhjvO95rBM1q8PKhSH9G1KJ9ZY/s1600/android-spyware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/summary-of-ai-leaders-spill-their.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Event Overview\nThe \"AI Leaders Spill Their Secrets\" webinar, hosted by Sigma Computing, featured prominent AI experts sharing their experiences and strategies for success in the AI industry. The panel included Michael Ward from Sardine, Damon Bryan from Hyperfinity, and Stephen Hillian from Astronomer, moderated by Zalak Trivedi, Sigma Computing's Product Manager.\nKey Speakers and Their",
