@@ -3735,16 +3735,6 @@
           "wordCount": 445,
           "title": "Multiples vulnérabilités dans les produits Moxa (20 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507",
-          "author": null,
-          "description": "Une vulnérabilités a été découverte dans Spring Cloud Function. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0507",
-          "publishedOn": "2024-06-20T07:19:50.000Z",
-          "wordCount": 332,
-          "title": "Vulnérabilité dans Spring Cloud Function (20 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
