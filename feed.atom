@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T02:51:02.700Z</updated>
+    <updated>2024-07-19T03:13:33.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2933,17 +2933,6 @@ Attack chains leverage phishing emails that]]></summary>
         <updated>2024-06-19T16:40:00.000Z</updated>
         <summary type="html"><![CDATA[Crypto exchange Kraken revealed that an unnamed security researcher exploited an "extremely critical" zero-day flaw in its platform to steal $3 million in digital assets and refused to return them.
 Details of the incident were shared by Kraken's Chief Security Officer, Nick Percoco, on X (formerly Twitter), stating it received a Bug Bounty program alert about a bug that "allowed them to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Cyber Espionage Group Exploits Fortinet, Ivanti and VMware Zero-Days]]></title>
-        <id>https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html</id>
-        <link href="https://thehackernews.com/2024/06/chinese-cyber-espionage-group-exploits.html"/>
-        <updated>2024-06-19T15:09:00.000Z</updated>
-        <summary type="html"><![CDATA[The China-nexus cyber espionage actor linked to the zero-day exploitation of security flaws in Fortinet, Ivanti, and VMware devices has been observed utilizing multiple persistence mechanisms in order to maintain unfettered access to compromised environments.
-"Persistence mechanisms encompassed network devices, hypervisors, and virtual machines, ensuring alternative channels remain available]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
