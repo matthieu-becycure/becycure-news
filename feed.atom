@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-19T04:33:04.631Z</updated>
+    <updated>2024-07-19T04:43:41.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach]]></title>
+        <id>https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html</id>
+        <link href="https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html"/>
+        <updated>2024-07-19T04:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Indian cryptocurrency exchange WazirX has confirmed that it was the target of a security breach that led to the theft of $230 million in cryptocurrency assets.
+"A cyber attack occurred in one of our [multi-signature] wallets involving a loss of funds exceeding $230 million," the company said in a statement. "This wallet was operated utilizing the services of Liminal's digital asset custody and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver]]></title>
         <id>https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html</id>
@@ -2922,17 +2933,6 @@ Fortinet FortiGuard Labs said it's aware of four different distribution methods 
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new evasive malware loader named SquidLoader that spreads via phishing campaigns targeting Chinese organizations.
 AT&T LevelBlue Labs, which first observed the malware in late April 2024, said it incorporates features that are designed to thwart static and dynamic analysis and ultimately evade detection.
 Attack chains leverage phishing emails that]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kraken Crypto Exchange Hit by $3 Million Theft Exploiting Zero-Day Flaw]]></title>
-        <id>https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html</id>
-        <link href="https://thehackernews.com/2024/06/kraken-crypto-exchange-hit-by-3-million.html"/>
-        <updated>2024-06-19T16:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Crypto exchange Kraken revealed that an unnamed security researcher exploited an "extremely critical" zero-day flaw in its platform to steal $3 million in digital assets and refused to return them.
-Details of the incident were shared by Kraken's Chief Security Officer, Nick Percoco, on X (formerly Twitter), stating it received a Bug Bounty program alert about a bug that "allowed them to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
