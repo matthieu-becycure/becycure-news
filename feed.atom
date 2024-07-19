@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-18T22:30:17.227Z</updated>
+    <updated>2024-07-19T01:59:57.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2944,37 +2944,6 @@ Details of the incident were shared by Kraken's Chief Security Officer, Nick Per
         <updated>2024-06-19T15:09:00.000Z</updated>
         <summary type="html"><![CDATA[The China-nexus cyber espionage actor linked to the zero-day exploitation of security flaws in Fortinet, Ivanti, and VMware devices has been observed utilizing multiple persistence mechanisms in order to maintain unfettered access to compromised environments.
 "Persistence mechanisms encompassed network devices, hypervisors, and virtual machines, ensuring alternative channels remain available]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001</id>
-        <link href="https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001"/>
-        <updated>2024-06-19T12:52:43.000Z</updated>
-        <summary type="html"><![CDATA[🇬🇧 The following indicators of compromise are associated with the phishing campaigns by the Nobelium intrusion set described in the CERTFR-2024-CTI-006 report. These technical elements are provided to help detecting malicious activities in logs or inside live network trafic. DOWNLOAD IOCs (JSON...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Juniper Secure Analytics (19 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506"/>
-        <updated>2024-06-19T11:30:45.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Case Study: Unmanaged GTM Tags Become a Security Nightmare]]></title>
-        <id>https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html</id>
-        <link href="https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html"/>
-        <updated>2024-06-19T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Are your tags really safe with Google Tag Manager? If you've been thinking that using GTM means that your tracking tags and pixels are safely managed, then it might be time to think again. In this article we look at how a big-ticket seller that does business on every continent came unstuck when it forgot that you can’t afford to allow tags to go unmanaged or become misconfigured. 
-Read the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

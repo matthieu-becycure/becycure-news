@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s1600/china.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitxy6h7Nu2GV7mqn-LBcrdSxQ9VI-Nb0XhgY7aT3lRRlVec5eVc-8ge4cV_vhJy7k7KCHluzkEXq8U6f8-5KhtATPrWwKBfBrrSdwA8wWeH2S07Fn7eSHhbcj_jwDCgRUsIUp-ISQGuH6HbfCn8EU7u3UPgKwk7-sXdvsEXoj_MqX7X2adJVWq0z_r6RY3/s1600/china.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Are your tags really safe with Google Tag Manager? If you've been thinking that using GTM means that your tracking tags and pixels are safely managed, then it might be time to think again. In this article we look at how a big-ticket seller that does business on every continent came unstuck when it forgot that you can’t afford to allow tags to go unmanaged or become misconfigured. \nRead the",
-          "link": "https://thehackernews.com/2024/06/new-case-study-unmanaged-gtm-tags.html",
-          "publishedOn": "2024-06-19T11:03:00.000Z",
-          "wordCount": null,
-          "title": "New Case Study: Unmanaged GTM Tags Become a Security Nightmare",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s1600/main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyVfDmhiAFvAH5cPQidpzfmC1FIbCrxprqe1jJaXDeag2EEL6x-Efq6VdfHevck8JQkOoTB4epzhS8AQkXGGuTRNncB0Tqj5u-CeUOxrohqx__4QfoU36ae5TEvsk75lywhEbIY5BgAlOm_jDYTRtbsnNZ0mgRND4CVnorEd7cCBeshdilxyQ9LlGWiwM/s1600/main.png"
         }
       ]
     },
@@ -3590,26 +3574,6 @@
           "publishedOn": "2024-06-20T07:19:50.000Z",
           "wordCount": 332,
           "title": "Vulnérabilité dans Spring Cloud Function (20 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001",
-          "author": null,
-          "description": "🇬🇧 The following indicators of compromise are associated with the phishing campaigns by the Nobelium intrusion set described in the CERTFR-2024-CTI-006 report. These technical elements are provided to help detecting malicious activities in logs or inside live network trafic. DOWNLOAD IOCs (JSON...",
-          "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-001",
-          "publishedOn": "2024-06-19T12:52:43.000Z",
-          "wordCount": 301,
-          "title": "🇬🇧 Malicious activities linked to the Nobelium intrusion set (19 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0506",
-          "publishedOn": "2024-06-19T11:30:45.000Z",
-          "wordCount": 1290,
-          "title": "Multiples vulnérabilités dans Juniper Secure Analytics (19 juin 2024)",
           "imageUrl": null
         }
       ]
