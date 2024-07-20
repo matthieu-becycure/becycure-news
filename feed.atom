@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-20T21:43:22.095Z</updated>
+    <updated>2024-07-20T22:11:05.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2973,18 +2973,6 @@ Dubbed PHANTOM#SPIKE by Securonix, the unknown threat actors behind the activity
         <updated>2024-06-21T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Created by John Tuckner and the team at automation and AI-powered workflow platform Tines, the SOC Automation Capability Matrix (SOC ACM) is a set of techniques designed to help security operations teams understand their automation capabilities and respond more effectively to incidents. 
 A customizable, vendor-agnostic tool featuring lists of automation opportunities, it's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oyster Backdoor Spreading via Trojanized Popular Software Downloads]]></title>
-        <id>https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html</id>
-        <link href="https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html"/>
-        <updated>2024-06-21T09:51:00.000Z</updated>
-        <summary type="html"><![CDATA[A malvertising campaign is leveraging trojanized installers for popular software such as Google Chrome and Microsoft Teams to drop a backdoor called Oyster (aka Broomstick and CleanUpLoader).
-That's according to findings from Rapid7, which identified lookalike websites hosting the malicious payloads that users are redirected to after searching for them on search engines like Google and Bing.
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

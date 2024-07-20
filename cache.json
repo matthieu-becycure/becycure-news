@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLsIf4w7lxXyZ9c4ZrcpNK0hVXe44s9avr45v59SvccC39u2hp61xXj7a2T6lR9XI9Uwx81eAMCj_Xc9ynTgwtLnTmJasPcvmr7eWl-AYtvukt7TstFEISmdpJyze2heA9A20DpdycttKSYC3Ppl_72E525WcxJej387fDRqcQewSXGW_7LF6MFCnlF8A/s1600/Tines-SOC-Automation-Capability-Matrix-article1.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A malvertising campaign is leveraging trojanized installers for popular software such as Google Chrome and Microsoft Teams to drop a backdoor called Oyster (aka Broomstick and CleanUpLoader).\nThat's according to findings from Rapid7, which identified lookalike websites hosting the malicious payloads that users are redirected to after searching for them on search engines like Google and Bing.\nThe",
-          "link": "https://thehackernews.com/2024/06/oyster-backdoor-spreading-via.html",
-          "publishedOn": "2024-06-21T09:51:00.000Z",
-          "wordCount": null,
-          "title": "Oyster Backdoor Spreading via Trojanized Popular Software Downloads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s1600/software.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s1600/software.png"
         }
       ]
     },
