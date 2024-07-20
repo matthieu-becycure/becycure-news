@@ -3667,26 +3667,6 @@
           "wordCount": 464,
           "title": "Multiples vulnérabilités dans Microsoft Edge (21 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Sonicwall. Elles permettent à un attaquant de provoquer un déni de service à distance",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0509",
-          "publishedOn": "2024-06-20T12:34:54.000Z",
-          "wordCount": 345,
-          "title": "Multiples vulnérabilités dans SonicWall SonicOS (20 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0508",
-          "publishedOn": "2024-06-20T12:29:34.000Z",
-          "wordCount": 445,
-          "title": "Multiples vulnérabilités dans les produits Moxa (20 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
