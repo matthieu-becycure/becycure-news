@@ -2148,22 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s1600/software.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk_1Y6v9yAnyNfVCy0UIK3G5E49UEPiMsu0Nyil1opNBRbo-3-OvI7_T70OZudcyR_6f24qowC-hJI5r-lfL28UQmrpx5heVzxt-IGRgHCkBRgaevWHBsZpw1F5t5HUIPBvC4tOMJOM-S-rY0sAHGDKPOQ9DyYfyIJIsQAY5ch9AAZUe4mf6svSGe7s2BQ/s1600/software.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently patched high-severity flaw impacting SolarWinds Serv-U file transfer software is being actively exploited by malicious actors in the wild.\nThe vulnerability, tracked as CVE-2024-28995 (CVSS score: 8.6), concerns a directory transversal bug that could allow attackers to read sensitive files on the host machine.\nAffecting all versions of the software prior to and including Serv-U 15.4.2",
-          "link": "https://thehackernews.com/2024/06/solarwinds-serv-u-vulnerability-under.html",
-          "publishedOn": "2024-06-21T08:54:00.000Z",
-          "wordCount": null,
-          "title": "SolarWinds Serv-U Vulnerability Under Active Attack - Patch Immediately",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilITH9pL3BtOSdbBSKEBBNgIvgCBEFU3ZeqzjMN8rk1kkZU56G2jGZKuw_qewfMHGmLPu-G__1qZ2wZDTtA8o722QQ1nBTfB5w8UfsXYZVfbyXv1dnOnB5uRERhT76eVr53JLjJHlKYiFNgPfzODLilE1spOzst-ggd3cG1qCesrpsHLZooMBsWG_HrcD8/s1600/solarwinds.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilITH9pL3BtOSdbBSKEBBNgIvgCBEFU3ZeqzjMN8rk1kkZU56G2jGZKuw_qewfMHGmLPu-G__1qZ2wZDTtA8o722QQ1nBTfB5w8UfsXYZVfbyXv1dnOnB5uRERhT76eVr53JLjJHlKYiFNgPfzODLilE1spOzst-ggd3cG1qCesrpsHLZooMBsWG_HrcD8/s1600/solarwinds.png"
         }
       ]
     },
@@ -3630,26 +3614,6 @@
           "publishedOn": "2024-06-21T11:59:02.000Z",
           "wordCount": 370,
           "title": "Multiples vulnérabilités dans les produits Moxa (21 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0511",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0511",
-          "publishedOn": "2024-06-21T08:53:33.000Z",
-          "wordCount": 417,
-          "title": "Vulnérabilité dans les produits ESET (21 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0510",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0510",
-          "publishedOn": "2024-06-21T08:46:22.000Z",
-          "wordCount": 464,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (21 juin 2024)",
           "imageUrl": null
         }
       ]
