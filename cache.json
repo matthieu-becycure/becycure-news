@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Law enforcement officials in the U.K. have arrested a 17-year-old boy from Walsall who is suspected to be a member of the notorious Scattered Spider cybercrime syndicate.\nThe arrest was made \"in connection with a global cyber online crime group which has been targeting large organizations with ransomware and gaining access to computer networks,\" West Midlands police said. \"The arrest is part of",
+          "link": "https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html",
+          "publishedOn": "2024-07-20T04:28:00.000Z",
+          "wordCount": null,
+          "title": "17-Year-Old Linked to Scattered Spider Cybercrime Syndicate Arrested in U.K.",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrIp7mClsN2njmYIpcC7j5Y0JZ5k6WdnBP8tUOFBYaYxcy0isI4ojr1kzEQayg3GaTQVtHoXzUhGZndeBagU_RKxKfUNfiLKHmOTEnzdjjlcC3P9E56tascvgqxGqWjwzPnwB11bl1tnjQqM7NhJ5Hv-N0suzxOEVAUx5MJmnz-1Wx39yGGhXVWFbVDZb/s1600/cybercrime.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrIp7mClsN2njmYIpcC7j5Y0JZ5k6WdnBP8tUOFBYaYxcy0isI4ojr1kzEQayg3GaTQVtHoXzUhGZndeBagU_RKxKfUNfiLKHmOTEnzdjjlcC3P9E56tascvgqxGqWjwzPnwB11bl1tnjQqM7NhJ5Hv-N0suzxOEVAUx5MJmnz-1Wx39yGGhXVWFbVDZb/s1600/cybercrime.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Businesses across the world have been hit by widespread disruptions to their Windows workstations stemming from a faulty update pushed out by cybersecurity company CrowdStrike.\n\"CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts,\" the company's CEO George Kurtz said in a statement. \"Mac and Linux hosts are not impacted. This is",
