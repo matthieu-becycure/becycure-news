@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-20T17:10:11.395Z</updated>
+    <updated>2024-07-20T17:27:46.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware]]></title>
+        <id>https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html</id>
+        <link href="https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html"/>
+        <updated>2024-07-20T16:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity firm CrowdStrike, which is facing the heat for causing worldwide IT disruptions by pushing out a flawed update to Windows devices, is now warning that threat actors are exploiting the situation to distribute Remcos RAT to its customers in Latin America under the guise of a providing a hotfix.
+The attack chains involve distributing a ZIP archive file named "crowdstrike-hotfix.zip,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17-Year-Old Linked to Scattered Spider Cybercrime Syndicate Arrested in U.K.]]></title>
         <id>https://thehackernews.com/2024/07/17-year-old-linked-to-scattered-spider.html</id>
