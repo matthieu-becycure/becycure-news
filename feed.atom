@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-20T16:13:16.274Z</updated>
+    <updated>2024-07-20T16:32:45.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3008,17 +3008,6 @@ Affecting all versions of the software prior to and including Serv-U 15.4.2]]></
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Bans Kaspersky Software, Citing National Security Risks]]></title>
-        <id>https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html</id>
-        <link href="https://thehackernews.com/2024/06/us-bans-kaspersky-software-citing.html"/>
-        <updated>2024-06-21T04:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Commerce's Bureau of Industry and Security (BIS) on Thursday announced a "first of its kind" ban that prohibits Kaspersky Lab's U.S. subsidiary from directly or indirectly offering its security software in the country.
-The blockade also extends to the cybersecurity company's affiliates, subsidiaries and parent companies, the department said, adding the action is based on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
