@@ -2148,38 +2148,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s1600/kaspersky.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgB1fBG4r43pGgFlGv8lT08qUH466-izj5ylZkA_9lkoGwmrGj1aUVgwmfMojq_aIgnKV1LJ4aGd1w_19_AbzhA6R_5OHhZWZ3KjYDexiMQppkEdmXcfe-4lfwgnhyphenhyphenyJPPQp_LXixvoAbHzWG3DbMEd8fflUCWesiOeP7F9LeX6qf8NLueMpPR8Ky2y16pt/s1600/kaspersky.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed details of a now-patched security flaw in Phoenix SecureCore UEFI firmware that affects multiple families of Intel Core desktop and mobile processors.\nTracked as CVE-2024-0762 (CVSS score: 7.5), the \"UEFIcanhazbufferoverflow\" vulnerability has been described as a case of a buffer overflow stemming from the use of an unsafe variable in the Trusted Platform",
-          "link": "https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html",
-          "publishedOn": "2024-06-20T14:22:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s1600/intel.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBtp8_LXAVfHKTge6XI4U32MqydGdTOZJ-X0A3W1U6P4IfKepCCT13qi9XXl8s40dToN7mKj_aNOCxg4SZBHpzJXWZySEHKwPjrTye17JbDk1VO3glvsAnLBAeLGQgd6esxmx4-k_IJ09RmMxC94rwV-IFaAYKd7kfXbARd7gfhbAPJxRKD2IBBUtaFB4h/s1600/intel.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "State-sponsored actors with ties to Russia have been linked to targeted cyber attacks aimed at French diplomatic entities, the country's information security agency ANSSI said in an advisory.\nThe attacks have been attributed to a cluster tracked by Microsoft under the name Midnight Blizzard (formerly Nobelium), which overlaps with activity tracked as APT29, BlueBravo, Cloaked Ursa, Cozy Bear,",
-          "link": "https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html",
-          "publishedOn": "2024-06-20T14:00:00.000Z",
-          "wordCount": null,
-          "title": "French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv-tI6H7555jvr1t5aTud-C2e8o6rl1GAFR7gYgqElAi2OLf3LrfM9OLhKDN3syyLxx0Dp_YT-qAj1mhI02RWR7rp5fzLSi1Kqc-eH-CnWsxJL9Ihi7kAej1_mSzsmqpOftao0Xye6HnBQipYIOKV6gFACmPRxc0l7hm-cb13HuVQAUXGihuZAcCNwdSv/s1600/hackers.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLv-tI6H7555jvr1t5aTud-C2e8o6rl1GAFR7gYgqElAi2OLf3LrfM9OLhKDN3syyLxx0Dp_YT-qAj1mhI02RWR7rp5fzLSi1Kqc-eH-CnWsxJL9Ihi7kAej1_mSzsmqpOftao0Xye6HnBQipYIOKV6gFACmPRxc0l7hm-cb13HuVQAUXGihuZAcCNwdSv/s1600/hackers.png"
         }
       ]
     },

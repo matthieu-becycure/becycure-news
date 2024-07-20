@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-20T01:57:32.182Z</updated>
+    <updated>2024-07-20T02:31:01.084Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3006,28 +3006,6 @@ Affecting all versions of the software prior to and including Serv-U 15.4.2]]></
         <updated>2024-06-21T04:25:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of Commerce's Bureau of Industry and Security (BIS) on Thursday announced a "first of its kind" ban that prohibits Kaspersky Lab's U.S. subsidiary from directly or indirectly offering its security software in the country.
 The blockade also extends to the cybersecurity company's affiliates, subsidiaries and parent companies, the department said, adding the action is based on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover UEFI Vulnerability Affecting Multiple Intel CPUs]]></title>
-        <id>https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html</id>
-        <link href="https://thehackernews.com/2024/06/researchers-uncover-uefi-vulnerability.html"/>
-        <updated>2024-06-20T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a now-patched security flaw in Phoenix SecureCore UEFI firmware that affects multiple families of Intel Core desktop and mobile processors.
-Tracked as CVE-2024-0762 (CVSS score: 7.5), the "UEFIcanhazbufferoverflow" vulnerability has been described as a case of a buffer overflow stemming from the use of an unsafe variable in the Trusted Platform]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French Diplomatic Entities Targeted in Russian-Linked Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html</id>
-        <link href="https://thehackernews.com/2024/06/french-diplomatic-entities-targeted-in.html"/>
-        <updated>2024-06-20T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[State-sponsored actors with ties to Russia have been linked to targeted cyber attacks aimed at French diplomatic entities, the country's information security agency ANSSI said in an advisory.
-The attacks have been attributed to a cluster tracked by Microsoft under the name Midnight Blizzard (formerly Nobelium), which overlaps with activity tracked as APT29, BlueBravo, Cloaked Ursa, Cozy Bear,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
