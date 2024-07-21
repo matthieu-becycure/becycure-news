@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-21T00:58:19.334Z</updated>
+    <updated>2024-07-21T02:07:21.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2909,29 +2909,6 @@ Recorded Future's Insikt Group is tracking the activity under the name RedJuliet
         <updated>2024-06-22T06:00:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of the Treasury's Office of Foreign Assets Control (OFAC) imposed sanctions against a dozen individuals serving executive and senior leadership roles at Kaspersky Lab, a day after the Russian company was banned by the Commerce Department.
 The move "underscores our commitment to ensure the integrity of our cyber domain and to protect our citizens against malicious cyber]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign]]></title>
-        <id>https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html</id>
-        <link href="https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html"/>
-        <updated>2024-06-21T13:42:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented Chinese-speaking threat actor codenamed SneakyChef has been linked to an espionage campaign primarily targeting government entities across Asia and EMEA (Europe, Middle East, and Africa) with SugarGh0st malware since at least August 2023.
-"SneakyChef uses lures that are scanned documents of government agencies, most of which are related to various countries' Ministries]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Military-themed Email Scam Spreads Malware to Infect Pakistani Users]]></title>
-        <id>https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html</id>
-        <link href="https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html"/>
-        <updated>2024-06-21T13:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new phishing campaign that has been identified as targeting people in Pakistan using a custom backdoor.
-Dubbed PHANTOM#SPIKE by Securonix, the unknown threat actors behind the activity have leveraged military-related phishing documents to activate the infection sequence.
-"While there are many methods used today to deploy malware, the threat actors]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

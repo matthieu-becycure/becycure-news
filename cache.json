@@ -2084,38 +2084,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlyO41rKmna6mCDjeeLG0igLaXM4aByx0IbvFWjDEPcciC7yu62sv03TtBXUjYXdeVq4SQAKQCjERcg95AiVeOQXhRr8FfRhX5B9kONQdUq4lLV8gEI0J9KWP5e2X0fg_kNGHhQRuSAXm16llSbCVetDBIpGjL6tHIf8JRf5R4_1x0UrY7pRTgw780HlXN/s1600/kaspersky.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlyO41rKmna6mCDjeeLG0igLaXM4aByx0IbvFWjDEPcciC7yu62sv03TtBXUjYXdeVq4SQAKQCjERcg95AiVeOQXhRr8FfRhX5B9kONQdUq4lLV8gEI0J9KWP5e2X0fg_kNGHhQRuSAXm16llSbCVetDBIpGjL6tHIf8JRf5R4_1x0UrY7pRTgw780HlXN/s1600/kaspersky.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented Chinese-speaking threat actor codenamed SneakyChef has been linked to an espionage campaign primarily targeting government entities across Asia and EMEA (Europe, Middle East, and Africa) with SugarGh0st malware since at least August 2023.\n\"SneakyChef uses lures that are scanned documents of government agencies, most of which are related to various countries' Ministries",
-          "link": "https://thehackernews.com/2024/06/chinese-hackers-deploy-spicerat-and.html",
-          "publishedOn": "2024-06-21T13:42:00.000Z",
-          "wordCount": null,
-          "title": "Chinese Hackers Deploy SpiceRAT and SugarGh0st in Global Espionage Campaign",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXw60QL28Xq7EBbc0ltu7Zn_zb6LIeUeJMxbecm3s337gGKN-iqxrJahLYb33DLw5DYTdJF95r_hjUOpwHzRkQIaZItePsJ-OUeK4xSaF8qeCHIw90bI-Aaz7_EcuJfC5JCK4lg96YBoc5Z8HP1dEI85rPe-joSvXxDTirngmFCd8QOHgGL6gHC05wdWe/s1600/talos.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFXw60QL28Xq7EBbc0ltu7Zn_zb6LIeUeJMxbecm3s337gGKN-iqxrJahLYb33DLw5DYTdJF95r_hjUOpwHzRkQIaZItePsJ-OUeK4xSaF8qeCHIw90bI-Aaz7_EcuJfC5JCK4lg96YBoc5Z8HP1dEI85rPe-joSvXxDTirngmFCd8QOHgGL6gHC05wdWe/s1600/talos.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shed light on a new phishing campaign that has been identified as targeting people in Pakistan using a custom backdoor.\nDubbed PHANTOM#SPIKE by Securonix, the unknown threat actors behind the activity have leveraged military-related phishing documents to activate the infection sequence.\n\"While there are many methods used today to deploy malware, the threat actors",
-          "link": "https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html",
-          "publishedOn": "2024-06-21T13:01:00.000Z",
-          "wordCount": null,
-          "title": "Military-themed Email Scam Spreads Malware to Infect Pakistani Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbXwRgpsdr04H7pJ4cx0DZWw2UsOm12Aumr5eST2F5r89yzPS8xIpAMw1AVFkHcBBzmSBif4mjIh39pKFg08oKyE0kGXeAomoFwLsx7ZEngalsZmzagLX7bJQbxjZRyWQzz1zgTygsLL3g-ttw6-I3trv_ABWGeqca5UiW5-wQVuFEkYm98qkdq5xHQTK/s1600/email.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisbXwRgpsdr04H7pJ4cx0DZWw2UsOm12Aumr5eST2F5r89yzPS8xIpAMw1AVFkHcBBzmSBif4mjIh39pKFg08oKyE0kGXeAomoFwLsx7ZEngalsZmzagLX7bJQbxjZRyWQzz1zgTygsLL3g-ttw6-I3trv_ABWGeqca5UiW5-wQVuFEkYm98qkdq5xHQTK/s1600/email.png"
         }
       ]
     },
