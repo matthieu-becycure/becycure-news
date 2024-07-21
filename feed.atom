@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-21T23:26:23.873Z</updated>
+    <updated>2024-07-21T23:43:48.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2875,17 +2875,6 @@ Recorded Future's Insikt Group is tracking the activity under the name RedJuliet
         <updated>2024-06-24T05:04:00.000Z</updated>
         <summary type="html"><![CDATA[Multiple threat actors, including cyber espionage groups, are employing an open-source Android remote administration tool called Rafel RAT to meet their operational objectives by masquerading it as Instagram, WhatsApp, and various e-commerce and antivirus apps.
 "It provides malicious actors with a powerful toolkit for remote administration and control, enabling a range of malicious activities]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ExCobalt Cyber Gang Targets Russian Sectors with New GoRed Backdoor]]></title>
-        <id>https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html</id>
-        <link href="https://thehackernews.com/2024/06/excobalt-cyber-gang-targets-russian.html"/>
-        <updated>2024-06-22T11:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Russian organizations have been targeted by a cybercrime gang called ExCobalt using a previously unknown Golang-based backdoor known as GoRed.
-"ExCobalt focuses on cyber espionage and includes several members active since at least 2016 and presumably once part of the notorious Cobalt Gang," Positive Technologies researchers Vladislav Lunin and Alexander Badayev said in a technical report]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
