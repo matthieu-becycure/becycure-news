@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-22T07:25:21.311Z</updated>
+    <updated>2024-07-22T07:43:37.164Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SocGholish Malware Exploits BOINC Project for Covert Cyberattacks]]></title>
+        <id>https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html</id>
+        <link href="https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html"/>
+        <updated>2024-07-22T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The JavaScript downloader malware known as SocGholish (aka FakeUpdates) is being used to deliver a remote access trojan called AsyncRAT as well as a legitimate open-source project called BOINC.
+BOINC, short for Berkeley Open Infrastructure Network Computing Client, is an open-source "volunteer computing" platform maintained by the University of California with an aim to carry out "large-scale]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Linux Variant of Play Ransomware Targeting VMWare ESXi Systems]]></title>
         <id>https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html</id>
