@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-22T11:43:31.991Z</updated>
+    <updated>2024-07-22T12:22:11.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set up an Automated SMS Analysis Service with AI in Tines]]></title>
+        <id>https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html</id>
+        <link href="https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html"/>
+        <updated>2024-07-22T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The opportunities to use AI in workflow automation are many and varied, but one of the simplest ways to use AI to save time and enhance your organization’s security posture is by building an automated SMS analysis service. 
+Workflow automation platform Tines provides a good example of how to do it. The vendor recently released their first native AI features, and security teams have already]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting]]></title>
+        <id>https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html</id>
+        <link href="https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html"/>
+        <updated>2024-07-22T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[As a vCISO, you are responsible for your client's cybersecurity strategy and risk governance. This incorporates multiple disciplines, from research to execution to reporting. Recently, we published a comprehensive playbook for vCISOs, “Your First 100 Days as a vCISO – 5 Steps to Success”, which covers all the phases entailed in launching a successful vCISO engagement, along with]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Atlassian (22 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/"/>
+        <updated>2024-07-22T07:24:10.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits NetApp (22 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/"/>
+        <updated>2024-07-22T07:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SocGholish Malware Exploits BOINC Project for Covert Cyberattacks]]></title>
         <id>https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html</id>
@@ -71,6 +112,16 @@ The defendants include Ruslan Magomedovich Astamirov, 21, of Chechen Republic, a
 Astamirov was arrested in Arizona by U.S. law]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-033 (19 juillet 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/"/>
+        <updated>2024-07-19T12:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

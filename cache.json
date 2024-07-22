@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The opportunities to use AI in workflow automation are many and varied, but one of the simplest ways to use AI to save time and enhance your organization’s security posture is by building an automated SMS analysis service. \nWorkflow automation platform Tines provides a good example of how to do it. The vendor recently released their first native AI features, and security teams have already",
+          "link": "https://thehackernews.com/2024/07/how-to-set-up-automated-sms-analysis.html",
+          "publishedOn": "2024-07-22T11:25:00.000Z",
+          "wordCount": null,
+          "title": "How to Set up an Automated SMS Analysis Service with AI in Tines",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVPxZUC39CqjESXijxfTsk9Bn3KAwjeFcSfdsrlDwBnPXIo6uwbj5h7WomhB7BMQNYJFjQxshF2hNGzFE37_wMOQxKPwNilOx5seKtocuflBJwaOBTF9eLSspKctd0nPZ4sNFx5oFR7vui99mc8DL_TTc0mZ6qk6Mr7Xq-Vy1_DIRtOKO-KrCF63dhf8/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipVPxZUC39CqjESXijxfTsk9Bn3KAwjeFcSfdsrlDwBnPXIo6uwbj5h7WomhB7BMQNYJFjQxshF2hNGzFE37_wMOQxKPwNilOx5seKtocuflBJwaOBTF9eLSspKctd0nPZ4sNFx5oFR7vui99mc8DL_TTc0mZ6qk6Mr7Xq-Vy1_DIRtOKO-KrCF63dhf8/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As a vCISO, you are responsible for your client's cybersecurity strategy and risk governance. This incorporates multiple disciplines, from research to execution to reporting. Recently, we published a comprehensive playbook for vCISOs, “Your First 100 Days as a vCISO – 5 Steps to Success”, which covers all the phases entailed in launching a successful vCISO engagement, along with",
+          "link": "https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html",
+          "publishedOn": "2024-07-22T10:41:00.000Z",
+          "wordCount": null,
+          "title": "MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s1600/smmain.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVcqVzYZH91H_9PbDHdCY4R62QGYudw1QQlJDYEF42wynKOtBBWoGLzTcbIRh_2BNrDL_HymxMptelhDGyn-3hEn8m-Mg6VFgI-GjZqbjslA3u5seyXqVOLZ0OYDk1IClTvbDigOqtM6ZEqiUm1n6sxzwlvHFHlZKJ35utC5xlvbapW7oufxHQ57FYeu4/s1600/smmain.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/socgholish-malware-exploits-boinc.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The JavaScript downloader malware known as SocGholish (aka FakeUpdates) is being used to deliver a remote access trojan called AsyncRAT as well as a legitimate open-source project called BOINC.\nBOINC, short for Berkeley Open Infrastructure Network Computing Client, is an open-source \"volunteer computing\" platform maintained by the University of California with an aim to carry out \"large-scale",
@@ -2076,6 +2108,36 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/",
+          "publishedOn": "2024-07-22T07:24:10.000Z",
+          "wordCount": 355,
+          "title": "Vulnérabilité dans les produits Atlassian (22 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/",
+          "publishedOn": "2024-07-22T07:23:04.000Z",
+          "wordCount": 317,
+          "title": "Vulnérabilité dans les produits NetApp (22 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/",
+          "publishedOn": "2024-07-19T12:07:46.000Z",
+          "wordCount": 882,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-033 (19 juillet 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/",
           "author": null,
