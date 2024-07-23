@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-23T19:43:28.455Z</updated>
+    <updated>2024-07-23T20:12:44.721Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3039,17 +3039,6 @@ Cybersecurity professionals are facing unprecedented challenges as they strive t
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations]]></title>
-        <id>https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html</id>
-        <link href="https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html"/>
-        <updated>2024-06-24T07:49:00.000Z</updated>
-        <summary type="html"><![CDATA[A likely China-linked state-sponsored threat actor has been linked to a cyber espionage campaign targeting government, academic, technology, and diplomatic organizations in Taiwan between November 2023 and April 2024.
-Recorded Future's Insikt Group is tracking the activity under the name RedJuliett, describing it as a cluster that operates Fuzhou, China, to support Beijing's intelligence]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
