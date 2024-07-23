@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-23T16:45:32.906Z</updated>
+    <updated>2024-07-23T17:10:48.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3048,17 +3048,6 @@ Cybersecurity professionals are facing unprecedented challenges as they strive t
         <updated>2024-06-24T07:49:00.000Z</updated>
         <summary type="html"><![CDATA[A likely China-linked state-sponsored threat actor has been linked to a cyber espionage campaign targeting government, academic, technology, and diplomatic organizations in Taiwan between November 2023 and April 2024.
 Recorded Future's Insikt Group is tracking the activity under the name RedJuliett, describing it as a cluster that operates Fuzhou, China, to support Beijing's intelligence]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Threat Actors Deploying Open-Source Rafel RAT to Target Android Devices]]></title>
-        <id>https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html</id>
-        <link href="https://thehackernews.com/2024/06/iranian-hackers-deploy-rafel-rat-in.html"/>
-        <updated>2024-06-24T05:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple threat actors, including cyber espionage groups, are employing an open-source Android remote administration tool called Rafel RAT to meet their operational objectives by masquerading it as Instagram, WhatsApp, and various e-commerce and antivirus apps.
-"It provides malicious actors with a powerful toolkit for remote administration and control, enabling a range of malicious activities]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
