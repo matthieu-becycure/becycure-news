@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Monday abandoned plans to phase out third-party tracking cookies in its Chrome web browser more than four years after it introduced the option as part of a larger set of a controversial proposal called the Privacy Sandbox.\n\"Instead of deprecating third-party cookies, we would introduce a new experience in Chrome that lets people make an informed choice that applies across their web",
+          "link": "https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html",
+          "publishedOn": "2024-07-23T04:28:00.000Z",
+          "wordCount": null,
+          "title": "Google Abandons Plan to Phase Out Third-Party Cookies in Chrome",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBF5J8-KYdwqxbgp00QVbjwQ6NbbpbuI5bRQC3rYwSx5CtwikQ3r-KXu4iO7JHE6OQmPFafs3gYJqTmO9965rtbKSBAwdm5-Hb5Pm0AFRNBKZUM3Nr0Spuc4AhnS6rBdI9yZ6dQIApRayQqPjYwiOZ1qjsiJTtlyO1PBsXN6E_VfqCJQ_ZakBn4TZwZ63G/s1600/google-chrome-cookies.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBF5J8-KYdwqxbgp00QVbjwQ6NbbpbuI5bRQC3rYwSx5CtwikQ3r-KXu4iO7JHE6OQmPFafs3gYJqTmO9965rtbKSBAwdm5-Hb5Pm0AFRNBKZUM3Nr0Spuc4AhnS6rBdI9yZ6dQIApRayQqPjYwiOZ1qjsiJTtlyO1PBsXN6E_VfqCJQ_ZakBn4TZwZ63G/s1600/google-chrome-cookies.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The relationship between various TDSs and DNS associated with Vigorish Viper and the final landing experience for the user\nA Chinese organized crime syndicate with links to money laundering and human trafficking across Southeast Asia has been using an advanced \"technology suite\" that runs the whole cybercrime supply chain spectrum to spearhead its operations.\nInfoblox is tracking the proprietor",
