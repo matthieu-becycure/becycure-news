@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-23T11:24:38.801Z</updated>
+    <updated>2024-07-23T11:43:28.243Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure]]></title>
+        <id>https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html</id>
+        <link href="https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html"/>
+        <updated>2024-07-23T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered what they say is the ninth Industrial Control Systems (ICS)-focused malware that has been used in a disruptive cyber attack targeting an energy company in the Ukrainian city of Lviv earlier this January.
+Industrial cybersecurity firm Dragos has dubbed the malware FrostyGoop, describing it as the first malware strain to directly use Modbus TCP]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Securely Onboard New Employees Without Sharing Temporary Passwords]]></title>
         <id>https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html</id>

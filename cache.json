@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered what they say is the ninth Industrial Control Systems (ICS)-focused malware that has been used in a disruptive cyber attack targeting an energy company in the Ukrainian city of Lviv earlier this January.\nIndustrial cybersecurity firm Dragos has dubbed the malware FrostyGoop, describing it as the first malware strain to directly use Modbus TCP",
+          "link": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
+          "publishedOn": "2024-07-23T10:54:00.000Z",
+          "wordCount": null,
+          "title": "New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFryrXiANDmpB8inIz_fELJDVlwO2Q-Ec5GKVbb6KNh5agZtAc2rkmoN3CN-9Hmu76XFjhiXgzhW6jslLMWHEn2y3B-2745Vx_QyB4OZByNqjJr43cX5Fmhbs9nCrsk3jb43BCRVKJTAea37QbZKDWgyaWniA3zLegQAnqntGAS1cDcGP1OzUFPnLF-ZHV/s1600/ot-security.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFryrXiANDmpB8inIz_fELJDVlwO2Q-Ec5GKVbb6KNh5agZtAc2rkmoN3CN-9Hmu76XFjhiXgzhW6jslLMWHEn2y3B-2745Vx_QyB4OZByNqjJr43cX5Fmhbs9nCrsk3jb43BCRVKJTAea37QbZKDWgyaWniA3zLegQAnqntGAS1cDcGP1OzUFPnLF-ZHV/s1600/ot-security.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The initial onboarding stage is a crucial step for both employees and employers. However, this process often involves the practice of sharing temporary first-day passwords, which can expose organizations to security risks.\nTraditionally, IT departments have been cornered into either sharing passwords in plain text via email or SMS, or arranging in-person meetings to verbally communicate these",
