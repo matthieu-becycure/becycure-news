@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Organizations in Taiwan and a U.S. non-governmental organization (NGO) based in China have been targeted by a Beijing-affiliated state-sponsored hacking group called Daggerfly using an upgraded set of malware tools.\nThe campaign is a sign that the group \"also engages in internal espionage,\" Symantec's Threat Hunter Team, part of Broadcom, said in a new report published today. \"In the attack on",
+          "link": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
+          "publishedOn": "2024-07-23T12:28:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Target Taiwan and US NGO with MgBot Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRhHUp6JDG4MsTgzXDCcSpXCEsEcybx-RwGZEjOItczGtq4c2l7FAK-X8DphUyI9aZTqwsIBQ8So66Qdh2rGsSYBU9ZgWfiUGR449k05_S7XtmXcbMLwpIbcvLXRQH9rPJDSogDVy75Bp_II9jkTh45pZmfxL0A2xiq14sbl8YpEQA0HCo_TaG1NQXjyb/s1600/chinese-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmRhHUp6JDG4MsTgzXDCcSpXCEsEcybx-RwGZEjOItczGtq4c2l7FAK-X8DphUyI9aZTqwsIBQ8So66Qdh2rGsSYBU9ZgWfiUGR449k05_S7XtmXcbMLwpIbcvLXRQH9rPJDSogDVy75Bp_II9jkTh45pZmfxL0A2xiq14sbl8YpEQA0HCo_TaG1NQXjyb/s1600/chinese-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered what they say is the ninth Industrial Control Systems (ICS)-focused malware that has been used in a disruptive cyber attack targeting an energy company in the Ukrainian city of Lviv earlier this January.\nIndustrial cybersecurity firm Dragos has dubbed the malware FrostyGoop, describing it as the first malware strain to directly use Modbus TCP",

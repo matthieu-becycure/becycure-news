@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-23T13:17:43.764Z</updated>
+    <updated>2024-07-23T13:29:17.154Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Target Taiwan and US NGO with MgBot Malware]]></title>
+        <id>https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html</id>
+        <link href="https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html"/>
+        <updated>2024-07-23T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations in Taiwan and a U.S. non-governmental organization (NGO) based in China have been targeted by a Beijing-affiliated state-sponsored hacking group called Daggerfly using an upgraded set of malware tools.
+The campaign is a sign that the group "also engages in internal espionage," Symantec's Threat Hunter Team, part of Broadcom, said in a new report published today. "In the attack on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure]]></title>
         <id>https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html</id>
