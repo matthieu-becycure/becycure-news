@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-23T10:12:05.000Z</updated>
+    <updated>2024-07-23T10:31:31.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Securely Onboard New Employees Without Sharing Temporary Passwords]]></title>
+        <id>https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html</id>
+        <link href="https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html"/>
+        <updated>2024-07-23T10:13:00.000Z</updated>
+        <summary type="html"><![CDATA[The initial onboarding stage is a crucial step for both employees and employers. However, this process often involves the practice of sharing temporary first-day passwords, which can expose organizations to security risks.
+Traditionally, IT departments have been cornered into either sharing passwords in plain text via email or SMS, or arranging in-person meetings to verbally communicate these]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files]]></title>
+        <id>https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html</id>
+        <link href="https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html"/>
+        <updated>2024-07-23T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed using swap files in compromised websites to conceal a persistent credit card skimmer and harvest payment information.
+The sneaky technique, observed by Sucuri on a Magento e-commerce site's checkout page, allowed the malware to survive multiple cleanup attempts, the company said.
+The skimmer is designed to capture all the data into the credit card form on the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Given Deadline to Address E.U. Concerns Over 'Pay or Consent' Model]]></title>
+        <id>https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html</id>
+        <link href="https://thehackernews.com/2024/07/meta-given-deadline-to-address-eu.html"/>
+        <updated>2024-07-23T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta has been given time till September 1, 2024, to respond to concerns raised by the European Commission over its "pay or consent" advertising model or risk-facing enforcement measures, including sanctions.
+The European Commission said the Consumer Protection Cooperation (CPC) Network has notified the social media giant of the model adopted on Facebook and Instagram of potentially violating]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukrainian Institutions Targeted Using HATVIBE and CHERRYSPY Malware]]></title>
+        <id>https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html</id>
+        <link href="https://thehackernews.com/2024/07/ukrainian-institutions-targeted-using.html"/>
+        <updated>2024-07-23T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has alerted of a spear-phishing campaign targeting a scientific research institution in the country with malware known as HATVIBE and CHERRYSPY.
+The agency attributed the attack to a threat actor it tracks under the name UAC-0063, which was previously observed targeting various government entities to gather sensitive information using]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Abandons Plan to Phase Out Third-Party Cookies in Chrome]]></title>
         <id>https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html</id>
