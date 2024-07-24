@@ -2285,6 +2285,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0623/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0623/",
+          "publishedOn": "2024-07-24T08:53:11.000Z",
+          "wordCount": 335,
+          "title": "Multiples vulnérabilités Microsoft GroupMe (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0622/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0622/",
+          "publishedOn": "2024-07-24T08:52:55.000Z",
+          "wordCount": 383,
+          "title": "Multiples vulnérabilités dans Google Chrome (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0621/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Nagios XI. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0621/",
+          "publishedOn": "2024-07-24T08:52:40.000Z",
+          "wordCount": 310,
+          "title": "Vulnérabilité dans Nagios XI (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0620/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0620/",
+          "publishedOn": "2024-07-24T08:52:27.000Z",
+          "wordCount": 446,
+          "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0619/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0619/",
+          "publishedOn": "2024-07-24T08:52:05.000Z",
+          "wordCount": 721,
+          "title": "Multiples vulnérabilités dans les produits VMware (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0618/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0618/",
+          "publishedOn": "2024-07-24T08:51:25.000Z",
+          "wordCount": 408,
+          "title": "Multiples vulnérabilités dans ISC BIND (24 juillet 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0617/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.",
