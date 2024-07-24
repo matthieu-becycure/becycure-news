@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxU5ZnL_uPFbF497QWyQYuVSCEnsAkCsChd2y0778LJP8oe0wWkMrjK48SJgbfyWP9loHUfAa7ps5-gMs-T0h8M-uLRcio_y84WGx6pnEcHKMknGfW7_o8iS4zhBzE6kgIr9AiQeceDJWBTxuOUTOSjg2R3ufDFMFDUCvfeMtfisD3CiM2Zfuv_4Dq1O-/s1600/google.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPxU5ZnL_uPFbF497QWyQYuVSCEnsAkCsChd2y0778LJP8oe0wWkMrjK48SJgbfyWP9loHUfAa7ps5-gMs-T0h8M-uLRcio_y84WGx6pnEcHKMknGfW7_o8iS4zhBzE6kgIr9AiQeceDJWBTxuOUTOSjg2R3ufDFMFDUCvfeMtfisD3CiM2Zfuv_4Dq1O-/s1600/google.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have detailed a now-patch security flaw affecting the Ollama open-source artificial intelligence (AI) infrastructure platform that could be exploited to achieve remote code execution.\nTracked as CVE-2024-37032, the vulnerability has been codenamed Probllama by cloud security firm Wiz. Following responsible disclosure on May 5, 2024, the issue was addressed in version",
-          "link": "https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html",
-          "publishedOn": "2024-06-24T13:52:00.000Z",
-          "wordCount": null,
-          "title": "Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wldQKjYyuy5Q2fhGGA-A9Nd5PccHrMIPFei2Lbh-o5cLSDJo_O-jYntv0ZLEm4FcJkSVyR_qcXuah7Lz5GpaDlP7dvw7Nywre-okBXz6Cw-RCV8BO9cF4FsV9WgehGhtVR7J0I7NEnKJ4L0kDov-tL3R_BPF-IGtMWhS6NuBvdWcN5CKVIVFi_LWtAy9/s1600/mail.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3wldQKjYyuy5Q2fhGGA-A9Nd5PccHrMIPFei2Lbh-o5cLSDJo_O-jYntv0ZLEm4FcJkSVyR_qcXuah7Lz5GpaDlP7dvw7Nywre-okBXz6Cw-RCV8BO9cF4FsV9WgehGhtVR7J0I7NEnKJ4L0kDov-tL3R_BPF-IGtMWhS6NuBvdWcN5CKVIVFi_LWtAy9/s1600/mail.png"
         }
       ]
     },

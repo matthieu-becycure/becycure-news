@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T00:55:22.009Z</updated>
+    <updated>2024-07-24T02:01:02.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3005,17 +3005,6 @@ The defendants, Ta Van Tai (aka Quynh Hoa and Bich Thuy), Nguyen Viet Quoc (aka 
         <updated>2024-06-24T15:03:00.000Z</updated>
         <summary type="html"><![CDATA[Google has developed a new framework called Project Naptime that it says enables a large language model (LLM) to carry out vulnerability research with an aim to improve automated discovery approaches.
 "The Naptime architecture is centered around the interaction between an AI agent and a target codebase," Google Project Zero researchers Sergei Glazunov and Mark Brand said. "The agent is provided]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool]]></title>
-        <id>https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html</id>
-        <link href="https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html"/>
-        <updated>2024-06-24T13:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have detailed a now-patch security flaw affecting the Ollama open-source artificial intelligence (AI) infrastructure platform that could be exploited to achieve remote code execution.
-Tracked as CVE-2024-37032, the vulnerability has been codenamed Probllama by cloud security firm Wiz. Following responsible disclosure on May 5, 2024, the issue was addressed in version]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
