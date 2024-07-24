@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T23:26:50.900Z</updated>
+    <updated>2024-07-24T23:43:42.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3034,16 +3034,6 @@ More than 110,000 sites that embed the library are impacted by the supply chain 
 Polyfill is a popular library that]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans LibreOffice (25 juin 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0518</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0518"/>
-        <updated>2024-06-25T11:34:44.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
