@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T06:44:53.746Z</updated>
+    <updated>2024-07-24T07:11:32.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers]]></title>
+        <id>https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html</id>
+        <link href="https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html"/>
+        <updated>2024-07-24T06:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched security flaw in the Microsoft Defender SmartScreen has been exploited as part of a new campaign designed to deliver information stealers such as ACR Stealer, Lumma, and Meduza.
+Fortinet FortiGuard Labs said it detected the stealer campaign targeting Spain, Thailand, and the U.S. using booby-trapped files that exploit CVE-2024-21412 (CVSS score: 8.1).
+The high-severity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List]]></title>
+        <id>https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html</id>
+        <link href="https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html"/>
+        <updated>2024-07-24T05:56:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerabilities are listed below -
+
+CVE-2012-4792 (CVSS score: 9.3) - Microsoft Internet Explorer Use-After-Free Vulnerability
+CVE-2024-39891 (CVSS score: 5.3) - Twilio Authy Information Disclosure]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Target Taiwan and US NGO with MgBot Malware]]></title>
         <id>https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html</id>

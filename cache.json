@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A now-patched security flaw in the Microsoft Defender SmartScreen has been exploited as part of a new campaign designed to deliver information stealers such as ACR Stealer, Lumma, and Meduza.\nFortinet FortiGuard Labs said it detected the stealer campaign targeting Spain, Thailand, and the U.S. using booby-trapped files that exploit CVE-2024-21412 (CVSS score: 8.1).\nThe high-severity",
+          "link": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
+          "publishedOn": "2024-07-24T06:15:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizz0kaqXAhW3u-1lEWYqMLjQMgigcohlWLxEte1RBeNSGXJNwFimDy4drLl4KrxY7omTHZ-TF2khRWK7JG9hEzE7nT4BglpE-zcyxQ-5_U3_GOEn7lz7fn-VCbVvC1_kGeHBEI8qqcqKp4VuQamXitAIt99Pnm5fHv6T72JBMu1jZfgqay99hXEo0EcC1M/s1600/hacing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizz0kaqXAhW3u-1lEWYqMLjQMgigcohlWLxEte1RBeNSGXJNwFimDy4drLl4KrxY7omTHZ-TF2khRWK7JG9hEzE7nT4BglpE-zcyxQ-5_U3_GOEn7lz7fn-VCbVvC1_kGeHBEI8qqcqKp4VuQamXitAIt99Pnm5fHv6T72JBMu1jZfgqay99hXEo0EcC1M/s1600/hacing.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2012-4792 (CVSS score: 9.3) - Microsoft Internet Explorer Use-After-Free Vulnerability\nCVE-2024-39891 (CVSS score: 5.3) - Twilio Authy Information Disclosure",
+          "link": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
+          "publishedOn": "2024-07-24T05:56:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoiIBnjqDe8Am7EBHqLdyTux0f0Tx8INnWxI63i-zfWOl7PqPjRiGDrrZNSGFJhY3tp16BwRsVTemn4zfNeunNjlyIYNEh83lns64LDB_yUrm0JbFNOSCccJVYa4YTfJrEd17_p0HCQR6cvQM7Xb8ZfdiWl4_vLgrM4xF6zXH9ntQLYQ8vTm7OiiM3AU6q/s1600/cisa.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoiIBnjqDe8Am7EBHqLdyTux0f0Tx8INnWxI63i-zfWOl7PqPjRiGDrrZNSGFJhY3tp16BwRsVTemn4zfNeunNjlyIYNEh83lns64LDB_yUrm0JbFNOSCccJVYa4YTfJrEd17_p0HCQR6cvQM7Xb8ZfdiWl4_vLgrM4xF6zXH9ntQLYQ8vTm7OiiM3AU6q/s1600/cisa.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/chinese-hackers-target-taiwan-and-us.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Organizations in Taiwan and a U.S. non-governmental organization (NGO) based in China have been targeted by a Beijing-affiliated state-sponsored hacking group called Daggerfly using an upgraded set of malware tools.\nThe campaign is a sign that the group \"also engages in internal espionage,\" Symantec's Threat Hunter Team, part of Broadcom, said in a new report published today. \"In the attack on",
