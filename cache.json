@@ -3725,36 +3725,6 @@
           "wordCount": 240,
           "title": "Vulnérabilité dans LibreOffice (25 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0517",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Citrix Secure Access client. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0517",
-          "publishedOn": "2024-06-25T07:04:59.000Z",
-          "wordCount": 286,
-          "title": "Vulnérabilité dans Citrix Secure Access client (25 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0516",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans WordPress. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0516",
-          "publishedOn": "2024-06-25T07:03:39.000Z",
-          "wordCount": 251,
-          "title": "Multiples vulnérabilités dans WordPress (25 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0515",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0515",
-          "publishedOn": "2024-06-25T06:58:05.000Z",
-          "wordCount": 261,
-          "title": "Multiples vulnérabilités dans Google Chrome (25 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
