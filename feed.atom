@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T09:12:16.245Z</updated>
+    <updated>2024-07-24T09:27:37.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CrowdStrike Explains Friday Incident Crashing Millions of Windows Devices]]></title>
+        <id>https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html</id>
+        <link href="https://thehackernews.com/2024/07/crowdstrike-explains-friday-windows.html"/>
+        <updated>2024-07-24T08:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity firm CrowdStrike on Wednesday blamed an issue in its validation system for causing millions of Windows devices to crash as part of a widespread outage late last week.
+"On Friday, July 19, 2024 at 04:09 UTC, as part of regular operations, CrowdStrike released a content configuration update for the Windows sensor to gather telemetry on possible novel threat techniques," the company]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers]]></title>
         <id>https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html</id>
