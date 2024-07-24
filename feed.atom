@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T16:44:27.590Z</updated>
+    <updated>2024-07-24T17:10:36.061Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3106,17 +3106,6 @@ Elastic Security Labs has codenamed the approach GrimResource after identifying 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikileaks' Julian Assange Released from U.K. Prison, Heads to Australia]]></title>
-        <id>https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html</id>
-        <link href="https://thehackernews.com/2024/06/wikileaks-julian-assange-released-from.html"/>
-        <updated>2024-06-25T05:03:00.000Z</updated>
-        <summary type="html"><![CDATA[WikiLeaks founder Julian Assange has been freed in the U.K. and has departed the country after serving more than five years in a maximum security prison at Belmarsh for what was described by the U.S. government as the "largest compromises of classified information in the history" of the country.
-Capping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal count of conspiring to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
