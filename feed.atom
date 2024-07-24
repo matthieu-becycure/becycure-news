@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T15:43:27.092Z</updated>
+    <updated>2024-07-24T16:14:24.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3115,17 +3115,6 @@ Elastic Security Labs has codenamed the approach GrimResource after identifying 
         <updated>2024-06-25T05:03:00.000Z</updated>
         <summary type="html"><![CDATA[WikiLeaks founder Julian Assange has been freed in the U.K. and has departed the country after serving more than five years in a maximum security prison at Belmarsh for what was described by the U.S. government as the "largest compromises of classified information in the history" of the country.
 Capping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal count of conspiring to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree]]></title>
-        <id>https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html</id>
-        <link href="https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html"/>
-        <updated>2024-06-25T03:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Four Vietnamese nationals with ties to the FIN9 cybercrime group have been indicted in the U.S. for their involvement in a series of computer intrusions that caused over $71 million in losses to companies.
-The defendants, Ta Van Tai (aka Quynh Hoa and Bich Thuy), Nguyen Viet Quoc (aka Tien Nguyen), Nguyen Trang Xuyen, and Nguyen Van Truong (aka Chung Nguyen), have been accused of conducting]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
