@@ -2180,22 +2180,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkl1mk3WZjakFSk8XfVwD7lbRDg-FI5lJyR0i5JJ-A9QlnI9u_Snz6nls07t0_vuiFdJwR1_Oe_-VVq70eZwdbv4r2Y61kHX6tRKlMGOp6nsSDNd8wI_sACO3WdZfgy77p-yiakgc54ztGkNrODns7E1Re_arO6VT6-8R1U6dlkSpTNZikaMso6iXQTcG2/s1600/code.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkl1mk3WZjakFSk8XfVwD7lbRDg-FI5lJyR0i5JJ-A9QlnI9u_Snz6nls07t0_vuiFdJwR1_Oe_-VVq70eZwdbv4r2Y61kHX6tRKlMGOp6nsSDNd8wI_sACO3WdZfgy77p-yiakgc54ztGkNrODns7E1Re_arO6VT6-8R1U6dlkSpTNZikaMso6iXQTcG2/s1600/code.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are exploiting a novel attack technique in the wild that leverages specially crafted management saved console (MSC) files to gain full code execution using Microsoft Management Console (MMC) and evade security defenses.\nElastic Security Labs has codenamed the approach GrimResource after identifying an artifact (\"sccm-updater.msc\") that was uploaded to the VirusTotal malware",
-          "link": "https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html",
-          "publishedOn": "2024-06-25T10:42:00.000Z",
-          "wordCount": null,
-          "title": "New Attack Technique Exploits Microsoft Management Console Files",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQRF2cq1eSn0coXjgDbG-psBCbd7fvhMQjuw1V1qvhSPyIb_wTAnhTPO_DfUIqPo6-2k8Z_MiwwrhfCfybI2qVTmE0Hw_mNLjyV1eD1WS6mRs-s_Ipx0nitYbulgHfedsaETvy4G2YRyHL0QBlMHCacSRnvd1o3YDFhKxF6yQUWeO-fLKGL0kcEY0Bs6I/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQRF2cq1eSn0coXjgDbG-psBCbd7fvhMQjuw1V1qvhSPyIb_wTAnhTPO_DfUIqPo6-2k8Z_MiwwrhfCfybI2qVTmE0Hw_mNLjyV1eD1WS6mRs-s_Ipx0nitYbulgHfedsaETvy4G2YRyHL0QBlMHCacSRnvd1o3YDFhKxF6yQUWeO-fLKGL0kcEY0Bs6I/s1600/ms.png"
         }
       ]
     },

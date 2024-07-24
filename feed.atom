@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T22:29:49.549Z</updated>
+    <updated>2024-07-24T22:43:40.088Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3044,17 +3044,6 @@ Polyfill is a popular library that]]></summary>
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Libreoffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Attack Technique Exploits Microsoft Management Console Files]]></title>
-        <id>https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html</id>
-        <link href="https://thehackernews.com/2024/06/new-attack-technique-exploits-microsoft.html"/>
-        <updated>2024-06-25T10:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are exploiting a novel attack technique in the wild that leverages specially crafted management saved console (MSC) files to gain full code execution using Microsoft Management Console (MMC) and evade security defenses.
-Elastic Security Labs has codenamed the approach GrimResource after identifying an artifact ("sccm-updater.msc") that was uploaded to the VirusTotal malware]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
