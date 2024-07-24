@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T12:56:53.928Z</updated>
+    <updated>2024-07-24T13:18:25.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram App Flaw Exploited to Spread Malware Hidden in Videos]]></title>
+        <id>https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html</id>
+        <link href="https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html"/>
+        <updated>2024-07-24T11:59:00.000Z</updated>
+        <summary type="html"><![CDATA[A zero-day security flaw in Telegram's mobile app for Android called EvilVideo made it possible for attackers to malicious files disguised as harmless-looking videos.
+The exploit appeared for sale for an unknown price in an underground forum on June 6, 2024, ESET said. Following responsible disclosure on June 26, the issue was addressed by Telegram in version 10.14.5 released on July 11.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How a Trust Center Solves Your Security Questionnaire Problem]]></title>
         <id>https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html</id>
