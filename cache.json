@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Security questionnaires aren’t just an inconvenience — they’re a recurring problem for security and sales teams.\nThey bleed time from organizations, filling the schedules of professionals with monotonous, automatable work. But what if there were a way to reduce or even altogether eliminate security questionnaires? The root problem isn’t a lack of great questionnaire products — it’s the",
+          "link": "https://thehackernews.com/2024/07/how-trust-center-solves-your-security.html",
+          "publishedOn": "2024-07-24T11:20:00.000Z",
+          "wordCount": null,
+          "title": "How a Trust Center Solves Your Security Questionnaire Problem",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dXkTTgVP3Y2CyZhXERlpPO17uN_gafDtKQAivxA6ayVxH7Xgfl-W4p0S358cuUqoVihOKVIMLqN0BWOAEonDgVyEsiy1Ku-b2jJo0Lfxx0YfighF5moc4FEvEIHw99FTp2DpE7xc3cEFhS3_VMbLY8O6Ar5krvIjlWUcBptzwNccH-t7bfMtEwSfvqw/s1600/safebase.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-dXkTTgVP3Y2CyZhXERlpPO17uN_gafDtKQAivxA6ayVxH7Xgfl-W4p0S358cuUqoVihOKVIMLqN0BWOAEonDgVyEsiy1Ku-b2jJo0Lfxx0YfighF5moc4FEvEIHw99FTp2DpE7xc3cEFhS3_VMbLY8O6Ar5krvIjlWUcBptzwNccH-t7bfMtEwSfvqw/s1600/safebase.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/how-to-reduce-saas-spend-and-risk.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "There is one simple driver behind the modern explosion in SaaS adoption: productivity. We have reached an era where purpose-built tools exist for almost every aspect of modern business and it’s incredibly easy (and tempting) for your workforce to adopt these tools without going through the formal IT approval and procurement process.\nBut this trend has also increased the attack surface—and with",
