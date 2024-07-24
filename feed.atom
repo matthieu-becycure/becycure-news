@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T15:28:27.114Z</updated>
+    <updated>2024-07-24T15:43:27.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3126,17 +3126,6 @@ Capping off a 14-year legal saga, Assange, 52, pleaded guilty to one criminal co
         <updated>2024-06-25T03:52:00.000Z</updated>
         <summary type="html"><![CDATA[Four Vietnamese nationals with ties to the FIN9 cybercrime group have been indicted in the U.S. for their involvement in a series of computer intrusions that caused over $71 million in losses to companies.
 The defendants, Ta Van Tai (aka Quynh Hoa and Bich Thuy), Nguyen Viet Quoc (aka Tien Nguyen), Nguyen Trang Xuyen, and Nguyen Van Truong (aka Chung Nguyen), have been accused of conducting]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple WordPress Plugins Compromised: Hackers Create Rogue Admin Accounts]]></title>
-        <id>https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html</id>
-        <link href="https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html"/>
-        <updated>2024-06-25T03:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple WordPress plugins have been backdoored to inject malicious code that makes it possible to create rogue administrator accounts with the aim of performing arbitrary actions.
-"The injected malware attempts to create a new administrative user account and then sends those details back to the attacker-controlled server," Wordfence security researcher Chloe Chamberland said in a Monday alert.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

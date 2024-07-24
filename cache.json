@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBOK75Wu-NVMURXtB631FNOXQDiky_bM4zb-mJNMGfaBz9LcCgbgl5cOmu4i__LWd_1NXq0D10Sa8RfmlsnDuUdn3g3aRBW_y-5R7lsJZ8U7AJleGDcmsHc1vVngKztcB6PqbYtL0RFs3JuP-eGaw5WP0qu1ekHeb0rVqWiyyBIEYioa6PDkSu7O1phZJX/s1600/fin-hacker.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBOK75Wu-NVMURXtB631FNOXQDiky_bM4zb-mJNMGfaBz9LcCgbgl5cOmu4i__LWd_1NXq0D10Sa8RfmlsnDuUdn3g3aRBW_y-5R7lsJZ8U7AJleGDcmsHc1vVngKztcB6PqbYtL0RFs3JuP-eGaw5WP0qu1ekHeb0rVqWiyyBIEYioa6PDkSu7O1phZJX/s1600/fin-hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple WordPress plugins have been backdoored to inject malicious code that makes it possible to create rogue administrator accounts with the aim of performing arbitrary actions.\n\"The injected malware attempts to create a new administrative user account and then sends those details back to the attacker-controlled server,\" Wordfence security researcher Chloe Chamberland said in a Monday alert.",
-          "link": "https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html",
-          "publishedOn": "2024-06-25T03:32:00.000Z",
-          "wordCount": null,
-          "title": "Multiple WordPress Plugins Compromised: Hackers Create Rogue Admin Accounts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRP63qpR4yIAwEfP6coCSE8G8dXz5hjoHx9epqVpX6-HNILrqlhD8777IYx2D9DEe8dADddCCr2ZRAJjlif-DPe_f57OlB_R-3GFdztBj3EQZwnZF52oVeU6maraZkQFtBKQeQ65qgekdgdv7lSnm7zePDbwNWJSdUXak7c5PF3iaCgaV6fbx0M8itu1BN/s1600/wordpress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRP63qpR4yIAwEfP6coCSE8G8dXz5hjoHx9epqVpX6-HNILrqlhD8777IYx2D9DEe8dADddCCr2ZRAJjlif-DPe_f57OlB_R-3GFdztBj3EQZwnZF52oVeU6maraZkQFtBKQeQ65qgekdgdv7lSnm7zePDbwNWJSdUXak7c5PF3iaCgaV6fbx0M8itu1BN/s1600/wordpress.png"
         }
       ]
     },
