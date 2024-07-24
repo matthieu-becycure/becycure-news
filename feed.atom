@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-24T21:26:17.918Z</updated>
+    <updated>2024-07-24T21:43:28.277Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3053,27 +3053,6 @@ Polyfill is a popular library that]]></summary>
         <updated>2024-06-25T10:42:00.000Z</updated>
         <summary type="html"><![CDATA[Threat actors are exploiting a novel attack technique in the wild that leverages specially crafted management saved console (MSC) files to gain full code execution using Microsoft Management Console (MMC) and evade security defenses.
 Elastic Security Labs has codenamed the approach GrimResource after identifying an artifact ("sccm-updater.msc") that was uploaded to the VirusTotal malware]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Cut Costs with a Browser Security Platform]]></title>
-        <id>https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html</id>
-        <link href="https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html"/>
-        <updated>2024-06-25T09:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Browser security is becoming increasingly popular, as organizations understand the need to protect at the point of risk - the browser. Network and endpoint solutions are limited in their ability to protect from web-borne threats like phishing websites or malicious browser extensions. They also do not protect from internal data exfiltration, like employees pasting sensitive data to ChatGPT. As it]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Cyberthreat 'Boolka' Deploying BMANAGER Trojan via SQLi Attacks]]></title>
-        <id>https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html</id>
-        <link href="https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html"/>
-        <updated>2024-06-25T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented threat actor dubbed Boolka has been observed compromising websites with malicious scripts to deliver a modular trojan codenamed BMANAGER.
-"The threat actor behind this campaign has been carrying out opportunistic SQL injection attacks against websites in various countries since at least 2022," Group-IB researchers Rustam Mirkasymov and Martijn van den Berk said in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

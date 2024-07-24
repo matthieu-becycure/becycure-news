@@ -2196,38 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQRF2cq1eSn0coXjgDbG-psBCbd7fvhMQjuw1V1qvhSPyIb_wTAnhTPO_DfUIqPo6-2k8Z_MiwwrhfCfybI2qVTmE0Hw_mNLjyV1eD1WS6mRs-s_Ipx0nitYbulgHfedsaETvy4G2YRyHL0QBlMHCacSRnvd1o3YDFhKxF6yQUWeO-fLKGL0kcEY0Bs6I/s1600/ms.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMQRF2cq1eSn0coXjgDbG-psBCbd7fvhMQjuw1V1qvhSPyIb_wTAnhTPO_DfUIqPo6-2k8Z_MiwwrhfCfybI2qVTmE0Hw_mNLjyV1eD1WS6mRs-s_Ipx0nitYbulgHfedsaETvy4G2YRyHL0QBlMHCacSRnvd1o3YDFhKxF6yQUWeO-fLKGL0kcEY0Bs6I/s1600/ms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Browser security is becoming increasingly popular, as organizations understand the need to protect at the point of risk - the browser. Network and endpoint solutions are limited in their ability to protect from web-borne threats like phishing websites or malicious browser extensions. They also do not protect from internal data exfiltration, like employees pasting sensitive data to ChatGPT. As it",
-          "link": "https://thehackernews.com/2024/06/how-to-cut-costs-with-browser-security.html",
-          "publishedOn": "2024-06-25T09:42:00.000Z",
-          "wordCount": null,
-          "title": "How to Cut Costs with a Browser Security Platform",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s1600/CISO.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz1e-1mF2zOgWjImIsQIeD7uVvB_j7SRURwNU0-vW6824hfmKx6rGLWlB6FtTGnX8WIh9zIHngsRLBQFlTUULzmmdgaH7pKI3C9EGZ4WJvL5hVJfFK_i62DilV6l4fTcBhedWf_ZD0k4_f-MnU2r_-POv5NQ2memUlRZU1AvWqfebu5W7t7JKUR8Kg9nBX/s1600/CISO.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented threat actor dubbed Boolka has been observed compromising websites with malicious scripts to deliver a modular trojan codenamed BMANAGER.\n\"The threat actor behind this campaign has been carrying out opportunistic SQL injection attacks against websites in various countries since at least 2022,\" Group-IB researchers Rustam Mirkasymov and Martijn van den Berk said in a",
-          "link": "https://thehackernews.com/2024/06/new-cyberthreat-boolka-deploying.html",
-          "publishedOn": "2024-06-25T09:30:00.000Z",
-          "wordCount": null,
-          "title": "New Cyberthreat 'Boolka' Deploying BMANAGER Trojan via SQLi Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEonycRa1XdHuMOsSdVfih6c69sQH1_ZZrA303tI_sDrpkQtyV2GJAwNQrh42sR8sC8GWQ9G-0PbKzmymspFViDp657z7rqFpgHtAG8p1R9YHOsRwTHdE3yQ6E-IzlzcSX5WXjBHF0ZBA3assjsc53HvxNbui1DY__p8vGn2JG78aCb6Lt6BVxNWT_yaPS/s1600/gib.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEonycRa1XdHuMOsSdVfih6c69sQH1_ZZrA303tI_sDrpkQtyV2GJAwNQrh42sR8sC8GWQ9G-0PbKzmymspFViDp657z7rqFpgHtAG8p1R9YHOsRwTHdE3yQ6E-IzlzcSX5WXjBHF0ZBA3assjsc53HvxNbui1DY__p8vGn2JG78aCb6Lt6BVxNWT_yaPS/s1600/gib.png"
         }
       ]
     },
