@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T05:43:42.294Z</updated>
+    <updated>2024-07-25T06:16:51.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins]]></title>
+        <id>https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html</id>
+        <link href="https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html"/>
+        <updated>2024-07-25T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Docker is warning of a critical flaw impacting certain versions of Docker Engine that could allow an attacker to sidestep authorization plugins (AuthZ) under specific circumstances.
+Tracked as CVE-2024-41110, the bypass and privilege escalation vulnerability carries a CVSS score of 10.0, indicating maximum severity.
+"An attacker could exploit a bypass using an API request with Content-Length set]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chrome Feature Scans Password-Protected Files for Malicious Content]]></title>
+        <id>https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html</id>
+        <link href="https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html"/>
+        <updated>2024-07-25T05:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Google said it's adding new security warnings when downloading potentially suspicious and malicious files via its Chrome web browser.
+"We have replaced our previous warning messages with more detailed ones that convey more nuance about the nature of the danger and can help users make more informed decisions," Jasika Bawa, Lily Chen, and Daniel Rubery from the Chrome Security team said.
+To that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Telegram App Flaw Exploited to Spread Malware Hidden in Videos]]></title>
         <id>https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html</id>

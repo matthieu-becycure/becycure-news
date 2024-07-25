@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Docker is warning of a critical flaw impacting certain versions of Docker Engine that could allow an attacker to sidestep authorization plugins (AuthZ) under specific circumstances.\nTracked as CVE-2024-41110, the bypass and privilege escalation vulnerability carries a CVSS score of 10.0, indicating maximum severity.\n\"An attacker could exploit a bypass using an API request with Content-Length set",
+          "link": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
+          "publishedOn": "2024-07-25T05:47:00.000Z",
+          "wordCount": null,
+          "title": "Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlnZVFYjopuxKbFc07dCazoDwkhl54bva_olPKxfsX8g972NfAyU0R6SXIbcAO7R4IolGtcWbHm_QTDkB10uVSGFQII2fO-bZydd2dMCcBKc1LebLgeuLhwIoFf6tQK7M9qKl4jQ8-1ganVP4Xcd4MTnHcgTNlRpnanGY7-SRAVuXh-pZpc_1emR1SXU9/s1600/docker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlnZVFYjopuxKbFc07dCazoDwkhl54bva_olPKxfsX8g972NfAyU0R6SXIbcAO7R4IolGtcWbHm_QTDkB10uVSGFQII2fO-bZydd2dMCcBKc1LebLgeuLhwIoFf6tQK7M9qKl4jQ8-1ganVP4Xcd4MTnHcgTNlRpnanGY7-SRAVuXh-pZpc_1emR1SXU9/s1600/docker.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google said it's adding new security warnings when downloading potentially suspicious and malicious files via its Chrome web browser.\n\"We have replaced our previous warning messages with more detailed ones that convey more nuance about the nature of the danger and can help users make more informed decisions,\" Jasika Bawa, Lily Chen, and Daniel Rubery from the Chrome Security team said.\nTo that",
+          "link": "https://thehackernews.com/2024/07/new-chrome-feature-scans-password.html",
+          "publishedOn": "2024-07-25T05:21:00.000Z",
+          "wordCount": null,
+          "title": "New Chrome Feature Scans Password-Protected Files for Malicious Content",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh2yEQVZo-75oYcocxSdkh_9ENH0aeHbq0x5ipKQKquwlaIQIcK2DcCWc7AEix2ow20N3LCKRa_NLJBiJ6SN5JIRVMoKHMzgeHmxLCMfpNf4EwDGK4ja0Vpq6BliuMDMsf7rdxIqIHVlQzR-67eYOdh0eDsshoYKRxjtjS4-I7oOmEA6iu9I7I6yeZegZm/s1600/google-chrome-zip-files.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh2yEQVZo-75oYcocxSdkh_9ENH0aeHbq0x5ipKQKquwlaIQIcK2DcCWc7AEix2ow20N3LCKRa_NLJBiJ6SN5JIRVMoKHMzgeHmxLCMfpNf4EwDGK4ja0Vpq6BliuMDMsf7rdxIqIHVlQzR-67eYOdh0eDsshoYKRxjtjS4-I7oOmEA6iu9I7I6yeZegZm/s1600/google-chrome-zip-files.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/telegram-app-flaw-exploited-to-spread.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A zero-day security flaw in Telegram's mobile app for Android called EvilVideo made it possible for attackers to malicious files disguised as harmless-looking videos.\nThe exploit appeared for sale for an unknown price in an underground forum on June 6, 2024, ESET said. Following responsible disclosure on June 26, the issue was addressed by Telegram in version 10.14.5 released on July 11.\n\"",
