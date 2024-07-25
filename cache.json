@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMeIQJNCXLWs5yMYJaBRbsp7Rcw6qBTwW29CbA3NQoW_HYkVT7Rvbbgc5daJaUjjLfa-3MrZiOhfEh502Y9dfVcSTD87oOUWJQcUEpI-J1D3-YxiLtlz3ML5-7h-WOprwLy4giEy64gyWdSvWXGHF6sAxurQ5UDsJhznVJZe_TGhU8pksbZ5Jm9JlTwfGj/s1600/android-1.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMeIQJNCXLWs5yMYJaBRbsp7Rcw6qBTwW29CbA3NQoW_HYkVT7Rvbbgc5daJaUjjLfa-3MrZiOhfEh502Y9dfVcSTD87oOUWJQcUEpI-J1D3-YxiLtlz3ML5-7h-WOprwLy4giEy64gyWdSvWXGHF6sAxurQ5UDsJhznVJZe_TGhU8pksbZ5Jm9JlTwfGj/s1600/android-1.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/over-110000-websites-affected-by.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has taken steps to block ads for e-commerce sites that use the Polyfill.io service after a Chinese company acquired the domain and modified the JavaScript library (\"polyfill.js\") to redirect users to malicious and scam sites.\nMore than 110,000 sites that embed the library are impacted by the supply chain attack, Sansec said in a Tuesday report.\nPolyfill is a popular library that",
-          "link": "https://thehackernews.com/2024/06/over-110000-websites-affected-by.html",
-          "publishedOn": "2024-06-26T04:24:00.000Z",
-          "wordCount": null,
-          "title": "Over 110,000 Websites Affected by Hijacked Polyfill Supply Chain Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkl1mk3WZjakFSk8XfVwD7lbRDg-FI5lJyR0i5JJ-A9QlnI9u_Snz6nls07t0_vuiFdJwR1_Oe_-VVq70eZwdbv4r2Y61kHX6tRKlMGOp6nsSDNd8wI_sACO3WdZfgy77p-yiakgc54ztGkNrODns7E1Re_arO6VT6-8R1U6dlkSpTNZikaMso6iXQTcG2/s1600/code.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkl1mk3WZjakFSk8XfVwD7lbRDg-FI5lJyR0i5JJ-A9QlnI9u_Snz6nls07t0_vuiFdJwR1_Oe_-VVq70eZwdbv4r2Y61kHX6tRKlMGOp6nsSDNd8wI_sACO3WdZfgy77p-yiakgc54ztGkNrODns7E1Re_arO6VT6-8R1U6dlkSpTNZikaMso6iXQTcG2/s1600/code.png"
         }
       ]
     },

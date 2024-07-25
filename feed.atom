@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T16:14:54.164Z</updated>
+    <updated>2024-07-25T16:35:05.390Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3140,18 +3140,6 @@ According to Sucuri, the latest campaign entails making malicious modifications 
         <updated>2024-06-26T07:38:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated version of an Android banking trojan called Medusa that has been used to target users in Canada, France, Italy, Spain, Turkey, the U.K., and the U.S.
 The new fraud campaigns, observed in May 2024 and active since July 2023, manifested through five different botnets operated by various affiliates, cybersecurity firm Cleafy said in an analysis]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over 110,000 Websites Affected by Hijacked Polyfill Supply Chain Attack]]></title>
-        <id>https://thehackernews.com/2024/06/over-110000-websites-affected-by.html</id>
-        <link href="https://thehackernews.com/2024/06/over-110000-websites-affected-by.html"/>
-        <updated>2024-06-26T04:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has taken steps to block ads for e-commerce sites that use the Polyfill.io service after a Chinese company acquired the domain and modified the JavaScript library ("polyfill.js") to redirect users to malicious and scam sites.
-More than 110,000 sites that embed the library are impacted by the supply chain attack, Sansec said in a Tuesday report.
-Polyfill is a popular library that]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
