@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7hP4252zlITVj65LxdmnzpZ9qSz4TeTil4GIUdJnNdb6vqeUMTX5OQLHOM6ltX2aCLfvYZPG8-mwf4GO418ab0f2CTa9XsFcxcXGiRbTMfAuVyV1tZg0vgkNiFXc6hDN6Dd1oLyzWNkkHTAV-HrjBXXIKWUvmYlfuxeoKIhXBL5QAo-A_fjpu4xMCJA5/s1600/software-security.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu7hP4252zlITVj65LxdmnzpZ9qSz4TeTil4GIUdJnNdb6vqeUMTX5OQLHOM6ltX2aCLfvYZPG8-mwf4GO418ab0f2CTa9XsFcxcXGiRbTMfAuVyV1tZg0vgkNiFXc6hDN6Dd1oLyzWNkkHTAV-HrjBXXIKWUvmYlfuxeoKIhXBL5QAo-A_fjpu4xMCJA5/s1600/software-security.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Apple has released a firmware update for AirPods that could allow a malicious actor to gain access to the headphones in an unauthorized manner.\nTracked as CVE-2024-27867, the authentication issue affects AirPods (2nd generation and later), AirPods Pro (all models), AirPods Max, Powerbeats Pro, and Beats Fit Pro.\n\"When your headphones are seeking a connection request to one of your previously",
-          "link": "https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html",
-          "publishedOn": "2024-06-26T09:36:00.000Z",
-          "wordCount": null,
-          "title": "Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJAwphWLF3_GGn_j-daSmFgoCWEwkR5znfb1SRwXP1dwz_0b70CK1Xv_HwLF6lfgQP4YCEKKmI6Wfgc6hyJXHAmEb8NanAw2KcPzCAGy4rMWRlhulKUmnGMXBuGN3E0p55J7CZLE0IqvAIcjf-UVuoIMhuy18eX8hGTBRDOjDyURjua2lH_Zv2x2z_NgZz/s1600/apple.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJAwphWLF3_GGn_j-daSmFgoCWEwkR5znfb1SRwXP1dwz_0b70CK1Xv_HwLF6lfgQP4YCEKKmI6Wfgc6hyJXHAmEb8NanAw2KcPzCAGy4rMWRlhulKUmnGMXBuGN3E0p55J7CZLE0IqvAIcjf-UVuoIMhuy18eX8hGTBRDOjDyURjua2lH_Zv2x2z_NgZz/s1600/apple.png"
         }
       ]
     },

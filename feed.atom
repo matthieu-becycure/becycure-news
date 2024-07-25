@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T21:25:46.275Z</updated>
+    <updated>2024-07-25T21:43:51.142Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3095,18 +3095,6 @@ While one cluster of activity has been associated with the ChamelGang (aka CamoF
         <link href="https://thehackernews.com/2024/06/practical-guidance-for-securing-your.html"/>
         <updated>2024-06-26T09:52:00.000Z</updated>
         <summary type="html"><![CDATA[The heightened regulatory and legal pressure on software-producing organizations to secure their supply chains and ensure the integrity of their software should come as no surprise. In the last several years, the software supply chain has become an increasingly attractive target for attackers who see opportunities to force-multiply their attacks by orders of magnitude. For example, look no]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping]]></title>
-        <id>https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html</id>
-        <link href="https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html"/>
-        <updated>2024-06-26T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple has released a firmware update for AirPods that could allow a malicious actor to gain access to the headphones in an unauthorized manner.
-Tracked as CVE-2024-27867, the authentication issue affects AirPods (2nd generation and later), AirPods Pro (all models), AirPods Max, Powerbeats Pro, and Beats Fit Pro.
-"When your headphones are seeking a connection request to one of your previously]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
