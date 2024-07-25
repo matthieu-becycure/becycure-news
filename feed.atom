@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T14:43:47.996Z</updated>
+    <updated>2024-07-25T15:11:53.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Shift from Cyber Espionage to Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html</id>
+        <link href="https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html"/>
+        <updated>2024-07-25T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A North Korea-linked threat actor known for its cyber espionage operations has gradually expanded into financially-motivated attacks that involve the deployment of ransomware, setting it apart from other nation-state hacking groups linked to the country.
+Google-owned Mandiant is tracking the activity cluster under a new moniker APT45, which overlaps with names such as Andariel, Nickel Hyatt,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Types of Applications Security Testing You Must Know About]]></title>
         <id>https://thehackernews.com/2024/07/6-types-of-applications-security.html</id>
