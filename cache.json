@@ -3783,16 +3783,6 @@
           "wordCount": 382,
           "title": "Multiples vulnérabilités dans les produits Progress (26 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0519",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0519",
-          "publishedOn": "2024-06-26T07:54:10.000Z",
-          "wordCount": 451,
-          "title": "Multiples vulnérabilités dans les produits VMware (26 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
