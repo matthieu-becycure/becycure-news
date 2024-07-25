@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T11:23:35.109Z</updated>
+    <updated>2024-07-25T11:43:26.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Types of Applications Security Testing You Must Know About]]></title>
+        <id>https://thehackernews.com/2024/07/6-types-of-applications-security.html</id>
+        <link href="https://thehackernews.com/2024/07/6-types-of-applications-security.html"/>
+        <updated>2024-07-25T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[While the specifics for security testing vary for applications, web applications, and APIs, a holistic and proactive applications security strategy is essential for all three types. There are six core types of testing that every security professional should know about to secure their applications, regardless of what phase they are in in development or deployment. 
+In this article, we will]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta Removes 63,000 Instagram Accounts Linked to Nigerian Sextortion Scams]]></title>
+        <id>https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html</id>
+        <link href="https://thehackernews.com/2024/07/meta-removes-63000-instagram-accounts.html"/>
+        <updated>2024-07-25T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta Platforms on Wednesday said it took steps to remove around 63,000 Instagram accounts in Nigeria that were found to target people with financial sextortion scams.
+"These included a smaller coordinated network of around 2,500 accounts that we were able to link to a group of around 20 individuals," the company said. "They targeted primarily adult men in the U.S. and used fake accounts to mask]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar: Securing the Modern Workspace: What Enterprises MUST Know about Enterprise Browser Security]]></title>
         <id>https://thehackernews.com/2024/07/webinar-securing-modern-workspace-what.html</id>
