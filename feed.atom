@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T20:26:56.516Z</updated>
+    <updated>2024-07-25T20:43:36.517Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3107,18 +3107,6 @@ While one cluster of activity has been associated with the ChamelGang (aka CamoF
         <summary type="html"><![CDATA[Apple has released a firmware update for AirPods that could allow a malicious actor to gain access to the headphones in an unauthorized manner.
 Tracked as CVE-2024-27867, the authentication issue affects AirPods (2nd generation and later), AirPods Pro (all models), AirPods Max, Powerbeats Pro, and Beats Fit Pro.
 "When your headphones are seeking a connection request to one of your previously]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Credit Card Skimmer Targets WordPress, Magento, and OpenCart Sites]]></title>
-        <id>https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html</id>
-        <link href="https://thehackernews.com/2024/06/new-credit-card-skimmer-targets.html"/>
-        <updated>2024-06-26T08:37:00.000Z</updated>
-        <summary type="html"><![CDATA[Multiple content management system (CMS) platforms like WordPress, Magento, and OpenCart have been targeted by a new credit card web skimmer called Caesar Cipher Skimmer.
-A web skimmer refers to malware that is injected into e-commerce sites with the goal of stealing financial and payment information. 
-According to Sucuri, the latest campaign entails making malicious modifications to the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
