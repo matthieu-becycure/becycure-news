@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T22:11:35.000Z</updated>
+    <updated>2024-07-25T22:30:04.048Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3076,17 +3076,6 @@ From 2023.1.0 before 2023.1.6, and&]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Progress. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese and N. Korean Hackers Target Global Infrastructure with Ransomware]]></title>
-        <id>https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html</id>
-        <link href="https://thehackernews.com/2024/06/chinese-and-n-korean-hackers-target.html"/>
-        <updated>2024-06-26T10:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors with suspected ties to China and North Korea have been linked to ransomware and data encryption attacks targeting government and critical infrastructure sectors across the world between 2021 and 2023.
-While one cluster of activity has been associated with the ChamelGang (aka CamoFei), the second cluster overlaps with activity previously attributed to Chinese and North Korean]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
