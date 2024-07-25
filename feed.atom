@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-25T19:23:25.393Z</updated>
+    <updated>2024-07-25T19:43:28.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3131,17 +3131,6 @@ According to Sucuri, the latest campaign entails making malicious modifications 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Medusa Android Trojan Targets Banking Users Across 7 Countries]]></title>
-        <id>https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html</id>
-        <link href="https://thehackernews.com/2024/06/new-medusa-android-trojan-targets.html"/>
-        <updated>2024-06-26T07:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated version of an Android banking trojan called Medusa that has been used to target users in Canada, France, Italy, Spain, Turkey, the U.K., and the U.S.
-The new fraud campaigns, observed in May 2024 and active since July 2023, manifested through five different botnets operated by various affiliates, cybersecurity firm Cleafy said in an analysis]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
