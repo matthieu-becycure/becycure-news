@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Progress Software is urging users to update their Telerik Report Server instances following the discovery of a critical security flaw that could result in remote code execution.\nThe vulnerability, tracked as CVE-2024-6327 (CVSS score: 9.9), impacts Report Server version 2024 Q2 (10.1.24.514) and earlier.\n\"In Progress Telerik Report Server versions prior to 2024 Q2 (10.1.24.709), a remote code",
+          "link": "https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html",
+          "publishedOn": "2024-07-26T04:10:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEk5OJde2Bknocbc8Rmu6TJfhCVcS3BpI8I3ypFyGJx4kAPET9FVp7dlkFaC1dQ9qgcZgPlyzgatXR9VaT2oqhwKVkoocz6MuD5cS5QNMRpRL0hAoplG80rQAnElZyhNOXnqfcJCDVy_uU9oF3XyEzIZPyz7-g8qNuDK6AQMC5JxxTRFzPq1q1EG-YxPzL/s1600/server.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEk5OJde2Bknocbc8Rmu6TJfhCVcS3BpI8I3ypFyGJx4kAPET9FVp7dlkFaC1dQ9qgcZgPlyzgatXR9VaT2oqhwKVkoocz6MuD5cS5QNMRpRL0hAoplG80rQAnElZyhNOXnqfcJCDVy_uU9oF3XyEzIZPyz7-g8qNuDK6AQMC5JxxTRFzPq1q1EG-YxPzL/s1600/server.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/north-korean-hackers-shift-from-cyber.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A North Korea-linked threat actor known for its cyber espionage operations has gradually expanded into financially-motivated attacks that involve the deployment of ransomware, setting it apart from other nation-state hacking groups linked to the country.\nGoogle-owned Mandiant is tracking the activity cluster under a new moniker APT45, which overlaps with names such as Andariel, Nickel Hyatt,",
