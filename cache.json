@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_X2ZnzHQIsDTSS40n9p37vBYLQWpIC6dJ8j3ZE-tn-4STu0vrgsyH0rykQSDimvTKbNN9OlqxV_tM9BcLpmBA5YYoJlz8ktg_wuZhI3orXqZa5fE9NNtSRxWr3W2DY-_s5_9HTJ7H6_Ovb1lVCz839eOxTdFHzIw0FCCNrYtgzhCP6mG9F0SBgfkJq7lo/s1600/russian-hacer.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_X2ZnzHQIsDTSS40n9p37vBYLQWpIC6dJ8j3ZE-tn-4STu0vrgsyH0rykQSDimvTKbNN9OlqxV_tM9BcLpmBA5YYoJlz8ktg_wuZhI3orXqZa5fE9NNtSRxWr3W2DY-_s5_9HTJ7H6_Ovb1lVCz839eOxTdFHzIw0FCCNrYtgzhCP6mG9F0SBgfkJq7lo/s1600/russian-hacer.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw has been disclosed in Fortra FileCatalyst Workflow that, if left unpatched, could allow an attacker to tamper with the application database.\nTracked as CVE-2024-5276, the vulnerability carries a CVSS score of 9.8. It impacts FileCatalyst Workflow versions 5.1.6 Build 135 and earlier. It has been addressed in version 5.1.6 build 139.\n\"An SQL injection vulnerability in",
-          "link": "https://thehackernews.com/2024/06/critical-sqli-vulnerability-found-in.html",
-          "publishedOn": "2024-06-27T06:45:00.000Z",
-          "wordCount": null,
-          "title": "Critical SQLi Vulnerability Found in Fortra FileCatalyst Workflow Application",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbpwi1_RXTxOJ8Yx3CTmrjDiV4wSpGP8vP-4pxWHlZzlQsC_OIaxOJWlAvOm_OxwJ3wu_qHJz5wYW4PdzVxQ84zOQwAM7-H0MHvxyRIlFRTixY4kbvjt5t4dF2doxgv3QYwiBQBujpSURb4P9PnSRKTa3wAezad9f7inB9UFPj2SVNPN25wKuxwYK0OzH/s1600/forta.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFbpwi1_RXTxOJ8Yx3CTmrjDiV4wSpGP8vP-4pxWHlZzlQsC_OIaxOJWlAvOm_OxwJ3wu_qHJz5wYW4PdzVxQ84zOQwAM7-H0MHvxyRIlFRTixY4kbvjt5t4dF2doxgv3QYwiBQBujpSURb4P9PnSRKTa3wAezad9f7inB9UFPj2SVNPN25wKuxwYK0OzH/s1600/forta.png"
         }
       ]
     },
@@ -3848,16 +3832,6 @@
           "publishedOn": "2024-06-27T11:53:02.000Z",
           "wordCount": 374,
           "title": "Vulnérabilité dans OpenSSL (27 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0521",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0521",
-          "publishedOn": "2024-06-27T06:48:17.000Z",
-          "wordCount": 448,
-          "title": "Multiples vulnérabilités dans GitLab (27 juin 2024)",
           "imageUrl": null
         }
       ]
