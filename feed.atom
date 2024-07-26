@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-26T20:43:47.456Z</updated>
+    <updated>2024-07-26T21:10:49.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3144,17 +3144,6 @@ The development marks the threat's transition from what appeared to be a dormant
         <link href="https://thehackernews.com/2024/06/how-to-use-python-to-build-secure.html"/>
         <updated>2024-06-27T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[Did you know it’s now possible to build blockchain applications, known also as decentralized applications (or “dApps” for short) in native Python? Blockchain development has traditionally required learning specialized languages, creating a barrier for many developers… until now. AlgoKit, an all-in-one development toolkit for Algorand, enables developers to build blockchain applications in pure]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks]]></title>
-        <id>https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html</id>
-        <link href="https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html"/>
-        <updated>2024-06-27T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a high-severity security flaw in the Vanna.AI library that could be exploited to achieve remote code execution vulnerability via prompt injection techniques.
-The vulnerability, tracked as CVE-2024-5565 (CVSS score: 8.1), relates to a case of prompt injection in the "ask" function that could be exploited to trick the library into executing arbitrary]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQdFF4NwIupADuemHQsLFYBNZpQ_oQTLiMO_4lqtpIUFwj3Vitd7F0AO520JYFPmGtrm4eNMNFwo6H-taTtw5EYZcbWmT-wGgp8LAfFM3XoEG-x11gUUzAauQQZdahgV5c5rE-pWBq3SF1Hr6x80I3F7rt0-NclOAd6W_5faGLYU1XsLbD_skapxnrq3E/s1600/algo.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAQdFF4NwIupADuemHQsLFYBNZpQ_oQTLiMO_4lqtpIUFwj3Vitd7F0AO520JYFPmGtrm4eNMNFwo6H-taTtw5EYZcbWmT-wGgp8LAfFM3XoEG-x11gUUzAauQQZdahgV5c5rE-pWBq3SF1Hr6x80I3F7rt0-NclOAd6W_5faGLYU1XsLbD_skapxnrq3E/s1600/algo.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed a high-severity security flaw in the Vanna.AI library that could be exploited to achieve remote code execution vulnerability via prompt injection techniques.\nThe vulnerability, tracked as CVE-2024-5565 (CVSS score: 8.1), relates to a case of prompt injection in the \"ask\" function that could be exploited to trick the library into executing arbitrary",
-          "link": "https://thehackernews.com/2024/06/prompt-injection-flaw-in-vanna-ai.html",
-          "publishedOn": "2024-06-27T09:04:00.000Z",
-          "wordCount": null,
-          "title": "Prompt Injection Flaw in Vanna AI Exposes Databases to RCE Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGuPYo-5KyF4wC-K3bmayC0zb3KL17OU-FEumFfBIXbNO4UKJsvniP7WSl2zaC6bswn2HQ53kF4HyzAAz3-mLLO-hsOCtNejMmesXR8VcA5JXF37mPH3RfkhTS39u8L8UKHL3z-bpaMQqPPcuqvKWU2f7EyWFTmkYEXv1KPjwuMBp_jdRPPt3ciIZIqoX/s1600/code.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvGuPYo-5KyF4wC-K3bmayC0zb3KL17OU-FEumFfBIXbNO4UKJsvniP7WSl2zaC6bswn2HQ53kF4HyzAAz3-mLLO-hsOCtNejMmesXR8VcA5JXF37mPH3RfkhTS39u8L8UKHL3z-bpaMQqPPcuqvKWU2f7EyWFTmkYEXv1KPjwuMBp_jdRPPt3ciIZIqoX/s1600/code.png"
         }
       ]
     },
