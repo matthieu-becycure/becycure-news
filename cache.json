@@ -3709,16 +3709,6 @@
           "wordCount": 448,
           "title": "Multiples vulnérabilités dans GitLab (27 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0520",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Progress. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0520",
-          "publishedOn": "2024-06-26T11:52:08.000Z",
-          "wordCount": 382,
-          "title": "Multiples vulnérabilités dans les produits Progress (26 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
