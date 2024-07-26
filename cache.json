@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A Spanish-speaking cybercrime group named GXC Team has been observed bundling phishing kits with malicious Android applications, taking malware-as-a-service (MaaS) offerings to the next level.\nSingaporean cybersecurity company Group-IB, which has been tracking the e-crime actor since January 2023, described the crimeware solution as a \"sophisticated AI-powered phishing-as-a-service platform\"",
+          "link": "https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html",
+          "publishedOn": "2024-07-26T13:17:00.000Z",
+          "wordCount": null,
+          "title": "This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfBi4u67nrpP6XeY0hFleULqlLppGYh2uh4pTdpgq_i-kC9KRZmJRNW_JwTGkASO5MMin3AAO-3GiXc3QtkeC8tpKU3yfQ25JwZgnDAyRYFFnwYLQaxg9GrjpM0XzMhiucrPh9n44N2nL47hhHOsjZkY_AXZ42ATDDlOvBpbZSh2Dmy3FbF7G5AvqRyXs/s1600/phishing-attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfBi4u67nrpP6XeY0hFleULqlLppGYh2uh4pTdpgq_i-kC9KRZmJRNW_JwTGkASO5MMin3AAO-3GiXc3QtkeC8tpKU3yfQ25JwZgnDAyRYFFnwYLQaxg9GrjpM0XzMhiucrPh9n44N2nL47hhHOsjZkY_AXZ42ATDDlOvBpbZSh2Dmy3FbF7G5AvqRyXs/s1600/phishing-attack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "\"Peace is the virtue of civilization. War is its crime. Yet it is often in the furnace of war that the sharpest tools of peace are forged.\" - Victor Hugo.\nIn 1971, an unsettling message started appearing on several computers that comprised ARPANET, the precursor to what we now know as the Internet. The message, which read \"I'm the Creeper: catch me if you can.\" was the output of a program named",

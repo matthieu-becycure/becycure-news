@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-26T13:28:39.498Z</updated>
+    <updated>2024-07-26T13:43:26.899Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps]]></title>
+        <id>https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html</id>
+        <link href="https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html"/>
+        <updated>2024-07-26T13:17:00.000Z</updated>
+        <summary type="html"><![CDATA[A Spanish-speaking cybercrime group named GXC Team has been observed bundling phishing kits with malicious Android applications, taking malware-as-a-service (MaaS) offerings to the next level.
+Singaporean cybersecurity company Group-IB, which has been tracking the e-crime actor since January 2023, described the crimeware solution as a "sophisticated AI-powered phishing-as-a-service platform"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Offensive AI: The Sine Qua Non of Cybersecurity]]></title>
         <id>https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html</id>
