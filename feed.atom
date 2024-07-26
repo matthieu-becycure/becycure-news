@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-26T19:23:26.110Z</updated>
+    <updated>2024-07-26T19:43:57.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3155,17 +3155,6 @@ The development marks the threat's transition from what appeared to be a dormant
         <updated>2024-06-27T09:04:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a high-severity security flaw in the Vanna.AI library that could be exploited to achieve remote code execution vulnerability via prompt injection techniques.
 The vulnerability, tracked as CVE-2024-5565 (CVSS score: 8.1), relates to a case of prompt injection in the "ask" function that could be exploited to trick the library into executing arbitrary]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian National Indicted for Cyber Attacks on Ukraine Before 2022 Invasion]]></title>
-        <id>https://thehackernews.com/2024/06/russian-national-indicted-for-cyber.html</id>
-        <link href="https://thehackernews.com/2024/06/russian-national-indicted-for-cyber.html"/>
-        <updated>2024-06-27T07:41:00.000Z</updated>
-        <summary type="html"><![CDATA[A 22-year-old Russian national has been indicted in the U.S. for his alleged role in staging destructive cyber attacks against Ukraine and its allies in the days leading to Russia's full-blown military invasion of Ukraine in early 2022.
-Amin Timovich Stigal, the defendant in question, is assessed to be affiliated with the Main Directorate of the General Staff of the Armed Forces of the Russian]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
