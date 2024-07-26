@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-26T23:25:44.761Z</updated>
+    <updated>2024-07-26T23:43:34.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3126,16 +3126,6 @@ The development marks the threat's transition from what appeared to be a dormant
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secrets of Hidden AI Training on Your Data]]></title>
-        <id>https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html</id>
-        <link href="https://thehackernews.com/2024/06/the-secrets-of-hidden-ai-training-on.html"/>
-        <updated>2024-06-27T11:40:00.000Z</updated>
-        <summary type="html"><![CDATA[While some SaaS threats are clear and visible, others are hidden in plain sight, both posing significant risks to your organization. Wing's research indicates that an astounding 99.7% of organizations utilize applications embedded with AI functionalities. These AI-driven tools are indispensable, providing seamless experiences from collaboration and communication to work management and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
