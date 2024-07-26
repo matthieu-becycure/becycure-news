@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-26T02:44:17.109Z</updated>
+    <updated>2024-07-26T03:13:42.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3050,20 +3050,6 @@ Amin Timovich Stigal, the defendant in question, is assessed to be affiliated wi
         <summary type="html"><![CDATA[A critical security flaw has been disclosed in Fortra FileCatalyst Workflow that, if left unpatched, could allow an attacker to tamper with the application database.
 Tracked as CVE-2024-5276, the vulnerability carries a CVSS score of 9.8. It impacts FileCatalyst Workflow versions 5.1.6 Build 135 and earlier. It has been addressed in version 5.1.6 build 139.
 "An SQL injection vulnerability in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New MOVEit Transfer Vulnerability Under Active Exploitation - Patch ASAP!]]></title>
-        <id>https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html</id>
-        <link href="https://thehackernews.com/2024/06/new-moveit-transfer-vulnerability-under.html"/>
-        <updated>2024-06-26T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly disclosed critical security flaw impacting Progress Software MOVEit Transfer is already seeing exploitation attempts in the wild shortly after details of the bug were publicly disclosed.
-The vulnerability, tracked as CVE-2024-5806 (CVSS score: 9.1), concerns an authentication bypass that impacts the following versions -
-
-From 2023.0.0 before 2023.0.11
-From 2023.1.0 before 2023.1.6, and&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
