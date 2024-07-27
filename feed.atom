@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-27T17:10:12.760Z</updated>
+    <updated>2024-07-27T17:26:50.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3116,18 +3116,6 @@ According to operational technology (OT) security firm Claroty, the]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeamViewer Detects Security Breach in Corporate IT Environment]]></title>
-        <id>https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html</id>
-        <link href="https://thehackernews.com/2024/06/teamviewer-detects-security-breach-in.html"/>
-        <updated>2024-06-28T05:22:00.000Z</updated>
-        <summary type="html"><![CDATA[TeamViewer on Thursday disclosed it detected an "irregularity" in its internal corporate IT environment on June 26, 2024.
-"We immediately activated our response team and procedures, started investigations together with a team of globally renowned cyber security experts and implemented necessary remediation measures," the company said in a statement.
-It further noted that its corporate IT]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
