@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-27T22:43:24.591Z</updated>
+    <updated>2024-07-27T23:12:28.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3050,18 +3050,6 @@ The most severe of the]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combatting the Evolving SaaS Kill Chain: How to Stay Ahead of Threat Actors]]></title>
-        <id>https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html</id>
-        <link href="https://thehackernews.com/2024/06/combatting-evolving-saas-kill-chain-how.html"/>
-        <updated>2024-06-28T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The modern kill chain is eluding enterprises because they aren’t protecting the infrastructure of modern business: SaaS. 
-SaaS continues to dominate software adoption, and it accounts for the greatest share of public cloud spending. But enterprises and SMBs alike haven’t revised their security programs or adopted security tooling built for SaaS. 
-Security teams keep jamming on-prem]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
