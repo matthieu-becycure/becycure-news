@@ -3729,16 +3729,6 @@
           "wordCount": 5143,
           "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0525",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0525",
-          "publishedOn": "2024-06-28T07:34:16.000Z",
-          "wordCount": 404,
-          "title": "Multiples vulnérabilités dans les produits Juniper Networks (28 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
