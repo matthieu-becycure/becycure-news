@@ -2196,22 +2196,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8DY3ew_Eq1pkeHzI-My28IZ1Adb0hcHPPI9qRvTOTsdIwRr9DK0EloYmjP1Q6IWh2Wsr9GLTUMW8zjCWRuJobFy5umrzSpbcTjhSU6wBtNdip7LavOjCSNXFTry8okA6omXD6WctwslxhN2tyTkJy-VoQiC5RI57zqs9Wr8crbSPxOAn2Xr2PgShnk3xo/s1600/teamviewer.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8DY3ew_Eq1pkeHzI-My28IZ1Adb0hcHPPI9qRvTOTsdIwRr9DK0EloYmjP1Q6IWh2Wsr9GLTUMW8zjCWRuJobFy5umrzSpbcTjhSU6wBtNdip7LavOjCSNXFTry8okA6omXD6WctwslxhN2tyTkJy-VoQiC5RI57zqs9Wr8crbSPxOAn2Xr2PgShnk3xo/s1600/teamviewer.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The peer-to-peer malware botnet known as P2PInfect has been found targeting misconfigured Redis servers with ransomware and cryptocurrency miners.\nThe development marks the threat's transition from what appeared to be a dormant botnet with unclear motives to a financially motivated operation.\n\"With its latest updates to the crypto miner, ransomware payload, and rootkit elements, it demonstrates",
-          "link": "https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html",
-          "publishedOn": "2024-06-27T14:31:00.000Z",
-          "wordCount": null,
-          "title": "Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56V_GGsq2WoLqpNDvCvck4OQWUed9D-9bSfjHbcEiN3-IYXI8JZUMp-X55zNGyQ6it9tGkaadcBdqNj9TPnRjwhIMMP4kkKjCJyuXQG6scs8DDqUAv4CRuJH5D-wHBWs15wTNASUL1L-MXSrYL4bIk1RYMKxVlFeTEvVmWKjuBT6UfsfRIaMBFwjJkEie/s1600/botnet.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi56V_GGsq2WoLqpNDvCvck4OQWUed9D-9bSfjHbcEiN3-IYXI8JZUMp-X55zNGyQ6it9tGkaadcBdqNj9TPnRjwhIMMP4kkKjCJyuXQG6scs8DDqUAv4CRuJH5D-wHBWs15wTNASUL1L-MXSrYL4bIk1RYMKxVlFeTEvVmWKjuBT6UfsfRIaMBFwjJkEie/s1600/botnet.png"
         }
       ]
     },

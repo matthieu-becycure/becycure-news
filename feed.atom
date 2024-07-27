@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-27T01:58:47.883Z</updated>
+    <updated>2024-07-27T02:33:34.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3102,18 +3102,6 @@ According to operational technology (OT) security firm Claroty, the]]></summary>
         <summary type="html"><![CDATA[TeamViewer on Thursday disclosed it detected an "irregularity" in its internal corporate IT environment on June 26, 2024.
 "We immediately activated our response team and procedures, started investigations together with a team of globally renowned cyber security experts and implemented necessary remediation measures," the company said in a statement.
 It further noted that its corporate IT]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust-Based P2PInfect Botnet Evolves with Miner and Ransomware Payloads]]></title>
-        <id>https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html</id>
-        <link href="https://thehackernews.com/2024/06/rust-based-p2pinfect-botnet-evolves.html"/>
-        <updated>2024-06-27T14:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The peer-to-peer malware botnet known as P2PInfect has been found targeting misconfigured Redis servers with ransomware and cryptocurrency miners.
-The development marks the threat's transition from what appeared to be a dormant botnet with unclear motives to a financially motivated operation.
-"With its latest updates to the crypto miner, ransomware payload, and rootkit elements, it demonstrates]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
