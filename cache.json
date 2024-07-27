@@ -3671,16 +3671,6 @@
           "wordCount": 2314,
           "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (28 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0526",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0526",
-          "publishedOn": "2024-06-28T11:37:28.000Z",
-          "wordCount": 5143,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
