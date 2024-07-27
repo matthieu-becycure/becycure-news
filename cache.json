@@ -3759,16 +3759,6 @@
           "wordCount": 439,
           "title": "Multiples vulnérabilités dans Microsoft Edge (28 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0522",
-          "publishedOn": "2024-06-27T11:53:02.000Z",
-          "wordCount": 374,
-          "title": "Vulnérabilité dans OpenSSL (27 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
