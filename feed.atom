@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-27T05:43:27.676Z</updated>
+    <updated>2024-07-27T06:14:19.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials]]></title>
+        <id>https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html</id>
+        <link href="https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html"/>
+        <updated>2024-07-27T05:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that targets Apple macOS systems with the goal of stealing users' Google Cloud credentials from a narrow pool of victims.
+The package, named "lr-utils-lib," attracted a total of 59 downloads before it was taken down. It was uploaded to the registry in early June 2024.
+"The malware uses a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This AI-Powered Cybercrime Service Bundles Phishing Kits with Malicious Android Apps]]></title>
         <id>https://thehackernews.com/2024/07/spanish-hackers-bundle-phishing-kits.html</id>
