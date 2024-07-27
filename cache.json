@@ -3739,26 +3739,6 @@
           "wordCount": 404,
           "title": "Multiples vulnérabilités dans les produits Juniper Networks (28 juin 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0524",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0524",
-          "publishedOn": "2024-06-28T07:08:36.000Z",
-          "wordCount": 403,
-          "title": "Multiples vulnérabilités dans les produits VMware (28 juin 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0523",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0523",
-          "publishedOn": "2024-06-28T06:58:58.000Z",
-          "wordCount": 439,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (28 juin 2024)",
-          "imageUrl": null
         }
       ]
     }
