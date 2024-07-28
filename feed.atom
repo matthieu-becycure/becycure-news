@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-28T04:13:09.534Z</updated>
+    <updated>2024-07-28T04:29:46.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2974,17 +2974,6 @@ The vulnerability, tracked as CVE-2024-2973, carries a CVSS score of 10.0, indic
         <updated>2024-06-29T14:44:00.000Z</updated>
         <summary type="html"><![CDATA[Google has announced that it's going to start blocking websites that use certificates from Entrust starting around November 1, 2024, in its Chrome browser, citing compliance failures and the certificate authority's inability to address security issues in a timely manner.
 "Over the past several years, publicly disclosed incident reports highlighted a pattern of concerning behaviors by Entrust]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimsuky Using TRANSLATEXT Chrome Extension to Steal Sensitive Data]]></title>
-        <id>https://thehackernews.com/2024/06/kimsuky-using-translatext-chrome.html</id>
-        <link href="https://thehackernews.com/2024/06/kimsuky-using-translatext-chrome.html"/>
-        <updated>2024-06-28T16:19:00.000Z</updated>
-        <summary type="html"><![CDATA[The North Korea-linked threat actor known as Kimsuky has been linked to the use of a new malicious Google Chrome extension that's designed to steal sensitive information as part of an ongoing intelligence collection effort.
-Zscaler ThreatLabz, which observed the activity in early March 2024, has codenamed the extension TRANSLATEXT, highlighting its ability to gather email addresses, usernames,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
