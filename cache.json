@@ -2132,22 +2132,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_kwktX1toHL5GllD765RdOWh0ux4KliVGccMGDi1u7dCA0ARZRUxdMCGQVICQ0SY55zIjcF-Sv2zndx2x4ZD1ixjCxkgTVBa8UjucDlTolU38XaDTKNqZZzHehioMzcq7WnzedDugkHzUrJYha_Aab8V3O2wAvELJpWzzOZBTAHG4eGGsXjRx-5WYKMrz/s1600/north.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_kwktX1toHL5GllD765RdOWh0ux4KliVGccMGDi1u7dCA0ARZRUxdMCGQVICQ0SY55zIjcF-Sv2zndx2x4ZD1ixjCxkgTVBa8UjucDlTolU38XaDTKNqZZzHehioMzcq7WnzedDugkHzUrJYha_Aab8V3O2wAvELJpWzzOZBTAHG4eGGsXjRx-5WYKMrz/s1600/north.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitLab has released security updates to address 14 security flaws, including one critical vulnerability that could be exploited to run continuous integration and continuous deployment (CI/CD) pipelines as any user.\nThe weaknesses, which affect GitLab Community Edition (CE) and Enterprise Edition (EE), have been addressed in versions 17.1.1, 17.0.3, and 16.11.5.\nThe most severe of the",
-          "link": "https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html",
-          "publishedOn": "2024-06-28T14:18:00.000Z",
-          "wordCount": null,
-          "title": "GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s1600/gitlab.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOh53J6S3C1ZTZueDIjvkYq4zo4tUseFTzzlX-NV3ZEVAQ9twbDqe-7CQIzauJ670ow9_3XAJi6ixnQhI0_aTjeeuaRSZR2-MV9qubUUoQ1G7DlXmy4qeANMFCQst-MxBK22Ig8trQ4QOjYUCoDkfx0uj3NafKOregsOUJCVMWEGuKGJsbCO6lYj2pdpSo/s1600/gitlab.jpg"
         }
       ]
     },

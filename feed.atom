@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-28T02:08:25.302Z</updated>
+    <updated>2024-07-28T02:45:45.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2985,18 +2985,6 @@ The vulnerability, tracked as CVE-2024-2973, carries a CVSS score of 10.0, indic
         <updated>2024-06-28T16:19:00.000Z</updated>
         <summary type="html"><![CDATA[The North Korea-linked threat actor known as Kimsuky has been linked to the use of a new malicious Google Chrome extension that's designed to steal sensitive information as part of an ongoing intelligence collection effort.
 Zscaler ThreatLabz, which observed the activity in early March 2024, has codenamed the extension TRANSLATEXT, highlighting its ability to gather email addresses, usernames,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Releases Patch for Critical CI/CD Pipeline Vulnerability and 13 Others]]></title>
-        <id>https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html</id>
-        <link href="https://thehackernews.com/2024/06/gitlab-releases-patch-for-critical-cicd.html"/>
-        <updated>2024-06-28T14:18:00.000Z</updated>
-        <summary type="html"><![CDATA[GitLab has released security updates to address 14 security flaws, including one critical vulnerability that could be exploited to run continuous integration and continuous deployment (CI/CD) pipelines as any user.
-The weaknesses, which affect GitLab Community Edition (CE) and Enterprise Edition (EE), have been addressed in versions 17.1.1, 17.0.3, and 16.11.5.
-The most severe of the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
