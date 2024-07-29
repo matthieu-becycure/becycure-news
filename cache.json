@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Searchable Encryption has long been a mystery. An oxymoron. An unattainable dream of cybersecurity professionals everywhere.\nOrganizations know they must encrypt their most valuable, sensitive data to prevent data theft and breaches. They also understand that organizational data exists to be used. To be searched, viewed, and modified to keep businesses running. Unfortunately, our Network and",
+          "link": "https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html",
+          "publishedOn": "2024-07-29T10:40:00.000Z",
+          "wordCount": null,
+          "title": "How Searchable Encryption Changes the Data Security Game",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaNFfZoX58KrOoNAln3Gcc2jtXo1cc6BSpmTM4PPfOweryzPVPpxWTbi87vUxQDyFxvjjt1OhIuKxU1lPhz-iJAvp2EoLKjb9EPC5b4I4tFR-Jp18eUUFm0PENSfj-EyuNXOo4hMrfknF0rRUb-hlzB5ZcmUZ6fVdGkwR7uKRSV31R4cyl0LgGlFTYicA/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaNFfZoX58KrOoNAln3Gcc2jtXo1cc6BSpmTM4PPfOweryzPVPpxWTbi87vUxQDyFxvjjt1OhIuKxU1lPhz-iJAvp2EoLKjb9EPC5b4I4tFR-Jp18eUUFm0PENSfj-EyuNXOo4hMrfknF0rRUb-hlzB5ZcmUZ6fVdGkwR7uKRSV31R4cyl0LgGlFTYicA/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/stargazer-goblin-creates-3000-fake.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A threat actor known as Stargazer Goblin has set up a network of inauthentic GitHub accounts to fuel a Distribution-as-a-Service (DaaS) that propagates a variety of information-stealing malware and netting them $100,000 in illicit profits over the past year.\nThe network, which comprises over 3,000 accounts on the cloud-based code hosting platform, spans thousands of repositories that are used to",
