@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-29T07:25:25.473Z</updated>
+    <updated>2024-07-29T07:43:52.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA['Stargazer Goblin' Creates 3,000 Fake GitHub Accounts for Malware Spread]]></title>
+        <id>https://thehackernews.com/2024/07/stargazer-goblin-creates-3000-fake.html</id>
+        <link href="https://thehackernews.com/2024/07/stargazer-goblin-creates-3000-fake.html"/>
+        <updated>2024-07-29T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[A threat actor known as Stargazer Goblin has set up a network of inauthentic GitHub accounts to fuel a Distribution-as-a-Service (DaaS) that propagates a variety of information-stealing malware and netting them $100,000 in illicit profits over the past year.
+The network, which comprises over 3,000 accounts on the cloud-based code hosting platform, spans thousands of repositories that are used to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site]]></title>
         <id>https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html</id>
