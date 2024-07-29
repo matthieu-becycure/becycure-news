@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-29T02:04:39.756Z</updated>
+    <updated>2024-07-29T02:46:57.368Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2963,17 +2963,6 @@ The vulnerability has been assigned the CVE identifier CVE-2024-6387. It resides
         <summary type="html"><![CDATA[Juniper Networks has released out-of-band security updates to address a critical security flaw that could lead to an authentication bypass in some of its routers.
 The vulnerability, tracked as CVE-2024-2973, carries a CVSS score of 10.0, indicating maximum severity.
 “An Authentication Bypass Using an Alternate Path or Channel vulnerability in Juniper Networks Session Smart Router or Conductor]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google to Block Entrust Certificates in Chrome Starting November 2024]]></title>
-        <id>https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html</id>
-        <link href="https://thehackernews.com/2024/06/google-to-block-entrust-certificates-in.html"/>
-        <updated>2024-06-29T14:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced that it's going to start blocking websites that use certificates from Entrust starting around November 1, 2024, in its Chrome browser, citing compliance failures and the certificate authority's inability to address security issues in a timely manner.
-"Over the past several years, publicly disclosed incident reports highlighted a pattern of concerning behaviors by Entrust]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
