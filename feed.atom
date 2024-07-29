@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-29T17:10:50.100Z</updated>
+    <updated>2024-07-29T17:27:06.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaw in Acronis Cyber Infrastructure Exploited in the Wild]]></title>
+        <id>https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html</id>
+        <link href="https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html"/>
+        <updated>2024-07-29T16:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity company Acronis is warning that a now-patched critical security flaw impacting its Cyber Infrastructure (ACI) product has been exploited in the wild.
+The vulnerability, tracked as CVE-2023-45249 (CVSS score: 9.8), concerns a case of remote code execution that stems from the use of default passwords.
+The flaw impacts the following versions of Acronis Cyber Infrastructure (ACI) -
+
+&]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails]]></title>
         <id>https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html</id>
