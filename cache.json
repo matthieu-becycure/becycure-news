@@ -2244,38 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3F4I4kTQervEmNdQ9tVrLuQ7z5ZYXephppp4xroXfWj7dh8Od0fhCbyaCIhxkvZ5OkUZpHo7DlRCm5BM3cXa1bIy10yAyU_0HEpMrHQlCqkWpg3KK8krcXJshsW8m-61g4Z5JuJ9PZEdph47pOvk-FSYnywTwh1lGXSUMfi2MfUp-y9_CKs1UNyIAkrH/s1600/code.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-3F4I4kTQervEmNdQ9tVrLuQ7z5ZYXephppp4xroXfWj7dh8Od0fhCbyaCIhxkvZ5OkUZpHo7DlRCm5BM3cXa1bIy10yAyU_0HEpMrHQlCqkWpg3KK8krcXJshsW8m-61g4Z5JuJ9PZEdph47pOvk-FSYnywTwh1lGXSUMfi2MfUp-y9_CKs1UNyIAkrH/s1600/code.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "At the heart of every application are secrets. Credentials that allow human-to-machine and machine-to-machine communication. Machine identities outnumber human identities by a factor of 45-to-1 and represent the majority of secrets we need to worry about. According to CyberArk's recent research, 93% of organizations had two or more identity-related breaches in the past year. It is clear that we",
-          "link": "https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html",
-          "publishedOn": "2024-07-01T10:51:00.000Z",
-          "wordCount": null,
-          "title": "End-to-End Secrets Security: Making a Plan to Secure Your Machine Identities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPDQjFUUw2KlZCfxrfaRWuZmMagyWQDE6oHkUhRpgFozMh5jwlJp6PlGZNniJr8-Y8pOLA8Liyd70BQQ0UNPEfsHQfmnat5uAWgT5DH-txK9SQL_25K1ejGmBMRXfXoEfV-Lt8cNL0Bu1eY6XAyDf6gjsgQvRRDLUIeWMkuDI5ML2uJJ86dcDtRyMFw4/s1600/git-key.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOPDQjFUUw2KlZCfxrfaRWuZmMagyWQDE6oHkUhRpgFozMh5jwlJp6PlGZNniJr8-Y8pOLA8Liyd70BQQ0UNPEfsHQfmnat5uAWgT5DH-txK9SQL_25K1ejGmBMRXfXoEfV-Lt8cNL0Bu1eY6XAyDf6gjsgQvRRDLUIeWMkuDI5ML2uJJ86dcDtRyMFw4/s1600/git-key.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "OpenSSH maintainers have released security updates to contain a critical security flaw that could result in unauthenticated remote code execution with root privileges in glibc-based Linux systems.\nThe vulnerability has been assigned the CVE identifier CVE-2024-6387. It resides in the OpenSSH server component, also known as sshd, which is designed to listen for connections from any of the client",
-          "link": "https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html",
-          "publishedOn": "2024-07-01T10:50:00.000Z",
-          "wordCount": null,
-          "title": "New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJZmepRP53Koxe2N6HDYIHwWZgt-biwfTYnO8YtZIrgZU3KS-Yvp55cWLbqM9Byqb8CwpRW022Hk2RVTr8WlOOEA4muPXpqvzF83Ksr49PqjSDFwJ_V1RsduldXkLcBV7aGqfcMv4FCQ-i5qKCLSMB4QmRIStTJQVvIA71YcwuuVWbv9S3CdEOpBXAYS/s1600/ssh.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamJZmepRP53Koxe2N6HDYIHwWZgt-biwfTYnO8YtZIrgZU3KS-Yvp55cWLbqM9Byqb8CwpRW022Hk2RVTr8WlOOEA4muPXpqvzF83Ksr49PqjSDFwJ_V1RsduldXkLcBV7aGqfcMv4FCQ-i5qKCLSMB4QmRIStTJQVvIA71YcwuuVWbv9S3CdEOpBXAYS/s1600/ssh.png"
         }
       ]
     },

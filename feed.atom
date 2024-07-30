@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-30T22:43:47.599Z</updated>
+    <updated>2024-07-30T23:10:35.529Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3080,27 +3080,6 @@ The installers correspond to Notezilla, RecentX, and Copywhiz, according to cybe
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End-to-End Secrets Security: Making a Plan to Secure Your Machine Identities]]></title>
-        <id>https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html</id>
-        <link href="https://thehackernews.com/2024/07/end-to-end-secrets-security-making-plan.html"/>
-        <updated>2024-07-01T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[At the heart of every application are secrets. Credentials that allow human-to-machine and machine-to-machine communication. Machine identities outnumber human identities by a factor of 45-to-1 and represent the majority of secrets we need to worry about. According to CyberArk's recent research, 93% of organizations had two or more identity-related breaches in the past year. It is clear that we]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New OpenSSH Vulnerability Could Lead to RCE as Root on Linux Systems]]></title>
-        <id>https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html</id>
-        <link href="https://thehackernews.com/2024/07/new-openssh-vulnerability-could-lead-to.html"/>
-        <updated>2024-07-01T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenSSH maintainers have released security updates to contain a critical security flaw that could result in unauthenticated remote code execution with root privileges in glibc-based Linux systems.
-The vulnerability has been assigned the CVE identifier CVE-2024-6387. It resides in the OpenSSH server component, also known as sshd, which is designed to listen for connections from any of the client]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
