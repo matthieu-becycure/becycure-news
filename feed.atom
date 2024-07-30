@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-30T08:15:11.670Z</updated>
+    <updated>2024-07-30T08:30:10.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries]]></title>
+        <id>https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html</id>
+        <link href="https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html"/>
+        <updated>2024-07-30T07:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The nation-state threat actor known as SideWinder has been attributed to a new cyber espionage campaign targeting ports and maritime facilities in the Indian Ocean and Mediterranean Sea.
+The BlackBerry Research and Intelligence Team, which discovered the activity, said targets of the spear-phishing campaign include countries like Pakistan, Egypt, Sri Lanka, Bangladesh, Myanmar, Nepal, and the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OneDrive Phishing Scam Tricks Users into Running Malicious PowerShell Script]]></title>
         <id>https://thehackernews.com/2024/07/onedrive-phishing-scam-tricks-users.html</id>
