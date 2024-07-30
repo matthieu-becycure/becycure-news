@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-30T11:10:47.691Z</updated>
+    <updated>2024-07-30T11:24:23.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware]]></title>
+        <id>https://thehackernews.com/2024/07/cybercriminals-target-polish-businesses.html</id>
+        <link href="https://thehackernews.com/2024/07/cybercriminals-target-polish-businesses.html"/>
+        <updated>2024-07-30T11:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have detailed widespread phishing campaigns targeting small and medium-sized businesses (SMBs) in Poland during May 2024 that led to the deployment of several malware families like Agent Tesla, Formbook, and Remcos RAT.
+Some of the other regions targeted by the campaigns include Italy and Romania, according to cybersecurity firm ESET.
+"Attackers used previously]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Threat Intelligence: Illuminating the Deep, Dark Cybercriminal Underground]]></title>
+        <id>https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html</id>
+        <link href="https://thehackernews.com/2024/07/cyber-threat-intelligence-illuminating.html"/>
+        <updated>2024-07-30T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn about critical threats that can impact your organization and the bad actors behind them from Cybersixgill’s threat experts. Each story shines a light on underground activities, the threat actors involved, and why you should care, along with what you can do to mitigate risk. 
+The deep and dark web, otherwise known as the cybercriminal underground, is where malicious actors gather to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New SideWinder Cyber Attacks Target Maritime Facilities in Multiple Countries]]></title>
         <id>https://thehackernews.com/2024/07/new-sidewinder-cyber-attacks-target.html</id>
