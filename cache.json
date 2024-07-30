@@ -3721,16 +3721,6 @@
           "wordCount": 568,
           "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0531",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans OpenSSH. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0531",
-          "publishedOn": "2024-07-01T11:19:21.000Z",
-          "wordCount": 353,
-          "title": "Multiples vulnérabilités dans OpenSSH (01 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
