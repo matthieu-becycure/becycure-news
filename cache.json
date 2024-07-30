@@ -3763,26 +3763,6 @@
           "wordCount": 353,
           "title": "Multiples vulnérabilités dans OpenSSH (01 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0530",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0530",
-          "publishedOn": "2024-07-01T08:07:18.000Z",
-          "wordCount": 413,
-          "title": "Multiples vulnérabilités dans les produits NetApp (01 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-028",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-028",
-          "publishedOn": "2024-07-01T07:47:27.000Z",
-          "wordCount": 1229,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-028 (01 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
