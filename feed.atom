@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T11:09:38.549Z</updated>
+    <updated>2024-07-31T11:24:14.645Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware]]></title>
+        <id>https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html</id>
+        <link href="https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html"/>
+        <updated>2024-07-31T11:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Japanese organizations are the target of a Chinese nation-state threat actor that leverages malware families like LODEINFO and NOOPDOOR to harvest sensitive information from compromised hosts while stealthily remaining under the radar in some cases for a time period ranging from two to three years.
+Israeli cybersecurity company Cybereason is tracking the campaign under the name Cuckoo Spear,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Get the Most From Your Security Team’s Email Alert Budget]]></title>
+        <id>https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html</id>
+        <link href="https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html"/>
+        <updated>2024-07-31T10:42:00.000Z</updated>
+        <summary type="html"><![CDATA[We’ll TL;DR the FUDdy introduction: we all know that phishing attacks are on the rise in scale and complexity, that AI is enabling more sophisticated attacks that evade traditional defenses, and the never-ending cybersecurity talent gap means we’re all struggling to keep security teams fully staffed. 
+Given that reality, security teams need to be able to monitor and respond to threats]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes]]></title>
         <id>https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html</id>

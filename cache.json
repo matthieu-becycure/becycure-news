@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Japanese organizations are the target of a Chinese nation-state threat actor that leverages malware families like LODEINFO and NOOPDOOR to harvest sensitive information from compromised hosts while stealthily remaining under the radar in some cases for a time period ranging from two to three years.\nIsraeli cybersecurity company Cybereason is tracking the campaign under the name Cuckoo Spear,",
+          "link": "https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html",
+          "publishedOn": "2024-07-31T11:01:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizy76J-dAi-Dj7lYtZh6E83lyancxK9cRYHgP4SycvdsvImULBYDbI2OHrTgDh4VL3o1lpvduEDUjqSF0XkdFNGbniKkITuTt9ajPY0dCo3tjyaJst2wWr_zpa5k56pJOty_6nRuszAYf81bDXxDDpQsoOH3_SF9xj2U7_TQXScPrfXMOgyUGE65r2z3G/s1600/pc.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhizy76J-dAi-Dj7lYtZh6E83lyancxK9cRYHgP4SycvdsvImULBYDbI2OHrTgDh4VL3o1lpvduEDUjqSF0XkdFNGbniKkITuTt9ajPY0dCo3tjyaJst2wWr_zpa5k56pJOty_6nRuszAYf81bDXxDDpQsoOH3_SF9xj2U7_TQXScPrfXMOgyUGE65r2z3G/s1600/pc.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "We’ll TL;DR the FUDdy introduction: we all know that phishing attacks are on the rise in scale and complexity, that AI is enabling more sophisticated attacks that evade traditional defenses, and the never-ending cybersecurity talent gap means we’re all struggling to keep security teams fully staffed. \nGiven that reality, security teams need to be able to monitor and respond to threats",
+          "link": "https://thehackernews.com/2024/07/how-to-get-most-from-your-security.html",
+          "publishedOn": "2024-07-31T10:42:00.000Z",
+          "wordCount": null,
+          "title": "How To Get the Most From Your Security Team’s Email Alert Budget",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3KIk6deQGi2m8fKZKOfOHue4p4LVkYyWU0dRwYvteDeoTOirEehkl2ZNCCMQZewom_aAUC_OcWRDhYUF5arDIuz4beJ-sOkWCope7iYDSyTHHTqtmv2c-qVskm-FDel-G1FFb49JKJXzMKR40Veobh4hPeQ0Z38iUyeH7BgmLfy8d_ksXICaeIPoCpDc/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new malicious campaign has been observed making use of malicious Android apps to steal users' SMS messages since at least February 2022 as part of a large-scale campaign.\nThe malicious apps, spanning over 107,000 unique samples, are designed to intercept one-time passwords (OTPs) used for online account verification to commit identity fraud.\n\"Of those 107,000 malware samples, over 99,000 of",
