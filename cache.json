@@ -3707,16 +3707,6 @@
           "wordCount": 489,
           "title": "Multiples vulnérabilités dans Google Android (03 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0535",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0535",
-          "publishedOn": "2024-07-02T09:10:31.000Z",
-          "wordCount": 864,
-          "title": "Multiples vulnérabilités dans les produits Splunk (02 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
