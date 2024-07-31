@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T09:43:38.057Z</updated>
+    <updated>2024-07-31T10:09:52.492Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes]]></title>
+        <id>https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html</id>
+        <link href="https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html"/>
+        <updated>2024-07-31T10:01:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malicious campaign has been observed making use of malicious Android apps to steal users' SMS messages since at least February 2022 as part of a large-scale campaign.
+The malicious apps, spanning over 107,000 unique samples, are designed to intercept one-time passwords (OTPs) used for online account verification to commit identity fraud.
+"Of those 107,000 malware samples, over 99,000 of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyber Espionage Group XDSpy Targets Companies in Russia and Moldova]]></title>
+        <id>https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html</id>
+        <link href="https://thehackernews.com/2024/07/cyber-espionage-group-xdspy-targets.html"/>
+        <updated>2024-07-31T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Companies in Russia and Moldova have been the target of a phishing campaign orchestrated by a little-known cyber espionage group known as XDSpy.
+The findings come from cybersecurity firm F.A.C.C.T., which said the infection chains lead to the deployment of a malware called DSDownloader. The activity was observed this month, it added.
+XDSpy is a threat actor of indeterminate origin that was first]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection]]></title>
         <id>https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html</id>
