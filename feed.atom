@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T04:11:39.871Z</updated>
+    <updated>2024-07-31T04:26:16.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3015,17 +3015,6 @@ The vulnerability, tracked as CVE-2024-20399 (CVSS score: 6.0), concerns a case 
         <updated>2024-07-02T04:29:00.000Z</updated>
         <summary type="html"><![CDATA[An Australian man has been charged with running a fake Wi-Fi access point during a domestic flight with an aim to steal user credentials and data.
 The unnamed 42-year-old "allegedly established fake free Wi-Fi access points, which mimicked legitimate networks, to capture personal data from unsuspecting victims who mistakenly connected to them," the Australian Federal Police (AFP) said in a press]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaws in CocoaPods Expose iOS and macOS Apps to Supply Chain Attacks]]></title>
-        <id>https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html</id>
-        <link href="https://thehackernews.com/2024/07/critical-flaws-in-cocoapods-expose-ios.html"/>
-        <updated>2024-07-01T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[A trio of security flaws has been uncovered in the CocoaPods dependency manager for Swift and Objective-C Cocoa projects that could be exploited to stage software supply chain attacks, putting downstream customers at severe risks.
-The vulnerabilities allow "any malicious actor to claim ownership over thousands of unclaimed pods and insert malicious code into many of the most popular iOS and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
