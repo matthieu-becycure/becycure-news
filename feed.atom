@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T22:43:46.444Z</updated>
+    <updated>2024-07-31T23:11:25.840Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3032,16 +3032,6 @@ The campaign, believed to be highly targeted in nature, "leverage target-specifi
         <updated>2024-07-03T03:33:00.000Z</updated>
         <summary type="html"><![CDATA[An unnamed South Korean enterprise resource planning (ERP) vendor's product update server has been found to be compromised to deliver a Go-based backdoor dubbed Xctdoor.
 The AhnLab Security Intelligence Center (ASEC), which identified the attack in May 2024, did not attribute it to a known threat actor or group, but noted that the tactics overlap with that of Andariel, a sub-cluster within the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How MFA Failures are Fueling a 500% Surge in Ransomware Losses]]></title>
-        <id>https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html</id>
-        <link href="https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html"/>
-        <updated>2024-07-02T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The cybersecurity threat landscape has witnessed a dramatic and alarming rise in the average ransomware payment, an increase exceeding 500%. Sophos, a global leader in cybersecurity, revealed in its annual "State of Ransomware 2024" report that the average ransom payment has increased 500% in the last year with organizations that paid a ransom reporting an average payment of $2 million, up from]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
