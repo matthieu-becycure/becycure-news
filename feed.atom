@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T13:29:30.125Z</updated>
+    <updated>2024-07-31T13:43:25.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korea-Linked Malware Targets Developers on Windows, Linux, and macOS]]></title>
+        <id>https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html</id>
+        <link href="https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html"/>
+        <updated>2024-07-31T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind an ongoing malware campaign targeting software developers have demonstrated new malware and tactics, expanding their focus to include Windows, Linux, and macOS systems.
+The activity cluster, dubbed DEV#POPPER and linked to North Korea, has been found to have singled out victims across South Korea, North America, Europe, and the Middle East.
+"This form of attack is an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware]]></title>
         <id>https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html</id>
