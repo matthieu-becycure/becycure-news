@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T00:44:30.397Z</updated>
+    <updated>2024-07-31T01:38:41.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3028,37 +3028,6 @@ The unnamed 42-year-old "allegedly established fake free Wi-Fi access points, wh
 The vulnerabilities allow "any malicious actor to claim ownership over thousands of unclaimed pods and insert malicious code into many of the most popular iOS and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CapraRAT Spyware Disguised as Popular Apps Threatens Android Users]]></title>
-        <id>https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html</id>
-        <link href="https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html"/>
-        <updated>2024-07-01T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as Transparent Tribe has continued to unleash malware-laced Android apps as part of a social engineering campaign to target individuals of interest.
-"These APKs continue the group's trend of embedding spyware into curated video browsing applications, with a new expansion targeting mobile gamers, weapons enthusiasts, and TikTok fans," SentinelOne security researcher Alex]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans OpenSSH (01 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/</id>
-        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/"/>
-        <updated>2024-07-01T12:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans OpenSSH (01 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009</id>
-        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009"/>
-        <updated>2024-07-01T12:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

@@ -2212,22 +2212,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4XMLqZptCkn7ifIbKGNRWsYao93PQLI_x3x8VZigNo90bYOFGmw4jFFboOxaUu6Qvb2pXPGk_s6FEaz17DOyhSYIQ2ptN60p6yN5WJHX6I5PoAWaZaCHjJTOnsk3QoGzNOp16Nd8dw9C3RRfC4Pis3Ia0Z9jY5TdQ8anlENDdRuRzNGvjfnKayb-rEMJ/s1600/Supply-Chain-Attack.gif"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy4XMLqZptCkn7ifIbKGNRWsYao93PQLI_x3x8VZigNo90bYOFGmw4jFFboOxaUu6Qvb2pXPGk_s6FEaz17DOyhSYIQ2ptN60p6yN5WJHX6I5PoAWaZaCHjJTOnsk3QoGzNOp16Nd8dw9C3RRfC4Pis3Ia0Z9jY5TdQ8anlENDdRuRzNGvjfnKayb-rEMJ/s1600/Supply-Chain-Attack.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actor known as Transparent Tribe has continued to unleash malware-laced Android apps as part of a social engineering campaign to target individuals of interest.\n\"These APKs continue the group's trend of embedding spyware into curated video browsing applications, with a new expansion targeting mobile gamers, weapons enthusiasts, and TikTok fans,\" SentinelOne security researcher Alex",
-          "link": "https://thehackernews.com/2024/07/caprarat-spyware-disguised-as-popular.html",
-          "publishedOn": "2024-07-01T13:00:00.000Z",
-          "wordCount": null,
-          "title": "CapraRAT Spyware Disguised as Popular Apps Threatens Android Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU4ISPkb4I9mBvScSZZXu5z-uFde93jyAL5gTjvqAZYQnBQAPUb8ycK_aMDThGoFkduhSpJJB_c7DUeL9ID-u6-ZCAhWywL2rQyKDoson93LLeg89RVTCBP-wUWoKec2_ivs-z38EpFiGymQENVz55Kb8I2xKUGv0GoglhfQQDvSjOtDyNJLhTrL-k6u4w/s1600/android-spyware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgU4ISPkb4I9mBvScSZZXu5z-uFde93jyAL5gTjvqAZYQnBQAPUb8ycK_aMDThGoFkduhSpJJB_c7DUeL9ID-u6-ZCAhWywL2rQyKDoson93LLeg89RVTCBP-wUWoKec2_ivs-z38EpFiGymQENVz55Kb8I2xKUGv0GoglhfQQDvSjOtDyNJLhTrL-k6u4w/s1600/android-spyware.png"
         }
       ]
     },
@@ -3684,26 +3668,6 @@
           "publishedOn": "2024-07-02T07:55:50.000Z",
           "wordCount": 357,
           "title": "Vulnérabilité dans Cisco NX-OS (02 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
-          "author": null,
-          "description": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009/",
-          "publishedOn": "2024-07-01T12:56:56.000Z",
-          "wordCount": 594,
-          "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009",
-          "author": null,
-          "description": "Le 1 juillet 2024, OpenSSH a publié un avis de sécurité concernant la vulnérabilité critique CVE-2024-6387. Cette vulnérabilité permet à un attaquant non authentifié d'exécuter du code arbitraire à distance avec les privilèges *root*. L'éditeur précise que les versions 8.5p1 à 9.7p1 sont...",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-009",
-          "publishedOn": "2024-07-01T12:56:56.000Z",
-          "wordCount": 568,
-          "title": "Vulnérabilité dans OpenSSH (01 juillet 2024)",
           "imageUrl": null
         }
       ]
