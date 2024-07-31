@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Certificate authority (CA) DigiCert has warned that it will be revoking a subset of SSL/TLS certificates within 24 hours due to an oversight with how it verified if a digital certificate is issued to the rightful owner of a domain.\nThe company said it will be taking the step of revoking certificates that do not have proper Domain Control Validation (DCV).\n\"Before issuing a certificate to a",
+          "link": "https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html",
+          "publishedOn": "2024-07-31T14:13:00.000Z",
+          "wordCount": null,
+          "title": "DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSKYvS6C2tA6QuQ2EgSv6V2lCs-WzvKUe-PATLOFI62WrmhWrW6RYoB_1nvrnRf8-P8hRQqOoJaWCL9i3OiZlqX7a9ewv7viU9etVVxmRQSByWpRYxw6xxVhXdIwwLW_HWJh0Z0j6Ilg7y5ywzKXrxvkTICzwMCUnpQH5J77LJFlg7ku01Omva-mInWHt/s1600/ssl.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSKYvS6C2tA6QuQ2EgSv6V2lCs-WzvKUe-PATLOFI62WrmhWrW6RYoB_1nvrnRf8-P8hRQqOoJaWCL9i3OiZlqX7a9ewv7viU9etVVxmRQSByWpRYxw6xxVhXdIwwLW_HWJh0Z0j6Ilg7y5ywzKXrxvkTICzwMCUnpQH5J77LJFlg7ku01Omva-mInWHt/s1600/ssl.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind an ongoing malware campaign targeting software developers have demonstrated new malware and tactics, expanding their focus to include Windows, Linux, and macOS systems.\nThe activity cluster, dubbed DEV#POPPER and linked to North Korea, has been found to have singled out victims across South Korea, North America, Europe, and the Middle East.\n\"This form of attack is an",
