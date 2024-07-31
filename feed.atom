@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T16:44:21.925Z</updated>
+    <updated>2024-07-31T17:12:38.917Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3095,28 +3095,6 @@ The attack, codenamed Indirector by security researchers Luyi Li, Hosein Yavarza
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Cisco NX-OS. Elle permet à un attaquant de provoquer une exécution de code arbitraire. Cisco indique avoir constaté des tentatives d'exploitation de la vulnérabilité CVE-2024-20399 depuis avril 2024.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's 'Pay or Consent' Approach Faces E.U. Competition Rules Scrutiny]]></title>
-        <id>https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html</id>
-        <link href="https://thehackernews.com/2024/07/metas-pay-or-consent-approach-faces-eu.html"/>
-        <updated>2024-07-02T05:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta's decision to offer an ad-free subscription in the European Union (E.U.) has faced a new setback after regulators accused the social media behemoth of breaching the bloc's competition rules by forcing users to choose between seeing ads or paying to avoid them.
-The European Commission said the company's "pay or consent" advertising model is in contravention of the Digital Markets Act (DMA).]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Exploiting Cisco Switches Zero-Day to Deliver Malware]]></title>
-        <id>https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html</id>
-        <link href="https://thehackernews.com/2024/07/chinese-hackers-exploiting-cisco.html"/>
-        <updated>2024-07-02T04:48:00.000Z</updated>
-        <summary type="html"><![CDATA[A China-nexus cyber espionage group named Velvet Ant has been observed exploiting a zero-day flaw in Cisco NX-OS Software used in its switches to deliver malware.
-The vulnerability, tracked as CVE-2024-20399 (CVSS score: 6.0), concerns a case of command injection that allows an authenticated, local attacker to execute arbitrary commands as root on the underlying operating system of an affected]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
