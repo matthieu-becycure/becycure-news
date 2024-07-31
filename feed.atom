@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T04:43:45.961Z</updated>
+    <updated>2024-07-31T05:10:15.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Settles for $1.4 Billion with Texas Over Illegal Biometric Data Collection]]></title>
+        <id>https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html</id>
+        <link href="https://thehackernews.com/2024/07/meta-settles-for-14-billion-with-texas.html"/>
+        <updated>2024-07-31T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Meta, the parent company of Facebook, Instagram, and WhatsApp, agreed to a record $1.4 billion settlement with the U.S. state of Texas over allegations that it illegally collected biometric data of millions of users without their permission, marking one of the largest penalties levied by regulators against the tech giant.
+"This historic settlement demonstrates our commitment to standing up to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Mandrake Spyware Found in Google Play Store Apps After Two Years]]></title>
         <id>https://thehackernews.com/2024/07/new-mandrake-spyware-found-in-google.html</id>
