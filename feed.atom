@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-07-31T22:11:05.448Z</updated>
+    <updated>2024-07-31T22:29:43.752Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3042,17 +3042,6 @@ The AhnLab Security Intelligence Center (ASEC), which identified the attack in M
         <link href="https://thehackernews.com/2024/07/how-mfa-failures-are-fueling-500-surge.html"/>
         <updated>2024-07-02T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The cybersecurity threat landscape has witnessed a dramatic and alarming rise in the average ransomware payment, an increase exceeding 500%. Sophos, a global leader in cybersecurity, revealed in its annual "State of Ransomware 2024" report that the average ransom payment has increased 500% in the last year with organizations that paid a ransom reporting an average payment of $2 million, up from]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Intel CPU Vulnerability 'Indirector' Exposes Sensitive Data]]></title>
-        <id>https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html</id>
-        <link href="https://thehackernews.com/2024/07/new-intel-cpu-vulnerability-indirector.html"/>
-        <updated>2024-07-02T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Modern CPUs from Intel, including Raptor Lake and Alder Lake, have been found vulnerable to a new side-channel attack that could be exploited to leak sensitive information from the processors.
-The attack, codenamed Indirector by security researchers Luyi Li, Hosein Yavarzadeh, and Dean Tullsen, leverages shortcomings identified in Indirect Branch Predictor (IBP) and the Branch Target Buffer (BTB]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
