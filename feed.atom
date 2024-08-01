@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T18:43:43.220Z</updated>
+    <updated>2024-08-01T19:09:08.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3100,18 +3100,6 @@ The development comes days after an online persona named ShinyHunters]]></summar
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FakeBat Loader Malware Spreads Widely Through Drive-by Download Attacks]]></title>
-        <id>https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html</id>
-        <link href="https://thehackernews.com/2024/07/fakebat-loader-malware-spreads-widely.html"/>
-        <updated>2024-07-03T07:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The loader-as-a-service (LaaS) known as FakeBat has become one of the most widespread loader malware families distributed using the drive-by download technique this year, findings from Sekoia reveal.
-"FakeBat primarily aims to download and execute the next-stage payload, such as IcedID, Lumma, RedLine, SmokeLoader, SectopRAT, and Ursnif," the company said in a Tuesday analysis.
-Drive-by attacks]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
