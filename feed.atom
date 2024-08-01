@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T15:43:33.358Z</updated>
+    <updated>2024-08-01T16:14:48.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3110,17 +3110,6 @@ The development comes days after an online persona named ShinyHunters]]></summar
         <summary type="html"><![CDATA[The loader-as-a-service (LaaS) known as FakeBat has become one of the most widespread loader malware families distributed using the drive-by download technique this year, findings from Sekoia reveal.
 "FakeBat primarily aims to download and execute the next-stage payload, such as IcedID, Lumma, RedLine, SmokeLoader, SectopRAT, and Ursnif," the company said in a Tuesday analysis.
 Drive-by attacks]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Israeli Entities Targeted by Cyberattack Using Donut and Sliver Frameworks]]></title>
-        <id>https://thehackernews.com/2024/07/israeli-entities-targeted-by.html</id>
-        <link href="https://thehackernews.com/2024/07/israeli-entities-targeted-by.html"/>
-        <updated>2024-07-03T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an attack campaign that targets various Israeli entities with publicly-available frameworks like Donut and Sliver.
-The campaign, believed to be highly targeted in nature, "leverage target-specific infrastructure and custom WordPress websites as a payload delivery mechanism, but affect a variety of entities across unrelated verticals, and rely on]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
