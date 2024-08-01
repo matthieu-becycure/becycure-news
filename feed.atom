@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T22:43:37.307Z</updated>
+    <updated>2024-08-01T23:11:45.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3059,26 +3059,6 @@ The development comes days after an online persona named ShinyHunters]]></summar
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans MongoDB (03 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0537</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0537"/>
-        <updated>2024-07-03T11:00:15.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Emerging Role of AI in Open-Source Intelligence]]></title>
-        <id>https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html</id>
-        <link href="https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html"/>
-        <updated>2024-07-03T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Recently the Office of the Director of National Intelligence (ODNI) unveiled a new strategy for open-source intelligence (OSINT) and referred to OSINT as the “INT of first resort”. Public and private sector organizations are realizing the value that the discipline can provide but are also finding that the exponential growth of digital data in recent years has overwhelmed many traditional OSINT]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

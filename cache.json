@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Recently the Office of the Director of National Intelligence (ODNI) unveiled a new strategy for open-source intelligence (OSINT) and referred to OSINT as the “INT of first resort”. Public and private sector organizations are realizing the value that the discipline can provide but are also finding that the exponential growth of digital data in recent years has overwhelmed many traditional OSINT",
-          "link": "https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html",
-          "publishedOn": "2024-07-03T11:00:00.000Z",
-          "wordCount": null,
-          "title": "The Emerging Role of AI in Open-Source Intelligence",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s1600/sasns.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Z3lneISuMJIJzQJihUqNZ5H46AcH4bE7K_V09PdZIKOBOSJVc_bezLUShBtNlx0nf5uIEES9e5b4AdvW1AH5PLQiToUtjHw7gscZdD6xgHIcm_bYmHVDh4ETJ3w4jbB9gQv_BWFTJHNiG6BcmYSpkIoNlVcTGnvDaP3he6hLSUf3YTuCN5HbcLDCGxE/s1600/sasns.png"
         }
       ]
     },
@@ -3716,16 +3700,6 @@
           "publishedOn": "2024-07-03T11:12:51.000Z",
           "wordCount": 441,
           "title": "Multiples vulnérabilités dans Tenable Identity Exposure (03 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0537",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans MongoDB. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0537",
-          "publishedOn": "2024-07-03T11:00:15.000Z",
-          "wordCount": 452,
-          "title": "Multiples vulnérabilités dans MongoDB (03 juillet 2024)",
           "imageUrl": null
         }
       ]
