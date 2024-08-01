@@ -3691,16 +3691,6 @@
           "wordCount": 428,
           "title": "Vulnérabilité OpenSSH dans des systèmes d'exploitation (03 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0538",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Tenable Identity Exposure. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0538",
-          "publishedOn": "2024-07-03T11:12:51.000Z",
-          "wordCount": 441,
-          "title": "Multiples vulnérabilités dans Tenable Identity Exposure (03 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
