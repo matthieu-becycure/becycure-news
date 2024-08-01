@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T12:57:16.283Z</updated>
+    <updated>2024-08-01T13:18:21.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Android Banking Trojan BingoMod Steals Money, Wipes Devices]]></title>
+        <id>https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html</id>
+        <link href="https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html"/>
+        <updated>2024-08-01T12:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new Android remote access trojan (RAT) called BingoMod that not only performs fraudulent money transfers from the compromised devices but also wipes them in an attempt to erase traces of the malware.
+Italian cybersecurity firm Cleafy, which discovered the RAT towards the end of May 2024, said the malware is under active development. It attributed the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Obfuscation: There Are Two Sides To Everything]]></title>
         <id>https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html</id>
@@ -28,6 +39,36 @@ Obfuscation is the technique of intentionally making information difficult to re
 "On Windows, Chrome uses the Data Protection API (DPAPI) which protects the data at rest from other users on the system or cold boot attacks," Will Harris from the Chrome security team]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits NetApp (01 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0641/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0641/"/>
+        <updated>2024-08-01T07:24:52.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Elastic Elasticsearch (01 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/"/>
+        <updated>2024-08-01T07:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Elastic Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Microsoft (01 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/"/>
+        <updated>2024-08-01T07:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
