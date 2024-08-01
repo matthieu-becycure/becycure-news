@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T06:45:30.961Z</updated>
+    <updated>2024-08-01T07:11:05.417Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook Ads Lead to Fake Websites Stealing Credit Card Information]]></title>
+        <id>https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html</id>
+        <link href="https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html"/>
+        <updated>2024-08-01T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Facebook users are the target of a scam e-commerce network that uses hundreds of fake websites to steal personal and financial data using brand impersonation and malvertising tricks.
+Recorded Future's Payment Fraud Intelligence team, which detected the campaign on April 17, 2024, has given it the name ERIAKOS owing to the use of the same content delivery network (CDN) oss.eriakos[.]com.
+"These]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DigiCert to Revoke 83,000+ SSL Certificates Due to Domain Validation Oversight]]></title>
         <id>https://thehackernews.com/2024/07/digicert-to-revoke-83000-ssl.html</id>
