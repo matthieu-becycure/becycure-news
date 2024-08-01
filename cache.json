@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has announced that it's adding a new layer of protection to its Chrome browser through what's called app-bound encryption to prevent information-stealing malware from grabbing cookies on Windows systems.\n\"On Windows, Chrome uses the Data Protection API (DPAPI) which protects the data at rest from other users on the system or cold boot attacks,\" Will Harris from the Chrome security team",
+          "link": "https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html",
+          "publishedOn": "2024-08-01T09:49:00.000Z",
+          "wordCount": null,
+          "title": "Google Chrome Adds App-Bound Encryption to Protect Cookies from Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfrpoRbHd9yl76Bei8yUI8P2WBb_pfMsimrOXJqQcoQS74Ks_FZ4EirOoTcreWAgHtmUTkvFKmoTbEoujGeKIjqsCE3kZ8XxLon2ZUEm3lqpOu2JImtjFDS4_KJoJ0ajqu1sCQ7O-P3XO_W2O_Qy75X0EpWxCDy2u-1VRJzAl5MzgbVQsPcGkNbGZv_p6/s1600/cookies.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKfrpoRbHd9yl76Bei8yUI8P2WBb_pfMsimrOXJqQcoQS74Ks_FZ4EirOoTcreWAgHtmUTkvFKmoTbEoujGeKIjqsCE3kZ8XxLon2ZUEm3lqpOu2JImtjFDS4_KJoJ0ajqu1sCQ7O-P3XO_W2O_Qy75X0EpWxCDy2u-1VRJzAl5MzgbVQsPcGkNbGZv_p6/s1600/cookies.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Facebook users are the target of a scam e-commerce network that uses hundreds of fake websites to steal personal and financial data using brand impersonation and malvertising tricks.\nRecorded Future's Payment Fraud Intelligence team, which detected the campaign on April 17, 2024, has given it the name ERIAKOS owing to the use of the same content delivery network (CDN) oss.eriakos[.]com.\n\"These",

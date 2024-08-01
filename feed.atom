@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T09:43:51.547Z</updated>
+    <updated>2024-08-01T10:13:15.321Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Adds App-Bound Encryption to Protect Cookies from Malware]]></title>
+        <id>https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html</id>
+        <link href="https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html"/>
+        <updated>2024-08-01T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced that it's adding a new layer of protection to its Chrome browser through what's called app-bound encryption to prevent information-stealing malware from grabbing cookies on Windows systems.
+"On Windows, Chrome uses the Data Protection API (DPAPI) which protects the data at rest from other users on the system or cold boot attacks," Will Harris from the Chrome security team]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Facebook Ads Lead to Fake Websites Stealing Credit Card Information]]></title>
         <id>https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html</id>
