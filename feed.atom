@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T21:43:24.737Z</updated>
+    <updated>2024-08-01T22:10:36.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3077,17 +3077,6 @@ The development comes days after an online persona named ShinyHunters]]></summar
         <link href="https://thehackernews.com/2024/07/the-emerging-role-of-ai-in-open-source.html"/>
         <updated>2024-07-03T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Recently the Office of the Director of National Intelligence (ODNI) unveiled a new strategy for open-source intelligence (OSINT) and referred to OSINT as the “INT of first resort”. Public and private sector organizations are realizing the value that the discipline can provide but are also finding that the exponential growth of digital data in recent years has overwhelmed many traditional OSINT]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft MSHTML Flaw Exploited to Deliver MerkSpy Spyware Tool]]></title>
-        <id>https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html</id>
-        <link href="https://thehackernews.com/2024/07/microsoft-mshtml-flaw-exploited-to.html"/>
-        <updated>2024-07-03T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Unknown threat actors have been observed exploiting a now-patched security flaw in Microsoft MSHTML to deliver a surveillance tool called MerkSpy as part of a campaign primarily targeting users in Canada, India, Poland, and the U.S.
-"MerkSpy is designed to clandestinely monitor user activities, capture sensitive information, and establish persistence on compromised systems," Fortinet FortiGuard]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
