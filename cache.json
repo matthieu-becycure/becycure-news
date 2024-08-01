@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Over a million domains are susceptible to takeover by malicious actors by means of what has been called a Sitting Ducks attack.\nThe powerful attack vector, which exploits weaknesses in the domain name system (DNS), is being exploited by over a dozen Russian-nexus cybercriminal actors to stealthily hijack domains, a joint analysis published by Infoblox and Eclypsium has revealed.\n\"In a Sitting",
+          "link": "https://thehackernews.com/2024/08/over-1-million-domains-at-risk-of.html",
+          "publishedOn": "2024-08-01T14:10:00.000Z",
+          "wordCount": null,
+          "title": "Over 1 Million Domains at Risk of 'Sitting Ducks' Domain Hijacking Technique",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhhnkpBltf8eiRERnidnvbignuAJNzXkC1wxLIk0-ti6m-IP__y27HsfTleGPzIQVbB8R_Rgs3neAcEBVp-7FC3CtJnx58VsF84XQCdJExUi-ooRJO3SQRseKse6oueKjv5eKifXFCr_lQySQiQmyD4Bwx69IXwMvu8HtnUht3c6gUEB3RVrRpQfmxqVl/s1600/domain.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMhhnkpBltf8eiRERnidnvbignuAJNzXkC1wxLIk0-ti6m-IP__y27HsfTleGPzIQVbB8R_Rgs3neAcEBVp-7FC3CtJnx58VsF84XQCdJExUi-ooRJO3SQRseKse6oueKjv5eKifXFCr_lQySQiQmyD4Bwx69IXwMvu8HtnUht3c6gUEB3RVrRpQfmxqVl/s1600/domain.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In yet another sign that threat actors are always looking out for new ways to trick users into downloading malware, it has come to light that the question-and-answer (Q&A) platform known as Stack Exchange has been abused to direct unsuspecting developers to bogus Python packages capable of draining their cryptocurrency wallets.\n\"Upon installation, this code would execute automatically,",
