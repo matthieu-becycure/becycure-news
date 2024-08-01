@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In yet another sign that threat actors are always looking out for new ways to trick users into downloading malware, it has come to light that the question-and-answer (Q&A) platform known as Stack Exchange has been abused to direct unsuspecting developers to bogus Python packages capable of draining their cryptocurrency wallets.\n\"Upon installation, this code would execute automatically,",
+          "link": "https://thehackernews.com/2024/08/hackers-distributing-malicious-python.html",
+          "publishedOn": "2024-08-01T13:32:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Distributing Malicious Python Packages via Popular Developer Q&A Platform",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTWOhYPMK5s_mOHnqsux82Yn3yBGcMq9oLB_KjkrP3lnJBmz6YsDKtnOP1lQw9DJtf0g9ufeTXtMoZIBfIyb2lnYPAS7ptIoeflOeFt7vcTjs7RDVriB18cK7KbV5Ps8yl3RxiK63sTW0ITtd8KTmiv-tmcbJ3F8S_koaAOjbUrvWNAcEC-vzYAUwyXm0t/s1600/stack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTWOhYPMK5s_mOHnqsux82Yn3yBGcMq9oLB_KjkrP3lnJBmz6YsDKtnOP1lQw9DJtf0g9ufeTXtMoZIBfIyb2lnYPAS7ptIoeflOeFt7vcTjs7RDVriB18cK7KbV5Ps8yl3RxiK63sTW0ITtd8KTmiv-tmcbJ3F8S_koaAOjbUrvWNAcEC-vzYAUwyXm0t/s1600/stack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-android-banking-trojan-bingomod.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new Android remote access trojan (RAT) called BingoMod that not only performs fraudulent money transfers from the compromised devices but also wipes them in an attempt to erase traces of the malware.\nItalian cybersecurity firm Cleafy, which discovered the RAT towards the end of May 2024, said the malware is under active development. It attributed the",
