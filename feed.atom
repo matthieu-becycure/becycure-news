@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-01T11:25:23.763Z</updated>
+    <updated>2024-08-01T11:43:39.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Obfuscation: There Are Two Sides To Everything]]></title>
+        <id>https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html</id>
+        <link href="https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html"/>
+        <updated>2024-08-01T11:07:00.000Z</updated>
+        <summary type="html"><![CDATA[How to detect and prevent attackers from using these various techniques
+Obfuscation is an important technique for protecting software that also carries risks, especially when used by malware authors. In this article, we examine obfuscation, its effects, and responses to it.
+What Is Obfuscation?
+Obfuscation is the technique of intentionally making information difficult to read, especially in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome Adds App-Bound Encryption to Protect Cookies from Malware]]></title>
         <id>https://thehackernews.com/2024/08/google-chrome-adds-app-bound-encryption.html</id>
