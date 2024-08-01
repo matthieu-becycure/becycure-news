@@ -3743,16 +3743,6 @@
           "wordCount": 452,
           "title": "Multiples vulnérabilités dans MongoDB (03 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0536",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0536",
-          "publishedOn": "2024-07-03T09:36:54.000Z",
-          "wordCount": 489,
-          "title": "Multiples vulnérabilités dans Google Android (03 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
