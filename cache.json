@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlf6GtEhZl8dfQAnzp0661l3PWA7AJuZJj-jT2D_J8FWi3045L0worLiaayRMflAHNruXZDPPauYJfECA9N5ibf9ZxotZY_f-L5SKBo_FU1DdJb__YsTXuoDn_4zK35QtG7u79rGhsvxIVrPPE-NmR07C7CEfThzN_EFlGeSYCEksUdS_G0245HLlOb4fD/s1600/crime-map.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlf6GtEhZl8dfQAnzp0661l3PWA7AJuZJj-jT2D_J8FWi3045L0worLiaayRMflAHNruXZDPPauYJfECA9N5ibf9ZxotZY_f-L5SKBo_FU1DdJb__YsTXuoDn_4zK35QtG7u79rGhsvxIVrPPE-NmR07C7CEfThzN_EFlGeSYCEksUdS_G0245HLlOb4fD/s1600/crime-map.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cloud communications provider Twilio has revealed that unidentified threat actors took advantage of an unauthenticated endpoint in Authy to identify data associated with Authy accounts, including users' cell phone numbers.\nThe company said it took steps to secure the endpoint to no longer accept unauthenticated requests.\nThe development comes days after an online persona named ShinyHunters",
-          "link": "https://thehackernews.com/2024/07/twilios-authy-app-breach-exposes.html",
-          "publishedOn": "2024-07-04T03:37:00.000Z",
-          "wordCount": null,
-          "title": "Twilio's Authy App Breach Exposes Millions of Phone Numbers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7nSB8KJV-5SyvpXrlFfztb2zh3QHo2MAvRNPEOdbhuvEnHeeBl6_FLFeZ0kQJxXcFA_91VN_z5o3GDq1a2PyOVuRlhy8thRZhIlORqlSvkkj0u43EpqsF0y6CFntL06szalZXYufnjjA6Phl5k1A_izQV3dvqM9W9s3QVLfEjiVy-A8RmV3z6IEYTyROn/s1600/twilio.png"
         }
       ]
     },
