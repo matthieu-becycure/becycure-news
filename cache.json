@@ -3681,16 +3681,6 @@
           "wordCount": 387,
           "title": "Multiples vulnérabilités dans Python (04 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans le composant OpenSSH utilisé par différents systèmes d'exploitation. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0539",
-          "publishedOn": "2024-07-03T12:56:10.000Z",
-          "wordCount": 428,
-          "title": "Vulnérabilité OpenSSH dans des systèmes d'exploitation (03 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
