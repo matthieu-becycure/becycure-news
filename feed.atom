@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-02T10:43:33.317Z</updated>
+    <updated>2024-08-02T11:09:55.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal]]></title>
+        <id>https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html</id>
+        <link href="https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html"/>
+        <updated>2024-08-02T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) Software is at the heart of many enterprising supporting human resources, accounting, shipping, and manufacturing. These systems can become very complex and difficult to maintain. They are often highly customized, which can make patching difficult. However, critical vulnerabilities keep affecting these systems and put critical business data at risk. 
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Windows Backdoor BITSLOTH Exploits BITS for Stealthy Communication]]></title>
+        <id>https://thehackernews.com/2024/08/new-windows-backdoor-bitsloth-exploits.html</id>
+        <link href="https://thehackernews.com/2024/08/new-windows-backdoor-bitsloth-exploits.html"/>
+        <updated>2024-08-02T09:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a previously undocumented Windows backdoor that leverages a built-in feature called Background Intelligent Transfer Service (BITS) as a command-and-control (C2) mechanism.
+The newly identified malware strain has been codenamed BITSLOTH by Elastic Security Labs, which made the discovery on June 25, 2024, in connection with a cyber attack targeting an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Releases High-Profile Russian Hackers in Diplomatic Prisoner Exchange]]></title>
         <id>https://thehackernews.com/2024/08/us-releases-high-profile-russian.html</id>
