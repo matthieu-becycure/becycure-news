@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-02T15:43:44.444Z</updated>
+    <updated>2024-08-02T16:14:14.997Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits IBM (02 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0646/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0646/"/>
+        <updated>2024-08-02T12:20:37.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux d'Ubuntu (02 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0645/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0645/"/>
+        <updated>2024-08-02T12:09:47.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de Red Hat (02 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0644/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0644/"/>
+        <updated>2024-08-02T12:01:50.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Moxa (02 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0643/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0643/"/>
+        <updated>2024-08-02T11:58:05.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar: Discover the All-in-One Cybersecurity Solution for SMBs]]></title>
         <id>https://thehackernews.com/2024/08/webinar-discover-all-in-one.html</id>
@@ -38,6 +78,16 @@ The]]></summary>
 The newly identified malware strain has been codenamed BITSLOTH by Elastic Security Labs, which made the discovery on June 25, 2024, in connection with a cyber attack targeting an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Edge (02 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0642/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0642/"/>
+        <updated>2024-08-02T08:36:46.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
@@ -3070,18 +3120,6 @@ Written in Golang, the botnet is so named for its reference to a string named "o
         <updated>2024-07-04T06:58:00.000Z</updated>
         <summary type="html"><![CDATA[Brazil's data protection authority, Autoridade Nacional de Proteção de Dados (ANPD), has temporarily banned Meta from processing users' personal data to train the company's artificial intelligence (AI) algorithms.
 The ANPD said it found "evidence of processing of personal data based on inadequate legal hypothesis, lack of transparency, limitation of the rights of data subjects, and risks to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Global Police Operation Shuts Down 600 Cybercrime Servers Linked to Cobalt Strike]]></title>
-        <id>https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html</id>
-        <link href="https://thehackernews.com/2024/07/global-police-operation-shuts-down-600.html"/>
-        <updated>2024-07-04T03:59:00.000Z</updated>
-        <summary type="html"><![CDATA[A coordinated law enforcement operation codenamed MORPHEUS has felled close to 600 servers that were used by cybercriminal groups and were part of an attack infrastructure associated with the Cobalt Strike. 
-The crackdown targeted older, unlicensed versions of the Cobalt Strike red teaming framework between June 24 and 28, according to Europol.
-Of the 690 IP addresses that were flagged to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
