@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-02T08:14:43.653Z</updated>
+    <updated>2024-08-02T08:32:52.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Releases High-Profile Russian Hackers in Diplomatic Prisoner Exchange]]></title>
+        <id>https://thehackernews.com/2024/08/us-releases-high-profile-russian.html</id>
+        <link href="https://thehackernews.com/2024/08/us-releases-high-profile-russian.html"/>
+        <updated>2024-08-02T07:24:00.000Z</updated>
+        <summary type="html"><![CDATA[In a historic prisoner exchange between Belarus, Germany, Norway, Russia, Slovenia, and the U.S., two Russian nationals serving time for cybercrime activities have been freed and repatriated to their country.
+This includes Roman Valerevich Seleznev and Vladislav Klyushin, who are part of a group of eight people who have been swapped back to Russia in exchange for the release of 16 people who]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware]]></title>
         <id>https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html</id>
