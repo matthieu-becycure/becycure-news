@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-03T10:11:09.390Z</updated>
+    <updated>2024-08-03T10:30:16.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ and FTC Sue TikTok for Violating Children's Privacy Laws]]></title>
+        <id>https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html</id>
+        <link href="https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html"/>
+        <updated>2024-08-03T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ), along with the Federal Trade Commission (FTC), filed a lawsuit against popular video-sharing platform TikTok for "flagrantly violating" children's privacy laws in the country.
+The agencies claimed the company knowingly permitted children to create TikTok accounts and to view and share short-form videos and messages with adults and others on the service.
+They]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool]]></title>
         <id>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</id>

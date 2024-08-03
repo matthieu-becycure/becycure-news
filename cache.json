@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ), along with the Federal Trade Commission (FTC), filed a lawsuit against popular video-sharing platform TikTok for \"flagrantly violating\" children's privacy laws in the country.\nThe agencies claimed the company knowingly permitted children to create TikTok accounts and to view and share short-form videos and messages with adults and others on the service.\nThey",
+          "link": "https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html",
+          "publishedOn": "2024-08-03T09:10:00.000Z",
+          "wordCount": null,
+          "title": "DOJ and FTC Sue TikTok for Violating Children's Privacy Laws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibELbB2Z42Pn0N9bE6WCaBQ0xqHePTdB8PUmj42hLzpeu0Ch1LhbcDb3eCNkoyK0o5Px2y-CZJipJiRfu-KPipIqlr-vYL5NSFu9wged_-0VR8WlF57NUszw6DgtPw2xTxXySN89ZwZgOF3VCtcuvP1nDrn4_4Oi76h886K0N9O2yzpsgx4uIMMF3SOGX0/s1600/tiktok.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibELbB2Z42Pn0N9bE6WCaBQ0xqHePTdB8PUmj42hLzpeu0Ch1LhbcDb3eCNkoyK0o5Px2y-CZJipJiRfu-KPipIqlr-vYL5NSFu9wged_-0VR8WlF57NUszw6DgtPw2xTxXySN89ZwZgOF3VCtcuvP1nDrn4_4Oi76h886K0N9O2yzpsgx4uIMMF3SOGX0/s1600/tiktok.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed details of a new distributed denial-of-service (DDoS) attack campaign targeting misconfigured Jupyter Notebooks.\nThe activity, codenamed Panamorfi by cloud security firm Aqua, utilizes a Java-based tool called mineping to launch a TCP flood DDoS attack. Mineping is a DDoS package designed for Minecraft game servers.\nAttack chains entail the exploitation",
