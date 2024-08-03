@@ -3703,16 +3703,6 @@
           "wordCount": 1922,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (05 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Cloud Director Availability. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0545",
-          "publishedOn": "2024-07-05T09:38:37.000Z",
-          "wordCount": 330,
-          "title": "Vulnérabilité dans VMware Cloud Director Availability (05 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
