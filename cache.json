@@ -3713,16 +3713,6 @@
           "wordCount": 330,
           "title": "Vulnérabilité dans VMware Cloud Director Availability (05 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0544",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Apache HTTP Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0544",
-          "publishedOn": "2024-07-05T09:09:54.000Z",
-          "wordCount": 330,
-          "title": "Vulnérabilité dans Apache HTTP Server (05 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
