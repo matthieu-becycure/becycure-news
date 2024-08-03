@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-03T04:43:37.279Z</updated>
+    <updated>2024-08-03T05:10:41.837Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool]]></title>
+        <id>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</id>
+        <link href="https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html"/>
+        <updated>2024-08-03T03:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new distributed denial-of-service (DDoS) attack campaign targeting misconfigured Jupyter Notebooks.
+The activity, codenamed Panamorfi by cloud security firm Aqua, utilizes a Java-based tool called mineping to launch a TCP flood DDoS attack. Mineping is a DDoS package designed for Minecraft game servers.
+Attack chains entail the exploitation]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack]]></title>
         <id>https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html</id>
