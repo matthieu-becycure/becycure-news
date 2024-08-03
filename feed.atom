@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-03T22:43:53.114Z</updated>
+    <updated>2024-08-03T23:12:14.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3041,17 +3041,6 @@ The 840 Mpps DDoS attack is said to have been a combination of a TCP]]></summary
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blueprint for Success: Implementing a CTEM Operation]]></title>
-        <id>https://thehackernews.com/2024/07/blueprint-for-success-implementing-ctem.html</id>
-        <link href="https://thehackernews.com/2024/07/blueprint-for-success-implementing-ctem.html"/>
-        <updated>2024-07-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The attack surface isn’t what it once was and it’s becoming a nightmare to protect. A constantly expanding and evolving attack surface means risk to the business has skyrocketed and current security measures are struggling to keep it protected. If you’ve clicked on this article, there’s a good chance you’re looking for solutions to manage this risk.
-In 2022, a new framework was coined by Gartner]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
