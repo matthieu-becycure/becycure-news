@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-03T16:13:54.133Z</updated>
+    <updated>2024-08-03T16:33:24.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3082,17 +3082,6 @@ In 2022, a new framework was coined by Gartner]]></summary>
         <summary type="html"><![CDATA[The malware known as GootLoader continues to be in active use by threat actors looking to deliver additional payloads to compromised hosts.
 "Updates to the GootLoader payload have resulted in several versions of GootLoader, with GootLoader 3 currently in active use," cybersecurity firm Cybereason said in an analysis published last week.
 "While some of the particulars of GootLoader payloads have]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polyfill[.]io Attack Impacts Over 380,000 Hosts, Including Major Companies]]></title>
-        <id>https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html</id>
-        <link href="https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html"/>
-        <updated>2024-07-05T04:18:00.000Z</updated>
-        <summary type="html"><![CDATA[The supply chain attack targeting widely-used Polyfill[.]io JavaScript library is wider in scope than previously thought, with new findings from Censys showing that over 380,000 hosts are embedding a polyfill script linking to the malicious domain as of July 2, 2024.
-This includes references to "https://cdn.polyfill[.]io" or "https://cdn.polyfill[.]com" in their HTTP responses, the attack]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
