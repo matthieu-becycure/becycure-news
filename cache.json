@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4pLyZRjUlwwDS7wu0RqPqlzJi1UA8JDMf4RM6i-So-sGjvIMDe5rGC15ZdBUUmKX-2_scZUf5Ye3vhNP0QO2MXgfHlTMTbaC4FSSivforoLh_zXAiONEXfQvQZTj0NTk1QyXhjlopQ-Jt9eAZlO0ZAivaJho-m654hIwZs0hjfxG0rfDv5xNqSkZlw6ys/s1600/code.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4pLyZRjUlwwDS7wu0RqPqlzJi1UA8JDMf4RM6i-So-sGjvIMDe5rGC15ZdBUUmKX-2_scZUf5Ye3vhNP0QO2MXgfHlTMTbaC4FSSivforoLh_zXAiONEXfQvQZTj0NTk1QyXhjlopQ-Jt9eAZlO0ZAivaJho-m654hIwZs0hjfxG0rfDv5xNqSkZlw6ys/s1600/code.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new botnet called Zergeca that's capable of conducting distributed denial-of-service (DDoS) attacks.\nWritten in Golang, the botnet is so named for its reference to a string named \"ootheca\" present in the command-and-control (C2) servers (\"ootheca[.]pw\" and \"ootheca[.]top\").\n\"Functionally, Zergeca is not just a typical DDoS botnet; besides supporting six",
-          "link": "https://thehackernews.com/2024/07/new-golang-based-zergeca-botnet-capable.html",
-          "publishedOn": "2024-07-05T03:52:00.000Z",
-          "wordCount": null,
-          "title": "New Golang-Based Zergeca Botnet Capable of Powerful DDoS Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVAOsbCVG11RWVag7PkQYKz7BAzpe9CYvguFuU10P7lGWUrz2Y90zDiQzYVflrXT7cLpMKYAbY6Ot_HOrWmYKJzRMYF8Vds5Q6QKrAhQmC2QHt8bFxobAh27kW0Ly9tHPArgldfXoOmRcNp2Vl0bfMEoBfk2SM9bu9_k-2WTy7FUesfHfaWNQtLBffN2Lh/s1600/ddos.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVAOsbCVG11RWVag7PkQYKz7BAzpe9CYvguFuU10P7lGWUrz2Y90zDiQzYVflrXT7cLpMKYAbY6Ot_HOrWmYKJzRMYF8Vds5Q6QKrAhQmC2QHt8bFxobAh27kW0Ly9tHPArgldfXoOmRcNp2Vl0bfMEoBfk2SM9bu9_k-2WTy7FUesfHfaWNQtLBffN2Lh/s1600/ddos.png"
         }
       ]
     },
