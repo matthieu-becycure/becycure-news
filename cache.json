@@ -3635,16 +3635,6 @@
           "wordCount": 327,
           "title": "Multiples vulnérabilités dans les produits NetApp (08 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0547",
-          "publishedOn": "2024-07-05T13:06:13.000Z",
-          "wordCount": 511,
-          "title": "Multiples vulnérabilités dans les produits IBM (05 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
