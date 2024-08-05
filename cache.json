@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Loper Bright decision has yielded impactful results: the Supreme Court has overturned forty years of administrative law, leading to potential litigation over the interpretation of ambiguous laws previously decided by federal agencies. This article explores key questions for cybersecurity professionals and leaders as we enter a more contentious period of cybersecurity law.\nBackground\nWhat is",
+          "link": "https://thehackernews.com/2024/08/the-loper-bright-decision-how-it.html",
+          "publishedOn": "2024-08-05T11:20:00.000Z",
+          "wordCount": null,
+          "title": "The Loper Bright Decision: How it Impacts Cybersecurity Law",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlD1dzDJ-muiATGFdTnLdhqTUbjTetkg_FkUUolRGZ7WKY4GFQvZAvEKPoQKDqKIKIBchPYwNaWcSBS_As4BqJqb6UsHq5tAtmaG7pjCMun3-ADYYorkhL4QbKwZnC1ZPaheLlOYVC01qxUUrgc5ttJI4K97Io0j2Q-lm-ueN4CRulVLCcVNTJ0NYOqLQ/s1600/looper.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlD1dzDJ-muiATGFdTnLdhqTUbjTetkg_FkUUolRGZ7WKY4GFQvZAvEKPoQKDqKIKIBchPYwNaWcSBS_As4BqJqb6UsHq5tAtmaG7pjCMun3-ADYYorkhL4QbKwZnC1ZPaheLlOYVC01qxUUrgc5ttJI4K97Io0j2Q-lm-ueN4CRulVLCcVNTJ0NYOqLQ/s1600/looper.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/enhancing-incident-response-readiness.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Incident response is a structured approach to managing and addressing security breaches or cyber-attacks. Security teams must overcome challenges such as timely detection, comprehensive data collection, and coordinated actions to enhance readiness. Improving these areas ensures a swift and effective response, minimizing damage and restoring normal operations quickly.\nChallenges in incident",
