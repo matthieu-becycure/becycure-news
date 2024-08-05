@@ -2349,6 +2349,76 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-035/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-035/",
+          "publishedOn": "2024-08-05T12:32:39.000Z",
+          "wordCount": 759,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-035 (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0652/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0652/",
+          "publishedOn": "2024-08-05T12:11:45.000Z",
+          "wordCount": 338,
+          "title": "Vulnérabilité dans les produits Cisco (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0651/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Trend Micro. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0651/",
+          "publishedOn": "2024-08-05T11:59:19.000Z",
+          "wordCount": 347,
+          "title": "Vulnérabilité dans les produits Trend Micro (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0650/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Stormshield Management Center. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0650/",
+          "publishedOn": "2024-08-05T11:55:09.000Z",
+          "wordCount": 370,
+          "title": "Multiples vulnérabilités dans Stormshield Management Center  (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0649/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Citrix. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0649/",
+          "publishedOn": "2024-08-05T11:50:41.000Z",
+          "wordCount": 336,
+          "title": "Vulnérabilité dans les produits Citrix (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0648/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0648/",
+          "publishedOn": "2024-08-05T11:43:59.000Z",
+          "wordCount": 413,
+          "title": "Multiples vulnérabilités dans les produits SonicWall (05 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0647/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0647/",
+          "publishedOn": "2024-08-05T07:38:27.000Z",
+          "wordCount": 342,
+          "title": "Multiples vulnérabilités dans Roundcube (05 août 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0646/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
