@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-05T05:13:19.090Z</updated>
+    <updated>2024-08-05T05:31:07.583Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Android Trojan "BlankBot" Targets Turkish Users' Financial Data]]></title>
+        <id>https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html</id>
+        <link href="https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html"/>
+        <updated>2024-08-05T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new Android banking trojan called BlankBot targeting Turkish users with an aim to steal financial information.
+"BlankBot features a range of malicious capabilities, which include customer injections, keylogging, screen recording and it communicates with a control server over a WebSocket connection," Intel 471 said in an analysis published last week.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-Linked Hackers Compromise ISP to Deploy Malicious Software Updates]]></title>
+        <id>https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html</id>
+        <link href="https://thehackernews.com/2024/08/china-linked-hackers-compromise-isp-to.html"/>
+        <updated>2024-08-05T04:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked threat actor known as Evasive Panda compromised an unnamed internet service provider (ISP) to push malicious software updates to target companies in mid-2023, highlighting a new level of sophistication associated with the group.
+Evasive Panda, also known by the names Bronze Highland, Daggerfly, and StormBamboo, is a cyber espionage group that's been active since at least 2012,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOJ and FTC Sue TikTok for Violating Children's Privacy Laws]]></title>
         <id>https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html</id>
