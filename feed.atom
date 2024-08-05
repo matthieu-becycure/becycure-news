@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-05T05:43:34.123Z</updated>
+    <updated>2024-08-05T06:17:09.432Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access]]></title>
+        <id>https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html</id>
+        <link href="https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html"/>
+        <updated>2024-08-05T06:07:00.000Z</updated>
+        <summary type="html"><![CDATA[A high-severity security bypass vulnerability has been disclosed in Rockwell Automation ControlLogix 1756 devices that could be exploited to execute common industrial protocol (CIP) programming and configuration commands.
+The flaw, which is assigned the CVE identifier CVE-2024-6242, carries a CVSS v3.1 score of 8.4.
+"A vulnerability exists in the affected products that allows a threat actor to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Android Trojan "BlankBot" Targets Turkish Users' Financial Data]]></title>
         <id>https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html</id>

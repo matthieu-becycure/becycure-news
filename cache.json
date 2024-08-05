@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity security bypass vulnerability has been disclosed in Rockwell Automation ControlLogix 1756 devices that could be exploited to execute common industrial protocol (CIP) programming and configuration commands.\nThe flaw, which is assigned the CVE identifier CVE-2024-6242, carries a CVSS v3.1 score of 8.4.\n\"A vulnerability exists in the affected products that allows a threat actor to",
+          "link": "https://thehackernews.com/2024/08/critical-flaw-in-rockwell-automation.html",
+          "publishedOn": "2024-08-05T06:07:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in Rockwell Automation Devices Allows Unauthorized Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzBxWR-N8RKouruXd91MW-8Th8N7whDQ4qrhX4o0cRpdOYtkgST2VKhB0QclGZsKPZF68oJI-Uc9-4S-qZaCrZ80JREEjFMCbv8cPb9ZbZbxcBdscNSBgXuzAjnUxF868f3NpMUfbyym7b7tgpKeMzdqGDHXxid7T_haXAguGOwuEsR3JSdKm6oPE9BtmF/s1600/card.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzBxWR-N8RKouruXd91MW-8Th8N7whDQ4qrhX4o0cRpdOYtkgST2VKhB0QclGZsKPZF68oJI-Uc9-4S-qZaCrZ80JREEjFMCbv8cPb9ZbZbxcBdscNSBgXuzAjnUxF868f3NpMUfbyym7b7tgpKeMzdqGDHXxid7T_haXAguGOwuEsR3JSdKm6oPE9BtmF/s1600/card.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-android-trojan-blankbot-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new Android banking trojan called BlankBot targeting Turkish users with an aim to steal financial information.\n\"BlankBot features a range of malicious capabilities, which include customer injections, keylogging, screen recording and it communicates with a control server over a WebSocket connection,\" Intel 471 said in an analysis published last week.",
