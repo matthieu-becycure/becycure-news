@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-06T09:43:24.768Z</updated>
+    <updated>2024-08-06T10:12:55.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Android Spyware LianSpy Evades Detection Using Yandex Cloud]]></title>
+        <id>https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html</id>
+        <link href="https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html"/>
+        <updated>2024-08-06T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Users in Russia have been the target of a previously undocumented Android post-compromise spyware called LianSpy since at least 2021.
+Cybersecurity vendor Kaspersky, which discovered the malware in March 2024, noted its use of Yandex Cloud, a Russian cloud service, for command-and-control (C2) communications as a way to avoid having a dedicated infrastructure and evade detection.
+"This threat is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Patches New Android Kernel Vulnerability Exploited in the Wild]]></title>
         <id>https://thehackernews.com/2024/08/google-patches-new-android-kernel.html</id>
