@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-06T04:32:30.395Z</updated>
+    <updated>2024-08-06T04:44:06.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html</id>
+        <link href="https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html"/>
+        <updated>2024-08-06T04:16:00.000Z</updated>
+        <summary type="html"><![CDATA[A new zero-day pre-authentication remote code execution vulnerability has been disclosed in the Apache OFBiz open-source enterprise resource planning (ERP) system that could allow threat actors to achieve remote code execution on affected instances.
+Tracked as CVE-2024-38856, the flaw has a CVSS score of 9.8 out of a maximum of 10.0. It affects Apache OFBiz versions prior to 18.12.15.
+"The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Flaws in Windows Smart App Control and SmartScreen]]></title>
         <id>https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html</id>
