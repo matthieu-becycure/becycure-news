@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "INTERPOL said it devised a \"global stop-payment mechanism\" that helped facilitate the largest-ever recovery of funds defrauded in a business email compromise (BEC) scam. \nThe development comes after an unnamed commodity firm based in Singapore fell victim to a BEC scam in mid-July 2024. It refers to a type of cybercrime where a malicious actor poses as a trusted figure and uses email to",
+          "link": "https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html",
+          "publishedOn": "2024-08-06T16:10:00.000Z",
+          "wordCount": null,
+          "title": "INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tpEjr4e5FdSHBmR7eORC-zCMZQx06KAMUWlI5ItVy8AiPp27A5grLLDkzmEE99N0htD4u096fWEsAortG4XDOHjPLvDjgWnKO3Y8_NvYeYs2t5KePPQ2c82YuEytAr9nerrPJW1uzLpFSjSTLCHm7__cFflrkwM3QJgBRagVYLoxv37f7w3Mk53llMHF/s1600/bec-scam.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5tpEjr4e5FdSHBmR7eORC-zCMZQx06KAMUWlI5ItVy8AiPp27A5grLLDkzmEE99N0htD4u096fWEsAortG4XDOHjPLvDjgWnKO3Y8_NvYeYs2t5KePPQ2c82YuEytAr9nerrPJW1uzLpFSjSTLCHm7__cFflrkwM3QJgBRagVYLoxv37f7w3Mk53llMHF/s1600/bec-scam.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Everyone loves the double-agent plot twist in a spy movie, but it’s a different story when it comes to securing company data. Whether intentional or unintentional, insider threats are a legitimate concern. According to CSA research, 26% of companies who reported a SaaS security incident were struck by an insider. \nThe challenge for many is detecting those threats before they lead to full",

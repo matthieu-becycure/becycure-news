@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-06T15:43:40.335Z</updated>
+    <updated>2024-08-06T16:14:29.989Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INTERPOL Recovers $41 Million in Largest Ever BEC Scam in Singapore]]></title>
+        <id>https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html</id>
+        <link href="https://thehackernews.com/2024/08/interpol-recovers-41-million-in-largest.html"/>
+        <updated>2024-08-06T16:10:00.000Z</updated>
+        <summary type="html"><![CDATA[INTERPOL said it devised a "global stop-payment mechanism" that helped facilitate the largest-ever recovery of funds defrauded in a business email compromise (BEC) scam. 
+The development comes after an unnamed commodity firm based in Singapore fell victim to a BEC scam in mid-July 2024. It refers to a type of cybercrime where a malicious actor poses as a trusted figure and uses email to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suspicious Minds: Insider Threats in The SaaS World]]></title>
         <id>https://thehackernews.com/2024/08/suspicious-minds-insider-threats-in.html</id>
