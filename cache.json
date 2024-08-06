@@ -3881,16 +3881,6 @@
           "wordCount": 394,
           "title": "Vulnérabilité dans les produits Schneider Electric (09 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-029",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-029",
-          "publishedOn": "2024-07-08T09:42:21.000Z",
-          "wordCount": 850,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-029 (08 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
