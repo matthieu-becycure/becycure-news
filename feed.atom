@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-06T18:16:39.562Z</updated>
+    <updated>2024-08-06T18:35:16.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3223,17 +3223,6 @@ Mekotio, known to be actively put to use since 2015, is known to target Latin Am
 The vulnerabilities, according to SonarSource researchers Thomas Chauchefoin and Paul Gerste, are listed below -
 
 CVE-2024-39930 (CVSS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Removes VPN Apps from Russian App Store Amid Government Pressure]]></title>
-        <id>https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html</id>
-        <link href="https://thehackernews.com/2024/07/apple-removes-vpn-apps-from-russian-app.html"/>
-        <updated>2024-07-08T06:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple removed a number of virtual private network (VPN) apps in Russia from its App Store on July 4, 2024, following a request by Russia's state communications watchdog Roskomnadzor, Russian news media reported.
-This includes the mobile apps of 25 VPN service providers, including ProtonVPN, Red Shield VPN, NordVPN and Le VPN, according to MediaZona. It's worth noting that NordVPN previously shut]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
