@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-06T18:44:43.726Z</updated>
+    <updated>2024-08-06T19:09:28.103Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3202,29 +3202,6 @@ Mekotio, known to be actively put to use since 2015, is known to target Latin Am
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits NetApp (08 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0548</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0548"/>
-        <updated>2024-07-08T06:58:01.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits NetApp. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Unpatched Flaws Disclosed in Popular Gogs Open-Source Git Service]]></title>
-        <id>https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html</id>
-        <link href="https://thehackernews.com/2024/07/critical-vulnerabilities-disclosed-in.html"/>
-        <updated>2024-07-08T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Four unpatched security flaws, including three critical ones, have been disclosed in the Gogs open-source, self-hosted Git service that could enable an authenticated attacker to breach susceptible instances, steal or wipe source code, and even plant backdoors.
-The vulnerabilities, according to SonarSource researchers Thomas Chauchefoin and Paul Gerste, are listed below -
-
-CVE-2024-39930 (CVSS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
