@@ -2404,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO6fyq5UVGHNa1Xqb2pIc0DqSQnTdrw_9BJG3SLWkuN58Gc9C5zuyP-bR0-xkZdF3Iy-Z_taPb9YUPkTNwWHr0REmdD8wfzV5x6Pn6Kc6FpXEjP9vzpaQBeW7ZX8frmmzsMS0JYp-qoyeDxbup6HIfTr7yGdSC0_LJfCdj9PrAWILjH5dbZGfshYttirF5/s1600/china.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO6fyq5UVGHNa1Xqb2pIc0DqSQnTdrw_9BJG3SLWkuN58Gc9C5zuyP-bR0-xkZdF3Iy-Z_taPb9YUPkTNwWHr0REmdD8wfzV5x6Pn6Kc6FpXEjP9vzpaQBeW7ZX8frmmzsMS0JYp-qoyeDxbup6HIfTr7yGdSC0_LJfCdj9PrAWILjH5dbZGfshYttirF5/s1600/china.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/trojanized-jquery-packages-found-on-npm.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Unknown threat actors have been found propagating trojanized versions of jQuery on npm, GitHub, and jsDelivr in what appears to be an instance of a \"complex and persistent\" supply chain attack.\n\"This attack stands out due to the high variability across packages,\" Phylum said in an analysis published last week.\n\"The attacker has cleverly hidden the malware in the seldom-used 'end' function of",
-          "link": "https://thehackernews.com/2024/07/trojanized-jquery-packages-found-on-npm.html",
-          "publishedOn": "2024-07-09T04:48:00.000Z",
-          "wordCount": null,
-          "title": "Trojanized jQuery Packages Found on npm, GitHub, and jsDelivr Code Repositories",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF12l_elDCARlGbY0WSBN6nOXtl0q3arjVsa43aMTtADcN5x5fIVai4nIX8mSloKW139sJ_Rf4cxBd115Vc5gOMzgo21HJmTbBU4ZE9D1ru5hvavh2MPtuqCDed6kBaVlbX3kLraoM7Ow2eOt2JUBy-KBe64gX1it5aUpMkEieboSi0BVgIBgfq0sMjmja/s1600/jquery.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF12l_elDCARlGbY0WSBN6nOXtl0q3arjVsa43aMTtADcN5x5fIVai4nIX8mSloKW139sJ_Rf4cxBd115Vc5gOMzgo21HJmTbBU4ZE9D1ru5hvavh2MPtuqCDed6kBaVlbX3kLraoM7Ow2eOt2JUBy-KBe64gX1it5aUpMkEieboSi0BVgIBgfq0sMjmja/s1600/jquery.png"
         }
       ]
     },
