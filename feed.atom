@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-07T17:43:37.176Z</updated>
+    <updated>2024-08-07T18:15:21.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3217,17 +3217,6 @@ Deep Web - Websites and forums that are unindexed by search engines. For example
         <updated>2024-07-09T10:05:00.000Z</updated>
         <summary type="html"><![CDATA[Military personnel from Middle East countries are the target of an ongoing surveillanceware operation that delivers an Android data-gathering tool called GuardZoo.
 The campaign, believed to have commenced as early as October 2019, has been attributed to a Houthi-aligned threat actor based on the application lures, command-and-control (C2) server logs, targeting footprint, and the attack]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Agencies Warn of China-linked APT40's Rapid Exploit Adaptation]]></title>
-        <id>https://thehackernews.com/2024/07/cybersecurity-agencies-warn-of-china.html</id>
-        <link href="https://thehackernews.com/2024/07/cybersecurity-agencies-warn-of-china.html"/>
-        <updated>2024-07-09T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity agencies from Australia, Canada, Germany, Japan, New Zealand, South Korea, the U.K., and the U.S. have released a joint advisory about a China-linked cyber espionage group called APT40, warning about its ability to co-opt exploits for newly disclosed security flaws within hours or days of public release.
-"APT 40 has previously targeted organizations in various countries, including]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
