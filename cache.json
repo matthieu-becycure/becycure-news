@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have lifted the lid on a new technique adopted by threat actors behind the Chameleon Android banking trojan targeting users in Canada by masquerading as a Customer Relationship Management (CRM) app.\n\"Chameleon was seen masquerading as a CRM app, targeting a Canadian restaurant chain operating internationally,\" Dutch security outfit ThreatFabric said in a technical",
+          "link": "https://thehackernews.com/2024/08/chameleon-android-banking-trojan.html",
+          "publishedOn": "2024-08-07T06:25:00.000Z",
+          "wordCount": null,
+          "title": "Chameleon Android Banking Trojan Targets Users Through Fake CRM App",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__D-FkusoGmCGUYPI4XFzZ09qUAKQZHhQZ5xVREHFZ28GfYKZse_LbdAJRUrp6yFacH37UBX8ps3-XYRRrgQ4U_QjMPj2hh8OfmFGvMQyAeJlNnhvMiL83qbQuQercRN8cSBn-rhFvJS9hD69k_OWzucuW4ogf15nPTlA9o4FnMvSB8UaA97jT8Pty8Qd/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh__D-FkusoGmCGUYPI4XFzZ09qUAKQZHhQZ5xVREHFZ28GfYKZse_LbdAJRUrp6yFacH37UBX8ps3-XYRRrgQ4U_QjMPj2hh8OfmFGvMQyAeJlNnhvMiL83qbQuQercRN8cSBn-rhFvJS9hD69k_OWzucuW4ogf15nPTlA9o4FnMvSB8UaA97jT8Pty8Qd/s1600/android.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple on Tuesday announced an update to its next-generation macOS version that makes it a little more difficult for users to override Gatekeeper protections.\nGatekeeper is a crucial line of defense built into macOS designed to ensure that only trusted apps run on the operating system. When an app is downloaded from outside of the App Store and opened for the first time, it verifies that the",
