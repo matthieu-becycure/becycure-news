@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-07T22:43:33.190Z</updated>
+    <updated>2024-08-07T23:11:31.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3192,20 +3192,6 @@ The vulnerability, tracked as CVE-2024-6409 (CVSS score: 7.0), is distinct from 
         <updated>2024-07-09T11:50:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have found that it's possible for attackers to weaponize improperly configured Jenkins Script Console instances to further criminal activities such as cryptocurrency mining.
 "Misconfigurations such as improperly set up authentication mechanisms expose the '/script' endpoint to attackers," Trend Micro's Shubham Singh and Sunil Bharti said in a technical write-up]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HUMINT: Diving Deep into the Dark Web]]></title>
-        <id>https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html</id>
-        <link href="https://thehackernews.com/2024/07/humint-diving-deep-into-dark-web.html"/>
-        <updated>2024-07-09T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Clear Web vs. Deep Web vs. Dark Web
-Threat intelligence professionals divide the internet into three main components:
-
-Clear Web - Web assets that can be viewed through public search engines, including media, blogs, and other pages and sites.
-Deep Web - Websites and forums that are unindexed by search engines. For example, webmail, online banking, corporate intranets, walled gardens, etc. Some]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
