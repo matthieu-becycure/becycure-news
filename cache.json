@@ -2324,38 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1f6pmPQ49Ep_PbQBlspQe36Sc5otnXGVOf70xpZ9Y2YVfQEtOHdNkNgk09WusmVkwqnQqr5OMlkWhkSIeHruX7Lo8KeZch_Zkh4dmP18O7ji6wO8cCplnUgPSiSXphpgRQVLCIILYVCsGAwxTh8AdKFfYczc76VuRn-a0CuIiJ0dWnfIHnEfWShBly4q/s1600/openssh.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg1f6pmPQ49Ep_PbQBlspQe36Sc5otnXGVOf70xpZ9Y2YVfQEtOHdNkNgk09WusmVkwqnQqr5OMlkWhkSIeHruX7Lo8KeZch_Zkh4dmP18O7ji6wO8cCplnUgPSiSXphpgRQVLCIILYVCsGAwxTh8AdKFfYczc76VuRn-a0CuIiJ0dWnfIHnEfWShBly4q/s1600/openssh.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a security vulnerability in the RADIUS network authentication protocol called BlastRADIUS that could be exploited by an attacker to stage Mallory-in-the-middle (MitM) attacks and bypass integrity checks under certain circumstances.\n\"The RADIUS protocol allows certain Access-Request messages to have no integrity or authentication checks,\" InkBridge",
-          "link": "https://thehackernews.com/2024/07/radius-protocol-vulnerability-exposes.html",
-          "publishedOn": "2024-07-09T12:39:00.000Z",
-          "wordCount": null,
-          "title": "RADIUS Protocol Vulnerability Exposes Networks to MitM Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis2ZeBvytYv3LL8G8ibYplzi4TDY7hr59hq-llaz6I2d9Fipfm-rhlFLdO8ogpvXilORThcV2Yw1yJP0Tf7Li__tGfdXbZxQnAam-VMaHsIQpGkxx3JbGA5TUaZXoHCXbRrbMcYMRrG7Zx5hqmEuiPYU6Vgk0XAIPQIDtZa_KmXUHjvwm5KtWBOSxDSAiB/s1600/network.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have found that it's possible for attackers to weaponize improperly configured Jenkins Script Console instances to further criminal activities such as cryptocurrency mining.\n\"Misconfigurations such as improperly set up authentication mechanisms expose the '/script' endpoint to attackers,\" Trend Micro's Shubham Singh and Sunil Bharti said in a technical write-up",
-          "link": "https://thehackernews.com/2024/07/hackers-exploiting-jenkins-script.html",
-          "publishedOn": "2024-07-09T11:50:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploiting Jenkins Script Console for Cryptocurrency Mining Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOnbzRYECVkUz_4H2uSvDmfJFPbElNOnMiAXM4puwhBSUyi3WaZZ7C6ZY57wFse6u2oQw058ctz5VIy_7T4vf3T1hYnrcN5l8xTt4JlKy6lBlJpDHouIDIwPTmAN2Dz0YRVI4DseAWJoJl1HyZ0cIl9LVY_v61NNXxG2ZsfnuffKqjZluwGkyl77U05VAG/s1600/access.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOnbzRYECVkUz_4H2uSvDmfJFPbElNOnMiAXM4puwhBSUyi3WaZZ7C6ZY57wFse6u2oQw058ctz5VIy_7T4vf3T1hYnrcN5l8xTt4JlKy6lBlJpDHouIDIwPTmAN2Dz0YRVI4DseAWJoJl1HyZ0cIl9LVY_v61NNXxG2ZsfnuffKqjZluwGkyl77U05VAG/s1600/access.png"
         }
       ]
     },
@@ -3832,46 +3800,6 @@
           "publishedOn": "2024-07-09T12:58:55.000Z",
           "wordCount": 375,
           "title": "Vulnérabilité OpenSSH dans des systèmes d'exploitation (09 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans le protocole RADIUS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550/",
-          "publishedOn": "2024-07-09T12:51:12.000Z",
-          "wordCount": 330,
-          "title": "Vulnérabilité dans le protocole RADIUS (09 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans le protocole RADIUS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0550",
-          "publishedOn": "2024-07-09T12:51:12.000Z",
-          "wordCount": 340,
-          "title": "Vulnérabilité dans le protocole RADIUS (09 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549/",
-          "publishedOn": "2024-07-09T12:27:38.000Z",
-          "wordCount": 384,
-          "title": "Vulnérabilité dans les produits Schneider Electric (09 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Schneider Electric. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0549",
-          "publishedOn": "2024-07-09T12:27:38.000Z",
-          "wordCount": 394,
-          "title": "Vulnérabilité dans les produits Schneider Electric (09 juillet 2024)",
           "imageUrl": null
         }
       ]
