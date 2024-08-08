@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The last few years have seen more than a few new categories of security solutions arise in hopes of stemming a never-ending tidal wave of risks. One of these categories is Automated Security Validation (ASV), which provides the attacker’s perspective of exposures and equips security teams to continuously validate exposures, security measures, and remediation at scale. ASV is an important element",
+          "link": "https://thehackernews.com/2024/08/automated-security-validation-one-very.html",
+          "publishedOn": "2024-08-08T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jluJPsZ9rQAbj3OlMMjArTSstiM7pvcOZpd4CoKcQfd5xps2vxKiGXE_paB1Hu5LUZdz2qPoUfG8cPQxPp-DstLuxkI6cfI6u-NJgvi_NTwymOS10Ae76cyJnZ1RFVPC9A_RaY5QSy4k8tUiGo1MFBGckylbr6rGe-padbxBhWBEaL6ip_r7LHJljh8/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Microsoft said it is developing security updates to address two loopholes that it said could be abused to stage downgrade attacks against the Windows update architecture and replace current versions of the Windows files with older versions.\nThe vulnerabilities are listed below -\n\nCVE-2024-38202 (CVSS score: 7.3) - Windows Update Stack Elevation of Privilege Vulnerability\nCVE-2024-21302 (CVSS",
