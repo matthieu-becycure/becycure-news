@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-08T17:28:34.045Z</updated>
+    <updated>2024-08-08T17:44:05.563Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -3170,17 +3170,6 @@ Passkeys are considered a more secure and phishing-resistant alternative to pass
         <updated>2024-07-10T07:20:00.000Z</updated>
         <summary type="html"><![CDATA[Cryptocurrency analysts have shed light on an online marketplace called HuiOne Guarantee that's widely used by cybercriminals in Southeast Asia, particularly those linked to pig butchering scams.
 "Merchants on the platform offer technology, data, and money laundering services, and have engaged in transactions totaling at least $11 billion," Elliptic said in a report shared with The Hacker News.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ViperSoftX Malware Disguises as eBooks on Torrents to Spread Stealthy Attacks]]></title>
-        <id>https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html</id>
-        <link href="https://thehackernews.com/2024/07/vipersoftx-malware-disguises-as-ebooks.html"/>
-        <updated>2024-07-10T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[The sophisticated malware known as ViperSoftX has been observed being distributed as eBooks over torrents.
-"A notable aspect of the current variant of ViperSoftX is that it uses the Common Language Runtime (CLR) to dynamically load and run PowerShell commands, thereby creating a PowerShell environment within AutoIt for operations," Trellix security researchers Mathanraj Thangaraju and Sijo Jacob]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
