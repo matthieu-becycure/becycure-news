@@ -3651,26 +3651,6 @@
           "wordCount": 382,
           "title": "Vulnérabilité dans les produits Mitel (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564/",
-          "publishedOn": "2024-07-10T09:19:09.000Z",
-          "wordCount": 394,
-          "title": "Multiples vulnérabilités dans les produits Tenable (10 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0564",
-          "publishedOn": "2024-07-10T09:19:09.000Z",
-          "wordCount": 404,
-          "title": "Multiples vulnérabilités dans les produits Tenable (10 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
