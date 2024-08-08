@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-08T22:43:44.498Z</updated>
+    <updated>2024-08-08T23:12:09.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2926,27 +2926,6 @@ The “2024 Attack Intelligence Report” from the staff at Rapid7 [1] is a well
 
 53% of the over 30 new vulnerabilities that were widely exploited in 2023 and at the start of 2024 were zero-days.
 More mass compromise events arose from zero-day vulnerabilities than from n-day vulnerabilities.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's July Update Patches 143 Flaws, Including Two Actively Exploited]]></title>
-        <id>https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html</id>
-        <link href="https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html"/>
-        <updated>2024-07-10T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released patches to address a total of 143 security flaws as part of its monthly security updates, two of which have come under active exploitation in the wild.
-Five out of the 143 flaws are rated Critical, 136 are rated Important, and four are rated Moderate in severity. The fixes are in addition to 33 vulnerabilities that have been addressed in the Chromium-based Edge browser]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[True Protection or False Promise? The Ultimate ITDR Shortlisting Guide]]></title>
-        <id>https://thehackernews.com/2024/07/true-protection-or-false-promise.html</id>
-        <link href="https://thehackernews.com/2024/07/true-protection-or-false-promise.html"/>
-        <updated>2024-07-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s the age of identity security. The explosion of driven ransomware attacks has made CISOs and security teams realize that identity protection lags 20 years behind their endpoints and networks. This realization is mainly due to the transformation of lateral movement from fine art, found in APT and top cybercrime groups only, to a commodity skill used in almost every ransomware attack. The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

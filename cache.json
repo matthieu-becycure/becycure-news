@@ -2356,38 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS1TaKtahwUsHEaubtAF8fUdsFtthbkCPizSN5tbkRscJy8VEmRJpbfXajV9blIkLQGReEIJZfHGgb4HlHpkwbR64VNYOy47-dXxqiORGG2idD9nbMmjm9Q00mmzFYDgAlzh1GJtTbhhTGzsPA9i-S-jeoTdpSF5LqETg4VawByTebwgDQjHQ4KOe4OpwO/s1600/chip.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS1TaKtahwUsHEaubtAF8fUdsFtthbkCPizSN5tbkRscJy8VEmRJpbfXajV9blIkLQGReEIJZfHGgb4HlHpkwbR64VNYOy47-dXxqiORGG2idD9nbMmjm9Q00mmzFYDgAlzh1GJtTbhhTGzsPA9i-S-jeoTdpSF5LqETg4VawByTebwgDQjHQ4KOe4OpwO/s1600/chip.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft has released patches to address a total of 143 security flaws as part of its monthly security updates, two of which have come under active exploitation in the wild.\nFive out of the 143 flaws are rated Critical, 136 are rated Important, and four are rated Moderate in severity. The fixes are in addition to 33 vulnerabilities that have been addressed in the Chromium-based Edge browser",
-          "link": "https://thehackernews.com/2024/07/microsofts-july-update-patches-143.html",
-          "publishedOn": "2024-07-10T11:05:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft's July Update Patches 143 Flaws, Including Two Actively Exploited",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowJkPibO_hqE7g8nXYrLK5c3FJ-XunOH4ZGZLbIs0J0vmrB8e2g6mxKBRysrQLthkgbOOIlG9kd3LHgNQCjWtBb_B4R8gqHeppXDuLZDTPdIw8Fj2m6GHGOFtijl6Uxyy0KEq6OWhhuUn-LDw_TaZB6FDqC-e1NzhCX0Rm1QkxazOxM1r5sHci2U6pBUh/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiowJkPibO_hqE7g8nXYrLK5c3FJ-XunOH4ZGZLbIs0J0vmrB8e2g6mxKBRysrQLthkgbOOIlG9kd3LHgNQCjWtBb_B4R8gqHeppXDuLZDTPdIw8Fj2m6GHGOFtijl6Uxyy0KEq6OWhhuUn-LDw_TaZB6FDqC-e1NzhCX0Rm1QkxazOxM1r5sHci2U6pBUh/s1600/ms.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/true-protection-or-false-promise.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "It’s the age of identity security. The explosion of driven ransomware attacks has made CISOs and security teams realize that identity protection lags 20 years behind their endpoints and networks. This realization is mainly due to the transformation of lateral movement from fine art, found in APT and top cybercrime groups only, to a commodity skill used in almost every ransomware attack. The",
-          "link": "https://thehackernews.com/2024/07/true-protection-or-false-promise.html",
-          "publishedOn": "2024-07-10T11:00:00.000Z",
-          "wordCount": null,
-          "title": "True Protection or False Promise? The Ultimate ITDR Shortlisting Guide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2mFYsViqTApgLu-iBOssJ4z5QFg77IH4fX2afZVKGdgkv4CbOQzf4EvvOZgRpo8jXp7AQblbT1jvSqGSmR6pnZRMtVXZN0LBN0QouKld-JgB-oZnKwAeXEGobqX3-xx8WEdEqZ0rlHT0PrsKXVoKrxnzVselbZkebBR55-vbL3MMZoUBrJOg3ZXOzhY/s1600/silverfort.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm2mFYsViqTApgLu-iBOssJ4z5QFg77IH4fX2afZVKGdgkv4CbOQzf4EvvOZgRpo8jXp7AQblbT1jvSqGSmR6pnZRMtVXZN0LBN0QouKld-JgB-oZnKwAeXEGobqX3-xx8WEdEqZ0rlHT0PrsKXVoKrxnzVselbZkebBR55-vbL3MMZoUBrJOg3ZXOzhY/s1600/silverfort.png"
         }
       ]
     },
