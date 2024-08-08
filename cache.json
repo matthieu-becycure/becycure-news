@@ -3671,26 +3671,6 @@
           "wordCount": 404,
           "title": "Multiples vulnérabilités dans les produits Tenable (10 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563/",
-          "publishedOn": "2024-07-10T09:05:09.000Z",
-          "wordCount": 652,
-          "title": "Multiples vulnérabilités dans les produits Citrix (10 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0563",
-          "publishedOn": "2024-07-10T09:05:09.000Z",
-          "wordCount": 662,
-          "title": "Multiples vulnérabilités dans les produits Citrix (10 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
