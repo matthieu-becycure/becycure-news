@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-08T23:27:02.455Z</updated>
+    <updated>2024-08-08T23:43:28.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2912,20 +2912,6 @@ Tracked as CVE-2024-6385, the vulnerability carries a CVSS score of 9.6 out of a
         <summary type="html"><![CDATA[A now-patched security flaw in Veeam Backup & Replication software is being exploited by a nascent ransomware operation known as EstateRansomware.
 Singapore-headquartered Group-IB, which discovered the threat actor in early April 2024, said the modus operandi involved the exploitation of CVE-2023-27532 (CVSS score: 7.5) to carry out the malicious activities.
 Initial access to the target]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smash-and-Grab Extortion]]></title>
-        <id>https://thehackernews.com/2024/07/smash-and-grab-extortion.html</id>
-        <link href="https://thehackernews.com/2024/07/smash-and-grab-extortion.html"/>
-        <updated>2024-07-10T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Problem
-The “2024 Attack Intelligence Report” from the staff at Rapid7 [1] is a well-researched, well-written report that is worthy of careful study. Some key takeaways are: 
-
-53% of the over 30 new vulnerabilities that were widely exploited in 2023 and at the start of 2024 were zero-days.
-More mass compromise events arose from zero-day vulnerabilities than from n-day vulnerabilities.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
