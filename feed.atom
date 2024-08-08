@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-08T16:14:22.441Z</updated>
+    <updated>2024-08-08T16:33:58.723Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[University Professors Targeted by North Korean Cyber Espionage Group]]></title>
+        <id>https://thehackernews.com/2024/08/university-professors-targeted-by-north.html</id>
+        <link href="https://thehackernews.com/2024/08/university-professors-targeted-by-north.html"/>
+        <updated>2024-08-08T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[The North Korea-linked threat actor known as Kimsuky has been linked to a new set of attacks targeting university staff, researchers, and professors for intelligence gathering purposes.
+Cybersecurity firm Resilience said it identified the activity in late July 2024 after it observed an operation security (OPSEC) error made by the hackers.
+Kimsuky, also known by the names APT43, ARCHIPELAGO,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices]]></title>
         <id>https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html</id>

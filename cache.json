@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/university-professors-targeted-by-north.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korea-linked threat actor known as Kimsuky has been linked to a new set of attacks targeting university staff, researchers, and professors for intelligence gathering purposes.\nCybersecurity firm Resilience said it identified the activity in late July 2024 after it observed an operation security (OPSEC) error made by the hackers.\nKimsuky, also known by the names APT43, ARCHIPELAGO,",
+          "link": "https://thehackernews.com/2024/08/university-professors-targeted-by-north.html",
+          "publishedOn": "2024-08-08T15:31:00.000Z",
+          "wordCount": null,
+          "title": "University Professors Targeted by North Korean Cyber Espionage Group",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3KecarZnV5rt-KFqvSsLMq9IYHU5oKhPIEAJV5VlH-fMOqkYDDQtwkCjXQ5ECcrVPR0H7kIZD-2RbuqYJdvits1yOcGo2cnjVNVmwHcUQ_0vHrVwDCgMxaYDrlSPmA93RlbUknIEP8YkO6C-DvYdSx9Wr4EDEpefJkYgbYyABJkwODiMZ8IzreCMYuPA/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3KecarZnV5rt-KFqvSsLMq9IYHU5oKhPIEAJV5VlH-fMOqkYDDQtwkCjXQ5ECcrVPR0H7kIZD-2RbuqYJdvits1yOcGo2cnjVNVmwHcUQ_0vHrVwDCgMxaYDrlSPmA93RlbUknIEP8YkO6C-DvYdSx9Wr4EDEpefJkYgbYyABJkwODiMZ8IzreCMYuPA/s1600/hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new \"0.0.0.0 Day\" impacting all major web browsers that malicious websites could take advantage of to breach local networks.\nThe critical vulnerability \"exposes a fundamental flaw in how browsers handle network requests, potentially granting malicious actors access to sensitive services running on local devices,\" Oligo Security researcher Avi Lumelsky",
