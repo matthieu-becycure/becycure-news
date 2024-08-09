@@ -3533,66 +3533,6 @@
           "wordCount": 466,
           "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571/",
-          "publishedOn": "2024-07-11T09:09:11.000Z",
-          "wordCount": 326,
-          "title": "Vulnérabilité dans les produits VMware (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits VMware. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0571",
-          "publishedOn": "2024-07-11T09:09:11.000Z",
-          "wordCount": 336,
-          "title": "Vulnérabilité dans les produits VMware (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030/",
-          "author": null,
-          "description": "Résumé Le 25 juin 2024, l’éditeur Sansec indique que des redirections malveillantes sont déployées par la bibliothèque polyfill.js. Cette dernière est employée par plusieurs centaines de milliers de sites à travers le monde et permet à des sites web de supporter des navigateurs obsolètes comme...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030/",
-          "publishedOn": "2024-07-11T08:55:21.000Z",
-          "wordCount": 754,
-          "title": "Compromission de la bibliothèque polyfill[.]io (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030",
-          "author": null,
-          "description": "Résumé Le 25 juin 2024, l’éditeur Sansec indique que des redirections malveillantes sont déployées par la bibliothèque polyfill.js. Cette dernière est employée par plusieurs centaines de milliers de sites à travers le monde et permet à des sites web de supporter des navigateurs obsolètes comme...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-030",
-          "publishedOn": "2024-07-11T08:55:21.000Z",
-          "wordCount": 764,
-          "title": "Compromission de la bibliothèque polyfill[.]io (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570/",
-          "publishedOn": "2024-07-11T08:49:24.000Z",
-          "wordCount": 625,
-          "title": "Vulnérabilité dans les produits Moxa (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une élévation de privilèges et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0570",
-          "publishedOn": "2024-07-11T08:49:24.000Z",
-          "wordCount": 635,
-          "title": "Vulnérabilité dans les produits Moxa (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
