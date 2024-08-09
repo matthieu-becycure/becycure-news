@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-09T22:43:30.385Z</updated>
+    <updated>2024-08-09T23:11:23.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2841,16 +2841,6 @@ The fresh packages, about 60 in number and spanning 290 versions, demonstrate a 
         <updated>2024-07-11T12:31:00.000Z</updated>
         <summary type="html"><![CDATA[The China-linked advanced persistent threat (APT) group codenamed APT41 is suspected to be using an "advanced and upgraded version" of a known malware called StealthVector to deliver a previously undocumented backdoor dubbed MoonWalk.
 The new variant of StealthVector – which is also referred to as DUSTPAN – has been codenamed DodgeBox by Zscaler ThreatLabz, which discovered the loader strain in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamlined Security Solutions: PAM for Small to Medium-sized Businesses]]></title>
-        <id>https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html</id>
-        <link href="https://thehackernews.com/2024/07/streamlined-security-solutions-pam-for.html"/>
-        <updated>2024-07-11T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, all organizations are exposed to the threat of cyber breaches, irrespective of their scale. Historically, larger companies were frequent targets due to their substantial resources, sensitive data, and regulatory responsibilities, whereas smaller entities often underestimated their attractiveness to hackers. However, this assumption is precarious, as cybercriminals frequently exploit]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
