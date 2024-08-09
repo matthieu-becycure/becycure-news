@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPHR1y16nNoD9WzEJzNMa3M31xoAMnoItAXcwOhdgVeplTv8LbhOhRvWTj-GYi5pFUtrJ6Ho2pShb666-sW4P8we-ojXe40QtV9wH6rg-lgJpdBftSIRGrv01EPD1f3YGxzkOzSZVvC_slR91M6GzSxYAn0rJ7BgFaEAuDHQ70fYSiiG8ftLAJa8sHpah/s1600/software-update.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPHR1y16nNoD9WzEJzNMa3M31xoAMnoItAXcwOhdgVeplTv8LbhOhRvWTj-GYi5pFUtrJ6Ho2pShb666-sW4P8we-ojXe40QtV9wH6rg-lgJpdBftSIRGrv01EPD1f3YGxzkOzSZVvC_slR91M6GzSxYAn0rJ7BgFaEAuDHQ70fYSiiG8ftLAJa8sHpah/s1600/software-update.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security flaw in Veeam Backup & Replication software is being exploited by a nascent ransomware operation known as EstateRansomware.\nSingapore-headquartered Group-IB, which discovered the threat actor in early April 2024, said the modus operandi involved the exploitation of CVE-2023-27532 (CVSS score: 7.5) to carry out the malicious activities.\nInitial access to the target",
-          "link": "https://thehackernews.com/2024/07/new-ransomware-group-exploiting-veeam.html",
-          "publishedOn": "2024-07-10T13:06:00.000Z",
-          "wordCount": null,
-          "title": "New Ransomware Group Exploiting Veeam Backup Software Vulnerability",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHl3_plMYIY3arT58MO9NzvI4HayD9Z1ej65ohvis1OEc8pLs__4lYT4VWwEfYDt3-IJaslL0nwvzMs9-HvzcPOBD5qiQ4Bmzag0NUofBY-CFicSZxQNfCKE1wYEgqe8shTAxydyxruIRW4cyaGtUaCfqBvJyKPv3kFU53Fu9neRTvNfuKvw-yjbHSd_C/s1600/gib.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifHl3_plMYIY3arT58MO9NzvI4HayD9Z1ej65ohvis1OEc8pLs__4lYT4VWwEfYDt3-IJaslL0nwvzMs9-HvzcPOBD5qiQ4Bmzag0NUofBY-CFicSZxQNfCKE1wYEgqe8shTAxydyxruIRW4cyaGtUaCfqBvJyKPv3kFU53Fu9neRTvNfuKvw-yjbHSd_C/s1600/gib.png"
         }
       ]
     },
