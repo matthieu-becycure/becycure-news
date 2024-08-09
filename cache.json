@@ -3633,46 +3633,6 @@
           "wordCount": 316,
           "title": "Vulnérabilité dans Wireshark (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567/",
-          "publishedOn": "2024-07-11T08:03:47.000Z",
-          "wordCount": 591,
-          "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0567",
-          "publishedOn": "2024-07-11T08:03:47.000Z",
-          "wordCount": 601,
-          "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566/",
-          "publishedOn": "2024-07-11T07:49:22.000Z",
-          "wordCount": 371,
-          "title": "Multiples vulnérabilités dans GLPI (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GLPI. lles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0566",
-          "publishedOn": "2024-07-11T07:49:22.000Z",
-          "wordCount": 381,
-          "title": "Multiples vulnérabilités dans GLPI (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
