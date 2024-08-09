@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Thursday disclosed four medium-severity security flaws in the open-source OpenVPN software that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).\n\"This attack chain could enable attackers to gain full control over targeted endpoints, potentially resulting in data breaches, system compromise, and unauthorized access to sensitive information",
+          "link": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
+          "publishedOn": "2024-08-09T18:18:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s1600/openvpn.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s1600/openvpn.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered weaknesses in Sonos smart speakers that could be exploited by malicious actors to clandestinely eavesdrop on users.\nThe vulnerabilities \"led to an entire break in the security of Sonos's secure boot process across a wide range of devices and remotely being able to compromise several devices over the air,\" NCC Group security researchers Alex Plaskett and",
