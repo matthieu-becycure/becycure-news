@@ -3673,26 +3673,6 @@
           "wordCount": 381,
           "title": "Multiples vulnérabilités dans GLPI (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565/",
-          "publishedOn": "2024-07-11T07:33:16.000Z",
-          "wordCount": 372,
-          "title": "Vulnérabilité dans les produits Mitel (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Mitel. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0565",
-          "publishedOn": "2024-07-11T07:33:16.000Z",
-          "wordCount": 382,
-          "title": "Vulnérabilité dans les produits Mitel (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
