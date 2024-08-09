@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-09T07:25:40.229Z</updated>
+    <updated>2024-08-09T07:43:50.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DOJ Charges Nashville Man for Helping North Koreans Get U.S. Tech Jobs]]></title>
+        <id>https://thehackernews.com/2024/08/doj-charges-nashville-man-for-helping.html</id>
+        <link href="https://thehackernews.com/2024/08/doj-charges-nashville-man-for-helping.html"/>
+        <updated>2024-08-09T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Thursday charged a 38-year-old individual from Nashville, Tennessee, for allegedly running a "laptop farm" to help get North Koreans remote jobs with American and British companies.
+Matthew Isaac Knoot is charged with conspiracy to cause damage to protected computers, conspiracy to launder monetary instruments, conspiracy to commit wire fraud, intentional]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature]]></title>
         <id>https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html</id>
