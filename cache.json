@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8LNcwmw4vq8SCQBtv0NpgGBZ8g_CrX7-ST2zE7JT_9wAu6TpmypPXtABiWYJvpDfgzQJf4wD3OCiB3KENkqusLzhyphenhyphenpUU-8z59dU2xT3JdgwYTUfyUvoa1i2Rmp2bQjT5dwqFh2n_SqdzDxad2cRDQ2qugqW_Surlw8BJLnM_N7HOPVSEx9fIKWbBxzv3/s1600/phishing.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj8LNcwmw4vq8SCQBtv0NpgGBZ8g_CrX7-ST2zE7JT_9wAu6TpmypPXtABiWYJvpDfgzQJf4wD3OCiB3KENkqusLzhyphenhyphenpUU-8z59dU2xT3JdgwYTUfyUvoa1i2Rmp2bQjT5dwqFh2n_SqdzDxad2cRDQ2qugqW_Surlw8BJLnM_N7HOPVSEx9fIKWbBxzv3/s1600/phishing.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/php-vulnerability-exploited-to-spread.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Multiple threat actors have been observed exploiting a recently disclosed security flaw in PHP to deliver remote access trojans, cryptocurrency miners, and distributed denial-of-service (DDoS) botnets.\nThe vulnerability in question is CVE-2024-4577 (CVSS score: 9.8), which allows an attacker to remotely execute malicious commands on Windows systems using Chinese and Japanese language locales. It",
-          "link": "https://thehackernews.com/2024/07/php-vulnerability-exploited-to-spread.html",
-          "publishedOn": "2024-07-11T05:19:00.000Z",
-          "wordCount": null,
-          "title": "PHP Vulnerability Exploited to Spread Malware and Launch DDoS Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdL0p6dNeoFDz_J6SoxjaM3puIrRd3yP4OXh0TWcWTkPrmaYD0KaIIaKSzhNYO6BjsMT1Z6R3GFcL8C2H8P0PeDVgqvOLSQ0IgZ0ooeOFEGPndADTVrdPjd_xXjpWOqB1PrtY8XOd6EMsvSquK9c1a_7pAQEAZetlFA7eIgH3NnyKHqvucqZNU9atvum1o/s1600/php.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdL0p6dNeoFDz_J6SoxjaM3puIrRd3yP4OXh0TWcWTkPrmaYD0KaIIaKSzhNYO6BjsMT1Z6R3GFcL8C2H8P0PeDVgqvOLSQ0IgZ0ooeOFEGPndADTVrdPjd_xXjpWOqB1PrtY8XOd6EMsvSquK9c1a_7pAQEAZetlFA7eIgH3NnyKHqvucqZNU9atvum1o/s1600/php.png"
         }
       ]
     },
