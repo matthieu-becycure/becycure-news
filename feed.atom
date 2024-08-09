@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-09T14:11:28.293Z</updated>
+    <updated>2024-08-09T14:30:13.809Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users]]></title>
+        <id>https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html</id>
+        <link href="https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html"/>
+        <updated>2024-08-09T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered weaknesses in Sonos smart speakers that could be exploited by malicious actors to clandestinely eavesdrop on users.
+The vulnerabilities "led to an entire break in the security of Sonos's secure boot process across a wide range of devices and remotely being able to compromise several devices over the air," NCC Group security researchers Alex Plaskett and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DOJ Charges Nashville Man for Helping North Koreans Get U.S. Tech Jobs]]></title>
         <id>https://thehackernews.com/2024/08/doj-charges-nashville-man-for-helping.html</id>
