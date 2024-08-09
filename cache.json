@@ -3593,46 +3593,6 @@
           "wordCount": 635,
           "title": "Vulnérabilité dans les produits Moxa (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569/",
-          "publishedOn": "2024-07-11T08:37:47.000Z",
-          "wordCount": 310,
-          "title": "Vulnérabilité dans les produits Cisco (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0569",
-          "publishedOn": "2024-07-11T08:37:47.000Z",
-          "wordCount": 320,
-          "title": "Vulnérabilité dans les produits Cisco (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568/",
-          "publishedOn": "2024-07-11T08:32:32.000Z",
-          "wordCount": 306,
-          "title": "Vulnérabilité dans Wireshark (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0568",
-          "publishedOn": "2024-07-11T08:32:32.000Z",
-          "wordCount": 316,
-          "title": "Vulnérabilité dans Wireshark (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
