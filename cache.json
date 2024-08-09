@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdL0p6dNeoFDz_J6SoxjaM3puIrRd3yP4OXh0TWcWTkPrmaYD0KaIIaKSzhNYO6BjsMT1Z6R3GFcL8C2H8P0PeDVgqvOLSQ0IgZ0ooeOFEGPndADTVrdPjd_xXjpWOqB1PrtY8XOd6EMsvSquK9c1a_7pAQEAZetlFA7eIgH3NnyKHqvucqZNU9atvum1o/s1600/php.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdL0p6dNeoFDz_J6SoxjaM3puIrRd3yP4OXh0TWcWTkPrmaYD0KaIIaKSzhNYO6BjsMT1Z6R3GFcL8C2H8P0PeDVgqvOLSQ0IgZ0ooeOFEGPndADTVrdPjd_xXjpWOqB1PrtY8XOd6EMsvSquK9c1a_7pAQEAZetlFA7eIgH3NnyKHqvucqZNU9atvum1o/s1600/php.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitLab has shipped another round of updates to close out security flaws in its software development platform, including a critical bug that allows an attacker to run pipeline jobs as an arbitrary user.\nTracked as CVE-2024-6385, the vulnerability carries a CVSS score of 9.6 out of a maximum of 10.0.\n\"An issue was discovered in GitLab CE/EE affecting versions 15.8 prior to 16.11.6, 17.0 prior to",
-          "link": "https://thehackernews.com/2024/07/gitlab-patches-critical-flaw-allowing.html",
-          "publishedOn": "2024-07-11T03:51:00.000Z",
-          "wordCount": null,
-          "title": "GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Jobs",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPHR1y16nNoD9WzEJzNMa3M31xoAMnoItAXcwOhdgVeplTv8LbhOhRvWTj-GYi5pFUtrJ6Ho2pShb666-sW4P8we-ojXe40QtV9wH6rg-lgJpdBftSIRGrv01EPD1f3YGxzkOzSZVvC_slR91M6GzSxYAn0rJ7BgFaEAuDHQ70fYSiiG8ftLAJa8sHpah/s1600/software-update.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHPHR1y16nNoD9WzEJzNMa3M31xoAMnoItAXcwOhdgVeplTv8LbhOhRvWTj-GYi5pFUtrJ6Ho2pShb666-sW4P8we-ojXe40QtV9wH6rg-lgJpdBftSIRGrv01EPD1f3YGxzkOzSZVvC_slR91M6GzSxYAn0rJ7BgFaEAuDHQ70fYSiiG8ftLAJa8sHpah/s1600/software-update.png"
         }
       ]
     },
