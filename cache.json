@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBJy5ifI4zsrmztC33d8M14oiKVq6vVhebOK_FqdZNNQOk-7g6G5eiemabE4kUsiJQRxBZ_cEzqW6ZK3kBrExiGjfSB1EDpCGI9_wpCoVg3eGSm3gfgmqbY0oPbTdcdax7xebaShd60Is047d-sg_gTyIRkkIUE_-zzTLeQka1NZTPWT7vUTx6tPIM9z-/s1600/fake-news-bot-farm.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuBJy5ifI4zsrmztC33d8M14oiKVq6vVhebOK_FqdZNNQOk-7g6G5eiemabE4kUsiJQRxBZ_cEzqW6ZK3kBrExiGjfSB1EDpCGI9_wpCoVg3eGSm3gfgmqbY0oPbTdcdax7xebaShd60Is047d-sg_gTyIRkkIUE_-zzTLeQka1NZTPWT7vUTx6tPIM9z-/s1600/fake-news-bot-farm.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Palo Alto Networks has released security updates to address five security flaws impacting its products, including a critical bug that could lead to an authentication bypass.\nCataloged as CVE-2024-5910 (CVSS score: 9.3), the vulnerability has been described as a case of missing authentication in its Expedition migration tool that could lead to an admin account takeover.\n\"Missing authentication",
-          "link": "https://thehackernews.com/2024/07/palo-alto-networks-patches-critical.html",
-          "publishedOn": "2024-07-11T15:19:00.000Z",
-          "wordCount": null,
-          "title": "Palo Alto Networks Patches Critical Flaw in Expedition Migration Tool",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-siVqYc98XRaBvRCGc41KIhVdA5dDNA0RKWdH_Ity3AraUc4s5Zd7rkzDgGWovHtxLQoHb-bQqZzMe_NpyWWbtNx2pMIz3e2MsTMFKAhV67qTpJZqyqAD7ki6r-sdGCxXJ8QCII_ov8hjR6MU9A12xm7CbW-M8MUekY7oH5oIP6xrTiSo7o3SUcZsfd2t/s1600/palo.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-siVqYc98XRaBvRCGc41KIhVdA5dDNA0RKWdH_Ity3AraUc4s5Zd7rkzDgGWovHtxLQoHb-bQqZzMe_NpyWWbtNx2pMIz3e2MsTMFKAhV67qTpJZqyqAD7ki6r-sdGCxXJ8QCII_ov8hjR6MU9A12xm7CbW-M8MUekY7oH5oIP6xrTiSo7o3SUcZsfd2t/s1600/palo.png"
         }
       ]
     },
