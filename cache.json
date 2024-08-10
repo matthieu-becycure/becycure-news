@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAI5AWPHBqq4TRW5st_IPJKlITC848GP2gRZnE7sADmXyariSsJIKDKGIS_NBprhzAOeMYGXuG207VmmlPP09D702sWpeAc4FUd5JFqonHCOuGrtTi8XLL8DDTJ1lQk-AArEuAcNEDcvhvgaZsdHpENPRaTONqnVwgeGHP_lj1DMNq-wMWkC0d-ueCT1N6/s1600/hacking.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAI5AWPHBqq4TRW5st_IPJKlITC848GP2gRZnE7sADmXyariSsJIKDKGIS_NBprhzAOeMYGXuG207VmmlPP09D702sWpeAc4FUd5JFqonHCOuGrtTi8XLL8DDTJ1lQk-AArEuAcNEDcvhvgaZsdHpENPRaTONqnVwgeGHP_lj1DMNq-wMWkC0d-ueCT1N6/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The China-linked advanced persistent threat (APT) group codenamed APT41 is suspected to be using an \"advanced and upgraded version\" of a known malware called StealthVector to deliver a previously undocumented backdoor dubbed MoonWalk.\nThe new variant of StealthVector – which is also referred to as DUSTPAN – has been codenamed DodgeBox by Zscaler ThreatLabz, which discovered the loader strain in",
-          "link": "https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html",
-          "publishedOn": "2024-07-11T12:31:00.000Z",
-          "wordCount": null,
-          "title": "Chinese APT41 Upgrades Malware Arsenal with DodgeBox and MoonWalk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimkWEQrDMcJoLwqwbS3aJhPZaKxjpj2IdiIfCCZQyvqKqgEwF072u4s8plue2sBsAPm-MJ9f1E-c2TeGUKp8A_NG9l5G6psAsY02QAtOLCmAc8Tw-gv3_GFSxIZs7FNR8zhTYeHq6vRMBzu35gEGZZa-55KqvUHWeDS6oxjdzwfVuNFhqauVkujNQJ6Tyi/s1600/chinese-hackers.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimkWEQrDMcJoLwqwbS3aJhPZaKxjpj2IdiIfCCZQyvqKqgEwF072u4s8plue2sBsAPm-MJ9f1E-c2TeGUKp8A_NG9l5G6psAsY02QAtOLCmAc8Tw-gv3_GFSxIZs7FNR8zhTYeHq6vRMBzu35gEGZZa-55KqvUHWeDS6oxjdzwfVuNFhqauVkujNQJ6Tyi/s1600/chinese-hackers.jpg"
         }
       ]
     },
@@ -3495,26 +3479,6 @@
           "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002",
           "publishedOn": "2024-07-11T13:25:45.000Z",
           "wordCount": 322,
-          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/",
-          "author": null,
-          "description": "Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/",
-          "publishedOn": "2024-07-11T12:49:37.000Z",
-          "wordCount": 456,
-          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007",
-          "author": null,
-          "description": "Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007",
-          "publishedOn": "2024-07-11T12:49:37.000Z",
-          "wordCount": 466,
           "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
           "imageUrl": null
         }

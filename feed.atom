@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-09T23:43:25.749Z</updated>
+    <updated>2024-08-10T00:55:19.806Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2812,37 +2812,6 @@ The fresh packages, about 60 in number and spanning 290 versions, demonstrate a 
         <summary type="html"><![CDATA[Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication ["Codes malveillants utilisés à des fins destructrices"](/cti/CERTFR-2024-CTI-007/ ) ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codes malveillants utilisés à des fins destructrices (11 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/</id>
-        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007/"/>
-        <updated>2024-07-11T12:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Codes malveillants utilisés à des fins destructrices (11 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007</id>
-        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-007"/>
-        <updated>2024-07-11T12:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Les attaques à but de déstabilisation constituent des menaces informatiques qui visent de manière récurrente les grands évènements sportifs. Si elles prennent souvent la forme d’attaques par déni de service distribué (DDoS) ou de défigurations de sites Web, elles peuvent aussi passer par des...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese APT41 Upgrades Malware Arsenal with DodgeBox and MoonWalk]]></title>
-        <id>https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html</id>
-        <link href="https://thehackernews.com/2024/07/chinese-apt41-upgrades-malware-arsenal.html"/>
-        <updated>2024-07-11T12:31:00.000Z</updated>
-        <summary type="html"><![CDATA[The China-linked advanced persistent threat (APT) group codenamed APT41 is suspected to be using an "advanced and upgraded version" of a known malware called StealthVector to deliver a previously undocumented backdoor dubbed MoonWalk.
-The new variant of StealthVector – which is also referred to as DUSTPAN – has been codenamed DodgeBox by Zscaler ThreatLabz, which discovered the loader strain in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
