@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-10T22:43:48.484Z</updated>
+    <updated>2024-08-10T23:11:10.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2668,20 +2668,6 @@ This includes a 40-year-old woman, an Australian Defence Force (ADF) Army Privat
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Exim Mail Server Vulnerability Exposes Millions to Malicious Attachments]]></title>
-        <id>https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html</id>
-        <link href="https://thehackernews.com/2024/07/critical-exim-mail-server-vulnerability.html"/>
-        <updated>2024-07-12T10:51:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security issue has been disclosed in the Exim mail transfer agent that could enable threat actors to deliver malicious attachments to target users' inboxes.
-
-The vulnerability, tracked as CVE-2024-39929, has a CVSS score of 9.1 out of 10.0. It has been addressed in version 4.98.
-
-"Exim through 4.97.1 misparses a multiline RFC 2231 header filename, and thus remote attackers can bypass]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
