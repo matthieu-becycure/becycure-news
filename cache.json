@@ -3417,26 +3417,6 @@
           "wordCount": 3159,
           "title": "Multiples vulnérabilités dans les produits Juniper Networks (12 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574/",
-          "publishedOn": "2024-07-12T07:32:37.000Z",
-          "wordCount": 304,
-          "title": "Vulnérabilité dans Citrix uberAgent (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Citrix uberAgent. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0574",
-          "publishedOn": "2024-07-12T07:32:37.000Z",
-          "wordCount": 314,
-          "title": "Vulnérabilité dans Citrix uberAgent (12 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
