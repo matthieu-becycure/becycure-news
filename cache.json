@@ -3441,26 +3441,6 @@
           "wordCount": 326,
           "title": "Vulnérabilité dans les produits Microsoft (12 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572/",
-          "publishedOn": "2024-07-11T14:26:26.000Z",
-          "wordCount": 389,
-          "title": "Multiples vulnérabilités dans GitLab (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0572",
-          "publishedOn": "2024-07-11T14:26:26.000Z",
-          "wordCount": 399,
-          "title": "Multiples vulnérabilités dans GitLab (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
