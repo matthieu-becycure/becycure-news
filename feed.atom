@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-10T02:44:47.277Z</updated>
+    <updated>2024-08-10T03:15:00.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2759,17 +2759,6 @@ Imagine waking up to drained bank accounts, stolen identities, or a company's]]>
         <summary type="html"><![CDATA[Palo Alto Networks has released security updates to address five security flaws impacting its products, including a critical bug that could lead to an authentication bypass.
 Cataloged as CVE-2024-5910 (CVSS score: 9.3), the vulnerability has been described as a case of missing authentication in its Expedition migration tool that could lead to an admin account takeover.
 "Missing authentication]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60 New Malicious Packages Uncovered in NuGet Supply Chain Attack]]></title>
-        <id>https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html</id>
-        <link href="https://thehackernews.com/2024/07/60-new-malicious-packages-uncovered-in.html"/>
-        <updated>2024-07-11T15:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed publishing a new wave of malicious packages to the NuGet package manager as part of an ongoing campaign that began in August 2023, while also adding a new layer of stealth to evade detection.
-The fresh packages, about 60 in number and spanning 290 versions, demonstrate a refined approach from the previous set that came to light in October 2023, software supply]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
