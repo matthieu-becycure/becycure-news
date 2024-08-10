@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As many as 10 security flaws have been uncovered in Google's Quick Share data transfer utility for Android and Windows that could be assembled to trigger remote code execution (RCE) chain on systems that have the software installed.\n\"The Quick Share application implements its own specific application-layer communication protocol to support file transfers between nearby, compatible devices,\"",
+          "link": "https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html",
+          "publishedOn": "2024-08-10T19:00:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover 10 Flaws in Google's File Transfer Tool Quick Share",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjva8nj_rKS3fbein0Jnw0r2goU1fnrndsY3fJiDo1mHbtBD7aSxhKQunS6-z9q_q4xIAjlFh_8ilzmqAV6bdaRAxueeP__lGVI1UWlJtrn512Y8HKfLtgXaHBeKT-0-YDn9V_lBC7S-ZMyczR-86vqDMotBP2Mgm2fnjlTu7iwfRnUaqMdLQixUg9FgO56/s1600/hack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjva8nj_rKS3fbein0Jnw0r2goU1fnrndsY3fJiDo1mHbtBD7aSxhKQunS6-z9q_q4xIAjlFh_8ilzmqAV6bdaRAxueeP__lGVI1UWlJtrn512Y8HKfLtgXaHBeKT-0-YDn9V_lBC7S-ZMyczR-86vqDMotBP2Mgm2fnjlTu7iwfRnUaqMdLQixUg9FgO56/s1600/hack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-malware-hits-300000-users-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An ongoing, widespread malware campaign has been observed installing rogue Google Chrome and Microsoft Edge extensions via a trojan distributed via fake websites masquerading as popular software.\n\"The trojan malware contains different deliverables ranging from simple adware extensions that hijack searches to more sophisticated malicious scripts that deliver local extensions to steal private data",
@@ -3420,26 +3436,6 @@
           "publishedOn": "2024-07-12T07:32:37.000Z",
           "wordCount": 314,
           "title": "Vulnérabilité dans Citrix uberAgent (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573/",
-          "publishedOn": "2024-07-12T07:21:13.000Z",
-          "wordCount": 316,
-          "title": "Vulnérabilité dans les produits Microsoft (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0573",
-          "publishedOn": "2024-07-12T07:21:13.000Z",
-          "wordCount": 326,
-          "title": "Vulnérabilité dans les produits Microsoft (12 juillet 2024)",
           "imageUrl": null
         }
       ]
