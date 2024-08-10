@@ -3461,26 +3461,6 @@
           "wordCount": 399,
           "title": "Multiples vulnérabilités dans GitLab (11 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002/",
-          "author": null,
-          "description": "Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication /cti/CERTFR-2024-CTI-007/ ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou de détection :",
-          "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002/",
-          "publishedOn": "2024-07-11T13:25:45.000Z",
-          "wordCount": 312,
-          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002",
-          "author": null,
-          "description": "Les marqueurs techniques suivants sont associés à des codes destructeurs connus à ce jour (voir la publication [\"Codes malveillants utilisés à des fins destructrices\"](/cti/CERTFR-2024-CTI-007/ ) ) Ils peuvent être utilisés à des fins de recherche de compromission dans des journaux historiques ou...",
-          "link": "https://www.cert.ssi.gouv.fr/ioc/CERTFR-2024-IOC-002",
-          "publishedOn": "2024-07-11T13:25:45.000Z",
-          "wordCount": 322,
-          "title": "Codes malveillants utilisés à des fins destructrices (11 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
