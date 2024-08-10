@@ -3361,26 +3361,6 @@
           "wordCount": 1316,
           "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (12 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576/",
-          "publishedOn": "2024-07-12T09:50:06.000Z",
-          "wordCount": 303,
-          "title": "Vulnérabilité dans Exim (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Exim. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0576",
-          "publishedOn": "2024-07-12T09:50:06.000Z",
-          "wordCount": 313,
-          "title": "Vulnérabilité dans Exim (12 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
