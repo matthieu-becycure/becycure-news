@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new malicious package on the Python Package Index (PyPI) repository that masquerades as a library from the Solana blockchain platform but is actually designed to steal victims' secrets.\n\"The legitimate Solana Python API project is known as 'solana-py' on GitHub, but simply 'solana' on the Python software registry, PyPI,\" Sonatype researcher Ax Sharma",
+          "link": "https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html",
+          "publishedOn": "2024-08-11T10:01:00.000Z",
+          "wordCount": null,
+          "title": "Rogue PyPI Library Solana Users, Steals Blockchain Wallet Keys",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4sIhXPWrGL5LwJ7k9403Pl-nGF2zc4NLGLfzFi1QKvr5ENy7TCQt2tnmmSGNSQIqgSlQ4a4w3Ylhd5qAnChwowEhBtVOUjeVVvJHSUfXGNIOHQ2EnGmwXvEWmgUwhPZ7h16neVvax5aSfdpj6GL_Ipk3g3kQE_VVVAr4Wnie8gls2DAdWP25bvrSXYkIH/s1600/python.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4sIhXPWrGL5LwJ7k9403Pl-nGF2zc4NLGLfzFi1QKvr5ENy7TCQt2tnmmSGNSQIqgSlQ4a4w3Ylhd5qAnChwowEhBtVOUjeVVvJHSUfXGNIOHQ2EnGmwXvEWmgUwhPZ7h16neVvax5aSfdpj6GL_Ipk3g3kQE_VVVAr4Wnie8gls2DAdWP25bvrSXYkIH/s1600/python.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As many as 10 security flaws have been uncovered in Google's Quick Share data transfer utility for Android and Windows that could be assembled to trigger remote code execution (RCE) chain on systems that have the software installed.\n\"The Quick Share application implements its own specific application-layer communication protocol to support file transfers between nearby, compatible devices,\"",
