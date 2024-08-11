@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2YM098jH9jlu5MTcWltRXuIu-USu3n58nkC9RqdMwN7KnD1YhuunAyJozVeftzP2CIjs6uYncwRgnPQebAtVHDDA3sSbiVakWo8mlw990a1OUvCcgAXCIQjgHx6X0AZcDpQlpmgo-Ge71vEFCn8KJ9oa6bhYU2mYA1Vtf-P1O-kALKMToApkktc49O-oK/s1600/cybersecurity.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Two Russian-born Australian citizens have been arrested and charged in the country for spying on behalf of Russia as part of a \"complex\" law enforcement operation codenamed BURGAZADA.\nThis includes a 40-year-old woman, an Australian Defence Force (ADF) Army Private, and her husband, a 62-year-old self-employed laborer. Media reports have identified them as Kira Korolev and Igor Korolev,",
-          "link": "https://thehackernews.com/2024/07/australian-defence-force-private-and.html",
-          "publishedOn": "2024-07-12T12:24:00.000Z",
-          "wordCount": null,
-          "title": "Australian Defence Force Private and Husband Charged with Espionage for Russia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqltztp_s6W5Vvuwff7T6qzUjBg-xYMDi-Nz-Od6S_CrUibmlQpMCp7VcbfDRgEORynyZnnUmR8VYoFXjm8H0Pr2ure63zaIEU2fqehD7aepzCQFg0h_0KqR1Ql2fK4A3O2RJMAMXaJYur4Zu11agXkozDu2SaREbV6h2uQ-YizTzExK6Q8UfVglMGz8p1/s1600/hand.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqltztp_s6W5Vvuwff7T6qzUjBg-xYMDi-Nz-Od6S_CrUibmlQpMCp7VcbfDRgEORynyZnnUmR8VYoFXjm8H0Pr2ure63zaIEU2fqehD7aepzCQFg0h_0KqR1Ql2fK4A3O2RJMAMXaJYur4Zu11agXkozDu2SaREbV6h2uQ-YizTzExK6Q8UfVglMGz8p1/s1600/hand.jpg"
         }
       ]
     },
@@ -3268,66 +3252,6 @@
           "publishedOn": "2024-07-12T13:27:19.000Z",
           "wordCount": 1057,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579/",
-          "publishedOn": "2024-07-12T12:45:05.000Z",
-          "wordCount": 977,
-          "title": "Multiples vulnérabilités dans les produits IBM (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0579",
-          "publishedOn": "2024-07-12T12:45:05.000Z",
-          "wordCount": 987,
-          "title": "Multiples vulnérabilités dans les produits IBM (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578/",
-          "publishedOn": "2024-07-12T12:26:32.000Z",
-          "wordCount": 2538,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0578",
-          "publishedOn": "2024-07-12T12:26:32.000Z",
-          "wordCount": 2548,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577/",
-          "publishedOn": "2024-07-12T11:45:30.000Z",
-          "wordCount": 1306,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (12 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0577",
-          "publishedOn": "2024-07-12T11:45:30.000Z",
-          "wordCount": 1316,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (12 juillet 2024)",
           "imageUrl": null
         }
       ]
