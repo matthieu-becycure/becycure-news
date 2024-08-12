@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-12T12:24:08.729Z</updated>
+    <updated>2024-08-12T12:59:42.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Phishing Attacks Adapt Quickly to Capitalize on Current Events]]></title>
+        <id>https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html</id>
+        <link href="https://thehackernews.com/2024/08/how-phishing-attacks-adapt-quickly-to.html"/>
+        <updated>2024-08-12T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[In 2023, no fewer than 94 percent of businesses were impacted by phishing attacks, a 40 percent increase compared to the previous year, according to research from Egress.
+What's behind the surge in phishing? One popular answer is AI – particularly generative AI, which has made it trivially easier for threat actors to craft content that they can use in phishing campaigns, like malicious emails]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Vulnerabilities in Solarman and Deye Solar Systems]]></title>
         <id>https://thehackernews.com/2024/08/researchers-uncover-vulnerabilities-in.html</id>
