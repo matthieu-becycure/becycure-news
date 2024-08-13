@@ -3401,16 +3401,6 @@
           "wordCount": 338,
           "title": "Vulnérabilité dans les produits Kaspersky (15 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0582/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Axis. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0582/",
-          "publishedOn": "2024-07-15T08:11:24.000Z",
-          "wordCount": 358,
-          "title": "Vulnérabilité dans les produits Axis (15 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
