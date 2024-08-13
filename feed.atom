@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-13T22:43:51.676Z</updated>
+    <updated>2024-08-13T23:11:23.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2680,17 +2680,6 @@ JFrog, which found the GitHub Personal Access Token, said the secret was leaked 
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10,000 Victims a Day: Infostealer Garden of Low-Hanging Fruit]]></title>
-        <id>https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html</id>
-        <link href="https://thehackernews.com/2024/07/10000-victims-day-infostealer-garden-of.html"/>
-        <updated>2024-07-15T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you could gain access to any Fortune 100 company for $10 or less, or even for free. Terrifying thought, isn’t it? Or exciting, depending on which side of the cybersecurity barricade you are on. Well, that’s basically the state of things today. Welcome to the infostealer garden of low-hanging fruit.
-Over the last few years, the problem has grown bigger and bigger, and only now are we]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
