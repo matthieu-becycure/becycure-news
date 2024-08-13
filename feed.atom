@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-13T09:30:07.593Z</updated>
+    <updated>2024-08-13T09:43:33.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany]]></title>
+        <id>https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html</id>
+        <link href="https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html"/>
+        <updated>2024-08-13T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Federal Bureau of Investigation (FBI) on Monday announced the disruption of online infrastructure associated with a nascent ransomware group called Dispossessor (aka Radar).
+The effort saw the dismantling of three U.S. servers, three United Kingdom servers, 18 German servers, eight U.S.-based criminal domains, and one German-based criminal domain. Dispossessor is said to be led by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ukraine Warns of New Phishing Campaign Targeting Government Computers]]></title>
         <id>https://thehackernews.com/2024/08/ukraine-warns-of-new-phishing-campaign.html</id>
