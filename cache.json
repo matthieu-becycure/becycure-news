@@ -3411,16 +3411,6 @@
           "wordCount": 358,
           "title": "Vulnérabilité dans les produits Axis (15 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0581/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits ESET. Elle permet à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0581/",
-          "publishedOn": "2024-07-15T07:24:26.000Z",
-          "wordCount": 392,
-          "title": "Vulnérabilité dans les produits ESET (15 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
