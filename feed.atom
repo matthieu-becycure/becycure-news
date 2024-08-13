@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-13T11:43:31.340Z</updated>
+    <updated>2024-08-13T12:23:13.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Hardsec Matters: From Protecting Critical Services to Enhancing Resilience]]></title>
+        <id>https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html</id>
+        <link href="https://thehackernews.com/2024/08/why-hardsec-matters-from-protecting.html"/>
+        <updated>2024-08-13T10:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Traditionally, the focus has been on defending against digital threats such as malware, ransomware, and phishing attacks by detecting them and responding. However, as cyber threats become more sophisticated. There is a growing recognition of the importance of measures that stop new attacks before they are recognized. With high-value assets, it’s not good enough to have the protection, it’s]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Shuts Down Dispossessor Ransomware Group's Servers Across U.S., U.K., and Germany]]></title>
         <id>https://thehackernews.com/2024/08/fbi-shuts-down-dispossessor-ransomware.html</id>
