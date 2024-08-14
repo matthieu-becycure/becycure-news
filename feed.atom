@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-14T20:43:36.986Z</updated>
+    <updated>2024-08-14T21:11:10.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2771,17 +2771,6 @@ The packages in question – img-aws-s3-object-multipart-copy and legacyaws-s3-o
         <updated>2024-07-16T09:13:00.000Z</updated>
         <summary type="html"><![CDATA[The Iranian nation-state actor known as MuddyWater has been observed using a never-before-seen backdoor as part of a recent attack campaign, shifting away from its well-known tactic of deploying legitimate remote monitoring and management (RMM) software for maintaining persistent access.
 That's according to independent findings from cybersecurity firms Check Point and Sekoia, which have]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Void Banshee APT Exploits Microsoft MHTML Flaw to Spread Atlantida Stealer]]></title>
-        <id>https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html</id>
-        <link href="https://thehackernews.com/2024/07/void-banshee-apt-exploits-microsoft.html"/>
-        <updated>2024-07-16T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An advanced persistent threat (APT) group called Void Banshee has been observed exploiting a recently disclosed security flaw in the Microsoft MHTML browser engine as a zero-day to deliver an information stealer called Atlantida.
-Cybersecurity firm Trend Micro, which observed the activity in mid-May 2024, the vulnerability – tracked as CVE-2024-38112 – was used as part of a multi-stage attack]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
