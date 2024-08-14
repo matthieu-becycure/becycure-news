@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An ongoing social engineering campaign with alleged links to the Black Basta ransomware group has been linked to \"multiple intrusion attempts\" with the goal of conducting credential theft and deploying a malware dropper called SystemBC.\n\"The initial lure being utilized by the threat actors remains the same: an email bomb followed by an attempt to call impacted users and offer a fake solution,\"",
+          "link": "https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html",
+          "publishedOn": "2024-08-14T17:13:00.000Z",
+          "wordCount": null,
+          "title": "Black Basta-Linked Attackers Target Users with SystemBC Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A coalition of law enforcement agencies coordinated by the U.K. National Crime Agency (NCA) has led to the arrest and extradition of a Belarussian and Ukrainian dual-national believed to be associated with Russian-speaking cybercrime groups.\nMaksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morgan, xxx, and lansky. He was extradited to the U.S. from Poland on August 9,",
