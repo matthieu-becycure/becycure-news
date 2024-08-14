@@ -3339,36 +3339,6 @@
           "wordCount": 1133,
           "title": "Multiples vulnérabilités dans les produits VMware (16 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Cisco. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0584/",
-          "publishedOn": "2024-07-15T12:18:23.000Z",
-          "wordCount": 333,
-          "title": "Vulnérabilité dans les produits Cisco (15 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-031/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-031/",
-          "publishedOn": "2024-07-15T11:58:52.000Z",
-          "wordCount": 998,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-031 (15 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0583/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Kaspersky. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0583/",
-          "publishedOn": "2024-07-15T11:50:35.000Z",
-          "wordCount": 338,
-          "title": "Vulnérabilité dans les produits Kaspersky (15 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
