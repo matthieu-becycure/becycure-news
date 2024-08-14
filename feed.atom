@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-14T21:11:10.323Z</updated>
+    <updated>2024-08-14T21:25:50.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2750,27 +2750,6 @@ According to the US Cybersecurity and Infrastructure Security Agency (CISA), 90%
         <summary type="html"><![CDATA[Cybersecurity researchers have identified two malicious packages on the npm package registry that concealed backdoor code to execute malicious commands sent from a remote server.
 The packages in question – img-aws-s3-object-multipart-copy and legacyaws-s3-object-multipart-copy – have been downloaded 190 and 48 times each. As of writing, they have been taken down by the npm security team.
 "They]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Stormshield (16 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/"/>
-        <updated>2024-07-16T09:22:39.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html</id>
-        <link href="https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html"/>
-        <updated>2024-07-16T09:13:00.000Z</updated>
-        <summary type="html"><![CDATA[The Iranian nation-state actor known as MuddyWater has been observed using a never-before-seen backdoor as part of a recent attack campaign, shifting away from its well-known tactic of deploying legitimate remote monitoring and management (RMM) software for maintaining persistent access.
-That's according to independent findings from cybersecurity firms Check Point and Sekoia, which have]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

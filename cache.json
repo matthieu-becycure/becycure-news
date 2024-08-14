@@ -2404,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg913tMY0qhkLlenwXT_Mnu5o-F5fu946nEcS7iNHZA7GPAWCKeIzXBQLEsJ4XwjvAzdhIYr94rLOGMSdtU_zZoJMh7F4wCfbRyCheELaSIsA9FxEVN3borIh0dWWJqoPfPphIlvy7R1uQSAmCA9ieJnemCRi5k_LC6aAloFNmU4vIlldLOJqUeqvjm23uP/s1600/code.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg913tMY0qhkLlenwXT_Mnu5o-F5fu946nEcS7iNHZA7GPAWCKeIzXBQLEsJ4XwjvAzdhIYr94rLOGMSdtU_zZoJMh7F4wCfbRyCheELaSIsA9FxEVN3borIh0dWWJqoPfPphIlvy7R1uQSAmCA9ieJnemCRi5k_LC6aAloFNmU4vIlldLOJqUeqvjm23uP/s1600/code.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Iranian nation-state actor known as MuddyWater has been observed using a never-before-seen backdoor as part of a recent attack campaign, shifting away from its well-known tactic of deploying legitimate remote monitoring and management (RMM) software for maintaining persistent access.\nThat's according to independent findings from cybersecurity firms Check Point and Sekoia, which have",
-          "link": "https://thehackernews.com/2024/07/iranian-hackers-deploy-new-bugsleep.html",
-          "publishedOn": "2024-07-16T09:13:00.000Z",
-          "wordCount": null,
-          "title": "Iranian Hackers Deploy New BugSleep Backdoor in Middle East Cyber Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjaowSwsmpB_Qiu_KM0QwvXB63_jawdh6svm-eRa4J1J8H4C2Fm3jr00dGO7hcuqRwrote3urj7oK21uMdZ3E2nJ3SKwEINhqCi1kupMm_Sd9QbblTteQwF3HJPGxCJRcC0vWYemfyuWpcMOMBdBRLNx3NQbV5yiyjM7KpA9hp7Bs5PnoGrZQ_X9l7wVh/s1600/code.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifjaowSwsmpB_Qiu_KM0QwvXB63_jawdh6svm-eRa4J1J8H4C2Fm3jr00dGO7hcuqRwrote3urj7oK21uMdZ3E2nJ3SKwEINhqCi1kupMm_Sd9QbblTteQwF3HJPGxCJRcC0vWYemfyuWpcMOMBdBRLNx3NQbV5yiyjM7KpA9hp7Bs5PnoGrZQ_X9l7wVh/s1600/code.png"
         }
       ]
     },
@@ -3466,16 +3450,6 @@
           "publishedOn": "2024-07-17T07:47:48.000Z",
           "wordCount": 650,
           "title": "Multiples vulnérabilités dans les produits VMware (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0586/",
-          "publishedOn": "2024-07-16T09:22:39.000Z",
-          "wordCount": 432,
-          "title": "Multiples vulnérabilités dans les produits Stormshield (16 juillet 2024)",
           "imageUrl": null
         }
       ]
