@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-14T12:22:31.859Z</updated>
+    <updated>2024-08-14T12:58:23.342Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges]]></title>
+        <id>https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html</id>
+        <link href="https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html"/>
+        <updated>2024-08-14T12:02:00.000Z</updated>
+        <summary type="html"><![CDATA[A coalition of law enforcement agencies coordinated by the U.K. National Crime Agency (NCA) has led to the arrest and extradition of a Belarussian and Ukrainian dual-national believed to be associated with Russian-speaking cybercrime groups.
+Maksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morgan, xxx, and lansky. He was extradited to the U.S. from Poland on August 9,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Augment Your Password Security with EASM]]></title>
+        <id>https://thehackernews.com/2024/08/how-to-augment-your-password-security.html</id>
+        <link href="https://thehackernews.com/2024/08/how-to-augment-your-password-security.html"/>
+        <updated>2024-08-14T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Simply relying on traditional password security measures is no longer sufficient. When it comes to protecting your organization from credential-based attacks, it is essential to lock down the basics first. Securing your Active Directory should be a priority – it is like making sure a house has a locked front door before investing in a high-end alarm system. Once the fundamentals are covered,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals]]></title>
         <id>https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html</id>

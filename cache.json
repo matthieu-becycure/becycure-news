@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A coalition of law enforcement agencies coordinated by the U.K. National Crime Agency (NCA) has led to the arrest and extradition of a Belarussian and Ukrainian dual-national believed to be associated with Russian-speaking cybercrime groups.\nMaksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morgan, xxx, and lansky. He was extradited to the U.S. from Poland on August 9,",
+          "link": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
+          "publishedOn": "2024-08-14T12:02:00.000Z",
+          "wordCount": null,
+          "title": "Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s1600/hacker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s1600/hacker.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Simply relying on traditional password security measures is no longer sufficient. When it comes to protecting your organization from credential-based attacks, it is essential to lock down the basics first. Securing your Active Directory should be a priority – it is like making sure a house has a locked front door before investing in a high-end alarm system. Once the fundamentals are covered,",
+          "link": "https://thehackernews.com/2024/08/how-to-augment-your-password-security.html",
+          "publishedOn": "2024-08-14T11:30:00.000Z",
+          "wordCount": null,
+          "title": "How to Augment Your Password Security with EASM",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s1600/outpost24.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy5ajEHrPfRbB7Z0YRDbb4ttzLK8c-imRbOF-EpKD-gd8u154MPOXnkdr7uHhM9BPvVbJAn7fbV0DnH4EzoQbvtyF2LCLwt573pt54Avw-yjCWXgAuuKdXYYQk5fP7Wj9cOunqX97J3VJcDDuHMJO6hCb6ug_LxqXBlp14Vc9JSAjGW48mrScgkSCbYAA/s1600/outpost24.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Monitoring evolving DDoS trends is essential for anticipating threats and adapting defensive strategies. The comprehensive Gcore Radar Report for the first half of 2024 provides detailed insights into DDoS attack data, showcasing changes in attack patterns and the broader landscape of cyber threats. Here, we share a selection of findings from the full report.\nKey Takeaways\nThe number of DDoS",
