@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday shipped fixes to address a total of 90 security flaws, including 10 zero-days, of which six have come under active exploitation in the wild.\nOf the 90 bugs, seven are rated Critical, 79 are rated Important, and one is rated Moderate in severity. This is also in addition to 36 vulnerabilities that the tech giant resolved in its Edge browser since last month.\nThe Patch Tuesday",
+          "link": "https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html",
+          "publishedOn": "2024-08-14T05:48:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Day Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEahjZkWAsQmxne5y8SnIlWQRvfKLPtwp9fiAkqqD0XBZZZonafLXai8_JtggSEoroSq6DTZJo58rQBVFo0w929uZsUA0g-O-69pQHQmU1viiGjTDLWF1LH0rxHXS1VHr7VI_c4MzGf18vC-JRrAhDnbBZpVj7w9vH5wrp9iSiuwPy80Z7ZrguGcFvmZ4t/s1600/windows-update.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEahjZkWAsQmxne5y8SnIlWQRvfKLPtwp9fiAkqqD0XBZZZonafLXai8_JtggSEoroSq6DTZJo58rQBVFo0w929uZsUA0g-O-69pQHQmU1viiGjTDLWF1LH0rxHXS1VHr7VI_c4MzGf18vC-JRrAhDnbBZpVj7w9vH5wrp9iSiuwPy80Z7ZrguGcFvmZ4t/s1600/windows-update.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has rolled out security updates for a critical flaw in Virtual Traffic Manager (vTM) that could be exploited to achieve an authentication bypass and create rogue administrative users.\nThe vulnerability, tracked as CVE-2024-7593, has a CVSS score of 9.8 out of a maximum of 10.0.\n\"Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2",
+          "link": "https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html",
+          "publishedOn": "2024-08-14T05:18:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqnO6WnMT_4-piVtykIE145Mjfp-i7_QQ7VxC8F6UurgVCRUxyKvX_83Vgvc-erAQdhzJ1t_LcEGU0GPfKdL2T_PChvoEYPFmBxXpPJa-3aB4JxGfXKGvjaNOSdnfV2U3mEZntaGrnA-CLxo2u43V0-iOSTMGCpIkM4KVMNmodGdw8Rz9VNTeNs30TgDE/s1600/network-traffic.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXqnO6WnMT_4-piVtykIE145Mjfp-i7_QQ7VxC8F6UurgVCRUxyKvX_83Vgvc-erAQdhzJ1t_LcEGU0GPfKdL2T_PChvoEYPFmBxXpPJa-3aB4JxGfXKGvjaNOSdnfV2U3mEZntaGrnA-CLxo2u43V0-iOSTMGCpIkM4KVMNmodGdw8Rz9VNTeNs30TgDE/s1600/network-traffic.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-backed threat actor known as Earth Baku has diversified its targeting footprint beyond the Indo-Pacific region to include Europe, the Middle East, and Africa starting in late 2022.\nNewly targeted countries as part of the activity include Italy, Germany, the U.A.E., and Qatar, with suspected attacks also detected in Georgia and Romania. Governments, media and communications, telecoms,",
+          "link": "https://thehackernews.com/2024/08/china-backed-earth-baku-expands-cyber.html",
+          "publishedOn": "2024-08-14T05:01:00.000Z",
+          "wordCount": null,
+          "title": "China-Backed Earth Baku Expands Cyber Attacks to Europe, Middle East, and Africa",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fc6DNp0KXMfBJK-gtzHHozYRzFcCl9fl9G3HgP-YnFiCQvJyG1lCRNL6geFwVo4MKavEHe_XILFkhBW7J33nBuW9shJAT-9W6JicFXTs-zgIEGVTlFbS4WzbFLk7-E-HOTUzwMcOwC6qI1xuhv4-6wQ1XjmhdQcKGQL78iIi35b1TxqT8JkSJSqCOd5q/s1600/chinese-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2fc6DNp0KXMfBJK-gtzHHozYRzFcCl9fl9G3HgP-YnFiCQvJyG1lCRNL6geFwVo4MKavEHe_XILFkhBW7J33nBuW9shJAT-9W6JicFXTs-zgIEGVTlFbS4WzbFLk7-E-HOTUzwMcOwC6qI1xuhv4-6wQ1XjmhdQcKGQL78iIi35b1TxqT8JkSJSqCOd5q/s1600/chinese-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/ghostwrite-new-t-head-cpu-bugs-expose.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A team of researchers from the CISPA Helmholtz Center for Information Security in Germany has disclosed an architectural bug impacting Chinese chip company T-Head's XuanTie C910 and C920 RISC-V CPUs that could allow attackers to gain unrestricted access to susceptible devices.\nThe vulnerability has been codenamed GhostWrite. It has been described as a direct CPU bug embedded in the hardware, as",
