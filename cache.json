@@ -3443,26 +3443,6 @@
           "wordCount": 362,
           "title": "Multiples vulnérabilités dans Google Chrome (17 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0590/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0590/",
-          "publishedOn": "2024-07-17T08:27:04.000Z",
-          "wordCount": 550,
-          "title": "Multiples vulnérabilités dans les produits Atlassian (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0589/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0589/",
-          "publishedOn": "2024-07-17T08:13:07.000Z",
-          "wordCount": 390,
-          "title": "Multiples vulnérabilités dans Xen (17 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
