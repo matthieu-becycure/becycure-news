@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new variant of the Gafgyt botnet that's targeting machines with weak SSH passwords to ultimately mine cryptocurrency on compromised instances using their GPU computational power.\nThis indicates that the \"IoT botnet is targeting more robust servers running on cloud native environments,\" Aqua Security researcher Assaf Morag said in a Wednesday analysis.",
+          "link": "https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html",
+          "publishedOn": "2024-08-15T05:12:00.000Z",
+          "wordCount": null,
+          "title": "New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01KpOk9BP4WCswcnjH0Hx3VybKX3HCRux5wlsdWVN446ujuJ86-LoTD9bPx86HyAFUE05hS9CSTJ9AD3aHQIviVN42vX82EohGYEX0v_D7Gw3LQBH4YmqcXMjIxorb_c8ijZWf1ojW9E9eR9T9SiZe81mxIr2O8nOkem1vEYsbjXgUtQ6k3BKJZxCgboG/s1600/mining.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj01KpOk9BP4WCswcnjH0Hx3VybKX3HCRux5wlsdWVN446ujuJ86-LoTD9bPx86HyAFUE05hS9CSTJ9AD3aHQIviVN42vX82EohGYEX0v_D7Gw3LQBH4YmqcXMjIxorb_c8ijZWf1ojW9E9eR9T9SiZe81mxIr2O8nOkem1vEYsbjXgUtQ6k3BKJZxCgboG/s1600/mining.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/black-basta-linked-attackers-targets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "An ongoing social engineering campaign with alleged links to the Black Basta ransomware group has been linked to \"multiple intrusion attempts\" with the goal of conducting credential theft and deploying a malware dropper called SystemBC.\n\"The initial lure being utilized by the threat actors remains the same: an email bomb followed by an attempt to call impacted users and offer a fake solution,\"",
