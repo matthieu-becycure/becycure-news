@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-15T14:43:41.524Z</updated>
+    <updated>2024-08-15T15:12:05.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SolarWinds Releases Patch for Critical Flaw in Web Help Desk Software]]></title>
+        <id>https://thehackernews.com/2024/08/solarwinds-releases-patch-for-critical.html</id>
+        <link href="https://thehackernews.com/2024/08/solarwinds-releases-patch-for-critical.html"/>
+        <updated>2024-08-15T13:19:00.000Z</updated>
+        <summary type="html"><![CDATA[SolarWinds has released patches to address a critical security vulnerability in its Web Help Desk software that could be exploited to execute arbitrary code on susceptible instances.
+The flaw, tracked as CVE-2024-28986 (CVSS score: 9.8), has been described as a deserialization bug.
+"SolarWinds Web Help Desk was found to be susceptible to a Java deserialization remote code execution vulnerability]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian-Linked Hackers Target Eastern European NGOs and Media]]></title>
         <id>https://thehackernews.com/2024/08/russian-linked-hackers-target-eastern.html</id>
