@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-15T22:30:52.001Z</updated>
+    <updated>2024-08-15T22:43:34.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2618,17 +2618,6 @@ The artifact in question is an Apple macOS disk image (DMG) file named "MiroTalk
         <link href="https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html"/>
         <updated>2024-07-17T11:09:00.000Z</updated>
         <summary type="html"><![CDATA[Attacks on your network are often meticulously planned operations launched by sophisticated threats. Sometimes your technical fortifications provide a formidable challenge, and the attack requires assistance from the inside to succeed. For example, in 2022, the FBI issued a warning1 that SIM swap attacks are growing: gain control of the phone and earn a gateway to email, bank accounts, stocks,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIN7 Group Advertises Security-Bypassing Tool on Dark Web Forums]]></title>
-        <id>https://thehackernews.com/2024/07/fin7-group-advertises-security.html</id>
-        <link href="https://thehackernews.com/2024/07/fin7-group-advertises-security.html"/>
-        <updated>2024-07-17T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[The financially motivated threat actor known as FIN7 has been observed using multiple pseudonyms across several underground forums to likely advertise a tool known to be used by ransomware groups like Black Basta.
-"AvNeutralizer (aka AuKill), a highly specialized tool developed by FIN7 to tamper with security solutions, has been marketed in the criminal underground and used by multiple]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
