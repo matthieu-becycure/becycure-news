@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/russian-linked-hackers-target-eastern.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian and Belarusian non-profit organizations, Russian independent media, and international non-governmental organizations active in Eastern Europe have become the target of two separate spear-phishing campaigns orchestrated by threat actors whose interests align with that of the Russian government.\nWhile one of the campaigns – dubbed River of Phish – has been attributed to COLDRIVER, an",
+          "link": "https://thehackernews.com/2024/08/russian-linked-hackers-target-eastern.html",
+          "publishedOn": "2024-08-15T11:43:00.000Z",
+          "wordCount": null,
+          "title": "Russian-Linked Hackers Target Eastern European NGOs and Media",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Cvw8T2CXosi0Qh9NEbCcP3hVp-TAqq1nDQj-7T4d2YhFP7mBqpQgrwf3tc5gc-WLtZft0xEbyjXrWKtWFNo9QRxhD-VooXNu2kZrHU1qRQrHu8Imnzv1RUMdepCtqsMlbMJU7kIzsJoAxADWbKUrAsO2hZae8UbJOI0xLfXWqEYfWLLK_URoAFel8y1q/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Cvw8T2CXosi0Qh9NEbCcP3hVp-TAqq1nDQj-7T4d2YhFP7mBqpQgrwf3tc5gc-WLtZft0xEbyjXrWKtWFNo9QRxhD-VooXNu2kZrHU1qRQrHu8Imnzv1RUMdepCtqsMlbMJU7kIzsJoAxADWbKUrAsO2hZae8UbJOI0xLfXWqEYfWLLK_URoAFel8y1q/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Emergence of Identity Threat Detection and Response\nIdentity Threat Detection and Response (ITDR) has emerged as a critical component to effectively detect and respond to identity-based attacks. Threat actors have shown their ability to compromise the identity infrastructure and move laterally into IaaS, Saas, PaaS and CI/CD environments. Identity Threat Detection and Response solutions help",
