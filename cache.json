@@ -2420,22 +2420,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s1600/malware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfG4ZH30NaVk4mNJtF-0d2rWzvH7Q2YrnpW2OGl308P60rxPBxuR8v0J3vLzKlVdZLMWGfqfgohDKH-dQebTWB2V99JfKlQS_01eBxYs9UrgScJym90Zp12dey-SxUzKJxtGbmfKHG6AP6UOLIMNz9sjxaWP3eeF9nJ2-RnxvqCZdIpU5S4KB4iH8v8Hah/s1600/malware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A China-linked threat actor called APT17 has been observed targeting Italian companies and government entities using a variant of a known malware referred to as 9002 RAT.\nThe two targeted attacks took place on June 24 and July 2, 2024, Italian cybersecurity company TG Soft said in an analysis published last week.\n\"The first campaign on June 24, 2024 used an Office document, while the second",
-          "link": "https://thehackernews.com/2024/07/china-linked-apt17-targets-italian.html",
-          "publishedOn": "2024-07-17T08:47:00.000Z",
-          "wordCount": null,
-          "title": "China-linked APT17 Targets Italian Companies with 9002 RAT Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s1600/msi.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfD7xbsd7717xwWN-_gydlvio_oPwB7SG3l_R4G7F9YPlRTobAQ5B-YnaCyFQ7EUX1FkcE16b99OrtT_8WsmZwr3_sW60XAW5WLPSAql75FA0NuN4J9pBuZlW1zotoKWoWebfyWdkxfrR2GKLnF8HAOUZkQn5Loyj9qjQXtVxhSpj9xumCF8DRZINjQB85/s1600/msi.png"
         }
       ]
     },
@@ -3412,16 +3396,6 @@
           "publishedOn": "2024-07-17T09:22:26.000Z",
           "wordCount": 448,
           "title": "Multiples vulnérabilités dans Oracle Java SE (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0593/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0593/",
-          "publishedOn": "2024-07-17T08:57:05.000Z",
-          "wordCount": 431,
-          "title": "Multiples vulnérabilités dans Oracle Database Server (17 juillet 2024)",
           "imageUrl": null
         }
       ]
