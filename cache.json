@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s1600/apple.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5JI26eMjw2zjkXltqO3itic_nlpYoXe__f0_tiAULudApngHNRMXC-trvuRf8Agkcgq95ps5yUzoSZLVsVCTmSumnkdiVfkuBYO-H8UXJdBmg4KDaazlXOx3ovulPVGXZJa_pYtITXwWsDRnOK2a5rN1a_7lRueK3b2qleisl3GFae02eK-AYAab8m7da/s1600/apple.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Attacks on your network are often meticulously planned operations launched by sophisticated threats. Sometimes your technical fortifications provide a formidable challenge, and the attack requires assistance from the inside to succeed. For example, in 2022, the FBI issued a warning1 that SIM swap attacks are growing: gain control of the phone and earn a gateway to email, bank accounts, stocks,",
-          "link": "https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html",
-          "publishedOn": "2024-07-17T11:09:00.000Z",
-          "wordCount": null,
-          "title": "Navigating Insider Risks: Are your Employees Enabling External Threats?",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s1600/everfox.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8TjO9ATYsTIaIcvaiHBvjTjkYfLBHC9uQCnK_DTX28N12l8hWICF-N6kc1ADE13zXmEiZqYkprP7bK1nEI4NBwV4RPBgcG6f9C9fop2wVFqdjvNJgGxTpP9YMMXuEOEdvJ_vGjMFHdcDuIwCa0NTJq2Pakb1hfnHiJmMLdptjLW0OoO9BKiW-_iO8fkE/s1600/everfox.png"
         }
       ]
     },
@@ -3310,16 +3294,6 @@
           "publishedOn": "2024-07-18T06:55:51.000Z",
           "wordCount": 437,
           "title": "Multiples vulnérabilités dans les produits Mitel (18 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Sonicwall NetExtender. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/",
-          "publishedOn": "2024-07-17T11:10:41.000Z",
-          "wordCount": 311,
-          "title": "Vulnérabilité dans Sonicwall NetExtender (17 juillet 2024)",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-15T22:43:34.945Z</updated>
+    <updated>2024-08-15T23:10:41.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2598,26 +2598,6 @@ The vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.
         <updated>2024-07-17T16:27:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated variant of a known stealer malware that attackers affiliated with the Democratic People's Republic of Korea (DPRK) have delivered as part of prior cyber espionage campaigns targeting job seekers.
 The artifact in question is an Apple macOS disk image (DMG) file named "MiroTalk.dmg" that mimics the legitimate video call service of the same name,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans Sonicwall NetExtender (17 juillet 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0600/"/>
-        <updated>2024-07-17T11:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Sonicwall NetExtender. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navigating Insider Risks: Are your Employees Enabling External Threats?]]></title>
-        <id>https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html</id>
-        <link href="https://thehackernews.com/2024/07/navigating-insider-risks-are-your.html"/>
-        <updated>2024-07-17T11:09:00.000Z</updated>
-        <summary type="html"><![CDATA[Attacks on your network are often meticulously planned operations launched by sophisticated threats. Sometimes your technical fortifications provide a formidable challenge, and the attack requires assistance from the inside to succeed. For example, in 2022, the FBI issued a warning1 that SIM swap attacks are growing: gain control of the phone and earn a gateway to email, bank accounts, stocks,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
