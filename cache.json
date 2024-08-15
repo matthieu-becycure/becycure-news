@@ -2452,22 +2452,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s1600/ransomware-attack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-8bB-GvkwYxywGEUsVjVnS8O6ZbucYZTFa0sDYv7KX9bw60Usfu6SQn9r7RgoqbWjSomIsC7y-7K5dB_Gol3UYr8ZI7dAKKvF4vVtWvd1HxuyOgf8fd3LUqXIdYt4-DXFkWmyJ0EBSTVsjuxaixjFxV2Jn1GZUsJaxr_mVLoyEkUAFR9IsBgqErW8arC/s1600/ransomware-attack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Threat actors are actively exploiting a recently disclosed critical security flaw impacting Apache HugeGraph-Server that could lead to remote code execution attacks.\nTracked as CVE-2024-27348 (CVSS score: 9.8), the vulnerability impacts all versions of the software before 1.3.0. It has been described as a remote command execution flaw in the Gremlin graph traversal language API.\n\"Users are",
-          "link": "https://thehackernews.com/2024/07/critical-apache-hugegraph-vulnerability.html",
-          "publishedOn": "2024-07-17T05:25:00.000Z",
-          "wordCount": null,
-          "title": "Critical Apache HugeGraph Vulnerability Under Attack - Patch ASAP",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwjry-_YHPglQi9B5hiRqMsgAqEGUV57nNtHd5TRTusXFJia73jrazOheg7gGErZnj1ipml-Lxrt_0t009i4g00TjyxWZFkMV-FTcEipIlSC7YAxK41T414Ewg1mciHSR8LCvw3K2CzXKudiV5-bPYVcwCqt3jfVHpyEi91FWx1Dh31YCxCIsyVUU-d4F/s1600/hugegrapgh.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUwjry-_YHPglQi9B5hiRqMsgAqEGUV57nNtHd5TRTusXFJia73jrazOheg7gGErZnj1ipml-Lxrt_0t009i4g00TjyxWZFkMV-FTcEipIlSC7YAxK41T414Ewg1mciHSR8LCvw3K2CzXKudiV5-bPYVcwCqt3jfVHpyEi91FWx1Dh31YCxCIsyVUU-d4F/s1600/hugegrapgh.png"
         }
       ]
     },
