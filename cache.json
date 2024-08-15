@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Emergence of Identity Threat Detection and Response\nIdentity Threat Detection and Response (ITDR) has emerged as a critical component to effectively detect and respond to identity-based attacks. Threat actors have shown their ability to compromise the identity infrastructure and move laterally into IaaS, Saas, PaaS and CI/CD environments. Identity Threat Detection and Response solutions help",
+          "link": "https://thehackernews.com/2024/08/identity-threat-detection-and-response.html",
+          "publishedOn": "2024-08-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "Identity Threat Detection and Response Solution Guide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s1600/permiso.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQkTahnx9XWWScKouOL-ZJLGz-soQCf-0oKYSbh0jVc0pvs3BY18fc_yGBIT9vE7dWrqM47kIPsXsa4NBFXy7-g58jfSHVmQh4k5K79mg4YmduJ0K0bvFONpY2UcbokyQDcBSfuDDTm80obJ_xpE-0cG4boIHe6TNDBUGaDvZGAmlzyaiuJjK608DMqvk/s1600/permiso.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A cybercrime group with links to the RansomHub ransomware has been observed using a new tool designed to terminate endpoint detection and response (EDR) software on compromised hosts, joining the likes of other similar programs like AuKill (aka AvNeutralizer) and Terminator.\nThe EDR-killing utility has been dubbed EDRKillShifter by cybersecurity company Sophos, which discovered the tool in",
+          "link": "https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html",
+          "publishedOn": "2024-08-15T10:45:00.000Z",
+          "wordCount": null,
+          "title": "RansomHub Group Deploys New EDR-Killing Tool in Latest Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkvMRdgdYiNd3kiBTIudu8V7y7qV9U5XWyS55nMHJ_6vgBTmtK-ohlr3btHImwtMLV4RFWLfXxn4iJeiSf39bnoUa8BYYU2ULw1L0PsStsEuaPpwhpNSsEBe1vQJI8iAUjxsSaX_A1GM0Z-QXqGwrWlSwCEGJaig4PCAouAoH98GCJseBu4DNshnZr6Fk/s1600/edr-killer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkvMRdgdYiNd3kiBTIudu8V7y7qV9U5XWyS55nMHJ_6vgBTmtK-ohlr3btHImwtMLV4RFWLfXxn4iJeiSf39bnoUa8BYYU2ULw1L0PsStsEuaPpwhpNSsEBe1vQJI8iAUjxsSaX_A1GM0Z-QXqGwrWlSwCEGJaig4PCAouAoH98GCJseBu4DNshnZr6Fk/s1600/edr-killer.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly discovered attack vector in GitHub Actions artifacts dubbed ArtiPACKED could be exploited to take over repositories and gain access to organizations' cloud environments.\n\"A combination of misconfigurations and security flaws can make artifacts leak tokens, both of third party cloud services and GitHub tokens, making them available for anyone with read access to the repository to consume,",
