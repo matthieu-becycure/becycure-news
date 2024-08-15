@@ -3337,46 +3337,6 @@
           "wordCount": 311,
           "title": "Vulnérabilité dans Sonicwall NetExtender (17 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0599/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle WebLogic. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0599/",
-          "publishedOn": "2024-07-17T10:04:42.000Z",
-          "wordCount": 389,
-          "title": "Multiples vulnérabilités dans Oracle Weblogic (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0598/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0598/",
-          "publishedOn": "2024-07-17T09:56:26.000Z",
-          "wordCount": 360,
-          "title": "Multiples vulnérabilités dans Oracle Virtualization (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0597/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle Systems. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0597/",
-          "publishedOn": "2024-07-17T09:51:29.000Z",
-          "wordCount": 360,
-          "title": "Multiples vulnérabilités dans Oracle Systems (17 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0596/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0596/",
-          "publishedOn": "2024-07-17T09:46:54.000Z",
-          "wordCount": 426,
-          "title": "Multiples vulnérabilités dans Oracle PeopleSoft (17 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
