@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-15T07:11:06.350Z</updated>
+    <updated>2024-08-15T07:24:49.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Vulnerability 'ArtiPACKED' Exposes Repositories to Potential Takeover]]></title>
+        <id>https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html</id>
+        <link href="https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html"/>
+        <updated>2024-08-15T06:47:00.000Z</updated>
+        <summary type="html"><![CDATA[A newly discovered attack vector in GitHub Actions artifacts dubbed ArtiPACKED could be exploited to take over repositories and gain access to organizations' cloud environments.
+"A combination of misconfigurations and security flaws can make artifacts leak tokens, both of third party cloud services and GitHub tokens, making them available for anyone with read access to the repository to consume,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Cyber Threat Targets Azerbaijan and Israel Diplomats, Stealing Sensitive Data]]></title>
+        <id>https://thehackernews.com/2024/08/new-cyber-threat-targets-azerbaijan-and.html</id>
+        <link href="https://thehackernews.com/2024/08/new-cyber-threat-targets-azerbaijan-and.html"/>
+        <updated>2024-08-15T06:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously unknown threat actor has been attributed to a spate of attacks targeting Azerbaijan and Israel with an aim to steal sensitive data.
+The attack campaign, detected by NSFOCUS on July 1, 2024, leveraged spear-phishing emails to single out Azerbaijani and Israeli diplomats. The activity is being tracked under the moniker Actor240524.
+"Actor240524 possesses the ability to steal secrets]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining]]></title>
         <id>https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html</id>
