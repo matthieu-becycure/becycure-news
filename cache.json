@@ -2452,38 +2452,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxC9IEN0snKuv7ZLK-uUN3vJYw-6m7BXZvCeTmXRPikTY7O4JR2vOueLVyXhVhcZG72PjmH5ekkqyvFz7lUaBdZRASnCiRCmwkSw7ewVPIKkM12EXuOtlAVtJ9yoPZB7OkCKxCGiVz_ORcIcTTGnWHHB7vEYea-1vh66i_XkHsTyA0JBPzCTUFgGkfoUT/s1600/cyberattack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMxC9IEN0snKuv7ZLK-uUN3vJYw-6m7BXZvCeTmXRPikTY7O4JR2vOueLVyXhVhcZG72PjmH5ekkqyvFz7lUaBdZRASnCiRCmwkSw7ewVPIKkM12EXuOtlAVtJ9yoPZB7OkCKxCGiVz_ORcIcTTGnWHHB7vEYea-1vh66i_XkHsTyA0JBPzCTUFgGkfoUT/s1600/cyberattack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta has suspended the use of generative artificial intelligence (GenAI) in Brazil after the country's data protection authority issued a preliminary ban objecting to its new privacy policy.\nThe development was first reported by news agency Reuters.\nThe company said it has decided to suspend the tools while it is in talks with Brazil's National Data Protection Authority (ANPD) to address the",
-          "link": "https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html",
-          "publishedOn": "2024-07-18T06:14:00.000Z",
-          "wordCount": null,
-          "title": "Meta Halts AI Use in Brazil Following Data Protection Authority's Ban",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqwNpa28te_CinSxfJRP7EqDcCWRcc70W38UyRD6xY-VDlhHj6mxUVfCCiJywnnQ2XOb9MhS_8QTbId6bQiMo6_huObxRn_6dFV1T2bR55PPuIsr4oEh_GNnvST7OAuFxU3Ao6skWGI64dmcwhfEM3eSrUytzxpUxxt2fHMi097Y-YAY_1IZobWw6afrR3/s1600/meta-ai.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqwNpa28te_CinSxfJRP7EqDcCWRcc70W38UyRD6xY-VDlhHj6mxUVfCCiJywnnQ2XOb9MhS_8QTbId6bQiMo6_huObxRn_6dFV1T2bR55PPuIsr4oEh_GNnvST7OAuFxU3Ao6skWGI64dmcwhfEM3eSrUytzxpUxxt2fHMi097Y-YAY_1IZobWw6afrR3/s1600/meta-ai.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco has released patches to address a maximum-severity security flaw impacting Smart Software Manager On-Prem (Cisco SSM On-Prem) that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users.\nThe vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.\n\"This vulnerability is due to improper",
-          "link": "https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html",
-          "publishedOn": "2024-07-18T06:01:00.000Z",
-          "wordCount": null,
-          "title": "Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kQGLCd5dG9hrwNd08NUuVNOMNbm-q3l7Vju6IN635OZMUPAWUcCj7tH9pgo8_dG2STGkQg5thiZ3xltY8lodlzvggKc8JS82rgKDR5lyLcm66Gy8TvvClLHHuAAFxoClYkCZmjaGK4AtvG12eifXqCidhHHH0TsybnrCgeeoTwYj0cWoYOAmXWrHh74V/s1600/cisco.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6kQGLCd5dG9hrwNd08NUuVNOMNbm-q3l7Vju6IN635OZMUPAWUcCj7tH9pgo8_dG2STGkQg5thiZ3xltY8lodlzvggKc8JS82rgKDR5lyLcm66Gy8TvvClLHHuAAFxoClYkCZmjaGK4AtvG12eifXqCidhHHH0TsybnrCgeeoTwYj0cWoYOAmXWrHh74V/s1600/cisco.png"
         }
       ]
     },

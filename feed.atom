@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T17:43:37.835Z</updated>
+    <updated>2024-08-16T18:15:50.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2753,30 +2753,6 @@ Recorded Future's Insikt Group is tracking the activity under the temporary moni
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Halts AI Use in Brazil Following Data Protection Authority's Ban]]></title>
-        <id>https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html</id>
-        <link href="https://thehackernews.com/2024/07/meta-halts-ai-use-in-brazil-following.html"/>
-        <updated>2024-07-18T06:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta has suspended the use of generative artificial intelligence (GenAI) in Brazil after the country's data protection authority issued a preliminary ban objecting to its new privacy policy.
-The development was first reported by news agency Reuters.
-The company said it has decided to suspend the tools while it is in talks with Brazil's National Data Protection Authority (ANPD) to address the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco Warns of Critical Flaw Affecting On-Prem Smart Software Manager]]></title>
-        <id>https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html</id>
-        <link href="https://thehackernews.com/2024/07/cisco-warns-of-critical-flaw-affecting.html"/>
-        <updated>2024-07-18T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Cisco has released patches to address a maximum-severity security flaw impacting Smart Software Manager On-Prem (Cisco SSM On-Prem) that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users.
-The vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.
-"This vulnerability is due to improper]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
