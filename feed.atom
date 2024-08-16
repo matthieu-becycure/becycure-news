@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T16:15:50.706Z</updated>
+    <updated>2024-08-16T16:36:44.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Attackers Exploit Public .env Files to Breach Cloud and Social Media Accounts]]></title>
+        <id>https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html</id>
+        <link href="https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html"/>
+        <updated>2024-08-16T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A large-scale extortion campaign has compromised various organizations by taking advantage of publicly accessible environment variable files (.env) that contain credentials associated with cloud and social media applications.
+"Multiple security missteps were present in the course of this campaign, including the following: Exposing environment variables, using long-lived credentials, and absence]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Hacker Jailed 3+ Years for Selling Stolen Credentials on Dark Web]]></title>
         <id>https://thehackernews.com/2024/08/russian-hacker-jailed-3-years-for.html</id>
