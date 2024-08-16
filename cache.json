@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SaaS applications have become indispensable for organizations aiming to enhance productivity and streamline operations. However, the convenience and efficiency these applications offer come with inherent security risks, often leaving hidden gaps that can be exploited. Conducting thorough due diligence on SaaS apps is essential to identify and mitigate these risks, ensuring the protection of your",
+          "link": "https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html",
+          "publishedOn": "2024-08-16T11:27:00.000Z",
+          "wordCount": null,
+          "title": "The Hidden Security Gaps in Your SaaS Apps: Are You Doing Due Diligence?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfAngiJibVGwsZJntJfxnP_2i0GRJDpJyhTgU6UBYuKlbVJhHm3CQ_FmvQSchZPTATqZ0ITrjpuPwABQt3IXEg5QsX9m2pXi4j1wcGdQ_T72XJ42QdszbrHsFVdKwv05wQDIlGbNXeKVC9kczhG0A5q3TyMtBe2rdVK5WmZbE9R7mAQ5Y9wLWHrS2KIig/s1600/saas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfAngiJibVGwsZJntJfxnP_2i0GRJDpJyhTgU6UBYuKlbVJhHm3CQ_FmvQSchZPTATqZ0ITrjpuPwABQt3IXEg5QsX9m2pXi4j1wcGdQ_T72XJ42QdszbrHsFVdKwv05wQDIlGbNXeKVC9kczhG0A5q3TyMtBe2rdVK5WmZbE9R7mAQ5Y9wLWHrS2KIig/s1600/saas.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-banshee-stealer-targets-100-browser.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered new stealer malware that's designed to specifically target Apple macOS systems.\nDubbed Banshee Stealer, it's offered for sale in the cybercrime underground for a steep price of $3,000 a month and works across both x86_64 and ARM64 architectures. \n\"Banshee Stealer targets a wide range of browsers, cryptocurrency wallets, and around 100 browser",
