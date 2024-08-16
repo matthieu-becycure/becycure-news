@@ -3419,36 +3419,6 @@
           "wordCount": 418,
           "title": "Multiples vulnérabilités dans les produits Ivanti (18 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0605/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0605/",
-          "publishedOn": "2024-07-18T07:32:30.000Z",
-          "wordCount": 450,
-          "title": "Vulnérabilité dans les produits Sonicwall (18 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0604/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0604/",
-          "publishedOn": "2024-07-18T07:30:33.000Z",
-          "wordCount": 312,
-          "title": "Vulnérabilité dans Microsoft Edge (18 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0603/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Apache HTTP Server. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0603/",
-          "publishedOn": "2024-07-18T07:27:22.000Z",
-          "wordCount": 341,
-          "title": "Multiples vulnérabilités dans Apache HTTP Server (18 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
