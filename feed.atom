@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T13:29:22.360Z</updated>
+    <updated>2024-08-16T13:43:24.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware]]></title>
+        <id>https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html</id>
+        <link href="https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html"/>
+        <updated>2024-08-16T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a sophisticated information stealer campaign that impersonates legitimate brands to distribute malware like DanaBot and StealC.
+The activity cluster, orchestrated by Russian-speaking cybercriminals and collectively codenamed Tusk, is said to encompass several sub-campaigns, leveraging the reputation of the platforms to trick users into downloading the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics]]></title>
         <id>https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html</id>

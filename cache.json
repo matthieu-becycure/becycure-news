@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a sophisticated information stealer campaign that impersonates legitimate brands to distribute malware like DanaBot and StealC.\nThe activity cluster, orchestrated by Russian-speaking cybercriminals and collectively codenamed Tusk, is said to encompass several sub-campaigns, leveraging the reputation of the platforms to trick users into downloading the",
+          "link": "https://thehackernews.com/2024/08/russian-hackers-using-fake-brand-sites.html",
+          "publishedOn": "2024-08-16T13:08:00.000Z",
+          "wordCount": null,
+          "title": "Russian Hackers Using Fake Brand Sites to Spread DanaBot and StealC Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEire5_fCufNzX7I8FWHOyKLmeYNlmk5Rquu4Og0LyEusi9uELs6govVLCeed_K_hxrNwtiQ487uKE7SmxfzovseKIgNVpUEJmbU-zcusO8kAUyurZImjinSNewzMGX6A5Y8n-1HyjV0RKOvuPm64NZyho8ir7zRYXyVy1zVrJGh0EssEujVofGEH59vi9Fd/s1600/sites.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEire5_fCufNzX7I8FWHOyKLmeYNlmk5Rquu4Og0LyEusi9uELs6govVLCeed_K_hxrNwtiQ487uKE7SmxfzovseKIgNVpUEJmbU-zcusO8kAUyurZImjinSNewzMGX6A5Y8n-1HyjV0RKOvuPm64NZyho8ir7zRYXyVy1zVrJGh0EssEujVofGEH59vi9Fd/s1600/sites.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Chinese-speaking users are the target of an ongoing campaign that distributes malware known as ValleyRAT.\n\"ValleyRAT is a multi-stage malware that utilizes diverse techniques to monitor and control its victims and deploy arbitrary plugins to cause further damage,\" Fortinet FortiGuard Labs researchers Eduardo Altares and Joie Salvio said.\n\"Another noteworthy characteristic of this malware is its",
