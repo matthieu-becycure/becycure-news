@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-banshee-stealer-targets-100-browser.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered new stealer malware that's designed to specifically target Apple macOS systems.\nDubbed Banshee Stealer, it's offered for sale in the cybercrime underground for a steep price of $3,000 a month and works across both x86_64 and ARM64 architectures. \n\"Banshee Stealer targets a wide range of browsers, cryptocurrency wallets, and around 100 browser",
+          "link": "https://thehackernews.com/2024/08/new-banshee-stealer-targets-100-browser.html",
+          "publishedOn": "2024-08-16T08:28:00.000Z",
+          "wordCount": null,
+          "title": "New Banshee Stealer Targets 100+ Browser Extensions on Apple macOS Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjqFHfqc4pfiBp0vczEDJWxK8q0M63zcwHcw1_TQRz8tM3LXZ643nnWBY86agywHZ6BMguKtlfs9xYu5TlwX9-GvgPOfIjzST5yxrEaO2Z6IKhI5ih0VdKEq-Q9hxjhEW3a2hpwI9AGoYEAT587WFFczmdIq3hHn80sQJ2EMynzH9CYn_Z4ybrt5cwpSQ/s1600/chat.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivjqFHfqc4pfiBp0vczEDJWxK8q0M63zcwHcw1_TQRz8tM3LXZ643nnWBY86agywHZ6BMguKtlfs9xYu5TlwX9-GvgPOfIjzST5yxrEaO2Z6IKhI5ih0VdKEq-Q9hxjhEW3a2hpwI9AGoYEAT587WFFczmdIq3hHn80sQJ2EMynzH9CYn_Z4ybrt5cwpSQ/s1600/chat.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A large percentage of Google's own Pixel devices shipped globally since September 2017 included dormant software that could be used to stage nefarious attacks and deliver various kinds of malware.\nThe issue manifests in the form of a pre-installed Android app called \"Showcase.apk\" that comes with excessive system privileges, including the ability to remotely execute code and install arbitrary",
