@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T04:13:59.616Z</updated>
+    <updated>2024-08-16T04:31:28.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2587,17 +2587,6 @@ The company said it has decided to suspend the tools while it is in talks with B
         <summary type="html"><![CDATA[Cisco has released patches to address a maximum-severity security flaw impacting Smart Software Manager On-Prem (Cisco SSM On-Prem) that could enable a remote, unauthenticated attacker to change the password of any users, including those belonging to administrative users.
 The vulnerability, tracked as CVE-2024-20419, carries a CVSS score of 10.0.
 "This vulnerability is due to improper]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Update BeaverTail Malware to Target MacOS Users]]></title>
-        <id>https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html</id>
-        <link href="https://thehackernews.com/2024/07/north-korean-hackers-update-beavertail.html"/>
-        <updated>2024-07-17T16:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an updated variant of a known stealer malware that attackers affiliated with the Democratic People's Republic of Korea (DPRK) have delivered as part of prior cyber espionage campaigns targeting job seekers.
-The artifact in question is an Apple macOS disk image (DMG) file named "MiroTalk.dmg" that mimics the legitimate video call service of the same name,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
