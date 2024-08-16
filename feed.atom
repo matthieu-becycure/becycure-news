@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T11:43:32.774Z</updated>
+    <updated>2024-08-16T12:22:21.002Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Multi-Stage ValleyRAT Targets Chinese Users with Advanced Tactics]]></title>
+        <id>https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html</id>
+        <link href="https://thehackernews.com/2024/08/multi-stage-valleyrat-targets-chinese.html"/>
+        <updated>2024-08-16T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Chinese-speaking users are the target of an ongoing campaign that distributes malware known as ValleyRAT.
+"ValleyRAT is a multi-stage malware that utilizes diverse techniques to monitor and control its victims and deploy arbitrary plugins to cause further damage," Fortinet FortiGuard Labs researchers Eduardo Altares and Joie Salvio said.
+"Another noteworthy characteristic of this malware is its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Hidden Security Gaps in Your SaaS Apps: Are You Doing Due Diligence?]]></title>
         <id>https://thehackernews.com/2024/08/the-hidden-security-gaps-in-your-saas.html</id>
