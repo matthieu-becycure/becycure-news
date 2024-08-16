@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T21:27:15.345Z</updated>
+    <updated>2024-08-16T21:43:26.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2668,18 +2668,6 @@ Ever wish they proactively cared about security? The answer lies in a proven, bu
         <link href="https://thehackernews.com/2024/07/automated-threats-pose-increasing-risk.html"/>
         <updated>2024-07-18T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[As the travel industry rebounds post-pandemic, it is increasingly targeted by automated threats, with the sector experiencing nearly 21% of all bot attack requests last year. That’s according to research from Imperva, a Thales company. In their 2024 Bad Bot Report, Imperva finds that bad bots accounted for 44.5% of the industry’s web traffic in 2023—a significant jump from 37.4% in 2022.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP AI Core Vulnerabilities Expose Customer Data to Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html</id>
-        <link href="https://thehackernews.com/2024/07/sap-ai-core-vulnerabilities-expose.html"/>
-        <updated>2024-07-18T09:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered security shortcomings in SAP AI Core cloud-based platform for creating and deploying predictive artificial intelligence (AI) workflows that could be exploited to get hold of access tokens and customer data.
-The five vulnerabilities have been collectively dubbed SAPwned by cloud security firm Wiz.
-"The vulnerabilities we found could have allowed attackers]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
