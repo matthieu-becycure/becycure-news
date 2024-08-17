@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-17T15:43:26.687Z</updated>
+    <updated>2024-08-17T16:14:53.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2636,17 +2636,6 @@ Of the 11 vulnerabilities, seven are rated Critical in severity and carry a CVSS
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WazirX Cryptocurrency Exchange Loses $230 Million in Major Security Breach]]></title>
-        <id>https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html</id>
-        <link href="https://thehackernews.com/2024/07/wazirx-cryptocurrency-exchange-loses.html"/>
-        <updated>2024-07-19T04:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Indian cryptocurrency exchange WazirX has confirmed that it was the target of a security breach that led to the theft of $230 million in cryptocurrency assets.
-"A cyber attack occurred in one of our [multi-signature] wallets involving a loss of funds exceeding $230 million," the company said in a statement. "This wallet was operated utilizing the services of Liminal's digital asset custody and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
