@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-17T06:43:28.813Z</updated>
+    <updated>2024-08-17T07:09:55.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Blocks Iranian Influence Operation Using ChatGPT for U.S. Election Propaganda]]></title>
+        <id>https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html</id>
+        <link href="https://thehackernews.com/2024/08/openai-blocks-iranian-influence.html"/>
+        <updated>2024-08-17T06:38:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI on Friday said it banned a set of accounts linked to what it said was an Iranian covert influence operation that leveraged ChatGPT to generate content that, among other things, focused on the upcoming U.S. presidential election.
+"This week we identified and took down a cluster of ChatGPT accounts that were generating content for a covert Iranian influence operation identified as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Attackers Exploit Public .env Files to Breach Cloud and Social Media Accounts]]></title>
         <id>https://thehackernews.com/2024/08/attackers-exploit-public-env-files-to.html</id>
