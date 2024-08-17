@@ -2372,22 +2372,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiteKPjJEa7aAC9makaTIpncMCFmKEIfWvIvtTvARi_C07SXrM2ABujFQ7KwszyFGD_kgrHU4b6LZ9ahSEP6fvCbNQTw_xiOkdSvWi3BzTbYNcQG9yVLkzJGVdc9hMFReRwCsBbTkqNSsVt4uzMSu6Jxvl4_jD6eurJ7DhSi8ifLy4bmZ7Eyr5Cm-g8Jvg8/s1600/wazirx.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiteKPjJEa7aAC9makaTIpncMCFmKEIfWvIvtTvARi_C07SXrM2ABujFQ7KwszyFGD_kgrHU4b6LZ9ahSEP6fvCbNQTw_xiOkdSvWi3BzTbYNcQG9yVLkzJGVdc9hMFReRwCsBbTkqNSsVt4uzMSu6Jxvl4_jD6eurJ7DhSi8ifLy4bmZ7Eyr5Cm-g8Jvg8/s1600/wazirx.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have shed light on an adware module that purports to block ads and malicious websites, while stealthily offloading a kernel driver component that grants attackers the ability to run arbitrary code with elevated permissions on Windows hosts.\nThe malware, dubbed HotPage, gets its name from the eponymous installer (\"HotPage.exe\"), according to new findings from ESET.\nThe",
-          "link": "https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html",
-          "publishedOn": "2024-07-18T13:26:00.000Z",
-          "wordCount": null,
-          "title": "Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vsUgwYZu-8gHpGYvC1pB1KM8oWnlBKZah-fgrhWSMo9NWGhPzgyP-duusyHzRwm5U1HWK9tzCOwLV4no_rlsqRCKXfib37teOiQ1Srt-aHuFBFuVxph9M9vTVvyjU80R5Sd3pFd8z-ZUN8QVnUWxCcLc0te5W5QSMXWYR2ZQsOygo9aivaNvsLRzlMz2/s1600/shell.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9vsUgwYZu-8gHpGYvC1pB1KM8oWnlBKZah-fgrhWSMo9NWGhPzgyP-duusyHzRwm5U1HWK9tzCOwLV4no_rlsqRCKXfib37teOiQ1Srt-aHuFBFuVxph9M9vTVvyjU80R5Sd3pFd8z-ZUN8QVnUWxCcLc0te5W5QSMXWYR2ZQsOygo9aivaNvsLRzlMz2/s1600/shell.png"
         }
       ]
     },

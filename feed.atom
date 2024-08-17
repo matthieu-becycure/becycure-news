@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-17T00:53:40.754Z</updated>
+    <updated>2024-08-17T01:59:25.485Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2634,18 +2634,6 @@ Of the 11 vulnerabilities, seven are rated Critical in severity and carry a CVSS
         <updated>2024-07-19T04:07:00.000Z</updated>
         <summary type="html"><![CDATA[Indian cryptocurrency exchange WazirX has confirmed that it was the target of a security breach that led to the theft of $230 million in cryptocurrency assets.
 "A cyber attack occurred in one of our [multi-signature] wallets involving a loss of funds exceeding $230 million," the company said in a statement. "This wallet was operated utilizing the services of Liminal's digital asset custody and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alert: HotPage Adware Disguised as Ad Blocker Installs Malicious Kernel Driver]]></title>
-        <id>https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html</id>
-        <link href="https://thehackernews.com/2024/07/alert-hotpage-adware-disguised-as-ad.html"/>
-        <updated>2024-07-18T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on an adware module that purports to block ads and malicious websites, while stealthily offloading a kernel driver component that grants attackers the ability to run arbitrary code with elevated permissions on Windows hosts.
-The malware, dubbed HotPage, gets its name from the eponymous installer ("HotPage.exe"), according to new findings from ESET.
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
