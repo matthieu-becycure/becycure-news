@@ -3225,16 +3225,6 @@
           "wordCount": 1731,
           "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (19 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/",
-          "author": null,
-          "description": "Le 19 juillet 2024, le CERT-FR a été informé d’incidents affectant des systèmes sur lesquels l’agent de l’EDR Crowdstrike Falcon est installé et utilisant le système d’exploitation Microsoft Windows. Le présent bulletin d’actualité reprend les différents éléments dont le CERT-FR a connaissance....",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-032/",
-          "publishedOn": "2024-07-19T09:48:52.000Z",
-          "wordCount": 951,
-          "title": "Panne informatique affectant les systèmes Microsoft Windows disposant de l'EDR Crowdstrike Falcon (19 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
