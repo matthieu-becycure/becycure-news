@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-17T19:23:56.518Z</updated>
+    <updated>2024-08-17T19:43:39.604Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2582,17 +2582,6 @@ Targets of the ongoing campaign]]></summary>
         <summary type="html"><![CDATA[Event Overview
 The "AI Leaders Spill Their Secrets" webinar, hosted by Sigma Computing, featured prominent AI experts sharing their experiences and strategies for success in the AI industry. The panel included Michael Ward from Sardine, Damon Bryan from Hyperfinity, and Stephen Hillian from Astronomer, moderated by Zalak Trivedi, Sigma Computing's Product Manager.
 Key Speakers and Their]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT41 Infiltrates Networks in Italy, Spain, Taiwan, Turkey, and the U.K.]]></title>
-        <id>https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html</id>
-        <link href="https://thehackernews.com/2024/07/apt41-infiltrates-networks-in-italy.html"/>
-        <updated>2024-07-19T07:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Several organizations operating within global shipping and logistics, media and entertainment, technology, and automotive sectors in Italy, Spain, Taiwan, Thailand, Turkey, and the U.K. have become the target of a "sustained campaign" by the prolific China-based APT41 hacking group.
-"APT41 successfully infiltrated and maintained prolonged, unauthorized access to numerous victims' networks since]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
