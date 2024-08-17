@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-16T23:43:22.592Z</updated>
+    <updated>2024-08-17T00:53:40.754Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2646,18 +2646,6 @@ Of the 11 vulnerabilities, seven are rated Critical in severity and carry a CVSS
         <summary type="html"><![CDATA[Cybersecurity researchers have shed light on an adware module that purports to block ads and malicious websites, while stealthily offloading a kernel driver component that grants attackers the ability to run arbitrary code with elevated permissions on Windows hosts.
 The malware, dubbed HotPage, gets its name from the eponymous installer ("HotPage.exe"), according to new findings from ESET.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppSec Webinar: How to Turn Developers into Security Champions]]></title>
-        <id>https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html</id>
-        <link href="https://thehackernews.com/2024/07/appsec-webinar-how-to-turn-developers.html"/>
-        <updated>2024-07-18T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's face it: AppSec and developers often feel like they're on opposing teams. You're battling endless vulnerabilities while they just want to ship code. Sound familiar?
-It's a common challenge, but there is a solution.
-Ever wish they proactively cared about security? The answer lies in a proven, but often overlooked, strategy: Security Champion Programs — a way to turn developers from]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
