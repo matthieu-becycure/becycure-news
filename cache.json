@@ -3309,26 +3309,6 @@
           "wordCount": 632,
           "title": "Multiples vulnérabilités dans SolarWinds Access Rights Manager (19 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans VMware Tanzu. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0608/",
-          "publishedOn": "2024-07-19T07:07:01.000Z",
-          "wordCount": 379,
-          "title": "Vulnérabilité dans VMware Tanzu (19 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0607/",
-          "publishedOn": "2024-07-19T06:49:40.000Z",
-          "wordCount": 490,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (19 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
