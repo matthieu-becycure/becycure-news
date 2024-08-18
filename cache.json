@@ -2260,38 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrIp7mClsN2njmYIpcC7j5Y0JZ5k6WdnBP8tUOFBYaYxcy0isI4ojr1kzEQayg3GaTQVtHoXzUhGZndeBagU_RKxKfUNfiLKHmOTEnzdjjlcC3P9E56tascvgqxGqWjwzPnwB11bl1tnjQqM7NhJ5Hv-N0suzxOEVAUx5MJmnz-1Wx39yGGhXVWFbVDZb/s1600/cybercrime.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcrIp7mClsN2njmYIpcC7j5Y0JZ5k6WdnBP8tUOFBYaYxcy0isI4ojr1kzEQayg3GaTQVtHoXzUhGZndeBagU_RKxKfUNfiLKHmOTEnzdjjlcC3P9E56tascvgqxGqWjwzPnwB11bl1tnjQqM7NhJ5Hv-N0suzxOEVAUx5MJmnz-1Wx39yGGhXVWFbVDZb/s1600/cybercrime.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Businesses across the world have been hit by widespread disruptions to their Windows workstations stemming from a faulty update pushed out by cybersecurity company CrowdStrike.\n\"CrowdStrike is actively working with customers impacted by a defect found in a single content update for Windows hosts,\" the company's CEO George Kurtz said in a statement. \"Mac and Linux hosts are not impacted. This is",
-          "link": "https://thehackernews.com/2024/07/faulty-crowdstrike-update-crashes.html",
-          "publishedOn": "2024-07-19T12:38:00.000Z",
-          "wordCount": null,
-          "title": "Faulty CrowdStrike Update Crashes Windows Systems, Impacting Businesses Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCd0OiieEqhsfgCpLqSMJi9i34PfDTR8wJst_UcoafjD29g6QFHJT4Ea579Y_ZYNo1nYXZyez4aLC_DQDs_hvpA517u4RA1NxvaW7taf-P-9eK_rA3PrvloNkcUKwX_UVvQxGk-BNEreJfhOpM59b8G06nKrsrh4XFY2xb25wH02l_RZ5hrbBxTxZqaO-a/s1600/blue-screen-of-death.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCd0OiieEqhsfgCpLqSMJi9i34PfDTR8wJst_UcoafjD29g6QFHJT4Ea579Y_ZYNo1nYXZyez4aLC_DQDs_hvpA517u4RA1NxvaW7taf-P-9eK_rA3PrvloNkcUKwX_UVvQxGk-BNEreJfhOpM59b8G06nKrsrh4XFY2xb25wH02l_RZ5hrbBxTxZqaO-a/s1600/blue-screen-of-death.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Two Russian nationals have pleaded guilty in a U.S. court for their participation as affiliates in the LockBit ransomware scheme and helping facilitate ransomware attacks across the world.\nThe defendants include Ruslan Magomedovich Astamirov, 21, of Chechen Republic, and Mikhail Vasiliev, 34, a dual Canadian and Russian national of Bradford, Ontario.\nAstamirov was arrested in Arizona by U.S. law",
-          "link": "https://thehackernews.com/2024/07/two-russian-nationals-plead-guilty-in.html",
-          "publishedOn": "2024-07-19T12:30:00.000Z",
-          "wordCount": null,
-          "title": "Two Russian Nationals Plead Guilty in LockBit Ransomware Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s1600/lockbit.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje3TkYEAH0DBzKQC7f8WChrLZqpw0cSKpGBLDGtCTcyPXiYib6Bg1ubH9ksBh8K65YdF_x8u9PMNfMJe5jEi6PDnMLA5xKEChP1a83G-R1Z2TJEdQlmG7ugVmznCgDeZgd4mX5SBZ0cZJq9IZJcy8ypBP4bhMDHVfRUdCThUVChEPhWaBoGD4x3iFbT9P6/s1600/lockbit.png"
         }
       ]
     },
@@ -3148,36 +3116,6 @@
           "publishedOn": "2024-07-22T07:23:04.000Z",
           "wordCount": 317,
           "title": "Vulnérabilité dans les produits NetApp (22 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-033/",
-          "publishedOn": "2024-07-19T12:07:46.000Z",
-          "wordCount": 882,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-033 (19 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits IBM. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0614/",
-          "publishedOn": "2024-07-19T11:55:03.000Z",
-          "wordCount": 323,
-          "title": "Vulnérabilité dans IBM MaaS360 (19 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0613/",
-          "publishedOn": "2024-07-19T11:50:42.000Z",
-          "wordCount": 1054,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Debian (19 juillet 2024)",
           "imageUrl": null
         }
       ]
