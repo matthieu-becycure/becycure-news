@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1EpNr2IixAgc9YAuhAUOoVi8puDrTI7yCDJkTDOAxO9ga_GwMQGZHHnu8bPiUGzum-GvdWnAdUDzqbS4ghaFOjBSfni8OAgfP_RjgSnORDY4TMqsgyriCr9RUa-lsAgEmq2SOG8gi5F_O-l6xZdF6Ab94uiiJfbnhuZCeO4lFJqR-x9ZBZcOi-njpp1X/s1600/linux.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1EpNr2IixAgc9YAuhAUOoVi8puDrTI7yCDJkTDOAxO9ga_GwMQGZHHnu8bPiUGzum-GvdWnAdUDzqbS4ghaFOjBSfni8OAgfP_RjgSnORDY4TMqsgyriCr9RUa-lsAgEmq2SOG8gi5F_O-l6xZdF6Ab94uiiJfbnhuZCeO4lFJqR-x9ZBZcOi-njpp1X/s1600/linux.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity firm CrowdStrike, which is facing the heat for causing worldwide IT disruptions by pushing out a flawed update to Windows devices, is now warning that threat actors are exploiting the situation to distribute Remcos RAT to its customers in Latin America under the guise of a providing a hotfix.\nThe attack chains involve distributing a ZIP archive file named \"crowdstrike-hotfix.zip,\"",
-          "link": "https://thehackernews.com/2024/07/cybercriminals-exploit-crowdstrike.html",
-          "publishedOn": "2024-07-20T16:01:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Exploit CrowdStrike Update Mishap to Distribute Remcos RAT Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D-8j89CpYIE76VYF0Eq9A1dDUraqiZTaMvGlkFjZKfXWI0KUIRPqSErEJujZd-AfpQyj6_LtlYexOw_qrukIvmzUzoWmLVaB2LSaUBzFdTJoAExzPuv3nzMjmBo5sH2J4pfM9O_cI_h4KlggSS__rzpMkHgrVqUik64mMptnhxGOEVCcAtDs2cn__LsE/s1600/IO.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0D-8j89CpYIE76VYF0Eq9A1dDUraqiZTaMvGlkFjZKfXWI0KUIRPqSErEJujZd-AfpQyj6_LtlYexOw_qrukIvmzUzoWmLVaB2LSaUBzFdTJoAExzPuv3nzMjmBo5sH2J4pfM9O_cI_h4KlggSS__rzpMkHgrVqUik64mMptnhxGOEVCcAtDs2cn__LsE/s1600/IO.png"
         }
       ]
     },
