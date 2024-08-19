@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-19T10:34:53.655Z</updated>
+    <updated>2024-08-19T10:44:05.759Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html</id>
+        <link href="https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html"/>
+        <updated>2024-08-19T10:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious actors are using a cloud attack tool named Xeon Sender to conduct SMS phishing and spam campaigns on a large scale by abusing legitimate services.
+"Attackers can use Xeon to send messages through multiple software-as-a-service (SaaS) providers using valid credentials for the service providers," SentinelOne security researcher Alex Delamotte said in a report shared with The Hacker News.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group]]></title>
         <id>https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html</id>

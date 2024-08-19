@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors are using a cloud attack tool named Xeon Sender to conduct SMS phishing and spam campaigns on a large scale by abusing legitimate services.\n\"Attackers can use Xeon to send messages through multiple software-as-a-service (SaaS) providers using valid credentials for the service providers,\" SentinelOne security researcher Alex Delamotte said in a report shared with The Hacker News.",
+          "link": "https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html",
+          "publishedOn": "2024-08-19T10:02:00.000Z",
+          "wordCount": null,
+          "title": "Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgl2Arh7P4C-OTsvWnTH5Cx0o7gZl_8yPTZWHkCO4qc4bmq7kbWP3TbE07hPc-uUAXIDmZCkWwDg76NCnDXnr5kOG4OCf_BXKylz13hizYsyqXMZJfoRipaLp8DbcwTOhbBxFtAn_mqNxexBLDSgLwdg54QmkQdzgazq4R1QPMorQtwx5aSdb1GISZ9yg/s1600/svg.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgl2Arh7P4C-OTsvWnTH5Cx0o7gZl_8yPTZWHkCO4qc4bmq7kbWP3TbE07hPc-uUAXIDmZCkWwDg76NCnDXnr5kOG4OCf_BXKylz13hizYsyqXMZJfoRipaLp8DbcwTOhbBxFtAn_mqNxexBLDSgLwdg54QmkQdzgazq4R1QPMorQtwx5aSdb1GISZ9yg/s1600/svg.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A newly patched security flaw in Microsoft Windows was exploited as a zero-day by Lazarus Group, a prolific state-sponsored actor affiliated with North Korea.\nThe security vulnerability, tracked as CVE-2024-38193 (CVSS score: 7.8), has been described as a privilege escalation bug in the Windows Ancillary Function Driver (AFD.sys) for WinSock.\n\"An attacker who successfully exploited this",
