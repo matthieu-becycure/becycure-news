@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new type of malware called UULoader is being used by threat actors to deliver next-stage payloads like Gh0st RAT and Mimikatz.\nThe Cyberint Research Team, which discovered the malware, said it's distributed in the form of malicious installers for legitimate applications targeting Korean and Chinese speakers.\nThere is evidence pointing to UULoader being the work of a Chinese speaker due to the",
+          "link": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
+          "publishedOn": "2024-08-19T13:06:00.000Z",
+          "wordCount": null,
+          "title": "New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a surge in malware infections stemming from malvertising campaigns distributing a loader called FakeBat.\n\"These attacks are opportunistic in nature, targeting users seeking popular business software,\" the Mandiant Managed Defense team said in a technical report. \"The infection utilizes a trojanized MSIX installer, which executes a PowerShell script to",
+          "link": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
+          "publishedOn": "2024-08-19T12:37:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s1600/hacking.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s1600/hacking.gif"
+        },
+        {
           "id": "https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "According to recent research on employee offboarding, 70% of IT professionals say they’ve experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren’t in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five",
@@ -2300,6 +2332,46 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/",
+          "publishedOn": "2024-08-19T12:44:49.000Z",
+          "wordCount": 374,
+          "title": "Vulnérabilité dans Microsoft Office (19 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/",
+          "publishedOn": "2024-08-19T12:44:48.000Z",
+          "wordCount": 306,
+          "title": "Vulnérabilité dans Microsoft Edge (19 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/",
+          "publishedOn": "2024-08-19T12:03:59.000Z",
+          "wordCount": 719,
+          "title": "Multiples vulnérabilités dans Moodle (19 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-037/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-037/",
+          "publishedOn": "2024-08-19T07:40:21.000Z",
+          "wordCount": 1133,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-037 (19 août 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0695/",
           "author": null,

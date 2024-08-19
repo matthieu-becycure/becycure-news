@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-19T12:57:38.079Z</updated>
+    <updated>2024-08-19T13:19:37.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia]]></title>
+        <id>https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html</id>
+        <link href="https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html"/>
+        <updated>2024-08-19T13:06:00.000Z</updated>
+        <summary type="html"><![CDATA[A new type of malware called UULoader is being used by threat actors to deliver next-stage payloads like Gh0st RAT and Mimikatz.
+The Cyberint Research Team, which discovered the malware, said it's distributed in the form of malicious installers for legitimate applications targeting Korean and Chinese speakers.
+There is evidence pointing to UULoader being the work of a Chinese speaker due to the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Microsoft Office (19 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/"/>
+        <updated>2024-08-19T12:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Microsoft Edge (19 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/"/>
+        <updated>2024-08-19T12:44:48.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware]]></title>
+        <id>https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html</id>
+        <link href="https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html"/>
+        <updated>2024-08-19T12:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a surge in malware infections stemming from malvertising campaigns distributing a loader called FakeBat.
+"These attacks are opportunistic in nature, targeting users seeking popular business software," the Mandiant Managed Defense team said in a technical report. "The infection utilizes a trojanized MSIX installer, which executes a PowerShell script to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans Moodle (19 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/"/>
+        <updated>2024-08-19T12:03:59.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Automate the Hardest Parts of Employee Offboarding]]></title>
         <id>https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html</id>
@@ -25,6 +78,16 @@
 "Attackers can use Xeon to send messages through multiple software-as-a-service (SaaS) providers using valid credentials for the service providers," SentinelOne security researcher Alex Delamotte said in a report shared with The Hacker News.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-037 (19 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-037/</id>
+        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-037/"/>
+        <updated>2024-08-19T07:40:21.000Z</updated>
+        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
