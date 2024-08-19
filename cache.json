@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "According to recent research on employee offboarding, 70% of IT professionals say they’ve experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren’t in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five",
+          "link": "https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html",
+          "publishedOn": "2024-08-19T10:49:00.000Z",
+          "wordCount": null,
+          "title": "How to Automate the Hardest Parts of Employee Offboarding",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvu6tO1L8Grcxs6kzmHhbzYgi1WClM2WQRoNyrNSIL8nggtk0BlYUEuCJeOk9s3r-hSdKCRRKG9V2u4b0UgMaOTxaGH5mzpCJffseGzkh-q_JYMaob7ah1pW45jx6wZZ0suNEUs5gaVItQh0kMO4fSV7Rnkd_siC881DkHr3ySmvlvMgbF-dAru6qfPE/s1600/nudge.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRvu6tO1L8Grcxs6kzmHhbzYgi1WClM2WQRoNyrNSIL8nggtk0BlYUEuCJeOk9s3r-hSdKCRRKG9V2u4b0UgMaOTxaGH5mzpCJffseGzkh-q_JYMaob7ah1pW45jx6wZZ0suNEUs5gaVItQh0kMO4fSV7Rnkd_siC881DkHr3ySmvlvMgbF-dAru6qfPE/s1600/nudge.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Malicious actors are using a cloud attack tool named Xeon Sender to conduct SMS phishing and spam campaigns on a large scale by abusing legitimate services.\n\"Attackers can use Xeon to send messages through multiple software-as-a-service (SaaS) providers using valid credentials for the service providers,\" SentinelOne security researcher Alex Delamotte said in a report shared with The Hacker News.",

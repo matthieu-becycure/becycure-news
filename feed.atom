@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-19T11:43:36.433Z</updated>
+    <updated>2024-08-19T12:22:38.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Automate the Hardest Parts of Employee Offboarding]]></title>
+        <id>https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html</id>
+        <link href="https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html"/>
+        <updated>2024-08-19T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[According to recent research on employee offboarding, 70% of IT professionals say they’ve experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren’t in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks]]></title>
         <id>https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html</id>
