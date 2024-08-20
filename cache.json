@@ -3301,16 +3301,6 @@
           "wordCount": 330,
           "title": "Multiples vulnérabilités dans les produits Siemens (23 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Atlassian. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0616/",
-          "publishedOn": "2024-07-22T07:24:10.000Z",
-          "wordCount": 355,
-          "title": "Vulnérabilité dans les produits Atlassian (22 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
