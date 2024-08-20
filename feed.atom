@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T05:30:15.924Z</updated>
+    <updated>2024-08-20T05:43:27.796Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information]]></title>
+        <id>https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html</id>
+        <link href="https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html"/>
+        <updated>2024-08-20T05:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are warning about the discovery of thousands of externally-facing Oracle NetSuite e-commerce sites that have been found susceptible to leaking sensitive customer information.
+"A potential issue in NetSuite's SuiteCommerce platform could allow attackers to access sensitive data due to misconfigured access controls on custom record types (CRTs)," AppOmni's Aaron Costello]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html</id>
+        <link href="https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html"/>
+        <updated>2024-08-20T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security flaw impacting Jenkins to its Known Exploited Vulnerabilities (KEV) catalog, following its exploitation in ransomware attacks.
+The vulnerability, tracked as CVE-2024-23897 (CVSS score: 9.8), is a path traversal flaw that could lead to code execution.
+"Jenkins Command Line Interface (CLI) contains a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia]]></title>
         <id>https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html</id>
