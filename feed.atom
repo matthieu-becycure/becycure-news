@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T10:32:16.457Z</updated>
+    <updated>2024-08-20T10:43:36.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor]]></title>
+        <id>https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html</id>
+        <link href="https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html"/>
+        <updated>2024-08-20T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented backdoor named Msupedge has been put to use against a cyber attack targeting an unnamed university in Taiwan.
+"The most notable feature of this backdoor is that it communicates with a command-and-control (C&C) server via DNS traffic," the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News.
+The origins of the backdoor are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anatomy of an Attack]]></title>
+        <id>https://thehackernews.com/2024/08/anatomy-of-attack.html</id>
+        <link href="https://thehackernews.com/2024/08/anatomy-of-attack.html"/>
+        <updated>2024-08-20T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's rapidly evolving cyber threat landscape, organizations face increasingly sophisticated attacks targeting their applications. Understanding these threats and the technologies designed to combat them is crucial. This article delves into the mechanics of a common application attack, using the infamous Log4Shell vulnerability as an example, and demonstrates how Application Detection and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover TLS Bootstrap Attack on Azure Kubernetes Clusters]]></title>
+        <id>https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html</id>
+        <link href="https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html"/>
+        <updated>2024-08-20T09:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a security flaw impacting Microsoft Azure Kubernetes Services that, if successfully exploited, could allow an attacker to escalate their privileges and access credentials for services used by the cluster.
+"An attacker with command execution in a Pod running within an affected Azure Kubernetes Services cluster could download the configuration used to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian Cyber Group TA453 Targets Jewish Leader with New AnvilEcho Malware]]></title>
+        <id>https://thehackernews.com/2024/08/iranian-cyber-group-ta453-targets.html</id>
+        <link href="https://thehackernews.com/2024/08/iranian-cyber-group-ta453-targets.html"/>
+        <updated>2024-08-20T09:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Iranian state-sponsored threat actors have been observed orchestrating spear-phishing campaigns targeting a prominent Jewish figure starting in late July 2024 with the goal of delivering a new intelligence-gathering tool called AnvilEcho.
+Enterprise security company Proofpoint is tracking the activity under the name TA453, which overlaps with activity tracked by the broader cybersecurity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America]]></title>
         <id>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</id>
