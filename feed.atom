@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T22:29:41.603Z</updated>
+    <updated>2024-08-20T22:43:39.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2608,16 +2608,6 @@ Infoblox is tracking the proprietor]]></summary>
         <updated>2024-07-22T11:25:00.000Z</updated>
         <summary type="html"><![CDATA[The opportunities to use AI in workflow automation are many and varied, but one of the simplest ways to use AI to save time and enhance your organization’s security posture is by building an automated SMS analysis service. 
 Workflow automation platform Tines provides a good example of how to do it. The vendor recently released their first native AI features, and security teams have already]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSPs & MSSPs: How to Increase Engagement with Your Cybersecurity Clients Through vCISO Reporting]]></title>
-        <id>https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html</id>
-        <link href="https://thehackernews.com/2024/07/msps-mssps-how-to-increase-engagement.html"/>
-        <updated>2024-07-22T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[As a vCISO, you are responsible for your client's cybersecurity strategy and risk governance. This incorporates multiple disciplines, from research to execution to reporting. Recently, we published a comprehensive playbook for vCISOs, “Your First 100 Days as a vCISO – 5 Steps to Success”, which covers all the phases entailed in launching a successful vCISO engagement, along with]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
