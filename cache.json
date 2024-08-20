@@ -3311,16 +3311,6 @@
           "wordCount": 355,
           "title": "Vulnérabilité dans les produits Atlassian (22 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits NetApp. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0615/",
-          "publishedOn": "2024-07-22T07:23:04.000Z",
-          "wordCount": 317,
-          "title": "Vulnérabilité dans les produits NetApp (22 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
