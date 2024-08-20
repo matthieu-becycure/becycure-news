@@ -2445,6 +2445,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SpringSecurity. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/",
+          "publishedOn": "2024-08-20T06:35:34.000Z",
+          "wordCount": 310,
+          "title": "Vulnérabilité dans Spring Security (20 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/",
+          "publishedOn": "2024-08-19T14:49:25.000Z",
+          "wordCount": 647,
+          "title": "Multiples vulnérabilités dans les produits F5 et Nginx (19 août 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",

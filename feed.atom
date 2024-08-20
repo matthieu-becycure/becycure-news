@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T13:30:42.568Z</updated>
+    <updated>2024-08-20T13:43:41.148Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -51,6 +51,16 @@ Enterprise security company Proofpoint is tracking the activity under the name T
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Spring Security (20 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0700/"/>
+        <updated>2024-08-20T06:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SpringSecurity. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America]]></title>
         <id>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</id>
         <link href="https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html"/>
@@ -83,6 +93,16 @@ The vulnerability, tracked as CVE-2024-23897 (CVSS score: 9.8), is a path traver
 "Jenkins Command Line Interface (CLI) contains a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits F5 et Nginx (19 août 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0699/"/>
+        <updated>2024-08-19T14:49:25.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits F5. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
