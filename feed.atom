@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T05:43:27.796Z</updated>
+    <updated>2024-08-20T06:16:41.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blind Eagle Hackers Exploit Spear-Phishing to Deploy RATs in Latin America]]></title>
+        <id>https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html</id>
+        <link href="https://thehackernews.com/2024/08/blind-eagle-hackers-exploit-spear.html"/>
+        <updated>2024-08-20T06:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a threat actor known as Blind Eagle that has persistently targeted entities and individuals in Colombia, Ecuador, Chile, Panama, and other Latin American nations.
+Targets of these attacks span several sectors, including governmental institutions, financial companies, energy and oil and gas companies.
+"Blind Eagle has demonstrated adaptability in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information]]></title>
         <id>https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html</id>
