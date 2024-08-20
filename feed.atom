@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-20T15:43:32.130Z</updated>
+    <updated>2024-08-20T16:13:52.430Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2627,17 +2627,6 @@ Workflow automation platform Tines provides a good example of how to do it. The 
         <updated>2024-07-22T06:45:00.000Z</updated>
         <summary type="html"><![CDATA[The JavaScript downloader malware known as SocGholish (aka FakeUpdates) is being used to deliver a remote access trojan called AsyncRAT as well as a legitimate open-source project called BOINC.
 BOINC, short for Berkeley Open Infrastructure Network Computing Client, is an open-source "volunteer computing" platform maintained by the University of California with an aim to carry out "large-scale]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux Variant of Play Ransomware Targeting VMWare ESXi Systems]]></title>
-        <id>https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html</id>
-        <link href="https://thehackernews.com/2024/07/new-linux-variant-of-play-ransomware.html"/>
-        <updated>2024-07-22T03:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new Linux variant of a ransomware strain known as Play (aka Balloonfly and PlayCrypt) that's designed to target VMWare ESXi environments.
-"This development suggests that the group could be broadening its attacks across the Linux platform, leading to an expanded victim pool and more successful ransom negotiations," Trend Micro researchers said in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
