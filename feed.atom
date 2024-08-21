@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T16:15:41.207Z</updated>
+    <updated>2024-08-21T16:35:10.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2661,17 +2661,6 @@ The agency attributed the attack to a threat actor it tracks under the name UAC-
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Siemens. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Abandons Plan to Phase Out Third-Party Cookies in Chrome]]></title>
-        <id>https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html</id>
-        <link href="https://thehackernews.com/2024/07/google-abandons-plan-to-phase-out-third.html"/>
-        <updated>2024-07-23T04:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Monday abandoned plans to phase out third-party tracking cookies in its Chrome web browser more than four years after it introduced the option as part of a larger set of a controversial proposal called the Privacy Sandbox.
-"Instead of deprecating third-party cookies, we would introduce a new experience in Chrome that lets people make an informed choice that applies across their web]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
