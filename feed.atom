@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T22:43:45.574Z</updated>
+    <updated>2024-08-21T23:11:33.824Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2617,17 +2617,6 @@ CVE-2024-39891 (CVSS score: 5.3) - Twilio Authy Information Disclosure]]></summa
         <updated>2024-07-23T12:28:00.000Z</updated>
         <summary type="html"><![CDATA[Organizations in Taiwan and a U.S. non-governmental organization (NGO) based in China have been targeted by a Beijing-affiliated state-sponsored hacking group called Daggerfly using an upgraded set of malware tools.
 The campaign is a sign that the group "also engages in internal espionage," Symantec's Threat Hunter Team, part of Broadcom, said in a new report published today. "In the attack on]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New ICS Malware 'FrostyGoop' Targeting Critical Infrastructure]]></title>
-        <id>https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html</id>
-        <link href="https://thehackernews.com/2024/07/new-ics-malware-frostygoop-targeting.html"/>
-        <updated>2024-07-23T10:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered what they say is the ninth Industrial Control Systems (ICS)-focused malware that has been used in a disruptive cyber attack targeting an energy company in the Ukrainian city of Lviv earlier this January.
-Industrial cybersecurity firm Dragos has dubbed the malware FrostyGoop, describing it as the first malware strain to directly use Modbus TCP]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
