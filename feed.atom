@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T06:16:22.308Z</updated>
+    <updated>2024-08-21T06:35:17.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait]]></title>
+        <id>https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html</id>
+        <link href="https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html"/>
+        <updated>2024-08-21T05:28:00.000Z</updated>
+        <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of new phishing attacks that aim to infect devices with malware.
+The activity has been attributed to a threat cluster it tracks as UAC-0020, which is also known as Vermin. The exact scale and scope of the attacks are presently unknown.
+The attack chains commence with phishing messages with photos of alleged prisoners of war (]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk]]></title>
         <id>https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html</id>
