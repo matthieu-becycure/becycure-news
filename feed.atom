@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T00:55:17.510Z</updated>
+    <updated>2024-08-21T02:02:38.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2574,18 +2574,6 @@ The agency attributed the attack to a threat actor it tracks under the name UAC-
         <updated>2024-07-23T04:28:00.000Z</updated>
         <summary type="html"><![CDATA[Google on Monday abandoned plans to phase out third-party tracking cookies in its Chrome web browser more than four years after it introduced the option as part of a larger set of a controversial proposal called the Privacy Sandbox.
 "Instead of deprecating third-party cookies, we would introduce a new experience in Chrome that lets people make an informed choice that applies across their web]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover Chinese Cybercrime Network Behind Gambling and Human Trafficking]]></title>
-        <id>https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html</id>
-        <link href="https://thehackernews.com/2024/07/experts-uncover-chinese-cybercrime.html"/>
-        <updated>2024-07-22T13:05:00.000Z</updated>
-        <summary type="html"><![CDATA[The relationship between various TDSs and DNS associated with Vigorish Viper and the final landing experience for the user
-A Chinese organized crime syndicate with links to money laundering and human trafficking across Southeast Asia has been using an advanced "technology suite" that runs the whole cybercrime supply chain spectrum to spearhead its operations.
-Infoblox is tracking the proprietor]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
