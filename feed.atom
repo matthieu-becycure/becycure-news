@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T11:23:26.377Z</updated>
+    <updated>2024-08-21T11:43:40.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It's Time To Untangle the SaaS Ball of Yarn]]></title>
+        <id>https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html</id>
+        <link href="https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html"/>
+        <updated>2024-08-21T11:11:00.000Z</updated>
+        <summary type="html"><![CDATA[It's no great revelation to say that SaaS applications have changed the way we operate, both in our personal and professional lives. We routinely rely on cloud-based and remote applications to conduct our basic functions, with the result that the only true perimeter of our networks has become the identities with which we log into these services.
+Unfortunately – as is so often the case – our]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Styx Stealer Creator's OPSEC Fail Leaks Client List and Profit Details]]></title>
+        <id>https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html</id>
+        <link href="https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html"/>
+        <updated>2024-08-21T11:10:00.000Z</updated>
+        <summary type="html"><![CDATA[In what's a case of an operational security (OPSEC) lapse, the operator behind a new information stealer called Styx Stealer leaked data from their own computer, including details related to the clients, profit information, nicknames, phone numbers, and email addresses.
+Styx Stealer, a derivative of the Phemedrone Stealer, is capable of stealing browser data, instant messenger sessions from]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New macOS Malware TodoSwift Linked to North Korean Hacking Groups]]></title>
+        <id>https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html</id>
+        <link href="https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html"/>
+        <updated>2024-08-21T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new macOS malware strain dubbed TodoSwift that they say exhibits commonalities with known malicious software used by North Korean hacking groups.
+"This application shares several behaviors with malware we've seen that originated in North Korea (DPRK) — specifically the threat actor known as BlueNoroff — such as KANDYKORN and RustBucket," Kandji security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERT-UA Warns of New Vermin-Linked Phishing Attacks with PoW Bait]]></title>
         <id>https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html</id>

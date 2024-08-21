@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It's no great revelation to say that SaaS applications have changed the way we operate, both in our personal and professional lives. We routinely rely on cloud-based and remote applications to conduct our basic functions, with the result that the only true perimeter of our networks has become the identities with which we log into these services.\nUnfortunately – as is so often the case – our",
+          "link": "https://thehackernews.com/2024/08/its-time-to-untangle-saas-ball-of-yarn.html",
+          "publishedOn": "2024-08-21T11:11:00.000Z",
+          "wordCount": null,
+          "title": "It's Time To Untangle the SaaS Ball of Yarn",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiskZDIRPe5VB_9ZxvxBLiHZrSGb6DPdbPTpgnpJg-PnIwGqCm3pBXWlYRUZQB3QUB0IrgxZuxsUIH3-0mxLGX4HRuvKikDrQp-vlxIYwKnGQzFNCPm1jmkNDAWSsThBjCH2O3MAHOzc_Zre42G0eMeJwdbq1k1nBAgYLNzOWZdxgBOc6dHOlrX95YPoyA/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In what's a case of an operational security (OPSEC) lapse, the operator behind a new information stealer called Styx Stealer leaked data from their own computer, including details related to the clients, profit information, nicknames, phone numbers, and email addresses.\nStyx Stealer, a derivative of the Phemedrone Stealer, is capable of stealing browser data, instant messenger sessions from",
+          "link": "https://thehackernews.com/2024/08/styx-stealer-creators-opsec-fail-leaks.html",
+          "publishedOn": "2024-08-21T11:10:00.000Z",
+          "wordCount": null,
+          "title": "Styx Stealer Creator's OPSEC Fail Leaks Client List and Profit Details",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ye1Nq5DpfzUb6eUUtkmqPTPzN-J6D6d3_V3LFRcSfexJs7iBqJRAqQw16g-g3T5vcLDNKSR_PjsG9WP4dpUZAXdKpxQIkB_8S-M0sTWFCWS8r7OL8EUPf9Lr0GSPYOjLQMVUjT8gkkiM7_mvDhx70TUYBlzBdc0lGQONMXA73IwxA3i96SHqSf3CIuh7/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7ye1Nq5DpfzUb6eUUtkmqPTPzN-J6D6d3_V3LFRcSfexJs7iBqJRAqQw16g-g3T5vcLDNKSR_PjsG9WP4dpUZAXdKpxQIkB_8S-M0sTWFCWS8r7OL8EUPf9Lr0GSPYOjLQMVUjT8gkkiM7_mvDhx70TUYBlzBdc0lGQONMXA73IwxA3i96SHqSf3CIuh7/s1600/code.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a new macOS malware strain dubbed TodoSwift that they say exhibits commonalities with known malicious software used by North Korean hacking groups.\n\"This application shares several behaviors with malware we've seen that originated in North Korea (DPRK) — specifically the threat actor known as BlueNoroff — such as KANDYKORN and RustBucket,\" Kandji security",
+          "link": "https://thehackernews.com/2024/08/new-macos-malware-todoswift-linked-to.html",
+          "publishedOn": "2024-08-21T11:00:00.000Z",
+          "wordCount": null,
+          "title": "New macOS Malware TodoSwift Linked to North Korean Hacking Groups",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFLwDLNBW-jJkkPA08bSFlhUfY3AQoKr2m9UnjVHKfmXbgIrot0sd5ds19lokZGhcYsOEFFQKThHIBF_-WFYcNDFOBSajh6gsH5v0Jd4HDsooxJEQ-YeXi1CUW_QdhmTCqWLeDiDRlCv5i68zC81z63FxzqDHcTbdwxx4RcW0ncM4n9COeGI5MqIcomxa9/s1600/north-korea.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFLwDLNBW-jJkkPA08bSFlhUfY3AQoKr2m9UnjVHKfmXbgIrot0sd5ds19lokZGhcYsOEFFQKThHIBF_-WFYcNDFOBSajh6gsH5v0Jd4HDsooxJEQ-YeXi1CUW_QdhmTCqWLeDiDRlCv5i68zC81z63FxzqDHcTbdwxx4RcW0ncM4n9COeGI5MqIcomxa9/s1600/north-korea.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/cert-ua-warns-of-new-vermin-linked.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of new phishing attacks that aim to infect devices with malware.\nThe activity has been attributed to a threat cluster it tracks as UAC-0020, which is also known as Vermin. The exact scale and scope of the attacks are presently unknown.\nThe attack chains commence with phishing messages with photos of alleged prisoners of war (",
