@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-21T22:10:50.140Z</updated>
+    <updated>2024-08-21T22:30:17.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2628,29 +2628,6 @@ The campaign is a sign that the group "also engages in internal espionage," Syma
         <updated>2024-07-23T10:54:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered what they say is the ninth Industrial Control Systems (ICS)-focused malware that has been used in a disruptive cyber attack targeting an energy company in the Ukrainian city of Lviv earlier this January.
 Industrial cybersecurity firm Dragos has dubbed the malware FrostyGoop, describing it as the first malware strain to directly use Modbus TCP]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Securely Onboard New Employees Without Sharing Temporary Passwords]]></title>
-        <id>https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html</id>
-        <link href="https://thehackernews.com/2024/07/how-to-securely-onboard-new-employees.html"/>
-        <updated>2024-07-23T10:13:00.000Z</updated>
-        <summary type="html"><![CDATA[The initial onboarding stage is a crucial step for both employees and employers. However, this process often involves the practice of sharing temporary first-day passwords, which can expose organizations to security risks.
-Traditionally, IT departments have been cornered into either sharing passwords in plain text via email or SMS, or arranging in-person meetings to verbally communicate these]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magento Sites Targeted with Sneaky Credit Card Skimmer via Swap Files]]></title>
-        <id>https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html</id>
-        <link href="https://thehackernews.com/2024/07/magento-sites-targeted-with-sneaky.html"/>
-        <updated>2024-07-23T10:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors have been observed using swap files in compromised websites to conceal a persistent credit card skimmer and harvest payment information.
-The sneaky technique, observed by Sucuri on a Magento e-commerce site's checkout page, allowed the malware to survive multiple cleanup attempts, the company said.
-The skimmer is designed to capture all the data into the credit card form on the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
