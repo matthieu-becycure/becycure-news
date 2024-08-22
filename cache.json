@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a hardware backdoor within a particular model of MIFARE Classic contactless cards that could allow authentication with an unknown key and open hotel rooms and office doors.\nThe attacks have been demonstrated against FM11RF08S, a new variant of MIFARE Classic that was released by Shanghai Fudan Microelectronics in 2020.\n\"The FM11RF08S backdoor enables any",
+          "link": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
+          "publishedOn": "2024-08-22T16:46:00.000Z",
+          "wordCount": null,
+          "title": "Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s1600/rfid.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s1600/rfid.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/hardcoded-credential-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SolarWinds has issued patches to address a new security flaw in its Web Help Desk (WHD) software that could allow remote unauthenticated users to gain unauthorized access to susceptible instances.\n\"The SolarWinds Web Help Desk (WHD) software is affected by a hardcoded credential vulnerability, allowing [a] remote unauthenticated user to access internal functionality and modify data,\" the company",
+          "link": "https://thehackernews.com/2024/08/hardcoded-credential-vulnerability.html",
+          "publishedOn": "2024-08-22T16:35:00.000Z",
+          "wordCount": null,
+          "title": "Hardcoded Credential Vulnerability Found in SolarWinds Web Help Desk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBPMsJw5aWxh01h9vTo-rHRITJrn8Yc6TCJKhOaV0XjasNwtRQ7ft_jbJ3GlwH5Fe51gPI_6oJLKgonrURVmA4SJoy2KR3LS4E4rJWY3Xy4Zws79H5YHbknVHyT9DJ7uXb7NdUJGwU2Dg-n9-mCpHccI7gHothyGYoeg6_rT23F-4CCUwAJMkoHK_7hvvX/s1600/solarwinds.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBPMsJw5aWxh01h9vTo-rHRITJrn8Yc6TCJKhOaV0XjasNwtRQ7ft_jbJ3GlwH5Fe51gPI_6oJLKgonrURVmA4SJoy2KR3LS4E4rJWY3Xy4Zws79H5YHbknVHyT9DJ7uXb7NdUJGwU2Dg-n9-mCpHccI7gHothyGYoeg6_rT23F-4CCUwAJMkoHK_7hvvX/s1600/solarwinds.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have emerged about a China-nexus threat group's exploitation of a recently disclosed, now-patched security flaw in Cisco switches as a zero-day to seize control of the appliance and evade detection.\nThe activity, attributed to Velvet Ant, was observed early this year and involved the weaponization of CVE-2024-20399 (CVSS score: 6.0) to deliver bespoke malware and gain extensive control",
@@ -2452,38 +2484,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zc429snn06MALdhwBfCgF1eDpztUmBLQL5G2XzeEfi49mgJYbGdvymusuix4w3KIH1jVxXW9UgE_hf-YG6RqP8cUEHc-Gbt0yhg6RW7vPdTgEzsQzWwoka0teYAQtOrpF7B-BGxjLzZHTA35n9FfQzjUjdRcyWReY_QXqyZe7Nm3W3KQH7TP2zBjTG81/s1600/windows.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_zc429snn06MALdhwBfCgF1eDpztUmBLQL5G2XzeEfi49mgJYbGdvymusuix4w3KIH1jVxXW9UgE_hf-YG6RqP8cUEHc-Gbt0yhg6RW7vPdTgEzsQzWwoka0teYAQtOrpF7B-BGxjLzZHTA35n9FfQzjUjdRcyWReY_QXqyZe7Nm3W3KQH7TP2zBjTG81/s1600/windows.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security flaw in the Microsoft Defender SmartScreen has been exploited as part of a new campaign designed to deliver information stealers such as ACR Stealer, Lumma, and Meduza.\nFortinet FortiGuard Labs said it detected the stealer campaign targeting Spain, Thailand, and the U.S. using booby-trapped files that exploit CVE-2024-21412 (CVSS score: 8.1).\nThe high-severity",
-          "link": "https://thehackernews.com/2024/07/microsoft-defender-flaw-exploited-to.html",
-          "publishedOn": "2024-07-24T06:15:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Defender Flaw Exploited to Deliver ACR, Lumma, and Meduza Stealers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizz0kaqXAhW3u-1lEWYqMLjQMgigcohlWLxEte1RBeNSGXJNwFimDy4drLl4KrxY7omTHZ-TF2khRWK7JG9hEzE7nT4BglpE-zcyxQ-5_U3_GOEn7lz7fn-VCbVvC1_kGeHBEI8qqcqKp4VuQamXitAIt99Pnm5fHv6T72JBMu1jZfgqay99hXEo0EcC1M/s1600/hacing.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizz0kaqXAhW3u-1lEWYqMLjQMgigcohlWLxEte1RBeNSGXJNwFimDy4drLl4KrxY7omTHZ-TF2khRWK7JG9hEzE7nT4BglpE-zcyxQ-5_U3_GOEn7lz7fn-VCbVvC1_kGeHBEI8qqcqKp4VuQamXitAIt99Pnm5fHv6T72JBMu1jZfgqay99hXEo0EcC1M/s1600/hacing.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two security flaws to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerabilities are listed below -\n\nCVE-2012-4792 (CVSS score: 9.3) - Microsoft Internet Explorer Use-After-Free Vulnerability\nCVE-2024-39891 (CVSS score: 5.3) - Twilio Authy Information Disclosure",
-          "link": "https://thehackernews.com/2024/07/cisa-adds-twilio-authy-and-ie-flaws-to.html",
-          "publishedOn": "2024-07-24T05:56:00.000Z",
-          "wordCount": null,
-          "title": "CISA Adds Twilio Authy and IE Flaws to Exploited Vulnerabilities List",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoiIBnjqDe8Am7EBHqLdyTux0f0Tx8INnWxI63i-zfWOl7PqPjRiGDrrZNSGFJhY3tp16BwRsVTemn4zfNeunNjlyIYNEh83lns64LDB_yUrm0JbFNOSCccJVYa4YTfJrEd17_p0HCQR6cvQM7Xb8ZfdiWl4_vLgrM4xF6zXH9ntQLYQ8vTm7OiiM3AU6q/s1600/cisa.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoiIBnjqDe8Am7EBHqLdyTux0f0Tx8INnWxI63i-zfWOl7PqPjRiGDrrZNSGFJhY3tp16BwRsVTemn4zfNeunNjlyIYNEh83lns64LDB_yUrm0JbFNOSCccJVYa4YTfJrEd17_p0HCQR6cvQM7Xb8ZfdiWl4_vLgrM4xF6zXH9ntQLYQ8vTm7OiiM3AU6q/s1600/cisa.jpg"
         }
       ]
     },
