@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Details have emerged about a China-nexus threat group's exploitation of a recently disclosed, now-patched security flaw in Cisco switches as a zero-day to seize control of the appliance and evade detection.\nThe activity, attributed to Velvet Ant, was observed early this year and involved the weaponization of CVE-2024-20399 (CVSS score: 6.0) to deliver bespoke malware and gain extensive control",
+          "link": "https://thehackernews.com/2024/08/chinese-hackers-exploit-zero-day-cisco.html",
+          "publishedOn": "2024-08-22T16:13:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploit Zero-Day Cisco Switch Flaw to Gain System Control",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6XWpYws2dOW80uSy4fmXkLO7pv-HAVa_5Zyf5YDT-2Ym-9Z2HNaTAigVhozKez9-nKSHI2yXYQ838lrRjj3JwRHgo0aUHk-0v8e4cL88bgqOtPD3mVDeKdQ0XHBv7uzbj9GHvxXW7XxVglReGwD_ko4S2ci5ndbyurlOyIA0rQhJhtvpQj9Znu5p8hN1/s1600/cisco.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6XWpYws2dOW80uSy4fmXkLO7pv-HAVa_5Zyf5YDT-2Ym-9Z2HNaTAigVhozKez9-nKSHI2yXYQ838lrRjj3JwRHgo0aUHk-0v8e4cL88bgqOtPD3mVDeKdQ0XHBv7uzbj9GHvxXW7XxVglReGwD_ko4S2ci5ndbyurlOyIA0rQhJhtvpQj9Znu5p8hN1/s1600/cisco.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As many as 15,000 applications using Amazon Web Services' (AWS) Application Load Balancer (ALB) for authentication are potentially susceptible to a configuration-based issue that could expose them to sidestep access controls and compromise applications.\nThat's according to findings from Israeli cybersecurity company Miggo, which dubbed the problem ALBeast.\n\"This vulnerability allows attackers to",
