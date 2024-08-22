@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "What is Continuous Attack Surface Penetration Testing or CASPT?\nContinuous Penetration Testing or Continuous Attack Surface Penetration Testing (CASPT) is an advanced security practice that involves the continuous, automated, and ongoing penetration testing services of an organization's digital assets to identify and mitigate security vulnerabilities. CASPT is designed for enterprises with an",
+          "link": "https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html",
+          "publishedOn": "2024-08-22T10:03:00.000Z",
+          "wordCount": null,
+          "title": "The Facts About Continuous Penetration Testing and Why It’s Important",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL18DEC3BElQ23kcLSNeKgf7PYLYvfUifDOSDW9P18FDokSzYHVwNaIhglosq0AHZ5-4hsaxVvKs-j-E4ULBzUWXHezC2GPh8mhyp4QZ5ca4yyz_VU-icdXP7aYOrLCJF47wntVkb8SapWpY0enrKXwcjXt-eFwnhtEoJcEqc3CEPniew98IRfkTeJtvE/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL18DEC3BElQ23kcLSNeKgf7PYLYvfUifDOSDW9P18FDokSzYHVwNaIhglosq0AHZ5-4hsaxVvKs-j-E4ULBzUWXHezC2GPh8mhyp4QZ5ca4yyz_VU-icdXP7aYOrLCJF47wntVkb8SapWpY0enrKXwcjXt-eFwnhtEoJcEqc3CEPniew98IRfkTeJtvE/s1600/code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has rolled out security fixes to address a high-severity security flaw in its Chrome browser that it said has come under active exploitation in the wild.\nTracked as CVE-2024-7971, the vulnerability has been described as a type confusion bug in the V8 JavaScript and WebAssembly engine.\n\"Type confusion in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to exploit heap",
