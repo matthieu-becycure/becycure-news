@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As many as 15,000 applications using Amazon Web Services' (AWS) Application Load Balancer (ALB) for authentication are potentially susceptible to a configuration-based issue that could expose them to sidestep access controls and compromise applications.\nThat's according to findings from Israeli cybersecurity company Miggo, which dubbed the problem ALBeast.\n\"This vulnerability allows attackers to",
+          "link": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
+          "publishedOn": "2024-08-22T15:03:00.000Z",
+          "wordCount": null,
+          "title": "New 'ALBeast' Vulnerability Exposes Weakness in AWS Application Load Balancer",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6k0N7bqs3T4R7FPHi-N0_uYWqGnQvrN7J94ZxTS4GOHjK9_FRrBmLfHhtUJ-K5kdfLmAjrX_zp8SwtZUIIUL2EaD6hB2sRLv5qEnQKeDlvBfz1PT996-nRK_Sg16FUfilyFI6_TufyAG3O2o8lqwaApZivdaLVCBE9Ch7rJPtZmpOeObOj-QTl_KoSkm/s1600/aws.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6k0N7bqs3T4R7FPHi-N0_uYWqGnQvrN7J94ZxTS4GOHjK9_FRrBmLfHhtUJ-K5kdfLmAjrX_zp8SwtZUIIUL2EaD6hB2sRLv5qEnQKeDlvBfz1PT996-nRK_Sg16FUfilyFI6_TufyAG3O2o8lqwaApZivdaLVCBE9Ch7rJPtZmpOeObOj-QTl_KoSkm/s1600/aws.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "What is Continuous Attack Surface Penetration Testing or CASPT?\nContinuous Penetration Testing or Continuous Attack Surface Penetration Testing (CASPT) is an advanced security practice that involves the continuous, automated, and ongoing penetration testing services of an organization's digital assets to identify and mitigate security vulnerabilities. CASPT is designed for enterprises with an",
