@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-23T05:30:18.938Z</updated>
+    <updated>2024-08-23T05:43:48.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New macOS Malware "Cthulhu Stealer" Targets Apple Users' Data]]></title>
+        <id>https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html</id>
+        <link href="https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html"/>
+        <updated>2024-08-23T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new information stealer that's designed to target Apple macOS hosts and harvest a wide range of information, underscoring how threat actors are increasingly setting their sights on the operating system.
+Dubbed Cthulhu Stealer, the malware has been available under a malware-as-a-service (MaaS) model for $500 a month from late 2023. It's capable of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latvian Hacker Extradited to U.S. for Role in Karakurt Cybercrime Group]]></title>
+        <id>https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html</id>
+        <link href="https://thehackernews.com/2024/08/latvian-hacker-extradited-to-us-for.html"/>
+        <updated>2024-08-23T04:38:00.000Z</updated>
+        <summary type="html"><![CDATA[A 33-year-old Latvian national living in Moscow, Russia, has been charged in the U.S. for allegedly stealing data, extorting victims, and laundering ransom payments since August 2021.
+Deniss Zolotarjovs (aka Sforza_cesarini) has been charged with conspiring to commit money laundering, wire fraud and Hobbs Act extortion. He was arrested in Georgia in December 2023 and has since been extradited to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide]]></title>
         <id>https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html</id>
