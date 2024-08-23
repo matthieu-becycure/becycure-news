@@ -2436,22 +2436,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSm4UxOabMbpRoTyJ_wsFhOltmnVybX9SRTZufAVY5xz7FvuVZGa5CICD4sQ__NbM9LJNNSiEKRKWSLgRN9Zuh6xv8EZ2btcahdlTvtEOX0uWlQWCUkzzcBdsa81I6wkdRuFsaUfJFfzu0iGoxodnNrLDH8_H6xRpZJ2yNMt12qp_yZBtWMDWc1Y8Vnhg/s1600/main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSm4UxOabMbpRoTyJ_wsFhOltmnVybX9SRTZufAVY5xz7FvuVZGa5CICD4sQ__NbM9LJNNSiEKRKWSLgRN9Zuh6xv8EZ2btcahdlTvtEOX0uWlQWCUkzzcBdsa81I6wkdRuFsaUfJFfzu0iGoxodnNrLDH8_H6xRpZJ2yNMt12qp_yZBtWMDWc1Y8Vnhg/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/experts-expose-confusedfunction.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed a privilege escalation vulnerability impacting Google Cloud Platform's Cloud Functions service that an attacker could exploit to access other services and sensitive data in an unauthorized manner.\nTenable has given the vulnerability the name ConfusedFunction.\n\"An attacker could escalate their privileges to the Default Cloud Build Service Account and",
-          "link": "https://thehackernews.com/2024/07/experts-expose-confusedfunction.html",
-          "publishedOn": "2024-07-25T08:29:00.000Z",
-          "wordCount": null,
-          "title": "Researchers Reveal ConfusedFunction Vulnerability in Google Cloud Platform",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HhHko45XBTpWMKyyC94Vjpn_56Nzol_MqFoc77JzpCtxvEqEd1cScv4LyIbDWLAKPtei6ysFI-PiYGfTvqelPxnk2ETmCCMdsxdDpId1q-M7MfkP9W17KudVIv70uTm2XI14G4OAGGMQxDG5lNpZwniFmITFE02YWZ0Z43EAcwt_ZtPYZv3YgxmZPCay/s1600/PrivilegeEscalationVulnerability.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HhHko45XBTpWMKyyC94Vjpn_56Nzol_MqFoc77JzpCtxvEqEd1cScv4LyIbDWLAKPtei6ysFI-PiYGfTvqelPxnk2ETmCCMdsxdDpId1q-M7MfkP9W17KudVIv70uTm2XI14G4OAGGMQxDG5lNpZwniFmITFE02YWZ0Z43EAcwt_ZtPYZv3YgxmZPCay/s1600/PrivilegeEscalationVulnerability.gif"
         }
       ]
     },
