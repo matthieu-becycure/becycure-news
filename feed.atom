@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-23T11:43:38.398Z</updated>
+    <updated>2024-08-23T12:22:24.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform]]></title>
+        <id>https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html</id>
+        <link href="https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html"/>
+        <updated>2024-08-23T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's be honest. The world of cybersecurity feels like a constant war zone. You're bombarded by threats, scrambling to keep up with patches, and drowning in an endless flood of alerts. It's exhausting, isn’t it?
+But what if there was a better way?
+Imagine having every essential cybersecurity tool at your fingertips, all within a single, intuitive platform, backed by expert support 24/7. This is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Focus on What Matters Most: Exposure Management and Your Attack Surface]]></title>
         <id>https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html</id>

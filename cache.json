@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Let's be honest. The world of cybersecurity feels like a constant war zone. You're bombarded by threats, scrambling to keep up with patches, and drowning in an endless flood of alerts. It's exhausting, isn’t it?\nBut what if there was a better way?\nImagine having every essential cybersecurity tool at your fingertips, all within a single, intuitive platform, backed by expert support 24/7. This is",
+          "link": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
+          "publishedOn": "2024-08-23T11:26:00.000Z",
+          "wordCount": null,
+          "title": "Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1600/cybersecurity.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1600/cybersecurity.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Read the full article for key points from Intruder’s VP of Product, Andy Hornegold’s recent talk on exposure management. If you’d like to hear Andy’s insights first-hand, watch Intruder’s on-demand webinar. To learn more about reducing your attack surface, reach out to their team today. \nAttack surface management vs exposure management\nAttack surface management (ASM) is the ongoing",
