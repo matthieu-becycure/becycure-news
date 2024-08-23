@@ -2452,22 +2452,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HhHko45XBTpWMKyyC94Vjpn_56Nzol_MqFoc77JzpCtxvEqEd1cScv4LyIbDWLAKPtei6ysFI-PiYGfTvqelPxnk2ETmCCMdsxdDpId1q-M7MfkP9W17KudVIv70uTm2XI14G4OAGGMQxDG5lNpZwniFmITFE02YWZ0Z43EAcwt_ZtPYZv3YgxmZPCay/s1600/PrivilegeEscalationVulnerability.gif"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HhHko45XBTpWMKyyC94Vjpn_56Nzol_MqFoc77JzpCtxvEqEd1cScv4LyIbDWLAKPtei6ysFI-PiYGfTvqelPxnk2ETmCCMdsxdDpId1q-M7MfkP9W17KudVIv70uTm2XI14G4OAGGMQxDG5lNpZwniFmITFE02YWZ0Z43EAcwt_ZtPYZv3YgxmZPCay/s1600/PrivilegeEscalationVulnerability.gif"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Docker is warning of a critical flaw impacting certain versions of Docker Engine that could allow an attacker to sidestep authorization plugins (AuthZ) under specific circumstances.\nTracked as CVE-2024-41110, the bypass and privilege escalation vulnerability carries a CVSS score of 10.0, indicating maximum severity.\n\"An attacker could exploit a bypass using an API request with Content-Length set",
-          "link": "https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html",
-          "publishedOn": "2024-07-25T05:47:00.000Z",
-          "wordCount": null,
-          "title": "Critical Docker Engine Flaw Allows Attackers to Bypass Authorization Plugins",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlnZVFYjopuxKbFc07dCazoDwkhl54bva_olPKxfsX8g972NfAyU0R6SXIbcAO7R4IolGtcWbHm_QTDkB10uVSGFQII2fO-bZydd2dMCcBKc1LebLgeuLhwIoFf6tQK7M9qKl4jQ8-1ganVP4Xcd4MTnHcgTNlRpnanGY7-SRAVuXh-pZpc_1emR1SXU9/s1600/docker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwlnZVFYjopuxKbFc07dCazoDwkhl54bva_olPKxfsX8g972NfAyU0R6SXIbcAO7R4IolGtcWbHm_QTDkB10uVSGFQII2fO-bZydd2dMCcBKc1LebLgeuLhwIoFf6tQK7M9qKl4jQ8-1ganVP4Xcd4MTnHcgTNlRpnanGY7-SRAVuXh-pZpc_1emR1SXU9/s1600/docker.png"
         }
       ]
     },
