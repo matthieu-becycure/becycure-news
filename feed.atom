@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-23T10:12:32.975Z</updated>
+    <updated>2024-08-23T10:32:18.783Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data]]></title>
+        <id>https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html</id>
+        <link href="https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html"/>
+        <updated>2024-08-23T10:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind a recently observed Qilin ransomware attack have stolen credentials stored in Google Chrome browsers on a small set of compromised endpoints.
+The use of credential harvesting in connection with a ransomware infection marks an unusual twist, and one that could have cascading consequences, cybersecurity firm Sophos said in a Thursday report.
+The attack, detected in July]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New macOS Malware "Cthulhu Stealer" Targets Apple Users' Data]]></title>
         <id>https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html</id>

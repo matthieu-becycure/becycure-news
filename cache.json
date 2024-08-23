@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind a recently observed Qilin ransomware attack have stolen credentials stored in Google Chrome browsers on a small set of compromised endpoints.\nThe use of credential harvesting in connection with a ransomware infection marks an unusual twist, and one that could have cascading consequences, cybersecurity firm Sophos said in a Thursday report.\nThe attack, detected in July",
+          "link": "https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html",
+          "publishedOn": "2024-08-23T10:24:00.000Z",
+          "wordCount": null,
+          "title": "New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6dV6h2dVU_94IVAKtyaL17vKHQQ6Ie8ljr3oBylLNLt5X9byIO_gL45RliOkbvwVkLacPNU_E3T2XoL2w2RWRrFn6o9vbaeo2k5ckOk6rcK-Vsr21886N7PbC3AqVnsdWgsxL04VIx7loCM68A5ef6fh4oDhtri095YqQoUFUbCDA1tnt_cYjRE_rZj9/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim6dV6h2dVU_94IVAKtyaL17vKHQQ6Ie8ljr3oBylLNLt5X9byIO_gL45RliOkbvwVkLacPNU_E3T2XoL2w2RWRrFn6o9vbaeo2k5ckOk6rcK-Vsr21886N7PbC3AqVnsdWgsxL04VIx7loCM68A5ef6fh4oDhtri095YqQoUFUbCDA1tnt_cYjRE_rZj9/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new information stealer that's designed to target Apple macOS hosts and harvest a wide range of information, underscoring how threat actors are increasingly setting their sights on the operating system.\nDubbed Cthulhu Stealer, the malware has been available under a malware-as-a-service (MaaS) model for $500 a month from late 2023. It's capable of",
