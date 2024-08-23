@@ -3433,36 +3433,6 @@
           "wordCount": 932,
           "title": "Multiples vulnérabilités dans les produits VMware (26 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0626/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mitel. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0626/",
-          "publishedOn": "2024-07-25T08:55:47.000Z",
-          "wordCount": 391,
-          "title": "Multiples vulnérabilités dans les produits Mitel (25 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0625/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0625/",
-          "publishedOn": "2024-07-25T08:52:04.000Z",
-          "wordCount": 377,
-          "title": "Multiples vulnérabilités dans GitLab (25 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0624/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Cloud Skipper. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0624/",
-          "publishedOn": "2024-07-25T08:49:18.000Z",
-          "wordCount": 315,
-          "title": "Vulnérabilité dans Spring Cloud Skipper (25 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
