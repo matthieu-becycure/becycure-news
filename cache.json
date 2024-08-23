@@ -2493,6 +2493,106 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans IBM QRadar SIEM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0720/",
+          "publishedOn": "2024-08-23T11:53:34.000Z",
+          "wordCount": 635,
+          "title": "Multiples vulnérabilités dans IBM QRadar SIEM (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0719/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0719/",
+          "publishedOn": "2024-08-23T11:46:08.000Z",
+          "wordCount": 581,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0718/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0718/",
+          "publishedOn": "2024-08-23T11:37:00.000Z",
+          "wordCount": 495,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/",
+          "publishedOn": "2024-08-23T11:26:14.000Z",
+          "wordCount": 4978,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/",
+          "publishedOn": "2024-08-23T11:14:40.000Z",
+          "wordCount": 1078,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/",
+          "publishedOn": "2024-08-23T11:11:52.000Z",
+          "wordCount": 339,
+          "title": "Vulnérabilité dans Spring Boot (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0714/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans SolarWinds Web Help Desk. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0714/",
+          "publishedOn": "2024-08-23T09:23:47.000Z",
+          "wordCount": 320,
+          "title": "Vulnérabilité dans SolarWinds Web Help Desk (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0713/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0713/",
+          "publishedOn": "2024-08-23T07:09:33.000Z",
+          "wordCount": 1039,
+          "title": "Multiples vulnérabilités dans les produits VMware (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0712/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Sonicwall. Elle permet à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0712/",
+          "publishedOn": "2024-08-23T06:59:34.000Z",
+          "wordCount": 448,
+          "title": "Vulnérabilité dans les produits Sonicwall (23 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0711/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité...",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0711/",
+          "publishedOn": "2024-08-23T06:25:52.000Z",
+          "wordCount": 934,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (23 août 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0710/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Dovecot. Elles permettent à un attaquant de provoquer un déni de service à distance.",
