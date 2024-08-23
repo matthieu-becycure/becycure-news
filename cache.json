@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Read the full article for key points from Intruder’s VP of Product, Andy Hornegold’s recent talk on exposure management. If you’d like to hear Andy’s insights first-hand, watch Intruder’s on-demand webinar. To learn more about reducing your attack surface, reach out to their team today. \nAttack surface management vs exposure management\nAttack surface management (ASM) is the ongoing",
+          "link": "https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html",
+          "publishedOn": "2024-08-23T10:55:00.000Z",
+          "wordCount": null,
+          "title": "Focus on What Matters Most: Exposure Management and Your Attack Surface",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qhAsVOjvSI7Mzmewyz75eboTgbj2frqh-MDInY2261ud1cTapBvZ70rjJpPpADJhRNM8UUc_ICA-zIC92u27nEOt6VmbnMK627Fvw2LQUWK6XAkYWLR7JYenNTkk9sn_9pz6mLf6LriENkWfBCV_jN1qDeChlOAGWVe6SLXtLuLxD7i9Xx3DdMjX4uw/s1600/INTRUDR.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1qhAsVOjvSI7Mzmewyz75eboTgbj2frqh-MDInY2261ud1cTapBvZ70rjJpPpADJhRNM8UUc_ICA-zIC92u27nEOt6VmbnMK627Fvw2LQUWK6XAkYWLR7JYenNTkk9sn_9pz6mLf6LriENkWfBCV_jN1qDeChlOAGWVe6SLXtLuLxD7i9Xx3DdMjX4uw/s1600/INTRUDR.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind a recently observed Qilin ransomware attack have stolen credentials stored in Google Chrome browsers on a small set of compromised endpoints.\nThe use of credential harvesting in connection with a ransomware infection marks an unusual twist, and one that could have cascading consequences, cybersecurity firm Sophos said in a Thursday report.\nThe attack, detected in July",

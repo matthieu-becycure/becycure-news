@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-23T11:25:07.465Z</updated>
+    <updated>2024-08-23T11:43:38.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Focus on What Matters Most: Exposure Management and Your Attack Surface]]></title>
+        <id>https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html</id>
+        <link href="https://thehackernews.com/2024/08/focus-on-what-matters-most-exposure.html"/>
+        <updated>2024-08-23T10:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Read the full article for key points from Intruder’s VP of Product, Andy Hornegold’s recent talk on exposure management. If you’d like to hear Andy’s insights first-hand, watch Intruder’s on-demand webinar. To learn more about reducing your attack surface, reach out to their team today. 
+Attack surface management vs exposure management
+Attack surface management (ASM) is the ongoing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Qilin Ransomware Attack Uses VPN Credentials, Steals Chrome Data]]></title>
         <id>https://thehackernews.com/2024/08/new-qilin-ransomware-attack-uses-vpn.html</id>
