@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-24T15:43:43.850Z</updated>
+    <updated>2024-08-24T16:13:02.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2689,18 +2689,6 @@ Cloud security Wiz is tracking the activity under the name SeleniumGreed. The ca
         <updated>2024-07-26T05:52:00.000Z</updated>
         <summary type="html"><![CDATA[CrowdStrike is alerting about an unfamiliar threat actor attempting to capitalize on the Falcon Sensor update fiasco to distribute dubious installers targeting German customers as part of a highly targeted campaign.
 The cybersecurity company said it identified what it described as an unattributed spear-phishing attempt on July 24, 2024, distributing an inauthentic CrowdStrike Crash Reporter]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Telerik Report Server Poses Remote Code Execution Risk]]></title>
-        <id>https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html</id>
-        <link href="https://thehackernews.com/2024/07/critical-flaw-in-telerik-report-server.html"/>
-        <updated>2024-07-26T04:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Progress Software is urging users to update their Telerik Report Server instances following the discovery of a critical security flaw that could result in remote code execution.
-The vulnerability, tracked as CVE-2024-6327 (CVSS score: 9.9), impacts Report Server version 2024 Q2 (10.1.24.514) and earlier.
-"In Progress Telerik Report Server versions prior to 2024 Q2 (10.1.24.709), a remote code]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
