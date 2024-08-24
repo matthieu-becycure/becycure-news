@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfBi4u67nrpP6XeY0hFleULqlLppGYh2uh4pTdpgq_i-kC9KRZmJRNW_JwTGkASO5MMin3AAO-3GiXc3QtkeC8tpKU3yfQ25JwZgnDAyRYFFnwYLQaxg9GrjpM0XzMhiucrPh9n44N2nL47hhHOsjZkY_AXZ42ATDDlOvBpbZSh2Dmy3FbF7G5AvqRyXs/s1600/phishing-attack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfBi4u67nrpP6XeY0hFleULqlLppGYh2uh4pTdpgq_i-kC9KRZmJRNW_JwTGkASO5MMin3AAO-3GiXc3QtkeC8tpKU3yfQ25JwZgnDAyRYFFnwYLQaxg9GrjpM0XzMhiucrPh9n44N2nL47hhHOsjZkY_AXZ42ATDDlOvBpbZSh2Dmy3FbF7G5AvqRyXs/s1600/phishing-attack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "\"Peace is the virtue of civilization. War is its crime. Yet it is often in the furnace of war that the sharpest tools of peace are forged.\" - Victor Hugo.\nIn 1971, an unsettling message started appearing on several computers that comprised ARPANET, the precursor to what we now know as the Internet. The message, which read \"I'm the Creeper: catch me if you can.\" was the output of a program named",
-          "link": "https://thehackernews.com/2024/07/offensive-ai-sine-qua-non-of.html",
-          "publishedOn": "2024-07-26T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Offensive AI: The Sine Qua Non of Cybersecurity",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8VDNMkHC129-480OXjAFon1OMGQyS4gg2Hdmn3qSJHPOZpp9AnX8nGlnUdITHIyfK_T6LKz9E_mdiQhLt1rb_RBxj65aSFAPe3YFmarX8FwMfwzvRlGvT9AnyZDaTEaWUpQqp0X3-tQFyVS-sbc-2Ez7yN60Nf1H58Ry_iKmNw0Cpgw0h8bkPc7LGuM/s1600/sans.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD8VDNMkHC129-480OXjAFon1OMGQyS4gg2Hdmn3qSJHPOZpp9AnX8nGlnUdITHIyfK_T6LKz9E_mdiQhLt1rb_RBxj65aSFAPe3YFmarX8FwMfwzvRlGvT9AnyZDaTEaWUpQqp0X3-tQFyVS-sbc-2Ez7yN60Nf1H58Ry_iKmNw0Cpgw0h8bkPc7LGuM/s1600/sans.png"
         }
       ]
     },
@@ -3316,26 +3300,6 @@
           "publishedOn": "2024-07-26T11:27:53.000Z",
           "wordCount": 301,
           "title": "Vulnérabilité dans SPIP (26 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0628/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0628/",
-          "publishedOn": "2024-07-26T10:56:02.000Z",
-          "wordCount": 767,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (26 juillet 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0627/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0627/",
-          "publishedOn": "2024-07-26T10:55:26.000Z",
-          "wordCount": 932,
-          "title": "Multiples vulnérabilités dans les produits VMware (26 juillet 2024)",
           "imageUrl": null
         }
       ]
