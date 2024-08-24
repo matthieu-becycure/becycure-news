@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-24T18:14:06.316Z</updated>
+    <updated>2024-08-24T18:32:18.890Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2666,18 +2666,6 @@ In 1971, an unsettling message started appearing on several computers that compr
         <updated>2024-07-26T08:55:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Thursday unsealed an indictment against a North Korean military intelligence operative for allegedly carrying out ransomware attacks against healthcare facilities in the country and funneling the payments to orchestrate additional intrusions into defense, technology, and government entities across the world.
 "Rim Jong Hyok and his co-conspirators deployed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ongoing Cyberattack Targets Exposed Selenium Grid Services for Crypto Mining]]></title>
-        <id>https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html</id>
-        <link href="https://thehackernews.com/2024/07/ongoing-cyberattack-targets-exposed.html"/>
-        <updated>2024-07-26T06:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are sounding the alarm over an ongoing campaign that's leveraging internet-exposed Selenium Grid services for illicit cryptocurrency mining.
-Cloud security Wiz is tracking the activity under the name SeleniumGreed. The campaign, which is targeting older versions of Selenium (3.141.59 and prior), is believed to be underway since at least April 2023.
-"Unbeknownst to most]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
