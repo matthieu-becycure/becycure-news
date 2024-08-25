@@ -2308,38 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1Wxw1hsNYSIpz3tvigMAvgNAar9L_kre1q_wzh3FpbhfzM7SpqmEOtJGefuzjidGf5LdfSMWpAXnQKGefKhJHprlf_BtnfKaZv3wTRdZb6f1jKIv_-bpJcqW4pCplqnxR3qwmm-erlV8Elw_5hfCKvP8c980mSDcneg6SW9v1MMcH9f-aa0ucsN-2Z9H/s1600/chrome.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM1Wxw1hsNYSIpz3tvigMAvgNAar9L_kre1q_wzh3FpbhfzM7SpqmEOtJGefuzjidGf5LdfSMWpAXnQKGefKhJHprlf_BtnfKaZv3wTRdZb6f1jKIv_-bpJcqW4pCplqnxR3qwmm-erlV8Elw_5hfCKvP8c980mSDcneg6SW9v1MMcH9f-aa0ucsN-2Z9H/s1600/chrome.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "French judicial authorities, in collaboration with Europol, have launched a so-called \"disinfection operation\" to rid compromised hosts of a known malware called PlugX.\nThe Paris Prosecutor's Office, Parquet de Paris, said the initiative was launched on July 18 and that it's expected to continue for \"several months.\"\nIt further said around a hundred victims located in France, Malta, Portugal,",
-          "link": "https://thehackernews.com/2024/07/french-authorities-launch-operation-to.html",
-          "publishedOn": "2024-07-27T06:09:00.000Z",
-          "wordCount": null,
-          "title": "French Authorities Launch Operation to Remove PlugX Malware from Infected Systems",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKgnWtD3Y7COMdbD-p6qwsKxDFtOLGrnjMojMJ40wuYiIwL49grtr-MvUH7x65M9ypPVY5KVRuxDy9FzzhqgncIfpxo0OoxHEZ_pTKuq04zdpqSi53jHJ14NRs9Up3siWV7MOUDnEEK25BWDGwhHrq8t253bIKapyKk59YeGbC11HbMvIsxvv4-GsJHiw/s1600/france.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKgnWtD3Y7COMdbD-p6qwsKxDFtOLGrnjMojMJ40wuYiIwL49grtr-MvUH7x65M9ypPVY5KVRuxDy9FzzhqgncIfpxo0OoxHEZ_pTKuq04zdpqSi53jHJ14NRs9Up3siWV7MOUDnEEK25BWDGwhHrq8t253bIKapyKk59YeGbC11HbMvIsxvv4-GsJHiw/s1600/france.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a malicious package on the Python Package Index (PyPI) repository that targets Apple macOS systems with the goal of stealing users' Google Cloud credentials from a narrow pool of victims.\nThe package, named \"lr-utils-lib,\" attracted a total of 59 downloads before it was taken down. It was uploaded to the registry in early June 2024.\n\"The malware uses a",
-          "link": "https://thehackernews.com/2024/07/malicious-pypi-package-targets-macos-to.html",
-          "publishedOn": "2024-07-27T05:47:00.000Z",
-          "wordCount": null,
-          "title": "Malicious PyPI Package Targets macOS to Steal Google Cloud Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80K3BGTz7k9XFNIo5AP_zHn4qE7G7ld3PGmEKWJXV5CGz2mvy_DzzafZMXf3sVqMMxzjjHVIhP4puQQ-iNnBCxgUsFdeAg7p3FnkchgJGqmnpZqiqw_ZZfTPlPvTDPV7x0IcRIvd-FMdY1jpRGCgODr2WHrbpFH1GHLbKYpvKbuuqfaGLprQ9mpIpqVMk/s1600/macos.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80K3BGTz7k9XFNIo5AP_zHn4qE7G7ld3PGmEKWJXV5CGz2mvy_DzzafZMXf3sVqMMxzjjHVIhP4puQQ-iNnBCxgUsFdeAg7p3FnkchgJGqmnpZqiqw_ZZfTPlPvTDPV7x0IcRIvd-FMdY1jpRGCgODr2WHrbpFH1GHLbKYpvKbuuqfaGLprQ9mpIpqVMk/s1600/macos.png"
         }
       ]
     },
