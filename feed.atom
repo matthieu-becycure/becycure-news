@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-25T06:15:48.109Z</updated>
+    <updated>2024-08-25T06:33:53.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram Founder Pavel Durov Arrested in France for Content Moderation Failures]]></title>
+        <id>https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html</id>
+        <link href="https://thehackernews.com/2024/08/telegram-founder-pavel-durov-arrested.html"/>
+        <updated>2024-08-25T05:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Pavel Durov, founder and chief executive of the popular messaging app Telegram, was arrested in France on Saturday, according to French television network TF1.
+Durov is believed to have been apprehended pursuant to a warrant issued in connection with a preliminary police investigation.
+TF1 said the probe was focused on a lack of content moderation on the instant messaging service, which the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Malware 'sedexp' Hides Credit Card Skimmers Using Udev Rules]]></title>
+        <id>https://thehackernews.com/2024/08/new-linux-malware-sedexp-hides-credit.html</id>
+        <link href="https://thehackernews.com/2024/08/new-linux-malware-sedexp-hides-credit.html"/>
+        <updated>2024-08-25T05:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new stealthy piece of Linux malware that leverages an unconventional technique to achieve persistence on infected systems and hide credit card skimmer code.
+The malware, attributed to a financially motivated threat actor, has been codenamed sedexp by Aon's Stroz Friedberg incident response services team.
+"This advanced threat, active since 2022, hides]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Urges Federal Agencies to Patch Versa Director Vulnerability by September]]></title>
         <id>https://thehackernews.com/2024/08/cisa-urges-federal-agencies-to-patch.html</id>
