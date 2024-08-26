@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-26T07:43:40.298Z</updated>
+    <updated>2024-08-26T08:16:33.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaws in Traccar GPS System Expose Users to Remote Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/critical-flaws-in-traccar-gps-system.html</id>
+        <link href="https://thehackernews.com/2024/08/critical-flaws-in-traccar-gps-system.html"/>
+        <updated>2024-08-26T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Two security vulnerabilities have been disclosed in the open-source Traccar GPS tracking system that could be potentially exploited by unauthenticated attackers to achieve remote code execution under certain circumstances.
+Both the vulnerabilities are path traversal flaws and could be weaponized if guest registration is enabled, which is the default configuration for Traccar 5, Horizon3.ai]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards]]></title>
         <id>https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html</id>
