@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-27T16:14:22.728Z</updated>
+    <updated>2024-08-27T16:34:04.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users]]></title>
+        <id>https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html</id>
+        <link href="https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html"/>
+        <updated>2024-08-27T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Users of Chinese instant messaging apps like DingTalk and WeChat are the target of an Apple macOS version of a backdoor named HZ RAT.
+The artifacts "almost exactly replicate the functionality of the Windows version of the backdoor and differ only in the payload, which is received in the form of shell scripts from the attackers' server," Kaspersky researcher Sergey Puzan said.
+HZ RAT was first]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors]]></title>
         <id>https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html</id>
