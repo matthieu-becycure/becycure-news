@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-27T22:32:15.493Z</updated>
+    <updated>2024-08-27T22:44:14.129Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2664,17 +2664,6 @@ The flaw impacts the following versions of Acronis Cyber Infrastructure (ACI) -
         <updated>2024-07-29T13:19:00.000Z</updated>
         <summary type="html"><![CDATA[An unknown threat actor has been linked to a massive scam campaign that exploited an email routing misconfiguration in email security vendor Proofpoint's defenses to send millions of messages spoofing various legitimate companies.
 "These emails echoed from official Proofpoint email relays with authenticated SPF and DKIM signatures, thus bypassing major security protections — all to deceive]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Searchable Encryption Changes the Data Security Game]]></title>
-        <id>https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html</id>
-        <link href="https://thehackernews.com/2024/07/how-searchable-encryption-changes-data.html"/>
-        <updated>2024-07-29T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Searchable Encryption has long been a mystery. An oxymoron. An unattainable dream of cybersecurity professionals everywhere.
-Organizations know they must encrypt their most valuable, sensitive data to prevent data theft and breaches. They also understand that organizational data exists to be used. To be searched, viewed, and modified to keep businesses running. Unfortunately, our Network and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
