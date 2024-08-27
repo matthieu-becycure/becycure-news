@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-27T06:17:14.366Z</updated>
+    <updated>2024-08-27T06:37:08.982Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot]]></title>
+        <id>https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html"/>
+        <updated>2024-08-27T06:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about a now-patched vulnerability in Microsoft 365 Copilot that could enable the theft of sensitive user information using a technique called ASCII smuggling.
+"ASCII Smuggling is a novel technique that uses special Unicode characters that mirror ASCII but are actually not visible in the user interface," security researcher Johann Rehberger said.
+"This means that an attacker]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Warns of CVE-2024-7965 Chrome Security Flaw Under Active Exploitation]]></title>
+        <id>https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html</id>
+        <link href="https://thehackernews.com/2024/08/google-warns-of-cve-2024-7965-chrome.html"/>
+        <updated>2024-08-27T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has revealed that a security flaw that was patched as part of a security update rolled out last week to its Chrome browser has come under active exploitation in the wild.
+Tracked as CVE-2024-7965, the vulnerability has been described as an inappropriate implementation bug in the V8 JavaScript and WebAssembly engine.
+"Inappropriate implementation in V8 in Google Chrome prior to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access]]></title>
         <id>https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html</id>
