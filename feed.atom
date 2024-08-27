@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-27T16:45:10.472Z</updated>
+    <updated>2024-08-27T17:10:47.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2696,17 +2696,6 @@ Organizations know they must encrypt their most valuable, sensitive data to prev
         <updated>2024-07-29T07:05:00.000Z</updated>
         <summary type="html"><![CDATA[A threat actor known as Stargazer Goblin has set up a network of inauthentic GitHub accounts to fuel a Distribution-as-a-Service (DaaS) that propagates a variety of information-stealing malware and netting them $100,000 in illicit profits over the past year.
 The network, which comprises over 3,000 accounts on the cloud-based code hosting platform, spans thousands of repositories that are used to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gh0st RAT Trojan Targets Chinese Windows Users via Fake Chrome Site]]></title>
-        <id>https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html</id>
-        <link href="https://thehackernews.com/2024/07/gh0st-rat-trojan-targets-chinese.html"/>
-        <updated>2024-07-29T04:56:00.000Z</updated>
-        <summary type="html"><![CDATA[The remote access trojan known as Gh0st RAT has been observed being delivered by an "evasive dropper" called Gh0stGambit as part of a drive-by download scheme targeting Chinese-speaking Windows users.
-These infections stem from a fake website ("chrome-web[.]com") serving malicious installer packages masquerading as Google's Chrome browser, indicating that users searching for the software on the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
