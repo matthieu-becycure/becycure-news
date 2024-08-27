@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-27T14:11:04.615Z</updated>
+    <updated>2024-08-27T14:31:10.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Volt Typhoon Exploits Versa Director Flaw, Targets U.S. and Global IT Sectors]]></title>
+        <id>https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html</id>
+        <link href="https://thehackernews.com/2024/08/chinese-volt-typhoon-exploits-versa.html"/>
+        <updated>2024-08-27T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-nexus cyber espionage group tracked as Volt Typhoon has been attributed with moderate confidence to the zero-day exploitation of a recently disclosed high-severity security flaw impacting Versa Director.
+The attacks targeted four U.S. victims and one non-U.S. victim in the Internet service provider (ISP), managed service provider (MSP) and information technology (IT) sectors as early]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CTEM in the Spotlight: How Gartner's New Categories Help to Manage Exposures]]></title>
         <id>https://thehackernews.com/2024/08/ctem-in-spotlight-how-gartners-new.html</id>
