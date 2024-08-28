@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T16:37:08.196Z</updated>
+    <updated>2024-08-28T16:48:12.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
+        <link href="https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html"/>
+        <updated>2024-08-28T16:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Fortra has addressed a critical security flaw impacting FileCatalyst Workflow that could be abused by a remote attacker to gain administrative access.
+The vulnerability, tracked as CVE-2024-6633, carries a CVSS score of 9.8, and stems from the use of a static password to connect to a HSQL database.
+"The default credentials for the setup HSQL database (HSQLDB) for FileCatalyst Workflow are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor]]></title>
         <id>https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html</id>
