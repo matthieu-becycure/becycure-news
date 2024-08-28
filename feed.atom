@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T04:15:14.700Z</updated>
+    <updated>2024-08-28T04:32:59.264Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</id>
+        <link href="https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html"/>
+        <updated>2024-08-28T04:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the WPML WordPress multilingual plugin that could allow authenticated users to execute arbitrary code remotely under certain circumstances.
+The vulnerability, tracked as CVE-2024-6386 (CVSS score: 9.9), impacts all versions of the plugin before 4.6.13, which was released on August 20, 2024.
+Arising due to missing input validation and sanitization,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users]]></title>
         <id>https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html</id>
@@ -2639,20 +2651,6 @@ The cybersecurity]]></summary>
         <summary type="html"><![CDATA[A recently patched security flaw impacting VMware ESXi hypervisors has been actively exploited by "several" ransomware groups to gain elevated permissions and deploy file-encrypting malware.
 The attacks involve the exploitation of CVE-2024-37085 (CVSS score: 6.8), an Active Directory integration authentication bypass that allows an attacker to obtain administrative access to the host.
 "A]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Acronis Cyber Infrastructure Exploited in the Wild]]></title>
-        <id>https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html</id>
-        <link href="https://thehackernews.com/2024/07/critical-flaw-in-acronis-cyber.html"/>
-        <updated>2024-07-29T16:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity company Acronis is warning that a now-patched critical security flaw impacting its Cyber Infrastructure (ACI) product has been exploited in the wild.
-The vulnerability, tracked as CVE-2023-45249 (CVSS score: 9.8), concerns a case of remote code execution that stems from the use of default passwords.
-The flaw impacts the following versions of Acronis Cyber Infrastructure (ACI) -
-
-&]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
