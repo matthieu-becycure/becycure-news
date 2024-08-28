@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T05:43:41.329Z</updated>
+    <updated>2024-08-28T06:17:04.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Flags Critical Apache OFBiz Flaw Amid Active Exploitation Reports]]></title>
+        <id>https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html"/>
+        <updated>2024-08-28T05:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw affecting the Apache OFBiz open-source enterprise resource planning (ERP) system to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+The vulnerability, known as CVE-2024-38856, carries a CVSS score of 9.8, indicating critical severity.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution]]></title>
         <id>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</id>
