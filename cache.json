@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers are calling attention to a new QR code phishing (aka quishing) campaign that leverages Microsoft Sway infrastructure to host fake pages, once again highlighting the abuse of legitimate cloud offerings for malicious purposes.\n\"By using legitimate cloud applications, attackers provide credibility to victims, helping them to trust the content it serves,\" Netskope Threat",
+          "link": "https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html",
+          "publishedOn": "2024-08-28T06:49:00.000Z",
+          "wordCount": null,
+          "title": "New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5wpqpPcY7kI-K4vfQ_dgFzkKIaNrud0Te2goLNzmbkQKJqtq0bqd_0kv13hyphenhyphenwZMLUVSIdn2lpHjLHfReGAzyJmp0NG_Oc7HEprtuacIZ-W63gOgxtA2fsYPJIwbGNizqnWgOkYCvHtnhGNssjltw8MTwKbxJ6m9dd7p5qkHf8gPPES7c7zcXwTrN62Ne/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs5wpqpPcY7kI-K4vfQ_dgFzkKIaNrud0Te2goLNzmbkQKJqtq0bqd_0kv13hyphenhyphenwZMLUVSIdn2lpHjLHfReGAzyJmp0NG_Oc7HEprtuacIZ-W63gOgxtA2fsYPJIwbGNizqnWgOkYCvHtnhGNssjltw8MTwKbxJ6m9dd7p5qkHf8gPPES7c7zcXwTrN62Ne/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/cisa-flags-critical-apache-ofbiz-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw affecting the Apache OFBiz open-source enterprise resource planning (ERP) system to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.\nThe vulnerability, known as CVE-2024-38856, carries a CVSS score of 9.8, indicating critical severity.",
