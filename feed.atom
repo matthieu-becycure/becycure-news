@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T00:57:07.789Z</updated>
+    <updated>2024-08-28T02:07:42.984Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2653,17 +2653,6 @@ The vulnerability, tracked as CVE-2023-45249 (CVSS score: 9.8), concerns a case 
 The flaw impacts the following versions of Acronis Cyber Infrastructure (ACI) -
 
 &]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proofpoint Email Routing Flaw Exploited to Send Millions of Spoofed Phishing Emails]]></title>
-        <id>https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html</id>
-        <link href="https://thehackernews.com/2024/07/proofpoint-email-routing-flaw-exploited.html"/>
-        <updated>2024-07-29T13:19:00.000Z</updated>
-        <summary type="html"><![CDATA[An unknown threat actor has been linked to a massive scam campaign that exploited an email routing misconfiguration in email security vendor Proofpoint's defenses to send millions of messages spoofing various legitimate companies.
-"These emails echoed from official Proofpoint email relays with authenticated SPF and DKIM signatures, thus bypassing major security protections — all to deceive]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
