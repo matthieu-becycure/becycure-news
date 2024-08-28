@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T11:24:17.829Z</updated>
+    <updated>2024-08-28T11:43:37.211Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave]]></title>
+        <id>https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html</id>
+        <link href="https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html"/>
+        <updated>2024-08-28T10:21:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.
+"The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials]]></title>
         <id>https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html</id>

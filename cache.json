@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.\n\"The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its",
+          "link": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
+          "publishedOn": "2024-08-28T10:21:00.000Z",
+          "wordCount": null,
+          "title": "BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are calling attention to a new QR code phishing (aka quishing) campaign that leverages Microsoft Sway infrastructure to host fake pages, once again highlighting the abuse of legitimate cloud offerings for malicious purposes.\n\"By using legitimate cloud applications, attackers provide credibility to victims, helping them to trust the content it serves,\" Netskope Threat",
