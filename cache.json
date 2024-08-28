@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A South Korea-aligned cyber espionage has been linked to the zero-day exploitation of a now-patched critical remote code execution flaw in Kingsoft WPS Office to deploy a bespoke backdoor dubbed SpyGlace.\nThe activity has been attributed to a threat actor dubbed APT-C-60, according to cybersecurity firms ESET and DBAPPSecurity. The attacks have been found to infect Chinese and East Asian users",
+          "link": "https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html",
+          "publishedOn": "2024-08-28T13:48:00.000Z",
+          "wordCount": null,
+          "title": "APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s1600/hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s1600/hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.\n\"The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its",

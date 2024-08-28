@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-28T14:11:14.729Z</updated>
+    <updated>2024-08-28T14:30:44.114Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[APT-C-60 Group Exploit WPS Office Flaw to Deploy SpyGlace Backdoor]]></title>
+        <id>https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/apt-c-60-group-exploit-wps-office-flaw.html"/>
+        <updated>2024-08-28T13:48:00.000Z</updated>
+        <summary type="html"><![CDATA[A South Korea-aligned cyber espionage has been linked to the zero-day exploitation of a now-patched critical remote code execution flaw in Kingsoft WPS Office to deploy a bespoke backdoor dubbed SpyGlace.
+The activity has been attributed to a threat actor dubbed APT-C-60, according to cybersecurity firms ESET and DBAPPSecurity. The attacks have been found to infect Chinese and East Asian users]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave]]></title>
         <id>https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html</id>
