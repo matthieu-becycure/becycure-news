@@ -3395,16 +3395,6 @@
           "wordCount": 309,
           "title": "Vulnérabilité dans les produits Microsoft (01 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0638/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Elastic Kibana. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0638/",
-          "publishedOn": "2024-07-31T08:37:11.000Z",
-          "wordCount": 314,
-          "title": "Vulnérabilité dans Elastic Kibana (31 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
