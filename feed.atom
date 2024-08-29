@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-29T21:43:33.226Z</updated>
+    <updated>2024-08-29T22:11:31.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2649,18 +2649,6 @@ Israeli cybersecurity company Cybereason is tracking the campaign under the name
         <updated>2024-07-31T10:42:00.000Z</updated>
         <summary type="html"><![CDATA[We’ll TL;DR the FUDdy introduction: we all know that phishing attacks are on the rise in scale and complexity, that AI is enabling more sophisticated attacks that evade traditional defenses, and the never-ending cybersecurity talent gap means we’re all struggling to keep security teams fully staffed. 
 Given that reality, security teams need to be able to monitor and respond to threats]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Deploy 100K+ Malware Android Apps to Steal OTP Codes]]></title>
-        <id>https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html</id>
-        <link href="https://thehackernews.com/2024/07/cybercriminals-deploy-100k-malware.html"/>
-        <updated>2024-07-31T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[A new malicious campaign has been observed making use of malicious Android apps to steal users' SMS messages since at least February 2022 as part of a large-scale campaign.
-The malicious apps, spanning over 107,000 unique samples, are designed to intercept one-time passwords (OTPs) used for online account verification to commit identity fraud.
-"Of those 107,000 malware samples, over 99,000 of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
