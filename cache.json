@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "U.S. cybersecurity and intelligence agencies have called out an Iranian hacking group for breaching multiple organizations across the country and coordinating with affiliates to deliver ransomware.\nThe activity has been linked to a threat actor dubbed Pioneer Kitten, which is also known as Fox Kitten, Lemon Sandstorm (formerly Rubidium), Parisite, and UNC757, which it described as connected to",
+          "link": "https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html",
+          "publishedOn": "2024-08-29T11:42:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPe_n8YxPhw_S9Bx-W16TInTWtxAccBIFMImF8erCisqZQDPG9QBZTTliTUUaX0AwSCmhlt1GKqtpvxVvWW5iU2qG1PWUlYW3iMhyapyuaNOANouXiwogDiAIUZbkxtQAGgZ9hIPxhhoYFy6zPjIKqQfRc35oBqiIaXpI4MU9hGGtBB_sUAeyag6oUuKp9/s1600/iran-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPe_n8YxPhw_S9Bx-W16TInTWtxAccBIFMImF8erCisqZQDPG9QBZTTliTUUaX0AwSCmhlt1GKqtpvxVvWW5iU2qG1PWUlYW3iMhyapyuaNOANouXiwogDiAIUZbkxtQAGgZ9hIPxhhoYFy6zPjIKqQfRc35oBqiIaXpI4MU9hGGtBB_sUAeyag6oUuKp9/s1600/iran-hackers.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers are increasingly using new phishing toolkits (open-source, commercial, and criminal) to execute adversary-in-the-middle (AitM) attacks.\nAitM enables attackers to not just harvest credentials but steal live sessions, allowing them to bypass traditional phishing prevention controls such as MFA, EDR, and email content filtering.\nIn this article, we’re going to look at what AitM phishing",
+          "link": "https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html",
+          "publishedOn": "2024-08-29T11:26:00.000Z",
+          "wordCount": null,
+          "title": "How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNBBgTuCUTvvb2i-7H0n4K2g_5iSW-hzyh_FG1Y7YWdtT1suSemyMWWABitQmomg9yCgYM3_Zk3yeMFzmgSb4-FBwaVAu46-R6TEe7hyrTe3_3e-FRbDaw4af482bUK7IpCOVcy0aJGhozhZs97CoruNWPwc5RGVyIj2r1tOJs4VU90dpW8G0oEYB48Mg/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNBBgTuCUTvvb2i-7H0n4K2g_5iSW-hzyh_FG1Y7YWdtT1suSemyMWWABitQmomg9yCgYM3_Zk3yeMFzmgSb4-FBwaVAu46-R6TEe7hyrTe3_3e-FRbDaw4af482bUK7IpCOVcy0aJGhozhZs97CoruNWPwc5RGVyIj2r1tOJs4VU90dpW8G0oEYB48Mg/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A years-old high-severity flaw impacting AVTECH IP cameras has been weaponized by malicious actors as a zero-day to rope them into a botnet.\nCVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a \"command injection vulnerability found in the brightness function of AVTECH closed-circuit television (CCTV) cameras that allows for remote code execution (RCE),\" Akamai researchers Kyle",
+          "link": "https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html",
+          "publishedOn": "2024-08-29T11:05:00.000Z",
+          "wordCount": null,
+          "title": "Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmCAXc8tLDN2Yogg2y5YYov2WtgAYIGpudEEWoC3IXLdyHzRjwFrTTGom275gndIRlEcfdEtpXN_6Z1-AHdseNE7vf7DHCS6N0zNzwBBx66u1BuhFmPk4VNBtu7LJClJnuyITIhAerkKoRgjVaui31yQ5EqL_Jbr2HR_vO_o2RfccSfhBTNhl7i7e_6JXf/s1600/cctv.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmCAXc8tLDN2Yogg2y5YYov2WtgAYIGpudEEWoC3IXLdyHzRjwFrTTGom275gndIRlEcfdEtpXN_6Z1-AHdseNE7vf7DHCS6N0zNzwBBx66u1BuhFmPk4VNBtu7LJClJnuyITIhAerkKoRgjVaui31yQ5EqL_Jbr2HR_vO_o2RfccSfhBTNhl7i7e_6JXf/s1600/cctv.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "French prosecutors on Wednesday formally charged CEO Pavel Durov with facilitating a litany of criminal activity on the popular messaging platform and placed him under formal investigation following his arrest Saturday.\nRussian-born Durov, who is also a French citizen, has been charged with being complicit in the spread of child sexual abuse material (CSAM) as well as enabling organized crime,",

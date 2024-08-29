@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-29T11:43:50.056Z</updated>
+    <updated>2024-08-29T12:23:08.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html</id>
+        <link href="https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html"/>
+        <updated>2024-08-29T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have called out an Iranian hacking group for breaching multiple organizations across the country and coordinating with affiliates to deliver ransomware.
+The activity has been linked to a threat actor dubbed Pioneer Kitten, which is also known as Fox Kitten, Lemon Sandstorm (formerly Rubidium), Parisite, and UNC757, which it described as connected to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AitM Phishing Attacks Bypass MFA and EDR—and How to Fight Back]]></title>
+        <id>https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html</id>
+        <link href="https://thehackernews.com/2024/08/how-to-stop-aitm-phishing-attack.html"/>
+        <updated>2024-08-29T11:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Attackers are increasingly using new phishing toolkits (open-source, commercial, and criminal) to execute adversary-in-the-middle (AitM) attacks.
+AitM enables attackers to not just harvest credentials but steal live sessions, allowing them to bypass traditional phishing prevention controls such as MFA, EDR, and email content filtering.
+In this article, we’re going to look at what AitM phishing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks]]></title>
+        <id>https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html</id>
+        <link href="https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html"/>
+        <updated>2024-08-29T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[A years-old high-severity flaw impacting AVTECH IP cameras has been weaponized by malicious actors as a zero-day to rope them into a botnet.
+CVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a "command injection vulnerability found in the brightness function of AVTECH closed-circuit television (CCTV) cameras that allows for remote code execution (RCE)," Akamai researchers Kyle]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform]]></title>
         <id>https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html</id>
