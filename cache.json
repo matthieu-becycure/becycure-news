@@ -3415,16 +3415,6 @@
           "wordCount": 385,
           "title": "Multiples vulnérabilités dans HPE Aruba Networking ClearPass Policy Manager  (31 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0636/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0636/",
-          "publishedOn": "2024-07-31T07:38:12.000Z",
-          "wordCount": 333,
-          "title": "Multiples vulnérabilités dans Google Chrome (31 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
