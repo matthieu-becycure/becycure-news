@@ -3331,16 +3331,6 @@
           "wordCount": 333,
           "title": "Multiples vulnérabilités dans Google Chrome (31 juillet 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0635/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans StormShield Management Center. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0635/",
-          "publishedOn": "2024-07-30T11:44:01.000Z",
-          "wordCount": 362,
-          "title": "Multiples vulnérabilités dans StormShield Management Center (30 juillet 2024)",
-          "imageUrl": null
         }
       ]
     }
