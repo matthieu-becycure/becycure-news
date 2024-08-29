@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-29T05:31:01.702Z</updated>
+    <updated>2024-08-29T05:43:36.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform]]></title>
+        <id>https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html</id>
+        <link href="https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html"/>
+        <updated>2024-08-29T04:41:00.000Z</updated>
+        <summary type="html"><![CDATA[French prosecutors on Wednesday formally charged CEO Pavel Durov with facilitating a litany of criminal activity on the popular messaging platform and placed him under formal investigation following his arrest Saturday.
+Russian-born Durov, who is also a French citizen, has been charged with being complicit in the spread of child sexual abuse material (CSAM) as well as enabling organized crime,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
         <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
