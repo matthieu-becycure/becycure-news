@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-29T22:43:43.084Z</updated>
+    <updated>2024-08-29T23:12:09.281Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2627,17 +2627,6 @@ The company said it will be taking the step of revoking certificates that do not
         <summary type="html"><![CDATA[The threat actors behind an ongoing malware campaign targeting software developers have demonstrated new malware and tactics, expanding their focus to include Windows, Linux, and macOS systems.
 The activity cluster, dubbed DEV#POPPER and linked to North Korea, has been found to have singled out victims across South Korea, North America, Europe, and the Middle East.
 "This form of attack is an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Hackers Target Japanese Firms with LODEINFO and NOOPDOOR Malware]]></title>
-        <id>https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html</id>
-        <link href="https://thehackernews.com/2024/07/chinese-hackers-target-japanese-firms.html"/>
-        <updated>2024-07-31T11:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Japanese organizations are the target of a Chinese nation-state threat actor that leverages malware families like LODEINFO and NOOPDOOR to harvest sensitive information from compromised hosts while stealthily remaining under the radar in some cases for a time period ranging from two to three years.
-Israeli cybersecurity company Cybereason is tracking the campaign under the name Cuckoo Spear,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
