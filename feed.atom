@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-29T16:14:36.881Z</updated>
+    <updated>2024-08-29T16:35:00.057Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vietnamese Human Rights Group Targeted in Multi-Year Cyberattack by APT32]]></title>
+        <id>https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html</id>
+        <link href="https://thehackernews.com/2024/08/vietnamese-human-rights-group-targeted.html"/>
+        <updated>2024-08-29T16:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A non-profit supporting Vietnamese human rights has been the target of a multi-year campaign designed to deliver a variety of malware on compromised hosts.
+Cybersecurity company Huntress attributed the activity to a threat cluster known as APT32, a Vietnamese-aligned hacking crew that's also known as APT-C-00, Canvas Cyclone (formerly Bismuth), Cobalt Kitty, and OceanLotus. The intrusion is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Hackers Exploit Safari and Chrome Flaws in High-Profile Cyberattack]]></title>
+        <id>https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html</id>
+        <link href="https://thehackernews.com/2024/08/russian-hackers-exploit-safari-and.html"/>
+        <updated>2024-08-29T15:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have flagged multiple in-the-wild exploit campaigns that leveraged now-patched flaws in Apple Safari and Google Chrome browsers to infect mobile users with information-stealing malware.
+"These campaigns delivered n-day exploits for which patches were available, but would still be effective against unpatched devices," Google Threat Analysis Group (TAG) researcher Clement]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks]]></title>
         <id>https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html</id>
