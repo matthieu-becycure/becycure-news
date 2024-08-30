@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T11:25:49.419Z</updated>
+    <updated>2024-08-30T11:43:35.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Iranian Hackers Set Up New Network to Target U.S. Political Campaigns]]></title>
+        <id>https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html</id>
+        <link href="https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html"/>
+        <updated>2024-08-30T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed new network infrastructure set up by Iranian threat actors to support activities linked to the recent targeting of U.S. political campaigns.
+Recorded Future's Insikt Group has linked the infrastructure to a threat it tracks as GreenCharlie, an Iran-nexus cyber threat group that overlaps with APT42, Charming Kitten, Damselfly, Mint Sandstorm (formerly]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Malware Masquerades as Palo Alto VPN Targeting Middle East Users]]></title>
         <id>https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html</id>
