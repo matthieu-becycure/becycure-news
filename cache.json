@@ -2509,6 +2509,46 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/",
+          "publishedOn": "2024-08-30T11:55:33.000Z",
+          "wordCount": 829,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (30 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0728/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Red Hat. Elles permettent à un attaquant de provoquer un déni de service à distance et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0728/",
+          "publishedOn": "2024-08-30T11:54:59.000Z",
+          "wordCount": 805,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (30 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0727/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0727/",
+          "publishedOn": "2024-08-30T11:47:11.000Z",
+          "wordCount": 518,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (30 août 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0726/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0726/",
+          "publishedOn": "2024-08-30T11:41:19.000Z",
+          "wordCount": 433,
+          "title": "Multiples vulnérabilités dans les produits IBM (30 août 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0725/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
