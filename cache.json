@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a novel malware campaign that leverages Google Sheets as a command-and-control (C2) mechanism.\nThe activity, detected by Proofpoint starting August 5, 2024, impersonates tax authorities from governments in Europe, Asia, and the U.S., with the goal of targeting over 70 organizations worldwide by means of a bespoke tool called Voldemort that's equipped to",
+          "link": "https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html",
+          "publishedOn": "2024-08-30T13:04:00.000Z",
+          "wordCount": null,
+          "title": "Cyberattackers Exploit Google Sheets for Malware Control in Global Espionage Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZM1I_1IammsLAPBtXux2xk8jKq8tNh3mcMIve7U5xQtVw8X5cAOgfx8YBREl82jG3eQK0iqiJPOGYdS3jRLTldnGmyXjiC39H4UM8nHqr6b6vg009HtAi6Fw2u9FbK3kV2GfJUt2TzQ-HZh1SnVAoSG6KgQbmELMjVOitXqoW1maKDHouooZIrEaVocbu/s1600/hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZM1I_1IammsLAPBtXux2xk8jKq8tNh3mcMIve7U5xQtVw8X5cAOgfx8YBREl82jG3eQK0iqiJPOGYdS3jRLTldnGmyXjiC39H4UM8nHqr6b6vg009HtAi6Fw2u9FbK3kV2GfJUt2TzQ-HZh1SnVAoSG6KgQbmELMjVOitXqoW1maKDHouooZIrEaVocbu/s1600/hackers.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have unearthed new network infrastructure set up by Iranian threat actors to support activities linked to the recent targeting of U.S. political campaigns.\nRecorded Future's Insikt Group has linked the infrastructure to a threat it tracks as GreenCharlie, an Iran-nexus cyber threat group that overlaps with APT42, Charming Kitten, Damselfly, Mint Sandstorm (formerly",

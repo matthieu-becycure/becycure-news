@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T13:24:02.979Z</updated>
+    <updated>2024-08-30T13:43:26.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberattackers Exploit Google Sheets for Malware Control in Global Espionage Campaign]]></title>
+        <id>https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html</id>
+        <link href="https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html"/>
+        <updated>2024-08-30T13:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a novel malware campaign that leverages Google Sheets as a command-and-control (C2) mechanism.
+The activity, detected by Proofpoint starting August 5, 2024, impersonates tax authorities from governments in Europe, Asia, and the U.S., with the goal of targeting over 70 organizations worldwide by means of a bespoke tool called Voldemort that's equipped to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Iranian Hackers Set Up New Network to Target U.S. Political Campaigns]]></title>
         <id>https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html</id>
