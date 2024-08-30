@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T22:43:35.710Z</updated>
+    <updated>2024-08-30T23:12:59.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2667,19 +2667,6 @@ The powerful attack vector, which exploits weaknesses in the domain name system 
         <updated>2024-08-01T12:52:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new Android remote access trojan (RAT) called BingoMod that not only performs fraudulent money transfers from the compromised devices but also wipes them in an attempt to erase traces of the malware.
 Italian cybersecurity firm Cleafy, which discovered the RAT towards the end of May 2024, said the malware is under active development. It attributed the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obfuscation: There Are Two Sides To Everything]]></title>
-        <id>https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html</id>
-        <link href="https://thehackernews.com/2024/08/obfuscation-there-are-two-sides-to.html"/>
-        <updated>2024-08-01T11:07:00.000Z</updated>
-        <summary type="html"><![CDATA[How to detect and prevent attackers from using these various techniques
-Obfuscation is an important technique for protecting software that also carries risks, especially when used by malware authors. In this article, we examine obfuscation, its effects, and responses to it.
-What Is Obfuscation?
-Obfuscation is the technique of intentionally making information difficult to read, especially in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
