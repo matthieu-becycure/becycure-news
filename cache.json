@@ -3431,26 +3431,6 @@
           "wordCount": 348,
           "title": "Multiples vulnérabilités dans les produits NetApp (01 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Elastic Elasticsearch. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0640/",
-          "publishedOn": "2024-08-01T07:18:57.000Z",
-          "wordCount": 318,
-          "title": "Vulnérabilité dans Elastic Elasticsearch (01 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0639/",
-          "publishedOn": "2024-08-01T07:16:10.000Z",
-          "wordCount": 309,
-          "title": "Vulnérabilité dans les produits Microsoft (01 août 2024)",
-          "imageUrl": null
         }
       ]
     }
