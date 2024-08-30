@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T18:16:05.803Z</updated>
+    <updated>2024-08-30T18:36:08.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2723,18 +2723,6 @@ Obfuscation is the technique of intentionally making information difficult to re
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Ads Lead to Fake Websites Stealing Credit Card Information]]></title>
-        <id>https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html</id>
-        <link href="https://thehackernews.com/2024/08/facebook-ads-lead-to-fake-websites.html"/>
-        <updated>2024-08-01T06:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Facebook users are the target of a scam e-commerce network that uses hundreds of fake websites to steal personal and financial data using brand impersonation and malvertising tricks.
-Recorded Future's Payment Fraud Intelligence team, which detected the campaign on April 17, 2024, has given it the name ERIAKOS owing to the use of the same content delivery network (CDN) oss.eriakos[.]com.
-"These]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
