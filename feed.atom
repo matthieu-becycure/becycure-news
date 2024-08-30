@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T10:33:24.564Z</updated>
+    <updated>2024-08-30T10:43:37.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Masquerades as Palo Alto VPN Targeting Middle East Users]]></title>
+        <id>https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html</id>
+        <link href="https://thehackernews.com/2024/08/new-malware-masquerades-as-palo-alto.html"/>
+        <updated>2024-08-30T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new campaign that potentially targets users in the Middle East through malware that disguises itself as Palo Alto Networks GlobalProtect virtual private network (VPN) tool.
+
+"The malware can execute remote PowerShell commands, download and exfiltrate files, encrypt communications, and bypass sandbox solutions, representing a significant threat to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals]]></title>
         <id>https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html</id>
