@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-30T00:57:39.840Z</updated>
+    <updated>2024-08-30T02:10:09.605Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2615,18 +2615,6 @@ Recorded Future's Payment Fraud Intelligence team, which detected the campaign o
         <summary type="html"><![CDATA[Certificate authority (CA) DigiCert has warned that it will be revoking a subset of SSL/TLS certificates within 24 hours due to an oversight with how it verified if a digital certificate is issued to the rightful owner of a domain.
 The company said it will be taking the step of revoking certificates that do not have proper Domain Control Validation (DCV).
 "Before issuing a certificate to a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korea-Linked Malware Targets Developers on Windows, Linux, and macOS]]></title>
-        <id>https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html</id>
-        <link href="https://thehackernews.com/2024/07/north-korea-linked-malware-targets.html"/>
-        <updated>2024-07-31T13:08:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actors behind an ongoing malware campaign targeting software developers have demonstrated new malware and tactics, expanding their focus to include Windows, Linux, and macOS systems.
-The activity cluster, dubbed DEV#POPPER and linked to North Korea, has been found to have singled out victims across South Korea, North America, Europe, and the Middle East.
-"This form of attack is an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
