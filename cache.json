@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The most dangerous vulnerability you’ve never heard of.\nIn the world of cybersecurity, vulnerabilities are discovered so often, and at such a high rate, that it can be very difficult to keep up with. Some vulnerabilities will start ringing alarm bells within your security tooling, while others are far more nuanced, but still pose an equally dangerous threat. Today, we want to discuss one of",
+          "link": "https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html",
+          "publishedOn": "2024-08-30T09:39:00.000Z",
+          "wordCount": null,
+          "title": "Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YTUlWPmUtsZzTzgJa4oOCvHRip6kcEvUB4wDHPdngVxIba5xBGopEcGhTyTI0vrUUu_XYWaUrFfUsfhcLlXdldRMRR7137eLwURg03bh1ISSCvQ_HyPVZAvCVMvroBRgGbQVE6LpKdzkJx-YwJ8bz9lt_BJqxGUNU1P0SzatRhZSMWMhuw9gnysJCzQ/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5YTUlWPmUtsZzTzgJa4oOCvHRip6kcEvUB4wDHPdngVxIba5xBGopEcGhTyTI0vrUUu_XYWaUrFfUsfhcLlXdldRMRR7137eLwURg03bh1ISSCvQ_HyPVZAvCVMvroBRgGbQVE6LpKdzkJx-YwJ8bz9lt_BJqxGUNU1P0SzatRhZSMWMhuw9gnysJCzQ/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/north-korean-hackers-target-developers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors with ties to North Korea have been observed publishing a set of malicious packages to the npm registry, indicating \"coordinated and relentless\" efforts to target developers with malware and steal cryptocurrency assets.\nThe latest wave, which was observed between August 12 and 27, 2024, involved packages named temp-etherscan-api, ethersscan-api, telegram-con, helmet-validate, and",
