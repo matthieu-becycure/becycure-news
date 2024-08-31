@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-31T22:43:27.750Z</updated>
+    <updated>2024-08-31T23:11:07.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2589,17 +2589,6 @@ The unnamed organization was targeted as early as mid-July 2023 to deliver a var
         <summary type="html"><![CDATA[In today's digital battlefield, small and medium businesses (SMBs) face the same cyber threats as large corporations, but with fewer resources. Managed service providers (MSPs) are struggling to keep up with the demand for protection.
 If your current cybersecurity strategy feels like a house of cards – a complex, costly mess of different vendors and tools – it's time for a change.
 Introducing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mirai Botnet targeting OFBiz Servers Vulnerable to Directory Traversal]]></title>
-        <id>https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html</id>
-        <link href="https://thehackernews.com/2024/08/mirai-botnet-targeting-ofbiz-servers.html"/>
-        <updated>2024-08-02T10:52:00.000Z</updated>
-        <summary type="html"><![CDATA[Enterprise Resource Planning (ERP) Software is at the heart of many enterprising supporting human resources, accounting, shipping, and manufacturing. These systems can become very complex and difficult to maintain. They are often highly customized, which can make patching difficult. However, critical vulnerabilities keep affecting these systems and put critical business data at risk. 
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
