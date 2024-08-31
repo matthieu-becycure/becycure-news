@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recently patched security flaw in Google Chrome and other Chromium web browsers was exploited as a zero-day by North Korean actors in a campaign designed to deliver the FudModule rootkit.\nThe development is indicative of the persistent efforts made by the nation-state adversary, which had made a habit of incorporating rafts of Windows zero-day exploits into its arsenal in recent months.",
+          "link": "https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html",
+          "publishedOn": "2024-08-31T15:35:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKrQY2GczDoiblC6rudv5vqGubelyNus27VfYdNAQQfU7NifRTM4xpmzpFpv3Hdv8s0qxxWqMZMeQBb7GXtFlwIObKm28RlU8e83QONNqHRfzRCPDq0FACnsdB5_SU1_zo5YQPsQILDGoJQc42qA5ugyJZBsbGA7YJWCA4hT1e93mOveGF06SPiR29hep/s1600/chrome.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKrQY2GczDoiblC6rudv5vqGubelyNus27VfYdNAQQfU7NifRTM4xpmzpFpv3Hdv8s0qxxWqMZMeQBb7GXtFlwIObKm28RlU8e83QONNqHRfzRCPDq0FACnsdB5_SU1_zo5YQPsQILDGoJQc42qA5ugyJZBsbGA7YJWCA4hT1e93mOveGF06SPiR29hep/s1600/chrome.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/08/cyberattackers-exploit-google-sheets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a novel malware campaign that leverages Google Sheets as a command-and-control (C2) mechanism.\nThe activity, detected by Proofpoint starting August 5, 2024, impersonates tax authorities from governments in Europe, Asia, and the U.S., with the goal of targeting over 70 organizations worldwide by means of a bespoke tool called Voldemort that's equipped to",
