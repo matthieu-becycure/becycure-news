@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-31T23:26:20.872Z</updated>
+    <updated>2024-08-31T23:43:41.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2579,18 +2579,6 @@ The unnamed organization was targeted as early as mid-July 2023 to deliver a var
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Discover the All-in-One Cybersecurity Solution for SMBs]]></title>
-        <id>https://thehackernews.com/2024/08/webinar-discover-all-in-one.html</id>
-        <link href="https://thehackernews.com/2024/08/webinar-discover-all-in-one.html"/>
-        <updated>2024-08-02T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's digital battlefield, small and medium businesses (SMBs) face the same cyber threats as large corporations, but with fewer resources. Managed service providers (MSPs) are struggling to keep up with the demand for protection.
-If your current cybersecurity strategy feels like a house of cards – a complex, costly mess of different vendors and tools – it's time for a change.
-Introducing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
