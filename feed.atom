@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-08-31T18:43:21.964Z</updated>
+    <updated>2024-08-31T19:08:46.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2632,18 +2632,6 @@ The newly identified malware strain has been codenamed BITSLOTH by Elastic Secur
         <updated>2024-08-02T07:24:00.000Z</updated>
         <summary type="html"><![CDATA[In a historic prisoner exchange between Belarus, Germany, Norway, Russia, Slovenia, and the U.S., two Russian nationals serving time for cybercrime activities have been freed and repatriated to their country.
 This includes Roman Valerevich Seleznev and Vladislav Klyushin, who are part of a group of eight people who have been swapped back to Russia in exchange for the release of 16 people who]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals Abusing Cloudflare Tunnels to Evade Detection and Spread Malware]]></title>
-        <id>https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html</id>
-        <link href="https://thehackernews.com/2024/08/cybercriminals-abusing-cloudflare.html"/>
-        <updated>2024-08-02T07:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity companies are warning about an uptick in the abuse of Clouflare's TryCloudflare free service for malware delivery.
-The activity, documented by both eSentire and Proofpoint, entails the use of TryCloudflare to create a one-time tunnel that acts as a conduit to relay traffic from an attacker-controlled server to a local machine through Cloudflare's infrastructure.
-Attack chains]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
