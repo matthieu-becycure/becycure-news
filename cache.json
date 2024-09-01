@@ -2308,38 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJUm8NcZ7i8h5mjZPKMgQPu-cWw1iw4k9AX20doSGcKPDg5s5oXE3rmbwV1rLBR260olLDBdvW1j1JDyYTymw0_eoHm5ma0eeTH2bmoDEcTA7C48ObMZ2D-95Ye74XmSegueRJOlFIft8jagGNskDczp-ZiB2aK3StjjZnLUbovnGpiBx8Pdrz1VuS7J5j/s1600/ddos.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJUm8NcZ7i8h5mjZPKMgQPu-cWw1iw4k9AX20doSGcKPDg5s5oXE3rmbwV1rLBR260olLDBdvW1j1JDyYTymw0_eoHm5ma0eeTH2bmoDEcTA7C48ObMZ2D-95Ye74XmSegueRJOlFIft8jagGNskDczp-ZiB2aK3StjjZnLUbovnGpiBx8Pdrz1VuS7J5j/s1600/ddos.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Taiwanese government-affiliated research institute that specializes in computing and associated technologies was breached by nation-state threat actors with ties to China, according to new findings from Cisco Talos.\nThe unnamed organization was targeted as early as mid-July 2023 to deliver a variety of backdoors and post-compromise tools like ShadowPad and Cobalt Strike. It has been attributed",
-          "link": "https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html",
-          "publishedOn": "2024-08-02T16:32:00.000Z",
-          "wordCount": null,
-          "title": "APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi125FXWcrNA0V42mEJt0r6IiXRsnTwpCg4tNw2H0vlMWRwZjCziEeTYbZScgOAxkQ5oFMnqUmZXpN_YXNBfX1iGQnEZanJS2INqx-EQHosA9O3DMHp3uoddksTKavfyGg7eiQrGFc6e5yciT_Wrr8troTGZ6xpMYprUj2t7TYKqdZanMZWcvihkB7UHslQ/s1600/china.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi125FXWcrNA0V42mEJt0r6IiXRsnTwpCg4tNw2H0vlMWRwZjCziEeTYbZScgOAxkQ5oFMnqUmZXpN_YXNBfX1iGQnEZanJS2INqx-EQHosA9O3DMHp3uoddksTKavfyGg7eiQrGFc6e5yciT_Wrr8troTGZ6xpMYprUj2t7TYKqdZanMZWcvihkB7UHslQ/s1600/china.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A Russia-linked threat actor has been linked to a new campaign that employed a car for sale as a phishing lure to deliver a modular Windows backdoor called HeadLace.\n\n\"The campaign likely targeted diplomats and began as early as March 2024,\" Palo Alto Networks Unit 42 said in a report published today, attributing it with medium to high level of confidence to APT28, which is also referred to as",
-          "link": "https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html",
-          "publishedOn": "2024-08-02T16:16:00.000Z",
-          "wordCount": null,
-          "title": "APT28 Targets Diplomats with HeadLace Malware via Car Sale Phishing Lure",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbPxri_qgeJzWqkBQ3Yi3MZXbT93LqaQz4XXcRwTLGNH-dboExpmsS17X87meOedV-XM51IiFWxI01pAHnQoRvJSOHiHK0ZnhAF60PDYH1ujOkn86JJRLPdtI8EPSXGzPysE6IFQQ5RST-fRLsLDamfxxMqhkwD0ESns078WwZIMZ3ukg5_SooAFsysmfI/s1600/malware%20%282%29.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbPxri_qgeJzWqkBQ3Yi3MZXbT93LqaQz4XXcRwTLGNH-dboExpmsS17X87meOedV-XM51IiFWxI01pAHnQoRvJSOHiHK0ZnhAF60PDYH1ujOkn86JJRLPdtI8EPSXGzPysE6IFQQ5RST-fRLsLDamfxxMqhkwD0ESns078WwZIMZ3ukg5_SooAFsysmfI/s1600/malware%20%282%29.jpg"
         }
       ]
     },

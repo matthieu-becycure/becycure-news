@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-01T04:15:17.328Z</updated>
+    <updated>2024-09-01T04:34:09.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2514,29 +2514,6 @@ They]]></summary>
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new distributed denial-of-service (DDoS) attack campaign targeting misconfigured Jupyter Notebooks.
 The activity, codenamed Panamorfi by cloud security firm Aqua, utilizes a Java-based tool called mineping to launch a TCP flood DDoS attack. Mineping is a DDoS package designed for Minecraft game servers.
 Attack chains entail the exploitation]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT41 Hackers Use ShadowPad, Cobalt Strike in Taiwanese Institute Cyber Attack]]></title>
-        <id>https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html</id>
-        <link href="https://thehackernews.com/2024/08/apt41-hackers-use-shadowpad-cobalt.html"/>
-        <updated>2024-08-02T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A Taiwanese government-affiliated research institute that specializes in computing and associated technologies was breached by nation-state threat actors with ties to China, according to new findings from Cisco Talos.
-The unnamed organization was targeted as early as mid-July 2023 to deliver a variety of backdoors and post-compromise tools like ShadowPad and Cobalt Strike. It has been attributed]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT28 Targets Diplomats with HeadLace Malware via Car Sale Phishing Lure]]></title>
-        <id>https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html</id>
-        <link href="https://thehackernews.com/2024/08/apt28-targets-diplomats-with-headlace.html"/>
-        <updated>2024-08-02T16:16:00.000Z</updated>
-        <summary type="html"><![CDATA[A Russia-linked threat actor has been linked to a new campaign that employed a car for sale as a phishing lure to deliver a modular Windows backdoor called HeadLace.
-
-"The campaign likely targeted diplomats and began as early as March 2024," Palo Alto Networks Unit 42 said in a report published today, attributing it with medium to high level of confidence to APT28, which is also referred to as]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
