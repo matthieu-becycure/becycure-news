@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-01T20:43:33.604Z</updated>
+    <updated>2024-09-01T21:10:53.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2490,18 +2490,6 @@ The flaw, which is assigned the CVE identifier CVE-2024-6242, carries a CVSS v3.
         <updated>2024-08-05T04:16:00.000Z</updated>
         <summary type="html"><![CDATA[The China-linked threat actor known as Evasive Panda compromised an unnamed internet service provider (ISP) to push malicious software updates to target companies in mid-2023, highlighting a new level of sophistication associated with the group.
 Evasive Panda, also known by the names Bronze Highland, Daggerfly, and StormBamboo, is a cyber espionage group that's been active since at least 2012,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ and FTC Sue TikTok for Violating Children's Privacy Laws]]></title>
-        <id>https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html</id>
-        <link href="https://thehackernews.com/2024/08/doj-and-ftc-sue-tiktok-for-violating.html"/>
-        <updated>2024-08-03T09:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ), along with the Federal Trade Commission (FTC), filed a lawsuit against popular video-sharing platform TikTok for "flagrantly violating" children's privacy laws in the country.
-The agencies claimed the company knowingly permitted children to create TikTok accounts and to view and share short-form videos and messages with adults and others on the service.
-They]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
