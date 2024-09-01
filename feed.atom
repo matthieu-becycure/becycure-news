@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-01T15:43:32.654Z</updated>
+    <updated>2024-09-01T16:14:43.078Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2502,18 +2502,6 @@ Evasive Panda, also known by the names Bronze Highland, Daggerfly, and StormBamb
         <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ), along with the Federal Trade Commission (FTC), filed a lawsuit against popular video-sharing platform TikTok for "flagrantly violating" children's privacy laws in the country.
 The agencies claimed the company knowingly permitted children to create TikTok accounts and to view and share short-form videos and messages with adults and others on the service.
 They]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackers Exploit Misconfigured Jupyter Notebooks with Repurposed Minecraft DDoS Tool]]></title>
-        <id>https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html</id>
-        <link href="https://thehackernews.com/2024/08/hackers-exploit-misconfigured-jupyter.html"/>
-        <updated>2024-08-03T03:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed details of a new distributed denial-of-service (DDoS) attack campaign targeting misconfigured Jupyter Notebooks.
-The activity, codenamed Panamorfi by cloud security firm Aqua, utilizes a Java-based tool called mineping to launch a TCP flood DDoS attack. Mineping is a DDoS package designed for Minecraft game servers.
-Attack chains entail the exploitation]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
