@@ -2333,6 +2333,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-039/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-039/",
+          "publishedOn": "2024-09-02T12:27:51.000Z",
+          "wordCount": 1003,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-039 (02 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0730/",
+          "publishedOn": "2024-09-02T11:36:26.000Z",
+          "wordCount": 337,
+          "title": "Multiples vulnérabilités dans MISP (02 septembre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0729/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
