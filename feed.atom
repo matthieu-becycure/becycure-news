@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-02T07:12:31.441Z</updated>
+    <updated>2024-09-02T07:27:20.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Next-Generation Attacks, Same Targets - How to Protect Your Users' Identities]]></title>
+        <id>https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html</id>
+        <link href="https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html"/>
+        <updated>2024-09-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The FBI and CISA Issue Joint Advisory on New Threats and How to Stop Ransomware
+Note: on August 29, the FBI and CISA issued a joint advisory as part of their ongoing #StopRansomware effort to help organizations protect against ransomware. The latest advisory, AA24-242A, describes a new cybercriminal group and its attack methods. It also details three important actions to take today to mitigate]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Malicious npm Packages Mimicking 'noblox.js' Compromise Roblox Developers’ Systems]]></title>
         <id>https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html</id>

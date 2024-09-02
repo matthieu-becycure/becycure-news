@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The FBI and CISA Issue Joint Advisory on New Threats and How to Stop Ransomware\nNote: on August 29, the FBI and CISA issued a joint advisory as part of their ongoing #StopRansomware effort to help organizations protect against ransomware. The latest advisory, AA24-242A, describes a new cybercriminal group and its attack methods. It also details three important actions to take today to mitigate",
+          "link": "https://thehackernews.com/2024/09/next-generation-attacks-same-targets.html",
+          "publishedOn": "2024-09-02T07:00:00.000Z",
+          "wordCount": null,
+          "title": "Next-Generation Attacks, Same Targets - How to Protect Your Users' Identities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph-Yz-BK9Fn_jUKYkeWoFp-lOvxFvzqhO9-mGvy9CVFv60VYNoPM_L11U7UFcEAYppP35DfD2vIiP9JEQUO3EfRkK4fBYvjTDJ0HnSH4ZY74vzFskrbbFrSv6grJ8eCoU-yurwhvLCNHRim7HckEY_ynfeJjAbz6PDm_Mwf4883t1pvnRiISdJi0quMo/s1600/main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiph-Yz-BK9Fn_jUKYkeWoFp-lOvxFvzqhO9-mGvy9CVFv60VYNoPM_L11U7UFcEAYppP35DfD2vIiP9JEQUO3EfRkK4fBYvjTDJ0HnSH4ZY74vzFskrbbFrSv6grJ8eCoU-yurwhvLCNHRim7HckEY_ynfeJjAbz6PDm_Mwf4883t1pvnRiISdJi0quMo/s1600/main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Roblox developers are the target of a persistent campaign that seeks to compromise systems through bogus npm packages, once again underscoring how threat actors continue to exploit the trust in the open-source ecosystem to deliver malware.\n\"By mimicking the popular 'noblox.js' library, attackers have published dozens of packages designed to steal sensitive data and compromise systems,\" Checkmarx",
