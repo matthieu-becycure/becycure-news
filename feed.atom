@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-02T04:15:26.397Z</updated>
+    <updated>2024-09-02T04:33:37.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malicious npm Packages Mimicking 'noblox.js' Compromise Roblox Developers’ Systems]]></title>
+        <id>https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html</id>
+        <link href="https://thehackernews.com/2024/09/malicious-npm-packages-mimicking.html"/>
+        <updated>2024-09-02T03:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Roblox developers are the target of a persistent campaign that seeks to compromise systems through bogus npm packages, once again underscoring how threat actors continue to exploit the trust in the open-source ecosystem to deliver malware.
+"By mimicking the popular 'noblox.js' library, attackers have published dozens of packages designed to steal sensitive data and compromise systems," Checkmarx]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit]]></title>
         <id>https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html</id>
