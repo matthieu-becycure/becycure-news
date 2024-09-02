@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors linked to the RansomHub ransomware group encrypted and exfiltrated data from at least 210 victims since its inception in February 2024, the U.S. government said.\nThe victims span various sectors, including water and wastewater, information technology, government services and facilities, healthcare and public health, emergency services, food and agriculture, financial services,",
+          "link": "https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html",
+          "publishedOn": "2024-09-02T13:33:00.000Z",
+          "wordCount": null,
+          "title": "RansomHub Ransomware Group Targets 210 Victims Across Critical Sectors",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCe2fKDpwyhE1NjRW-lx6RRKqtrukluXSB0u7wvuWoiKcwJxbaAWR3j_6eFXQayrYiHe8MdGJi-sPSCHLwF3kLxp_caQ4VwQ4yWgFmye9gj0sDJkBdjDCvQYnXVJdjlucYT65F1fIEsENz0MUzV_reaCyIk1QOs5Sr9773RrFArmvY6KOrHVYAMrg0qX3/s1600/ransomware.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVCe2fKDpwyhE1NjRW-lx6RRKqtrukluXSB0u7wvuWoiKcwJxbaAWR3j_6eFXQayrYiHe8MdGJi-sPSCHLwF3kLxp_caQ4VwQ4yWgFmye9gj0sDJkBdjDCvQYnXVJdjlucYT65F1fIEsENz0MUzV_reaCyIk1QOs5Sr9773RrFArmvY6KOrHVYAMrg0qX3/s1600/ransomware.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The world of cybersecurity is in a constant state of flux. New vulnerabilities emerge daily, and attackers are becoming more sophisticated.\nIn this high-stakes game, security leaders need every advantage they can get. That's where Artificial Intelligence (AI) comes in. AI isn't just a buzzword; it's a game-changer for vulnerability management.\nAI is poised to revolutionize vulnerability",

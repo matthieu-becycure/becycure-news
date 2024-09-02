@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-02T14:11:35.749Z</updated>
+    <updated>2024-09-02T14:31:14.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RansomHub Ransomware Group Targets 210 Victims Across Critical Sectors]]></title>
+        <id>https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html</id>
+        <link href="https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html"/>
+        <updated>2024-09-02T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors linked to the RansomHub ransomware group encrypted and exfiltrated data from at least 210 victims since its inception in February 2024, the U.S. government said.
+The victims span various sectors, including water and wastewater, information technology, government services and facilities, healthcare and public health, emergency services, food and agriculture, financial services,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-039 (02 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-039/</id>
