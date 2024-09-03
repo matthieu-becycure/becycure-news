@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-03T02:08:30.292Z</updated>
+    <updated>2024-09-03T02:48:43.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt]]></title>
+        <id>https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html</id>
+        <link href="https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html"/>
+        <updated>2024-09-03T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A 57-year-old man from the U.S. state of Missouri has been arrested in connection with a failed data extortion campaign that targeted his former employer.
+Daniel Rhyne of Kansas City, Missouri, has been charged with one count of extortion in relation to a threat to cause damage to a protected computer, one count of intentional damage to a protected computer, and one count of wire fraud.
+He was]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RansomHub Ransomware Group Targets 210 Victims Across Critical Sectors]]></title>
         <id>https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html</id>

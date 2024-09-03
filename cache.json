@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A 57-year-old man from the U.S. state of Missouri has been arrested in connection with a failed data extortion campaign that targeted his former employer.\nDaniel Rhyne of Kansas City, Missouri, has been charged with one count of extortion in relation to a threat to cause damage to a protected computer, one count of intentional damage to a protected computer, and one count of wire fraud.\nHe was",
+          "link": "https://thehackernews.com/2024/09/ex-engineer-charged-in-missouri-for.html",
+          "publishedOn": "2024-09-03T01:58:00.000Z",
+          "wordCount": null,
+          "title": "Ex-Engineer Charged in Missouri for Failed $750,000 Bitcoin Extortion Attempt",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUfEZbD0uf4gtYRWc59ZmrQcuk_-bN9w6E0k14SzFSBYbbQ38Fi3z3900UUkSYgkVYRdSQuKpxroG7BrHttCuEKHc8ULme8Q086ayN7KI-VoHpTbwPBMit7eLH3QxkLUiqpxYrrOb_U4fIZYj3wD62EQAgtMJ_W_jUqYYkFGZDft1mOqY4-s14crTyM2ed/s1600/haxcker.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUfEZbD0uf4gtYRWc59ZmrQcuk_-bN9w6E0k14SzFSBYbbQ38Fi3z3900UUkSYgkVYRdSQuKpxroG7BrHttCuEKHc8ULme8Q086ayN7KI-VoHpTbwPBMit7eLH3QxkLUiqpxYrrOb_U4fIZYj3wD62EQAgtMJ_W_jUqYYkFGZDft1mOqY4-s14crTyM2ed/s1600/haxcker.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/ransomhub-ransomware-group-targets-210.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors linked to the RansomHub ransomware group encrypted and exfiltrated data from at least 210 victims since its inception in February 2024, the U.S. government said.\nThe victims span various sectors, including water and wastewater, information technology, government services and facilities, healthcare and public health, emergency services, food and agriculture, financial services,",
