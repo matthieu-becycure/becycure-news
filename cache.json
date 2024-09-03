@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/rocinante-trojan-poses-as-banking-apps.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Mobile users in Brazil are the target of a new malware campaign that delivers a new Android banking trojan named Rocinante.\n\n\"This malware family is capable of performing keylogging using the Accessibility Service, and is also able to steal PII from its victims using phishing screens posing as different banks,\" Dutch security company ThreatFabric said.\n\n\"Finally, it can use all this exfiltrated",
+          "link": "https://thehackernews.com/2024/09/rocinante-trojan-poses-as-banking-apps.html",
+          "publishedOn": "2024-09-03T09:37:00.000Z",
+          "wordCount": null,
+          "title": "Rocinante Trojan Poses as Banking Apps to Steal Sensitive Data from Brazilian Android Users",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJAdPoxpvEfQDGEEYuGxCUFXihU1c-w36FHZqHo0mRCU2ueYsBZQerX3uVFnMRO9e7MKTHzKU5lI-gxROvtRgddBciS8LbJeCkbJt9-mpNPKQrnUSnxB2_IZqXNOECuIxX7ZPy6xqS3iYggMlt-oWtp63p7k0rGUefh89c53KjUUBPqR_OLn_m3GNJVqoW/s1600/android%20%281%29.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJAdPoxpvEfQDGEEYuGxCUFXihU1c-w36FHZqHo0mRCU2ueYsBZQerX3uVFnMRO9e7MKTHzKU5lI-gxROvtRgddBciS8LbJeCkbJt9-mpNPKQrnUSnxB2_IZqXNOECuIxX7ZPy6xqS3iYggMlt-oWtp63p7k0rGUefh89c53KjUUBPqR_OLn_m3GNJVqoW/s1600/android%20%281%29.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the digital realm, secrets (API keys, private keys, username and password combos, etc.) are the keys to the kingdom. But what if those keys were accidentally left out in the open in the very tools we use to collaborate every day?\nA Single Secret Can Wreak Havoc\nImagine this: It's a typical Tuesday in June 2024. Your dev team is knee-deep in sprints, Jira tickets are flying, and Slack is",
