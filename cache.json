@@ -3305,16 +3305,6 @@
           "wordCount": 413,
           "title": "Multiples vulnérabilités dans les produits SonicWall (05 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0647/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Roundcube. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0647/",
-          "publishedOn": "2024-08-05T07:38:27.000Z",
-          "wordCount": 342,
-          "title": "Multiples vulnérabilités dans Roundcube (05 août 2024)",
-          "imageUrl": null
         }
       ]
     }
