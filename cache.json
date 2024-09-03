@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A hacktivist group known as Head Mare has been linked to cyber attacks that exclusively target organizations located in Russia and Belarus.\n\"Head Mare uses more up-to-date methods for obtaining initial access,\" Kaspersky said in a Monday analysis of the group's tactics and tools.\n\"For instance, the attackers took advantage of the relatively recent CVE-2023-38831 vulnerability in WinRAR, which",
+          "link": "https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html",
+          "publishedOn": "2024-09-03T13:29:00.000Z",
+          "wordCount": null,
+          "title": "Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIibHrLdvMd0LXwX376Dn6E9nh0P2EqY93mZN9R89xzgN-8v6NwPisQ6N3-vIP0ZPOIJD7S8RL2RLy_oLA-EYdpuWhyix_W4VlU8chS_i8Qqoc3zR3NdYxy9adptsOMeDIxKUgAP2Oe9PVrhQHrZ4oXMVQvIlowyECEJDhhXerNRDQu77jVDgBoVDw1DPo/s1600/chart.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIibHrLdvMd0LXwX376Dn6E9nh0P2EqY93mZN9R89xzgN-8v6NwPisQ6N3-vIP0ZPOIJD7S8RL2RLy_oLA-EYdpuWhyix_W4VlU8chS_i8Qqoc3zR3NdYxy9adptsOMeDIxKUgAP2Oe9PVrhQHrZ4oXMVQvIlowyECEJDhhXerNRDQu77jVDgBoVDw1DPo/s1600/chart.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have unpacked the inner workings of a new ransomware variant called Cicada3301 that shares similarities with the now-defunct BlackCat (aka ALPHV) operation.\n\"It appears that Cicada3301 ransomware primarily targets small to medium-sized businesses (SMBs), likely through opportunistic attacks that exploit vulnerabilities as the initial access vector,\" cybersecurity",
+          "link": "https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html",
+          "publishedOn": "2024-09-03T13:16:00.000Z",
+          "wordCount": null,
+          "title": "New Rust-Based Ransomware Cicada3301 Targets Windows and Linux Systems",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlnYevRFVZTttlnIbwaWXTcdmgfBYgtCAnifl_0Q_6ZkPshiv-vb9A1hiuOxe6J6shaUWPzF3yq0fQUu-CmVnVtcVLP8mWlpqq_a6q558J5kRDI8ejO19ssAcyOd9c8DX5Avdi7YOCDuSI82D-9QwPqXq7mfRionmodiAAeEvDCdtbyDkJo0_ar-qJgfq/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmlnYevRFVZTttlnIbwaWXTcdmgfBYgtCAnifl_0Q_6ZkPshiv-vb9A1hiuOxe6J6shaUWPzF3yq0fQUu-CmVnVtcVLP8mWlpqq_a6q558J5kRDI8ejO19ssAcyOd9c8DX5Avdi7YOCDuSI82D-9QwPqXq7mfRionmodiAAeEvDCdtbyDkJo0_ar-qJgfq/s1600/linux.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/rocinante-trojan-poses-as-banking-apps.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Mobile users in Brazil are the target of a new malware campaign that delivers a new Android banking trojan named Rocinante.\n\n\"This malware family is capable of performing keylogging using the Accessibility Service, and is also able to steal PII from its victims using phishing screens posing as different banks,\" Dutch security company ThreatFabric said.\n\n\"Finally, it can use all this exfiltrated",

@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-03T13:43:47.718Z</updated>
+    <updated>2024-09-03T14:11:47.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus]]></title>
+        <id>https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html</id>
+        <link href="https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html"/>
+        <updated>2024-09-03T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[A hacktivist group known as Head Mare has been linked to cyber attacks that exclusively target organizations located in Russia and Belarus.
+"Head Mare uses more up-to-date methods for obtaining initial access," Kaspersky said in a Monday analysis of the group's tactics and tools.
+"For instance, the attackers took advantage of the relatively recent CVE-2023-38831 vulnerability in WinRAR, which]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Rust-Based Ransomware Cicada3301 Targets Windows and Linux Systems]]></title>
+        <id>https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html</id>
+        <link href="https://thehackernews.com/2024/09/new-rust-based-ransomware-cicada3301.html"/>
+        <updated>2024-09-03T13:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have unpacked the inner workings of a new ransomware variant called Cicada3301 that shares similarities with the now-defunct BlackCat (aka ALPHV) operation.
+"It appears that Cicada3301 ransomware primarily targets small to medium-sized businesses (SMBs), likely through opportunistic attacks that exploit vulnerabilities as the initial access vector," cybersecurity]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulnérabilité dans les produits VMware (03 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0732/</id>
