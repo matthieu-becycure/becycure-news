@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-03T07:26:31.547Z</updated>
+    <updated>2024-09-03T07:43:34.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Secrets Exposed: Why Your CISO Should Worry About Slack]]></title>
+        <id>https://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html</id>
+        <link href="https://thehackernews.com/2024/09/secrets-exposed-why-your-ciso-should.html"/>
+        <updated>2024-09-03T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the digital realm, secrets (API keys, private keys, username and password combos, etc.) are the keys to the kingdom. But what if those keys were accidentally left out in the open in the very tools we use to collaborate every day?
+A Single Secret Can Wreak Havoc
+Imagine this: It's a typical Tuesday in June 2024. Your dev team is knee-deep in sprints, Jira tickets are flying, and Slack is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Flaws in Microsoft macOS Apps Could Allow Hackers to Gain Unrestricted Access]]></title>
         <id>https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html</id>
