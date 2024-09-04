@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-04T09:13:13.328Z</updated>
+    <updated>2024-09-04T09:30:15.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Clearview AI Faces €30.5M Fine for Building Illegal Facial Recognition Database]]></title>
+        <id>https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html</id>
+        <link href="https://thehackernews.com/2024/09/clearview-ai-faces-305m-fine-for.html"/>
+        <updated>2024-09-04T08:43:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dutch Data Protection Authority (Dutch DPA) has imposed a fine of €30.5 million ($33.7 million) against facial recognition firm Clearview AI for violating the General Data Protection Regulation (GDPR) in the European Union (E.U.) by building an "illegal database with billions of photos of faces," including those of Dutch citizens.
+"Facial recognition is a highly intrusive technology that you]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack]]></title>
         <id>https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html</id>
