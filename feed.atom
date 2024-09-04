@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-04T00:57:59.167Z</updated>
+    <updated>2024-09-04T02:10:37.602Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2497,17 +2497,6 @@ The vulnerability, tracked as CVE-2024-36971, has been described as a case of re
         <summary type="html"><![CDATA[A new zero-day pre-authentication remote code execution vulnerability has been disclosed in the Apache OFBiz open-source enterprise resource planning (ERP) system that could allow threat actors to achieve remote code execution on affected instances.
 Tracked as CVE-2024-38856, the flaw has a CVSS score of 9.8 out of a maximum of 10.0. It affects Apache OFBiz versions prior to 18.12.15.
 "The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover Flaws in Windows Smart App Control and SmartScreen]]></title>
-        <id>https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html</id>
-        <link href="https://thehackernews.com/2024/08/researchers-uncover-flaws-in-windows.html"/>
-        <updated>2024-08-05T13:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered design weaknesses in Microsoft's Windows Smart App Control and SmartScreen that could enable threat actors to gain initial access to target environments without raising any warnings.
-Smart App Control (SAC) is a cloud-powered security feature introduced by Microsoft in Windows 11 to block malicious, untrusted, and potentially unwanted apps from being run]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
