@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlz59vQU4Xf_etL3k_9DIQH3sug8cvmLvK38yezMtVd3D321wlGuQJLr_De53d6uu4bOFRKkK-JjVhpTW8EUsnIToBYTOGIvyN4awSe4MkNCk6Tlw4AqihodN4jNrDpF-dvpr4CAy6GNFMJfwx8QK5_MuaWyuUuNskA4o-wyNQOdxfkOCbPYuAJIB_vvQf/s1600/c2.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlz59vQU4Xf_etL3k_9DIQH3sug8cvmLvK38yezMtVd3D321wlGuQJLr_De53d6uu4bOFRKkK-JjVhpTW8EUsnIToBYTOGIvyN4awSe4MkNCk6Tlw4AqihodN4jNrDpF-dvpr4CAy6GNFMJfwx8QK5_MuaWyuUuNskA4o-wyNQOdxfkOCbPYuAJIB_vvQf/s1600/c2.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Users in Russia have been the target of a previously undocumented Android post-compromise spyware called LianSpy since at least 2021.\nCybersecurity vendor Kaspersky, which discovered the malware in March 2024, noted its use of Yandex Cloud, a Russian cloud service, for command-and-control (C2) communications as a way to avoid having a dedicated infrastructure and evade detection.\n\"This threat is",
-          "link": "https://thehackernews.com/2024/08/new-android-spyware-lianspy-evades.html",
-          "publishedOn": "2024-08-06T09:36:00.000Z",
-          "wordCount": null,
-          "title": "New Android Spyware LianSpy Evades Detection Using Yandex Cloud",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s1600/russian-android-spuware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivOqCZOxV7LD9U-qFXevwZcGiUAzFK63iSc_9yzpBpNXE0ys12j3LLQNQddhGoLsLB-oQevIijfOuO9w489l7FFp3LIwDqkZlhXVnG47E02Ki2LJJpoMNV9kqNXfj7ABWqNh3-u9kT4gkD0jZPr8ZUOgpLhzPQ9JdMVv7z8Un0o9xbZLD65WAX8yus-2cT/s1600/russian-android-spuware.png"
         }
       ]
     },
