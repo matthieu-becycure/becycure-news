@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-04T15:43:44.709Z</updated>
+    <updated>2024-09-04T16:15:09.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Targets Job Seekers with Fake FreeConference App]]></title>
+        <id>https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html</id>
+        <link href="https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html"/>
+        <updated>2024-09-04T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korean threat actors have leveraged a fake Windows video conferencing application impersonating FreeConference.com to backdoor developer systems as part of an ongoing financially-driven campaign dubbed Contagious Interview.
+The new attack wave, spotted by Singaporean company Group-IB in mid-August 2024, is yet another indication that the activity is also leveraging native installers for]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Confirms CVE-2024-32896 Exploited in the Wild, Releases Android Security Patch]]></title>
         <id>https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html</id>

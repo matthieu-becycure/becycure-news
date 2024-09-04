@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "North Korean threat actors have leveraged a fake Windows video conferencing application impersonating FreeConference.com to backdoor developer systems as part of an ongoing financially-driven campaign dubbed Contagious Interview.\nThe new attack wave, spotted by Singaporean company Group-IB in mid-August 2024, is yet another indication that the activity is also leveraging native installers for",
+          "link": "https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html",
+          "publishedOn": "2024-09-04T15:52:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Targets Job Seekers with Fake FreeConference App",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiBB9ZcpErY96m12zTHmpAjWSz85vx3RP4bPUv4Qqu3WrToApYYBUyVHQ2VHl04c6Eg2HhKpz8LsW7H_REOrQ81Dq4HdRvjV9_P6X7xMsoxpFEPuYDKCo7RCUOrwaXbkEkOtieNifdeAgDpccT_H9l30Bsm-2UVm6abTquTlIk0j8L9lMiKYPDjt6i_Y9z/s1600/northkorea.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiBB9ZcpErY96m12zTHmpAjWSz85vx3RP4bPUv4Qqu3WrToApYYBUyVHQ2VHl04c6Eg2HhKpz8LsW7H_REOrQ81Dq4HdRvjV9_P6X7xMsoxpFEPuYDKCo7RCUOrwaXbkEkOtieNifdeAgDpccT_H9l30Bsm-2UVm6abTquTlIk0j8L9lMiKYPDjt6i_Y9z/s1600/northkorea.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/google-confirms-cve-2024-32896.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has released its monthly security updates for the Android operating system to address a known security flaw that it said has come under active exploitation in the wild.\nThe high-severity vulnerability, tracked as CVE-2024-32896 (CVSS score: 7.8), relates to a case of privilege escalation in the Android Framework component.\nAccording to the description of the bug in the NIST National",
