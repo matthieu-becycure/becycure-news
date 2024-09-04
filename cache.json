@@ -2420,22 +2420,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOmWBoSLADmnp2MP1-aZFr69TZSINQ7dmf-QTCg3MG8xKF5Hs7jqV35vdeKAYawTV8KouFMFBVonwkibIGPSaLQCvxB9qbQlxHy2qAU6VnhzXu0JnHacxW16YNDeS5wKgQBeahR1cY-LGPSZqIXQ0vh5Hv5eHkAa_nNyUUy7CYWdPdtOXAODGaBH-iMxFm/s1600/android.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOmWBoSLADmnp2MP1-aZFr69TZSINQ7dmf-QTCg3MG8xKF5Hs7jqV35vdeKAYawTV8KouFMFBVonwkibIGPSaLQCvxB9qbQlxHy2qAU6VnhzXu0JnHacxW16YNDeS5wKgQBeahR1cY-LGPSZqIXQ0vh5Hv5eHkAa_nNyUUy7CYWdPdtOXAODGaBH-iMxFm/s1600/android.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new zero-day pre-authentication remote code execution vulnerability has been disclosed in the Apache OFBiz open-source enterprise resource planning (ERP) system that could allow threat actors to achieve remote code execution on affected instances.\nTracked as CVE-2024-38856, the flaw has a CVSS score of 9.8 out of a maximum of 10.0. It affects Apache OFBiz versions prior to 18.12.15.\n\"The",
-          "link": "https://thehackernews.com/2024/08/new-zero-day-flaw-in-apache-ofbiz-erp.html",
-          "publishedOn": "2024-08-06T04:16:00.000Z",
-          "wordCount": null,
-          "title": "New Zero-Day Flaw in Apache OFBiz ERP Allows Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6z03tPT6k-6mpiOgUoksJJxdNimYFqqogPJiPVpjyJ5GGSA3I-NhvltV2FinTF0mfVbQUdlAKR9vOnmfU5j3BkA8cuK2ls7p2-bpurEsJRUalWbP1YqInS-o1G73Qza8BHDLY2xYBaRezSRQdRItCrVtb1WbsxPkJDlG9GT_b0aQAOiCqsoGjD32aJMoZ/s1600/apache.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6z03tPT6k-6mpiOgUoksJJxdNimYFqqogPJiPVpjyJ5GGSA3I-NhvltV2FinTF0mfVbQUdlAKR9vOnmfU5j3BkA8cuK2ls7p2-bpurEsJRUalWbP1YqInS-o1G73Qza8BHDLY2xYBaRezSRQdRItCrVtb1WbsxPkJDlG9GT_b0aQAOiCqsoGjD32aJMoZ/s1600/apache.png"
         }
       ]
     },
