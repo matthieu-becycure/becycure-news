@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-04T05:32:12.535Z</updated>
+    <updated>2024-09-04T05:43:25.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack]]></title>
+        <id>https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html</id>
+        <link href="https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html"/>
+        <updated>2024-09-04T05:31:00.000Z</updated>
+        <summary type="html"><![CDATA[A new malware campaign is spoofing Palo Alto Networks' GlobalProtect VPN software to deliver a variant of the WikiLoader (aka WailingCrab) loader by means of a search engine optimization (SEO) campaign.
+
+The malvertising activity, observed in June 2024, is a departure from previously observed tactics wherein the malware has been propagated via traditional phishing emails, Unit 42 researchers]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacktivists Exploits WinRAR Vulnerability in Attacks Against Russia and Belarus]]></title>
         <id>https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html</id>

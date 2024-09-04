@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new malware campaign is spoofing Palo Alto Networks' GlobalProtect VPN software to deliver a variant of the WikiLoader (aka WailingCrab) loader by means of a search engine optimization (SEO) campaign.\n\nThe malvertising activity, observed in June 2024, is a departure from previously observed tactics wherein the malware has been propagated via traditional phishing emails, Unit 42 researchers",
+          "link": "https://thehackernews.com/2024/09/hackers-use-fake-globalprotect-vpn.html",
+          "publishedOn": "2024-09-04T05:31:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Use Fake GlobalProtect VPN Software in New WikiLoader Malware Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDg4-mjQ-RpL-zK6OBUbXQfrhWdmap-KZrWSQFyjovAtN7ApDnvyTByFsrFuomTP3EU6F9BJ9gtLcwczReAdxgqFO1PqjEXYhSWIYtNwyrILaT_98e0zWPQ1RHrfuKK9aupae1CLZRErhtGzFoDorJKHqlxPQfqfEpIPWpbPn80f1mTQ_S3zCl-7qQ-b4/s1600/Vpn.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbDg4-mjQ-RpL-zK6OBUbXQfrhWdmap-KZrWSQFyjovAtN7ApDnvyTByFsrFuomTP3EU6F9BJ9gtLcwczReAdxgqFO1PqjEXYhSWIYtNwyrILaT_98e0zWPQ1RHrfuKK9aupae1CLZRErhtGzFoDorJKHqlxPQfqfEpIPWpbPn80f1mTQ_S3zCl-7qQ-b4/s1600/Vpn.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/hacktivists-exploits-winrar.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A hacktivist group known as Head Mare has been linked to cyber attacks that exclusively target organizations located in Russia and Belarus.\n\"Head Mare uses more up-to-date methods for obtaining initial access,\" Kaspersky said in a Monday analysis of the group's tactics and tools.\n\"For instance, the attackers took advantage of the relatively recent CVE-2023-38831 vulnerability in WinRAR, which",
