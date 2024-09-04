@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Zyxel has released software updates to address a critical security flaw impacting certain access point (AP) and security router versions that could result in the execution of unauthorized commands.\n\nTracked as CVE-2024-7261 (CVSS score: 9.8), the vulnerability has been described as a case of operating system (OS) command injection.\n\n\"The improper neutralization of special elements in the",
+          "link": "https://thehackernews.com/2024/09/zyxel-patches-critical-os-command.html",
+          "publishedOn": "2024-09-04T11:27:00.000Z",
+          "wordCount": null,
+          "title": "Zyxel Patches Critical OS Command Injection Flaw in Access Points and Routers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK_r3anov1AcRNGaTL9V8GV4bafj49gjKYHWEuFc0aUkdnEpQBtelQp-iSCtB2duIyQOkLXMt5nlW1m-W6Zy-5cawC8Zl07vmiQLw_TQNkKg6NCNv7bKcKtPJ-VTm-HW6XwOsxiUp9V6YlclABSJoDa_uWt5SktpPTRU0nH1Ln9J-5R571G-F7R9ZNcxqP/s1600/router.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK_r3anov1AcRNGaTL9V8GV4bafj49gjKYHWEuFc0aUkdnEpQBtelQp-iSCtB2duIyQOkLXMt5nlW1m-W6Zy-5cawC8Zl07vmiQLw_TQNkKg6NCNv7bKcKtPJ-VTm-HW6XwOsxiUp9V6YlclABSJoDa_uWt5SktpPTRU0nH1Ln9J-5R571G-F7R9ZNcxqP/s1600/router.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/the-new-effective-way-to-prevent.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Account takeover attacks have emerged as one of the most persistent and damaging threats to cloud-based SaaS environments. Yet despite significant investments in traditional security measures, many organizations continue to struggle with preventing these attacks. A new report, \"Why Account Takeover Attacks Still Succeed, and Why the Browser is Your Secret Weapon in Stopping Them\" argues that the",
