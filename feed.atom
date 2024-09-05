@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T16:47:11.450Z</updated>
+    <updated>2024-09-05T17:10:59.889Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East]]></title>
+        <id>https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html</id>
+        <link href="https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html"/>
+        <updated>2024-09-05T16:19:00.000Z</updated>
+        <summary type="html"><![CDATA[Unnamed government entities in the Middle East and Malaysia are the target of a persistent cyber campaign orchestrated by a threat actor known as Tropic Trooper since June 2023.
+"Sighting this group's [Tactics, Techniques, and Procedures] in critical governmental entities in the Middle East, particularly those related to human rights studies, marks a new strategic move for them," Kaspersky]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veeam Releases Security Updates to Fix 18 Flaws, Including 5 Critical Issues]]></title>
+        <id>https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html</id>
+        <link href="https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html"/>
+        <updated>2024-09-05T16:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Veeam has shipped security updates to address a total of 18 security flaws impacting its software products, including five critical vulnerabilities that could result in remote code execution.
+The list of shortcomings is below -
+
+CVE-2024-40711 (CVSS score: 9.8) - A vulnerability in Veeam Backup & Replication that allows unauthenticated remote code execution.
+
+
+CVE-2024-42024 (CVSS score: 9.1]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans ClamAV (05 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/</id>

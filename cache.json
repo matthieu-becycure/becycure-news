@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Unnamed government entities in the Middle East and Malaysia are the target of a persistent cyber campaign orchestrated by a threat actor known as Tropic Trooper since June 2023.\n\"Sighting this group's [Tactics, Techniques, and Procedures] in critical governmental entities in the Middle East, particularly those related to human rights studies, marks a new strategic move for them,\" Kaspersky",
+          "link": "https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html",
+          "publishedOn": "2024-09-05T16:19:00.000Z",
+          "wordCount": null,
+          "title": "Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s1600/chinese-hackers.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s1600/chinese-hackers.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Veeam has shipped security updates to address a total of 18 security flaws impacting its software products, including five critical vulnerabilities that could result in remote code execution.\nThe list of shortcomings is below -\n\nCVE-2024-40711 (CVSS score: 9.8) - A vulnerability in Veeam Backup & Replication that allows unauthenticated remote code execution.\n\n\nCVE-2024-42024 (CVSS score: 9.1",
+          "link": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
+          "publishedOn": "2024-09-05T16:05:00.000Z",
+          "wordCount": null,
+          "title": "Veeam Releases Security Updates to Fix 18 Flaws, Including 5 Critical Issues",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 32 internet domains used by a pro-Russian propaganda operation called Doppelganger as part of a sweeping set of actions.\nAccusing the Russian government-directed foreign malign influence campaign of violating U.S. money laundering and criminal trademark laws, the agency called out companies Social Design Agency (SDA),",
