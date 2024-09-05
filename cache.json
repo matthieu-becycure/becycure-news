@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5YB3bwk3OIyl0ZqBULKUWDGb2Gn3XnAD8Jfl5qBUs1xnAhZbxOKJOVyE4eB5DXQI-XjbyCRbwRxhiByayenxBRBMuw9wgS8KFgnWleSHGoElMGmc9LsoADNYzY9KkG5LHYOIAilfrttbrReBAEg6yDJe0VOn-6fmCtUb0aYUZXfzI5XfMSyZ85kT1TT-/s1600/roundcube.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX5YB3bwk3OIyl0ZqBULKUWDGb2Gn3XnAD8Jfl5qBUs1xnAhZbxOKJOVyE4eB5DXQI-XjbyCRbwRxhiByayenxBRBMuw9wgS8KFgnWleSHGoElMGmc9LsoADNYzY9KkG5LHYOIAilfrttbrReBAEg6yDJe0VOn-6fmCtUb0aYUZXfzI5XfMSyZ85kT1TT-/s1600/roundcube.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "An unnamed media organization in South Asia was targeted in November 20233 using a previously undocumented Go-based backdoor called GoGra.\n\"GoGra is written in Go and uses the Microsoft Graph API to interact with a command-and-control (C&C) server hosted on Microsoft mail services,\" Symantec, part of Broadcom, said in a report shared with The Hacker News.\nIt's currently not clear how it's",
-          "link": "https://thehackernews.com/2024/08/new-go-based-backdoor-gogra-targets.html",
-          "publishedOn": "2024-08-07T10:41:00.000Z",
-          "wordCount": null,
-          "title": "New Go-based Backdoor GoGra Targets South Asian Media Organization",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s1600/cyberattack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s1600/cyberattack.png"
         }
       ]
     },
