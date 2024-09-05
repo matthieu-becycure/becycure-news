@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T05:43:31.316Z</updated>
+    <updated>2024-09-05T06:17:21.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm]]></title>
+        <id>https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html</id>
+        <link href="https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html"/>
+        <updated>2024-09-05T05:03:00.000Z</updated>
+        <summary type="html"><![CDATA[The Chinese-speaking threat actor known as Earth Lusca has been observed using a new backdoor dubbed KTLVdoor as part of a cyber attack targeting an unnamed trading company based in China.
+
+The previously unreported malware is written in Golang, and thus is a cross-platform weapon capable of targeting both Microsoft Windows and Linux systems.
+
+"KTLVdoor is a highly obfuscated malware that]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks]]></title>
         <id>https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html</id>
