@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T17:43:29.524Z</updated>
+    <updated>2024-09-05T18:15:37.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2685,17 +2685,6 @@ The "Channel File 291" incident, as originally highlighted in its Preliminary Po
         <updated>2024-08-07T06:25:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have lifted the lid on a new technique adopted by threat actors behind the Chameleon Android banking trojan targeting users in Canada by masquerading as a Customer Relationship Management (CRM) app.
 "Chameleon was seen masquerading as a CRM app, targeting a Canadian restaurant chain operating internationally," Dutch security outfit ThreatFabric said in a technical]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple’s New macOS Sequoia Tightens Gatekeeper Controls to Block Unauthorized Software]]></title>
-        <id>https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html</id>
-        <link href="https://thehackernews.com/2024/08/apples-new-macos-sequoia-tightens.html"/>
-        <updated>2024-08-07T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple on Tuesday announced an update to its next-generation macOS version that makes it a little more difficult for users to override Gatekeeper protections.
-Gatekeeper is a crucial line of defense built into macOS designed to ensure that only trusted apps run on the operating system. When an app is downloaded from outside of the App Store and opened for the first time, it verifies that the]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
