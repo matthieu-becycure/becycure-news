@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T22:11:37.760Z</updated>
+    <updated>2024-09-05T22:31:20.299Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2623,17 +2623,6 @@ The vulnerability in question is CVE-2024-4885 (CVSS score: 9.8), an unauthentic
         <summary type="html"><![CDATA[An unnamed media organization in South Asia was targeted in November 20233 using a previously undocumented Go-based backdoor called GoGra.
 "GoGra is written in Go and uses the Microsoft Graph API to interact with a command-and-control (C&C) server hosted on Microsoft mail services," Symantec, part of Broadcom, said in a report shared with The Hacker News.
 It's currently not clear how it's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrowdStrike Reveals Root Cause of Global System Outages]]></title>
-        <id>https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html</id>
-        <link href="https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html"/>
-        <updated>2024-08-07T10:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity company CrowdStrike has published its root cause analysis detailing the Falcon Sensor software update crash that crippled millions of Windows devices globally.
-The "Channel File 291" incident, as originally highlighted in its Preliminary Post Incident Review (PIR), has been traced back to a content validation issue that arose after it introduced a new Template Type to enable]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

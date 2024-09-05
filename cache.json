@@ -2404,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s1600/cyberattack.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuim1UlAUR-iKBziT1BUU4nm6SNgwZaOOcJ8j_auM91hpLEOFZpmHVkutctdKfi8S4jeeyz_7TiWlv0xO0kUGVPOqAxDcEU7ShIGzLEOJ2ufDveReH-bscdBjVpKZTWKxo6-I4cPH27IWmzFeTcIwRlgXe6WIDKql3mKKUFiA4-LgNkRtFIcCzq-9xQajs/s1600/cyberattack.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity company CrowdStrike has published its root cause analysis detailing the Falcon Sensor software update crash that crippled millions of Windows devices globally.\nThe \"Channel File 291\" incident, as originally highlighted in its Preliminary Post Incident Review (PIR), has been traced back to a content validation issue that arose after it introduced a new Template Type to enable",
-          "link": "https://thehackernews.com/2024/08/crowdstrike-reveals-root-cause-of.html",
-          "publishedOn": "2024-08-07T10:28:00.000Z",
-          "wordCount": null,
-          "title": "CrowdStrike Reveals Root Cause of Global System Outages",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-x3BuKhJJZfpYpFbt1Av2bF8bIJVj_x5hn7CAmzHPMB_EVe7b1TIpyG_-FFWoxx_kKjfiekCEkopm9EST_AwXGfJlzKmDmttVpaS55ipVGwAwWs1D2lLsXCCZPwLGhTZiIVLE5ma7OluQuQXUX3UfwMokiDEIb0W_RVaLRePyA5tVimD1qDToxg7xtSw/s1600/crash.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1-x3BuKhJJZfpYpFbt1Av2bF8bIJVj_x5hn7CAmzHPMB_EVe7b1TIpyG_-FFWoxx_kKjfiekCEkopm9EST_AwXGfJlzKmDmttVpaS55ipVGwAwWs1D2lLsXCCZPwLGhTZiIVLE5ma7OluQuQXUX3UfwMokiDEIb0W_RVaLRePyA5tVimD1qDToxg7xtSw/s1600/crash.png"
         }
       ]
     },
