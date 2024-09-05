@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It’s been a decade since the National Institute of Standards and Technology (NIST) introduced its Cybersecurity Framework (CSF) 1.0. Created following a 2013 Executive Order, NIST was tasked with designing a voluntary cybersecurity framework that would help organizations manage cyber risk, providing guidance based on established standards and best practices. While this version was originally",
+          "link": "https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html",
+          "publishedOn": "2024-09-05T09:19:00.000Z",
+          "wordCount": null,
+          "title": "NIST Cybersecurity Framework (CSF) and CTEM – Better Together",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnIPPN1y36Wc_w9W_zuSsOnZfFx6-SPyoJKTKOE-CW86BEENAGhqPy6pjlewKXFDAZ7owVa9r7mhYZ5pbFB2A5AvfWKDXV08K966_Kbh1Za3ycYEkVb_g7wZAzt7Zc4U_mzQbD-MbJ5KwpmnL14x9I3ylKRC9vFTUDgwcrE5a-ReohDCGMPcvJyUHWeE/s1600/1.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTnIPPN1y36Wc_w9W_zuSsOnZfFx6-SPyoJKTKOE-CW86BEENAGhqPy6pjlewKXFDAZ7owVa9r7mhYZ5pbFB2A5AvfWKDXV08K966_Kbh1Za3ycYEkVb_g7wZAzt7Zc4U_mzQbD-MbJ5KwpmnL14x9I3ylKRC9vFTUDgwcrE5a-ReohDCGMPcvJyUHWeE/s1600/1.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are likely employing a tool designated for red teaming exercises to serve malware, according to new findings from Cisco Talos.\n\nThe program in question is a payload generation framework called MacroPack, which is used to generate Office documents, Visual Basic scripts, Windows shortcuts, and other formats for penetration testing and social engineering assessments. It was developed",
