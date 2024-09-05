@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T04:44:47.818Z</updated>
+    <updated>2024-09-05T05:12:10.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks]]></title>
+        <id>https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html</id>
+        <link href="https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html"/>
+        <updated>2024-09-05T04:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco has released security updates for two critical security flaws impacting its Smart Licensing Utility that could allow unauthenticated, remote attackers to elevate their privileges or access sensitive information.
+A brief description of the two vulnerabilities is below -
+
+CVE-2024-20439 (CVSS score: 9.8) - The presence of an undocumented static user credential for an administrative account]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Targets Job Seekers with Fake FreeConference App]]></title>
         <id>https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html</id>

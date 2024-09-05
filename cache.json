@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco has released security updates for two critical security flaws impacting its Smart Licensing Utility that could allow unauthenticated, remote attackers to elevate their privileges or access sensitive information.\nA brief description of the two vulnerabilities is below -\n\nCVE-2024-20439 (CVSS score: 9.8) - The presence of an undocumented static user credential for an administrative account",
+          "link": "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html",
+          "publishedOn": "2024-09-05T04:40:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pdAfBVqKScsbfrhpJakVugyR-dj5ozY_kco-HZ8Sm1aQMLa9Quql4NHGF0BJANx8BTL4vZHXgkbI6jtTAYjgrPnjq9jfgNNTMUOi5OX9ypF-RP9Hm2Qyev1BRkRPwr9eg9n7niGnixjoiEhPEamZAI61vPIt5gG9iAG_aWxrAW1U33MQWWYupat6Cc7Q/s1600/cisc.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pdAfBVqKScsbfrhpJakVugyR-dj5ozY_kco-HZ8Sm1aQMLa9Quql4NHGF0BJANx8BTL4vZHXgkbI6jtTAYjgrPnjq9jfgNNTMUOi5OX9ypF-RP9Hm2Qyev1BRkRPwr9eg9n7niGnixjoiEhPEamZAI61vPIt5gG9iAG_aWxrAW1U33MQWWYupat6Cc7Q/s1600/cisc.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/north-korean-hackers-targets-job.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "North Korean threat actors have leveraged a fake Windows video conferencing application impersonating FreeConference.com to backdoor developer systems as part of an ongoing financially-driven campaign dubbed Contagious Interview.\nThe new attack wave, spotted by Singaporean company Group-IB in mid-August 2024, is yet another indication that the activity is also leveraging native installers for",
