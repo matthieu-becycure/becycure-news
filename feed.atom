@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T07:43:33.359Z</updated>
+    <updated>2024-09-05T08:16:07.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore]]></title>
+        <id>https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html</id>
+        <link href="https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html"/>
+        <updated>2024-09-05T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are likely employing a tool designated for red teaming exercises to serve malware, according to new findings from Cisco Talos.
+
+The program in question is a payload generation framework called MacroPack, which is used to generate Office documents, Visual Basic scripts, Windows shortcuts, and other formats for penetration testing and social engineering assessments. It was developed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm]]></title>
         <id>https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html</id>

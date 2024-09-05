@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are likely employing a tool designated for red teaming exercises to serve malware, according to new findings from Cisco Talos.\n\nThe program in question is a payload generation framework called MacroPack, which is used to generate Office documents, Visual Basic scripts, Windows shortcuts, and other formats for penetration testing and social engineering assessments. It was developed",
+          "link": "https://thehackernews.com/2024/09/malware-attackers-using-macropack-to.html",
+          "publishedOn": "2024-09-05T07:45:00.000Z",
+          "wordCount": null,
+          "title": "Malware Attackers Using MacroPack to Deliver Havoc, Brute Ratel, and PhantomCore",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaP_XZ8zY6oVEzwRJ1ZdOpFh7_gfB22B2mu6nRf2w9r3A4iD9TjOcDBQ4aD6hCCj7dfeyFGZBcoukAuZHTu-o6PSPXc-P0guW4ZZGpbsp62hca5ONjTLHqlBajOD7HUK7sbeWfDQyBHsJxIiLapN070cIyUPjzP6n130hVotnJrQE1OnuWGk9eDnJEi_G/s1600/talos.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaP_XZ8zY6oVEzwRJ1ZdOpFh7_gfB22B2mu6nRf2w9r3A4iD9TjOcDBQ4aD6hCCj7dfeyFGZBcoukAuZHTu-o6PSPXc-P0guW4ZZGpbsp62hca5ONjTLHqlBajOD7HUK7sbeWfDQyBHsJxIiLapN070cIyUPjzP6n130hVotnJrQE1OnuWGk9eDnJEi_G/s1600/talos.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Chinese-speaking threat actor known as Earth Lusca has been observed using a new backdoor dubbed KTLVdoor as part of a cyber attack targeting an unnamed trading company based in China.\n\nThe previously unreported malware is written in Golang, and thus is a cross-platform weapon capable of targeting both Microsoft Windows and Linux systems.\n\n\"KTLVdoor is a highly obfuscated malware that",
