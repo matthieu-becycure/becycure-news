@@ -3337,16 +3337,6 @@
           "wordCount": 419,
           "title": "Multiples vulnérabilités dans GitLab (08 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0658/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0658/",
-          "publishedOn": "2024-08-07T09:20:54.000Z",
-          "wordCount": 343,
-          "title": "Multiples vulnérabilités dans Google Chrome (07 août 2024)",
-          "imageUrl": null
         }
       ]
     }
