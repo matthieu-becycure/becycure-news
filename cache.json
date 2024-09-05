@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 32 internet domains used by a pro-Russian propaganda operation called Doppelganger as part of a sweeping set of actions.\nAccusing the Russian government-directed foreign malign influence campaign of violating U.S. money laundering and criminal trademark laws, the agency called out companies Social Design Agency (SDA),",
+          "link": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
+          "publishedOn": "2024-09-05T12:04:00.000Z",
+          "wordCount": null,
+          "title": "U.S. Seizes 32 Pro-Russian Propaganda Domains in Major Disinformation Crackdown",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebs5cmH5AJR4EA9q7ZJmD4qvvHNbnDXP5-fR0uBQRiDMtUKV_ciqWBZ3fsz-JYT95lNd83t9GLeB6yP6YSRaUdL1jMK8XMCELh1sNlf76a4unNpKLY75VsBxdOaRi7NYL2sL9fL4Wm2r9Z1hTVE7sqaqcTzefp-CYCzTCV5S_tb2DOUAac1fhsYq6F9SV/s1600/fakenews.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebs5cmH5AJR4EA9q7ZJmD4qvvHNbnDXP5-fR0uBQRiDMtUKV_ciqWBZ3fsz-JYT95lNd83t9GLeB6yP6YSRaUdL1jMK8XMCELh1sNlf76a4unNpKLY75VsBxdOaRi7NYL2sL9fL4Wm2r9Z1hTVE7sqaqcTzefp-CYCzTCV5S_tb2DOUAac1fhsYq6F9SV/s1600/fakenews.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "It’s been a decade since the National Institute of Standards and Technology (NIST) introduced its Cybersecurity Framework (CSF) 1.0. Created following a 2013 Executive Order, NIST was tasked with designing a voluntary cybersecurity framework that would help organizations manage cyber risk, providing guidance based on established standards and best practices. While this version was originally",

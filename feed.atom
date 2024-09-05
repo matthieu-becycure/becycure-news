@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-05T13:00:33.483Z</updated>
+    <updated>2024-09-05T13:31:53.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Seizes 32 Pro-Russian Propaganda Domains in Major Disinformation Crackdown]]></title>
+        <id>https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html</id>
+        <link href="https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html"/>
+        <updated>2024-09-05T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 32 internet domains used by a pro-Russian propaganda operation called Doppelganger as part of a sweeping set of actions.
+Accusing the Russian government-directed foreign malign influence campaign of violating U.S. money laundering and criminal trademark laws, the agency called out companies Social Design Agency (SDA),]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIST Cybersecurity Framework (CSF) and CTEM – Better Together]]></title>
         <id>https://thehackernews.com/2024/09/nist-cybersecurity-framework-csf-and.html</id>
