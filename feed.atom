@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T15:43:42.065Z</updated>
+    <updated>2024-09-06T16:14:37.071Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware]]></title>
+        <id>https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html</id>
+        <link href="https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html"/>
+        <updated>2024-09-06T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A recently disclosed security flaw in OSGeo GeoServer GeoTools has been exploited as part of multiple campaigns to deliver cryptocurrency miners, botnet malware such as Condi and JenX, and a known backdoor called SideWalk.
+The security vulnerability is a critical remote code execution bug (CVE-2024-36401, CVSS score: 9.8) that could allow malicious actors to take over susceptible instances.
+In]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code]]></title>
+        <id>https://thehackernews.com/2024/09/github-actions-vulnerable-to.html</id>
+        <link href="https://thehackernews.com/2024/09/github-actions-vulnerable-to.html"/>
+        <updated>2024-09-06T15:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have long leveraged typosquatting as a means to trick unsuspecting users into visiting malicious websites or downloading booby-trapped software and packages.
+
+These attacks typically involve registering domains or packages with names slightly altered from their legitimate counterparts (e.g., goog1e.com vs. google.com).
+
+Adversaries targeting open-source repositories across]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans les produits IBM (06 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0750/</id>

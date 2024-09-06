@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A recently disclosed security flaw in OSGeo GeoServer GeoTools has been exploited as part of multiple campaigns to deliver cryptocurrency miners, botnet malware such as Condi and JenX, and a known backdoor called SideWalk.\nThe security vulnerability is a critical remote code execution bug (CVE-2024-36401, CVSS score: 9.8) that could allow malicious actors to take over susceptible instances.\nIn",
+          "link": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
+          "publishedOn": "2024-09-06T15:14:00.000Z",
+          "wordCount": null,
+          "title": "GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s1600/jeo.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s1600/jeo.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/github-actions-vulnerable-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have long leveraged typosquatting as a means to trick unsuspecting users into visiting malicious websites or downloading booby-trapped software and packages.\n\nThese attacks typically involve registering domains or packages with names slightly altered from their legitimate counterparts (e.g., goog1e.com vs. google.com).\n\nAdversaries targeting open-source repositories across",
+          "link": "https://thehackernews.com/2024/09/github-actions-vulnerable-to.html",
+          "publishedOn": "2024-09-06T15:03:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Actions Vulnerable to Typosquatting, Exposing Developers to Hidden Malicious Code",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ouqKcDvZSytTquetMMAV8KwtIzuMmRC7FzZZbe3eFjobkEPNOJkrLZyIOL_p8Cvljb1dSlf9QtwnDU5sruAJNAStOu1dFI9D07wjJJGiDGJXc0-8KK5l_sGE6OKQJK_iGA5jx5k7oAOShKXmfTLRRPLqwq4-iqu_18WGN6mNR1yrpk1jOGL9RbR7XSep/s1600/Code.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ouqKcDvZSytTquetMMAV8KwtIzuMmRC7FzZZbe3eFjobkEPNOJkrLZyIOL_p8Cvljb1dSlf9QtwnDU5sruAJNAStOu1dFI9D07wjJJGiDGJXc0-8KK5l_sGE6OKQJK_iGA5jx5k7oAOShKXmfTLRRPLqwq4-iqu_18WGN6mNR1yrpk1jOGL9RbR7XSep/s1600/Code.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The 2024 State of the vCISO Report continues Cynomi’s tradition of examining the growing popularity of virtual Chief Information Security Officer (vCISO) services. According to the independent survey, the demand for these services is increasing, with both providers and clients reaping the rewards. The upward trend is set to continue, with even faster growth expected in the future. However,",
