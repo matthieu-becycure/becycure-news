@@ -3377,16 +3377,6 @@
           "wordCount": 370,
           "title": "Multiples vulnérabilités dans les produits Cisco (08 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0660/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0660/",
-          "publishedOn": "2024-08-08T07:29:34.000Z",
-          "wordCount": 512,
-          "title": "Multiples vulnérabilités dans Microsoft Windows (08 août 2024)",
-          "imageUrl": null
         }
       ]
     }
