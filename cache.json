@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The 2024 State of the vCISO Report continues Cynomi’s tradition of examining the growing popularity of virtual Chief Information Security Officer (vCISO) services. According to the independent survey, the demand for these services is increasing, with both providers and clients reaping the rewards. The upward trend is set to continue, with even faster growth expected in the future. However,",
+          "link": "https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html",
+          "publishedOn": "2024-09-06T09:37:00.000Z",
+          "wordCount": null,
+          "title": "The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2025",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-JzOxEtjlUyLJ5JwDHgO4iXpieUP81digrVVZRcEd1QLK7cP4ebH-mxVkLE4VnKNT7e4zTxCM9FWFxIS0MRpSfTKTw2TYkekfxPw0Q1R8Aos_QrSzQlTqygjGuXxPONe-7a_6Sp0iydaxr0QRmrRV-ZcuJmDl9wAU2gbZb0Ro2RMGA6Zi1eBNiBeLlk/s1600/cynomi.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-JzOxEtjlUyLJ5JwDHgO4iXpieUP81digrVVZRcEd1QLK7cP4ebH-mxVkLE4VnKNT7e4zTxCM9FWFxIS0MRpSfTKTw2TYkekfxPw0Q1R8Aos_QrSzQlTqygjGuXxPONe-7a_6Sp0iydaxr0QRmrRV-ZcuJmDl9wAU2gbZb0Ro2RMGA6Zi1eBNiBeLlk/s1600/cynomi.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/critical-security-flaw-found-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered yet another critical security flaw in the LiteSpeed Cache plugin for WordPress that could allow unauthenticated users to take control of arbitrary accounts.\nThe vulnerability, tracked as CVE-2024-44000 (CVSS score: 7.5), impacts versions before and including 6.4.1. It has been addressed in version 6.5.0.1. \n\"The plugin suffers from an",
