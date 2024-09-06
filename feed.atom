@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T21:28:59.803Z</updated>
+    <updated>2024-09-06T21:43:30.349Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2660,17 +2660,6 @@ The vulnerabilities are listed below -
 
 CVE-2024-38202 (CVSS score: 7.3) - Windows Update Stack Elevation of Privilege Vulnerability
 CVE-2024-21302 (CVSS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Phishing Scam Uses Google Drawings and WhatsApp Shortened Links]]></title>
-        <id>https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html</id>
-        <link href="https://thehackernews.com/2024/08/new-phishing-scam-uses-google-drawings.html"/>
-        <updated>2024-08-08T09:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a novel phishing campaign that leverages Google Drawings and shortened links generated via WhatsApp to evade detection and trick users into clicking on bogus links designed to steal sensitive information.
-"The attackers chose a group of the best-known websites in computing to craft the threat, including Google and WhatsApp to host the attack elements,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
