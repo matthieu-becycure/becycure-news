@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T19:10:45.502Z</updated>
+    <updated>2024-09-06T19:23:49.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2693,16 +2693,6 @@ CVE-2024-21302 (CVSS]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Elles permettent à un attaquant de provoquer une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unlock the Future of Cybersecurity: Exclusive, Next Era AI Insights and Cutting-Edge Training at SANS Network Security 2024]]></title>
-        <id>https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html</id>
-        <link href="https://thehackernews.com/2024/08/unlock-future-of-cybersecurity.html"/>
-        <updated>2024-08-08T07:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The Immersive Experience Happening This September in Las Vegas!In an era of relentless cybersecurity threats and rapid technological advancement, staying ahead of the curve is not just a necessity, but critical. SANS Institute, the premier global authority in cybersecurity training, is thrilled to announce Network Security 2024, a landmark event designed to empower cybersecurity professionals]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
