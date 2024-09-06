@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T21:43:30.349Z</updated>
+    <updated>2024-09-06T22:11:12.547Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2646,20 +2646,6 @@ The critical vulnerability "exposes a fundamental flaw in how browsers handle ne
         <link href="https://thehackernews.com/2024/08/automated-security-validation-one-very.html"/>
         <updated>2024-08-08T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[The last few years have seen more than a few new categories of security solutions arise in hopes of stemming a never-ending tidal wave of risks. One of these categories is Automated Security Validation (ASV), which provides the attacker’s perspective of exposures and equips security teams to continuously validate exposures, security measures, and remediation at scale. ASV is an important element]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Downgrade Attack Risks Exposing Patched Systems to Old Vulnerabilities]]></title>
-        <id>https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html</id>
-        <link href="https://thehackernews.com/2024/08/windows-downgrade-attack-risks-exposing.html"/>
-        <updated>2024-08-08T10:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft said it is developing security updates to address two loopholes that it said could be abused to stage downgrade attacks against the Windows update architecture and replace current versions of the Windows files with older versions.
-The vulnerabilities are listed below -
-
-CVE-2024-38202 (CVSS score: 7.3) - Windows Update Stack Elevation of Privilege Vulnerability
-CVE-2024-21302 (CVSS]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
