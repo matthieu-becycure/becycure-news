@@ -2429,6 +2429,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0750/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0750/",
+          "publishedOn": "2024-09-06T13:23:20.000Z",
+          "wordCount": 588,
+          "title": "Multiples vulnérabilités dans les produits IBM (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0749/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Elles permettent à un attaquant de provoquer un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0749/",
+          "publishedOn": "2024-09-06T13:18:31.000Z",
+          "wordCount": 690,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0748/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0748/",
+          "publishedOn": "2024-09-06T11:17:25.000Z",
+          "wordCount": 378,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0747/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans le noyau Linux de SUSE. Elle permet à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0747/",
+          "publishedOn": "2024-09-06T11:15:41.000Z",
+          "wordCount": 367,
+          "title": "Vulnérabilité dans le noyau Linux de SUSE (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0746/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0746/",
+          "publishedOn": "2024-09-06T06:10:14.000Z",
+          "wordCount": 341,
+          "title": "Multiples vulnérabilités dans Elastic Kibana (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/",
+          "publishedOn": "2024-09-06T05:59:20.000Z",
+          "wordCount": 343,
+          "title": "Vulnérabilité dans les produits Asterisk (06 septembre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
