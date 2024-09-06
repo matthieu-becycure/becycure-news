@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T05:32:51.223Z</updated>
+    <updated>2024-09-06T05:43:22.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html</id>
+        <link href="https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html"/>
+        <updated>2024-09-06T05:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A new security flaw has been addressed in the Apache OFBiz open-source enterprise resource planning (ERP) system that, if successfully exploited, could lead to unauthenticated remote code execution on Linux and Windows.
+The high-severity vulnerability, tracked as CVE-2024-45195 (CVSS score: 7.5), affects all versions of the software before 18.12.16.
+
+
+"An attacker with no valid]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pavel Durov Criticizes Outdated Laws After Arrest Over Telegram Criminal Activity]]></title>
+        <id>https://thehackernews.com/2024/09/paul-durov-criticizes-outdated-laws.html</id>
+        <link href="https://thehackernews.com/2024/09/paul-durov-criticizes-outdated-laws.html"/>
+        <updated>2024-09-06T04:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Telegram CEO Pavel Durov has broken his silence nearly two weeks after his arrest in France, stating the charges are misguided.
+"If a country is unhappy with an internet service, the established practice is to start a legal action against the service itself," Durov said in a 600-word statement on his Telegram account.
+"Using laws from the pre-smartphone era to charge a CEO with crimes committed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese-Speaking Hacker Group Targets Human Rights Studies in Middle East]]></title>
         <id>https://thehackernews.com/2024/09/chinese-speaking-hacker-group-targets.html</id>
