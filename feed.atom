@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-06T22:43:46.183Z</updated>
+    <updated>2024-09-06T23:13:01.065Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2636,16 +2636,6 @@ Kimsuky, also known by the names APT43, ARCHIPELAGO,]]></summary>
         <updated>2024-08-08T13:25:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new "0.0.0.0 Day" impacting all major web browsers that malicious websites could take advantage of to breach local networks.
 The critical vulnerability "exposes a fundamental flaw in how browsers handle network requests, potentially granting malicious actors access to sensitive services running on local devices," Oligo Security researcher Avi Lumelsky]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automated Security Validation: One (Very Important) Part of a Complete CTEM Framework]]></title>
-        <id>https://thehackernews.com/2024/08/automated-security-validation-one-very.html</id>
-        <link href="https://thehackernews.com/2024/08/automated-security-validation-one-very.html"/>
-        <updated>2024-08-08T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The last few years have seen more than a few new categories of security solutions arise in hopes of stemming a never-ending tidal wave of risks. One of these categories is Automated Security Validation (ASV), which provides the attacker’s perspective of exposures and equips security teams to continuously validate exposures, security measures, and remediation at scale. ASV is an important element]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
