@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-07T00:57:03.148Z</updated>
+    <updated>2024-09-07T02:07:38.657Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2625,17 +2625,6 @@ It also]]></summary>
         <summary type="html"><![CDATA[The North Korea-linked threat actor known as Kimsuky has been linked to a new set of attacks targeting university staff, researchers, and professors for intelligence gathering purposes.
 Cybersecurity firm Resilience said it identified the activity in late July 2024 after it observed an operation security (OPSEC) error made by the hackers.
 Kimsuky, also known by the names APT43, ARCHIPELAGO,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices]]></title>
-        <id>https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html</id>
-        <link href="https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html"/>
-        <updated>2024-08-08T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new "0.0.0.0 Day" impacting all major web browsers that malicious websites could take advantage of to breach local networks.
-The critical vulnerability "exposes a fundamental flaw in how browsers handle network requests, potentially granting malicious actors access to sensitive services running on local devices," Oligo Security researcher Avi Lumelsky]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

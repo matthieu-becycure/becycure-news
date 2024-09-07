@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3KecarZnV5rt-KFqvSsLMq9IYHU5oKhPIEAJV5VlH-fMOqkYDDQtwkCjXQ5ECcrVPR0H7kIZD-2RbuqYJdvits1yOcGo2cnjVNVmwHcUQ_0vHrVwDCgMxaYDrlSPmA93RlbUknIEP8YkO6C-DvYdSx9Wr4EDEpefJkYgbYyABJkwODiMZ8IzreCMYuPA/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3KecarZnV5rt-KFqvSsLMq9IYHU5oKhPIEAJV5VlH-fMOqkYDDQtwkCjXQ5ECcrVPR0H7kIZD-2RbuqYJdvits1yOcGo2cnjVNVmwHcUQ_0vHrVwDCgMxaYDrlSPmA93RlbUknIEP8YkO6C-DvYdSx9Wr4EDEpefJkYgbYyABJkwODiMZ8IzreCMYuPA/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new \"0.0.0.0 Day\" impacting all major web browsers that malicious websites could take advantage of to breach local networks.\nThe critical vulnerability \"exposes a fundamental flaw in how browsers handle network requests, potentially granting malicious actors access to sensitive services running on local devices,\" Oligo Security researcher Avi Lumelsky",
-          "link": "https://thehackernews.com/2024/08/0000-day-18-year-old-browser.html",
-          "publishedOn": "2024-08-08T13:25:00.000Z",
-          "wordCount": null,
-          "title": "0.0.0.0 Day: 18-Year-Old Browser Vulnerability Impacts MacOS and Linux Devices",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3mqFe9_EhIPEvV1F6Rvw3xe0KVtUplq4V4LkAjCqo-KuQsKqxzf5-K6Oe2sHtiuzEbuPWVA_peOCIc4-n9HkKix62BJUKqkFFEUcoyPt37onIkPLDk4vxmsrXVWG2BSFbdqaQfJlfI08d5UcBeJciUN7V_YXzd-4aYOKfLrVFbckhMrHPmT38fXWoIoF/s1600/0.0.0.0.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgN3mqFe9_EhIPEvV1F6Rvw3xe0KVtUplq4V4LkAjCqo-KuQsKqxzf5-K6Oe2sHtiuzEbuPWVA_peOCIc4-n9HkKix62BJUKqkFFEUcoyPt37onIkPLDk4vxmsrXVWG2BSFbdqaQfJlfI08d5UcBeJciUN7V_YXzd-4aYOKfLrVFbckhMrHPmT38fXWoIoF/s1600/0.0.0.0.png"
         }
       ]
     },
