@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-07T17:29:19.907Z</updated>
+    <updated>2024-09-07T17:43:25.674Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2628,18 +2628,6 @@ Matthew Isaac Knoot is charged with conspiracy to cause damage to protected comp
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer une élévation de privilèges.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Hackers Exploiting Legacy Cisco Smart Install Feature]]></title>
-        <id>https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html</id>
-        <link href="https://thehackernews.com/2024/08/cisa-warns-of-hackers-exploiting-legacy.html"/>
-        <updated>2024-08-09T05:41:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has disclosed that threat actors are abusing the legacy Cisco Smart Install (SMI) feature with the aim of accessing sensitive data.
-The agency said it has seen adversaries "acquire system configuration files by leveraging available protocols or software on devices, such as abusing the legacy Cisco Smart Install feature."
-It also]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
