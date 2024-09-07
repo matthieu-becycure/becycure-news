@@ -2,10 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-07T07:27:43.246Z</updated>
+    <updated>2024-09-07T07:43:33.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams]]></title>
+        <id>https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html</id>
+        <link href="https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html"/>
+        <updated>2024-09-07T07:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors affiliated with North Korea have been observed leveraging LinkedIn as a way to target developers as part of a fake job recruiting operation.
+
+These attacks employ coding tests as a common initial infection vector, Google-owned Mandiant said in a new report about threats faced by the Web3 sector.
+
+"After an initial chat conversation, the attacker sent a ZIP file that contained]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals]]></title>
         <id>https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html</id>

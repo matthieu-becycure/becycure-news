@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors affiliated with North Korea have been observed leveraging LinkedIn as a way to target developers as part of a fake job recruiting operation.\n\nThese attacks employ coding tests as a common initial infection vector, Google-owned Mandiant said in a new report about threats faced by the Web3 sector.\n\n\"After an initial chat conversation, the attacker sent a ZIP file that contained",
+          "link": "https://thehackernews.com/2024/09/north-korean-threat-actors-deploy.html",
+          "publishedOn": "2024-09-07T07:28:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Threat Actors Deploy COVERTCATCH Malware via LinkedIn Job Scams",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjXzEvofsRELc9uMuaCspjBDrSO4GYQQ5QCRNiPTQBT9xnnioKyNCWawpm2hj_Nmr7nbbT5PHCOVW5dfP8QjvdiSBX2qYM2N6xQZo-IeVNoC6Gj_BxXPF1yNNo0cnzSfEg5bIrc2OAvUeNx5grTcM1Ma6O8-fqfKrkY6dhThjrTscKp9BGmOx2A1xU_fS/s1600/korea.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghjXzEvofsRELc9uMuaCspjBDrSO4GYQQ5QCRNiPTQBT9xnnioKyNCWawpm2hj_Nmr7nbbT5PHCOVW5dfP8QjvdiSBX2qYM2N6xQZo-IeVNoC6Gj_BxXPF1yNNo0cnzSfEg5bIrc2OAvUeNx5grTcM1Ma6O8-fqfKrkY6dhThjrTscKp9BGmOx2A1xU_fS/s1600/korea.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two men have been indicted in the U.S. for their alleged involvement in managing a dark web marketplace called WWH Club that specializes in the sale of sensitive personal and financial information.\nAlex Khodyrev, a 35-year-old Kazakhstan national, and Pavel Kublitskii, a 37-year-old Russian national, have been charged with conspiracy to commit access device fraud and conspiracy to commit wire",
