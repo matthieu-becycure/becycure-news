@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two men have been indicted in the U.S. for their alleged involvement in managing a dark web marketplace called WWH Club that specializes in the sale of sensitive personal and financial information.\nAlex Khodyrev, a 35-year-old Kazakhstan national, and Pavel Kublitskii, a 37-year-old Russian national, have been charged with conspiracy to commit access device fraud and conspiracy to commit wire",
+          "link": "https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html",
+          "publishedOn": "2024-09-07T07:10:00.000Z",
+          "wordCount": null,
+          "title": "FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifuI_x48Er0D9SFvrtTfGGQKIqz_oxxqP08_ytxErYALyUK3jTxJd14X_8sqULhQBmE1cTYt_ohBDrj1dkB0xEoljMpocYbWGutKmZ_V5chpb8hqbZIJfOawxYW9UOTs8yvX_yFrMpDfUvz1k91RDGe5l2g7iX7wIwjpsM1k_xf_oUQJMDvZwwmBXvH7o/s1600/lock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiifuI_x48Er0D9SFvrtTfGGQKIqz_oxxqP08_ytxErYALyUK3jTxJd14X_8sqULhQBmE1cTYt_ohBDrj1dkB0xEoljMpocYbWGutKmZ_V5chpb8hqbZIJfOawxYW9UOTs8yvX_yFrMpDfUvz1k91RDGe5l2g7iX7wIwjpsM1k_xf_oUQJMDvZwwmBXvH7o/s1600/lock.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/sonicwall-urges-users-to-patch-critical.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "SonicWall has revealed that a recently patched critical security flaw impacting SonicOS may have come under active exploitation, making it essential that users apply the patches as soon as possible.\nThe vulnerability, tracked as CVE-2024-40766, carries a CVSS score of 9.3 out of a maximum of 10.\n\"An improper access control vulnerability has been identified in the SonicWall SonicOS management",
