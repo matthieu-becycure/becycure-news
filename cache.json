@@ -3207,16 +3207,6 @@
           "wordCount": 476,
           "title": "Multiples vulnérabilités dans Roundcube (09 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0669/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0669/",
-          "publishedOn": "2024-08-09T11:46:25.000Z",
-          "wordCount": 1817,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (09 août 2024)",
-          "imageUrl": null
         }
       ]
     }
