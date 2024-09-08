@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-08T09:27:20.668Z</updated>
+    <updated>2024-09-08T09:43:32.751Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2492,17 +2492,6 @@ The vulnerability, tracked as CVE-2024-38200 (CVSS score: 7.5), has been describ
 
 Microsoft Office 2016 for 32-bit edition and 64-bit editions
 Microsoft]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experts Uncover Severe AWS Flaws Leading to RCE, Data Theft, and Full-Service Takeovers]]></title>
-        <id>https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html</id>
-        <link href="https://thehackernews.com/2024/08/experts-uncover-severe-aws-flaws.html"/>
-        <updated>2024-08-09T21:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered multiple critical flaws in Amazon Web Services (AWS) offerings that, if successfully exploited, could result in serious consequences.
-"The impact of these vulnerabilities range between remote code execution (RCE), full-service user takeover (which might provide powerful administrative access), manipulation of AI modules, exposing sensitive data, data]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
