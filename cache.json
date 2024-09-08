@@ -3181,16 +3181,6 @@
           "wordCount": 945,
           "title": "Bulletin d'actualité CERTFR-2024-ACT-036 (12 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-010/",
-          "author": null,
-          "description": "Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exemple, conduire à la récupération du...",
-          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-010/",
-          "publishedOn": "2024-08-09T14:35:34.000Z",
-          "wordCount": 476,
-          "title": "Multiples vulnérabilités dans Roundcube (09 août 2024)",
-          "imageUrl": null
         }
       ]
     }
