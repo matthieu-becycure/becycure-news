@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-08T01:02:58.010Z</updated>
+    <updated>2024-09-08T02:29:14.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2526,17 +2526,6 @@ Microsoft]]></summary>
         <summary type="html"><![CDATA[Le 4 août 2024, Roundcube a publié des correctifs concernant les vulnérabilités critiques CVE-2024-42008 et CVE-2024-42009 affectant son serveur de courriel. Ces vulnérabilités permettent des injections de code indirectes à distance (XSS) qui peuvent, par exemple, conduire à la récupération du...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Flaws in Sonos Smart Speakers Allow Hackers to Eavesdrop on Users]]></title>
-        <id>https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html</id>
-        <link href="https://thehackernews.com/2024/08/new-flaws-in-sonos-smart-speakers-allow.html"/>
-        <updated>2024-08-09T13:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered weaknesses in Sonos smart speakers that could be exploited by malicious actors to clandestinely eavesdrop on users.
-The vulnerabilities "led to an entire break in the security of Sonos's secure boot process across a wide range of devices and remotely being able to compromise several devices over the air," NCC Group security researchers Alex Plaskett and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
