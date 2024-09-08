@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwkUNCjPX0J48EMTA7L5vrNf1dZp6YlQ8jWhCO622Jz-PZHmKGLt0JTZ-41EnhIkjALacLAR9AOl4b07t_qH-qk7SkxZc67wrNh33XZH9TCla6lnFbM_Dz_LJ0jPqPvRWAjUFSoZRtHblPUYOAyCwurGPrpX6G4JEc0h0e2GyZrvG6nwl6xRn0NS57qfkr/s1600/cloud.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwkUNCjPX0J48EMTA7L5vrNf1dZp6YlQ8jWhCO622Jz-PZHmKGLt0JTZ-41EnhIkjALacLAR9AOl4b07t_qH-qk7SkxZc67wrNh33XZH9TCla6lnFbM_Dz_LJ0jPqPvRWAjUFSoZRtHblPUYOAyCwurGPrpX6G4JEc0h0e2GyZrvG6nwl6xRn0NS57qfkr/s1600/cloud.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Microsoft on Thursday disclosed four medium-severity security flaws in the open-source OpenVPN software that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).\n\"This attack chain could enable attackers to gain full control over targeted endpoints, potentially resulting in data breaches, system compromise, and unauthorized access to sensitive information",
-          "link": "https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html",
-          "publishedOn": "2024-08-09T18:18:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s1600/openvpn.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXHEh5gX-v17cFCWBugUtv8FEhA8bvFdlxPjretKGfVszryQPXWO1P5gLPAYkos2ja_tEmA_W_i5vOfvoe8V1w2BMvMhWyYt4FQaLMkJHdvT5ewCeU2bYXNsbpMOOUkhUsRCOdbT19qxdlxtGqZciYuN0f87s8Q7Ev3b_hhBIXWPKdsF0bPwf6YsS1R0kt/s1600/openvpn.png"
         }
       ]
     },

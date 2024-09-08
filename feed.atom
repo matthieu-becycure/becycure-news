@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-08T06:15:54.256Z</updated>
+    <updated>2024-09-08T06:34:45.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2503,17 +2503,6 @@ Microsoft]]></summary>
         <updated>2024-08-09T21:40:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered multiple critical flaws in Amazon Web Services (AWS) offerings that, if successfully exploited, could result in serious consequences.
 "The impact of these vulnerabilities range between remote code execution (RCE), full-service user takeover (which might provide powerful administrative access), manipulation of AI modules, exposing sensitive data, data]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Reveals Four OpenVPN Flaws Leading to Potential RCE and LPE]]></title>
-        <id>https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html</id>
-        <link href="https://thehackernews.com/2024/08/microsoft-reveals-four-openvpn-flaws.html"/>
-        <updated>2024-08-09T18:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Thursday disclosed four medium-severity security flaws in the open-source OpenVPN software that could be chained to achieve remote code execution (RCE) and local privilege escalation (LPE).
-"This attack chain could enable attackers to gain full control over targeted endpoints, potentially resulting in data breaches, system compromise, and unauthorized access to sensitive information]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
