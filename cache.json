@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A novel side-channel attack has been found to leverage radio signals emanated by a device's random access memory (RAM) as a data exfiltration mechanism, posing a threat to air-gapped networks.\nThe technique has been codenamed RAMBO by Dr. Mordechai Guri, the head of the Offensive Cyber Research Lab in the Department of Software and Information Systems Engineering at the Ben Gurion University of",
+          "link": "https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html",
+          "publishedOn": "2024-09-09T17:19:00.000Z",
+          "wordCount": null,
+          "title": "New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4EnB4iNTdy1F9L0G2ZgKV4zzkaU8cc7-eaTm-7nOzTFgThJCd8lQXG0MsTWDscRx4Vyvth3DUiTTe_yw_dD5_LiEjbgvjO_GxzHU7O9J0aPZ65LoJSjRstlB7rL4EBTB7pwHJajlFmFt80gLNODzTXsq8sgpU8k9cOiU6-IBwnFsP0lcHemXDbIa02sSD/s1600/airgap.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4EnB4iNTdy1F9L0G2ZgKV4zzkaU8cc7-eaTm-7nOzTFgThJCd8lQXG0MsTWDscRx4Vyvth3DUiTTe_yw_dD5_LiEjbgvjO_GxzHU7O9J0aPZ65LoJSjRstlB7rL4EBTB7pwHJajlFmFt80gLNODzTXsq8sgpU8k9cOiU6-IBwnFsP0lcHemXDbIa02sSD/s1600/airgap.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The proliferation of cybersecurity tools has created an illusion of security. Organizations often believe that by deploying a firewall, antivirus software, intrusion detection systems, identity threat detection and response, and other tools, they are adequately protected. However, this approach not only fails to address the fundamental issue of the attack surface but also introduces dangerous",
