@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-09T13:00:58.381Z</updated>
+    <updated>2024-09-09T13:33:07.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[One More Tool Will Do It? Reflecting on the CrowdStrike Fallout]]></title>
+        <id>https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html</id>
+        <link href="https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html"/>
+        <updated>2024-09-09T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The proliferation of cybersecurity tools has created an illusion of security. Organizations often believe that by deploying a firewall, antivirus software, intrusion detection systems, identity threat detection and response, and other tools, they are adequately protected. However, this approach not only fails to address the fundamental issue of the attack surface but also introduces dangerous]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blind Eagle Targets Colombian Insurance Sector with Customized Quasar RAT]]></title>
+        <id>https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html</id>
+        <link href="https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html"/>
+        <updated>2024-09-09T12:24:00.000Z</updated>
+        <summary type="html"><![CDATA[The Colombian insurance sector is the target of a threat actor tracked as Blind Eagle with the end goal of delivering a customized version of a known commodity remote access trojan (RAT) known as Quasar RAT since June 2024.
+"Attacks have originated with phishing emails impersonating the Colombian tax authority," Zscaler ThreatLabz researcher Gaetano Pellegrino said in a new analysis published]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks]]></title>
+        <id>https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html</id>
+        <link href="https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html"/>
+        <updated>2024-09-09T12:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The China-linked advanced persistent threat (APT) group known as Mustang Panda has been observed weaponizing Visual Studio Code software as part of espionage operations targeting government entities in Southeast Asia.
+"This threat actor used Visual Studio Code's embedded reverse shell feature to gain a foothold in target networks," Palo Alto Networks Unit 42 researcher Tom Fakterman said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Webinar: How to Protect Your Company from GenAI Data Leakage Without Losing It’s Productivity Benefits]]></title>
         <id>https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html</id>

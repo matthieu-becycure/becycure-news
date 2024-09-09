@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The proliferation of cybersecurity tools has created an illusion of security. Organizations often believe that by deploying a firewall, antivirus software, intrusion detection systems, identity threat detection and response, and other tools, they are adequately protected. However, this approach not only fails to address the fundamental issue of the attack surface but also introduces dangerous",
+          "link": "https://thehackernews.com/2024/09/one-more-tool-will-do-it-reflecting-on.html",
+          "publishedOn": "2024-09-09T12:34:00.000Z",
+          "wordCount": null,
+          "title": "One More Tool Will Do It? Reflecting on the CrowdStrike Fallout",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1grx452d2kW78jBX38jMb3GIn3J46ATy_h4J_o4o0gWsOfRO1GT99XXZyt_M5AkZOT3eC0TOyJ0rZn7RWpPpK6vQsHBZGODC8QzMNre5yqEaBVReJutxud10WJhgQXcw6vNtfhh0mwpk2vhu9f9HM58xwipfE5GorhdMPtpvnpCzb_HSPBW9JaQ5r9bY/s1600/one.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1grx452d2kW78jBX38jMb3GIn3J46ATy_h4J_o4o0gWsOfRO1GT99XXZyt_M5AkZOT3eC0TOyJ0rZn7RWpPpK6vQsHBZGODC8QzMNre5yqEaBVReJutxud10WJhgQXcw6vNtfhh0mwpk2vhu9f9HM58xwipfE5GorhdMPtpvnpCzb_HSPBW9JaQ5r9bY/s1600/one.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Colombian insurance sector is the target of a threat actor tracked as Blind Eagle with the end goal of delivering a customized version of a known commodity remote access trojan (RAT) known as Quasar RAT since June 2024.\n\"Attacks have originated with phishing emails impersonating the Colombian tax authority,\" Zscaler ThreatLabz researcher Gaetano Pellegrino said in a new analysis published",
+          "link": "https://thehackernews.com/2024/09/blind-eagle-targets-colombian-insurance.html",
+          "publishedOn": "2024-09-09T12:24:00.000Z",
+          "wordCount": null,
+          "title": "Blind Eagle Targets Colombian Insurance Sector with Customized Quasar RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILosEDog0FATmR0qjY1DSHeqIKfX5WGPHY3VU4o5rTYHta_z-g9P0NPU4RezzwBPEFCGtZoJ0FR7alTnr9b18rXbQBFi5qc6hGOJ-G8LN_9ab22LT2TCQlzLZ-bpLyi1eIQkeiUKyPMFd54cDs8TVIS0Rz03iHLLxGVT9GDs2paAz5yGQMBrEUGKMrSYY/s1600/zscaler.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiILosEDog0FATmR0qjY1DSHeqIKfX5WGPHY3VU4o5rTYHta_z-g9P0NPU4RezzwBPEFCGtZoJ0FR7alTnr9b18rXbQBFi5qc6hGOJ-G8LN_9ab22LT2TCQlzLZ-bpLyi1eIQkeiUKyPMFd54cDs8TVIS0Rz03iHLLxGVT9GDs2paAz5yGQMBrEUGKMrSYY/s1600/zscaler.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The China-linked advanced persistent threat (APT) group known as Mustang Panda has been observed weaponizing Visual Studio Code software as part of espionage operations targeting government entities in Southeast Asia.\n\"This threat actor used Visual Studio Code's embedded reverse shell feature to gain a foothold in target networks,\" Palo Alto Networks Unit 42 researcher Tom Fakterman said in a",
+          "link": "https://thehackernews.com/2024/09/chinese-hackers-exploit-visual-studio.html",
+          "publishedOn": "2024-09-09T12:16:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Exploit Visual Studio Code in Southeast Asian Cyberattacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoBnbG4U5QfoaZNEUe3DHGetchZBp7EQbSi6bA5f0qWqNjrpVjk6aTzMqHsyW9GcKrrdWHFceA9A9ILtEWIIFALwTDtfhKKHMacpcDeUu5NonwqYAOAoknSnR6m-tHemTUjotgpdStWHRGlqXm2vXbdAs9O4OxMXUP2haRU-1Ci6HPPBaAX1gEjTFpBpZ9/s1600/china.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoBnbG4U5QfoaZNEUe3DHGetchZBp7EQbSi6bA5f0qWqNjrpVjk6aTzMqHsyW9GcKrrdWHFceA9A9ILtEWIIFALwTDtfhKKHMacpcDeUu5NonwqYAOAoknSnR6m-tHemTUjotgpdStWHRGlqXm2vXbdAs9O4OxMXUP2haRU-1Ci6HPPBaAX1gEjTFpBpZ9/s1600/china.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "GenAI has become a table stakes tool for employees, due to the productivity gains and innovative capabilities it offers. Developers use it to write code, finance teams use it to analyze reports, and sales teams create customer emails and assets. Yet, these capabilities are exactly the ones that introduce serious security risks.\nRegister to our upcoming webinar to learn how to prevent GenAI data",
