@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/tidrone-espionage-group-targets-taiwan.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor with likely ties to Chinese-speaking groups has predominantly singled out drone manufacturers in Taiwan as part of a cyber attack campaign that commenced in 2024.\nTrend Micro is tracking the adversary under the moniker TIDRONE, stating the activity is espionage-driven given the focus on military-related industry chains.\nThe exact initial access vector used",
+          "link": "https://thehackernews.com/2024/09/tidrone-espionage-group-targets-taiwan.html",
+          "publishedOn": "2024-09-09T05:30:00.000Z",
+          "wordCount": null,
+          "title": "TIDRONE Espionage Group Targets Taiwan Drone Makers in Cyber Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQY5sOh6LMF8vawGqS-tDTJZyA9Qh875JVIS2Jzv4q1QSaFbUGRZTjjEEqXsN_CHgflyMLeRuIGJVidpC5omB1JehRuPJJDiO3yeSGObKB2fDNzsqtx5TOLILvj9N5UcyNLAWC962Y607IV2ZhI6IXFO226_W-Uz8Rjpg4_wa0G6fz40VmntCyWaaYuSK/s1600/drone.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYQY5sOh6LMF8vawGqS-tDTJZyA9Qh875JVIS2Jzv4q1QSaFbUGRZTjjEEqXsN_CHgflyMLeRuIGJVidpC5omB1JehRuPJJDiO3yeSGObKB2fDNzsqtx5TOLILvj9N5UcyNLAWC962Y607IV2ZhI6IXFO226_W-Uz8Rjpg4_wa0G6fz40VmntCyWaaYuSK/s1600/drone.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/us-offers-10-million-for-info-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. government and a coalition of international partners have officially attributed a Russian hacking group tracked as Cadet Blizzard to the General Staff Main Intelligence Directorate (GRU) 161st Specialist Training Center (Unit 29155).\n\"These cyber actors are responsible for computer network operations against global targets for the purposes of espionage, sabotage, and reputational harm",
