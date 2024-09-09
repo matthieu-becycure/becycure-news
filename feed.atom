@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-09T11:43:31.597Z</updated>
+    <updated>2024-09-09T12:24:31.178Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Webinar: How to Protect Your Company from GenAI Data Leakage Without Losing It’s Productivity Benefits]]></title>
+        <id>https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html</id>
+        <link href="https://thehackernews.com/2024/09/webinar-how-to-protect-your-company.html"/>
+        <updated>2024-09-09T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[GenAI has become a table stakes tool for employees, due to the productivity gains and innovative capabilities it offers. Developers use it to write code, finance teams use it to analyze reports, and sales teams create customer emails and assets. Yet, these capabilities are exactly the ones that introduce serious security risks.
+Register to our upcoming webinar to learn how to prevent GenAI data]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wing Security SaaS Pulse: Continuous Security & Actionable Insights — For Free]]></title>
         <id>https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html</id>
