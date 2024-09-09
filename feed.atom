@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-09T21:43:25.452Z</updated>
+    <updated>2024-09-09T22:11:13.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2588,17 +2588,6 @@ The elevated access could then be weaponized to decrypt encrypted firmware files
         <updated>2024-08-12T03:43:00.000Z</updated>
         <summary type="html"><![CDATA[The Russian government and IT organizations are the target of a new campaign that delivers a number of backdoors and trojans as part of a spear-phishing campaign codenamed EastWind.
 The attack chains are characterized by the use of RAR archive attachments containing a Windows shortcut (LNK) file that, upon opening, activates the infection sequence, culminating in the deployment of malware such]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rogue PyPI Library Solana Users, Steals Blockchain Wallet Keys]]></title>
-        <id>https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html</id>
-        <link href="https://thehackernews.com/2024/08/rogue-pypi-library-solana-users-steals.html"/>
-        <updated>2024-08-11T10:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new malicious package on the Python Package Index (PyPI) repository that masquerades as a library from the Solana blockchain platform but is actually designed to steal victims' secrets.
-"The legitimate Solana Python API project is known as 'solana-py' on GitHub, but simply 'solana' on the Python software registry, PyPI," Sonatype researcher Ax Sharma]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
