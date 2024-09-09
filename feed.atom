@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-09T08:48:51.615Z</updated>
+    <updated>2024-09-09T09:14:27.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Android SpyAgent Malware Uses OCR to Steal Crypto Wallet Recovery Keys]]></title>
+        <id>https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html</id>
+        <link href="https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html"/>
+        <updated>2024-09-09T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Android device users in South Korea have emerged as a target of a new mobile malware campaign that delivers a new type of threat dubbed SpyAgent.
+The malware "targets mnemonic keys by scanning for images on your device that might contain them," McAfee Labs researcher SangRyol Ryu said in an analysis, adding the targeting footprint has broadened in scope to include the U.K.
+The campaign makes use]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TIDRONE Espionage Group Targets Taiwan Drone Makers in Cyber Campaign]]></title>
         <id>https://thehackernews.com/2024/09/tidrone-espionage-group-targets-taiwan.html</id>
