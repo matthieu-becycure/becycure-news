@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-09T06:41:58.636Z</updated>
+    <updated>2024-09-09T07:12:15.802Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2479,17 +2479,6 @@ The attack chains are characterized by the use of RAR archive attachments contai
         <updated>2024-08-11T10:01:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new malicious package on the Python Package Index (PyPI) repository that masquerades as a library from the Solana blockchain platform but is actually designed to steal victims' secrets.
 "The legitimate Solana Python API project is known as 'solana-py' on GitHub, but simply 'solana' on the Python software registry, PyPI," Sonatype researcher Ax Sharma]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover 10 Flaws in Google's File Transfer Tool Quick Share]]></title>
-        <id>https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html</id>
-        <link href="https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html"/>
-        <updated>2024-08-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 10 security flaws have been uncovered in Google's Quick Share data transfer utility for Android and Windows that could be assembled to trigger remote code execution (RCE) chain on systems that have the software installed.
-"The Quick Share application implements its own specific application-layer communication protocol to support file transfers between nearby, compatible devices,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
