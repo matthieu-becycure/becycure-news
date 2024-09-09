@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Designed to be more than a one-time assessment— Wing Security’s SaaS Pulse provides organizations with actionable insights and continuous oversight into their SaaS security posture—and it’s free!\nIntroducing SaaS Pulse: Free Continuous SaaS Risk Management \nJust like waiting for a medical issue to become critical before seeing a doctor, organizations can’t afford to overlook the constantly",
+          "link": "https://thehackernews.com/2024/09/wing-security-saas-pulse-continuous.html",
+          "publishedOn": "2024-09-09T10:30:00.000Z",
+          "wordCount": null,
+          "title": "Wing Security SaaS Pulse: Continuous Security & Actionable Insights — For Free",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s1600/wing.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXLRhA69FS0sRo52GGWER2uMT2N7cQlIFnxMiToAZAjFtSAkKtrQcJuJkZlOuXL63hta1a-dtCVQeM3l2V8aWcXTk-JleQNc9U2ewuj_PO17o48cYYV3ppZdQY5eEt1hlr2oRD6WBpNk18aM5Vw_0rnc_nC3KaqsKtzu1BfTDJANMPvNEnApihahL_3ME/s1600/wing.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Progress Software has released security updates for a maximum-severity flaw in LoadMaster and Multi-Tenant (MT) hypervisor that could result in the execution of arbitrary operating system commands.\nTracked as CVE-2024-7591 (CVSS score: 10.0), the vulnerability has been described as an improper input validation bug that results in OS command injection.\n\"It is possible for unauthenticated, remote",
+          "link": "https://thehackernews.com/2024/09/progress-software-issues-patch-for.html",
+          "publishedOn": "2024-09-09T09:24:00.000Z",
+          "wordCount": null,
+          "title": "Progress Software Issues Patch for Vulnerability in LoadMaster and MT Hypervisor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_gMWv6CsBBg7JdeBU32LsRSIJQBgSw0fNr-2rGnhaZF_c2CFbX8f4j0K0zDSw4S2ulob6Usx_uwY7f3PTadtQQbyE6lZ_Eqz9_eS6Fha_STjxAbVSxctVpxs5dgKjTbWxVYykD07GwmLv3FSJ1UAaZCl-kAMzMYtID9z_luG83CmCJgnkBo7H1A4EgT28/s1600/prog.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_gMWv6CsBBg7JdeBU32LsRSIJQBgSw0fNr-2rGnhaZF_c2CFbX8f4j0K0zDSw4S2ulob6Usx_uwY7f3PTadtQQbyE6lZ_Eqz9_eS6Fha_STjxAbVSxctVpxs5dgKjTbWxVYykD07GwmLv3FSJ1UAaZCl-kAMzMYtID9z_luG83CmCJgnkBo7H1A4EgT28/s1600/prog.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-android-spyagent-malware-uses-ocr.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Android device users in South Korea have emerged as a target of a new mobile malware campaign that delivers a new type of threat dubbed SpyAgent.\nThe malware \"targets mnemonic keys by scanning for images on your device that might contain them,\" McAfee Labs researcher SangRyol Ryu said in an analysis, adding the targeting footprint has broadened in scope to include the U.K.\nThe campaign makes use",
