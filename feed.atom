@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-10T18:46:23.437Z</updated>
+    <updated>2024-09-10T19:10:58.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2681,27 +2681,6 @@ What's behind the surge in phishing? One popular answer is AI – particularly g
         <summary type="html"><![CDATA[The maintainers of the FreeBSD Project have released security updates to address a high-severity flaw in OpenSSH that attackers could potentially exploit to execute arbitrary code remotely with elevated privileges.
 The vulnerability, tracked as CVE-2024-7589, carries a CVSS score of 7.4 out of a maximum of 10.0, indicating high severity.
 "A signal handler in sshd(8) may call a logging function]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-036 (12 août 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-036/</id>
-        <link href="https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-036/"/>
-        <updated>2024-08-12T06:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html</id>
-        <link href="https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html"/>
-        <updated>2024-08-12T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Security vulnerabilities have been disclosed in the industrial remote access solution Ewon Cosy+ that could be abused to gain root privileges to the devices and stage follow-on attacks.
-The elevated access could then be weaponized to decrypt encrypted firmware files and encrypted data such as passwords in configuration files, and even get correctly signed X.509 VPN certificates for foreign]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
