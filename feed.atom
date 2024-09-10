@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-10T15:29:59.272Z</updated>
+    <updated>2024-09-10T15:43:37.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2691,17 +2691,6 @@ The vulnerability, tracked as CVE-2024-7589, carries a CVSS score of 7.4 out of 
         <updated>2024-08-12T06:57:00.000Z</updated>
         <summary type="html"><![CDATA[Security vulnerabilities have been disclosed in the industrial remote access solution Ewon Cosy+ that could be abused to gain root privileges to the devices and stage follow-on attacks.
 The elevated access could then be weaponized to decrypt encrypted firmware files and encrypted data such as passwords in configuration files, and even get correctly signed X.509 VPN certificates for foreign]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EastWind Attack Deploys PlugY and GrewApacha Backdoors Using Booby-Trapped LNK Files]]></title>
-        <id>https://thehackernews.com/2024/08/russian-government-hit-by-eastwind.html</id>
-        <link href="https://thehackernews.com/2024/08/russian-government-hit-by-eastwind.html"/>
-        <updated>2024-08-12T03:43:00.000Z</updated>
-        <summary type="html"><![CDATA[The Russian government and IT organizations are the target of a new campaign that delivers a number of backdoors and trojans as part of a spear-phishing campaign codenamed EastWind.
-The attack chains are characterized by the use of RAR archive attachments containing a Windows shortcut (LNK) file that, upon opening, activates the infection sequence, culminating in the deployment of malware such]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
