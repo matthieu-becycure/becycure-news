@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor tracked as Mustang Panda has refined its malware arsenal to include new tools in order to facilitate data exfiltration and the deployment of next-stage payloads, according to new findings from Trend Micro.\nThe cybersecurity firm, which is monitoring the activity cluster under the name Earth Preta, said it observed \"the propagation of PUBLOAD via a variant of the worm HIUPAN.\"",
+          "link": "https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html",
+          "publishedOn": "2024-09-10T09:57:00.000Z",
+          "wordCount": null,
+          "title": "Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAjN3RPPPLMT5RXjubo-EFgijrMx1x5d8MbnpARlj__MjuhmLGQpxDxujI5uAsLZeGXTFP2_DWb8lGfmuCzbMyBCcnU-dRBBvxLmSt1cCB9uNPiDPmq-a1VdQBIQWNtzmyZr-btjGc0QjMqaZGhbZNe0gkn2GZnmosooL-2I7XcQysCQ-QdQZWj4AIB1aR/s1600/tm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAjN3RPPPLMT5RXjubo-EFgijrMx1x5d8MbnpARlj__MjuhmLGQpxDxujI5uAsLZeGXTFP2_DWb8lGfmuCzbMyBCcnU-dRBBvxLmSt1cCB9uNPiDPmq-a1VdQBIQWNtzmyZr-btjGc0QjMqaZGhbZNe0gkn2GZnmosooL-2I7XcQysCQ-QdQZWj4AIB1aR/s1600/tm.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A novel side-channel attack has been found to leverage radio signals emanated by a device's random access memory (RAM) as a data exfiltration mechanism, posing a threat to air-gapped networks.\nThe technique has been codenamed RAMBO by Dr. Mordechai Guri, the head of the Offensive Cyber Research Lab in the Department of Software and Information Systems Engineering at the Ben Gurion University of",

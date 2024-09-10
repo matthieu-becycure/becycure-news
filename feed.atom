@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-10T09:43:39.092Z</updated>
+    <updated>2024-09-10T10:13:22.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mustang Panda Deploys Advanced Malware to Spy on Asia-Pacific Governments]]></title>
+        <id>https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html</id>
+        <link href="https://thehackernews.com/2024/09/mustang-panda-deploys-advanced-malware.html"/>
+        <updated>2024-09-10T09:57:00.000Z</updated>
+        <summary type="html"><![CDATA[The threat actor tracked as Mustang Panda has refined its malware arsenal to include new tools in order to facilitate data exfiltration and the deployment of next-stage payloads, according to new findings from Trend Micro.
+The cybersecurity firm, which is monitoring the activity cluster under the name Earth Preta, said it observed "the propagation of PUBLOAD via a variant of the worm HIUPAN."]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks]]></title>
         <id>https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html</id>
