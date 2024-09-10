@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A trio of threat activity clusters linked to China has been observed compromising more government organizations in Southeast Asia as part of a renewed state-sponsored operation codenamed Crimson Palace, indicating an expansion in the scope of the espionage effort.\nCybersecurity firm Sophos, which has been monitoring the cyber offensive, said it comprises three intrusion sets tracked as Cluster",
+          "link": "https://thehackernews.com/2024/09/experts-identify-3-chinese-linked.html",
+          "publishedOn": "2024-09-10T11:43:00.000Z",
+          "wordCount": null,
+          "title": "Experts Identify 3 Chinese-Linked Clusters Behind Cyberattacks in Southeast Asia",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgaaD_5QchIwR01rA4IXnqlhvPZtuvbaBywz654c1NdcScaqAOKomJpJe6M14kDsU3gs7FHyJf3k2dQboJkJ2n9fLqS6gwK_8tbmBfJHf7GS-paNId9Vzzt6r4XHmXnmMpf_JC3UbcqdBWwItFwmIs90Cgl2yhOt5irMFTbrLdk8h6thR2cMWqz9utNsEY/s1600/china.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgaaD_5QchIwR01rA4IXnqlhvPZtuvbaBywz654c1NdcScaqAOKomJpJe6M14kDsU3gs7FHyJf3k2dQboJkJ2n9fLqS6gwK_8tbmBfJHf7GS-paNId9Vzzt6r4XHmXnmMpf_JC3UbcqdBWwItFwmIs90Cgl2yhOt5irMFTbrLdk8h6thR2cMWqz9utNsEY/s1600/china.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/shining-light-on-shadow-apps-invisible.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Shadow apps, a segment of Shadow IT, are SaaS applications purchased without the knowledge of the security team. While these applications may be legitimate, they operate within the blind spots of the corporate security team and expose the company to attackers. \nShadow apps may include instances of software that the company is already using. For example, a dev team may onboard their own",
