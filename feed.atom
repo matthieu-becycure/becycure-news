@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-10T08:46:04.492Z</updated>
+    <updated>2024-09-10T09:14:04.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -698,6 +698,16 @@ Daniel Rhyne of Kansas City, Missouri, has been charged with one count of extort
 He was]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Organismes de recherche et think tanks - État de la menace informatique (02 septembre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-008/</id>
+        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-008/"/>
+        <updated>2024-09-02T15:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Le secteur de la recherche et des *think tanks* couvre un périmètre large et hétéroclite. Celui-ci comprend des entités publiques et privées de toute nature, dont certaines peuvent être des fondations, des organisations internationales ou des associations. Ces entités sont ciblées par un vaste...]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
