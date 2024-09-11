@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-11T16:47:21.015Z</updated>
+    <updated>2024-09-11T17:10:48.514Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quad7 Botnet Expands to Target SOHO Routers and VPN Appliances]]></title>
+        <id>https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html</id>
+        <link href="https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html"/>
+        <updated>2024-09-11T16:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The operators of the mysterious Quad7 botnet are actively evolving by compromising several brands of SOHO routers and VPN appliances by leveraging a combination of both known and unknown security flaws.
+Targets include devices from TP-LINK, Zyxel, Asus, Axentra, D-Link, and NETGEAR, according to a new report by French cybersecurity company Sekoia.
+"The Quad7 botnet operators appear to be]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DragonRank Black Hat SEO Campaign Targeting IIS Servers Across Asia and Europe]]></title>
         <id>https://thehackernews.com/2024/09/dragonrank-black-hat-seo-campaign.html</id>
