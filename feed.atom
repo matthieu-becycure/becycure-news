@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-11T11:43:34.810Z</updated>
+    <updated>2024-09-11T12:23:59.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Is It So Challenging to Go Passwordless?]]></title>
+        <id>https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html</id>
+        <link href="https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html"/>
+        <updated>2024-09-11T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a world where you never have to remember another password. Seems like a dream come true for both end users and IT teams, right? But as the old saying goes, "If it sounds too good to be true, it probably is." 
+If your organization is like many, you may be contemplating a move to passwordless authentication. But the reality is that a passwordless security approach comes with its own]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Developers Beware: Lazarus Group Uses Fake Coding Tests to Spread Malware]]></title>
         <id>https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html</id>

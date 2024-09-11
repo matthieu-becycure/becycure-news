@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Imagine a world where you never have to remember another password. Seems like a dream come true for both end users and IT teams, right? But as the old saying goes, \"If it sounds too good to be true, it probably is.\" \nIf your organization is like many, you may be contemplating a move to passwordless authentication. But the reality is that a passwordless security approach comes with its own",
+          "link": "https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html",
+          "publishedOn": "2024-09-11T10:41:00.000Z",
+          "wordCount": null,
+          "title": "Why Is It So Challenging to Go Passwordless?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlYV3jOdKLqTA0SAT1kiUA489XiUJFp3lz1DGHSOo6XAD0AJ63kPKoSducyBr8JdG-IKwf9-38FIdIc4uU6CXI15gPGGU5lj2xqwkVPTn2-QPY_i0L3W0RMHm_kvID2CAixW6mHJDaXpixSMPasg8UwN16WQth-W4iibuWLY-8pzsjTXgnZwOUxrqwBv8/s1600/passwordless.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlYV3jOdKLqTA0SAT1kiUA489XiUJFp3lz1DGHSOo6XAD0AJ63kPKoSducyBr8JdG-IKwf9-38FIdIc4uU6CXI15gPGGU5lj2xqwkVPTn2-QPY_i0L3W0RMHm_kvID2CAixW6mHJDaXpixSMPasg8UwN16WQth-W4iibuWLY-8pzsjTXgnZwOUxrqwBv8/s1600/passwordless.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/developers-beware-lazarus-group-uses.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new set of malicious Python packages that target software developers under the guise of coding assessments.\n\"The new samples were tracked to GitHub projects that have been linked to previous, targeted attacks in which developers are lured using fake job interviews,\" ReversingLabs researcher Karlo Zanki said.\nThe activity has been assessed to be part of",
