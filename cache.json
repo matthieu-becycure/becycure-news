@@ -3515,16 +3515,6 @@
           "wordCount": 1024,
           "title": "Multiples vulnérabilités dans les produits SAP (13 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0670/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Splunk Machine Learning Toolkit. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0670/",
-          "publishedOn": "2024-08-13T08:14:15.000Z",
-          "wordCount": 441,
-          "title": "Multiples vulnérabilités dans Splunk Machine Learning Toolkit (13 août 2024)",
-          "imageUrl": null
         }
       ]
     }
