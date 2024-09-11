@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Singapore Police Force (SPF) has announced the arrest of five Chinese nationals and one Singaporean man for their alleged involvement in illicit cyber activities in the country.\nThe development comes after a group of about 160 law enforcement officials conducted a series of raids on September 9, 2024, simultaneously at several locations.\nThe six men, aged between 32 and 42, are suspected of",
+          "link": "https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html",
+          "publishedOn": "2024-09-11T12:07:00.000Z",
+          "wordCount": null,
+          "title": "Singapore Police Arrest Six Hackers Linked to Global Cybercrime Syndicate",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KIY0oods2nr78ov_k_vn07TIt4-VVoG451Wc24sGhXNW6dxySasF1Q6laEpjx-kBYUwXSSU-rbWyRPf49ap0Zj9ZVy01HeOG3BMLHFBdrJCi2U_vtbnwBhK4kME9HdkJmFO0E3jb-xYVHIMUzm2eJeszuT5VxqBBoLdwpa3FjM3kDXtCMYxcIuIWhgk2/s1600/chinese.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_KIY0oods2nr78ov_k_vn07TIt4-VVoG451Wc24sGhXNW6dxySasF1Q6laEpjx-kBYUwXSSU-rbWyRPf49ap0Zj9ZVy01HeOG3BMLHFBdrJCi2U_vtbnwBhK4kME9HdkJmFO0E3jb-xYVHIMUzm2eJeszuT5VxqBBoLdwpa3FjM3kDXtCMYxcIuIWhgk2/s1600/chinese.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/why-is-it-so-challenging-to-go.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Imagine a world where you never have to remember another password. Seems like a dream come true for both end users and IT teams, right? But as the old saying goes, \"If it sounds too good to be true, it probably is.\" \nIf your organization is like many, you may be contemplating a move to passwordless authentication. But the reality is that a passwordless security approach comes with its own",
@@ -2444,6 +2460,116 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0768/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0768/",
+          "publishedOn": "2024-09-11T11:22:52.000Z",
+          "wordCount": 601,
+          "title": "Multiples vulnérabilités dans les produits Intel (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0767/",
+          "author": null,
+          "description": "Se référer au bulletin de sécurité de l'éditeur pour l'obtention des correctifs (cf. section Documentation).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0767/",
+          "publishedOn": "2024-09-11T09:22:46.000Z",
+          "wordCount": 382,
+          "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0766/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0766/",
+          "publishedOn": "2024-09-11T09:10:36.000Z",
+          "wordCount": 337,
+          "title": "Multiples vulnérabilités dans Google Chrome (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0765/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0765/",
+          "publishedOn": "2024-09-11T09:05:04.000Z",
+          "wordCount": 311,
+          "title": "Vulnérabilité dans MongoDB Server (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0764/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0764/",
+          "publishedOn": "2024-09-11T08:49:28.000Z",
+          "wordCount": 389,
+          "title": "Multiples vulnérabilités dans les produits Adobe (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0763/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Fortinet. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0763/",
+          "publishedOn": "2024-09-11T08:16:01.000Z",
+          "wordCount": 670,
+          "title": "Multiples vulnérabilités dans les produits Fortinet (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0762/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0762/",
+          "publishedOn": "2024-09-11T07:58:45.000Z",
+          "wordCount": 330,
+          "title": "Multiples vulnérabilités dans les produits Citrix (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/",
+          "publishedOn": "2024-09-11T07:37:13.000Z",
+          "wordCount": 1086,
+          "title": "Multiples vulnérabilités dans les produits Microsoft (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/",
+          "publishedOn": "2024-09-11T07:37:12.000Z",
+          "wordCount": 2054,
+          "title": "Multiples vulnérabilités dans Microsoft Windows (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/",
+          "publishedOn": "2024-09-11T07:37:12.000Z",
+          "wordCount": 579,
+          "title": "Multiples vulnérabilités dans Microsoft Azure (11 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/",
+          "publishedOn": "2024-09-11T07:37:10.000Z",
+          "wordCount": 577,
+          "title": "Multiples vulnérabilités dans Microsoft Office (11 septembre 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-011/",
           "author": null,
