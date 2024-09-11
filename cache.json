@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft on Tuesday disclosed that three new security flaws impacting the Windows platform have come under active exploitation as part of its Patch Tuesday update for September 2024.\nThe monthly security release addresses a total of 79 vulnerabilities, of which seven are rated Critical, 71 are rated Important, and one is rated Moderate in severity. This is aside from 26 flaws that the tech",
+          "link": "https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html",
+          "publishedOn": "2024-09-11T06:53:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVYlUXhUSqqDC9USX7cREHXW9cpffNtc82Fqv3UqE4-f3TUEuMlutGMEQoAHrE_gq413S8_m_YdMk-cf_-ehhLJag7F5gUGd4WpCBJ-My9QGSeWjSFPpl4uCsEvP27B1qKcs_wzWZX18qVVw95Z1NVAjK_-lwChbTbRuo8fakwkx_u91hgYnbR28wHJlaY/s1600/lock.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVYlUXhUSqqDC9USX7cREHXW9cpffNtc82Fqv3UqE4-f3TUEuMlutGMEQoAHrE_gq413S8_m_YdMk-cf_-ehhLJag7F5gUGd4WpCBJ-My9QGSeWjSFPpl4uCsEvP27B1qKcs_wzWZX18qVVw95Z1NVAjK_-lwChbTbRuo8fakwkx_u91hgYnbR28wHJlaY/s1600/lock.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ivanti has released software updates to address multiple security flaws impacting Endpoint Manager (EPM), including 10 critical vulnerabilities that could result in remote code execution.\nA brief description of the issues is as follows -\n\nCVE-2024-29847 (CVSS score: 10.0) - A deserialization of untrusted data vulnerability that allows a remote unauthenticated attacker to achieve code execution.",
+          "link": "https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html",
+          "publishedOn": "2024-09-11T06:30:00.000Z",
+          "wordCount": null,
+          "title": "Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NK2AOOmUrkh9G_pZ0w3Y_8h144WXd9NuY8mFIfeyfCCWfsXqkV4CVAh7D7_whF-iDpBOarLD9ZQz72Mbyu4nW-qP7-UszJpvS7Zx90gt9DPc-y6KkiCMSQ_1cggj_2vs2HRP4OS3cguW5S75aBWgX4Z45-WmMW-Tn6JJyOQ3GmJyqVeEGskw6sgOgcUF/s1600/ivanti.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NK2AOOmUrkh9G_pZ0w3Y_8h144WXd9NuY8mFIfeyfCCWfsXqkV4CVAh7D7_whF-iDpBOarLD9ZQz72Mbyu4nW-qP7-UszJpvS7Zx90gt9DPc-y6KkiCMSQ_1cggj_2vs2HRP4OS3cguW5S75aBWgX4Z45-WmMW-Tn6JJyOQ3GmJyqVeEGskw6sgOgcUF/s1600/ivanti.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The threat actor known as CosmicBeetle has debuted a new custom ransomware strain called ScRansom in attacks targeting small- and medium-sized businesses (SMBs) in Europe, Asia, Africa, and South America, while also likely working as an affiliate for RansomHub.\n\"CosmicBeetle replaced its previously deployed ransomware, Scarab, with ScRansom, which is continually improved,\" ESET researcher Jakub",

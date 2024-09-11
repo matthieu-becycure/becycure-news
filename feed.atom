@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-11T07:26:41.910Z</updated>
+    <updated>2024-09-11T07:43:36.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws]]></title>
+        <id>https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html</id>
+        <link href="https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html"/>
+        <updated>2024-09-11T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft on Tuesday disclosed that three new security flaws impacting the Windows platform have come under active exploitation as part of its Patch Tuesday update for September 2024.
+The monthly security release addresses a total of 79 vulnerabilities, of which seven are rated Critical, 71 are rated Important, and one is rated Moderate in severity. This is aside from 26 flaws that the tech]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities]]></title>
+        <id>https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html</id>
+        <link href="https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html"/>
+        <updated>2024-09-11T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ivanti has released software updates to address multiple security flaws impacting Endpoint Manager (EPM), including 10 critical vulnerabilities that could result in remote code execution.
+A brief description of the issues is as follows -
+
+CVE-2024-29847 (CVSS score: 10.0) - A deserialization of untrusted data vulnerability that allows a remote unauthenticated attacker to achieve code execution.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub]]></title>
         <id>https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html</id>
