@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-11T15:43:37.054Z</updated>
+    <updated>2024-09-11T16:15:08.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DragonRank Black Hat SEO Campaign Targeting IIS Servers Across Asia and Europe]]></title>
+        <id>https://thehackernews.com/2024/09/dragonrank-black-hat-seo-campaign.html</id>
+        <link href="https://thehackernews.com/2024/09/dragonrank-black-hat-seo-campaign.html"/>
+        <updated>2024-09-11T15:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A "simplified Chinese-speaking actor" has been linked to a new campaign that has targeted multiple countries in Asia and Europe with the end goal of performing search engine optimization (SEO) rank manipulation.
+The black hat SEO cluster has been codenamed DragonRank by Cisco Talos, with victimology footprint scattered across Thailand, India, Korea, Belgium, the Netherlands, and China.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Singapore Police Arrest Six Hackers Linked to Global Cybercrime Syndicate]]></title>
         <id>https://thehackernews.com/2024/09/singapore-police-arrest-six-for-alleged.html</id>
