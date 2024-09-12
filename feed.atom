@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-12T17:11:22.915Z</updated>
+    <updated>2024-09-12T17:30:18.138Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2856,18 +2856,6 @@ The number of DDoS]]></summary>
         <summary type="html"><![CDATA[Microsoft on Tuesday shipped fixes to address a total of 90 security flaws, including 10 zero-days, of which six have come under active exploitation in the wild.
 Of the 90 bugs, seven are rated Critical, 79 are rated Important, and one is rated Moderate in severity. This is also in addition to 36 vulnerabilities that the tech giant resolved in its Edge browser since last month.
 The Patch Tuesday]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access]]></title>
-        <id>https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html</id>
-        <link href="https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html"/>
-        <updated>2024-08-14T05:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Ivanti has rolled out security updates for a critical flaw in Virtual Traffic Manager (vTM) that could be exploited to achieve an authentication bypass and create rogue administrative users.
-The vulnerability, tracked as CVE-2024-7593, has a CVSS score of 9.8 out of a maximum of 10.0.
-"Incorrect implementation of an authentication algorithm in Ivanti vTM other than versions 22.2R1 or 22.7R2]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
