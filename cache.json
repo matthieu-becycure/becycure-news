@@ -2509,6 +2509,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0774/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0774/",
+          "publishedOn": "2024-09-12T12:42:25.000Z",
+          "wordCount": 447,
+          "title": "Vulnérabilité dans les produits Juniper Networks (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0773/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0773/",
+          "publishedOn": "2024-09-12T12:39:43.000Z",
+          "wordCount": 429,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0772/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0772/",
+          "publishedOn": "2024-09-12T08:44:36.000Z",
+          "wordCount": 573,
+          "title": "Multiples vulnérabilités dans les produits Cisco (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/",
+          "publishedOn": "2024-09-12T07:34:24.000Z",
+          "wordCount": 389,
+          "title": "Multiples vulnérabilités dans les produits Tenable (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0770/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0770/",
+          "publishedOn": "2024-09-12T07:14:50.000Z",
+          "wordCount": 762,
+          "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0769/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans GitLab. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0769/",
+          "publishedOn": "2024-09-12T06:59:40.000Z",
+          "wordCount": 433,
+          "title": "Multiples vulnérabilités dans GitLab (12 septembre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0768/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Intel. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
