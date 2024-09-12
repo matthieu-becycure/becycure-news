@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Nearly 1.3 million Android-based TV boxes running outdated versions of the operating system and belonging to users spanning 197 countries have been infected by a new malware dubbed Vo1d (aka Void).\n\"It is a backdoor that puts its components in the system storage area and, when commanded by attackers, is capable of secretly downloading and installing third-party software,\" Russian antivirus",
+          "link": "https://thehackernews.com/2024/09/beware-new-vo1d-malware-infects-13.html",
+          "publishedOn": "2024-09-12T13:46:00.000Z",
+          "wordCount": null,
+          "title": "Beware: New Vo1d Malware Infects 1.3 Million Android TV Boxes Worldwide",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VFlOkmjocz2dKdk8IKDlmp_ZwBbjvkass15qNPHFMz1AglZZNj_EuAocNOqbuZ-ziDooNpodC7-_AFHmn29BWCd3jmdlB1NKPMnaWivd1c0EXdnStcV2m_degVOqX1NQeQ_i9RqWV5Q0KqEz2dsuUcWi68-5o2X_LAU3SIY_98PQqr3b3sM9RkaXpq6k/s1600/android-tv-hacked.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_VFlOkmjocz2dKdk8IKDlmp_ZwBbjvkass15qNPHFMz1AglZZNj_EuAocNOqbuZ-ziDooNpodC7-_AFHmn29BWCd3jmdlB1NKPMnaWivd1c0EXdnStcV2m_degVOqX1NQeQ_i9RqWV5Q0KqEz2dsuUcWi68-5o2X_LAU3SIY_98PQqr3b3sM9RkaXpq6k/s1600/android-tv-hacked.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/exposed-selenium-grid-servers-targeted.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Internet-exposed Selenium Grid instances are being targeted by bad actors for illicit cryptocurrency mining and proxyjacking campaigns.\n\"Selenium Grid is a server that facilitates running test cases in parallel across different browsers and versions,\" Cado Security researchers Tara Gould and Nate Bill said in an analysis published today.\n\"However, Selenium Grid's default configuration lacks",
