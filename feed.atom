@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-12T11:10:30.250Z</updated>
+    <updated>2024-09-12T11:25:46.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 3 Threat Report Insights for Q2 2024]]></title>
+        <id>https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html</id>
+        <link href="https://thehackernews.com/2024/09/top-3-threat-report-insights-for-q2-2024.html"/>
+        <updated>2024-09-12T10:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Cato CTRL (Cyber Threats Research Lab) has released its Q2 2024 Cato CTRL SASE Threat Report. The report highlights critical findings based on the analysis of a staggering 1.38 trillion network flows from more than 2,500 of Cato’s global customers, between April and June 2024.
+Key Insights from the Q2 2024 Cato CTRL SASE Threat Report
+The report is packed with unique insights that are based on]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranian Cyber Group OilRig Targets Iraqi Government in Sophisticated Malware Attack]]></title>
+        <id>https://thehackernews.com/2024/09/iranian-cyber-group-oilrig-targets.html</id>
+        <link href="https://thehackernews.com/2024/09/iranian-cyber-group-oilrig-targets.html"/>
+        <updated>2024-09-12T10:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Iraqi government networks have emerged as the target of an "elaborate" cyber attack campaign orchestrated by an Iran state-sponsored threat actor called OilRig.
+The attacks singled out Iraqi organizations such as the Prime Minister's Office and the Ministry of Foreign Affairs, cybersecurity company Check Point said in a new analysis.
+OilRig, also called APT34, Crambus, Cobalt Gypsy, GreenBug,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ireland's Watchdog Launches Inquiry into Google's AI Data Practices in Europe]]></title>
+        <id>https://thehackernews.com/2024/09/irelands-watchdog-launches-inquiry-into.html</id>
+        <link href="https://thehackernews.com/2024/09/irelands-watchdog-launches-inquiry-into.html"/>
+        <updated>2024-09-12T10:32:00.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Data Protection Commission (DPC) has announced that it has commenced a "Cross-Border statutory inquiry" into Google's foundational artificial intelligence (AI) model to determine whether the tech giant has adhered to data protection regulations in the region when processing the personal data of European users.
+"The statutory inquiry concerns the question of whether Google has complied]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers]]></title>
         <id>https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html</id>
