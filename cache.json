@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "WordPress.org has announced a new account security measure that will require accounts with capabilities to update plugins and themes to activate two-factor authentication (2FA) mandatorily.\nThe enforcement is expected to come into effect starting October 1, 2024.\n\"Accounts with commit access can push updates and changes to plugins and themes used by millions of WordPress sites worldwide,\" the",
+          "link": "https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html",
+          "publishedOn": "2024-09-12T04:57:00.000Z",
+          "wordCount": null,
+          "title": "WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDLlM0DLGPeohTzpRxDDt82DGLODgWPB0r5MZfp69N-V5_U-91f5QVfzD_IltbzvifomXu__TPqDeAnKrzDCQ9DHR9ug6t56F7mOj96slXPm2ItXboDUZPN_CC5v31ZFfwi2w0UCZDJ_rkJSGaH79t07OBQ0jQ3ibEMfGAvX4Hmu8UTIPGja4y03PH8i-d/s1600/wordpress.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDLlM0DLGPeohTzpRxDDt82DGLODgWPB0r5MZfp69N-V5_U-91f5QVfzD_IltbzvifomXu__TPqDeAnKrzDCQ9DHR9ug6t56F7mOj96slXPm2ItXboDUZPN_CC5v31ZFfwi2w0UCZDJ_rkJSGaH79t07OBQ0jQ3ibEMfGAvX4Hmu8UTIPGja4y03PH8i-d/s1600/wordpress.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The operators of the mysterious Quad7 botnet are actively evolving by compromising several brands of SOHO routers and VPN appliances by leveraging a combination of both known and unknown security flaws.\nTargets include devices from TP-LINK, Zyxel, Asus, Axentra, D-Link, and NETGEAR, according to a new report by French cybersecurity company Sekoia.\n\"The Quad7 botnet operators appear to be",

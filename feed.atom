@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-12T04:45:56.743Z</updated>
+    <updated>2024-09-12T05:12:53.411Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[WordPress Mandates Two-Factor Authentication for Plugin and Theme Developers]]></title>
+        <id>https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html</id>
+        <link href="https://thehackernews.com/2024/09/wordpress-mandates-two-factor.html"/>
+        <updated>2024-09-12T04:57:00.000Z</updated>
+        <summary type="html"><![CDATA[WordPress.org has announced a new account security measure that will require accounts with capabilities to update plugins and themes to activate two-factor authentication (2FA) mandatorily.
+The enforcement is expected to come into effect starting October 1, 2024.
+"Accounts with commit access can push updates and changes to plugins and themes used by millions of WordPress sites worldwide," the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quad7 Botnet Expands to Target SOHO Routers and VPN Appliances]]></title>
         <id>https://thehackernews.com/2024/09/quad7-botnet-expands-to-target-soho.html</id>
