@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-12T18:38:28.004Z</updated>
+    <updated>2024-09-12T18:48:15.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2834,18 +2834,6 @@ Maksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morg
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Nagios XI. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDoS Attacks Surge 46% in First Half of 2024, Gcore Report Reveals]]></title>
-        <id>https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html</id>
-        <link href="https://thehackernews.com/2024/08/ddos-attacks-surge-46-in-first-half-of.html"/>
-        <updated>2024-08-14T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring evolving DDoS trends is essential for anticipating threats and adapting defensive strategies. The comprehensive Gcore Radar Report for the first half of 2024 provides detailed insights into DDoS attack data, showcasing changes in attack patterns and the broader landscape of cyber threats. Here, we share a selection of findings from the full report.
-Key Takeaways
-The number of DDoS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
