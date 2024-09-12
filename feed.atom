@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-12T17:43:31.356Z</updated>
+    <updated>2024-09-12T18:17:32.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2844,18 +2844,6 @@ Maksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morg
         <summary type="html"><![CDATA[Monitoring evolving DDoS trends is essential for anticipating threats and adapting defensive strategies. The comprehensive Gcore Radar Report for the first half of 2024 provides detailed insights into DDoS attack data, showcasing changes in attack patterns and the broader landscape of cyber threats. Here, we share a selection of findings from the full report.
 Key Takeaways
 The number of DDoS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Issues Patches for 90 Flaws, Including 10 Critical Zero-Day Exploits]]></title>
-        <id>https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html</id>
-        <link href="https://thehackernews.com/2024/08/microsoft-issues-patches-for-90-flaws.html"/>
-        <updated>2024-08-14T05:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Tuesday shipped fixes to address a total of 90 security flaws, including 10 zero-days, of which six have come under active exploitation in the wild.
-Of the 90 bugs, seven are rated Critical, 79 are rated Important, and one is rated Moderate in severity. This is also in addition to 36 vulnerabilities that the tech giant resolved in its Edge browser since last month.
-The Patch Tuesday]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
