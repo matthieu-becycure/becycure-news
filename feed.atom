@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-13T18:46:54.473Z</updated>
+    <updated>2024-09-13T19:10:05.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2795,17 +2795,6 @@ Identity Threat Detection and Response (ITDR) has emerged as a critical componen
         <updated>2024-08-15T10:45:00.000Z</updated>
         <summary type="html"><![CDATA[A cybercrime group with links to the RansomHub ransomware has been observed using a new tool designed to terminate endpoint detection and response (EDR) software on compromised hosts, joining the likes of other similar programs like AuKill (aka AvNeutralizer) and Terminator.
 The EDR-killing utility has been dubbed EDRKillShifter by cybersecurity company Sophos, which discovered the tool in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Vulnerability 'ArtiPACKED' Exposes Repositories to Potential Takeover]]></title>
-        <id>https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html</id>
-        <link href="https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html"/>
-        <updated>2024-08-15T06:47:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly discovered attack vector in GitHub Actions artifacts dubbed ArtiPACKED could be exploited to take over repositories and gain access to organizations' cloud environments.
-"A combination of misconfigurations and security flaws can make artifacts leak tokens, both of third party cloud services and GitHub tokens, making them available for anyone with read access to the repository to consume,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

@@ -2468,22 +2468,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkvMRdgdYiNd3kiBTIudu8V7y7qV9U5XWyS55nMHJ_6vgBTmtK-ohlr3btHImwtMLV4RFWLfXxn4iJeiSf39bnoUa8BYYU2ULw1L0PsStsEuaPpwhpNSsEBe1vQJI8iAUjxsSaX_A1GM0Z-QXqGwrWlSwCEGJaig4PCAouAoH98GCJseBu4DNshnZr6Fk/s1600/edr-killer.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmkvMRdgdYiNd3kiBTIudu8V7y7qV9U5XWyS55nMHJ_6vgBTmtK-ohlr3btHImwtMLV4RFWLfXxn4iJeiSf39bnoUa8BYYU2ULw1L0PsStsEuaPpwhpNSsEBe1vQJI8iAUjxsSaX_A1GM0Z-QXqGwrWlSwCEGJaig4PCAouAoH98GCJseBu4DNshnZr6Fk/s1600/edr-killer.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A newly discovered attack vector in GitHub Actions artifacts dubbed ArtiPACKED could be exploited to take over repositories and gain access to organizations' cloud environments.\n\"A combination of misconfigurations and security flaws can make artifacts leak tokens, both of third party cloud services and GitHub tokens, making them available for anyone with read access to the repository to consume,",
-          "link": "https://thehackernews.com/2024/08/github-vulnerability-artipacked-exposes.html",
-          "publishedOn": "2024-08-15T06:47:00.000Z",
-          "wordCount": null,
-          "title": "GitHub Vulnerability 'ArtiPACKED' Exposes Repositories to Potential Takeover",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi617tOhQfCEgCMHVT1sj1jhauvd-GbvTjK7uYMiy9REowwnutaB-EC67GY8ffjMQTcy5AH6K5mHYu3QyVuHxbz3Na4dnumV_fclLMqupV5SVvGdyclZ5RBSbVcCJthDvIeEIPV9e7CFCO61tU0jeac0XHJnkpkE5omYj8w6ex4Dm2iuc8giJwO-1j7IJU4/s1600/git.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi617tOhQfCEgCMHVT1sj1jhauvd-GbvTjK7uYMiy9REowwnutaB-EC67GY8ffjMQTcy5AH6K5mHYu3QyVuHxbz3Na4dnumV_fclLMqupV5SVvGdyclZ5RBSbVcCJthDvIeEIPV9e7CFCO61tU0jeac0XHJnkpkE5omYj8w6ex4Dm2iuc8giJwO-1j7IJU4/s1600/git.png"
         }
       ]
     },
