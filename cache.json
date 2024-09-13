@@ -2436,22 +2436,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s1600/ransomware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVnIva3IktEgRvW-dNdjUv5aI3w7XWepKUhiavjulBhJ7bRSVigh24OtkHnn0eZzFAfBZ2T25q8j8qXU45atRlc-2kKw1PCmA_o77ZiMQU1B18pwpPmj-KODX827jpGDLiVx24iFtgcE1QJeoPJ7kiA1rVs2k4EpNlF9SHJ_dcitOlt2TEGaeqNKqgQGdj/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A coalition of law enforcement agencies coordinated by the U.K. National Crime Agency (NCA) has led to the arrest and extradition of a Belarussian and Ukrainian dual-national believed to be associated with Russian-speaking cybercrime groups.\nMaksim Silnikau (aka Maksym Silnikov), 38, went by the online monikers J.P. Morgan, xxx, and lansky. He was extradited to the U.S. from Poland on August 9,",
-          "link": "https://thehackernews.com/2024/08/belarusian-ukrainian-hacker-extradited.html",
-          "publishedOn": "2024-08-14T12:02:00.000Z",
-          "wordCount": null,
-          "title": "Belarusian-Ukrainian Hacker Extradited to U.S. for Ransomware and Cybercrime Charges",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s1600/hacker.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngJQC_4_ivowOAboVet-YU4TapAf-4i-n5ZnrNq7wZ19dluU6-nOPTyseZoUd5mtBHKqBTYuueksqfalZ2NlrPoyp6YLAd2PBYlmSCkaWD9_oOR317VyYSpCRHw9ztcrJYXH5kMhLxFnmmqATgMT9oZUxdjb9XirFrrL7gfjbIipIHuff-imm2pEmQye4/s1600/hacker.jpg"
         }
       ]
     },
@@ -3478,16 +3462,6 @@
           "publishedOn": "2024-08-14T13:32:45.000Z",
           "wordCount": 2034,
           "title": "Multiples vulnérabilités dans les produits Intel (14 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0678/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0678/",
-          "publishedOn": "2024-08-14T12:53:48.000Z",
-          "wordCount": 599,
-          "title": "Multiples vulnérabilités dans les produits Adobe (14 août 2024)",
           "imageUrl": null
         }
       ]
