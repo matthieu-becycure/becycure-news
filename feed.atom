@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-13T11:43:40.599Z</updated>
+    <updated>2024-09-13T12:22:52.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft]]></title>
+        <id>https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html</id>
+        <link href="https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html"/>
+        <updated>2024-09-13T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Even as cyber threats become increasingly sophisticated, the number one attack vector for unauthorized access remains phished credentials (Verizon DBIR, 2024). Solving this problem resolves over 80% of your corporate risk, and a solution is possible. 
+However, most tools available on the market today cannot offer a complete defense against this attack vector because they were architected to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud]]></title>
+        <id>https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html</id>
+        <link href="https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html"/>
+        <updated>2024-09-13T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials.
+"The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said. "In addition,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw]]></title>
+        <id>https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html</id>
+        <link href="https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html"/>
+        <updated>2024-09-13T11:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Malicious actors are likely leveraging publicly available proof-of-concept (PoC) exploits for recently disclosed security flaws in Progress Software WhatsUp Gold to conduct opportunistic attacks.
+The activity is said to have commenced on August 30, 2024, a mere five hours after a PoC was released for CVE-2024-6670 (CVSS score: 9.8) by security researcher Sina Kheirkhah of the Summoning Team, who]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Linux Malware Campaign Exploits Oracle Weblogic to Mine Cryptocurrency]]></title>
         <id>https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html</id>

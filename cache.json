@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Even as cyber threats become increasingly sophisticated, the number one attack vector for unauthorized access remains phished credentials (Verizon DBIR, 2024). Solving this problem resolves over 80% of your corporate risk, and a solution is possible. \nHowever, most tools available on the market today cannot offer a complete defense against this attack vector because they were architected to",
+          "link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
+          "publishedOn": "2024-09-13T11:17:00.000Z",
+          "wordCount": null,
+          "title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s1600/beyond.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s1600/beyond.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials.\n\"The mechanisms include using malformed ZIP files in combination with JSONPacker,\" Cleafy security researchers Michele Roviello and Alessandro Strino said. \"In addition,",
+          "link": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
+          "publishedOn": "2024-09-13T11:17:00.000Z",
+          "wordCount": null,
+          "title": "TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s1600/android.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Malicious actors are likely leveraging publicly available proof-of-concept (PoC) exploits for recently disclosed security flaws in Progress Software WhatsUp Gold to conduct opportunistic attacks.\nThe activity is said to have commenced on August 30, 2024, a mere five hours after a PoC was released for CVE-2024-6670 (CVSS score: 9.8) by security researcher Sina Kheirkhah of the Summoning Team, who",
+          "link": "https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html",
+          "publishedOn": "2024-09-13T11:04:00.000Z",
+          "wordCount": null,
+          "title": "Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwsCKnKbm_k5Z4LYVTzJRb2JJVbADj2n7Gv8g1Peqss7CBJDnW6s-lzg9_gOKD4cNKkuNUvMC6P-bTIgBMnauQGCTRlEv6eY6ES3FDD117tPlNs8kVW6Mr-eOmTjt9Yf08zQZVlOuBELFpPAYhHcds8L2Z9qI3MNN21C7ejC93Mmr8eKfM9k9hGLmRFMw/s1600/whats.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNwsCKnKbm_k5Z4LYVTzJRb2JJVbADj2n7Gv8g1Peqss7CBJDnW6s-lzg9_gOKD4cNKkuNUvMC6P-bTIgBMnauQGCTRlEv6eY6ES3FDD117tPlNs8kVW6Mr-eOmTjt9Yf08zQZVlOuBELFpPAYhHcds8L2Z9qI3MNN21C7ejC93Mmr8eKfM9k9hGLmRFMw/s1600/whats.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-linux-malware-campaign-exploits.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining.\nThe activity, which specifically singles out the Oracle Weblogic server, is designed to deliver malware dubbed Hadooken, according to cloud security firm Aqua.\n\"When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner,\" security researcher",
