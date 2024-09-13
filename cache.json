@@ -2493,6 +2493,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0780/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0780/",
+          "publishedOn": "2024-09-13T12:04:58.000Z",
+          "wordCount": 436,
+          "title": "Multiples vulnérabilités dans les produits IBM (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0779/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0779/",
+          "publishedOn": "2024-09-13T11:58:31.000Z",
+          "wordCount": 2811,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0778/",
+          "publishedOn": "2024-09-13T11:30:25.000Z",
+          "wordCount": 1886,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/",
+          "publishedOn": "2024-09-13T11:27:14.000Z",
+          "wordCount": 766,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/",
+          "publishedOn": "2024-09-13T07:35:00.000Z",
+          "wordCount": 322,
+          "title": "Vulnérabilité dans Spring Framework (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/",
+          "publishedOn": "2024-09-13T07:33:05.000Z",
+          "wordCount": 390,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (13 septembre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0774/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans Juniper Networks. Elle permet à un attaquant de provoquer un déni de service à distance.",
