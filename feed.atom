@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-13T22:43:38.897Z</updated>
+    <updated>2024-09-13T23:12:17.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2773,28 +2773,6 @@ The flaw, tracked as CVE-2024-28986 (CVSS score: 9.8), has been described as a d
         <updated>2024-08-15T11:43:00.000Z</updated>
         <summary type="html"><![CDATA[Russian and Belarusian non-profit organizations, Russian independent media, and international non-governmental organizations active in Eastern Europe have become the target of two separate spear-phishing campaigns orchestrated by threat actors whose interests align with that of the Russian government.
 While one of the campaigns – dubbed River of Phish – has been attributed to COLDRIVER, an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Identity Threat Detection and Response Solution Guide]]></title>
-        <id>https://thehackernews.com/2024/08/identity-threat-detection-and-response.html</id>
-        <link href="https://thehackernews.com/2024/08/identity-threat-detection-and-response.html"/>
-        <updated>2024-08-15T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Emergence of Identity Threat Detection and Response
-Identity Threat Detection and Response (ITDR) has emerged as a critical component to effectively detect and respond to identity-based attacks. Threat actors have shown their ability to compromise the identity infrastructure and move laterally into IaaS, Saas, PaaS and CI/CD environments. Identity Threat Detection and Response solutions help]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RansomHub Group Deploys New EDR-Killing Tool in Latest Cyber Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html</id>
-        <link href="https://thehackernews.com/2024/08/ransomhub-group-deploys-new-edr-killing.html"/>
-        <updated>2024-08-15T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[A cybercrime group with links to the RansomHub ransomware has been observed using a new tool designed to terminate endpoint detection and response (EDR) software on compromised hosts, joining the likes of other similar programs like AuKill (aka AvNeutralizer) and Terminator.
-The EDR-killing utility has been dubbed EDRKillShifter by cybersecurity company Sophos, which discovered the tool in]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
