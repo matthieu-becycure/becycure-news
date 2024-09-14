@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-14T04:32:40.546Z</updated>
+    <updated>2024-09-14T04:44:24.566Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ivanti Warns of Active Exploitation of Newly Patched Cloud Appliance Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html</id>
+        <link href="https://thehackernews.com/2024/09/ivanti-warns-of-active-exploitation-of.html"/>
+        <updated>2024-09-14T04:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Ivanti has revealed that a newly patched security flaw in its Cloud Service Appliance (CSA) has come under active exploitation in the wild.
+The high-severity vulnerability in question is CVE-2024-8190 (CVSS score: 7.2), which allows remote code execution under certain circumstances.
+"An OS command injection vulnerability in Ivanti Cloud Services Appliance versions 4.6 Patch 518 and before allows]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Vision Pro Vulnerability Exposed Virtual Keyboard Inputs to Attackers]]></title>
         <id>https://thehackernews.com/2024/09/apple-vision-pro-vulnerability-exposed.html</id>
