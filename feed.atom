@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-14T19:09:20.321Z</updated>
+    <updated>2024-09-14T19:24:49.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2751,17 +2751,6 @@ The activity cluster, orchestrated by Russian-speaking cybercriminals and collec
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered new stealer malware that's designed to specifically target Apple macOS systems.
 Dubbed Banshee Stealer, it's offered for sale in the cybercrime underground for a steep price of $3,000 a month and works across both x86_64 and ARM64 architectures. 
 "Banshee Stealer targets a wide range of browsers, cryptocurrency wallets, and around 100 browser]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk]]></title>
-        <id>https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html</id>
-        <link href="https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html"/>
-        <updated>2024-08-16T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A large percentage of Google's own Pixel devices shipped globally since September 2017 included dormant software that could be used to stage nefarious attacks and deliver various kinds of malware.
-The issue manifests in the form of a pre-installed Android app called "Showcase.apk" that comes with excessive system privileges, including the ability to remotely execute code and install arbitrary]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
