@@ -3355,56 +3355,6 @@
           "wordCount": 661,
           "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (16 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Elastic APM Server. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0690/",
-          "publishedOn": "2024-08-16T09:08:39.000Z",
-          "wordCount": 320,
-          "title": "Vulnérabilité dans Elastic APM Server (16 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0689/",
-          "publishedOn": "2024-08-16T09:04:51.000Z",
-          "wordCount": 349,
-          "title": "Multiples vulnérabilités dans Spring Framework (16 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0688/",
-          "publishedOn": "2024-08-16T09:01:19.000Z",
-          "wordCount": 320,
-          "title": "Vulnérabilité dans Grafana (16 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Mitel Unify OpenScape Business Application. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0687/",
-          "publishedOn": "2024-08-16T08:49:46.000Z",
-          "wordCount": 338,
-          "title": "Multiples vulnérabilités dans Mitel Unify OpenScape Business Application (16 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Xen. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0686/",
-          "publishedOn": "2024-08-16T08:46:34.000Z",
-          "wordCount": 355,
-          "title": "Multiples vulnérabilités dans Xen (16 août 2024)",
-          "imageUrl": null
         }
       ]
     }
