@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-16T13:02:37.028Z</updated>
+    <updated>2024-09-16T13:33:56.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html</id>
+        <link href="https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html"/>
+        <updated>2024-09-16T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[A now-patched critical security flaw impacting Google Cloud Platform (GCP) Composer could have been exploited to achieve remote code execution on cloud servers by means of a supply chain attack technique called dependency confusion.
+The vulnerability has been codenamed CloudImposer by Tenable Research.
+"The vulnerability could have allowed an attacker to hijack an internal software dependency]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware]]></title>
+        <id>https://thehackernews.com/2024/09/north-korean-hackers-target.html</id>
+        <link href="https://thehackernews.com/2024/09/north-korean-hackers-target.html"/>
+        <updated>2024-09-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers are continuing to warn about North Korean threat actors' attempts to target prospective victims on LinkedIn to deliver malware called RustDoor.
+The latest advisory comes from Jamf Threat Labs, which said it spotted an attack attempt in which a user was contacted on the professional social network by claiming to be a recruiter for a legitimate decentralized]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Breach to Recovery: Designing an Identity-Focused Incident Response Playbook]]></title>
         <id>https://thehackernews.com/2024/09/from-breach-to-recovery-designing.html</id>
