@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-17T21:43:47.306Z</updated>
+    <updated>2024-09-17T22:11:37.930Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2712,17 +2712,6 @@ There is evidence pointing to UULoader being the work of a Chinese speaker due t
         <link href="https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html"/>
         <updated>2024-08-19T10:49:00.000Z</updated>
         <summary type="html"><![CDATA[According to recent research on employee offboarding, 70% of IT professionals say they’ve experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren’t in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xeon Sender Tool Exploits Cloud APIs for Large-Scale SMS Phishing Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html</id>
-        <link href="https://thehackernews.com/2024/08/xeon-sender-tool-exploits-cloud-apis.html"/>
-        <updated>2024-08-19T10:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors are using a cloud attack tool named Xeon Sender to conduct SMS phishing and spam campaigns on a large scale by abusing legitimate services.
-"Attackers can use Xeon to send messages through multiple software-as-a-service (SaaS) providers using valid credentials for the service providers," SentinelOne security researcher Alex Delamotte said in a report shared with The Hacker News.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
