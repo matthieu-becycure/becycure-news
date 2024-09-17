@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-17T18:47:27.729Z</updated>
+    <updated>2024-09-17T19:09:46.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2735,18 +2735,6 @@ There is evidence pointing to UULoader being the work of a Chinese speaker due t
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Patches Zero-Day Flaw Exploited by North Korea’s Lazarus Group]]></title>
-        <id>https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html</id>
-        <link href="https://thehackernews.com/2024/08/microsoft-patches-zero-day-flaw.html"/>
-        <updated>2024-08-19T07:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A newly patched security flaw in Microsoft Windows was exploited as a zero-day by Lazarus Group, a prolific state-sponsored actor affiliated with North Korea.
-The security vulnerability, tracked as CVE-2024-38193 (CVSS score: 7.8), has been described as a privilege escalation bug in the Windows Ancillary Function Driver (AFD.sys) for WinSock.
-"An attacker who successfully exploited this]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
