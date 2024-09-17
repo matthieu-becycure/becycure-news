@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-17T15:13:11.017Z</updated>
+    <updated>2024-09-17T15:30:33.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -47,6 +47,26 @@
         <summary type="html"><![CDATA[Since launching ChatGPT in 2022, OpenAI has defied expectations with a steady stream of product announcements and enhancements. One such announcement came on May 16, 2024, and for most consumers, it probably felt innocuous. Titled “Improvements to data analysis in ChatGPT,” the post outlines how users can add files directly from Google Drive and Microsoft OneDrive. It’s worth mentioning]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Apple (17 septembre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/"/>
+        <updated>2024-09-17T09:17:58.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Ivanti Cloud Service Appliance (17 septembre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0784/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0784/"/>
+        <updated>2024-09-17T07:34:07.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Ivanti déclare que la vulnérabilité CVE-2024-8190 est activement exploitée dans le cadre d'attaques ciblées.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>
