@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKB2knSk0AvxOzZB-SD1rO8OBCzisRCpgehXYtyG7yVMkQ02mW97PSJkoZgbbsDtm_btidEub1V4imaWpbQK5mz4Oys4_JJUZJO3fEBUhhaLPFPQ4fjxSO1AwixJkv1jL39ZaLib0mgGsWlMVWBcSN0j519xJ4-kyEmhE1-Sd0DMXkhUT2yI-seVCREpSr/s1600/hacker.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKB2knSk0AvxOzZB-SD1rO8OBCzisRCpgehXYtyG7yVMkQ02mW97PSJkoZgbbsDtm_btidEub1V4imaWpbQK5mz4Oys4_JJUZJO3fEBUhhaLPFPQ4fjxSO1AwixJkv1jL39ZaLib0mgGsWlMVWBcSN0j519xJ4-kyEmhE1-Sd0DMXkhUT2yI-seVCREpSr/s1600/hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented backdoor named Msupedge has been put to use against a cyber attack targeting an unnamed university in Taiwan.\n\"The most notable feature of this backdoor is that it communicates with a command-and-control (C&C) server via DNS traffic,\" the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News.\nThe origins of the backdoor are",
-          "link": "https://thehackernews.com/2024/08/hackers-exploit-php-vulnerability-to.html",
-          "publishedOn": "2024-08-20T10:25:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Exploit PHP Vulnerability to Deploy Stealthy Msupedge Backdoor",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUWsZNOreAdgvj-xKIuQccnrXUDt99Ud09fJifvhAvZ5XgfHp4UsdicXtwwrc2ewEUHJwLCVzrm0UcugeHRCZWEB_igoSpcdQlhKlZxaZ_GeqA-mv9dZcqXsM0LqwDNgMMgex4_2Vop4KXl0gQhlz7WU-elg-k8C4xf01Fx4X7-jyn0YUVIiTaY3Oo1Rml/s1600/php.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUWsZNOreAdgvj-xKIuQccnrXUDt99Ud09fJifvhAvZ5XgfHp4UsdicXtwwrc2ewEUHJwLCVzrm0UcugeHRCZWEB_igoSpcdQlhKlZxaZ_GeqA-mv9dZcqXsM0LqwDNgMMgex4_2Vop4KXl0gQhlz7WU-elg-k8C4xf01Fx4X7-jyn0YUVIiTaY3Oo1Rml/s1600/php.png"
         }
       ]
     },
