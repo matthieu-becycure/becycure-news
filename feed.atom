@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T21:27:12.954Z</updated>
+    <updated>2024-09-18T21:43:36.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2719,17 +2719,6 @@ The origins of the backdoor are]]></summary>
         <link href="https://thehackernews.com/2024/08/anatomy-of-attack.html"/>
         <updated>2024-08-20T10:06:00.000Z</updated>
         <summary type="html"><![CDATA[In today's rapidly evolving cyber threat landscape, organizations face increasingly sophisticated attacks targeting their applications. Understanding these threats and the technologies designed to combat them is crucial. This article delves into the mechanics of a common application attack, using the infamous Log4Shell vulnerability as an example, and demonstrates how Application Detection and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Uncover TLS Bootstrap Attack on Azure Kubernetes Clusters]]></title>
-        <id>https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html</id>
-        <link href="https://thehackernews.com/2024/08/researchers-uncover-tls-bootstrap.html"/>
-        <updated>2024-08-20T09:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a security flaw impacting Microsoft Azure Kubernetes Services that, if successfully exploited, could allow an attacker to escalate their privileges and access credentials for services used by the cluster.
-"An attacker with command execution in a Pod running within an affected Azure Kubernetes Services cluster could download the configuration used to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
