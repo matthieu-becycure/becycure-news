@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The GSM Association, the governing body that oversees the development of the Rich Communications Services (RCS) protocol, on Tuesday, said it's working towards implementing end-to-end encryption (E2EE) to secure messages sent between the Android and iOS ecosystems.\n\"The next major milestone is for the RCS Universal Profile to add important user protections such as interoperable end-to-end",
+          "link": "https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html",
+          "publishedOn": "2024-09-18T06:18:00.000Z",
+          "wordCount": null,
+          "title": "GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s1600/mobile.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWrRgdEXGShZfz7jINC6mmvoUtuUrV78PH9t7EdAh0_hyTOiKGCkwf3Wq2UaBrUBQy8YU7lwvWQnI3Br__-CGQQmJ0oBXGmy5VSepqJ1O6BMLmkKsbMg7VTOwipXS4UEabbNwfRxNDzRVO9r0z2a0VRG9KaeLNPFVDiOpYJUAm45uFR_HA2_OEvCUPwE9P/s1600/mobile.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Broadcom on Tuesday released updates to address a critical security flaw impacting VMware vCenter Server that could pave the way for remote code execution.\nThe vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been described as a heap-overflow vulnerability in the DCE/RPC protocol.\n\"A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a",
