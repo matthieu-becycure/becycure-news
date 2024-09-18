@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T16:47:36.373Z</updated>
+    <updated>2024-09-18T17:11:09.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New "Raptor Train" IoT Botnet Compromises Over 200,000 Devices Worldwide]]></title>
+        <id>https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html</id>
+        <link href="https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html"/>
+        <updated>2024-09-18T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a never-before-seen botnet comprising an army of small office/home office (SOHO) and IoT devices that are likely operated by a Chinese nation-state threat actor called Flax Typhoon (aka Ethereal Panda or RedJuliett).
+The sophisticated botnet, dubbed Raptor Train by Lumen's Black Lotus Labs, is believed to have been operational since at least May 2020,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chinese Engineer Charged in U.S. for Years-Long Cyber Espionage Targeting NASA and Military]]></title>
         <id>https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html</id>
@@ -2763,18 +2774,6 @@ Targets of these attacks span several sectors, including governmental institutio
         <updated>2024-08-20T05:27:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers are warning about the discovery of thousands of externally-facing Oracle NetSuite e-commerce sites that have been found susceptible to leaking sensitive customer information.
 "A potential issue in NetSuite's SuiteCommerce platform could allow attackers to access sensitive data due to misconfigured access controls on custom record types (CRTs)," AppOmni's Aaron Costello]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Warns of Critical Jenkins Vulnerability Exploited in Ransomware Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html</id>
-        <link href="https://thehackernews.com/2024/08/cisa-warns-of-critical-jenkins.html"/>
-        <updated>2024-08-20T04:53:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security flaw impacting Jenkins to its Known Exploited Vulnerabilities (KEV) catalog, following its exploitation in ransomware attacks.
-The vulnerability, tracked as CVE-2024-23897 (CVSS score: 9.8), is a path traversal flaw that could lead to code execution.
-"Jenkins Command Line Interface (CLI) contains a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
