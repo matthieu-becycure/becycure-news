@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T21:43:36.523Z</updated>
+    <updated>2024-09-18T22:12:24.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2709,16 +2709,6 @@ The attacks have targeted the Czech-based Československá obchodní banka (CSOB
         <summary type="html"><![CDATA[A previously undocumented backdoor named Msupedge has been put to use against a cyber attack targeting an unnamed university in Taiwan.
 "The most notable feature of this backdoor is that it communicates with a command-and-control (C&C) server via DNS traffic," the Symantec Threat Hunter Team, part of Broadcom, said in a report shared with The Hacker News.
 The origins of the backdoor are]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anatomy of an Attack]]></title>
-        <id>https://thehackernews.com/2024/08/anatomy-of-attack.html</id>
-        <link href="https://thehackernews.com/2024/08/anatomy-of-attack.html"/>
-        <updated>2024-08-20T10:06:00.000Z</updated>
-        <summary type="html"><![CDATA[In today's rapidly evolving cyber threat landscape, organizations face increasingly sophisticated attacks targeting their applications. Understanding these threats and the technologies designed to combat them is crucial. This article delves into the mechanics of a common application attack, using the infamous Log4Shell vulnerability as an example, and demonstrates how Application Detection and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
