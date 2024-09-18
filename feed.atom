@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T09:14:13.890Z</updated>
+    <updated>2024-09-18T09:31:32.327Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing]]></title>
+        <id>https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html</id>
+        <link href="https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html"/>
+        <updated>2024-09-18T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced that it's rolling out a new set of features to its Chrome browser that gives users more control over their data when surfing the internet and protects against online threats.
+"With the newest version of Chrome, you can take advantage of our upgraded Safety Check, opt out of unwanted website notifications more easily and grant select permissions to a site for one time only,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging]]></title>
         <id>https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html</id>
