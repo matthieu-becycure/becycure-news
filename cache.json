@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnZmTHpxloKcJO06yzh7h0iUH9sfV6cHsFvb6lMhI5f6I-6o_HBWhT-HvntmAUhO47HnBgteP_L58h_BdghIJ4WJLuj3pPgbeIQzCZ9qN8gyHn8FILIMTXuBtm4ub3pQQhyxtRqSnij22wXKc9ebXe4GNFasrzsSaNnPK6-wdB6fUiZ5c4inQ1R3tzEoE/s1600/ransomware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKnZmTHpxloKcJO06yzh7h0iUH9sfV6cHsFvb6lMhI5f6I-6o_HBWhT-HvntmAUhO47HnBgteP_L58h_BdghIJ4WJLuj3pPgbeIQzCZ9qN8gyHn8FILIMTXuBtm4ub3pQQhyxtRqSnij22wXKc9ebXe4GNFasrzsSaNnPK6-wdB6fUiZ5c4inQ1R3tzEoE/s1600/ransomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new type of malware called UULoader is being used by threat actors to deliver next-stage payloads like Gh0st RAT and Mimikatz.\nThe Cyberint Research Team, which discovered the malware, said it's distributed in the form of malicious installers for legitimate applications targeting Korean and Chinese speakers.\nThere is evidence pointing to UULoader being the work of a Chinese speaker due to the",
-          "link": "https://thehackernews.com/2024/08/new-uuloader-malware-distributes-gh0st.html",
-          "publishedOn": "2024-08-19T13:06:00.000Z",
-          "wordCount": null,
-          "title": "New UULoader Malware Distributes Gh0st RAT and Mimikatz in East Asia",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
         }
       ]
     },
