@@ -2404,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK825J80Vk3Iq9bcAA_V2aV0-BrZXuA_l4AGRvriik2BYGGRPGjwmemfh-ZYzDfqS9bAfjoRjVQlq595Z5RrwIY5VyXcMdE3FDewQS7ZlE9YK4fbfkYPimvVl1GJepUEDIlx8dy-vyv6Q6EcmrdVOUV7UhdMfTpD2mOD5scMxxgQ3UOLBj_4-FS3-GGXxp/s1600/chinese-korea.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a surge in malware infections stemming from malvertising campaigns distributing a loader called FakeBat.\n\"These attacks are opportunistic in nature, targeting users seeking popular business software,\" the Mandiant Managed Defense team said in a technical report. \"The infection utilizes a trojanized MSIX installer, which executes a PowerShell script to",
-          "link": "https://thehackernews.com/2024/08/cybercriminals-exploit-popular-software.html",
-          "publishedOn": "2024-08-19T12:37:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Exploit Popular Software Searches to Spread FakeBat Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s1600/hacking.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfGWg4pdOCNrFwYCuRdFgJKFgvaoWAUc-SRqi4xSOLaSLP1PNNEHZ0GhL31I7eTxkXtMq59tCC57TabqWkqm-1qNaSDAapQSI5sPXgG-kp71UQKf7yAu3FaqOSBI7-1Z5cyYjby7wUT3Wg0XWBd_96lIS_p1EhAp5WdTCgZQ-z4l3fUanjpeHQnPP1_gWf/s1600/hacking.gif"
         }
       ]
     },
@@ -3356,36 +3340,6 @@
           "publishedOn": "2024-08-19T14:49:25.000Z",
           "wordCount": 647,
           "title": "Multiples vulnérabilités dans les produits F5 et Nginx (19 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0698/",
-          "publishedOn": "2024-08-19T12:44:49.000Z",
-          "wordCount": 374,
-          "title": "Vulnérabilité dans Microsoft Office (19 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0697/",
-          "publishedOn": "2024-08-19T12:44:48.000Z",
-          "wordCount": 306,
-          "title": "Vulnérabilité dans Microsoft Edge (19 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0696/",
-          "publishedOn": "2024-08-19T12:03:59.000Z",
-          "wordCount": 719,
-          "title": "Multiples vulnérabilités dans Moodle (19 août 2024)",
           "imageUrl": null
         }
       ]
