@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T14:43:39.675Z</updated>
+    <updated>2024-09-18T15:13:29.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Engineer Charged in U.S. for Years-Long Cyber Espionage Targeting NASA and Military]]></title>
+        <id>https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html</id>
+        <link href="https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html"/>
+        <updated>2024-09-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Chinese national has been indicted in the U.S. on charges of conducting a "multi-year" spear-phishing campaign to obtain unauthorized access to computer software and source code created by the National Aeronautics and Space Administration (NASA), research universities, and private companies.
+Song Wu, 39, has been charged with 14 counts of wire fraud and 14 counts of aggravated identity theft.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Pay A Pentester?]]></title>
         <id>https://thehackernews.com/2024/09/why-pay-pentester.html</id>
