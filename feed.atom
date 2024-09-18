@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T10:44:09.730Z</updated>
+    <updated>2024-09-18T11:10:51.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware]]></title>
+        <id>https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html</id>
+        <link href="https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html"/>
+        <updated>2024-09-18T09:32:00.000Z</updated>
+        <summary type="html"><![CDATA[A North Korea-linked cyber-espionage group has been observed leveraging job-themed phishing lures to target prospective victims in energy and aerospace verticals and infect them with a previously undocumented backdoor dubbed MISTPEN.
+The activity cluster is being tracked by Google-owned Mandiant under the moniker UNC2970, which it said overlaps with a threat group known as TEMP.Hermit, which is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing]]></title>
         <id>https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html</id>
