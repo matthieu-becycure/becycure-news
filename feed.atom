@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T17:11:09.437Z</updated>
+    <updated>2024-09-18T17:30:09.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2763,17 +2763,6 @@ Enterprise security company Proofpoint is tracking the activity under the name T
         <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a threat actor known as Blind Eagle that has persistently targeted entities and individuals in Colombia, Ecuador, Chile, Panama, and other Latin American nations.
 Targets of these attacks span several sectors, including governmental institutions, financial companies, energy and oil and gas companies.
 "Blind Eagle has demonstrated adaptability in]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thousands of Oracle NetSuite Sites at Risk of Exposing Customer Information]]></title>
-        <id>https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html</id>
-        <link href="https://thehackernews.com/2024/08/thousands-of-oracle-netsuite-sites-at.html"/>
-        <updated>2024-08-20T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are warning about the discovery of thousands of externally-facing Oracle NetSuite e-commerce sites that have been found susceptible to leaking sensitive customer information.
-"A potential issue in NetSuite's SuiteCommerce platform could allow attackers to access sensitive data due to misconfigured access controls on custom record types (CRTs)," AppOmni's Aaron Costello]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
