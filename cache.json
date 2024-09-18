@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Broadcom on Tuesday released updates to address a critical security flaw impacting VMware vCenter Server that could pave the way for remote code execution.\nThe vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been described as a heap-overflow vulnerability in the DCE/RPC protocol.\n\"A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a",
+          "link": "https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html",
+          "publishedOn": "2024-09-18T05:08:00.000Z",
+          "wordCount": null,
+          "title": "Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMC2DXqJkT9gUlSpCnH6er3vRFfu4PXM_XPALdbscs9PO53KS6LIajmxqL9OU6ASd9YqCONOEZOmQ9bysok7a3CQTA7Rbth8qQZhN-_dFZBsl6_F9WYiqcSq6zU-EK0-vVCNhOCmPYkAh-AMhndzm476610sCoREdf5GoS8OgGPxceUC7N1LU2T_rtnsuN/s1600/vmware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMC2DXqJkT9gUlSpCnH6er3vRFfu4PXM_XPALdbscs9PO53KS6LIajmxqL9OU6ASd9YqCONOEZOmQ9bysok7a3CQTA7Rbth8qQZhN-_dFZBsl6_F9WYiqcSq6zU-EK0-vVCNhOCmPYkAh-AMhndzm476610sCoREdf5GoS8OgGPxceUC7N1LU2T_rtnsuN/s1600/vmware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has announced that it will be switching from KYBER to ML-KEM in its Chrome web browser as part of its ongoing efforts to defend against the risk posed by cryptographically relevant quantum computers (CRQCs).\n\"Chrome will offer a key share prediction for hybrid ML-KEM (codepoint 0x11EC),\" David Adrian, David Benjamin, Bob Beck, and Devon O'Brien of the Chrome Team said. \"The",

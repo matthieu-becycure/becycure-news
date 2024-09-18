@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-18T05:43:41.903Z</updated>
+    <updated>2024-09-18T06:18:10.972Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution]]></title>
+        <id>https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html</id>
+        <link href="https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html"/>
+        <updated>2024-09-18T05:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Broadcom on Tuesday released updates to address a critical security flaw impacting VMware vCenter Server that could pave the way for remote code execution.
+The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been described as a heap-overflow vulnerability in the DCE/RPC protocol.
+"A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense]]></title>
         <id>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</id>
