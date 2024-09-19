@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-19T19:23:40.509Z</updated>
+    <updated>2024-09-19T19:43:36.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2710,16 +2710,6 @@ Styx Stealer, a derivative of the Phemedrone Stealer, is capable of stealing bro
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0703/"/>
         <updated>2024-08-21T07:48:46.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans SPIP (21 août 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0702/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0702/"/>
-        <updated>2024-08-21T07:32:49.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
