@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-19T16:15:26.430Z</updated>
+    <updated>2024-09-19T16:37:13.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms]]></title>
+        <id>https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html</id>
+        <link href="https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html"/>
+        <updated>2024-09-19T15:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed targeting the construction sector by infiltrating the FOUNDATION Accounting Software, according to new findings from Huntress.
+"Attackers have been observed brute-forcing the software at scale, and gaining access simply by using the product’s default credentials," the cybersecurity company said.
+Targets of the emerging threat include plumbing, HVAC (heating,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails]]></title>
         <id>https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html</id>
@@ -2720,17 +2732,6 @@ Styx Stealer, a derivative of the Phemedrone Stealer, is capable of stealing bro
         <summary type="html"><![CDATA[The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of new phishing attacks that aim to infect devices with malware.
 The activity has been attributed to a threat cluster it tracks as UAC-0020, which is also known as Vermin. The exact scale and scope of the attacks are presently unknown.
 The attack chains commence with phishing messages with photos of alleged prisoners of war (]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk]]></title>
-        <id>https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html</id>
-        <link href="https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html"/>
-        <updated>2024-08-21T04:35:00.000Z</updated>
-        <summary type="html"><![CDATA[A maximum-severity security flaw has been disclosed in the WordPress GiveWP donation and fundraising plugin that exposes more than 100,000 websites to remote code execution attacks.
-The flaw, tracked as CVE-2024-5932 (CVSS score: 10.0), impacts all versions of the plugin prior to version 3.14.2, which was released on August 7, 2024. A security researcher, who goes by the online alias villu164,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

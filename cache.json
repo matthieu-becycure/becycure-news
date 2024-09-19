@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed targeting the construction sector by infiltrating the FOUNDATION Accounting Software, according to new findings from Huntress.\n\"Attackers have been observed brute-forcing the software at scale, and gaining access simply by using the product’s default credentials,\" the cybersecurity company said.\nTargets of the emerging threat include plumbing, HVAC (heating,",
+          "link": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
+          "publishedOn": "2024-09-19T15:41:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A previously undocumented malware called SambaSpy is exclusively targeting users in Italy via a phishing campaign orchestrated by a suspected Brazilian Portuguese-speaking threat actor.\n\"Threat actors usually try to cast a wide net to maximize their profits, but these attackers are focused on just one country,\" Kaspersky said in a new analysis. \"It's likely that the attackers are testing the",
@@ -2420,22 +2436,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHHJyiApAXFtVeUmIz6pxUacd79KcGS3Y33T37pIs8WnwM1ntLf8VvdJfVZRjU0SQ0Djup_I41meEti3utA28kuKaGi4ILL9tyxMUX1VddmIhyphenhyphenTf2A7Gc34ARkq5NQBVlMi44hdNyyEnZVXXmo1DPr25LpAOKj4pxVDkSCokp4EJ-Lqk_0gv4wDnVgRG2/s1600/card.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHHJyiApAXFtVeUmIz6pxUacd79KcGS3Y33T37pIs8WnwM1ntLf8VvdJfVZRjU0SQ0Djup_I41meEti3utA28kuKaGi4ILL9tyxMUX1VddmIhyphenhyphenTf2A7Gc34ARkq5NQBVlMi44hdNyyEnZVXXmo1DPr25LpAOKj4pxVDkSCokp4EJ-Lqk_0gv4wDnVgRG2/s1600/card.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A maximum-severity security flaw has been disclosed in the WordPress GiveWP donation and fundraising plugin that exposes more than 100,000 websites to remote code execution attacks.\nThe flaw, tracked as CVE-2024-5932 (CVSS score: 10.0), impacts all versions of the plugin prior to version 3.14.2, which was released on August 7, 2024. A security researcher, who goes by the online alias villu164,",
-          "link": "https://thehackernews.com/2024/08/givewp-wordpress-plugin-vulnerability.html",
-          "publishedOn": "2024-08-21T04:35:00.000Z",
-          "wordCount": null,
-          "title": "GiveWP WordPress Plugin Vulnerability Puts 100,000+ Websites at Risk",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRyWKTh3blayDASteLVTEr5yZeuY0B3MBHviO2l1dXAE-ikQ0lJwEyB1FUwKSJRHmb5mHd61DBLXOvYEwpPEhMJxS-1DC1jlpttpLnylFllP9JV_LELduV62ElF61CxBcm4Wf3reLfgRwDuxHxsUy2KdSV981s2NfSXTfVfsvg7hAZ3TDR9bP0bl7pugd/s1600/wordpress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRyWKTh3blayDASteLVTEr5yZeuY0B3MBHviO2l1dXAE-ikQ0lJwEyB1FUwKSJRHmb5mHd61DBLXOvYEwpPEhMJxS-1DC1jlpttpLnylFllP9JV_LELduV62ElF61CxBcm4Wf3reLfgRwDuxHxsUy2KdSV981s2NfSXTfVfsvg7hAZ3TDR9bP0bl7pugd/s1600/wordpress.png"
         }
       ]
     },
