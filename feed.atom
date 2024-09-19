@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-19T05:12:43.647Z</updated>
+    <updated>2024-09-19T05:31:57.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions]]></title>
+        <id>https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html</id>
+        <link href="https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html"/>
+        <updated>2024-09-19T05:07:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab has released patches to address a critical flaw impacting Community Edition (CE) and Enterprise Edition (EE) that could result in an authentication bypass.
+The vulnerability is rooted in the ruby-saml library (CVE-2024-45409, CVSS score: 10.0), which could allow an attacker to log in as an arbitrary user within the vulnerable system. It was addressed by the maintainers last week.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New "Raptor Train" IoT Botnet Compromises Over 200,000 Devices Worldwide]]></title>
         <id>https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html</id>
