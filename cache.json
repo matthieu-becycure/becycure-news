@@ -3335,16 +3335,6 @@
           "wordCount": 336,
           "title": "Vulnérabilité dans MongoDB (21 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0704/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Azure. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0704/",
-          "publishedOn": "2024-08-21T11:13:40.000Z",
-          "wordCount": 306,
-          "title": "Vulnérabilité dans Microsoft Azure (21 août 2024)",
-          "imageUrl": null
         }
       ]
     }
