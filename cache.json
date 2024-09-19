@@ -3413,16 +3413,6 @@
           "wordCount": 311,
           "title": "Vulnérabilité dans SPIP (21 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0701/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Joomla!. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données, une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0701/",
-          "publishedOn": "2024-08-21T07:23:00.000Z",
-          "wordCount": 441,
-          "title": "Multiples vulnérabilités dans Joomla! (21 août 2024)",
-          "imageUrl": null
         }
       ]
     }
