@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-19T18:16:17.899Z</updated>
+    <updated>2024-09-19T18:36:55.805Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?]]></title>
+        <id>https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html</id>
+        <link href="https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html"/>
+        <updated>2024-09-19T17:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Until just a couple of years ago, only a handful of IAM pros knew what service accounts are. In the last years, these silent Non-Human-Identities (NHI) accounts have become one of the most targeted and compromised attack surfaces. Assessments report that compromised service accounts play a key role in lateral movement in over 70% of ransomware attacks. However, there’s an alarming disproportion]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Exploit Default Credentials in FOUNDATION Software to Breach Construction Firms]]></title>
         <id>https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Until just a couple of years ago, only a handful of IAM pros knew what service accounts are. In the last years, these silent Non-Human-Identities (NHI) accounts have become one of the most targeted and compromised attack surfaces. Assessments report that compromised service accounts play a key role in lateral movement in over 70% of ransomware attacks. However, there’s an alarming disproportion",
+          "link": "https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html",
+          "publishedOn": "2024-09-19T17:34:00.000Z",
+          "wordCount": null,
+          "title": "Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEW90pkil285v8c8sQ5HUgxr87_gf0wc-PTQnLeFDeA3MT1A9qjswqQDbeJVDcxCceRR6iWCi49nzWX1Gxy_-Sy1qnISnINr2faz-mVHVtN6rogpuC77jN0uU6OIkt6DMayxDt9U0jC4FXX-iTv_21ODuPgWZzpiZ-aFtyKmNMRinHp9dz3PoeLnB1M4/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnEW90pkil285v8c8sQ5HUgxr87_gf0wc-PTQnLeFDeA3MT1A9qjswqQDbeJVDcxCceRR6iWCi49nzWX1Gxy_-Sy1qnISnINr2faz-mVHVtN6rogpuC77jN0uU6OIkt6DMayxDt9U0jC4FXX-iTv_21ODuPgWZzpiZ-aFtyKmNMRinHp9dz3PoeLnB1M4/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/hackers-exploit-default-credentials-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors have been observed targeting the construction sector by infiltrating the FOUNDATION Accounting Software, according to new findings from Huntress.\n\"Attackers have been observed brute-forcing the software at scale, and gaining access simply by using the product’s default credentials,\" the cybersecurity company said.\nTargets of the emerging threat include plumbing, HVAC (heating,",
