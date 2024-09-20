@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Thursday unveiled a Password Manager PIN to let Chrome web users sync their passkeys across Windows, macOS, Linux, ChromeOS, and Android devices.\n\"This PIN adds an additional layer of security to ensure your passkeys are end-to-end encrypted and can't be accessed by anyone, not even Google,\" Chrome product manager Chirag Desai said.\nThe PIN is a six-digit code by default, although it's",
+          "link": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
+          "publishedOn": "2024-09-20T05:33:00.000Z",
+          "wordCount": null,
+          "title": "Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s1600/passkey.gif"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisL_hYEcxPT_vr2nUMBQwsx3faXGxC2AGdJV-UwfvtiCkD6sQ4lxzihQoLLsdTCih-qq7WFCC8vrtRpvyB1W3wuzYXRkaSgLaZ8XsyRKH6yRt1SahMxQdSntxWHV4e2wXYilNj1f5YNqCQBcKamfSeJzDLwwL6tDS80Rx373l64i-Zx-akFgBqcClyHm06/s1600/passkey.gif"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ivanti has revealed that a critical security flaw impacting Cloud Service Appliance (CSA) has come under active exploitation in the wild.\nThe new vulnerability, assigned the CVE identifier CVE-2024-8963, carries a CVSS score of 9.4 out of a maximum of 10.0. It was \"incidentally addressed\" by the company as part of CSA 4.6 Patch 519 and CSA 5.0.\n\"Path Traversal in the Ivanti CSA before 4.6 Patch",
