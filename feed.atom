@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T21:43:27.625Z</updated>
+    <updated>2024-09-20T22:13:17.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2670,17 +2670,6 @@ That's according to findings from Israeli cybersecurity company Miggo, which dub
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Dovecot. Elles permettent à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Facts About Continuous Penetration Testing and Why It’s Important]]></title>
-        <id>https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html</id>
-        <link href="https://thehackernews.com/2024/08/the-facts-about-continuous-penetration.html"/>
-        <updated>2024-08-22T10:03:00.000Z</updated>
-        <summary type="html"><![CDATA[What is Continuous Attack Surface Penetration Testing or CASPT?
-Continuous Penetration Testing or Continuous Attack Surface Penetration Testing (CASPT) is an advanced security practice that involves the continuous, automated, and ongoing penetration testing services of an organization's digital assets to identify and mitigate security vulnerabilities. CASPT is designed for enterprises with an]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
