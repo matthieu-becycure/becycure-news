@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T16:48:22.984Z</updated>
+    <updated>2024-09-20T17:10:59.069Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2731,17 +2731,6 @@ Continuous Penetration Testing or Continuous Attack Surface Penetration Testing 
         <summary type="html"><![CDATA[Google has rolled out security fixes to address a high-severity security flaw in its Chrome browser that it said has come under active exploitation in the wild.
 Tracked as CVE-2024-7971, the vulnerability has been described as a type confusion bug in the V8 JavaScript and WebAssembly engine.
 "Type confusion in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to exploit heap]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access]]></title>
-        <id>https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html</id>
-        <link href="https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html"/>
-        <updated>2024-08-22T05:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a critical security flaw in the LiteSpeed Cache plugin for WordPress that could permit unauthenticated users to gain administrator privileges.
-"The plugin suffers from an unauthenticated privilege escalation vulnerability which allows any unauthenticated visitor to gain Administrator level access after which malicious plugins could be uploaded and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

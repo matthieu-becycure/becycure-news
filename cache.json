@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa438cNI-kWRUazsdQsCFYzJHBvtDGViCVLxQMwWs3S9TQvl4rodqbv_bJpC5ASdjZGmlfi0canStydrfK3riuNCHw20xH09i3yKj8UCl9SFGlOQ99dzoDIACsRpbgUFLsR7FFsmkQE1bBS0XA-ZqTbJOXJkidiiEEo6RlbGJ-SkkhBZpBvzDhxoyYsud/s1600/chrome.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAa438cNI-kWRUazsdQsCFYzJHBvtDGViCVLxQMwWs3S9TQvl4rodqbv_bJpC5ASdjZGmlfi0canStydrfK3riuNCHw20xH09i3yKj8UCl9SFGlOQ99dzoDIACsRpbgUFLsR7FFsmkQE1bBS0XA-ZqTbJOXJkidiiEEo6RlbGJ-SkkhBZpBvzDhxoyYsud/s1600/chrome.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have disclosed a critical security flaw in the LiteSpeed Cache plugin for WordPress that could permit unauthenticated users to gain administrator privileges.\n\"The plugin suffers from an unauthenticated privilege escalation vulnerability which allows any unauthenticated visitor to gain Administrator level access after which malicious plugins could be uploaded and",
-          "link": "https://thehackernews.com/2024/08/critical-flaw-in-wordpress-litespeed.html",
-          "publishedOn": "2024-08-22T05:02:00.000Z",
-          "wordCount": null,
-          "title": "Critical Flaw in WordPress LiteSpeed Cache Plugin Allows Hackers Admin Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC4VaEpXvhgtiTQOZrNw36La9zBa2LcQ16J8JNqX_FJypvKE6BVcb20LUfhq96UNDS55UE4QUb2ZQwa839LSjufUU76c9xPv91BUZrWT2NY0oUTetjQyh-AKdKXcg_TXUykKKKUTJixr4CV1pt9J4Bld-wYDu1IoeTCvNQWBXZdww4dqZ_N3J057_riF-/s1600/wordpress.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpC4VaEpXvhgtiTQOZrNw36La9zBa2LcQ16J8JNqX_FJypvKE6BVcb20LUfhq96UNDS55UE4QUb2ZQwa839LSjufUU76c9xPv91BUZrWT2NY0oUTetjQyh-AKdKXcg_TXUykKKKUTJixr4CV1pt9J4Bld-wYDu1IoeTCvNQWBXZdww4dqZ_N3J057_riF-/s1600/wordpress.png"
         }
       ]
     },
