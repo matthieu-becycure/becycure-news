@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Law enforcement authorities have announced the takedown of an international criminal network that leveraged a phishing platform to unlock stolen or lost mobile phones.\nThe phishing-as-a-service (PhaaS) platform, called iServer, is estimated to have claimed more than 483,000 victims globally, led by Chile (77,000), Colombia (70,000), Ecuador (42,000), Peru (41,500), Spain (30,000), and Argentina",
+          "link": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
+          "publishedOn": "2024-09-20T12:58:00.000Z",
+          "wordCount": null,
+          "title": "Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In IT environments, some secrets are managed well and some fly under the radar. Here’s a quick checklist of what kinds of secrets companies typically manage, including one type they should manage:\n\nPasswords [x]\nTLS certificates [x]\nAccounts [x]\nSSH keys ???\n\nThe secrets listed above are typically secured with privileged access management (PAM) solutions or similar. Yet, most traditional PAM",

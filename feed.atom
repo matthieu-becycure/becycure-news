@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T13:43:33.905Z</updated>
+    <updated>2024-09-20T14:12:30.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials]]></title>
+        <id>https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html</id>
+        <link href="https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html"/>
+        <updated>2024-09-20T12:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement authorities have announced the takedown of an international criminal network that leveraged a phishing platform to unlock stolen or lost mobile phones.
+The phishing-as-a-service (PhaaS) platform, called iServer, is estimated to have claimed more than 483,000 victims globally, led by Chile (77,000), Colombia (70,000), Ecuador (42,000), Peru (41,500), Spain (30,000), and Argentina]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de SUSE (20 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/</id>
