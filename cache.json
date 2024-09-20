@@ -2420,22 +2420,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNnktu2dkih-ZVhlXFG4RXBDXmXve7McO8uOuTbdLbDFz7IC4TccrtdO-cZtcFI5sqWkldfQUVtl_6KdIyPAXs2M83vsro0tdwnKd-8Mfcqw8dDbKPv6jPkI-mtCD09z0dqMA-Vw80JuVlHJXRUFnE6dQRPRjfrpeAuNMHfVg6OqeLO0goaOmDxEyPf0y/s1600/github.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTNnktu2dkih-ZVhlXFG4RXBDXmXve7McO8uOuTbdLbDFz7IC4TccrtdO-cZtcFI5sqWkldfQUVtl_6KdIyPAXs2M83vsro0tdwnKd-8Mfcqw8dDbKPv6jPkI-mtCD09z0dqMA-Vw80JuVlHJXRUFnE6dQRPRjfrpeAuNMHfVg6OqeLO0goaOmDxEyPf0y/s1600/github.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have unpacked a new malware strain dubbed PG_MEM that's designed to mine cryptocurrency after brute-forcing their way into PostgreSQL database instances.\n\"Brute-force attacks on Postgres involve repeatedly attempting to guess the database credentials until access is gained, exploiting weak passwords,\" Aqua security researcher Assaf Morag said in a technical report.\n\"",
-          "link": "https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html",
-          "publishedOn": "2024-08-22T04:31:00.000Z",
-          "wordCount": null,
-          "title": "New Malware PG_MEM Targets PostgreSQL Databases for Crypto Mining",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7zGWB7JEt_-17Y1xaAfdjV5lElh7YtTtRcI0OlSFMu2Yu44hf9X5p4x3UoDGTJzL405unodK44O243OJMP6_bxGG23uv_xtneuz2ibUgrl3e1u3jBxbA8DT89EFuMqnlpn5xol4tqgiGw4eaaCtj8kD3NHjRyQFNHL8PlxIiOS3QpnrzZ5wZktphM0Sp8/s1600/database.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7zGWB7JEt_-17Y1xaAfdjV5lElh7YtTtRcI0OlSFMu2Yu44hf9X5p4x3UoDGTJzL405unodK44O243OJMP6_bxGG23uv_xtneuz2ibUgrl3e1u3jBxbA8DT89EFuMqnlpn5xol4tqgiGw4eaaCtj8kD3NHjRyQFNHL8PlxIiOS3QpnrzZ5wZktphM0Sp8/s1600/database.png"
         }
       ]
     },

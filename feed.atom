@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T16:15:25.643Z</updated>
+    <updated>2024-09-20T16:37:41.312Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2754,18 +2754,6 @@ Tracked as CVE-2024-7971, the vulnerability has been described as a type confusi
         <summary type="html"><![CDATA[GitHub has released fixes to address a set of three security flaws impacting its Enterprise Server product, including one critical bug that could be abused to gain site administrator privileges.
 The most severe of the shortcomings has been assigned the CVE identifier CVE-2024-6800, and carries a CVSS score of 9.5.
 "On GitHub Enterprise Server instances that use SAML single sign-on (SSO)]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Malware PG_MEM Targets PostgreSQL Databases for Crypto Mining]]></title>
-        <id>https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html</id>
-        <link href="https://thehackernews.com/2024/08/new-malware-pgmem-targets-postgresql.html"/>
-        <updated>2024-08-22T04:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have unpacked a new malware strain dubbed PG_MEM that's designed to mine cryptocurrency after brute-forcing their way into PostgreSQL database instances.
-"Brute-force attacks on Postgres involve repeatedly attempting to guess the database credentials until access is gained, exploiting weak passwords," Aqua security researcher Assaf Morag said in a technical report.
-"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
