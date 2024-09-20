@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "An Iranian advanced persistent threat (APT) threat actor likely affiliated with the Ministry of Intelligence and Security (MOIS) is now acting as an initial access facilitator that provides remote access to target networks.\nGoogle-owned Mandiant is tracking the activity cluster under the moniker UNC1860, which it said shares similarities with intrusion sets tracked by Microsoft, Cisco Talos, and",
+          "link": "https://thehackernews.com/2024/09/iranian-apt-unc1860-linked-to-mois.html",
+          "publishedOn": "2024-09-20T10:11:00.000Z",
+          "wordCount": null,
+          "title": "Iranian APT UNC1860 Linked to MOIS Facilitates Cyber Intrusions in Middle East",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwq3ADvdE9FnCsinHydEesuesu7cOi5yllg4Pmzi00lOON5UP-49K7M5SJ8ZFobT6g5FkCgu-itJYe2v7Usy6uk1cmrMiqGPZdekj7_AwPfs8Bpn1kK-9_Bx3E-GAzne98Dcb29q3suuEg3SAPGKNONWPbpfiZb-a0-3n1nn8URX4WK2y6Bp7dy9yUbaz9/s1600/iran-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwq3ADvdE9FnCsinHydEesuesu7cOi5yllg4Pmzi00lOON5UP-49K7M5SJ8ZFobT6g5FkCgu-itJYe2v7Usy6uk1cmrMiqGPZdekj7_AwPfs8Bpn1kK-9_Bx3E-GAzne98Dcb29q3suuEg3SAPGKNONWPbpfiZb-a0-3n1nn8URX4WK2y6Bp7dy9yUbaz9/s1600/iran-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google on Thursday unveiled a Password Manager PIN to let Chrome web users sync their passkeys across Windows, macOS, Linux, ChromeOS, and Android devices.\n\"This PIN adds an additional layer of security to ensure your passkeys are end-to-end encrypted and can't be accessed by anyone, not even Google,\" Chrome product manager Chirag Desai said.\nThe PIN is a six-digit code by default, although it's",
