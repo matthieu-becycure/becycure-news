@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T03:33:35.976Z</updated>
+    <updated>2024-09-20T03:44:46.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2645,18 +2645,6 @@ The most severe of the shortcomings has been assigned the CVE identifier CVE-202
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a critical security flaw impacting Microsoft's Copilot Studio that could be exploited to access sensitive information.
 Tracked as CVE-2024-38206 (CVSS score: 8.5), the vulnerability has been described as an information disclosure bug stemming from a server-side request forgery (SSRF) attack.
 "An authenticated attacker can bypass Server-Side Request]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Deploy New MoonPeak Trojan in Cyber Campaign]]></title>
-        <id>https://thehackernews.com/2024/08/north-korean-hackers-deploy-new.html</id>
-        <link href="https://thehackernews.com/2024/08/north-korean-hackers-deploy-new.html"/>
-        <updated>2024-08-21T15:37:00.000Z</updated>
-        <summary type="html"><![CDATA[A new remote access trojan called MoonPeak has been discovered as being used by a state-sponsored North Korean threat activity cluster as part of a new campaign.
-Cisco Talos attributed the malicious cyber campaign to a hacking group it tracks as UAT-5394, which it said exhibits some level of tactical overlaps with a known nation-state actor codenamed Kimsuky.
-MoonPeak, under active development]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
