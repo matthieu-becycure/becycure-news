@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T17:10:59.069Z</updated>
+    <updated>2024-09-20T17:29:46.540Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2721,18 +2721,6 @@ Continuous Penetration Testing or Continuous Attack Surface Penetration Testing 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2024-7971 est activement exploitée.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fixes High-Severity Chrome Flaw Actively Exploited in the Wild]]></title>
-        <id>https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html</id>
-        <link href="https://thehackernews.com/2024/08/google-fixes-high-severity-chrome-flaw.html"/>
-        <updated>2024-08-22T05:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has rolled out security fixes to address a high-severity security flaw in its Chrome browser that it said has come under active exploitation in the wild.
-Tracked as CVE-2024-7971, the vulnerability has been described as a type confusion bug in the V8 JavaScript and WebAssembly engine.
-"Type confusion in V8 in Google Chrome prior to 128.0.6613.84 allowed a remote attacker to exploit heap]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
