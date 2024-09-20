@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-20T05:12:46.385Z</updated>
+    <updated>2024-09-20T05:32:07.348Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Ivanti Cloud Appliance Vulnerability Exploited in Active Cyberattacks]]></title>
+        <id>https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html</id>
+        <link href="https://thehackernews.com/2024/09/critical-ivanti-cloud-appliance.html"/>
+        <updated>2024-09-20T04:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Ivanti has revealed that a critical security flaw impacting Cloud Service Appliance (CSA) has come under active exploitation in the wild.
+The new vulnerability, assigned the CVE identifier CVE-2024-8963, carries a CVSS score of 9.4 out of a maximum of 10.0. It was "incidentally addressed" by the company as part of CSA 4.6 Patch 519 and CSA 5.0.
+"Path Traversal in the Ivanti CSA before 4.6 Patch]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wherever There's Ransomware, There's Service Account Compromise. Are You Protected?]]></title>
         <id>https://thehackernews.com/2024/09/wherever-theres-ransomware-theres.html</id>
