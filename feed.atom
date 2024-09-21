@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T16:46:14.403Z</updated>
+    <updated>2024-09-21T17:11:42.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2627,17 +2627,6 @@ The attack, detected in July]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New macOS Malware "Cthulhu Stealer" Targets Apple Users' Data]]></title>
-        <id>https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html</id>
-        <link href="https://thehackernews.com/2024/08/new-macos-malware-cthulhu-stealer.html"/>
-        <updated>2024-08-23T05:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new information stealer that's designed to target Apple macOS hosts and harvest a wide range of information, underscoring how threat actors are increasingly setting their sights on the operating system.
-Dubbed Cthulhu Stealer, the malware has been available under a malware-as-a-service (MaaS) model for $500 a month from late 2023. It's capable of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
