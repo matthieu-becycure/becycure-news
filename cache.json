@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GehAxhHswXBYvYk0x_EDVwRMSUEotBvQrPoWFjwZFyhKOSuXv0oVqTTfO6ZgdC77GlSlNQgm7itMrxucu5N6UkwgGblkJOq720vu30oToPZjyPgv44T8tkludJYy9zoP0jlWmTBcsayhEP5ruCdjpuP_mLNRm1P5uSVAMoriZ3faVZmPbeLScqGa61c_/s1600/hacker-arrested.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6GehAxhHswXBYvYk0x_EDVwRMSUEotBvQrPoWFjwZFyhKOSuXv0oVqTTfO6ZgdC77GlSlNQgm7itMrxucu5N6UkwgGblkJOq720vu30oToPZjyPgv44T8tkludJYy9zoP0jlWmTBcsayhEP5ruCdjpuP_mLNRm1P5uSVAMoriZ3faVZmPbeLScqGa61c_/s1600/hacker-arrested.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a hardware backdoor within a particular model of MIFARE Classic contactless cards that could allow authentication with an unknown key and open hotel rooms and office doors.\nThe attacks have been demonstrated against FM11RF08S, a new variant of MIFARE Classic that was released by Shanghai Fudan Microelectronics in 2020.\n\"The FM11RF08S backdoor enables any",
-          "link": "https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html",
-          "publishedOn": "2024-08-22T16:46:00.000Z",
-          "wordCount": null,
-          "title": "Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s1600/rfid.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc9cNqtU2vf3C1n4w3zhaeXrgJ-Ese8bHHZLpdMdicgI3ZR_w0vahQbl1FPry20Xe49IVh1NI4bKRlmOrldemv9peyJRjbMfxX2-kWHpeLsDy3ICwOv8OcABMou_ex0TkKmVYtJp1R0qpfSMflZsGf-HN7Wm8ZpEkzIhPkJBGqYcGx_caRRaWM0mIAg1JO/s1600/rfid.png"
         }
       ]
     },

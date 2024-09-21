@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T04:44:58.471Z</updated>
+    <updated>2024-09-21T05:11:58.545Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2612,18 +2612,6 @@ Dubbed Cthulhu Stealer, the malware has been available under a malware-as-a-serv
         <updated>2024-08-23T04:38:00.000Z</updated>
         <summary type="html"><![CDATA[A 33-year-old Latvian national living in Moscow, Russia, has been charged in the U.S. for allegedly stealing data, extorting victims, and laundering ransom payments since August 2021.
 Deniss Zolotarjovs (aka Sforza_cesarini) has been charged with conspiring to commit money laundering, wire fraud and Hobbs Act extortion. He was arrested in Georgia in December 2023 and has since been extradited to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hardware Backdoor Discovered in RFID Cards Used in Hotels and Offices Worldwide]]></title>
-        <id>https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html</id>
-        <link href="https://thehackernews.com/2024/08/hardware-backdoor-discovered-in-rfid.html"/>
-        <updated>2024-08-22T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a hardware backdoor within a particular model of MIFARE Classic contactless cards that could allow authentication with an unknown key and open hotel rooms and office doors.
-The attacks have been demonstrated against FM11RF08S, a new variant of MIFARE Classic that was released by Shanghai Fudan Microelectronics in 2020.
-"The FM11RF08S backdoor enables any]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
