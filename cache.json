@@ -3323,16 +3323,6 @@
           "wordCount": 934,
           "title": "Multiples vulnérabilités dans Microsoft Edge (23 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0710/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Dovecot. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0710/",
-          "publishedOn": "2024-08-22T12:23:56.000Z",
-          "wordCount": 332,
-          "title": "Multiples vulnérabilités dans Dovecot (22 août 2024)",
-          "imageUrl": null
         }
       ]
     }
