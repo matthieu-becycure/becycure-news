@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T15:29:55.793Z</updated>
+    <updated>2024-09-21T15:43:24.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hacktivist Group Twelve Targets Russian Entities with Destructive Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html</id>
+        <link href="https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html"/>
+        <updated>2024-09-21T14:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A hacktivist group known as Twelve has been observed using an arsenal of publicly available tools to conduct destructive cyber attacks against Russian targets.
+"Rather than demand a ransom for decrypting data, Twelve prefers to encrypt victims' data and then destroy their infrastructure with a wiper to prevent recovery," Kaspersky said in a Friday analysis.
+"The approach is indicative of a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO]]></title>
         <id>https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html</id>
