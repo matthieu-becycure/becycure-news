@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6XWpYws2dOW80uSy4fmXkLO7pv-HAVa_5Zyf5YDT-2Ym-9Z2HNaTAigVhozKez9-nKSHI2yXYQ838lrRjj3JwRHgo0aUHk-0v8e4cL88bgqOtPD3mVDeKdQ0XHBv7uzbj9GHvxXW7XxVglReGwD_ko4S2ci5ndbyurlOyIA0rQhJhtvpQj9Znu5p8hN1/s1600/cisco.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ6XWpYws2dOW80uSy4fmXkLO7pv-HAVa_5Zyf5YDT-2Ym-9Z2HNaTAigVhozKez9-nKSHI2yXYQ838lrRjj3JwRHgo0aUHk-0v8e4cL88bgqOtPD3mVDeKdQ0XHBv7uzbj9GHvxXW7XxVglReGwD_ko4S2ci5ndbyurlOyIA0rQhJhtvpQj9Znu5p8hN1/s1600/cisco.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "As many as 15,000 applications using Amazon Web Services' (AWS) Application Load Balancer (ALB) for authentication are potentially susceptible to a configuration-based issue that could expose them to sidestep access controls and compromise applications.\nThat's according to findings from Israeli cybersecurity company Miggo, which dubbed the problem ALBeast.\n\"This vulnerability allows attackers to",
-          "link": "https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html",
-          "publishedOn": "2024-08-22T15:03:00.000Z",
-          "wordCount": null,
-          "title": "New 'ALBeast' Vulnerability Exposes Weakness in AWS Application Load Balancer",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6k0N7bqs3T4R7FPHi-N0_uYWqGnQvrN7J94ZxTS4GOHjK9_FRrBmLfHhtUJ-K5kdfLmAjrX_zp8SwtZUIIUL2EaD6hB2sRLv5qEnQKeDlvBfz1PT996-nRK_Sg16FUfilyFI6_TufyAG3O2o8lqwaApZivdaLVCBE9Ch7rJPtZmpOeObOj-QTl_KoSkm/s1600/aws.gif"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz6k0N7bqs3T4R7FPHi-N0_uYWqGnQvrN7J94ZxTS4GOHjK9_FRrBmLfHhtUJ-K5kdfLmAjrX_zp8SwtZUIIUL2EaD6hB2sRLv5qEnQKeDlvBfz1PT996-nRK_Sg16FUfilyFI6_TufyAG3O2o8lqwaApZivdaLVCBE9Ch7rJPtZmpOeObOj-QTl_KoSkm/s1600/aws.gif"
         }
       ]
     },

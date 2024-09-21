@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T02:51:41.709Z</updated>
+    <updated>2024-09-21T03:14:00.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2646,18 +2646,6 @@ The attacks have been demonstrated against FM11RF08S, a new variant of MIFARE Cl
         <updated>2024-08-22T16:13:00.000Z</updated>
         <summary type="html"><![CDATA[Details have emerged about a China-nexus threat group's exploitation of a recently disclosed, now-patched security flaw in Cisco switches as a zero-day to seize control of the appliance and evade detection.
 The activity, attributed to Velvet Ant, was observed early this year and involved the weaponization of CVE-2024-20399 (CVSS score: 6.0) to deliver bespoke malware and gain extensive control]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 'ALBeast' Vulnerability Exposes Weakness in AWS Application Load Balancer]]></title>
-        <id>https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html</id>
-        <link href="https://thehackernews.com/2024/08/new-albeast-vulnerability-exposes.html"/>
-        <updated>2024-08-22T15:03:00.000Z</updated>
-        <summary type="html"><![CDATA[As many as 15,000 applications using Amazon Web Services' (AWS) Application Load Balancer (ALB) for authentication are potentially susceptible to a configuration-based issue that could expose them to sidestep access controls and compromise applications.
-That's according to findings from Israeli cybersecurity company Miggo, which dubbed the problem ALBeast.
-"This vulnerability allows attackers to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
