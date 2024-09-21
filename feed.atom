@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T14:10:07.982Z</updated>
+    <updated>2024-09-21T14:29:33.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO]]></title>
+        <id>https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html</id>
+        <link href="https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html"/>
+        <updated>2024-09-21T13:18:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.K. Information Commissioner's Office (ICO) has confirmed that professional social networking platform LinkedIn has suspended processing users' data in the country to train its artificial intelligence (AI) models.
+"We are pleased that LinkedIn has reflected on the concerns we raised about its approach to training generative AI models with information relating to its U.K. users," Stephen]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine Bans Telegram Use for Government and Military Personnel]]></title>
+        <id>https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html</id>
+        <link href="https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html"/>
+        <updated>2024-09-21T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has restricted the use of the Telegram messaging app by government officials, military personnel, and other defense and critical infrastructure workers, citing national security concerns.
+The ban was announced by the National Coordination Centre for Cybersecurity (NCCC) in a post shared on Facebook.
+"I have always advocated and advocate for freedom of speech, but the issue of Telegram is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials]]></title>
         <id>https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html</id>

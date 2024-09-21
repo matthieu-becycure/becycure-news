@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.K. Information Commissioner's Office (ICO) has confirmed that professional social networking platform LinkedIn has suspended processing users' data in the country to train its artificial intelligence (AI) models.\n\"We are pleased that LinkedIn has reflected on the concerns we raised about its approach to training generative AI models with information relating to its U.K. users,\" Stephen",
+          "link": "https://thehackernews.com/2024/09/linkedin-halts-ai-data-processing-in-uk.html",
+          "publishedOn": "2024-09-21T13:18:00.000Z",
+          "wordCount": null,
+          "title": "LinkedIn Halts AI Data Processing in UK Amid Privacy Concerns Raised by ICO",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfAyfevX3yh1P26cyGrOgKYRZh-xWYaqZCLjIe2BLFX16mJRBC-3WnTAsv18PzztYjDduQiwcT8sInFpO9LUBG3xcbICvni6u81Tq36FJ4rVcrVYDBcLs7UYhEflZwLDn3Ie2ov5M2nHj-Z1HlezZVqxcwVB4HrnI5T6IBjSUoK4e3ocn3WCoX_XyvDyd/s1600/linkedin.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhfAyfevX3yh1P26cyGrOgKYRZh-xWYaqZCLjIe2BLFX16mJRBC-3WnTAsv18PzztYjDduQiwcT8sInFpO9LUBG3xcbICvni6u81Tq36FJ4rVcrVYDBcLs7UYhEflZwLDn3Ie2ov5M2nHj-Z1HlezZVqxcwVB4HrnI5T6IBjSUoK4e3ocn3WCoX_XyvDyd/s1600/linkedin.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ukraine has restricted the use of the Telegram messaging app by government officials, military personnel, and other defense and critical infrastructure workers, citing national security concerns.\nThe ban was announced by the National Coordination Centre for Cybersecurity (NCCC) in a post shared on Facebook.\n\"I have always advocated and advocate for freedom of speech, but the issue of Telegram is",
+          "link": "https://thehackernews.com/2024/09/ukraine-bans-telegram-use-for.html",
+          "publishedOn": "2024-09-21T13:07:00.000Z",
+          "wordCount": null,
+          "title": "Ukraine Bans Telegram Use for Government and Military Personnel",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCEWlFX41p4OGq5wJoAy8U5bE7lUSu7St3FFLpo8spx9yIj92K0QZJ-IIaZN-t7ouj0_mWPRzVUrQEalqVbjX2zY1fAUcOeJrfoVtL-142G26BlEChpYBc2GG9lh175UZwnS7Ss0o9arj8Ub6sKyCI0E0EiKKnJKAQ_PTImRSd-KQOYyf9NJNYW1qOvqX/s1600/telegram.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCEWlFX41p4OGq5wJoAy8U5bE7lUSu7St3FFLpo8spx9yIj92K0QZJ-IIaZN-t7ouj0_mWPRzVUrQEalqVbjX2zY1fAUcOeJrfoVtL-142G26BlEChpYBc2GG9lh175UZwnS7Ss0o9arj8Ub6sKyCI0E0EiKKnJKAQ_PTImRSd-KQOYyf9NJNYW1qOvqX/s1600/telegram.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Law enforcement authorities have announced the takedown of an international criminal network that leveraged a phishing platform to unlock stolen or lost mobile phones.\nThe phishing-as-a-service (PhaaS) platform, called iServer, is estimated to have claimed more than 483,000 victims globally, led by Chile (77,000), Colombia (70,000), Ecuador (42,000), Peru (41,500), Spain (30,000), and Argentina",
