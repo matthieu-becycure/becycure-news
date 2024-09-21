@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-21T23:11:22.804Z</updated>
+    <updated>2024-09-21T23:26:56.924Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2519,48 +2519,6 @@ Some of]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0718/"/>
         <updated>2024-08-23T11:37:00.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux de SUSE (23 août 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/"/>
-        <updated>2024-08-23T11:26:14.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform]]></title>
-        <id>https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html</id>
-        <link href="https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html"/>
-        <updated>2024-08-23T11:26:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's be honest. The world of cybersecurity feels like a constant war zone. You're bombarded by threats, scrambling to keep up with patches, and drowning in an endless flood of alerts. It's exhausting, isn’t it?
-But what if there was a better way?
-Imagine having every essential cybersecurity tool at your fingertips, all within a single, intuitive platform, backed by expert support 24/7. This is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 août 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/"/>
-        <updated>2024-08-23T11:14:40.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans Spring Boot (23 août 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/"/>
-        <updated>2024-08-23T11:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>

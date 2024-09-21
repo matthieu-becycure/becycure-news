@@ -2260,22 +2260,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s1600/main.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s1600/main.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Let's be honest. The world of cybersecurity feels like a constant war zone. You're bombarded by threats, scrambling to keep up with patches, and drowning in an endless flood of alerts. It's exhausting, isn’t it?\nBut what if there was a better way?\nImagine having every essential cybersecurity tool at your fingertips, all within a single, intuitive platform, backed by expert support 24/7. This is",
-          "link": "https://thehackernews.com/2024/08/webinar-experience-power-of-must-have.html",
-          "publishedOn": "2024-08-23T11:26:00.000Z",
-          "wordCount": null,
-          "title": "Webinar: Experience the Power of a Must-Have All-in-One Cybersecurity Platform",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1600/cybersecurity.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTYJWAqm2Z2lDPxhvFxASkiTFBPJ-paCGmgbs7QeR1W7zxU-S6tTdqBRdNqLOkr3uU30xaMJsiIANdei0fLevH1rkkdJK3iDtnPu5tM-9VeFq_vXHf1p1vOKTqGFmCPMijeKqoJxoums6RodXjedfWJ8RDKpemZo1Rkav5Uvz_wxX_B4_gd1mT8RZpk/s1600/cybersecurity.png"
         }
       ]
     },
@@ -3172,36 +3156,6 @@
           "publishedOn": "2024-08-23T11:37:00.000Z",
           "wordCount": 495,
           "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (23 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0717/",
-          "publishedOn": "2024-08-23T11:26:14.000Z",
-          "wordCount": 4978,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (23 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, un déni de service à distance et une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0716/",
-          "publishedOn": "2024-08-23T11:14:40.000Z",
-          "wordCount": 1078,
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (23 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Boot. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0715/",
-          "publishedOn": "2024-08-23T11:11:52.000Z",
-          "wordCount": 339,
-          "title": "Vulnérabilité dans Spring Boot (23 août 2024)",
           "imageUrl": null
         }
       ]
