@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKevur2EO98Hpd8HwNeCmpx8YHJLojNuG3EtGBa02Py2xC05fbWrozcFf2AXTZNE3t6wc8utAHzv4xHGn_CmpTw7F656H9kgrfX_WlHU9qMAF4MSFHtz4pZNPaUeNmxV6wCpM8l9WfXzVnmLMoPzam_XtpD3iyVhCU1FKE6RRq6fAPmQzwCqsqmLofvWn/s1600/whatsapp.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcKevur2EO98Hpd8HwNeCmpx8YHJLojNuG3EtGBa02Py2xC05fbWrozcFf2AXTZNE3t6wc8utAHzv4xHGn_CmpTw7F656H9kgrfX_WlHU9qMAF4MSFHtz4pZNPaUeNmxV6wCpM8l9WfXzVnmLMoPzam_XtpD3iyVhCU1FKE6RRq6fAPmQzwCqsqmLofvWn/s1600/whatsapp.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a never-before-seen dropper that serves as a conduit to launch next-stage malware with the ultimate goal of infecting Windows systems with information stealers and loaders.\n\n\"This memory-only dropper decrypts and executes a PowerShell-based downloader,\" Google-owned Mandiant said. \"This PowerShell-based downloader is being tracked as PEAKLIGHT.\"\n\nSome of",
-          "link": "https://thehackernews.com/2024/08/new-peaklight-dropper-deployed-in.html",
-          "publishedOn": "2024-08-23T15:02:00.000Z",
-          "wordCount": null,
-          "title": "New PEAKLIGHT Dropper Deployed in Attacks Targeting Windows with Malicious Movie Downloads",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s1600/main.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7_TCso49CtXpOV9F3h8Ki_GlIQng09ovFCncGVVr8kDD13LPETF_-kreyrCopzrDfC3LK7hJwo_ttlIJ_P9UYhCYmpc8cvKRBCnCw1VlhcnbFejaoG9if9Tc72vB1rPzAbYIWf8LF3pl424LtqB4ub5vtPhgYbn7XRMimNfXBwjuxtXPt6jkodAk1wVA5/s1600/main.jpg"
         }
       ]
     },
