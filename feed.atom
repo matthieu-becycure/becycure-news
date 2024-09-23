@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-23T11:43:25.746Z</updated>
+    <updated>2024-09-23T12:25:18.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[THN Cybersecurity Recap: Last Week's Top Threats and Trends (September 16-22)]]></title>
+        <id>https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top.html</id>
+        <link href="https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top.html"/>
+        <updated>2024-09-23T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Hold on tight, folks, because last week's cybersecurity landscape was a rollercoaster! We witnessed everything from North Korean hackers dangling "dream jobs" to expose a new malware, to a surprising twist in the Apple vs. NSO Group saga. Even the seemingly mundane world of domain names and cloud configurations had its share of drama. Let's dive into the details and see what lessons we can glean]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why 'Never Expire' Passwords Can Be a Risky Decision]]></title>
+        <id>https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html</id>
+        <link href="https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html"/>
+        <updated>2024-09-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Password resets can be frustrating for end users. Nobody likes being interrupted by the ‘time to change your password’ notification – and they like it even less when the new passwords they create are rejected by their organization’s password policy. IT teams share the pain, with resetting passwords via service desk tickets and support calls being an everyday burden. Despite this, it’s commonly]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk]]></title>
         <id>https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html</id>
