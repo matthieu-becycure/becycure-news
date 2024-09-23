@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been observed using poisoned Python packages as a way to deliver a new malware called PondRAT as part of an ongoing campaign.\nPondRAT, according to new findings from Palo Alto Networks Unit 42, is assessed to be a lighter version of POOLRAT (aka SIMPLESEA), a known macOS backdoor that has been previously attributed to the Lazarus Group and deployed in",
+          "link": "https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html",
+          "publishedOn": "2024-09-23T06:39:00.000Z",
+          "wordCount": null,
+          "title": "New PondRAT Malware Hidden in Python Packages Targets Software Developers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEzGNnRozQHD3XL97PnWZ3PicHKMCJx-HY0D5Q0hwxIIaMtafCyZcp9MA7tC6OFp3TKRuZCyKerdAdSwya4RUrjiCF748zzTVo8oxxU8uejbLPLANDPzVLVWbkc6WV6C1Sy9AFOylTh0S2q8kdmmUi6VmLILrsTPrUpZWktSGhxdVrEHKMz3WsIYAR2ZK/s1600/software-dev.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYEzGNnRozQHD3XL97PnWZ3PicHKMCJx-HY0D5Q0hwxIIaMtafCyZcp9MA7tC6OFp3TKRuZCyKerdAdSwya4RUrjiCF748zzTVo8oxxU8uejbLPLANDPzVLVWbkc6WV6C1Sy9AFOylTh0S2q8kdmmUi6VmLILrsTPrUpZWktSGhxdVrEHKMz3WsIYAR2ZK/s1600/software-dev.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/chinese-hackers-exploit-geoserver-flaw.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A suspected advanced persistent threat (APT) originating from China targeted a government organization in Taiwan, and possibly other countries in the Asia-Pacific (APAC) region, by exploiting a recently patched critical security flaw impacting OSGeo GeoServer GeoTools.\nThe intrusion activity, which was detected by Trend Micro in July 2024, has been attributed to a threat actor dubbed Earth Baxia",
