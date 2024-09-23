@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-23T10:46:46.177Z</updated>
+    <updated>2024-09-23T11:10:33.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk]]></title>
+        <id>https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html</id>
+        <link href="https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html"/>
+        <updated>2024-09-23T09:58:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the Microchip Advanced Software Framework (ASF) that, if successfully exploited, could lead to remote code execution.
+The vulnerability, tracked as CVE-2024-7490, carries a CVSS score of 9.5 out of a maximum of 10.0. It has been described as a stack-based overflow vulnerability in ASF's implementation of the tinydhcp server stemming from a lack of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Introduces DAVE Protocol for End-to-End Encryption in Audio and Video Calls]]></title>
+        <id>https://thehackernews.com/2024/09/discord-introduces-dave-protocol-for.html</id>
+        <link href="https://thehackernews.com/2024/09/discord-introduces-dave-protocol-for.html"/>
+        <updated>2024-09-23T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Popular social messaging platform Discord has announced that it's rolling out a new custom end-to-end encrypted (E2EE) protocol to secure audio and video calls.
+The protocol has been dubbed DAVE, short for Discord's audio and video end-to-end encryption ("E2EE A/V").
+As part of the change introduced last week, voice and video in DMs, Group DMs, voice channels, and Go Live streams are expected to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New PondRAT Malware Hidden in Python Packages Targets Software Developers]]></title>
         <id>https://thehackernews.com/2024/09/new-pondrat-malware-hidden-in-python.html</id>
