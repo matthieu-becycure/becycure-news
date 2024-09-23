@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-23T05:43:35.045Z</updated>
+    <updated>2024-09-23T06:18:39.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Chinese Hackers Exploit GeoServer Flaw to Target APAC Nations with EAGLEDOOR Malware]]></title>
+        <id>https://thehackernews.com/2024/09/chinese-hackers-exploit-geoserver-flaw.html</id>
+        <link href="https://thehackernews.com/2024/09/chinese-hackers-exploit-geoserver-flaw.html"/>
+        <updated>2024-09-23T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[A suspected advanced persistent threat (APT) originating from China targeted a government organization in Taiwan, and possibly other countries in the Asia-Pacific (APAC) region, by exploiting a recently patched critical security flaw impacting OSGeo GeoServer GeoTools.
+The intrusion activity, which was detected by Trend Micro in July 2024, has been attributed to a threat actor dubbed Earth Baxia]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacktivist Group Twelve Targets Russian Entities with Destructive Cyber Attacks]]></title>
         <id>https://thehackernews.com/2024/09/hacktivist-group-twelve-targets-russian.html</id>
