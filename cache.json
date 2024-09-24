@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Altered versions of legitimate Android apps associated with Spotify, WhatsApp, and Minecraft have been used to deliver a new version of a known malware loader called Necro.\nKaspersky said some of the malicious apps have also been found on the Google Play Store. They have been cumulatively downloaded 11 million times. They include -\n\nWuta Camera - Nice Shot Always (com.benqu.wuta) - 10+ million",
+          "link": "https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html",
+          "publishedOn": "2024-09-24T16:13:00.000Z",
+          "wordCount": null,
+          "title": "Necro Android Malware Found in Popular Camera and Browser Apps on Play Store",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif70QuNpXr2GsroaeQS2RSkzyix8DI76IBd50i6-F183kMdNMNgwPI67LJVDMUz2130YuiHK1Qf7_flsV8FMYPZhNPUuIE2PRxLEdlio-uhINUvJ5cHH2xngF5T0-VY0-ENm-mzxEb2h5aJPXx8vhV7HsJmVchNsm9g54xjk06g4ruqp17g0m_YtxIH9qV/s1600/android-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEif70QuNpXr2GsroaeQS2RSkzyix8DI76IBd50i6-F183kMdNMNgwPI67LJVDMUz2130YuiHK1Qf7_flsV8FMYPZhNPUuIE2PRxLEdlio-uhINUvJ5cHH2xngF5T0-VY0-ENm-mzxEb2h5aJPXx8vhV7HsJmVchNsm9g54xjk06g4ruqp17g0m_YtxIH9qV/s1600/android-malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Commerce (DoC) said it's proposing a ban on the import or sale of connected vehicles that integrate software and hardware made by foreign adversaries, particularly that of the People's Republic of China (PRC) and Russia.\n\"The proposed rule focuses on hardware and software integrated into the Vehicle Connectivity System (VCS) and software integrated into the Automated",
@@ -2356,22 +2372,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEAueQ83P-n8Tb9-uc6BdnNm1XMf_BNle-Wwl-btR74oHrOPZ7m-WmhcLE3kuBPtsZyBIlNwk6xYyDdu5ZQXuM4PEAB7s9APUiqSqHByjestjSPfM4VtiNp-agkgVCLMmp7nffQTPNS00KtRsAIVtRrWovaKq97IwiwMZ7tj6RqSQ7Smr2O6nrVXJghNq/s1600/gps.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsEAueQ83P-n8Tb9-uc6BdnNm1XMf_BNle-Wwl-btR74oHrOPZ7m-WmhcLE3kuBPtsZyBIlNwk6xYyDdu5ZQXuM4PEAB7s9APUiqSqHByjestjSPfM4VtiNp-agkgVCLMmp7nffQTPNS00KtRsAIVtRrWovaKq97IwiwMZ7tj6RqSQ7Smr2O6nrVXJghNq/s1600/gps.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered new Android malware that can relay victims' contactless payment data from physical credit and debit cards to an attacker-controlled device with the goal of conducting fraudulent operations.\nThe Slovak cybersecurity company is tracking the novel malware as NGate, stating it observed the crimeware campaign targeting three banks in Czechia.\nThe malware \"has",
-          "link": "https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html",
-          "publishedOn": "2024-08-26T04:46:00.000Z",
-          "wordCount": null,
-          "title": "New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4NAE5gthGZlwYKMUsU45byy41qnNcncWQ_McraIO4ssnvYilPp3xZvTi4YPSkBRTKMj_P6HJL-5eFHztdMNQmii9pwtetK49mDSeWFzB182Bw1GS0moPdls_3PZOM-D5fCDUt5a-Mc-Kwz94JPVpb0_bLYM9D37-ImNlQqA9vCsXFVWEM08MjOTaIDNr/s1600/card.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD4NAE5gthGZlwYKMUsU45byy41qnNcncWQ_McraIO4ssnvYilPp3xZvTi4YPSkBRTKMj_P6HJL-5eFHztdMNQmii9pwtetK49mDSeWFzB182Bw1GS0moPdls_3PZOM-D5fCDUt5a-Mc-Kwz94JPVpb0_bLYM9D37-ImNlQqA9vCsXFVWEM08MjOTaIDNr/s1600/card.png"
         }
       ]
     },

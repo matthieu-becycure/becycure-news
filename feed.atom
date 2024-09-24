@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-24T16:38:53.856Z</updated>
+    <updated>2024-09-24T16:49:35.332Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Necro Android Malware Found in Popular Camera and Browser Apps on Play Store]]></title>
+        <id>https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html</id>
+        <link href="https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html"/>
+        <updated>2024-09-24T16:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Altered versions of legitimate Android apps associated with Spotify, WhatsApp, and Minecraft have been used to deliver a new version of a known malware loader called Necro.
+Kaspersky said some of the malicious apps have also been found on the Google Play Store. They have been cumulatively downloaded 11 million times. They include -
+
+Wuta Camera - Nice Shot Always (com.benqu.wuta) - 10+ million]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Proposes Ban on Connected Vehicles Using Chinese and Russian Tech]]></title>
         <id>https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html</id>
@@ -2603,18 +2616,6 @@ Both the vulnerabilities are path traversal flaws and could be weaponized if gue
         <summary type="html"><![CDATA[Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Android Malware NGate Steals NFC Data to Clone Contactless Payment Cards]]></title>
-        <id>https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html</id>
-        <link href="https://thehackernews.com/2024/08/new-android-malware-ngate-steals-nfc.html"/>
-        <updated>2024-08-26T04:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered new Android malware that can relay victims' contactless payment data from physical credit and debit cards to an attacker-controlled device with the goal of conducting fraudulent operations.
-The Slovak cybersecurity company is tracking the novel malware as NGate, stating it observed the crimeware campaign targeting three banks in Czechia.
-The malware "has]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
