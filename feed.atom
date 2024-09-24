@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-24T07:43:39.127Z</updated>
+    <updated>2024-09-24T08:17:45.413Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Telegram Agrees to Share User Data With Authorities for Criminal Investigations]]></title>
+        <id>https://thehackernews.com/2024/09/telegram-agrees-to-share-user-data-with.html</id>
+        <link href="https://thehackernews.com/2024/09/telegram-agrees-to-share-user-data-with.html"/>
+        <updated>2024-09-24T06:33:00.000Z</updated>
+        <summary type="html"><![CDATA[In a major policy reversal, the popular messaging app Telegram has announced it will give users' IP addresses and phone numbers to authorities in response to valid legal requests in an attempt to rein in criminal activity on the platform.
+"We've made it clear that the IP addresses and phone numbers of those who violate our rules can be disclosed to relevant authorities in response to valid legal]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bulletin d'actualité CERTFR-2024-ACT-042 (23 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-042/</id>
