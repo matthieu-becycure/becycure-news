@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-24T12:25:42.918Z</updated>
+    <updated>2024-09-24T13:03:03.942Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -17,6 +17,28 @@ But there's good news: you don't have to be defenseless. What if you could gain 
 Join our exclusive webinar, "Unpacking the 2024 Ransomware Landscape: Insights and]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaspersky Exits U.S., Automatically Replaces Software With UltraAV, Raising Concerns]]></title>
+        <id>https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html</id>
+        <link href="https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html"/>
+        <updated>2024-09-24T11:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Antivirus vendor Kaspersky has formally begun pulling back its offerings in the U.S., migrating existing users to UltraAV, effective September 19, 2024, ahead of its formal exit at the end of the month.
+"Kaspersky antivirus customers received a software update facilitating the transition to UltraAV," the company said in a post announcing the move on September 21.
+"This update ensured that users]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans TheGreenBow VPN Client  (24 septembre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/"/>
+        <updated>2024-09-24T11:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

@@ -22,6 +22,22 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKsWeOxUFmFfHboeD7f9hNJzAUZa3t7CpjolyCX5ZH2NoElg322LL9X8mC7qMPFX1gWNjmvO-jK9fmu7jRPsgLNxHuyivabhLE-co2q8ZqMbE4PkVkrwTDLSbafSnCd7flG1jdclIurWJNwpM3Mpd3vb106F1c2RqaW3tXb5CVc_2RiUFYWA8USpZxslI/s1600/ransomware.png"
         },
         {
+          "id": "https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Antivirus vendor Kaspersky has formally begun pulling back its offerings in the U.S., migrating existing users to UltraAV, effective September 19, 2024, ahead of its formal exit at the end of the month.\n\"Kaspersky antivirus customers received a software update facilitating the transition to UltraAV,\" the company said in a post announcing the move on September 21.\n\"This update ensured that users",
+          "link": "https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html",
+          "publishedOn": "2024-09-24T11:58:00.000Z",
+          "wordCount": null,
+          "title": "Kaspersky Exits U.S., Automatically Replaces Software With UltraAV, Raising Concerns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZf9l9ltZ8ggb7aBI5QKFm8KguIKhyphenhyphenLHCCbW3atuY_RfRhSMqxMMWj1WAuMehpD5UvP1-7GkNw9jdGpeSvGq__ranDpH-KsECMPQ5b-IM6zWrB9BTXutFTq7SE7g2FhGgAJrQdEO4zd5zZ5AF8xCOm2rP3CJ4laAq6RkipZtcSaGwfXOPrALMv9iMe9loM/s1600/ks.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZf9l9ltZ8ggb7aBI5QKFm8KguIKhyphenhyphenLHCCbW3atuY_RfRhSMqxMMWj1WAuMehpD5UvP1-7GkNw9jdGpeSvGq__ranDpH-KsECMPQ5b-IM6zWrB9BTXutFTq7SE7g2FhGgAJrQdEO4zd5zZ5AF8xCOm2rP3CJ4laAq6RkipZtcSaGwfXOPrALMv9iMe9loM/s1600/ks.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/the-sspm-justification-kit.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "SaaS applications contain a wealth of sensitive data and are central to business operations. Despite this, far too many organizations rely on half measures and hope their SaaS stack will remain secure. Unfortunately, this approach is lacking and will leave security teams blind to threat prevention and detection, as well as open to regulatory violations, data leaks, and significant breaches.\nIf",
@@ -2348,6 +2364,16 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/",
+          "publishedOn": "2024-09-24T11:16:52.000Z",
+          "wordCount": 360,
+          "title": "Vulnérabilité dans TheGreenBow VPN Client  (24 septembre 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-009/",
           "author": null,
