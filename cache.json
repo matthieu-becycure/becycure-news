@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Ransomware is no longer just a threat; it's an entire industry. Cybercriminals are growing more sophisticated, and their tactics are evolving rapidly.\nThis persistent danger is a major concern for business leaders.\nBut there's good news: you don't have to be defenseless. What if you could gain a strategic edge?\nJoin our exclusive webinar, \"Unpacking the 2024 Ransomware Landscape: Insights and",
+          "link": "https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html",
+          "publishedOn": "2024-09-24T12:00:00.000Z",
+          "wordCount": null,
+          "title": "Discover Latest Ransomware Tactics and Zero Trust Strategies in This Expert Webinar",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKsWeOxUFmFfHboeD7f9hNJzAUZa3t7CpjolyCX5ZH2NoElg322LL9X8mC7qMPFX1gWNjmvO-jK9fmu7jRPsgLNxHuyivabhLE-co2q8ZqMbE4PkVkrwTDLSbafSnCd7flG1jdclIurWJNwpM3Mpd3vb106F1c2RqaW3tXb5CVc_2RiUFYWA8USpZxslI/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKsWeOxUFmFfHboeD7f9hNJzAUZa3t7CpjolyCX5ZH2NoElg322LL9X8mC7qMPFX1gWNjmvO-jK9fmu7jRPsgLNxHuyivabhLE-co2q8ZqMbE4PkVkrwTDLSbafSnCd7flG1jdclIurWJNwpM3Mpd3vb106F1c2RqaW3tXb5CVc_2RiUFYWA8USpZxslI/s1600/ransomware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/the-sspm-justification-kit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "SaaS applications contain a wealth of sensitive data and are central to business operations. Despite this, far too many organizations rely on half measures and hope their SaaS stack will remain secure. Unfortunately, this approach is lacking and will leave security teams blind to threat prevention and detection, as well as open to regulatory violations, data leaks, and significant breaches.\nIf",
+          "link": "https://thehackernews.com/2024/09/the-sspm-justification-kit.html",
+          "publishedOn": "2024-09-24T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The SSPM Justification Kit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4OVEZ19_jACDYa16brvC-5_M1H3lNsALKJOIh6eTUYpEbpDPZMrmHMYnXzu7sMCidOZuITQnMmMZddepou1b8zxKUBXVZeEnKg75jqLmIIWwGV6SaqLGXmPYKZLnqP-SrEZlh3_1VSeWJNbSCGVwCD56Cbb3yWcQ608FU9qrHy9j03B5PG79vhg2bBgA/s1600/sspm.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4OVEZ19_jACDYa16brvC-5_M1H3lNsALKJOIh6eTUYpEbpDPZMrmHMYnXzu7sMCidOZuITQnMmMZddepou1b8zxKUBXVZeEnKg75jqLmIIWwGV6SaqLGXmPYKZLnqP-SrEZlh3_1VSeWJNbSCGVwCD56Cbb3yWcQ608FU9qrHy9j03B5PG79vhg2bBgA/s1600/sspm.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/new-octo2-android-banking-trojan.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered a new version of an Android banking trojan called Octo that comes with improved capabilities to conduct device takeover (DTO) and perform fraudulent transactions.\nThe new version has been codenamed Octo2 by the malware author, Dutch security firm ThreatFabric said in a report shared with The Hacker News, adding campaigns distributing the malware have",
