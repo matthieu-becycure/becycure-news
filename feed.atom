@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-25T10:14:47.199Z</updated>
+    <updated>2024-09-25T10:36:29.317Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI in SOCs: A Solution to SOAR's Unfulfilled Promises]]></title>
+        <id>https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html</id>
+        <link href="https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html"/>
+        <updated>2024-09-25T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Security Orchestration, Automation, and Response (SOAR) was introduced with the promise of revolutionizing Security Operations Centers (SOCs) through automation, reducing manual workloads and enhancing efficiency. However, despite three generations of technology and 10 years of advancements, SOAR hasn’t fully delivered on its potential, leaving SOCs still grappling with many of the same]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function]]></title>
         <id>https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html</id>
