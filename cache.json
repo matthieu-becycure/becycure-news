@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A now-patched security vulnerability in OpenAI's ChatGPT app for macOS could have made it possible for attackers to plant long-term persistent spyware into the artificial intelligence (AI) tool's memory.\nThe technique, dubbed SpAIware, could be abused to facilitate \"continuous data exfiltration of any information the user typed or responses received by ChatGPT, including any future chat sessions",
+          "link": "https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html",
+          "publishedOn": "2024-09-25T09:31:00.000Z",
+          "wordCount": null,
+          "title": "ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/transportation-companies-hit-by.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Transportation and logistics companies in North America are the target of a new phishing campaign that delivers a variety of information stealers and remote access trojans (RATs).\nThe activity cluster, per Proofpoint, makes use of compromised legitimate email accounts belonging to transportation and shipping companies so as to inject malicious content into existing email conversations.\nAs many",
