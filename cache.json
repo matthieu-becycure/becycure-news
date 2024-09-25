@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/transportation-companies-hit-by.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Transportation and logistics companies in North America are the target of a new phishing campaign that delivers a variety of information stealers and remote access trojans (RATs).\nThe activity cluster, per Proofpoint, makes use of compromised legitimate email accounts belonging to transportation and shipping companies so as to inject malicious content into existing email conversations.\nAs many",
+          "link": "https://thehackernews.com/2024/09/transportation-companies-hit-by.html",
+          "publishedOn": "2024-09-25T07:03:00.000Z",
+          "wordCount": null,
+          "title": "Transportation Companies Hit by Cyberattacks Using Lumma Stealer and NetSupport Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Avdtp7bYOQRvkPs8sO8dFmUgTObatnpoad2ECTYvXL0rYb7gJIQmpAM61IH_X3jayIdcJ4LTtutckAnX04f3SGycMw6ZhuOVlQMDgtgk-Uu6SHw-x-KTVcYVg-fWrurGmY1KooA0gi_tcQWw271-bvXNTvAe8Pba-Pmms7rZBp6HM_WJA4WEFDnQYzAh/s1600/cyberattack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Avdtp7bYOQRvkPs8sO8dFmUgTObatnpoad2ECTYvXL0rYb7gJIQmpAM61IH_X3jayIdcJ4LTtutckAnX04f3SGycMw6ZhuOVlQMDgtgk-Uu6SHw-x-KTVcYVg-fWrurGmY1KooA0gi_tcQWw271-bvXNTvAe8Pba-Pmms7rZBp6HM_WJA4WEFDnQYzAh/s1600/cyberattack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Ivanti Virtual Traffic Manager (vTM) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability in question is CVE-2024-7593 (CVSS score: 9.8), which could be exploited by a remote unauthenticated attacker to bypass the",

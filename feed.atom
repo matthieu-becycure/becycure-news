@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-25T07:43:37.331Z</updated>
+    <updated>2024-09-25T08:18:11.104Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Transportation Companies Hit by Cyberattacks Using Lumma Stealer and NetSupport Malware]]></title>
+        <id>https://thehackernews.com/2024/09/transportation-companies-hit-by.html</id>
+        <link href="https://thehackernews.com/2024/09/transportation-companies-hit-by.html"/>
+        <updated>2024-09-25T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Transportation and logistics companies in North America are the target of a new phishing campaign that delivers a variety of information stealers and remote access trojans (RATs).
+The activity cluster, per Proofpoint, makes use of compromised legitimate email accounts belonging to transportation and shipping companies so as to inject malicious content into existing email conversations.
+As many]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns]]></title>
         <id>https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html</id>
