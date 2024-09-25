@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-25T17:11:36.492Z</updated>
+    <updated>2024-09-25T17:30:54.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google's Shift to Rust Programming Cuts Android Memory Vulnerabilities by 52%]]></title>
+        <id>https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html</id>
+        <link href="https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html"/>
+        <updated>2024-09-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has revealed that its transition to memory-safe languages such as Rust as part of its secure-by-design approach has led to the percentage of memory-safe vulnerabilities discovered in Android dropping from 76% to 24% over a period of six years.
+The tech giant said focusing on Safe Coding for new features not only reduces the overall security risk of a codebase, but also makes the switch]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla Faces Privacy Complaint for Enabling Tracking in Firefox Without User Consent]]></title>
         <id>https://thehackernews.com/2024/09/mozilla-faces-privacy-complaint-for.html</id>
