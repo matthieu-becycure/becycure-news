@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s1600/chrome.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje0lWT5FYYzNQnVockdk1Qi0mOVU7eB18sCSs5myIa1bh9-_kvxcc99hGZUyCAMiua4RT-nViXwpaNQAND1WPmoqqqWUfW85r8x-3PMzm1EHajUW8rQTDC9C7a_54drmTdaAx0nRujIEGpbq_8ORZgc1vUNtpuDB9jVh6tFpdJlSHEfYf_fD_hVNyuAVjv/s1600/chrome.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "SonicWall has released security updates to address a critical flaw impacting its firewalls that, if successfully exploited, could grant malicious actors unauthorized access to the devices.\nThe vulnerability, tracked as CVE-2024-40766 (CVSS score: 9.3), has been described as an improper access control bug.\n\"An improper access control vulnerability has been identified in the SonicWall SonicOS",
-          "link": "https://thehackernews.com/2024/08/sonicwall-issues-critical-patch-for.html",
-          "publishedOn": "2024-08-26T14:33:00.000Z",
-          "wordCount": null,
-          "title": "SonicWall Issues Critical Patch for Firewall Vulnerability Allowing Unauthorized Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_E4LUK0YF-ig9M9pBoT67TAwZ_EzcZ2sYtFmzhIow9hXpx5A16jE5zkc9aXH0Bd7BdyNYmTDzEs1NnMvog-KgTlDRJw4Tfn1LX-0HBXpixC_qm2Z_0-aInNUMr8BnPDGGltxHtwJ3vMuBkzC3OFDmfEp1MXs1QmUMhui-LaqDgWWfSJqJ1dNGQSgxo1cu/s1600/sonic.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_E4LUK0YF-ig9M9pBoT67TAwZ_EzcZ2sYtFmzhIow9hXpx5A16jE5zkc9aXH0Bd7BdyNYmTDzEs1NnMvog-KgTlDRJw4Tfn1LX-0HBXpixC_qm2Z_0-aInNUMr8BnPDGGltxHtwJ3vMuBkzC3OFDmfEp1MXs1QmUMhui-LaqDgWWfSJqJ1dNGQSgxo1cu/s1600/sonic.jpg"
         }
       ]
     },
