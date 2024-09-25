@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-25T11:43:53.837Z</updated>
+    <updated>2024-09-25T12:25:43.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Expert Tips on How to Spot a Phishing Link]]></title>
+        <id>https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html</id>
+        <link href="https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html"/>
+        <updated>2024-09-25T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Phishing attacks are becoming more advanced and harder to detect, but there are still telltale signs that can help you spot them before it's too late. See these key indicators that security experts use to identify phishing links:1. Check Suspicious URLs 
+
+Phishing URLs are often long, confusing, or filled with random characters. Attackers use these to disguise the link's true destination]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Agentic AI in SOCs: A Solution to SOAR's Unfulfilled Promises]]></title>
         <id>https://thehackernews.com/2024/09/agentic-ai-in-socs-solution-to-soars.html</id>
