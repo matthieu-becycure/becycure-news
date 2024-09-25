@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-25T01:02:20.787Z</updated>
+    <updated>2024-09-25T02:32:44.488Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2551,17 +2551,6 @@ Tracked as CVE-2024-7965, the vulnerability has been described as an inappropria
         <summary type="html"><![CDATA[SonicWall has released security updates to address a critical flaw impacting its firewalls that, if successfully exploited, could grant malicious actors unauthorized access to the devices.
 The vulnerability, tracked as CVE-2024-40766 (CVSS score: 9.3), has been described as an improper access control bug.
 "An improper access control vulnerability has been identified in the SonicWall SonicOS]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch Regulator Fines Uber €290 Million for GDPR Violations in Data Transfers to U.S.]]></title>
-        <id>https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html</id>
-        <link href="https://thehackernews.com/2024/08/dutch-regulators-fines-uber-290-million.html"/>
-        <updated>2024-08-26T14:23:00.000Z</updated>
-        <summary type="html"><![CDATA[The Dutch Data Protection Authority (DPA) has fined Uber a record €290 million ($324 million) for allegedly failing to comply with European Union (E.U.) data protection standards when sending sensitive driver data to the U.S.
-"The Dutch DPA found that Uber transferred personal data of European taxi drivers to the United States (U.S.) and failed to appropriately safeguard the data with regard to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
