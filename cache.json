@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7t4nmUMSvjzkh6_lMnhskHklV1UrqxlB-VCbN8aU-ANnt70HQJrxhtMtaiV4MFFBCDVzht0NPnEJqYgO7lZgYAFLcKYR2TpwiaQaVLEE033WH6XY_Jlj6r5h67T9qdL8SfnOdYQ-ApcaAGIQgdfjBsGF34Enc1nk50onpl5eLdsna-73YS6SzvOVZFT8/s1600/pentera.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7t4nmUMSvjzkh6_lMnhskHklV1UrqxlB-VCbN8aU-ANnt70HQJrxhtMtaiV4MFFBCDVzht0NPnEJqYgO7lZgYAFLcKYR2TpwiaQaVLEE033WH6XY_Jlj6r5h67T9qdL8SfnOdYQ-ApcaAGIQgdfjBsGF34Enc1nk50onpl5eLdsna-73YS6SzvOVZFT8/s1600/pentera.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Details have emerged about a now-patched vulnerability in Microsoft 365 Copilot that could enable the theft of sensitive user information using a technique called ASCII smuggling.\n\"ASCII Smuggling is a novel technique that uses special Unicode characters that mirror ASCII but are actually not visible in the user interface,\" security researcher Johann Rehberger said.\n\"This means that an attacker",
-          "link": "https://thehackernews.com/2024/08/microsoft-fixes-ascii-smuggling-flaw.html",
-          "publishedOn": "2024-08-27T06:09:00.000Z",
-          "wordCount": null,
-          "title": "Microsoft Fixes ASCII Smuggling Flaw That Enabled Data Theft from Microsoft 365 Copilot",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s1600/ms.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlIxxfhgvEbEYDG3wHQ2eKqzhAqQ6QYBSgpg5F4fNXxf3N_OUK6wVpDby0mrHMMk89hVFAbePc8wJo_yt-NyNLTIexlKrKZ5e1vPOUQwWbzCgixXsOzFkD6-cTfHIh0ExIj-yeH0DoVcyLlWxNgyft-L_BWAyjZgJ6JSRzVVM7ncNvc0nDAUiGvO2F9PGu/s1600/ms.png"
         }
       ]
     },
