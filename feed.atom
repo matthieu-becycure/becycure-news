@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-26T18:48:06.723Z</updated>
+    <updated>2024-09-26T19:09:57.275Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2749,17 +2749,6 @@ The activity has been attributed to a threat actor dubbed APT-C-60, according to
         <updated>2024-08-28T10:21:00.000Z</updated>
         <summary type="html"><![CDATA[The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.
 "The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New QR Code Phishing Campaign Exploits Microsoft Sway to Steal Credentials]]></title>
-        <id>https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html</id>
-        <link href="https://thehackernews.com/2024/08/new-qr-code-phishing-campaign-exploits.html"/>
-        <updated>2024-08-28T06:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers are calling attention to a new QR code phishing (aka quishing) campaign that leverages Microsoft Sway infrastructure to host fake pages, once again highlighting the abuse of legitimate cloud offerings for malicious purposes.
-"By using legitimate cloud applications, attackers provide credibility to victims, helping them to trust the content it serves," Netskope Threat]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
