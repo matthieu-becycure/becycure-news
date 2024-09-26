@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a set of now patched vulnerabilities in Kia vehicles that, if successfully exploited, could have allowed remote control over key functions simply by using only a license plate.\n\"These attacks could be executed remotely on any hardware-equipped vehicle in about 30 seconds, regardless of whether it had an active Kia Connect subscription,\" security",
+          "link": "https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html",
+          "publishedOn": "2024-09-26T16:02:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Could Have Remotely Controlled Kia Cars Using Only License Plates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4J0FR2e4kHb37iD_Iyl_IjRaKxWiYM8d8aoCLLoj2u7_661Q-5ru3LTUWERYr1GpuYRUbC4X70Q-FrxWFBRereox_n6L4PlsdGAPUsQofO7fqVx-6lstjGkRuciH2XF40b44GEWzNpyOY3lMm5D52wuipwG9eifHrYAvGZed1L-ex2Yt0rq0Yx2AkDUk/s1600/car-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX4J0FR2e4kHb37iD_Iyl_IjRaKxWiYM8d8aoCLLoj2u7_661Q-5ru3LTUWERYr1GpuYRUbC4X70Q-FrxWFBRereox_n6L4PlsdGAPUsQofO7fqVx-6lstjGkRuciH2XF40b44GEWzNpyOY3lMm5D52wuipwG9eifHrYAvGZed1L-ex2Yt0rq0Yx2AkDUk/s1600/car-hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Imagine trying to find a needle in a haystack, but the haystack is on fire, and there are a million other needles you also need to find. That's what dealing with security alerts can feel like.\nSIEM was supposed to make this easier, but somewhere along the way, it became part of the problem. Too many alerts, too much noise, and not enough time to actually stop threats.\nIt's time for a change.",
@@ -2420,22 +2436,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyeWV0KedUYiO2TCZNEIWpKk1ZYizkOD1ai6fK83UNWCu1fB-RuTrTibzN9tnVQJDxQsLCibB0BoZVgG5THQv5ObfTA-LmaXQCkutEmO5Cu1tqRuAjyGOJxkdM2NTHI0_9O-n5GSPcE8rdFQqRIKxV3jWomAal0fjmuysLejfLIujHGnMAzmiuw521_QB/s1600/apache.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIyeWV0KedUYiO2TCZNEIWpKk1ZYizkOD1ai6fK83UNWCu1fB-RuTrTibzN9tnVQJDxQsLCibB0BoZVgG5THQv5ObfTA-LmaXQCkutEmO5Cu1tqRuAjyGOJxkdM2NTHI0_9O-n5GSPcE8rdFQqRIKxV3jWomAal0fjmuysLejfLIujHGnMAzmiuw521_QB/s1600/apache.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A critical security flaw has been disclosed in the WPML WordPress multilingual plugin that could allow authenticated users to execute arbitrary code remotely under certain circumstances.\nThe vulnerability, tracked as CVE-2024-6386 (CVSS score: 9.9), impacts all versions of the plugin before 4.6.13, which was released on August 20, 2024.\nArising due to missing input validation and sanitization,",
-          "link": "https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html",
-          "publishedOn": "2024-08-28T04:14:00.000Z",
-          "wordCount": null,
-          "title": "Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TdktyLZv9Not7fvAbH1YMEOa3_jfRPrj6fkxeFwFb1Ab2Qk0URwsIqzOH6SyneAULR4PqHVPlb4ftiP5CnR3Jy3CeXW-VYRaV5s5Hcw9IYpWG1EnBtRo3gnA4BrFE6YnVfMPZbckpNz5fz4JnDjK7JznjsETjn3Esw9ArRNgW14k4IrNEBCmMGhpuDEA/s1600/wpml.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TdktyLZv9Not7fvAbH1YMEOa3_jfRPrj6fkxeFwFb1Ab2Qk0URwsIqzOH6SyneAULR4PqHVPlb4ftiP5CnR3Jy3CeXW-VYRaV5s5Hcw9IYpWG1EnBtRo3gnA4BrFE6YnVfMPZbckpNz5fz4JnDjK7JznjsETjn3Esw9ArRNgW14k4IrNEBCmMGhpuDEA/s1600/wpml.png"
         }
       ]
     },

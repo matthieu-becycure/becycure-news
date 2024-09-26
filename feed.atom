@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-26T15:43:58.117Z</updated>
+    <updated>2024-09-26T16:15:56.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Could Have Remotely Controlled Kia Cars Using Only License Plates]]></title>
+        <id>https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html</id>
+        <link href="https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html"/>
+        <updated>2024-09-26T16:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a set of now patched vulnerabilities in Kia vehicles that, if successfully exploited, could have allowed remote control over key functions simply by using only a license plate.
+"These attacks could be executed remotely on any hardware-equipped vehicle in about 30 seconds, regardless of whether it had an active Kia Connect subscription," security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar]]></title>
         <id>https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html</id>
@@ -2760,18 +2771,6 @@ The activity has been attributed to a threat actor dubbed APT-C-60, according to
         <updated>2024-08-28T05:05:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw affecting the Apache OFBiz open-source enterprise resource planning (ERP) system to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
 The vulnerability, known as CVE-2024-38856, carries a CVSS score of 9.8, indicating critical severity.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical WPML Plugin Flaw Exposes WordPress Sites to Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html</id>
-        <link href="https://thehackernews.com/2024/08/critical-wpml-plugin-flaw-exposes.html"/>
-        <updated>2024-08-28T04:14:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the WPML WordPress multilingual plugin that could allow authenticated users to execute arbitrary code remotely under certain circumstances.
-The vulnerability, tracked as CVE-2024-6386 (CVSS score: 9.9), impacts all versions of the plugin before 4.6.13, which was released on August 20, 2024.
-Arising due to missing input validation and sanitization,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
