@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/chinese-hackers-infiltrate-us-internet.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Nation-state threat actors backed by Beijing broke into a \"handful\" of U.S. internet service providers (ISPs) as part of a cyber espionage campaign orchestrated to glean sensitive information, The Wall Street Journal reported Wednesday.\nThe activity has been attributed to a threat actor that Microsoft tracks as Salt Typhoon, which is also known as FamousSparrow and GhostEmperor.\n\"Investigators",
+          "link": "https://thehackernews.com/2024/09/chinese-hackers-infiltrate-us-internet.html",
+          "publishedOn": "2024-09-26T04:49:00.000Z",
+          "wordCount": null,
+          "title": "Chinese Hackers Infiltrate U.S. Internet Providers in Cyber Espionage Campaign",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgOMc7K__etMEMqo-Z5-hxeA3yeLGTLLPu8DB7P89HHZ2eZrFE_Ug8gJ0nmfF_DJKHzRHS8D4m1z6zzBVqujulzVGd_s92H0fWBadwfOvoER501HS7OobW8xYde4RZ4vPzp8Xtof7nqgtgquPKv3kLzpqcF0n9iJzkr7nr3hfOA5zz6pil_ndQKmKVZ1UL/s1600/code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgOMc7K__etMEMqo-Z5-hxeA3yeLGTLLPu8DB7P89HHZ2eZrFE_Ug8gJ0nmfF_DJKHzRHS8D4m1z6zzBVqujulzVGd_s92H0fWBadwfOvoER501HS7OobW8xYde4RZ4vPzp8Xtof7nqgtgquPKv3kLzpqcF0n9iJzkr7nr3hfOA5zz6pil_ndQKmKVZ1UL/s1600/code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/googles-shift-to-rust-programming-cuts.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Google has revealed that its transition to memory-safe languages such as Rust as part of its secure-by-design approach has led to the percentage of memory-safe vulnerabilities discovered in Android dropping from 76% to 24% over a period of six years.\nThe tech giant said focusing on Safe Coding for new features not only reduces the overall security risk of a codebase, but also makes the switch",
