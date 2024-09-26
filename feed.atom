@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-26T03:46:41.349Z</updated>
+    <updated>2024-09-26T04:16:00.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2662,18 +2662,6 @@ The vulnerability, known as CVE-2024-38856, carries a CVSS score of 9.8, indicat
         <summary type="html"><![CDATA[A critical security flaw has been disclosed in the WPML WordPress multilingual plugin that could allow authenticated users to execute arbitrary code remotely under certain circumstances.
 The vulnerability, tracked as CVE-2024-6386 (CVSS score: 9.9), impacts all versions of the plugin before 4.6.13, which was released on August 20, 2024.
 Arising due to missing input validation and sanitization,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users]]></title>
-        <id>https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html</id>
-        <link href="https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html"/>
-        <updated>2024-08-27T16:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Users of Chinese instant messaging apps like DingTalk and WeChat are the target of an Apple macOS version of a backdoor named HZ RAT.
-The artifacts "almost exactly replicate the functionality of the Windows version of the backdoor and differ only in the payload, which is received in the form of shell scripts from the attackers' server," Kaspersky researcher Sergey Puzan said.
-HZ RAT was first]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

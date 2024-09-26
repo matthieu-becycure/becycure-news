@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TdktyLZv9Not7fvAbH1YMEOa3_jfRPrj6fkxeFwFb1Ab2Qk0URwsIqzOH6SyneAULR4PqHVPlb4ftiP5CnR3Jy3CeXW-VYRaV5s5Hcw9IYpWG1EnBtRo3gnA4BrFE6YnVfMPZbckpNz5fz4JnDjK7JznjsETjn3Esw9ArRNgW14k4IrNEBCmMGhpuDEA/s1600/wpml.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1TdktyLZv9Not7fvAbH1YMEOa3_jfRPrj6fkxeFwFb1Ab2Qk0URwsIqzOH6SyneAULR4PqHVPlb4ftiP5CnR3Jy3CeXW-VYRaV5s5Hcw9IYpWG1EnBtRo3gnA4BrFE6YnVfMPZbckpNz5fz4JnDjK7JznjsETjn3Esw9ArRNgW14k4IrNEBCmMGhpuDEA/s1600/wpml.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Users of Chinese instant messaging apps like DingTalk and WeChat are the target of an Apple macOS version of a backdoor named HZ RAT.\nThe artifacts \"almost exactly replicate the functionality of the Windows version of the backdoor and differ only in the payload, which is received in the form of shell scripts from the attackers' server,\" Kaspersky researcher Sergey Puzan said.\nHZ RAT was first",
-          "link": "https://thehackernews.com/2024/08/macos-version-of-hz-rat-backdoor.html",
-          "publishedOn": "2024-08-27T16:08:00.000Z",
-          "wordCount": null,
-          "title": "macOS Version of HZ RAT Backdoor Targets Chinese Messaging App Users",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKmMX999zXB84oRNczWEK4W8VodaujsXWikVA1avU_osbjwleTfC79P6nFmxp3rUPGQk3ZKNCc93KRO_m8cO5yTfCeksQxNdWJl5__OqjppwavG_7bYX0ZgAihKpCd3nJ5SApPf490exk3_j6suXuci9htjITCz2GYWVtZz6GZgsBwIOWMYERIQ_zvB9W7/s1600/chinese-hacker.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKmMX999zXB84oRNczWEK4W8VodaujsXWikVA1avU_osbjwleTfC79P6nFmxp3rUPGQk3ZKNCc93KRO_m8cO5yTfCeksQxNdWJl5__OqjppwavG_7bYX0ZgAihKpCd3nJ5SApPf490exk3_j6suXuci9htjITCz2GYWVtZz6GZgsBwIOWMYERIQ_zvB9W7/s1600/chinese-hacker.png"
         }
       ]
     },
