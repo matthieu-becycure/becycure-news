@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-26T11:43:27.148Z</updated>
+    <updated>2024-09-26T12:25:19.030Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EPSS vs. CVSS: What’s the Best Approach to Vulnerability Prioritization?]]></title>
+        <id>https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html</id>
+        <link href="https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html"/>
+        <updated>2024-09-26T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many businesses rely on the Common Vulnerability Scoring System (CVSS) to assess the severity of vulnerabilities for prioritization. While these scores provide some insight into the potential impact of a vulnerability, they don’t factor in real-world threat data, such as the likelihood of exploitation. With new vulnerabilities discovered daily, teams don’t have the time - or the budget - to]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watering Hole Attack on Kurdish Sites Distributing Malicious APKs and Spyware]]></title>
+        <id>https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html</id>
+        <link href="https://thehackernews.com/2024/09/watering-hole-attack-on-kurdish-sites.html"/>
+        <updated>2024-09-26T10:43:00.000Z</updated>
+        <summary type="html"><![CDATA[As many as 25 websites linked to the Kurdish minority have been compromised as part of a watering hole attack designed to harvest sensitive information for over a year and a half.
+French cybersecurity firm Sekoia, which disclosed details of the campaign dubbed SilentSelfie, described the intrusion set as long-running, with first signs of infection detected as far back as December 2022.
+The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities]]></title>
         <id>https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html</id>
