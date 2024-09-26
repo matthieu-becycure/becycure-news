@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Imagine trying to find a needle in a haystack, but the haystack is on fire, and there are a million other needles you also need to find. That's what dealing with security alerts can feel like.\nSIEM was supposed to make this easier, but somewhere along the way, it became part of the problem. Too many alerts, too much noise, and not enough time to actually stop threats.\nIt's time for a change.",
+          "link": "https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html",
+          "publishedOn": "2024-09-26T12:28:00.000Z",
+          "wordCount": null,
+          "title": "Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf6rjL3SYLXgbDi1fwjWVPHE-o-LVn9aVSjmaphgM82OTtbHIXWJAIMPAdr71ZJHdxzHKgoBl0ijE6kr_kJ0c7bSgF0pstV5AP_wCgz-c5Liyw0rUx8yKzlorho7pa4Omixxoda1hDBBR1Jlp8A6wbhjp8CFPMtmfoPqWdiKsZlJDMwiBmRT6J_vi3tXi1/s1600/siem.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf6rjL3SYLXgbDi1fwjWVPHE-o-LVn9aVSjmaphgM82OTtbHIXWJAIMPAdr71ZJHdxzHKgoBl0ijE6kr_kJ0c7bSgF0pstV5AP_wCgz-c5Liyw0rUx8yKzlorho7pa4Omixxoda1hDBBR1Jlp8A6wbhjp8CFPMtmfoPqWdiKsZlJDMwiBmRT6J_vi3tXi1/s1600/siem.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been observed leveraging two new malware strains dubbed KLogEXE and FPSpy.\nThe activity has been attributed to an adversary tracked as Kimsuky, which is also known as APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (formerly Thallium), Sparkling Pisces, Springtail, and Velvet Chollima.\n\"These samples enhance Sparkling Pisces' already extensive arsenal",
+          "link": "https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html",
+          "publishedOn": "2024-09-26T12:28:00.000Z",
+          "wordCount": null,
+          "title": "N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8gaxBhyphenhyphen-R_UskMrPzRcd2cJmioE1336rqhgvvwY-o4wGgI3B4WBnQTAx4lg95seOtZrxDKptEhpmYDLD3u04vCE-D9FUN7v5hs4_U_WAEIqhvmM8vWf-GWZC7DDuM1fzX27FtHqfmKwTFS26q2BRQxyO6k5QYyYXNPYuBt_hmMurm0eReksG_hp6ZeKt/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit8gaxBhyphenhyphen-R_UskMrPzRcd2cJmioE1336rqhgvvwY-o4wGgI3B4WBnQTAx4lg95seOtZrxDKptEhpmYDLD3u04vCE-D9FUN7v5hs4_U_WAEIqhvmM8vWf-GWZC7DDuM1fzX27FtHqfmKwTFS26q2BRQxyO6k5QYyYXNPYuBt_hmMurm0eReksG_hp6ZeKt/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Many businesses rely on the Common Vulnerability Scoring System (CVSS) to assess the severity of vulnerabilities for prioritization. While these scores provide some insight into the potential impact of a vulnerability, they don’t factor in real-world threat data, such as the likelihood of exploitation. With new vulnerabilities discovered daily, teams don’t have the time - or the budget - to",

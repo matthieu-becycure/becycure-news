@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-26T12:25:19.030Z</updated>
+    <updated>2024-09-26T13:03:24.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overloaded with SIEM Alerts? Discover Effective Strategies in This Expert-Led Webinar]]></title>
+        <id>https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html</id>
+        <link href="https://thehackernews.com/2024/09/overloaded-with-siem-alerts-discover.html"/>
+        <updated>2024-09-26T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine trying to find a needle in a haystack, but the haystack is on fire, and there are a million other needles you also need to find. That's what dealing with security alerts can feel like.
+SIEM was supposed to make this easier, but somewhere along the way, it became part of the problem. Too many alerts, too much noise, and not enough time to actually stop threats.
+It's time for a change.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N. Korean Hackers Deploy New KLogEXE and FPSpy Malware in Targeted Attacks]]></title>
+        <id>https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html</id>
+        <link href="https://thehackernews.com/2024/09/n-korean-hackers-deploy-new-klogexe-and.html"/>
+        <updated>2024-09-26T12:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors with ties to North Korea have been observed leveraging two new malware strains dubbed KLogEXE and FPSpy.
+The activity has been attributed to an adversary tracked as Kimsuky, which is also known as APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (formerly Thallium), Sparkling Pisces, Springtail, and Velvet Chollima.
+"These samples enhance Sparkling Pisces' already extensive arsenal]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EPSS vs. CVSS: What’s the Best Approach to Vulnerability Prioritization?]]></title>
         <id>https://thehackernews.com/2024/09/epss-vs-cvss-whats-best-approach-to.html</id>
