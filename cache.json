@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s1600/hackers.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA_kHHx-Rhu44LQBvMYbThgypumH4sB4GsHpvswYUEF8ZcAi74DCdNBqL4ftI1msC9w0eB61Cu9WlK_bfTwqfPPwwiiCz9I_RTmM6k0xkODlp5bipq1DXMBPS05Bp0nAQDx7iY4dlSkJbo3sXUkwXrlAS-bHJrAWdfKY2wL87jwnfUW9zD_6RXmAHQ0uDn/s1600/hackers.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The threat actors behind the BlackByte ransomware group have been observed likely exploiting a recently patched security flaw impacting VMware ESXi hypervisors, while also leveraging various vulnerable drivers to disarm security protections.\n\"The BlackByte ransomware group continues to leverage tactics, techniques, and procedures (TTPs) that have formed the foundation of its tradecraft since its",
-          "link": "https://thehackernews.com/2024/08/blackbyte-ransomware-exploits-vmware.html",
-          "publishedOn": "2024-08-28T10:21:00.000Z",
-          "wordCount": null,
-          "title": "BlackByte Ransomware Exploits VMware ESXi Flaw in Latest Attack Wave",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s1600/ransomware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlKhe5sw0WQsQoa12iQy671uO8guaKaOo1E48OYxBYSMVanH5vSqOLNzV4CjgLJ20-3VKvtzuXfKo_j65xtwlJL7SVO90_Se4WKZc30XIUQgvuDcb-0OQc_TaQ9pgYsE6gAvZfHNpV0gKjXQns8qb6Bn8fAoA90m3UKgCKfVVOdH6mVKHX0kYcc6apPYaJ/s1600/ransomware.png"
         }
       ]
     },
