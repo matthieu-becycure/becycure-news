@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T09:31:06.834Z</updated>
+    <updated>2024-09-27T09:43:35.386Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybersecurity Certifications: The Gateway to Career Advancement]]></title>
+        <id>https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html</id>
+        <link href="https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html"/>
+        <updated>2024-09-27T09:04:00.000Z</updated>
+        <summary type="html"><![CDATA[In today's fast-evolving digital landscape, cybersecurity has become a cornerstone of organizational resilience. As cyber threats grow increasingly sophisticated, the demand for skilled cybersecurity professionals has never been higher. Whether you're a seasoned cyber professional or just starting your journey, signing up for the GIAC Newsletter ensures you're always informed and equipped for]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New HTML Smuggling Campaign Delivers DCRat Malware to Russian-Speaking Users]]></title>
+        <id>https://thehackernews.com/2024/09/new-html-smuggling-campaign-delivers.html</id>
+        <link href="https://thehackernews.com/2024/09/new-html-smuggling-campaign-delivers.html"/>
+        <updated>2024-09-27T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian-speaking users have been targeted as part of a new campaign distributing a commodity trojan called DCRat (aka DarkCrystal RAT) by means of a technique known as HTML smuggling.
+The development marks the first time the malware has been deployed using this method, a departure from previously observed delivery vectors such as compromised or fake websites, or phishing emails bearing PDF]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.S. Sanctions Two Crypto Exchanges for Facilitating Cybercrime and Money Laundering]]></title>
         <id>https://thehackernews.com/2024/09/us-sanctions-two-crypto-exchanges-for.html</id>
