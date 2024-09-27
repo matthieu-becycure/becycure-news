@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new set of security vulnerabilities has been disclosed in the OpenPrinting Common Unix Printing System (CUPS) on Linux systems that could permit remote command execution under certain conditions.\n\"A remote unauthenticated attacker can silently replace existing printers' (or install new ones) IPP urls with a malicious one, resulting in arbitrary command execution (on the computer) when a print",
+          "link": "https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html",
+          "publishedOn": "2024-09-27T12:33:00.000Z",
+          "wordCount": null,
+          "title": "Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw61OcqJmIxtfVOx_GGXRPn4z5_xvpDi3FhDM6NcPa915RqdOGjpFno7B7DKNRT6QiwIcWgWZg72sidA6r0tuqAsVfnBeLRZ3g0VC8yikw0sGEQLovz21BG4fBqfAc_e9TCZP47MFLloAreLHMsMnfl6P8HYW6g6UhkgGGI19AiBRnv7DWkvw0wc5RrKt/s1600/linux-printer.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfw61OcqJmIxtfVOx_GGXRPn4z5_xvpDi3FhDM6NcPa915RqdOGjpFno7B7DKNRT6QiwIcWgWZg72sidA6r0tuqAsVfnBeLRZ3g0VC8yikw0sGEQLovz21BG4fBqfAc_e9TCZP47MFLloAreLHMsMnfl6P8HYW6g6UhkgGGI19AiBRnv7DWkvw0wc5RrKt/s1600/linux-printer.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As security technology and threat awareness among organizations improves so do the adversaries who are adopting and relying on new techniques to maximize speed and impact while evading detection.\nRansomware and malware continue to be the method of choice by big game hunting (BGH) cyber criminals, and the increased use of hands-on or “interactive intrusion” techniques is especially alarming.",

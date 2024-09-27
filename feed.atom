@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T13:02:37.448Z</updated>
+    <updated>2024-09-27T13:33:45.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Linux CUPS Printing System Flaws Could Allow Remote Command Execution]]></title>
+        <id>https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html</id>
+        <link href="https://thehackernews.com/2024/09/critical-linux-cups-printing-system.html"/>
+        <updated>2024-09-27T12:33:00.000Z</updated>
+        <summary type="html"><![CDATA[A new set of security vulnerabilities has been disclosed in the OpenPrinting Common Unix Printing System (CUPS) on Linux systems that could permit remote command execution under certain conditions.
+"A remote unauthenticated attacker can silently replace existing printers' (or install new ones) IPP urls with a malicious one, resulting in arbitrary command execution (on the computer) when a print]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Plan and Prepare for Penetration Testing]]></title>
         <id>https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html</id>
