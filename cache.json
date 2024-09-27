@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in the NVIDIA Container Toolkit that, if successfully exploited, could allow threat actors to break out of the confines of a container and gain full access to the underlying host.\nThe vulnerability, tracked as CVE-2024-0132, carries a CVSS score of 9.0 out of a maximum of 10.0. It has been addressed in NVIDIA Container Toolkit version v1.16.2 and",
+          "link": "https://thehackernews.com/2024/09/critical-nvidia-container-toolkit.html",
+          "publishedOn": "2024-09-27T05:54:00.000Z",
+          "wordCount": null,
+          "title": "Critical NVIDIA Container Toolkit Vulnerability Could Grant Full Host Access to Attackers",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s1600/nvidia.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCr2s6fTSUPeq884_63zsPZ6NGwOSLCScpb28GXhzljaaBgDVPHa8KwWKpU3CnzD-dDG-0AzZNhjf1twSUyOeDp3DE1YF4IZdq7bIpfAz_xkdVEaFpGapVZA6aFG9XAsusQx55uhpCUSX5d7WK747ievLs1PAQdGsd924QNA5d0nmRWYXsmC2_BhKjVbQC/s1600/nvidia.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/hackers-could-have-remotely-controlled.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a set of now patched vulnerabilities in Kia vehicles that, if successfully exploited, could have allowed remote control over key functions simply by using only a license plate.\n\"These attacks could be executed remotely on any hardware-equipped vehicle in about 30 seconds, regardless of whether it had an active Kia Connect subscription,\" security",
