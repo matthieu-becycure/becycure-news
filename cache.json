@@ -3535,26 +3535,6 @@
           "wordCount": 433,
           "title": "Multiples vulnérabilités dans les produits IBM (30 août 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0725/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Wireshark. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0725/",
-          "publishedOn": "2024-08-29T08:34:34.000Z",
-          "wordCount": 310,
-          "title": "Vulnérabilité dans Wireshark (29 août 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0724/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0724/",
-          "publishedOn": "2024-08-29T08:32:12.000Z",
-          "wordCount": 335,
-          "title": "Multiples vulnérabilités dans Google Chrome (29 août 2024)",
-          "imageUrl": null
         }
       ]
     }
