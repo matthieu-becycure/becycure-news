@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T16:37:46.879Z</updated>
+    <updated>2024-09-27T16:49:08.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Progress Software Releases Patches for 6 Flaws in WhatsUp Gold – Patch Now]]></title>
+        <id>https://thehackernews.com/2024/09/progress-software-releases-patches-for.html</id>
+        <link href="https://thehackernews.com/2024/09/progress-software-releases-patches-for.html"/>
+        <updated>2024-09-27T15:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Progress Software has released another round of updates to address six security flaws in WhatsUp Gold, including two critical vulnerabilities.
+The issues, the company said, have been resolved in version 24.0.1 released on September 20, 2024. The company has yet to release any details about what the flaws are other than listing their CVE identifiers -
+
+CVE-2024-46905 (CVSS score: 8.8)]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vulnérabilités affectant OpenPrinting CUPS (27 septembre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-012/</id>
@@ -2852,17 +2865,6 @@ CVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a "command in
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Cisco Nexus. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[French Authorities Charge Telegram CEO with Facilitating Criminal Activities on Platform]]></title>
-        <id>https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html</id>
-        <link href="https://thehackernews.com/2024/08/french-authorities-charge-telegram-ceo.html"/>
-        <updated>2024-08-29T04:41:00.000Z</updated>
-        <summary type="html"><![CDATA[French prosecutors on Wednesday formally charged CEO Pavel Durov with facilitating a litany of criminal activity on the popular messaging platform and placed him under formal investigation following his arrest Saturday.
-Russian-born Durov, who is also a French citizen, has been charged with being complicit in the spread of child sexual abuse material (CSAM) as well as enabling organized crime,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
