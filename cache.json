@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "As security technology and threat awareness among organizations improves so do the adversaries who are adopting and relying on new techniques to maximize speed and impact while evading detection.\nRansomware and malware continue to be the method of choice by big game hunting (BGH) cyber criminals, and the increased use of hands-on or “interactive intrusion” techniques is especially alarming.",
+          "link": "https://thehackernews.com/2024/09/how-to-plan-and-prepare-for-penetration.html",
+          "publishedOn": "2024-09-27T11:26:00.000Z",
+          "wordCount": null,
+          "title": "How to Plan and Prepare for Penetration Testing",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRgwFIQfUfeEMkwMz17AEhVbn8aoWoNCMvUqlvqn8Ruk5Vfg8M9uR1vNZUR2jTRmJ2z1o6HDYSlBLUzPcgp0rKfitAA4I1MieUYZ23denyOPO-ndXngJZcrtT9SqqbiTH1fA6Fp4iMz2vLWFA5dV1omDjLnSZQTo9LBAzCJ3bCVBxOTYPkK9NVaIo4-Q/s1600/breachlock.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWRgwFIQfUfeEMkwMz17AEhVbn8aoWoNCMvUqlvqn8Ruk5Vfg8M9uR1vNZUR2jTRmJ2z1o6HDYSlBLUzPcgp0rKfitAA4I1MieUYZ23denyOPO-ndXngJZcrtT9SqqbiTH1fA6Fp4iMz2vLWFA5dV1omDjLnSZQTo9LBAzCJ3bCVBxOTYPkK9NVaIo4-Q/s1600/breachlock.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/microsoft-identifies-storm-0501-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The threat actor known as Storm-0501 has targeted government, manufacturing, transportation, and law enforcement sectors in the U.S. to stage ransomware attacks.\nThe multi-stage attack campaign is designed to compromise hybrid cloud environments and perform lateral movement from on-premises to cloud environment, ultimately resulting in data exfiltration, credential theft, tampering, persistent",
+          "link": "https://thehackernews.com/2024/09/microsoft-identifies-storm-0501-as.html",
+          "publishedOn": "2024-09-27T11:11:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Identifies Storm-0501 as Major Threat in Hybrid Cloud Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLoJxoEp_DnlEt9CrbBKOycsaGbj6JOhBSUZ28iu8EXRfU3RR-ghbTzkm2DD2NrPu7YbFU6yHQz-vNaUvO2VZ_BRbu8Hjbi_fijtMHCbqRCVpHHmsquaTMUPbRNP7RFRAj1_bvmBDIUYmHhaSLtWzJaKt4Bk9Q6JQ9_WmfD3q7w_YjVuCQwfWp1bWiJ-G/s1600/ransomware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkLoJxoEp_DnlEt9CrbBKOycsaGbj6JOhBSUZ28iu8EXRfU3RR-ghbTzkm2DD2NrPu7YbFU6yHQz-vNaUvO2VZ_BRbu8Hjbi_fijtMHCbqRCVpHHmsquaTMUPbRNP7RFRAj1_bvmBDIUYmHhaSLtWzJaKt4Bk9Q6JQ9_WmfD3q7w_YjVuCQwfWp1bWiJ-G/s1600/ransomware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/cybersecurity-certifications-gateway-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In today's fast-evolving digital landscape, cybersecurity has become a cornerstone of organizational resilience. As cyber threats grow increasingly sophisticated, the demand for skilled cybersecurity professionals has never been higher. Whether you're a seasoned cyber professional or just starting your journey, signing up for the GIAC Newsletter ensures you're always informed and equipped for",
