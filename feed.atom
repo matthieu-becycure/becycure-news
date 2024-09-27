@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T03:46:45.254Z</updated>
+    <updated>2024-09-27T04:15:50.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2705,18 +2705,6 @@ CVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a "command in
         <updated>2024-08-29T04:41:00.000Z</updated>
         <summary type="html"><![CDATA[French prosecutors on Wednesday formally charged CEO Pavel Durov with facilitating a litany of criminal activity on the popular messaging platform and placed him under formal investigation following his arrest Saturday.
 Russian-born Durov, who is also a French citizen, has been charged with being complicit in the spread of child sexual abuse material (CSAM) as well as enabling organized crime,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortra Issues Patch for High-Risk FileCatalyst Workflow Security Vulnerability]]></title>
-        <id>https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html</id>
-        <link href="https://thehackernews.com/2024/08/fortra-issues-patch-for-high-risk.html"/>
-        <updated>2024-08-28T16:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortra has addressed a critical security flaw impacting FileCatalyst Workflow that could be abused by a remote attacker to gain administrative access.
-The vulnerability, tracked as CVE-2024-6633, carries a CVSS score of 9.8, and stems from the use of a static password to connect to a HSQL database.
-"The default credentials for the setup HSQL database (HSQLDB) for FileCatalyst Workflow are]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
