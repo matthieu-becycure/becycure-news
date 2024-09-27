@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T22:43:26.690Z</updated>
+    <updated>2024-09-27T23:12:21.991Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2822,17 +2822,6 @@ The activity has been linked to a threat actor dubbed Pioneer Kitten, which is a
         <summary type="html"><![CDATA[Attackers are increasingly using new phishing toolkits (open-source, commercial, and criminal) to execute adversary-in-the-middle (AitM) attacks.
 AitM enables attackers to not just harvest credentials but steal live sessions, allowing them to bypass traditional phishing prevention controls such as MFA, EDR, and email content filtering.
 In this article, we’re going to look at what AitM phishing]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unpatched AVTECH IP Camera Flaw Exploited by Hackers for Botnet Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html</id>
-        <link href="https://thehackernews.com/2024/08/unpatched-avtech-ip-camera-flaw.html"/>
-        <updated>2024-08-29T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[A years-old high-severity flaw impacting AVTECH IP cameras has been weaponized by malicious actors as a zero-day to rope them into a botnet.
-CVE-2024-7029 (CVSS score: 8.7), the vulnerability in question, is a "command injection vulnerability found in the brightness function of AVTECH closed-circuit television (CCTV) cameras that allows for remote code execution (RCE)," Akamai researchers Kyle]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
