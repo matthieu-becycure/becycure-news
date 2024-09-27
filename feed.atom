@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-27T23:28:36.202Z</updated>
+    <updated>2024-09-27T23:43:28.848Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2799,17 +2799,6 @@ Cybersecurity company Huntress attributed the activity to a threat cluster known
         <updated>2024-08-29T15:59:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have flagged multiple in-the-wild exploit campaigns that leveraged now-patched flaws in Apple Safari and Google Chrome browsers to infect mobile users with information-stealing malware.
 "These campaigns delivered n-day exploits for which patches were available, but would still be effective against unpatched devices," Google Threat Analysis Group (TAG) researcher Clement]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Agencies Warn of Iranian Hacking Group's Ongoing Ransomware Attacks]]></title>
-        <id>https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html</id>
-        <link href="https://thehackernews.com/2024/08/us-agencies-warn-of-iranian-hacking.html"/>
-        <updated>2024-08-29T11:42:00.000Z</updated>
-        <summary type="html"><![CDATA[U.S. cybersecurity and intelligence agencies have called out an Iranian hacking group for breaching multiple organizations across the country and coordinating with affiliates to deliver ransomware.
-The activity has been linked to a threat actor dubbed Pioneer Kitten, which is also known as Fox Kitten, Lemon Sandstorm (formerly Rubidium), Parisite, and UNC757, which it described as connected to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
