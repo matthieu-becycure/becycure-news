@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-28T21:27:20.764Z</updated>
+    <updated>2024-09-28T21:43:24.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2744,17 +2744,6 @@ Recorded Future's Insikt Group has linked the infrastructure to a threat it trac
         <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new campaign that potentially targets users in the Middle East through malware that disguises itself as Palo Alto Networks GlobalProtect virtual private network (VPN) tool.
 
 "The malware can execute remote PowerShell commands, download and exfiltrate files, encrypt communications, and bypass sandbox solutions, representing a significant threat to]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breaking Down AD CS Vulnerabilities: Insights for InfoSec Professionals]]></title>
-        <id>https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html</id>
-        <link href="https://thehackernews.com/2024/08/breaking-down-ad-cs-vulnerabilities.html"/>
-        <updated>2024-08-30T09:39:00.000Z</updated>
-        <summary type="html"><![CDATA[The most dangerous vulnerability you’ve never heard of.
-In the world of cybersecurity, vulnerabilities are discovered so often, and at such a high rate, that it can be very difficult to keep up with. Some vulnerabilities will start ringing alarm bells within your security tooling, while others are far more nuanced, but still pose an equally dangerous threat. Today, we want to discuss one of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
