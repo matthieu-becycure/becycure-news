@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-28T23:11:39.560Z</updated>
+    <updated>2024-09-28T23:30:23.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2723,17 +2723,6 @@ The activity, detected by Proofpoint starting August 5, 2024, impersonates tax a
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iranian Hackers Set Up New Network to Target U.S. Political Campaigns]]></title>
-        <id>https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html</id>
-        <link href="https://thehackernews.com/2024/08/iranian-hackers-set-up-new-network-to.html"/>
-        <updated>2024-08-30T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have unearthed new network infrastructure set up by Iranian threat actors to support activities linked to the recent targeting of U.S. political campaigns.
-Recorded Future's Insikt Group has linked the infrastructure to a threat it tracks as GreenCharlie, an Iran-nexus cyber threat group that overlaps with APT42, Charming Kitten, Damselfly, Mint Sandstorm (formerly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
