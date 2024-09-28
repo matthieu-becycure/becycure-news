@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-28T17:43:42.817Z</updated>
+    <updated>2024-09-28T18:15:36.897Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2789,17 +2789,6 @@ With a staggering 50% increase in ransomware attacks targeting industrial contro
         <summary type="html"><![CDATA[Chinese-speaking users are the target of a "highly organized and sophisticated attack" campaign that is likely leveraging phishing emails to infect Windows systems with Cobalt Strike payloads.
 "The attackers managed to move laterally, establish persistence and remain undetected within the systems for more than two weeks," Securonix researchers Den Iuzvyk and Tim Peck said in a new report.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian Confluence Vulnerability Exploited in Crypto Mining Campaigns]]></title>
-        <id>https://thehackernews.com/2024/08/atlassian-confluence-vulnerability.html</id>
-        <link href="https://thehackernews.com/2024/08/atlassian-confluence-vulnerability.html"/>
-        <updated>2024-08-30T06:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Threat actors are actively exploiting a now-patched, critical security flaw impacting the Atlassian Confluence Data Center and Confluence Server to conduct illicit cryptocurrency mining on susceptible instances.
-"The attacks involve threat actors that employ methods such as the deployment of shell scripts and XMRig miners, targeting of SSH endpoints, killing competing crypto mining processes,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
