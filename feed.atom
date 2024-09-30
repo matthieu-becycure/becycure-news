@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-30T03:15:34.921Z</updated>
+    <updated>2024-09-30T03:41:02.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2659,17 +2659,6 @@ Note: on August 29, the FBI and CISA issued a joint advisory as part of their on
         <updated>2024-09-02T03:36:00.000Z</updated>
         <summary type="html"><![CDATA[Roblox developers are the target of a persistent campaign that seeks to compromise systems through bogus npm packages, once again underscoring how threat actors continue to exploit the trust in the open-source ecosystem to deliver malware.
 "By mimicking the popular 'noblox.js' library, attackers have published dozens of packages designed to steal sensitive data and compromise systems," Checkmarx]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Deploy FudModule Rootkit via Chrome Zero-Day Exploit]]></title>
-        <id>https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html</id>
-        <link href="https://thehackernews.com/2024/08/north-korean-hackers-deploy-fudmodule.html"/>
-        <updated>2024-08-31T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[A recently patched security flaw in Google Chrome and other Chromium web browsers was exploited as a zero-day by North Korean actors in a campaign designed to deliver the FudModule rootkit.
-The development is indicative of the persistent efforts made by the nation-state adversary, which had made a habit of incorporating rafts of Windows zero-day exploits into its arsenal in recent months.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
