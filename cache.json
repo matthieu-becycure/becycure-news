@@ -2365,6 +2365,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0824/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Foxit PDF Editor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0824/",
+          "publishedOn": "2024-09-30T09:31:31.000Z",
+          "wordCount": 431,
+          "title": "Multiples vulnérabilités dans Foxit PDF Editor (30 septembre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-043/",
+          "author": null,
+          "description": "Ce bulletin d'actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l'analyse de l'ensemble des avis et alertes publiés par le CERT-FR dans le cadre d'une analyse de risques pour prioriser l'application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-043/",
+          "publishedOn": "2024-09-30T07:46:48.000Z",
+          "wordCount": 979,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-043 (30 septembre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-012/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans OpenPrinting CUPS et dans le composant cups-browsed. Celui-ci permet notamment de découvrir automatiquement des imprimantes partagées sur le réseau. Au total, quatre vulnérabilités ont été identifiées. Elles permettent : de récupérer des...",
