@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/critical-flaws-in-tank-gauge-systems.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Critical security vulnerabilities have been disclosed in six different Automatic Tank Gauge (ATG) systems from five manufacturers that could expose them to remote attacks.\n\"These vulnerabilities pose significant real-world risks, as they could be exploited by malicious actors to cause widespread damage, including physical damage, environmental hazards, and economic losses,\" Bitsight researcher",
+          "link": "https://thehackernews.com/2024/09/critical-flaws-in-tank-gauge-systems.html",
+          "publishedOn": "2024-09-30T11:55:00.000Z",
+          "wordCount": null,
+          "title": "Critical Flaws in Tank Gauge Systems Expose Gas Stations to Remote Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVyghya3tM_vqrVJGzPfmSlRwRhNQHUKooArq1g4GffE_Als5GHPh9loOOEvAzKQOlfQyVkqwW2q4VUQ-IZgJehY6t1-eT5v_GggsdjYWrZcQ34z4KoDDOvgva43VY28VnGke336EHIS3gB1NpkCDa9JI-mwBYSuZKYD2pzNLm1R4bzzNJRNfY1TiCt94/s1600/gas.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxVyghya3tM_vqrVJGzPfmSlRwRhNQHUKooArq1g4GffE_Als5GHPh9loOOEvAzKQOlfQyVkqwW2q4VUQ-IZgJehY6t1-eT5v_GggsdjYWrZcQ34z4KoDDOvgva43VY28VnGke336EHIS3gB1NpkCDa9JI-mwBYSuZKYD2pzNLm1R4bzzNJRNfY1TiCt94/s1600/gas.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Attackers are increasingly turning to session hijacking to get around widespread MFA adoption. The data supports this, as:\n\n147,000 token replay attacks were detected by Microsoft in 2023, a 111% increase year-over-year (Microsoft). \nAttacks on session cookies now happen in the same order of magnitude as password-based attacks (Google).\n\nBut session hijacking isn’t a new technique – so",
+          "link": "https://thehackernews.com/2024/09/session-hijacking-20-latest-way-that.html",
+          "publishedOn": "2024-09-30T11:20:00.000Z",
+          "wordCount": null,
+          "title": "Session Hijacking 2.0 — The Latest Way That Attackers are Bypassing MFA",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGW0lZj7oHgxlFyqyVYeABeWOtJ0f1yCo3uEtX7NYKEKjBwWGxTN4cgCKVVMxMOLkuNHPKtSPE4JJh9OwZqiYpWZhuSp3Ot27UDre4KFVk6L_KJVG9vkDlTUiGbMLgsasP555PC2FXHoW_5GMSOXagojvR5U8va1D4KhaJjKpG5OX5F5Fwsm7N67qF0CA/s1600/session-hijacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGW0lZj7oHgxlFyqyVYeABeWOtJ0f1yCo3uEtX7NYKEKjBwWGxTN4cgCKVVMxMOLkuNHPKtSPE4JJh9OwZqiYpWZhuSp3Ot27UDre4KFVk6L_KJVG9vkDlTUiGbMLgsasP555PC2FXHoW_5GMSOXagojvR5U8va1D4KhaJjKpG5OX5F5Fwsm7N67qF0CA/s1600/session-hijacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Imagine a sophisticated cyberattack cripples your organization’s most critical productivity and collaboration tool — the platform you rely on for daily operations. In the blink of an eye, hackers encrypt your emails, files, and crucial business data stored in Microsoft 365, holding it hostage using ransomware. Productivity grinds to a halt and your IT team races to assess the damage as the clock",
