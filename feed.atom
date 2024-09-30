@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-30T11:11:08.369Z</updated>
+    <updated>2024-09-30T11:26:58.920Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Hacker's Era: Why Microsoft 365 Protection Reigns Supreme]]></title>
+        <id>https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html</id>
+        <link href="https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html"/>
+        <updated>2024-09-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a sophisticated cyberattack cripples your organization’s most critical productivity and collaboration tool — the platform you rely on for daily operations. In the blink of an eye, hackers encrypt your emails, files, and crucial business data stored in Microsoft 365, holding it hostage using ransomware. Productivity grinds to a halt and your IT team races to assess the damage as the clock]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext]]></title>
         <id>https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html</id>

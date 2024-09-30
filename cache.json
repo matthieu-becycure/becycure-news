@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Imagine a sophisticated cyberattack cripples your organization’s most critical productivity and collaboration tool — the platform you rely on for daily operations. In the blink of an eye, hackers encrypt your emails, files, and crucial business data stored in Microsoft 365, holding it hostage using ransomware. Productivity grinds to a halt and your IT team races to assess the damage as the clock",
+          "link": "https://thehackernews.com/2024/09/why-microsoft-365-protection-reigns-supreme.html",
+          "publishedOn": "2024-09-30T10:30:00.000Z",
+          "wordCount": null,
+          "title": "A Hacker's Era: Why Microsoft 365 Protection Reigns Supreme",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB0rRbtBQoQ1M735l4N8P78aWHKlI8SIBLlJ2DcdrfWPbI-infvkQFm0pxz5Rtcn3pZYZa6GVTvSUqCqXxSVUH-Y3ZV5qWhqsYrGVIsEMCHtont3nuF_fsm2DgGUl4lDw4NkGVAOp-gI-TSOrkYul_2Z_oejebLokHKJhU9_fLpYD8JaJWUX_Sp4kJl4A/s1600/2.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB0rRbtBQoQ1M735l4N8P78aWHKlI8SIBLlJ2DcdrfWPbI-infvkQFm0pxz5Rtcn3pZYZa6GVTvSUqCqXxSVUH-Y3ZV5qWhqsYrGVIsEMCHtont3nuF_fsm2DgGUl4lDw4NkGVAOp-gI-TSOrkYul_2Z_oejebLokHKJhU9_fLpYD8JaJWUX_Sp4kJl4A/s1600/2.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Irish Data Protection Commission (DPC) has fined Meta €91 million ($101.56 million) as part of a probe into a security lapse in March 2019, when the company disclosed that it had mistakenly stored users' passwords in plaintext in its systems.\nThe investigation, launched by the DPC the next month, found that the social media giant violated four different articles under the European Union's",
