@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-09-30T06:42:21.769Z</updated>
+    <updated>2024-09-30T07:13:30.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta Fined €91 Million for Storing Millions of Facebook and Instagram Passwords in Plaintext]]></title>
+        <id>https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html</id>
+        <link href="https://thehackernews.com/2024/09/meta-fined-91-million-for-storing.html"/>
+        <updated>2024-09-30T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The Irish Data Protection Commission (DPC) has fined Meta €91 million ($101.56 million) as part of a probe into a security lapse in March 2019, when the company disclosed that it had mistakenly stored users' passwords in plaintext in its systems.
+The investigation, launched by the DPC the next month, found that the social media giant violated four different articles under the European Union's]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypto Scam App Disguised as WalletConnect Steals $70K in Five-Month Campaign]]></title>
         <id>https://thehackernews.com/2024/09/crypto-scam-app-disguised-as.html</id>
