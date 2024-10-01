@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "More than 140,000 phishing websites have been found linked to a phishing-as-a-service (PhaaS) platform named Sniper Dz over the past year, indicating that it's being used by a large number of cybercriminals to conduct credential theft.\n\"For prospective phishers, Sniper Dz offers an online admin panel with a catalog of phishing pages,\" Palo Alto Networks Unit 42 researchers Shehroze Farooqi,",
+          "link": "https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html",
+          "publishedOn": "2024-10-01T06:32:00.000Z",
+          "wordCount": null,
+          "title": "Free Sniper Dz Phishing Tools Fuel 140,000+ Cyber Attacks Targeting User Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIO_WBZ-DgY8yY6hrHj2HNtyN_oSS2K0RaDGe6l7fZmF3SI3_V0V4L0L07kifMPe-hi2Ce3eBEjpmJGm9nI2UKa6le73g8T9PPtQWRV5C8bsJHb3I5Hbj_qHD-5XOsIM4VlkaR2mZn2MEaYm3o_xbk3MrCItoY8Uk3wXgx9AHZbys4HjyQGRlP8JLF3lY5/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIO_WBZ-DgY8yY6hrHj2HNtyN_oSS2K0RaDGe6l7fZmF3SI3_V0V4L0L07kifMPe-hi2Ce3eBEjpmJGm9nI2UKa6le73g8T9PPtQWRV5C8bsJHb3I5Hbj_qHD-5XOsIM4VlkaR2mZn2MEaYm3o_xbk3MrCItoY8Uk3wXgx9AHZbys4HjyQGRlP8JLF3lY5/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have uncovered a new cryptojacking campaign targeting the Docker Engine API with the goal of co-opting the instances to join a malicious Docker Swarm controlled by the threat actor.\nThis enabled the attackers to \"use Docker Swarm's orchestration features for command-and-control (C2) purposes,\" Datadog researchers Matt Muir and Andy Giron said in an analysis.\nThe attacks",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T07:28:41.684Z</updated>
+    <updated>2024-10-01T07:43:34.558Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Free Sniper Dz Phishing Tools Fuel 140,000+ Cyber Attacks Targeting User Credentials]]></title>
+        <id>https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html</id>
+        <link href="https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html"/>
+        <updated>2024-10-01T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[More than 140,000 phishing websites have been found linked to a phishing-as-a-service (PhaaS) platform named Sniper Dz over the past year, indicating that it's being used by a large number of cybercriminals to conduct credential theft.
+"For prospective phishers, Sniper Dz offers an online admin panel with a catalog of phishing pages," Palo Alto Networks Unit 42 researchers Shehroze Farooqi,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet]]></title>
         <id>https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html</id>
