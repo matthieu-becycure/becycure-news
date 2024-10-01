@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T15:44:07.496Z</updated>
+    <updated>2024-10-01T16:16:38.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -14,6 +14,36 @@
         <summary type="html"><![CDATA[Since its emergence, Generative AI has revolutionized enterprise productivity. GenAI tools enable faster and more effective software development, financial analysis, business planning, and customer engagement. However, this business agility comes with significant risks, particularly the potential for sensitive data leakage. As organizations attempt to balance productivity gains with security]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans les produits Juniper Networks (01 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/"/>
+        <updated>2024-10-01T08:47:37.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Splunk (01 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/"/>
+        <updated>2024-10-01T08:34:15.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans NetApp StorageGRID (01 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/"/>
+        <updated>2024-10-01T08:25:48.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

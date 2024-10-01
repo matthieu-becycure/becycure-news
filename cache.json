@@ -2413,6 +2413,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Juniper Networks. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/",
+          "publishedOn": "2024-10-01T08:47:37.000Z",
+          "wordCount": 428,
+          "title": "Vulnérabilité dans les produits Juniper Networks (01 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0826/",
+          "publishedOn": "2024-10-01T08:34:15.000Z",
+          "wordCount": 353,
+          "title": "Multiples vulnérabilités dans les produits Splunk (01 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans NetApp StorageGRID. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0825/",
+          "publishedOn": "2024-10-01T08:25:48.000Z",
+          "wordCount": 328,
+          "title": "Vulnérabilité dans NetApp StorageGRID (01 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0824/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Foxit PDF Editor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et une atteinte à la confidentialité des données.",
