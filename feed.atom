@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T11:11:57.710Z</updated>
+    <updated>2024-10-01T11:27:36.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage]]></title>
+        <id>https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html</id>
+        <link href="https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html"/>
+        <updated>2024-10-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Since its emergence, Generative AI has revolutionized enterprise productivity. GenAI tools enable faster and more effective software development, financial analysis, business planning, and customer engagement. However, this business agility comes with significant risks, particularly the potential for sensitive data leakage. As organizations attempt to balance productivity gains with security]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free Sniper Dz Phishing Tools Fuel 140,000+ Cyber Attacks Targeting User Credentials]]></title>
         <id>https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html</id>

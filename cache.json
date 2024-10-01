@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Since its emergence, Generative AI has revolutionized enterprise productivity. GenAI tools enable faster and more effective software development, financial analysis, business planning, and customer engagement. However, this business agility comes with significant risks, particularly the potential for sensitive data leakage. As organizations attempt to balance productivity gains with security",
+          "link": "https://thehackernews.com/2024/10/5-actionable-steps-to-prevent-genai.html",
+          "publishedOn": "2024-10-01T10:30:00.000Z",
+          "wordCount": null,
+          "title": "5 Actionable Steps to Prevent GenAI Data Leaks Without Fully Blocking AI Usage",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s1600/layerx.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouEiZVRK4lnq6Z8x-6mHSwWmXJCCcsK7jLiyI1XFy_PSonVpvXmeqhbCPfIXz3X4kHeLhWihTkfwYdX21F8DKuKrWIiPDP-3pw3YCUjrNB0rlJe_tJiSoee-UVaeYLb-C0Yry_QDjzveTp73gwCtyzBoojjr454hGCX57HMO_udyWXBl4CtOd24gnSsA/s1600/layerx.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/free-sniper-dz-phishing-tools-fuel.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "More than 140,000 phishing websites have been found linked to a phishing-as-a-service (PhaaS) platform named Sniper Dz over the past year, indicating that it's being used by a large number of cybercriminals to conduct credential theft.\n\"For prospective phishers, Sniper Dz offers an online admin panel with a catalog of phishing pages,\" Palo Alto Networks Unit 42 researchers Shehroze Farooqi,",
