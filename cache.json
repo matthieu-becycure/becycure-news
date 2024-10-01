@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have uncovered a new cryptojacking campaign targeting the Docker Engine API with the goal of co-opting the instances to join a malicious Docker Swarm controlled by the threat actor.\nThis enabled the attackers to \"use Docker Swarm's orchestration features for command-and-control (C2) purposes,\" Datadog researchers Matt Muir and Andy Giron said in an analysis.\nThe attacks",
+          "link": "https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html",
+          "publishedOn": "2024-10-01T05:12:00.000Z",
+          "wordCount": null,
+          "title": "New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsRPnFD736G2dKa6_CD-PeeGkbEjPRceULyY9rdE1Fi50fx_z5FMNRNvwQ60oiR7A9ZoZS0KCpxascMk5Gmy6qhHwX4kEbC-zY2qzyeNoz59tTJr8WZqFD8UKVAaqzbfx-nway84pQ1BhKhtMhGVQM3h3bEq1w65sO_bzMGOC8TjT-JeS3Uurl51j234W/s1600/docker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdsRPnFD736G2dKa6_CD-PeeGkbEjPRceULyY9rdE1Fi50fx_z5FMNRNvwQ60oiR7A9ZoZS0KCpxascMk5Gmy6qhHwX4kEbC-zY2qzyeNoz59tTJr8WZqFD8UKVAaqzbfx-nway84pQ1BhKhtMhGVQM3h3bEq1w65sO_bzMGOC8TjT-JeS3Uurl51j234W/s1600/docker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) has charged a 39-year-old U.K. national for perpetrating a hack-to-trade fraud scheme that netted him nearly $3.75 million in illegal profits.\nRobert Westbrook of London was arrested last week and is expected to be extradited to the U.S. to face charges related to securities fraud, wire fraud, and five counts of computer fraud. \nAccording to the court",

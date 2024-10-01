@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T05:13:06.824Z</updated>
+    <updated>2024-10-01T05:32:53.263Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Cryptojacking Attack Targets Docker API to Create Malicious Swarm Botnet]]></title>
+        <id>https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html</id>
+        <link href="https://thehackernews.com/2024/10/new-cryptojacking-attack-targets-docker.html"/>
+        <updated>2024-10-01T05:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new cryptojacking campaign targeting the Docker Engine API with the goal of co-opting the instances to join a malicious Docker Swarm controlled by the threat actor.
+This enabled the attackers to "use Docker Swarm's orchestration features for command-and-control (C2) purposes," Datadog researchers Matt Muir and Andy Giron said in an analysis.
+The attacks]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails]]></title>
         <id>https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html</id>
