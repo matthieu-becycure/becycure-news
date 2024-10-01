@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) has charged a 39-year-old U.K. national for perpetrating a hack-to-trade fraud scheme that netted him nearly $3.75 million in illegal profits.\nRobert Westbrook of London was arrested last week and is expected to be extradited to the U.S. to face charges related to securities fraud, wire fraud, and five counts of computer fraud. \nAccording to the court",
+          "link": "https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html",
+          "publishedOn": "2024-10-01T02:02:00.000Z",
+          "wordCount": null,
+          "title": "U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinfmnAHslXmMf4jprP230p7C2zcVBrSjJkGITzqeqblv4XLz2CL2hzc8FgfarMSs2LlbKcCzoR8DqD_tjRyUIvyFySyn6BKPyCD9Xc71MGoD4itTG9uGW-Z66YIbCyAIcSluay3Kw06M9hI7DdPnARCe4dkQQqNJnoVKBytjY_4jFmPQ1R4PyhVXPmaKou/s1600/haced.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinfmnAHslXmMf4jprP230p7C2zcVBrSjJkGITzqeqblv4XLz2CL2hzc8FgfarMSs2LlbKcCzoR8DqD_tjRyUIvyFySyn6BKPyCD9Xc71MGoD4itTG9uGW-Z66YIbCyAIcSluay3Kw06M9hI7DdPnARCe4dkQQqNJnoVKBytjY_4jFmPQ1R4PyhVXPmaKou/s1600/haced.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top_30.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Hold onto your hats, folks, because the cybersecurity world is anything but quiet! Last week, we dodged a bullet when we discovered vulnerabilities in CUPS that could've opened the door to remote attacks. Google's switch to Rust is paying off big time, slashing memory-related vulnerabilities in Android.\nBut it wasn't all good news – Kaspersky's forced exit from the US market left users with more",

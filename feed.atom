@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T02:40:01.626Z</updated>
+    <updated>2024-10-01T03:19:37.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.K. Hacker Charged in $3.75 Million Insider Trading Scheme Using Hacked Executive Emails]]></title>
+        <id>https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html</id>
+        <link href="https://thehackernews.com/2024/10/uk-hacker-charged-in-375-million.html"/>
+        <updated>2024-10-01T02:02:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) has charged a 39-year-old U.K. national for perpetrating a hack-to-trade fraud scheme that netted him nearly $3.75 million in illegal profits.
+Robert Westbrook of London was arrested last week and is expected to be extradited to the U.S. to face charges related to securities fraud, wire fraud, and five counts of computer fraud. 
+According to the court]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THN Cybersecurity Recap: Last Week's Top Threats and Trends (September 23-29)]]></title>
         <id>https://thehackernews.com/2024/09/thn-cybersecurity-recap-last-weeks-top_30.html</id>
