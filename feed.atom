@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-01T20:43:50.431Z</updated>
+    <updated>2024-10-01T21:13:00.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2791,18 +2791,6 @@ The victims span various sectors, including water and wastewater, information te
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans MISP. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS) et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinar: Learn to Boost Cybersecurity with AI-Powered Vulnerability Management]]></title>
-        <id>https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html</id>
-        <link href="https://thehackernews.com/2024/09/webinar-learn-to-boost-cybersecurity.html"/>
-        <updated>2024-09-02T08:55:00.000Z</updated>
-        <summary type="html"><![CDATA[The world of cybersecurity is in a constant state of flux. New vulnerabilities emerge daily, and attackers are becoming more sophisticated.
-In this high-stakes game, security leaders need every advantage they can get. That's where Artificial Intelligence (AI) comes in. AI isn't just a buzzword; it's a game-changer for vulnerability management.
-AI is poised to revolutionize vulnerability]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
