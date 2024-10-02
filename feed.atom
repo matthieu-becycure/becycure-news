@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-02T10:35:05.030Z</updated>
+    <updated>2024-10-02T10:44:40.329Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations]]></title>
+        <id>https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html</id>
+        <link href="https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html"/>
+        <updated>2024-10-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Three different organizations in the U.S. were targeted in August 2024 by a North Korean state-sponsored threat actor called Andariel as part of a likely financially motivated attack.
+"While the attackers didn't succeed in deploying ransomware on the networks of any of the organizations affected, it is likely that the attacks were financially motivated," Symantec, part of Broadcom, said in a]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Sound Alarm on Active Attacks Exploiting Critical Zimbra Postjournal Flaw]]></title>
         <id>https://thehackernews.com/2024/10/researchers-sound-alarm-on-active.html</id>

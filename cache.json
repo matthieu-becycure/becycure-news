@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Three different organizations in the U.S. were targeted in August 2024 by a North Korean state-sponsored threat actor called Andariel as part of a likely financially motivated attack.\n\"While the attackers didn't succeed in deploying ransomware on the networks of any of the organizations affected, it is likely that the attacks were financially motivated,\" Symantec, part of Broadcom, said in a",
+          "link": "https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html",
+          "publishedOn": "2024-10-02T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3teJKN9bINOJDTtTd7nW7F4_-BBSDbYxGEKm7M4JTYUOZ5wt1dDFTaDqaP2oEMwMTShRnp13LKuyLPKWHLof_KD9SOVwAChHXnEO9ub25BuIJSqVJf-55ge70jC2B3IOjyryUpM22cI7U1Eztb6MxWp85Z59Th54Heb_-PK-qqTjBF7ha6LCmOfAqSeY/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3teJKN9bINOJDTtTd7nW7F4_-BBSDbYxGEKm7M4JTYUOZ5wt1dDFTaDqaP2oEMwMTShRnp13LKuyLPKWHLof_KD9SOVwAChHXnEO9ub25BuIJSqVJf-55ge70jC2B3IOjyryUpM22cI7U1Eztb6MxWp85Z59Th54Heb_-PK-qqTjBF7ha6LCmOfAqSeY/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/researchers-sound-alarm-on-active.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers are warning about active exploitation attempts targeting a newly disclosed security flaw in Synacor's Zimbra Collaboration.\nEnterprise security firm Proofpoint said it began observing the activity starting September 28, 2024. The attacks seek to exploit CVE-2024-45519, a severe security flaw in its postjournal service that could enable unauthenticated attackers to",
