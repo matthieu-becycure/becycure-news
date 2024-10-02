@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-02T15:13:40.935Z</updated>
+    <updated>2024-10-02T15:32:14.628Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals]]></title>
+        <id>https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html</id>
+        <link href="https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html"/>
+        <updated>2024-10-02T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[A spear-phishing email campaign has been observed targeting recruiters with a JavaScript backdoor called More_eggs, indicating persistent efforts to single out the sector under the guise of fake job applicant lures.
+"A sophisticated spear-phishing lure tricked a recruitment officer into downloading and executing a malicious file disguised as a resume, leading to a more_eggs backdoor infection,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alert: Over 700,000 DrayTek Routers Exposed to Hacking via 14 New Vulnerabilities]]></title>
         <id>https://thehackernews.com/2024/10/alert-over-700000-draytek-routers.html</id>

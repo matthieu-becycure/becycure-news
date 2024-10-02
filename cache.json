@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A spear-phishing email campaign has been observed targeting recruiters with a JavaScript backdoor called More_eggs, indicating persistent efforts to single out the sector under the guise of fake job applicant lures.\n\"A sophisticated spear-phishing lure tricked a recruitment officer into downloading and executing a malicious file disguised as a resume, leading to a more_eggs backdoor infection,\"",
+          "link": "https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html",
+          "publishedOn": "2024-10-02T15:08:00.000Z",
+          "wordCount": null,
+          "title": "Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXlBzQCocp5qJXjpQ1LrlH7ZkhzGQ7IdFndTd6rYaasQPlHoYRVjCd7qAbA-8DqWGXDkhI67upcQXXK67Zl8qmmWoB4lQ-zz22-GnBE1fu4XyUX1etuHnSRBI_qPikhyphenhyphenGNWJmS-Mkr6FSvuYQ5ULbsjsACXyr1ejRba923QHbnnxaVm4UEPQQEGeiTmEP/s1600/jobs.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXlBzQCocp5qJXjpQ1LrlH7ZkhzGQ7IdFndTd6rYaasQPlHoYRVjCd7qAbA-8DqWGXDkhI67upcQXXK67Zl8qmmWoB4lQ-zz22-GnBE1fu4XyUX1etuHnSRBI_qPikhyphenhyphenGNWJmS-Mkr6FSvuYQ5ULbsjsACXyr1ejRba923QHbnnxaVm4UEPQQEGeiTmEP/s1600/jobs.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/alert-over-700000-draytek-routers.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A little over a dozen new security vulnerabilities have been discovered in residential and enterprise routers manufactured by DrayTek that could be exploited to take over susceptible devices.\n\"These vulnerabilities could enable attackers to take control of a router by injecting malicious code, allowing them to persist on the device and use it as a gateway into enterprise networks,\" Forescout",
