@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-02T15:44:08.589Z</updated>
+    <updated>2024-10-02T16:16:21.911Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration]]></title>
+        <id>https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html</id>
+        <link href="https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html"/>
+        <updated>2024-10-02T15:21:00.000Z</updated>
+        <summary type="html"><![CDATA[A previously undocumented threat actor called CeranaKeeper has been linked to a string of data exfiltration attacks targeting Southeast Asia.
+Slovak cybersecurity firm ESET, which observed campaigns targeting governmental institutions in Thailand starting in 2023, attributed the activity cluster as aligned to China, leveraging tools previously identified as used by the Mustang Panda actor.
+"The]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals]]></title>
         <id>https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html</id>
@@ -2835,17 +2847,6 @@ Imagine this: It's a typical Tuesday in June 2024. Your dev team is knee-deep in
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Flaws in Microsoft macOS Apps Could Allow Hackers to Gain Unrestricted Access]]></title>
-        <id>https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html</id>
-        <link href="https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html"/>
-        <updated>2024-09-03T04:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Eight vulnerabilities have been uncovered in Microsoft applications for macOS that an adversary could exploit to gain elevated privileges or access sensitive data by circumventing the operating system's permissions-based model, which revolves around the Transparency, Consent, and Control (TCC) framework.
-"If successful, the adversary could gain any privileges already granted to the affected]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

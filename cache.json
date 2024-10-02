@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A previously undocumented threat actor called CeranaKeeper has been linked to a string of data exfiltration attacks targeting Southeast Asia.\nSlovak cybersecurity firm ESET, which observed campaigns targeting governmental institutions in Thailand starting in 2023, attributed the activity cluster as aligned to China, leveraging tools previously identified as used by the Mustang Panda actor.\n\"The",
+          "link": "https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html",
+          "publishedOn": "2024-10-02T15:21:00.000Z",
+          "wordCount": null,
+          "title": "China-Linked CeranaKeeper Targeting Southeast Asia with Data Exfiltration",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIm4nR9-Ey_LMAKdmk2FDEbQyEWQmmcERixyaYQxLA4EcwISk0GHUxvH67ILILJct59dd65xKWqTdXRNV0jm4a_gqiQ1e__IYdWYTEtbOmmq7QzjM7vKmU7QBLXpDGDe4BrH6Q-uuEdgoUoGezhjcYV2euex-1Xjlq5OX78beXixhHquY7W599tG31ZZ4P/s1600/chinese-hackers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIm4nR9-Ey_LMAKdmk2FDEbQyEWQmmcERixyaYQxLA4EcwISk0GHUxvH67ILILJct59dd65xKWqTdXRNV0jm4a_gqiQ1e__IYdWYTEtbOmmq7QzjM7vKmU7QBLXpDGDe4BrH6Q-uuEdgoUoGezhjcYV2euex-1Xjlq5OX78beXixhHquY7W599tG31ZZ4P/s1600/chinese-hackers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A spear-phishing email campaign has been observed targeting recruiters with a JavaScript backdoor called More_eggs, indicating persistent efforts to single out the sector under the guise of fake job applicant lures.\n\"A sophisticated spear-phishing lure tricked a recruitment officer into downloading and executing a malicious file disguised as a resume, leading to a more_eggs backdoor infection,\"",
@@ -2452,22 +2468,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg2S9wzbaIQpJuucSWDEKAgwuFBKBCQkVyg2onPR6_BS7xq1fDUpsMUseLxakvu10Try6TzD_410Is8LD81xDa0c-sK_QjYDXaeHri3ANvNkv2EwyWwdYZGIBMXJL-db7o4a8-B9kcT-cMU7LOwstpgKbjbVSU6hlb9VY7FvVpttaVvzQM9i3bpkdnLGVU/s1600/git.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgg2S9wzbaIQpJuucSWDEKAgwuFBKBCQkVyg2onPR6_BS7xq1fDUpsMUseLxakvu10Try6TzD_410Is8LD81xDa0c-sK_QjYDXaeHri3ANvNkv2EwyWwdYZGIBMXJL-db7o4a8-B9kcT-cMU7LOwstpgKbjbVSU6hlb9VY7FvVpttaVvzQM9i3bpkdnLGVU/s1600/git.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Eight vulnerabilities have been uncovered in Microsoft applications for macOS that an adversary could exploit to gain elevated privileges or access sensitive data by circumventing the operating system's permissions-based model, which revolves around the Transparency, Consent, and Control (TCC) framework.\n\"If successful, the adversary could gain any privileges already granted to the affected",
-          "link": "https://thehackernews.com/2024/09/new-flaws-in-microsoft-macos-apps-could.html",
-          "publishedOn": "2024-09-03T04:01:00.000Z",
-          "wordCount": null,
-          "title": "New Flaws in Microsoft macOS Apps Could Allow Hackers to Gain Unrestricted Access",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_JSKvRzgHgBeze4wIM8nSPfmqTYoR3gFyjaPolv_XJMmSX3trwCA-fvAfRLAwarm9XCk_bhR0bkyEnOb9dvWyNQbt0utUWtFcWCELj2uW502AhHyaCC-DG2iS8tM5KIe_-JtutYS-lOSNyLt7lwvsLZTAiFeVumE-UEsWrtpQSqL-YyA9gIeJv7pkRdkj/s1600/msmacos.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_JSKvRzgHgBeze4wIM8nSPfmqTYoR3gFyjaPolv_XJMmSX3trwCA-fvAfRLAwarm9XCk_bhR0bkyEnOb9dvWyNQbt0utUWtFcWCELj2uW502AhHyaCC-DG2iS8tM5KIe_-JtutYS-lOSNyLt7lwvsLZTAiFeVumE-UEsWrtpQSqL-YyA9gIeJv7pkRdkj/s1600/msmacos.jpg"
         }
       ]
     },
