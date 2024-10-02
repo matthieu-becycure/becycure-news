@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-02T11:43:33.265Z</updated>
+    <updated>2024-10-02T12:25:26.944Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Must-Have Tools for Effective Dynamic Malware Analysis]]></title>
+        <id>https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html</id>
+        <link href="https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html"/>
+        <updated>2024-10-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dynamic malware analysis is a key part of any threat investigation. It involves executing a sample of a malicious program in the isolated environment of a malware sandbox to monitor its behavior and gather actionable indicators. Effective analysis must be fast, in-depth, and precise. These five tools will help you achieve it with ease.
+1. Interactivity
+Having the ability to interact with the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations]]></title>
         <id>https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html</id>
@@ -15,6 +27,36 @@
 "While the attackers didn't succeed in deploying ransomware on the networks of any of the organizations affected, it is likely that the attacks were financially motivated," Symantec, part of Broadcom, said in a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Axis (02 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/"/>
+        <updated>2024-10-02T09:46:24.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Mozilla (02 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0829/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0829/"/>
+        <updated>2024-10-02T07:41:19.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiples vulnérabilités dans Google Chrome (02 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0828/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0828/"/>
+        <updated>2024-10-02T07:32:36.000Z</updated>
+        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.]]></summary>
+        <author>
+            <name>CERT-FR</name>
         </author>
     </entry>
     <entry>

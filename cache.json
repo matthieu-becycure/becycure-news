@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Dynamic malware analysis is a key part of any threat investigation. It involves executing a sample of a malicious program in the isolated environment of a malware sandbox to monitor its behavior and gather actionable indicators. Effective analysis must be fast, in-depth, and precise. These five tools will help you achieve it with ease.\n1. Interactivity\nHaving the ability to interact with the",
+          "link": "https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html",
+          "publishedOn": "2024-10-02T11:00:00.000Z",
+          "wordCount": null,
+          "title": "5 Must-Have Tools for Effective Dynamic Malware Analysis",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgGAFHAjwAt9V6lkePfbupH_jKGmB9ls6rbwn5rZRueC0dOZdJB0n9j0AmUay7Jv33ck5TjCkMMiVGd-ku7Gusmg24UVjcg3aVXSpjxsbmXOQtQWbo2fj7CnAjlQABeiLLJgh5YdzFnaHWiJboj-eGCIx6bx117cXuDe1jaOWqRoBZC-UiRNeUKZflMo/s1600/tools.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWgGAFHAjwAt9V6lkePfbupH_jKGmB9ls6rbwn5rZRueC0dOZdJB0n9j0AmUay7Jv33ck5TjCkMMiVGd-ku7Gusmg24UVjcg3aVXSpjxsbmXOQtQWbo2fj7CnAjlQABeiLLJgh5YdzFnaHWiJboj-eGCIx6bx117cXuDe1jaOWqRoBZC-UiRNeUKZflMo/s1600/tools.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Three different organizations in the U.S. were targeted in August 2024 by a North Korean state-sponsored threat actor called Andariel as part of a likely financially motivated attack.\n\"While the attackers didn't succeed in deploying ransomware on the networks of any of the organizations affected, it is likely that the attacks were financially motivated,\" Symantec, part of Broadcom, said in a",
@@ -2428,6 +2444,36 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/",
+          "publishedOn": "2024-10-02T09:46:24.000Z",
+          "wordCount": 561,
+          "title": "Multiples vulnérabilités dans les produits Axis (02 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0829/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0829/",
+          "publishedOn": "2024-10-02T07:41:19.000Z",
+          "wordCount": 524,
+          "title": "Multiples vulnérabilités dans les produits Mozilla (02 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0828/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0828/",
+          "publishedOn": "2024-10-02T07:32:36.000Z",
+          "wordCount": 333,
+          "title": "Multiples vulnérabilités dans Google Chrome (02 octobre 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0827/",
           "author": null,
