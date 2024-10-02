@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-02T12:25:26.944Z</updated>
+    <updated>2024-10-02T13:02:41.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit]]></title>
+        <id>https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html</id>
+        <link href="https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html"/>
+        <updated>2024-10-02T12:13:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed that 5% of all Adobe Commerce and Magento stores have been hacked by malicious actors by exploiting a security vulnerability dubbed CosmicSting.
+Tracked as CVE-2024-34102 (CVSS score: 9.8), the critical flaw relates to an improper restriction of XML external entity reference (XXE) vulnerability that could result in remote code execution. The shortcoming,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Must-Have Tools for Effective Dynamic Malware Analysis]]></title>
         <id>https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed that 5% of all Adobe Commerce and Magento stores have been hacked by malicious actors by exploiting a security vulnerability dubbed CosmicSting.\nTracked as CVE-2024-34102 (CVSS score: 9.8), the critical flaw relates to an improper restriction of XML external entity reference (XXE) vulnerability that could result in remote code execution. The shortcoming,",
+          "link": "https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html",
+          "publishedOn": "2024-10-02T12:13:00.000Z",
+          "wordCount": null,
+          "title": "Alert: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8xHCO8hD-zMvNt1Iz0pzitbNovcIzKL39iGwO5gXYpbdTQMiI-WyOHdLuCzsf_jyBVDmjuYw9kJvH82zQRU-coZuQF6A8CAf-1BXWe8qXRGN5NaNZbHShJEpiKhzolKJVkmiX41mFNsyxOY9XCfbPmsw5VQL6mjU1x3hQ1qVINACXUcC3i5koMPSUqBO/s1600/shop-hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu8xHCO8hD-zMvNt1Iz0pzitbNovcIzKL39iGwO5gXYpbdTQMiI-WyOHdLuCzsf_jyBVDmjuYw9kJvH82zQRU-coZuQF6A8CAf-1BXWe8qXRGN5NaNZbHShJEpiKhzolKJVkmiX41mFNsyxOY9XCfbPmsw5VQL6mjU1x3hQ1qVINACXUcC3i5koMPSUqBO/s1600/shop-hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/5-must-have-tools-for-effective-dynamic.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Dynamic malware analysis is a key part of any threat investigation. It involves executing a sample of a malicious program in the isolated environment of a malware sandbox to monitor its behavior and gather actionable indicators. Effective analysis must be fast, in-depth, and precise. These five tools will help you achieve it with ease.\n1. Interactivity\nHaving the ability to interact with the",
