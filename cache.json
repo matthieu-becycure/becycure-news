@@ -3445,16 +3445,6 @@
           "wordCount": 486,
           "title": "Organismes de recherche et think tanks - État de la menace informatique (02 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-039/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-039/",
-          "publishedOn": "2024-09-02T12:27:51.000Z",
-          "wordCount": 1003,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-039 (02 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
