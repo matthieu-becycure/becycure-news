@@ -2477,6 +2477,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/",
+          "publishedOn": "2024-10-03T09:35:24.000Z",
+          "wordCount": 473,
+          "title": "Multiples vulnérabilités dans les produits Cisco (03 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0832/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Sophos Intercept X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0832/",
+          "publishedOn": "2024-10-03T08:05:32.000Z",
+          "wordCount": 320,
+          "title": "Vulnérabilité dans Sophos Intercept X (03 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0831/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Suricata. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0831/",
+          "publishedOn": "2024-10-03T08:04:00.000Z",
+          "wordCount": 348,
+          "title": "Multiples vulnérabilités dans Suricata (03 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0830/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Axis. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
