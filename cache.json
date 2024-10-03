@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/android-14-adds-new-security-features.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google has revealed the various security guardrails that have been incorporated into its latest Pixel devices to counter the rising threat posed by baseband security attacks.\nThe cellular baseband (i.e., modem) refers to a processor on the device that's responsible for handling all connectivity, such as LTE, 4G, and 5G, with a mobile phone cell tower or base station over a radio interface.\n\"This",
+          "link": "https://thehackernews.com/2024/10/android-14-adds-new-security-features.html",
+          "publishedOn": "2024-10-03T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Android 14 Adds New Security Features to Block 2G Exploits and Baseband Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWPWgaBeSIyCnxb7jN9oXFCQsb9Np2zg-PW7_VRlqI25NCqEbM6thlfbgHE0RSR_X8Qoh7GmWGDNLdxD_Be4U_V7y32iJP_dTjOzFjceGelP9nAq5LlXWuCvmtgnPA51URkKwpmWeXVqBvSgjB62Al9wlmLb93S8YmnjqWf-R0dA9v_aHfxzVrFAsk1bVR/s1600/android.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWPWgaBeSIyCnxb7jN9oXFCQsb9Np2zg-PW7_VRlqI25NCqEbM6thlfbgHE0RSR_X8Qoh7GmWGDNLdxD_Be4U_V7y32iJP_dTjOzFjceGelP9nAq5LlXWuCvmtgnPA51URkKwpmWeXVqBvSgjB62Al9wlmLb93S8YmnjqWf-R0dA9v_aHfxzVrFAsk1bVR/s1600/android.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "For years, securing a company’s systems was synonymous with securing its “perimeter.” There was what was safe “inside” and the unsafe outside world. We built sturdy firewalls and deployed sophisticated detection systems, confident that keeping the barbarians outside the walls kept our data and systems safe.\nThe problem is that we no longer operate within the confines of physical on-prem",
