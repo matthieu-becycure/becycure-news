@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T10:13:43.796Z</updated>
+    <updated>2024-10-03T10:35:42.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa]]></title>
+        <id>https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html</id>
+        <link href="https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html"/>
+        <updated>2024-10-03T09:10:00.000Z</updated>
+        <summary type="html"><![CDATA[INTERPOL has announced the arrest of eight individuals in Côte d'Ivoire and Nigeria as part of a crackdown on phishing scams and romance cyber fraud.
+Dubbed Operation Contender 2.0, the initiative is designed to tackle cyber-enabled crimes in West Africa, the agency said.
+One such threat involved a large-scale phishing scam targeting Swiss citizens that resulted in financial losses to the tune]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LockBit Ransomware and Evil Corp Leaders Arrested and Sanctioned in Joint Global Effort]]></title>
         <id>https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html</id>

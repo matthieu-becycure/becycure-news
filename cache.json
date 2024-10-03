@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "INTERPOL has announced the arrest of eight individuals in Côte d'Ivoire and Nigeria as part of a crackdown on phishing scams and romance cyber fraud.\nDubbed Operation Contender 2.0, the initiative is designed to tackle cyber-enabled crimes in West Africa, the agency said.\nOne such threat involved a large-scale phishing scam targeting Swiss citizens that resulted in financial losses to the tune",
+          "link": "https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html",
+          "publishedOn": "2024-10-03T09:10:00.000Z",
+          "wordCount": null,
+          "title": "INTERPOL Arrests 8 in Major Phishing and Romance Fraud Crackdown in West Africa",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDQlbSvOaHF1gpAfevUiOo8aasR_EE0tE9Kf-dvwuKECLWvGZdnDTg7jJai9KYrlMVz1A13CdNvom9HmbZ0nNyAWsKnULYH8e4dXvkoZns_OKzARVwf6bNkQ9mj8aT9PxF3S5Ac7uTUDqmdRK9tH8kpj5dMPHVSkFAuvtonEIA2ir9L6JEdGEMdtRWhm9S/s1600/scammers.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDQlbSvOaHF1gpAfevUiOo8aasR_EE0tE9Kf-dvwuKECLWvGZdnDTg7jJai9KYrlMVz1A13CdNvom9HmbZ0nNyAWsKnULYH8e4dXvkoZns_OKzARVwf6bNkQ9mj8aT9PxF3S5Ac7uTUDqmdRK9tH8kpj5dMPHVSkFAuvtonEIA2ir9L6JEdGEMdtRWhm9S/s1600/scammers.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new wave of international law enforcement actions has led to four arrests and the takedown of nine servers linked to the LockBit (aka Bitwise Spider) ransomware operation, marking the latest salvo against what was once a prolific financially motivated group.\nThis includes the arrest of a suspected LockBit developer in France while on holiday outside of Russia, two individuals in the U.K. who",
