@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T15:32:22.136Z</updated>
+    <updated>2024-10-03T15:44:08.195Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Secret Weakness Execs Are Overlooking: Non-Human Identities]]></title>
+        <id>https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html</id>
+        <link href="https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html"/>
+        <updated>2024-10-03T15:06:00.000Z</updated>
+        <summary type="html"><![CDATA[For years, securing a company’s systems was synonymous with securing its “perimeter.” There was what was safe “inside” and the unsafe outside world. We built sturdy firewalls and deployed sophisticated detection systems, confident that keeping the barbarians outside the walls kept our data and systems safe.
+The problem is that we no longer operate within the confines of physical on-prem]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking]]></title>
         <id>https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html</id>

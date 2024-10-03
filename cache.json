@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "For years, securing a company’s systems was synonymous with securing its “perimeter.” There was what was safe “inside” and the unsafe outside world. We built sturdy firewalls and deployed sophisticated detection systems, confident that keeping the barbarians outside the walls kept our data and systems safe.\nThe problem is that we no longer operate within the confines of physical on-prem",
+          "link": "https://thehackernews.com/2024/10/the-secret-weakness-execs-are.html",
+          "publishedOn": "2024-10-03T15:06:00.000Z",
+          "wordCount": null,
+          "title": "The Secret Weakness Execs Are Overlooking: Non-Human Identities",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/s1600/git.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXFhXBA8EMeRKZ0yakCBUMeB-_SXGBFRVsn0pBxnbIzGzBc39uwO5gkuOldAuzMVY8Rfr2j0QR8pZKOHYRHs6YqvodUudA82yIBAD9EpFygXbZ1bzLZtd9fHpoPJbDCHYRH5uppqRNJvK9xgunGZ_gCpit1SWrNxtAWEyK5vS0NQFFSfljC267NjdXgyE/s1600/git.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Linux servers are the target of an ongoing campaign that delivers a stealthy malware dubbed perfctl with the primary aim of running a cryptocurrency miner and proxyjacking software.\n\"Perfctl is particularly elusive and persistent, employing several sophisticated techniques,\" Aqua security researchers Assaf Morag and Idan Revivo said in a report shared with The Hacker News.\n\"When a new user logs",
