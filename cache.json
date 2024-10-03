@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/north-korean-hackers-using-new.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been observed delivering a previously undocumented backdoor and remote access trojan (RAT) called VeilShell as part of a campaign targeting Cambodia and likely other Southeast Asian countries.\nThe activity, dubbed SHROUDED#SLEEP by Securonix, is believed to be the handiwork of APT37, which is also known as InkySquid, Reaper, RedEyes, Ricochet Chollima,",
+          "link": "https://thehackernews.com/2024/10/north-korean-hackers-using-new.html",
+          "publishedOn": "2024-10-03T13:00:00.000Z",
+          "wordCount": null,
+          "title": "North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYEfXN87k4Pzn7PnwX6FKcPhemB4Hfo1Ls4sXTFYzUtwzYMhPUzuyD23AUarS5cLAIOuKJQ43jP350Sop3GJhFSw9FcKALYvzJDh3ThY5ACpYnETQC3Uw2sAJ5UZ6tY_5k0lOHVeL30uf8mURzLaTFb566N22BCTEuxq2sD91Eu0fxVLbJg439CAOU7K_w/s1600/malware-code.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYEfXN87k4Pzn7PnwX6FKcPhemB4Hfo1Ls4sXTFYzUtwzYMhPUzuyD23AUarS5cLAIOuKJQ43jP350Sop3GJhFSw9FcKALYvzJDh3ThY5ACpYnETQC3Uw2sAJ5UZ6tY_5k0lOHVeL30uf8mURzLaTFb566N22BCTEuxq2sD91Eu0fxVLbJg439CAOU7K_w/s1600/malware-code.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/interpol-arrests-8-in-major-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "INTERPOL has announced the arrest of eight individuals in Côte d'Ivoire and Nigeria as part of a crackdown on phishing scams and romance cyber fraud.\nDubbed Operation Contender 2.0, the initiative is designed to tackle cyber-enabled crimes in West Africa, the agency said.\nOne such threat involved a large-scale phishing scam targeting Swiss citizens that resulted in financial losses to the tune",

@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T13:33:47.652Z</updated>
+    <updated>2024-10-03T13:44:13.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/north-korean-hackers-using-new.html</id>
+        <link href="https://thehackernews.com/2024/10/north-korean-hackers-using-new.html"/>
+        <updated>2024-10-03T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors with ties to North Korea have been observed delivering a previously undocumented backdoor and remote access trojan (RAT) called VeilShell as part of a campaign targeting Cambodia and likely other Southeast Asian countries.
+The activity, dubbed SHROUDED#SLEEP by Securonix, is believed to be the handiwork of APT37, which is also known as InkySquid, Reaper, RedEyes, Ricochet Chollima,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Cisco (03 octobre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/</id>
