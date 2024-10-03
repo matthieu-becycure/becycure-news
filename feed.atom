@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T14:33:35.057Z</updated>
+    <updated>2024-10-03T14:44:41.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking]]></title>
+        <id>https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html</id>
+        <link href="https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html"/>
+        <updated>2024-10-03T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux servers are the target of an ongoing campaign that delivers a stealthy malware dubbed perfctl with the primary aim of running a cryptocurrency miner and proxyjacking software.
+"Perfctl is particularly elusive and persistent, employing several sophisticated techniques," Aqua security researchers Assaf Morag and Idan Revivo said in a report shared with The Hacker News.
+"When a new user logs]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean Hackers Using New VeilShell Backdoor in Stealthy Cyber Attacks]]></title>
         <id>https://thehackernews.com/2024/10/north-korean-hackers-using-new.html</id>

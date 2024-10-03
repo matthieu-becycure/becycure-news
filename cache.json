@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Linux servers are the target of an ongoing campaign that delivers a stealthy malware dubbed perfctl with the primary aim of running a cryptocurrency miner and proxyjacking software.\n\"Perfctl is particularly elusive and persistent, employing several sophisticated techniques,\" Aqua security researchers Assaf Morag and Idan Revivo said in a report shared with The Hacker News.\n\"When a new user logs",
+          "link": "https://thehackernews.com/2024/10/new-perfctl-malware-targets-linux.html",
+          "publishedOn": "2024-10-03T14:15:00.000Z",
+          "wordCount": null,
+          "title": "New Perfctl Malware Targets Linux Servers for Cryptocurrency Mining and Proxyjacking",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJw7Q07iDxSYKZGOleUKzwvyIhyphenhyphenBgpJy5yH2S-Sw1X6fGhv5eOAB1DW-7kyKBl-_qDzYCun2mp9VOt7xPNYNOF8XXltkRSPFcLvZxlTDG2-GpteWvkuI8YlDQxKJ0WwNmzhk9ZHwmmdxPFV5eq1AzT6Sbz2btnHBYm9jfS2m5r3kdPoShq8hQAcbVEO7A/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpJw7Q07iDxSYKZGOleUKzwvyIhyphenhyphenBgpJy5yH2S-Sw1X6fGhv5eOAB1DW-7kyKBl-_qDzYCun2mp9VOt7xPNYNOF8XXltkRSPFcLvZxlTDG2-GpteWvkuI8YlDQxKJ0WwNmzhk9ZHwmmdxPFV5eq1AzT6Sbz2btnHBYm9jfS2m5r3kdPoShq8hQAcbVEO7A/s1600/linux.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/north-korean-hackers-using-new.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors with ties to North Korea have been observed delivering a previously undocumented backdoor and remote access trojan (RAT) called VeilShell as part of a campaign targeting Cambodia and likely other Southeast Asian countries.\nThe activity, dubbed SHROUDED#SLEEP by Securonix, is believed to be the handiwork of APT37, which is also known as InkySquid, Reaper, RedEyes, Ricochet Chollima,",
