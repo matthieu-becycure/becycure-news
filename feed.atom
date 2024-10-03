@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T07:43:36.792Z</updated>
+    <updated>2024-10-03T08:17:09.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit Ransomware and Evil Corp Leaders Arrested and Sanctioned in Joint Global Effort]]></title>
+        <id>https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html</id>
+        <link href="https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html"/>
+        <updated>2024-10-03T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[A new wave of international law enforcement actions has led to four arrests and the takedown of nine servers linked to the LockBit (aka Bitwise Spider) ransomware operation, marking the latest salvo against what was once a prolific financially motivated group.
+This includes the arrest of a suspected LockBit developer in France while on holiday outside of Russia, two individuals in the U.K. who]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch]]></title>
         <id>https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html</id>

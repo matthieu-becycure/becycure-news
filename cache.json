@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A new wave of international law enforcement actions has led to four arrests and the takedown of nine servers linked to the LockBit (aka Bitwise Spider) ransomware operation, marking the latest salvo against what was once a prolific financially motivated group.\nThis includes the arrest of a suspected LockBit developer in France while on holiday outside of Russia, two individuals in the U.K. who",
+          "link": "https://thehackernews.com/2024/10/lockbit-ransomware-and-evil-corp.html",
+          "publishedOn": "2024-10-03T07:15:00.000Z",
+          "wordCount": null,
+          "title": "LockBit Ransomware and Evil Corp Leaders Arrested and Sanctioned in Joint Global Effort",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUU91vFx2aVHhl1OcCIXRn4EdVZRqHIHA_ikaeIIxokfbtqswHncexVh3yz00QWOGIaES-4XWXoA1VVEwsdxRE-rhyEwDR-RMPtkatVI9XT2JLdwm0CuDqrX5EWoQxWnbMwNc1vU9RLNyaOqV7ubskmdB88VNdIa0_rKQ6Tecm0TAvkRcfVQy6myULBbmX/s1600/evilcorp.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUU91vFx2aVHhl1OcCIXRn4EdVZRqHIHA_ikaeIIxokfbtqswHncexVh3yz00QWOGIaES-4XWXoA1VVEwsdxRE-rhyEwDR-RMPtkatVI9XT2JLdwm0CuDqrX5EWoQxWnbMwNc1vU9RLNyaOqV7ubskmdB88VNdIa0_rKQ6Tecm0TAvkRcfVQy6myULBbmX/s1600/evilcorp.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Endpoint Manager (EPM) that the company patched in May to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.\nThe vulnerability, tracked as CVE-2024-29824, carries a CVSS score of 9.6 out of a maximum of 10.0, indicating critical severity.\n\"An",
