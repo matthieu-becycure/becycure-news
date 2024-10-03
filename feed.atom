@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-03T06:18:23.178Z</updated>
+    <updated>2024-10-03T06:40:47.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ivanti Endpoint Manager Flaw Actively Targeted, CISA Warns Agencies to Patch]]></title>
+        <id>https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html</id>
+        <link href="https://thehackernews.com/2024/10/ivanti-endpoint-manager-flaw-actively.html"/>
+        <updated>2024-10-03T06:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Endpoint Manager (EPM) that the company patched in May to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
+The vulnerability, tracked as CVE-2024-29824, carries a CVSS score of 9.6 out of a maximum of 10.0, indicating critical severity.
+"An]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fake Trading Apps Target Victims Globally via Apple App Store and Google Play]]></title>
         <id>https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html</id>
