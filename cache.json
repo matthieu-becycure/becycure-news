@@ -3563,16 +3563,6 @@
           "wordCount": 339,
           "title": "Multiples vulnérabilités dans Moxa OnCell 3120-LTE-1 Series (04 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0736/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0736/",
-          "publishedOn": "2024-09-04T07:27:25.000Z",
-          "wordCount": 320,
-          "title": "Vulnérabilité dans OpenSSL (04 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
