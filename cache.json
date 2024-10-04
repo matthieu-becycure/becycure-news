@@ -2452,22 +2452,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaP_XZ8zY6oVEzwRJ1ZdOpFh7_gfB22B2mu6nRf2w9r3A4iD9TjOcDBQ4aD6hCCj7dfeyFGZBcoukAuZHTu-o6PSPXc-P0guW4ZZGpbsp62hca5ONjTLHqlBajOD7HUK7sbeWfDQyBHsJxIiLapN070cIyUPjzP6n130hVotnJrQE1OnuWGk9eDnJEi_G/s1600/talos.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijaP_XZ8zY6oVEzwRJ1ZdOpFh7_gfB22B2mu6nRf2w9r3A4iD9TjOcDBQ4aD6hCCj7dfeyFGZBcoukAuZHTu-o6PSPXc-P0guW4ZZGpbsp62hca5ONjTLHqlBajOD7HUK7sbeWfDQyBHsJxIiLapN070cIyUPjzP6n130hVotnJrQE1OnuWGk9eDnJEi_G/s1600/talos.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The Chinese-speaking threat actor known as Earth Lusca has been observed using a new backdoor dubbed KTLVdoor as part of a cyber attack targeting an unnamed trading company based in China.\n\nThe previously unreported malware is written in Golang, and thus is a cross-platform weapon capable of targeting both Microsoft Windows and Linux systems.\n\n\"KTLVdoor is a highly obfuscated malware that",
-          "link": "https://thehackernews.com/2024/09/new-cross-platform-malware-ktlvdoor.html",
-          "publishedOn": "2024-09-05T05:03:00.000Z",
-          "wordCount": null,
-          "title": "New Cross-Platform Malware KTLVdoor Discovered in Attack on Chinese Trading Firm",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKKJAygSJm1IvB4c8yqkN3pNFMaUry55GXkXigHrV1tkjx2rnQxAJZLCxGdnCMxkcgCj9-3AuAv-fxqUrHLUYj7TDR3z-9BK60GWC5D4GrQNExpDqygjMudFdLg8gt0Ng2VFDW1bECrJKUkTh4xFhvUXH9w1g5hKka2HFUeKIrc5ZFsE5X2GSgAHSspRIW/s1600/chinesehackerz.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKKJAygSJm1IvB4c8yqkN3pNFMaUry55GXkXigHrV1tkjx2rnQxAJZLCxGdnCMxkcgCj9-3AuAv-fxqUrHLUYj7TDR3z-9BK60GWC5D4GrQNExpDqygjMudFdLg8gt0Ng2VFDW1bECrJKUkTh4xFhvUXH9w1g5hKka2HFUeKIrc5ZFsE5X2GSgAHSspRIW/s1600/chinesehackerz.jpg"
         }
       ]
     },
