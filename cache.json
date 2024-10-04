@@ -2477,6 +2477,86 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0841/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0841/",
+          "publishedOn": "2024-10-04T12:08:51.000Z",
+          "wordCount": 729,
+          "title": "Multiples vulnérabilités dans les produits IBM (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0840/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0840/",
+          "publishedOn": "2024-10-04T12:03:58.000Z",
+          "wordCount": 1872,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0839/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer un contournement de la politique de sécurité, un déni de service et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0839/",
+          "publishedOn": "2024-10-04T12:02:12.000Z",
+          "wordCount": 666,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0838/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0838/",
+          "publishedOn": "2024-10-04T12:00:25.000Z",
+          "wordCount": 778,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0837/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0837/",
+          "publishedOn": "2024-10-04T11:56:07.000Z",
+          "wordCount": 929,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0836/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits WithSecure. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0836/",
+          "publishedOn": "2024-10-04T11:48:52.000Z",
+          "wordCount": 355,
+          "title": "Vulnérabilité dans les produits WithSecure (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0835/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0835/",
+          "publishedOn": "2024-10-04T07:38:53.000Z",
+          "wordCount": 323,
+          "title": "Multiples vulnérabilités dans les produits Apple (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0834/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0834/",
+          "publishedOn": "2024-10-04T07:32:20.000Z",
+          "wordCount": 365,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (04 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0833/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
