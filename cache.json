@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/us-and-microsoft-seize-107-russian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft and the U.S. Department of Justice (DoJ) on Thursday announced the seizure of 107 internet domains used by state-sponsored threat actors with ties to Russia to facilitate computer fraud and abuse in the country.\n\"The Russian government ran this scheme to steal Americans' sensitive information, using seemingly legitimate email accounts to trick victims into revealing account credentials",
+          "link": "https://thehackernews.com/2024/10/us-and-microsoft-seize-107-russian.html",
+          "publishedOn": "2024-10-04T13:06:00.000Z",
+          "wordCount": null,
+          "title": "U.S. and Microsoft Seize 107 Russian Domains in Major Cyber Fraud Crackdown",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxa81zahAbjofn3e3bt7RIMGiybRlQpLPr9gGLRwcF9padRhzlzdOQUM9Zg2iBXandPaJf7ApgC6nHQyutSeQB4KHu5vHQTnN2BcCnr1zfeWRn5fEbWFbIp12wBAdEo5KPOn1oRBzKbg6K6wZR648aXdS0r7MFsA8mvLyOs5IuV-pIy_mfdn9MQSdS7Xsf/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxa81zahAbjofn3e3bt7RIMGiybRlQpLPr9gGLRwcF9padRhzlzdOQUM9Zg2iBXandPaJf7ApgC6nHQyutSeQB4KHu5vHQTnN2BcCnr1zfeWRn5fEbWFbIp12wBAdEo5KPOn1oRBzKbg6K6wZR648aXdS0r7MFsA8mvLyOs5IuV-pIy_mfdn9MQSdS7Xsf/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/how-to-get-going-with-ctem-when-you.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Continuous Threat Exposure Management (CTEM) is a strategic framework that helps organizations continuously assess and manage cyber risk. It breaks down the complex task of managing security threats into five distinct stages: Scoping, Discovery, Prioritization, Validation, and Mobilization. Each of these stages plays a crucial role in identifying, addressing, and mitigating vulnerabilities -",
