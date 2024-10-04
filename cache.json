@@ -2452,22 +2452,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6rUoM4PNqz7ldOsY4KyxqSBubMEnfAtyxGu6piDrOknM0ndxSfABcB1Z7CgYNoBueV8_GfjRgNSbmByggkc147WIIWDWvFN-OjaO_ykuGeITuNxkI3ygBzZqBhnL569IOKyTmxjbqN_PZhydYpL8y2TzC6SGl8VSPR8zQ7B1w_t20RMCzRAwkur9ZV3Rp/s1600/android-hacker.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6rUoM4PNqz7ldOsY4KyxqSBubMEnfAtyxGu6piDrOknM0ndxSfABcB1Z7CgYNoBueV8_GfjRgNSbmByggkc147WIIWDWvFN-OjaO_ykuGeITuNxkI3ygBzZqBhnL569IOKyTmxjbqN_PZhydYpL8y2TzC6SGl8VSPR8zQ7B1w_t20RMCzRAwkur9ZV3Rp/s1600/android-hacker.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A new supply chain attack technique targeting the Python Package Index (PyPI) registry has been exploited in the wild in an attempt to infiltrate downstream organizations.\nIt has been codenamed Revival Hijack by software supply chain security firm JFrog, which said the attack method could be used to hijack 22,000 existing PyPI packages and result in \"hundreds of thousands\" of malicious package",
-          "link": "https://thehackernews.com/2024/09/hackers-hijack-22000-removed-pypi.html",
-          "publishedOn": "2024-09-04T13:00:00.000Z",
-          "wordCount": null,
-          "title": "Hackers Hijack 22,000 Removed PyPI Packages, Spreading Malicious Code to Developers",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Hel-8ANHTua9rNhRLRWwf_lWbIrRqnJICcLADWnyPcH-6Lt7nO_FLlyA3rv3jZJZNS-fwVLlVWBvJLEBursDobXtXZn9_YkCe8Sjy0z8hYWA4vS0Lu0CwHX7UlwSRaPqgjtJxUUshj2FwrbfXfiF7R4w2Q8iAwsHiKSuPwKpjxf3rJFfIqK2R-SPXIJR/s1600/pipy.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Hel-8ANHTua9rNhRLRWwf_lWbIrRqnJICcLADWnyPcH-6Lt7nO_FLlyA3rv3jZJZNS-fwVLlVWBvJLEBursDobXtXZn9_YkCe8Sjy0z8hYWA4vS0Lu0CwHX7UlwSRaPqgjtJxUUshj2FwrbfXfiF7R4w2Q8iAwsHiKSuPwKpjxf3rJFfIqK2R-SPXIJR/s1600/pipy.jpg"
         }
       ]
     },
@@ -3494,26 +3478,6 @@
           "publishedOn": "2024-09-05T06:36:40.000Z",
           "wordCount": 379,
           "title": "Multiples vulnérabilités dans les produits Cisco (05 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0738/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Synacor Zimbra Desktop. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0738/",
-          "publishedOn": "2024-09-04T12:10:36.000Z",
-          "wordCount": 312,
-          "title": "Vulnérabilité dans Synacor Zimbra Desktop (04 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0737/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Moxa OnCell 3120-LTE-1 Series. Elles permettent à un attaquant de provoquer une injection de code indirecte à distance (XSS).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0737/",
-          "publishedOn": "2024-09-04T12:02:16.000Z",
-          "wordCount": 339,
-          "title": "Multiples vulnérabilités dans Moxa OnCell 3120-LTE-1 Series (04 septembre 2024)",
           "imageUrl": null
         }
       ]
