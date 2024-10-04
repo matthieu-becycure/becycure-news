@@ -2468,22 +2468,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKKJAygSJm1IvB4c8yqkN3pNFMaUry55GXkXigHrV1tkjx2rnQxAJZLCxGdnCMxkcgCj9-3AuAv-fxqUrHLUYj7TDR3z-9BK60GWC5D4GrQNExpDqygjMudFdLg8gt0Ng2VFDW1bECrJKUkTh4xFhvUXH9w1g5hKka2HFUeKIrc5ZFsE5X2GSgAHSspRIW/s1600/chinesehackerz.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKKJAygSJm1IvB4c8yqkN3pNFMaUry55GXkXigHrV1tkjx2rnQxAJZLCxGdnCMxkcgCj9-3AuAv-fxqUrHLUYj7TDR3z-9BK60GWC5D4GrQNExpDqygjMudFdLg8gt0Ng2VFDW1bECrJKUkTh4xFhvUXH9w1g5hKka2HFUeKIrc5ZFsE5X2GSgAHSspRIW/s1600/chinesehackerz.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cisco has released security updates for two critical security flaws impacting its Smart Licensing Utility that could allow unauthenticated, remote attackers to elevate their privileges or access sensitive information.\nA brief description of the two vulnerabilities is below -\n\nCVE-2024-20439 (CVSS score: 9.8) - The presence of an undocumented static user credential for an administrative account",
-          "link": "https://thehackernews.com/2024/09/cisco-fixes-two-critical-flaws-in-smart.html",
-          "publishedOn": "2024-09-05T04:40:00.000Z",
-          "wordCount": null,
-          "title": "Cisco Fixes Two Critical Flaws in Smart Licensing Utility to Prevent Remote Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pdAfBVqKScsbfrhpJakVugyR-dj5ozY_kco-HZ8Sm1aQMLa9Quql4NHGF0BJANx8BTL4vZHXgkbI6jtTAYjgrPnjq9jfgNNTMUOi5OX9ypF-RP9Hm2Qyev1BRkRPwr9eg9n7niGnixjoiEhPEamZAI61vPIt5gG9iAG_aWxrAW1U33MQWWYupat6Cc7Q/s1600/cisc.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0pdAfBVqKScsbfrhpJakVugyR-dj5ozY_kco-HZ8Sm1aQMLa9Quql4NHGF0BJANx8BTL4vZHXgkbI6jtTAYjgrPnjq9jfgNNTMUOi5OX9ypF-RP9Hm2Qyev1BRkRPwr9eg9n7niGnixjoiEhPEamZAI61vPIt5gG9iAG_aWxrAW1U33MQWWYupat6Cc7Q/s1600/cisc.jpg"
         }
       ]
     },
