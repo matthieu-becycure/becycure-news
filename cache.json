@@ -3477,16 +3477,6 @@
           "wordCount": 337,
           "title": "Multiples vulnérabilités dans ClamAV (05 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Centreon web. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0743/",
-          "publishedOn": "2024-09-05T09:30:29.000Z",
-          "wordCount": 358,
-          "title": "Multiples vulnérabilités dans Centreon Web (05 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
