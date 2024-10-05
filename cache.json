@@ -2404,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Justice (DoJ) on Wednesday announced the seizure of 32 internet domains used by a pro-Russian propaganda operation called Doppelganger as part of a sweeping set of actions.\nAccusing the Russian government-directed foreign malign influence campaign of violating U.S. money laundering and criminal trademark laws, the agency called out companies Social Design Agency (SDA),",
-          "link": "https://thehackernews.com/2024/09/us-seizes-32-pro-russian-propaganda.html",
-          "publishedOn": "2024-09-05T12:04:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Seizes 32 Pro-Russian Propaganda Domains in Major Disinformation Crackdown",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebs5cmH5AJR4EA9q7ZJmD4qvvHNbnDXP5-fR0uBQRiDMtUKV_ciqWBZ3fsz-JYT95lNd83t9GLeB6yP6YSRaUdL1jMK8XMCELh1sNlf76a4unNpKLY75VsBxdOaRi7NYL2sL9fL4Wm2r9Z1hTVE7sqaqcTzefp-CYCzTCV5S_tb2DOUAac1fhsYq6F9SV/s1600/fakenews.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjebs5cmH5AJR4EA9q7ZJmD4qvvHNbnDXP5-fR0uBQRiDMtUKV_ciqWBZ3fsz-JYT95lNd83t9GLeB6yP6YSRaUdL1jMK8XMCELh1sNlf76a4unNpKLY75VsBxdOaRi7NYL2sL9fL4Wm2r9Z1hTVE7sqaqcTzefp-CYCzTCV5S_tb2DOUAac1fhsYq6F9SV/s1600/fakenews.jpg"
         }
       ]
     },
@@ -3466,16 +3450,6 @@
           "publishedOn": "2024-09-06T05:59:20.000Z",
           "wordCount": 343,
           "title": "Vulnérabilité dans les produits Asterisk (06 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans ClamAV. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0744/",
-          "publishedOn": "2024-09-05T12:16:40.000Z",
-          "wordCount": 337,
-          "title": "Multiples vulnérabilités dans ClamAV (05 septembre 2024)",
           "imageUrl": null
         }
       ]
