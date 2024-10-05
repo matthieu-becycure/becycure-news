@@ -2388,22 +2388,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s1600/chinese-hackers.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9BqRWNN9oTFc26J0C1M0m3G6ZXDUYQZapKTqFsR26peHh5CvFkPAzcmOFE8iZn2c-8P2dcsOQPWUQHap2VDQBR9lZsx-wxxCboWMNAB4BYaSDgs6xRdVm_5ySTp2ps-QOUL_cDpwKVckfgbGD6prXBO_dK421qn6bF4xQptEWCsaVO3Bnt0iq6yuJeVzx/s1600/chinese-hackers.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Veeam has shipped security updates to address a total of 18 security flaws impacting its software products, including five critical vulnerabilities that could result in remote code execution.\nThe list of shortcomings is below -\n\nCVE-2024-40711 (CVSS score: 9.8) - A vulnerability in Veeam Backup & Replication that allows unauthenticated remote code execution.\n\n\nCVE-2024-42024 (CVSS score: 9.1",
-          "link": "https://thehackernews.com/2024/09/veeam-releases-security-updates-to-fix.html",
-          "publishedOn": "2024-09-05T16:05:00.000Z",
-          "wordCount": null,
-          "title": "Veeam Releases Security Updates to Fix 18 Flaws, Including 5 Critical Issues",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdip9IYP6cNKA_KdsebCvrAzTD5QUDAmcgfvIwbbOQzJO3VamggahgxDjt0bw7fERvVgy37xmNd9sjvWUclJZM0CpFJ60ML1efMsW4DGFyD-d_eHKBT8v3KNCqKDGqIRmqusB3Pyh8Q4cXD0UsyCq2wCG_XalalX_cqqCn5DZr2hTLoGHaEDvpWw00SEwk/s1600/veeam.jpg"
         }
       ]
     },
