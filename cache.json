@@ -3383,26 +3383,6 @@
           "wordCount": 367,
           "title": "Vulnérabilité dans le noyau Linux de SUSE (06 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0746/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Elastic Kibana. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0746/",
-          "publishedOn": "2024-09-06T06:10:14.000Z",
-          "wordCount": 341,
-          "title": "Multiples vulnérabilités dans Elastic Kibana (06 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0745/",
-          "publishedOn": "2024-09-06T05:59:20.000Z",
-          "wordCount": 343,
-          "title": "Vulnérabilité dans les produits Asterisk (06 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
