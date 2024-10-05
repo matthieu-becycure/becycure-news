@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-05T18:34:39.095Z</updated>
+    <updated>2024-10-05T18:44:58.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2687,18 +2687,6 @@ Adversaries targeting open-source repositories across]]></summary>
         <link href="https://thehackernews.com/2024/09/the-state-of-virtual-ciso-report.html"/>
         <updated>2024-09-06T09:37:00.000Z</updated>
         <summary type="html"><![CDATA[The 2024 State of the vCISO Report continues Cynomi’s tradition of examining the growing popularity of virtual Chief Information Security Officer (vCISO) services. According to the independent survey, the demand for these services is increasing, with both providers and clients reaping the rewards. The upward trend is set to continue, with even faster growth expected in the future. However,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Security Flaw Found in LiteSpeed Cache Plugin for WordPress]]></title>
-        <id>https://thehackernews.com/2024/09/critical-security-flaw-found-in.html</id>
-        <link href="https://thehackernews.com/2024/09/critical-security-flaw-found-in.html"/>
-        <updated>2024-09-06T06:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have discovered yet another critical security flaw in the LiteSpeed Cache plugin for WordPress that could allow unauthenticated users to take control of arbitrary accounts.
-The vulnerability, tracked as CVE-2024-44000 (CVSS score: 7.5), impacts versions before and including 6.4.1. It has been addressed in version 6.5.0.1. 
-"The plugin suffers from an]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
