@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-05T17:11:27.194Z</updated>
+    <updated>2024-10-05T17:30:42.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2721,20 +2721,6 @@ The vulnerability, tracked as CVE-2024-44000 (CVSS score: 7.5), impacts versions
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans les produits Asterisk. Elle permet à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apache OFBiz Update Fixes High-Severity Flaw Leading to Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html</id>
-        <link href="https://thehackernews.com/2024/09/apache-ofbiz-update-fixes-high-severity.html"/>
-        <updated>2024-09-06T05:22:00.000Z</updated>
-        <summary type="html"><![CDATA[A new security flaw has been addressed in the Apache OFBiz open-source enterprise resource planning (ERP) system that, if successfully exploited, could lead to unauthenticated remote code execution on Linux and Windows.
-The high-severity vulnerability, tracked as CVE-2024-45195 (CVSS score: 7.5), affects all versions of the software before 18.12.16.
-
-
-"An attacker with no valid]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
