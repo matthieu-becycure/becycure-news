@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-06T19:09:53.815Z</updated>
+    <updated>2024-10-06T19:25:30.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2588,17 +2588,6 @@ The exact initial access vector used]]></summary>
 These attacks employ coding tests as a common initial infection vector, Google-owned Mandiant said in a new report about threats faced by the Web3 sector.
 
 "After an initial chat conversation, the attacker sent a ZIP file that contained]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI Cracks Down on Dark Web Marketplace Managed by Russian and Kazakh Nationals]]></title>
-        <id>https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html</id>
-        <link href="https://thehackernews.com/2024/09/fbi-cracks-down-on-dark-web-marketplace.html"/>
-        <updated>2024-09-07T07:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Two men have been indicted in the U.S. for their alleged involvement in managing a dark web marketplace called WWH Club that specializes in the sale of sensitive personal and financial information.
-Alex Khodyrev, a 35-year-old Kazakhstan national, and Pavel Kublitskii, a 37-year-old Russian national, have been charged with conspiracy to commit access device fraud and conspiracy to commit wire]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
