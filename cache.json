@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94kQNq2UxVgyM5omAODW5nu1F0SKZEl96UDoPrEPj-p-rl2q_LIr9YEBm3cpdFCuLY_hGhBwewN1p_Q1t1AbnFCHACNyTobW7UtcY_iLfEyeKKrI48cUGODgJ3OGcWxnM9QwNOPwGUyckvGhMD2gMfj9Mom8yL-v08T95UOqA6qrODsJEtYB8RRw0_0Yh/s1600/sonic.jpg"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh94kQNq2UxVgyM5omAODW5nu1F0SKZEl96UDoPrEPj-p-rl2q_LIr9YEBm3cpdFCuLY_hGhBwewN1p_Q1t1AbnFCHACNyTobW7UtcY_iLfEyeKKrI48cUGODgJ3OGcWxnM9QwNOPwGUyckvGhMD2gMfj9Mom8yL-v08T95UOqA6qrODsJEtYB8RRw0_0Yh/s1600/sonic.jpg"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A recently disclosed security flaw in OSGeo GeoServer GeoTools has been exploited as part of multiple campaigns to deliver cryptocurrency miners, botnet malware such as Condi and JenX, and a known backdoor called SideWalk.\nThe security vulnerability is a critical remote code execution bug (CVE-2024-36401, CVSS score: 9.8) that could allow malicious actors to take over susceptible instances.\nIn",
-          "link": "https://thehackernews.com/2024/09/geoserver-vulnerability-targeted-by.html",
-          "publishedOn": "2024-09-06T15:14:00.000Z",
-          "wordCount": null,
-          "title": "GeoServer Vulnerability Targeted by Hackers to Deliver Backdoors and Botnet Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s1600/jeo.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbXpd_a-thB4Gg0O4Rpbb0sCUuaAOgeyrZNxpqG2yW2w0U8b5S50V2plrT5k7N01LKkdOU5VVxw-Ccwbu8-5IDX8jZ94VozAjGhVfzY6OKHTE6ejGLTDOynkpuG9dMHgRvH1u6eawPl9vu6R3sI0MdBaaIapU_w1RIGEyuR688X22F1ELWPDrN_tta1ARl/s1600/jeo.jpg"
         }
       ]
     },
