@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-07T09:43:36.221Z</updated>
+    <updated>2024-10-07T10:14:39.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications]]></title>
+        <id>https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html</id>
+        <link href="https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html"/>
+        <updated>2024-10-07T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the Apache Avro Java Software Development Kit (SDK) that, if successfully exploited, could allow the execution of arbitrary code on susceptible instances.
+The flaw, tracked as CVE-2024-47561, impacts all versions of the software prior to 1.11.4.
+"Schema parsing in the Java SDK of Apache Avro 1.11.3 and previous versions allows bad actors to execute]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THN Cybersecurity Recap: Top Threats and Trends (Sep 30 - Oct 6)]]></title>
+        <id>https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats-and.html</id>
+        <link href="https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats-and.html"/>
+        <updated>2024-10-07T09:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever heard of a "pig butchering" scam? Or a DDoS attack so big it could melt your brain? This week's cybersecurity recap has it all – government showdowns, sneaky malware, and even a dash of app store shenanigans.
+Get the scoop before it's too late!
+⚡ Threat of the Week
+Double Trouble: Evil Corp & LockBit Fall: A consortium of international law enforcement agencies took steps to arrest four]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Blocks Unsafe Android App Sideloading in India for Improved Fraud Protection]]></title>
+        <id>https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html</id>
+        <link href="https://thehackernews.com/2024/10/google-blocks-unsafe-android-app.html"/>
+        <updated>2024-10-07T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has announced that it's piloting a new security initiative that automatically blocks sideloading of potentially unsafe Android apps in India, after similar tests in Singapore, Thailand, and Brazil.
+The enhanced fraud protection feature aims to keep users safe when they attempt to install malicious apps from sources other than the Google Play Store, such as web browsers, messaging apps,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E.U. Court Limits Meta's Use of Personal Facebook Data for Targeted Ads]]></title>
         <id>https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html</id>
