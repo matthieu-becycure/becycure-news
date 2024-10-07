@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The interest in passwordless authentication has increased due to the rise of hybrid work environments and widespread digitization. This has led to a greater need for reliable data security and user-friendly interfaces. Without these measures, organizations are at risk of experiencing data breaches, leaks, and significant financial losses. \nWhile traditional password-based systems offer",
+          "link": "https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html",
+          "publishedOn": "2024-10-07T10:05:00.000Z",
+          "wordCount": null,
+          "title": "Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCs3oCu2yRna0vJyPTl0f-crEVRLEPQWWHn6VKxmAvIZXVa-lbw3Ro2w8UieiBRSUQmNjQB_q536cd7-MNKjISYqRRDIExunWHuuiW8Nj3yFbN83vzJdBgxk1WSLQ5ZW8RpMSkrIskquZy-r7dDyYNAUdpF2xGT-YlcLuKpqIuLNFbef3Hkd3ag5t82lY/s1600/passwords.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCs3oCu2yRna0vJyPTl0f-crEVRLEPQWWHn6VKxmAvIZXVa-lbw3Ro2w8UieiBRSUQmNjQB_q536cd7-MNKjISYqRRDIExunWHuuiW8Nj3yFbN83vzJdBgxk1WSLQ5ZW8RpMSkrIskquZy-r7dDyYNAUdpF2xGT-YlcLuKpqIuLNFbef3Hkd3ag5t82lY/s1600/passwords.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a new botnet malware family called Gorilla (aka GorillaBot) that is a variant of the leaked Mirai botnet source code.\nCybersecurity firm NSFOCUS, which identified the activity last month, said the botnet \"issued over 300,000 attack commands, with a shocking attack density\" between September 4 and September 27, 2024. No less than 20,000 commands designed",
+          "link": "https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html",
+          "publishedOn": "2024-10-07T09:59:00.000Z",
+          "wordCount": null,
+          "title": "New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_LXe3apUde3JYajQXc8w82tHJjS4Blw81Sa8XaTSiwtCHvbHKFnXDqIgFJnIgxY9I22Q6gJpV6KJq5qI-TtcwgkAs4jG3DN2JLBlpSXgE5YeximF1FHrc_Zwv3_biwyLM7n2_USOwctGxQJpLGtaSeNJPfHzGnbUY0egTtKnBkEMHjCPTZbk8LDrO1u3/s1600/botnet.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3_LXe3apUde3JYajQXc8w82tHJjS4Blw81Sa8XaTSiwtCHvbHKFnXDqIgFJnIgxY9I22Q6gJpV6KJq5qI-TtcwgkAs4jG3DN2JLBlpSXgE5YeximF1FHrc_Zwv3_biwyLM7n2_USOwctGxQJpLGtaSeNJPfHzGnbUY0egTtKnBkEMHjCPTZbk8LDrO1u3/s1600/botnet.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A critical security flaw has been disclosed in the Apache Avro Java Software Development Kit (SDK) that, if successfully exploited, could allow the execution of arbitrary code on susceptible instances.\nThe flaw, tracked as CVE-2024-47561, impacts all versions of the software prior to 1.11.4.\n\"Schema parsing in the Java SDK of Apache Avro 1.11.3 and previous versions allows bad actors to execute",

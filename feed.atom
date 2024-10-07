@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-07T10:36:59.842Z</updated>
+    <updated>2024-10-07T10:47:07.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless]]></title>
+        <id>https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html</id>
+        <link href="https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html"/>
+        <updated>2024-10-07T10:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The interest in passwordless authentication has increased due to the rise of hybrid work environments and widespread digitization. This has led to a greater need for reliable data security and user-friendly interfaces. Without these measures, organizations are at risk of experiencing data breaches, leaks, and significant financial losses. 
+While traditional password-based systems offer]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Gorilla Botnet Launches Over 300,000 DDoS Attacks Across 100 Countries]]></title>
+        <id>https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html</id>
+        <link href="https://thehackernews.com/2024/10/new-gorilla-botnet-launches-over-300000.html"/>
+        <updated>2024-10-07T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a new botnet malware family called Gorilla (aka GorillaBot) that is a variant of the leaked Mirai botnet source code.
+Cybersecurity firm NSFOCUS, which identified the activity last month, said the botnet "issued over 300,000 attack commands, with a shocking attack density" between September 4 and September 27, 2024. No less than 20,000 commands designed]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Apache Avro SDK Flaw Allows Remote Code Execution in Java Applications]]></title>
         <id>https://thehackernews.com/2024/10/critical-apache-avro-sdk-flaw-allows.html</id>
