@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Organizations are losing between $94 - $186 billion annually to vulnerable or insecure APIs (Application Programming Interfaces) and automated abuse by bots. That’s according to The Economic Impact of API and Bot Attacks report from Imperva, a Thales company. The report highlights that these security threats account for up to 11.8% of global cyber events and losses, emphasizing the escalating",
+          "link": "https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html",
+          "publishedOn": "2024-10-07T11:25:00.000Z",
+          "wordCount": null,
+          "title": "Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaaC9RPdTJisqSdZZUBfBwoa3lO5aheS7SdCNOcHKNfbogDt31eMWKwB0AYgvKVW_fmel6hTPQIffMguA97oo_hnA7Yqtcqqt5ScaRjCkysRu61ho3zJxrBRrRVBGKcwtUnIWJuCzrqT4PGP37npU39zktfvk8c3ifY_JR-GL8LloqKRRUJ0VKqVrtac/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaaC9RPdTJisqSdZZUBfBwoa3lO5aheS7SdCNOcHKNfbogDt31eMWKwB0AYgvKVW_fmel6hTPQIffMguA97oo_hnA7Yqtcqqt5ScaRjCkysRu61ho3zJxrBRrRVBGKcwtUnIWJuCzrqT4PGP37npU39zktfvk8c3ifY_JR-GL8LloqKRRUJ0VKqVrtac/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The interest in passwordless authentication has increased due to the rise of hybrid work environments and widespread digitization. This has led to a greater need for reliable data security and user-friendly interfaces. Without these measures, organizations are at risk of experiencing data breaches, leaks, and significant financial losses. \nWhile traditional password-based systems offer",

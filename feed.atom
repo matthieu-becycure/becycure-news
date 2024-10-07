@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-07T11:27:54.376Z</updated>
+    <updated>2024-10-07T11:43:30.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vulnerable APIs and Bot Attacks Costing Businesses Up to $186 Billion Annually]]></title>
+        <id>https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html</id>
+        <link href="https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html"/>
+        <updated>2024-10-07T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Organizations are losing between $94 - $186 billion annually to vulnerable or insecure APIs (Application Programming Interfaces) and automated abuse by bots. That’s according to The Economic Impact of API and Bot Attacks report from Imperva, a Thales company. The report highlights that these security threats account for up to 11.8% of global cyber events and losses, emphasizing the escalating]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modernization of Authentication: Webinar on MFA, Passwords, and the Shift to Passwordless]]></title>
         <id>https://thehackernews.com/2024/10/modernization-of-authentication-webinar.html</id>
