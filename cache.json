@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Europe's top court has ruled that Meta Platforms must restrict the use of personal data harvested from Facebook for serving targeted ads even when users consent to their information being used for advertising purposes, a move that could have serious consequences for ad-driven companies operating in the region.\n\"An online social network such as Facebook cannot use all of the personal data",
+          "link": "https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html",
+          "publishedOn": "2024-10-07T06:32:00.000Z",
+          "wordCount": null,
+          "title": "E.U. Court Limits Meta's Use of Personal Facebook Data for Targeted Ads",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1ecAB6Ny30OGeb_zzpqxo2FkmkytAeMrShc54wZIPlNVWrfERKWgSt5xClzbzmqjHoOmx_5YxggwlEkcyReHeQh6XkPtwKsYMzeCI7DjPHyVbc1wXHOncPV0_aSChyphenhyphenkrUSf3oZqlpVLulZRzKzN-LriSZlDpY9QNvGnaAsS4wjnnTrSDHONlPmPFIv76/s1600/online-ads.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge1ecAB6Ny30OGeb_zzpqxo2FkmkytAeMrShc54wZIPlNVWrfERKWgSt5xClzbzmqjHoOmx_5YxggwlEkcyReHeQh6XkPtwKsYMzeCI7DjPHyVbc1wXHOncPV0_aSChyphenhyphenkrUSf3oZqlpVLulZRzKzN-LriSZlDpY9QNvGnaAsS4wjnnTrSDHONlPmPFIv76/s1600/online-ads.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Apple has released iOS and iPadOS updates to address two security issues, one of which could have allowed a user's passwords to be read out aloud by its VoiceOver assistive technology.\nThe vulnerability, tracked as CVE-2024-44204, has been described as a logic problem in the new Passwords app impacting a slew of iPhones and iPads. Security researcher Bistrit Daha has been credited with",

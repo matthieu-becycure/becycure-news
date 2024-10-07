@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-07T06:41:44.135Z</updated>
+    <updated>2024-10-07T07:13:25.776Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[E.U. Court Limits Meta's Use of Personal Facebook Data for Targeted Ads]]></title>
+        <id>https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html</id>
+        <link href="https://thehackernews.com/2024/10/eu-court-limits-metas-use-of-personal.html"/>
+        <updated>2024-10-07T06:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Europe's top court has ruled that Meta Platforms must restrict the use of personal data harvested from Facebook for serving targeted ads even when users consent to their information being used for advertising purposes, a move that could have serious consequences for ad-driven companies operating in the region.
+"An online social network such as Facebook cannot use all of the personal data]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple Releases Critical iOS and iPadOS Updates to Fix VoiceOver Password Vulnerability]]></title>
         <id>https://thehackernews.com/2024/10/apple-releases-critical-ios-and-ipados.html</id>
