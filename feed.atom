@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-08T05:43:39.237Z</updated>
+    <updated>2024-10-08T06:18:32.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pro-Ukrainian Hackers Strike Russian State TV on Putin's Birthday]]></title>
+        <id>https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html</id>
+        <link href="https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html"/>
+        <updated>2024-10-08T05:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine has claimed responsibility for a cyber attack that targeted Russia state media company VGTRK and disrupted its operations, according to reports from Bloomberg and Reuters.
+The incident took place on the night of October 7, VGTRK confirmed, describing it as an "unprecedented hacker attack." However, it said "no significant damage" was caused and that everything was working normally]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qualcomm Urges OEMs to Patch Critical DSP and WLAN Flaws Amid Active Exploits]]></title>
         <id>https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html</id>
