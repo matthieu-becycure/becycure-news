@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Qualcomm has rolled out security updates to address nearly two dozen flaws spanning proprietary and open-source components, including one that has come under active exploitation in the wild.\nThe high-severity vulnerability, tracked as CVE-2024-43047 (CVSS score: 7.8), has been described as a user-after-free bug in the Digital Signal Processor (DSP) Service that could lead to \"memory corruption",
+          "link": "https://thehackernews.com/2024/10/qualcomm-urges-oems-to-patch-critical.html",
+          "publishedOn": "2024-10-08T04:07:00.000Z",
+          "wordCount": null,
+          "title": "Qualcomm Urges OEMs to Patch Critical DSP and WLAN Flaws Amid Active Exploits",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxQ4dLwtsNT1UUUVCb2JTMkLYLBO-fclCTuL21ZknLTlNBTuomwC8vcxoqcToZrqf2O683yxf8H_sEGYT2x9GHa440XqJ_X6tYaRQKQLagtPV41y7WDlOfssEL8XA2eBuy6LW0c_wU6UnkO74x55K2DJy0uxfqagWyyVM9AcYrNPm3W83GafwuUxxV2kJ6/s1600/chipset.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxQ4dLwtsNT1UUUVCb2JTMkLYLBO-fclCTuL21ZknLTlNBTuomwC8vcxoqcToZrqf2O683yxf8H_sEGYT2x9GHa440XqJ_X6tYaRQKQLagtPV41y7WDlOfssEL8XA2eBuy6LW0c_wU6UnkO74x55K2DJy0uxfqagWyyVM9AcYrNPm3W83GafwuUxxV2kJ6/s1600/chipset.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/vulnerable-apis-and-bot-attacks-costing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Organizations are losing between $94 - $186 billion annually to vulnerable or insecure APIs (Application Programming Interfaces) and automated abuse by bots. That’s according to The Economic Impact of API and Bot Attacks report from Imperva, a Thales company. The report highlights that these security threats account for up to 11.8% of global cyber events and losses, emphasizing the escalating",
