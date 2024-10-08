@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-08T11:12:48.399Z</updated>
+    <updated>2024-10-08T11:27:49.757Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberattack Group 'Awaken Likho' Targets Russian Government with Advanced Tools]]></title>
+        <id>https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html</id>
+        <link href="https://thehackernews.com/2024/10/cyberattack-group-awaken-likho-targets.html"/>
+        <updated>2024-10-08T11:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian government agencies and industrial entities are the target of an ongoing activity cluster dubbed Awaken Likho.
+"The attackers now prefer using the agent for the legitimate MeshCentral platform instead of the UltraVNC module, which they had previously used to gain remote access to systems," Kaspersky said, detailing a new campaign that began in June 2024 and continued at least until]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Case Study: The Evil Twin Checkout Page]]></title>
+        <id>https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html</id>
+        <link href="https://thehackernews.com/2024/10/new-case-study-evil-twin-checkout-page.html"/>
+        <updated>2024-10-08T10:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Is your store at risk? Discover how an innovative web security solution saved one global online retailer and its unsuspecting customers from an “evil twin” disaster. Read the full real-life case study here.
+
+The Invisible Threat in Online Shopping
+When is a checkout page, not a checkout page? When it's an “evil twin”! Malicious redirects can send unsuspecting shoppers to these perfect-looking]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of AI-Powered Identity]]></title>
+        <id>https://thehackernews.com/2024/10/the-value-of-ai-powered-identity.html</id>
+        <link href="https://thehackernews.com/2024/10/the-value-of-ai-powered-identity.html"/>
+        <updated>2024-10-08T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction 
+Artificial intelligence (AI) deepfakes and misinformation may cause worry in the world of technology and investment, but this powerful, foundational technology has the potential to benefit organizations of all kinds when harnessed appropriately. 
+In the world of cybersecurity, one of the most important areas of application of AI is augmenting and enhancing identity management]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets]]></title>
         <id>https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html</id>
