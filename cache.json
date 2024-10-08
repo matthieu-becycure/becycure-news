@@ -3479,16 +3479,6 @@
           "wordCount": 791,
           "title": "Multiples vulnérabilités dans les produits Qnap (09 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0751/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0751/",
-          "publishedOn": "2024-09-09T08:07:11.000Z",
-          "wordCount": 407,
-          "title": "Multiples vulnérabilités dans les produits Mozilla (09 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
