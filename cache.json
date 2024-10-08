@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A little-known threat actor tracked as GoldenJackal has been linked to a series of cyber attacks targeting embassies and governmental organizations with an aim to infiltrate air-gapped systems using two disparate bespoke toolsets.\nVictims included a South Asian embassy in Belarus and a European Union government (E.U.) organization, Slovak cybersecurity company ESET said.\n\"The ultimate goal of",
+          "link": "https://thehackernews.com/2024/10/goldenjackal-target-embassies-and-air.html",
+          "publishedOn": "2024-10-08T09:21:00.000Z",
+          "wordCount": null,
+          "title": "GoldenJackal Target Embassies and Air-Gapped Systems Using Malware Toolsets",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCaVVsRtD6ll9xTxFBXjSq41ztCFUrCA_rUVeWdo5fUOx9ndq1DG-J46hgYHX5XsI_SGIlDcCEMaIEHK0UZhckXrkQSwIBoAUN-at5BB6SgF0zO5ayXAPUrbHUchiKBn-8zmeTnOWyIA51gAcsaJ_q4j4aY666LMGrVKXaL5q1pIeHQHWF4WXEzI5jkO8g/s1600/hacking.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCaVVsRtD6ll9xTxFBXjSq41ztCFUrCA_rUVeWdo5fUOx9ndq1DG-J46hgYHX5XsI_SGIlDcCEMaIEHK0UZhckXrkQSwIBoAUN-at5BB6SgF0zO5ayXAPUrbHUchiKBn-8zmeTnOWyIA51gAcsaJ_q4j4aY666LMGrVKXaL5q1pIeHQHWF4WXEzI5jkO8g/s1600/hacking.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/pro-ukrainian-hackers-strike-russian.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ukraine has claimed responsibility for a cyber attack that targeted Russia state media company VGTRK and disrupted its operations, according to reports from Bloomberg and Reuters.\nThe incident took place on the night of October 7, VGTRK confirmed, describing it as an \"unprecedented hacker attack.\" However, it said \"no significant damage\" was caused and that everything was working normally",
