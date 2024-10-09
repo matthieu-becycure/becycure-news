@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Google on Wednesday announced a new partnership with the Global Anti-Scam Alliance (GASA) and DNS Research Federation (DNS RF) to combat online scams.\nThe initiative, which has been codenamed the Global Signal Exchange (GSE), is designed to create real-time insights into scams, fraud, and other forms of cybercrime pooling together threat signals from different data sources in order to create",
+          "link": "https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html",
+          "publishedOn": "2024-10-09T17:00:00.000Z",
+          "wordCount": null,
+          "title": "Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-_A0vaSjJG1BBaI0rAkH_WBa0g59u50BY0K2IIG8Ih-MzwdHja7HkcKmJf13i2xILX__SJDQcv9WPjMJS0TExtmYjJ3aeHfEKGhhvpLa6bxGuIiiOefBZ7RM2Xw76Q2MUQRFHnExrHuMVYuq3PznO81wKc5x6nOpFlW9dOJZKC0cyGoro14uiW12HZES/s1600/online-scam.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip-_A0vaSjJG1BBaI0rAkH_WBa0g59u50BY0K2IIG8Ih-MzwdHja7HkcKmJf13i2xILX__SJDQcv9WPjMJS0TExtmYjJ3aeHfEKGhhvpLa6bxGuIiiOefBZ7RM2Xw76Q2MUQRFHnExrHuMVYuq3PznO81wKc5x6nOpFlW9dOJZKC0cyGoro14uiW12HZES/s1600/online-scam.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/researchers-uncover-major-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have emerged about multiple security vulnerabilities in two implementations of the Manufacturing Message Specification (MMS) protocol that, if successfully exploited, could have severe impacts in industrial environments.\n\"The vulnerabilities could allow an attacker to crash an industrial device or in some cases, enable remote code execution,\" Claroty researchers Mashav Sapir and Vera",
