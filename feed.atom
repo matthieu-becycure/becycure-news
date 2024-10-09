@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-09T14:33:12.265Z</updated>
+    <updated>2024-10-09T14:44:40.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware]]></title>
+        <id>https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html</id>
+        <link href="https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html"/>
+        <updated>2024-10-09T13:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors with ties to North Korea have been observed targeting job seekers in the tech industry to deliver updated versions of known malware families tracked as BeaverTail and InvisibleFerret.
+The activity cluster, tracked as CL-STA-0240, is part of a campaign dubbed Contagious Interview that Palo Alto Networks Unit 42 first disclosed in November 2023.
+"The threat actor behind CL-STA-0240]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Microsoft (09 octobre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0857/</id>

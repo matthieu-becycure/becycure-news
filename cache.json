@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors with ties to North Korea have been observed targeting job seekers in the tech industry to deliver updated versions of known malware families tracked as BeaverTail and InvisibleFerret.\nThe activity cluster, tracked as CL-STA-0240, is part of a campaign dubbed Contagious Interview that Palo Alto Networks Unit 42 first disclosed in November 2023.\n\"The threat actor behind CL-STA-0240",
+          "link": "https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html",
+          "publishedOn": "2024-10-09T13:33:00.000Z",
+          "wordCount": null,
+          "title": "N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYuPiQ7GtvElQpUVrddovHGJ6FzPSv3FrUIfgZodHgcTiFiKO31PynXWel10fm7dTiZDTWEM5bhdR_nWcdFYdtmp8diuo2iBhvdLnajuT9fiIs8MSjvlx06nvAjLldBg30fI7QVpouqDuIeDcWOyB8Y33kV9Uq_ivH7D8W-vQq4RjZd-l4oY8ch0Ikedjw/s1600/attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYuPiQ7GtvElQpUVrddovHGJ6FzPSv3FrUIfgZodHgcTiFiKO31PynXWel10fm7dTiZDTWEM5bhdR_nWcdFYdtmp8diuo2iBhvdLnajuT9fiIs8MSjvlx06nvAjLldBg30fI7QVpouqDuIeDcWOyB8Y33kV9Uq_ivH7D8W-vQq4RjZd-l4oY8ch0Ikedjw/s1600/attack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Social media accounts help shape a brand’s identity and reputation. These public forums engage directly with customers as they are a hub to connect, share content and answer questions. However, despite the high profile role these accounts have, many organizations overlook social media account security. Many lack the safeguards to prevent unauthorized access — a situation no organization wants as",
