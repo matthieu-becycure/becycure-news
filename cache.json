@@ -3537,16 +3537,6 @@
           "wordCount": 823,
           "title": "Multiples vulnérabilités dans les produits SAP (10 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0753/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0753/",
-          "publishedOn": "2024-09-10T08:25:06.000Z",
-          "wordCount": 449,
-          "title": "Multiples vulnérabilités dans les produits OwnCloud (10 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
