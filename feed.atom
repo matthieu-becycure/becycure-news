@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-09T15:31:37.001Z</updated>
+    <updated>2024-10-09T15:44:50.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Major Security Vulnerabilities in Industrial MMS Protocol Libraries]]></title>
+        <id>https://thehackernews.com/2024/10/researchers-uncover-major-security.html</id>
+        <link href="https://thehackernews.com/2024/10/researchers-uncover-major-security.html"/>
+        <updated>2024-10-09T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Details have emerged about multiple security vulnerabilities in two implementations of the Manufacturing Message Specification (MMS) protocol that, if successfully exploited, could have severe impacts in industrial environments.
+"The vulnerabilities could allow an attacker to crash an industrial device or in some cases, enable remote code execution," Claroty researchers Mashav Sapir and Vera]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N. Korean Hackers Use Fake Interviews to Infect Developers with Cross-Platform Malware]]></title>
         <id>https://thehackernews.com/2024/10/n-korean-hackers-use-fake-interviews-to.html</id>
