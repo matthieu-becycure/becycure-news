@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Microsoft is warning of cyber attack campaigns that abuse legitimate file hosting services such as SharePoint, OneDrive, and Dropbox that are widely used in enterprise environments as a defense evasion tactic.\nThe end goal of the campaigns are broad and varied, allowing threat actors to compromise identities and devices and conduct business email compromise (BEC) attacks, which ultimately result",
+          "link": "https://thehackernews.com/2024/10/microsoft-detects-growing-use-of-file.html",
+          "publishedOn": "2024-10-09T04:22:00.000Z",
+          "wordCount": null,
+          "title": "Microsoft Detects Growing Use of File Hosting Services in Business Email Compromise Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc71bvcvF0hZUe4jbeVxiiO6oLKTjl5tnfdfC4U3CvvQMxvjuH6gyuU6BWub1iluITDr0YwtP-gPLVgc4_fzyhnhe66tsjOGAKVvzgud_Xuxjh1Vo4xEI14IzumyxA4ex2bsULbAeNjZLjhVonEq0ZTnSmR8g7o_lUM-kX0o_CFNZsFHYWkI2O-w-6iP49/s1600/phishing.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc71bvcvF0hZUe4jbeVxiiO6oLKTjl5tnfdfC4U3CvvQMxvjuH6gyuU6BWub1iluITDr0YwtP-gPLVgc4_fzyhnhe66tsjOGAKVvzgud_Xuxjh1Vo4xEI14IzumyxA4ex2bsULbAeNjZLjhVonEq0ZTnSmR8g7o_lUM-kX0o_CFNZsFHYWkI2O-w-6iP49/s1600/phishing.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/zero-day-alert-three-critical-ivanti.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Ivanti has warned that three new security vulnerabilities impacting its Cloud Service Appliance (CSA) have come under active exploitation in the wild.\nThe zero-day flaws are being weaponized in conjunction with another flaw in CSA that the company patched last month, the Utah-based software services provider said.\nSuccessful exploitation of these vulnerabilities could allow an authenticated",
