@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-09T05:14:04.207Z</updated>
+    <updated>2024-10-09T05:33:31.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2676,17 +2676,6 @@ The cybersecurity firm, which is monitoring the activity cluster under the name 
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits OwnCloud. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New RAMBO Attack Uses RAM Radio Signals to Steal Data from Air-Gapped Networks]]></title>
-        <id>https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html</id>
-        <link href="https://thehackernews.com/2024/09/new-rambo-attack-uses-ram-radio-signals.html"/>
-        <updated>2024-09-09T17:19:00.000Z</updated>
-        <summary type="html"><![CDATA[A novel side-channel attack has been found to leverage radio signals emanated by a device's random access memory (RAM) as a data exfiltration mechanism, posing a threat to air-gapped networks.
-The technique has been codenamed RAMBO by Dr. Mordechai Guri, the head of the Offensive Cyber Research Lab in the Department of Software and Information Systems Engineering at the Ben Gurion University of]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
