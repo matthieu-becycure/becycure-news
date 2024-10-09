@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-09T11:26:36.782Z</updated>
+    <updated>2024-10-09T11:43:41.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Social Media Accounts: The Weak Link in Organizational SaaS Security]]></title>
+        <id>https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html</id>
+        <link href="https://thehackernews.com/2024/10/social-media-accounts-weak-link-in.html"/>
+        <updated>2024-10-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Social media accounts help shape a brand’s identity and reputation. These public forums engage directly with customers as they are a hub to connect, share content and answer questions. However, despite the high profile role these accounts have, many organizations overlook social media account security. Many lack the safeguards to prevent unauthorized access — a situation no organization wants as]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Issues Security Update Fixing 118 Flaws, Two Actively Exploited in the Wild]]></title>
         <id>https://thehackernews.com/2024/10/microsoft-issues-security-update-fixing.html</id>
