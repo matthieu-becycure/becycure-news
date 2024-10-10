@@ -3471,36 +3471,6 @@
           "wordCount": 382,
           "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager (11 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0766/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0766/",
-          "publishedOn": "2024-09-11T09:10:36.000Z",
-          "wordCount": 337,
-          "title": "Multiples vulnérabilités dans Google Chrome (11 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0765/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans MongoDB Server. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0765/",
-          "publishedOn": "2024-09-11T09:05:04.000Z",
-          "wordCount": 311,
-          "title": "Vulnérabilité dans MongoDB Server (11 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0764/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Elles permettent à un attaquant de provoquer une exécution de code arbitraire et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0764/",
-          "publishedOn": "2024-09-11T08:49:28.000Z",
-          "wordCount": 389,
-          "title": "Multiples vulnérabilités dans les produits Adobe (11 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
