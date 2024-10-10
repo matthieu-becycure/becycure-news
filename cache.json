@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Fortinet products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2024-23113 (CVSS score: 9.8), relates to cases of remote code execution that affects FortiOS, FortiPAM, FortiProxy, and FortiWeb.\n\"A",
+          "link": "https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html",
+          "publishedOn": "2024-10-10T05:44:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiAS8cfUsAeLIZLCqWDZHwcEaL8iNUDWhNJAwRkWlRfFj1pvzvRlRez9DEirJ63SEPM9B8FZ4aUrpP3F7r5i0Be7FdWxPgm7zJQ33Zn4pxa-3LgxjBM_rYD5Q9qgGK9omvDFk50u8hDKa9voEWtmJdod9bQDRJlD2L5ocYDtXkcWSWzYnBwDkIIw6XyF40/s1600/update.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiAS8cfUsAeLIZLCqWDZHwcEaL8iNUDWhNJAwRkWlRfFj1pvzvRlRez9DEirJ63SEPM9B8FZ4aUrpP3F7r5i0Be7FdWxPgm7zJQ33Zn4pxa-3LgxjBM_rYD5Q9qgGK9omvDFk50u8hDKa9voEWtmJdod9bQDRJlD2L5ocYDtXkcWSWzYnBwDkIIw6XyF40/s1600/update.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Mozilla has revealed that a critical security flaw impacting Firefox and Firefox Extended Support Release (ESR) has come under active exploitation in the wild.\nThe vulnerability, tracked as CVE-2024-9680, has been described as a use-after-free bug in the Animation timeline component.\n\"An attacker was able to achieve code execution in the content process by exploiting a use-after-free in",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T05:43:31.633Z</updated>
+    <updated>2024-10-10T06:18:37.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches]]></title>
+        <id>https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html</id>
+        <link href="https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html"/>
+        <updated>2024-10-10T05:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Fortinet products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2024-23113 (CVSS score: 9.8), relates to cases of remote code execution that affects FortiOS, FortiPAM, FortiProxy, and FortiWeb.
+"A]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox Zero-Day Under Attack: Update Your Browser Immediately]]></title>
         <id>https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html</id>
