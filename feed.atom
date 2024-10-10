@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T18:50:12.494Z</updated>
+    <updated>2024-10-10T19:10:24.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2861,17 +2861,6 @@ The activity has been assessed to be part of]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Issues Patches for 79 Flaws, Including 3 Actively Exploited Windows Flaws]]></title>
-        <id>https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html</id>
-        <link href="https://thehackernews.com/2024/09/microsoft-issues-patches-for-79-flaws.html"/>
-        <updated>2024-09-11T06:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft on Tuesday disclosed that three new security flaws impacting the Windows platform have come under active exploitation as part of its Patch Tuesday update for September 2024.
-The monthly security release addresses a total of 79 vulnerabilities, of which seven are rated Critical, 71 are rated Important, and one is rated Moderate in severity. This is aside from 26 flaws that the tech]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
