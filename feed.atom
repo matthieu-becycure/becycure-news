@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T03:45:58.375Z</updated>
+    <updated>2024-10-10T04:15:35.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2724,17 +2724,6 @@ The monthly security release addresses a total of 79 vulnerabilities, of which s
 A brief description of the issues is as follows -
 
 CVE-2024-29847 (CVSS score: 10.0) - A deserialization of untrusted data vulnerability that allows a remote unauthenticated attacker to achieve code execution.]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CosmicBeetle Deploys Custom ScRansom Ransomware, Partnering with RansomHub]]></title>
-        <id>https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html</id>
-        <link href="https://thehackernews.com/2024/09/cosmicbeetle-deploys-custom-scransom.html"/>
-        <updated>2024-09-10T15:48:00.000Z</updated>
-        <summary type="html"><![CDATA[The threat actor known as CosmicBeetle has debuted a new custom ransomware strain called ScRansom in attacks targeting small- and medium-sized businesses (SMBs) in Europe, Asia, Africa, and South America, while also likely working as an affiliate for RansomHub.
-"CosmicBeetle replaced its previously deployed ransomware, Scarab, with ScRansom, which is continually improved," ESET researcher Jakub]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
