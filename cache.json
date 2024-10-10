@@ -3511,16 +3511,6 @@
           "wordCount": 670,
           "title": "Multiples vulnérabilités dans les produits Fortinet (11 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0762/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0762/",
-          "publishedOn": "2024-09-11T07:58:45.000Z",
-          "wordCount": 330,
-          "title": "Multiples vulnérabilités dans les produits Citrix (11 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
