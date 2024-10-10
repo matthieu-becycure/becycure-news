@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/6-simple-steps-to-eliminate-soc-analyst.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The current SOC model relies on a scarce resource: human analysts. These professionals are expensive, in high demand, and increasingly difficult to retain. Their work is not only highly technical and high-risk, but also soul-crushingly repetitive, dealing with a constant flood of alerts and incidents. As a result, SOC analysts often leave in search of better pay, the opportunity to move beyond",
+          "link": "https://thehackernews.com/2024/10/6-simple-steps-to-eliminate-soc-analyst.html",
+          "publishedOn": "2024-10-10T11:00:00.000Z",
+          "wordCount": null,
+          "title": "6 Simple Steps to Eliminate SOC Analyst Burnout",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga8TMwmlh-dv-TvBoUTReHEWeA9qyp_6XCKB_jo17ZlqxPFnrwFYyvcfmiWYxnhqmi4Jl0jTjq24GOah2h4JyYsAzFHYgu42lI6_Qo4ql1t1QccRgdfm8Cb330rPS8oKmMXv6WAlRrNHnfZ8S6d9IC4OpPda8iNOZRPKrw2fGkvnn2DhI7xcn_4OAEnbs/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga8TMwmlh-dv-TvBoUTReHEWeA9qyp_6XCKB_jo17ZlqxPFnrwFYyvcfmiWYxnhqmi4Jl0jTjq24GOah2h4JyYsAzFHYgu42lI6_Qo4ql1t1QccRgdfm8Cb330rPS8oKmMXv6WAlRrNHnfZ8S6d9IC4OpPda8iNOZRPKrw2fGkvnn2DhI7xcn_4OAEnbs/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a new digital skimmer campaign that leverages Unicode obfuscation techniques to conceal a skimmer dubbed Mongolian Skimmer.\n\"At first glance, the thing that stood out was the script's obfuscation, which seemed a bit bizarre because of all the accented characters,\" Jscrambler researchers said in an analysis. \"The heavy use of Unicode characters, many",

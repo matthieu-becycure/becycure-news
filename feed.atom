@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T11:26:38.179Z</updated>
+    <updated>2024-10-10T11:43:41.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Simple Steps to Eliminate SOC Analyst Burnout]]></title>
+        <id>https://thehackernews.com/2024/10/6-simple-steps-to-eliminate-soc-analyst.html</id>
+        <link href="https://thehackernews.com/2024/10/6-simple-steps-to-eliminate-soc-analyst.html"/>
+        <updated>2024-10-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The current SOC model relies on a scarce resource: human analysts. These professionals are expensive, in high demand, and increasingly difficult to retain. Their work is not only highly technical and high-risk, but also soul-crushingly repetitive, dealing with a constant flood of alerts and incidents. As a result, SOC analysts often leave in search of better pay, the opportunity to move beyond]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms]]></title>
         <id>https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html</id>
