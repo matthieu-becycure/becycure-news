@@ -3521,46 +3521,6 @@
           "wordCount": 330,
           "title": "Multiples vulnérabilités dans les produits Citrix (11 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/",
-          "publishedOn": "2024-09-11T07:37:13.000Z",
-          "wordCount": 1086,
-          "title": "Multiples vulnérabilités dans les produits Microsoft (11 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/",
-          "publishedOn": "2024-09-11T07:37:12.000Z",
-          "wordCount": 2054,
-          "title": "Multiples vulnérabilités dans Microsoft Windows (11 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/",
-          "publishedOn": "2024-09-11T07:37:12.000Z",
-          "wordCount": 579,
-          "title": "Multiples vulnérabilités dans Microsoft Azure (11 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/",
-          "publishedOn": "2024-09-11T07:37:10.000Z",
-          "wordCount": 577,
-          "title": "Multiples vulnérabilités dans Microsoft Office (11 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }

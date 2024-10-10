@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T19:24:49.116Z</updated>
+    <updated>2024-10-10T19:43:38.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2819,46 +2819,6 @@ The activity has been assessed to be part of]]></summary>
         <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0762/"/>
         <updated>2024-09-11T07:58:45.000Z</updated>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer une élévation de privilèges.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Microsoft (11 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0761/"/>
-        <updated>2024-09-11T07:37:13.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Windows (11 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0759/"/>
-        <updated>2024-09-11T07:37:12.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Windows. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance. Microsoft indique que les vulnérabilités...]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Azure (11 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0760/"/>
-        <updated>2024-09-11T07:37:12.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Azure. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans Microsoft Office (11 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0758/"/>
-        <updated>2024-09-11T07:37:10.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans Microsoft Office. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Microsoft indique que la vulnérabilité...]]></summary>
         <author>
             <name>CERT-FR</name>
         </author>
