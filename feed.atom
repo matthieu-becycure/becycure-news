@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T04:45:41.209Z</updated>
+    <updated>2024-10-10T05:12:46.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox Zero-Day Under Attack: Update Your Browser Immediately]]></title>
+        <id>https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html</id>
+        <link href="https://thehackernews.com/2024/10/mozilla-warns-of-active-exploitation-in.html"/>
+        <updated>2024-10-10T04:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla has revealed that a critical security flaw impacting Firefox and Firefox Extended Support Release (ESR) has come under active exploitation in the wild.
+The vulnerability, tracked as CVE-2024-9680, has been described as a use-after-free bug in the Animation timeline component.
+"An attacker was able to achieve code execution in the content process by exploiting a use-after-free in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Joins Forces with GASA and DNS RF to Tackle Online Scams at Scale]]></title>
         <id>https://thehackernews.com/2024/10/google-joins-forces-with-gasa-and-dns.html</id>
