@@ -3461,16 +3461,6 @@
           "wordCount": 601,
           "title": "Multiples vulnérabilités dans les produits Intel (11 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0767/",
-          "author": null,
-          "description": "Se référer au bulletin de sécurité de l'éditeur pour l'obtention des correctifs (cf. section Documentation).",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0767/",
-          "publishedOn": "2024-09-11T09:22:46.000Z",
-          "wordCount": 382,
-          "title": "Multiples vulnérabilités dans Ivanti Endpoint Manager (11 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
