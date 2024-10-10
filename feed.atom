@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T07:43:35.532Z</updated>
+    <updated>2024-10-10T08:16:45.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms]]></title>
+        <id>https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html</id>
+        <link href="https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html"/>
+        <updated>2024-10-10T07:18:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new digital skimmer campaign that leverages Unicode obfuscation techniques to conceal a skimmer dubbed Mongolian Skimmer.
+"At first glance, the thing that stood out was the script's obfuscation, which seemed a bit bizarre because of all the accented characters," Jscrambler researchers said in an analysis. "The heavy use of Unicode characters, many]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Critical Fortinet Flaw as Palo Alto and Cisco Issue Urgent Security Patches]]></title>
         <id>https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html</id>

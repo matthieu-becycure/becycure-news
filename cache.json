@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a new digital skimmer campaign that leverages Unicode obfuscation techniques to conceal a skimmer dubbed Mongolian Skimmer.\n\"At first glance, the thing that stood out was the script's obfuscation, which seemed a bit bizarre because of all the accented characters,\" Jscrambler researchers said in an analysis. \"The heavy use of Unicode characters, many",
+          "link": "https://thehackernews.com/2024/10/cybercriminals-use-unicode-to-hide.html",
+          "publishedOn": "2024-10-10T07:18:00.000Z",
+          "wordCount": null,
+          "title": "Cybercriminals Use Unicode to Hide Mongolian Skimmer in E-Commerce Platforms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJZxKkmbaY7u7Pd-8e-lC6RTxSr-A3UMV63LoDST-yAEuw5rPqqXfS1XQQOV5BuBRlzQdte2o4dtZ4GiTkcB0wT10YS84L_G46ivrFk3t4NjfRy1TdcMJ-UiLGYqDnyDlo-rWudPTSMTicBzN6Wp_DlnzLZqFwGa_1TwSCE9cGrCujWlLNCRjZ5GJffcB/s1600/shopping.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFJZxKkmbaY7u7Pd-8e-lC6RTxSr-A3UMV63LoDST-yAEuw5rPqqXfS1XQQOV5BuBRlzQdte2o4dtZ4GiTkcB0wT10YS84L_G46ivrFk3t4NjfRy1TdcMJ-UiLGYqDnyDlo-rWudPTSMTicBzN6Wp_DlnzLZqFwGa_1TwSCE9cGrCujWlLNCRjZ5GJffcB/s1600/shopping.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/cisa-warns-of-critical-fortinet-flaw-as.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical security flaw impacting Fortinet products to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2024-23113 (CVSS score: 9.8), relates to cases of remote code execution that affects FortiOS, FortiPAM, FortiProxy, and FortiWeb.\n\"A",
