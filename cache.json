@@ -2420,22 +2420,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVYlUXhUSqqDC9USX7cREHXW9cpffNtc82Fqv3UqE4-f3TUEuMlutGMEQoAHrE_gq413S8_m_YdMk-cf_-ehhLJag7F5gUGd4WpCBJ-My9QGSeWjSFPpl4uCsEvP27B1qKcs_wzWZX18qVVw95Z1NVAjK_-lwChbTbRuo8fakwkx_u91hgYnbR28wHJlaY/s1600/lock.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVYlUXhUSqqDC9USX7cREHXW9cpffNtc82Fqv3UqE4-f3TUEuMlutGMEQoAHrE_gq413S8_m_YdMk-cf_-ehhLJag7F5gUGd4WpCBJ-My9QGSeWjSFPpl4uCsEvP27B1qKcs_wzWZX18qVVw95Z1NVAjK_-lwChbTbRuo8fakwkx_u91hgYnbR28wHJlaY/s1600/lock.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Ivanti has released software updates to address multiple security flaws impacting Endpoint Manager (EPM), including 10 critical vulnerabilities that could result in remote code execution.\nA brief description of the issues is as follows -\n\nCVE-2024-29847 (CVSS score: 10.0) - A deserialization of untrusted data vulnerability that allows a remote unauthenticated attacker to achieve code execution.",
-          "link": "https://thehackernews.com/2024/09/ivanti-releases-urgent-security-updates.html",
-          "publishedOn": "2024-09-11T06:30:00.000Z",
-          "wordCount": null,
-          "title": "Ivanti Releases Urgent Security Updates for Endpoint Manager Vulnerabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NK2AOOmUrkh9G_pZ0w3Y_8h144WXd9NuY8mFIfeyfCCWfsXqkV4CVAh7D7_whF-iDpBOarLD9ZQz72Mbyu4nW-qP7-UszJpvS7Zx90gt9DPc-y6KkiCMSQ_1cggj_2vs2HRP4OS3cguW5S75aBWgX4Z45-WmMW-Tn6JJyOQ3GmJyqVeEGskw6sgOgcUF/s1600/ivanti.jpg"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_NK2AOOmUrkh9G_pZ0w3Y_8h144WXd9NuY8mFIfeyfCCWfsXqkV4CVAh7D7_whF-iDpBOarLD9ZQz72Mbyu4nW-qP7-UszJpvS7Zx90gt9DPc-y6KkiCMSQ_1cggj_2vs2HRP4OS3cguW5S75aBWgX4Z45-WmMW-Tn6JJyOQ3GmJyqVeEGskw6sgOgcUF/s1600/ivanti.jpg"
         }
       ]
     },
