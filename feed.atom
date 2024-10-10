@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-10T13:02:24.262Z</updated>
+    <updated>2024-10-10T13:34:21.224Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation]]></title>
+        <id>https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html</id>
+        <link href="https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html"/>
+        <updated>2024-10-10T13:27:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI on Wednesday said it has disrupted more than 20 operations and deceptive networks across the world that attempted to use its platform for malicious purposes since the start of the year.
+This activity encompassed debugging malware, writing articles for websites, generating biographies for social media accounts, and creating AI-generated profile pictures for fake accounts on X.
+"Threat]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Experts Warn of Critical Unpatched Vulnerability in Linear eMerge E3 Systems]]></title>
         <id>https://thehackernews.com/2024/10/experts-warn-of-critical-unpatched.html</id>
