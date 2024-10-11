@@ -3485,16 +3485,6 @@
           "wordCount": 573,
           "title": "Multiples vulnérabilités dans les produits Cisco (12 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0771/",
-          "publishedOn": "2024-09-12T07:34:24.000Z",
-          "wordCount": 389,
-          "title": "Multiples vulnérabilités dans les produits Tenable (12 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
