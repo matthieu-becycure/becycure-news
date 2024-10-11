@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-11T07:13:08.638Z</updated>
+    <updated>2024-10-11T07:29:25.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution]]></title>
+        <id>https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html</id>
+        <link href="https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html"/>
+        <updated>2024-10-11T06:29:00.000Z</updated>
+        <summary type="html"><![CDATA[GitLab has released security updates for Community Edition (CE) and Enterprise Edition (EE) to address eight security flaws, including a critical bug that could allow running Continuous Integration and Continuous Delivery (CI/CD) pipelines on arbitrary branches.
+Tracked as CVE-2024-9164, the vulnerability carries a CVSS score of 9.6 out of 10.
+
+"An issue was discovered in GitLab EE]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation]]></title>
         <id>https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html</id>

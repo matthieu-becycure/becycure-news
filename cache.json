@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitLab has released security updates for Community Edition (CE) and Enterprise Edition (EE) to address eight security flaws, including a critical bug that could allow running Continuous Integration and Continuous Delivery (CI/CD) pipelines on arbitrary branches.\nTracked as CVE-2024-9164, the vulnerability carries a CVSS score of 9.6 out of 10.\n\n\"An issue was discovered in GitLab EE",
+          "link": "https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html",
+          "publishedOn": "2024-10-11T06:29:00.000Z",
+          "wordCount": null,
+          "title": "New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibAJ4lQ44xnTD3BHVE0Nw1iHpxCoLwDSEDipjz9F4-DPJJxjLqNsTOwSEbZQENKjxNobMV8n0Ver70-hQ26CKXkmXemccNMFCzTrsmwKQxV3gYzAfW9jMMSr6aYvJf2g1iRvtECHtQ-6S5jLSeW60XT9i2G723xgFLyrE3g7Icmo6p9hNKDn7hYTq-j03T/s1600/gitlab.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibAJ4lQ44xnTD3BHVE0Nw1iHpxCoLwDSEDipjz9F4-DPJJxjLqNsTOwSEbZQENKjxNobMV8n0Ver70-hQ26CKXkmXemccNMFCzTrsmwKQxV3gYzAfW9jMMSr6aYvJf2g1iRvtECHtQ-6S5jLSeW60XT9i2G723xgFLyrE3g7Icmo6p9hNKDn7hYTq-j03T/s1600/gitlab.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The Dutch police have announced the takedown of Bohemia and Cannabia, which has been described as the world's largest and longest-running dark web market for illegal goods, drugs, and cybercrime services.\nThe takedown is the result of a collaborative investigation with Ireland, the United Kingdom, and the United States that began towards the end of 2022, the Politie said.\nThe marketplace",
