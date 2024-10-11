@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-11T09:13:56.124Z</updated>
+    <updated>2024-10-11T09:30:48.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance]]></title>
+        <id>https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html</id>
+        <link href="https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html"/>
+        <updated>2024-10-11T08:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that it has observed threat actors leveraging unencrypted persistent cookies managed by the F5 BIG-IP Local Traffic Manager (LTM) module to conduct reconnaissance of target networks.
+It said the module is being used to enumerate other non-internet-facing devices on the network. The agency, however, did not disclose who]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Critical GitLab Vulnerability Could Allow Arbitrary CI/CD Pipeline Execution]]></title>
         <id>https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html</id>

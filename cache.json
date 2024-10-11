@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that it has observed threat actors leveraging unencrypted persistent cookies managed by the F5 BIG-IP Local Traffic Manager (LTM) module to conduct reconnaissance of target networks.\nIt said the module is being used to enumerate other non-internet-facing devices on the network. The agency, however, did not disclose who",
+          "link": "https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html",
+          "publishedOn": "2024-10-11T08:34:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYoFNmHX7vmxs3jvFE92oFVA4vNaqCfOX4l-D2YiuEAb76bemn99A8lJYJp1hsBpNoeMT0QoVA4fno1NsZj0Efm8PizXuBqeziDlTk0S_IOd0FrBKDlIoH96D3crgz4GhsxGOJ5_p-9k5g3gsuhPhu6J_av0_CmmkbpQBTM9k-HWuvp0ww3MeDnQvHN2St/s1600/big-ip.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYoFNmHX7vmxs3jvFE92oFVA4vNaqCfOX4l-D2YiuEAb76bemn99A8lJYJp1hsBpNoeMT0QoVA4fno1NsZj0Efm8PizXuBqeziDlTk0S_IOd0FrBKDlIoH96D3crgz4GhsxGOJ5_p-9k5g3gsuhPhu6J_av0_CmmkbpQBTM9k-HWuvp0ww3MeDnQvHN2St/s1600/big-ip.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/new-critical-gitlab-vulnerability-could.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "GitLab has released security updates for Community Edition (CE) and Enterprise Edition (EE) to address eight security flaws, including a critical bug that could allow running Continuous Integration and Continuous Delivery (CI/CD) pipelines on arbitrary branches.\nTracked as CVE-2024-9164, the vulnerability carries a CVSS score of 9.6 out of 10.\n\n\"An issue was discovered in GitLab EE",
