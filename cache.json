@@ -2397,6 +2397,86 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0874/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Android. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0874/",
+          "publishedOn": "2024-10-11T11:58:42.000Z",
+          "wordCount": 450,
+          "title": "Multiples vulnérabilités dans Google Android (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0873/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0873/",
+          "publishedOn": "2024-10-11T11:58:23.000Z",
+          "wordCount": 489,
+          "title": "Multiples vulnérabilités dans les produits IBM (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0872/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0872/",
+          "publishedOn": "2024-10-11T11:58:07.000Z",
+          "wordCount": 952,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0871/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0871/",
+          "publishedOn": "2024-10-11T11:55:47.000Z",
+          "wordCount": 354,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0870/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0870/",
+          "publishedOn": "2024-10-11T11:55:34.000Z",
+          "wordCount": 1994,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0869/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Mozilla Thunderbird. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Mozilla indique que la vulnérabilité CVE-2024-9680 est activement exploitée.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0869/",
+          "publishedOn": "2024-10-11T11:52:17.000Z",
+          "wordCount": 328,
+          "title": "Vulnérabilité dans Mozilla Thunderbird (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0868/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0868/",
+          "publishedOn": "2024-10-11T11:36:49.000Z",
+          "wordCount": 340,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0867/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits SonicWall. Elles permettent à un attaquant de provoquer une élévation de privilèges, un contournement de la politique de sécurité et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0867/",
+          "publishedOn": "2024-10-11T08:58:51.000Z",
+          "wordCount": 354,
+          "title": "Multiples vulnérabilités dans les produits SonicWall (11 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0866/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
