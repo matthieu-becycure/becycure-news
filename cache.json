@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Dutch police have announced the takedown of Bohemia and Cannabia, which has been described as the world's largest and longest-running dark web market for illegal goods, drugs, and cybercrime services.\nThe takedown is the result of a collaborative investigation with Ireland, the United Kingdom, and the United States that began towards the end of 2022, the Politie said.\nThe marketplace",
+          "link": "https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html",
+          "publishedOn": "2024-10-11T06:01:00.000Z",
+          "wordCount": null,
+          "title": "Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTM3Jl-QuqLGEvNHDguZLH08Hov62keDVheIMZ2tjN8CsBz5hAfs8Aoysaa7OraqEXIttaej5cuZDdHeP3w2MDNElf48_qKNxHynXA7aE1IYMZpn1AQa0uvQ2_lqyg5Y-r1lWZyn9fqbWnHascTgXr2A6SEZ6iXLk_ef7QZyZSrcfNKpCLp3XHmMYFfbZY/s1600/arrested.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTM3Jl-QuqLGEvNHDguZLH08Hov62keDVheIMZ2tjN8CsBz5hAfs8Aoysaa7OraqEXIttaej5cuZDdHeP3w2MDNElf48_qKNxHynXA7aE1IYMZpn1AQa0uvQ2_lqyg5Y-r1lWZyn9fqbWnHascTgXr2A6SEZ6iXLk_ef7QZyZSrcfNKpCLp3XHmMYFfbZY/s1600/arrested.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "OpenAI on Wednesday said it has disrupted more than 20 operations and deceptive networks across the world that attempted to use its platform for malicious purposes since the start of the year.\nThis activity encompassed debugging malware, writing articles for websites, generating biographies for social media accounts, and creating AI-generated profile pictures for fake accounts on X.\n\"Threat",

@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-11T06:18:41.451Z</updated>
+    <updated>2024-10-11T06:40:42.420Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bohemia and Cannabia Dark Web Markets Taken Down After Joint Police Operation]]></title>
+        <id>https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html</id>
+        <link href="https://thehackernews.com/2024/10/bohemia-and-cannabia-dark-web-markets.html"/>
+        <updated>2024-10-11T06:01:00.000Z</updated>
+        <summary type="html"><![CDATA[The Dutch police have announced the takedown of Bohemia and Cannabia, which has been described as the world's largest and longest-running dark web market for illegal goods, drugs, and cybercrime services.
+The takedown is the result of a collaborative investigation with Ireland, the United Kingdom, and the United States that began towards the end of 2022, the Politie said.
+The marketplace]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI Blocks 20 Global Malicious Campaigns Using AI for Cybercrime and Disinformation]]></title>
         <id>https://thehackernews.com/2024/10/openai-blocks-20-global-malicious.html</id>
