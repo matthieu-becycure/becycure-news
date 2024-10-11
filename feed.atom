@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-11T17:43:42.443Z</updated>
+    <updated>2024-10-11T18:16:55.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html</id>
+        <link href="https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html"/>
+        <updated>2024-10-11T17:13:00.000Z</updated>
+        <summary type="html"><![CDATA[A new tax-themed malware campaign targeting insurance and finance sectors has been observed leveraging GitHub links in phishing email messages as a way to bypass security measures and deliver Remcos RAT, indicating that the method is gaining traction among threat actors.
+"In this campaign, legitimate repositories such as the open-source tax filing software, UsTaxes, HMRC, and InlandRevenue were]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans Google Android (11 octobre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0874/</id>
