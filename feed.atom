@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-11T11:27:13.066Z</updated>
+    <updated>2024-10-11T11:43:33.902Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Hybrid Password Attacks Work and How to Defend Against Them]]></title>
+        <id>https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html</id>
+        <link href="https://thehackernews.com/2024/10/how-hybrid-password-attacks-work-and.html"/>
+        <updated>2024-10-11T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors constantly change tactics to bypass cybersecurity measures, developing innovative methods to steal user credentials. Hybrid password attacks merge multiple cracking techniques to amplify their effectiveness. These combined approaches exploit the strengths of various methods, accelerating the password-cracking process. 
+In this post, we’ll explore hybrid attacks — what they are]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Warns of Threat Actors Exploiting F5 BIG-IP Cookies for Network Reconnaissance]]></title>
         <id>https://thehackernews.com/2024/10/cisa-warns-of-threat-actors-exploiting.html</id>
