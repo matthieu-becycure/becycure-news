@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-12T22:43:29.772Z</updated>
+    <updated>2024-10-12T23:11:49.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2643,17 +2643,6 @@ However, most tools available on the market today cannot offer a complete defens
         <updated>2024-09-13T11:17:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials.
 "The mechanisms include using malformed ZIP files in combination with JSONPacker," Cleafy security researchers Michele Roviello and Alessandro Strino said. "In addition,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Progress WhatsUp Gold Exploited Just Hours After PoC Release for Critical Flaw]]></title>
-        <id>https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html</id>
-        <link href="https://thehackernews.com/2024/09/progress-whatsup-gold-exploited-just.html"/>
-        <updated>2024-09-13T11:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Malicious actors are likely leveraging publicly available proof-of-concept (PoC) exploits for recently disclosed security flaws in Progress Software WhatsUp Gold to conduct opportunistic attacks.
-The activity is said to have commenced on August 30, 2024, a mere five hours after a PoC was released for CVE-2024-6670 (CVSS score: 9.8) by security researcher Sina Kheirkhah of the Summoning Team, who]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
