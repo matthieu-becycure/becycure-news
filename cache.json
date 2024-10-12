@@ -3323,26 +3323,6 @@
           "wordCount": 766,
           "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Spring Framework. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0776/",
-          "publishedOn": "2024-09-13T07:35:00.000Z",
-          "wordCount": 322,
-          "title": "Vulnérabilité dans Spring Framework (13 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0775/",
-          "publishedOn": "2024-09-13T07:33:05.000Z",
-          "wordCount": 390,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (13 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
