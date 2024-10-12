@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-12T04:46:09.383Z</updated>
+    <updated>2024-10-12T05:12:33.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation]]></title>
+        <id>https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html</id>
+        <link href="https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html"/>
+        <updated>2024-10-12T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Department of Justice (DoJ) has announced arrests and charges against several individuals and entities in connection with allegedly manipulating digital asset markets as part of a widespread fraud operation.
+The law enforcement action – codenamed Operation Token Mirrors – is the result of the U.S. Federal Bureau of Investigation (FBI) taking the "unprecedented step" of creating its own]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub, Telegram Bots, and QR Codes Abused in New Wave of Phishing Attacks]]></title>
         <id>https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html</id>

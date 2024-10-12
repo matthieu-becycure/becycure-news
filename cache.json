@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Department of Justice (DoJ) has announced arrests and charges against several individuals and entities in connection with allegedly manipulating digital asset markets as part of a widespread fraud operation.\nThe law enforcement action – codenamed Operation Token Mirrors – is the result of the U.S. Federal Bureau of Investigation (FBI) taking the \"unprecedented step\" of creating its own",
+          "link": "https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html",
+          "publishedOn": "2024-10-12T05:06:00.000Z",
+          "wordCount": null,
+          "title": "FBI Creates Fake Cryptocurrency to Expose Widespread Crypto Market Manipulation",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU07tZpoxX9YI2C5GrEE_0lcNA8yjYYJ27zKSIef6B0aBOrRlEFYctRffqql7Hevx8XAjxUAXKZ4374lPflrfuh-f2s-Wavt_nqO1H6FSEerbEEGYqbzEk_uDi-Er5n5bQ16cTdYhj3wlo0b0RAr4neg075uOfO2kyIYjLaOwMnM3c9_MbjEVbK1BxoXT2/s1600/nextfundai.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU07tZpoxX9YI2C5GrEE_0lcNA8yjYYJ27zKSIef6B0aBOrRlEFYctRffqql7Hevx8XAjxUAXKZ4374lPflrfuh-f2s-Wavt_nqO1H6FSEerbEEGYqbzEk_uDi-Er5n5bQ16cTdYhj3wlo0b0RAr4neg075uOfO2kyIYjLaOwMnM3c9_MbjEVbK1BxoXT2/s1600/nextfundai.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/github-telegram-bots-and-qr-codes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A new tax-themed malware campaign targeting insurance and finance sectors has been observed leveraging GitHub links in phishing email messages as a way to bypass security measures and deliver Remcos RAT, indicating that the method is gaining traction among threat actors.\n\"In this campaign, legitimate repositories such as the open-source tax filing software, UsTaxes, HMRC, and InlandRevenue were",
