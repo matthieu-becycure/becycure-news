@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-12T03:44:08.359Z</updated>
+    <updated>2024-10-12T04:15:16.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2675,29 +2675,6 @@ The activity is said to have commenced on August 30, 2024, a mere five hours aft
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a new malware campaign targeting Linux environments to conduct illicit cryptocurrency mining.
 The activity, which specifically singles out the Oracle Weblogic server, is designed to deliver malware dubbed Hadooken, according to cloud security firm Aqua.
 "When Hadooken is executed, it drops a Tsunami malware and deploys a crypto miner," security researcher]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Android Malware 'Ajina.Banker' Steals Financial Data and Bypasses 2FA via Telegram]]></title>
-        <id>https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html</id>
-        <link href="https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html"/>
-        <updated>2024-09-12T16:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Bank customers in the Central Asia region have been targeted by a new strain of Android malware codenamed Ajina.Banker since at least November 2024 with the goal of harvesting financial information and intercepting two-factor authentication (2FA) messages.
-Singapore-headquartered Group-IB, which discovered the threat in May 2024, said the malware is propagated via a network of Telegram channels]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urgent: GitLab Patches Critical Flaw Allowing Unauthorized Pipeline Job Execution]]></title>
-        <id>https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html</id>
-        <link href="https://thehackernews.com/2024/09/urgent-gitlab-patches-critical-flaw.html"/>
-        <updated>2024-09-12T15:55:00.000Z</updated>
-        <summary type="html"><![CDATA[GitLab on Wednesday released security updates to address 17 security vulnerabilities, including a critical flaw that allows an attacker to run pipeline jobs as an arbitrary user.
-The issue, tracked as CVE-2024-6678, carries a CVSS score of 9.9 out of a maximum of 10.0
-"An issue was discovered in GitLab CE/EE affecting all versions starting from 8.14 prior to 17.1.7, starting from 17.2 prior to]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
