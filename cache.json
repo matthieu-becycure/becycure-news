@@ -2228,38 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk6fS5fXGhwym8qKIdBzz5ExXqAkrmgeJcBanIQA7BPOiE0yB9n5n-AU8aZI7MMiJHg8Y8odfZtugZWRrUqaFHUQ9UVpAP1mLx_oPkRoic0__PvhyUnO9tcarIS9NuzlFDDSljpTrUyO-Q-zTIOnTYL5vyrmZUaYsg0448NyF6MU-Wk_xhD8rhRpMGlwCH/s1600/teen-hacker.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk6fS5fXGhwym8qKIdBzz5ExXqAkrmgeJcBanIQA7BPOiE0yB9n5n-AU8aZI7MMiJHg8Y8odfZtugZWRrUqaFHUQ9UVpAP1mLx_oPkRoic0__PvhyUnO9tcarIS9NuzlFDDSljpTrUyO-Q-zTIOnTYL5vyrmZUaYsg0448NyF6MU-Wk_xhD8rhRpMGlwCH/s1600/teen-hacker.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Even as cyber threats become increasingly sophisticated, the number one attack vector for unauthorized access remains phished credentials (Verizon DBIR, 2024). Solving this problem resolves over 80% of your corporate risk, and a solution is possible. \nHowever, most tools available on the market today cannot offer a complete defense against this attack vector because they were architected to",
-          "link": "https://thehackernews.com/2024/09/say-goodbye-to-phishing-must-haves-to.html",
-          "publishedOn": "2024-09-13T11:17:00.000Z",
-          "wordCount": null,
-          "title": "Say Goodbye to Phishing: Must-Haves to Eliminate Credential Theft",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s1600/beyond.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfORuQRFB6XGYHoWHeN6WTEhSCvqDfMCyZEDO_9YvhgAdkkdeppKvSxormFRNNlTGinVoVLEWTUKzHTvtKbAk_10fweWDCe_U99GJi0JvgbWPRVqpYsSsezdmNJ9Pq5ZW78sNKUTRmgYHSGBjHjTQsm6mBxGjKcSyWaQzQUhOlsQDCc4OcfenwuYaopg/s1600/beyond.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have uncovered a new variant of an Android banking trojan called TrickMo that comes packed with new capabilities to evade analysis and display fake login screens to capture victims' banking credentials.\n\"The mechanisms include using malformed ZIP files in combination with JSONPacker,\" Cleafy security researchers Michele Roviello and Alessandro Strino said. \"In addition,",
-          "link": "https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html",
-          "publishedOn": "2024-09-13T11:17:00.000Z",
-          "wordCount": null,
-          "title": "TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s1600/android.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvj1Auxq7SQfnJfKi4X3kQ5o6mwNHIwdsnJVhqy7PVf_Gn2bl1gobwn4Do-6P_t162RxlP8w2SQBsbIw0qzQVtaDySbiXDeiIUMMBvDgz6965Dgft7bfY9jqLSR-CXfCJVHvNWzJqjqLSXp50bDXYa8Au_gFM6kFRB5TApYGfWkGAuQy6Vv-oj1-vWnSmx/s1600/android.png"
         }
       ]
     },
@@ -3296,16 +3264,6 @@
           "publishedOn": "2024-09-13T11:30:25.000Z",
           "wordCount": 1886,
           "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (13 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0777/",
-          "publishedOn": "2024-09-13T11:27:14.000Z",
-          "wordCount": 766,
-          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (13 septembre 2024)",
           "imageUrl": null
         }
       ]
