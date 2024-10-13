@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Iranian threat actor known as OilRig has been observed exploiting a now-patched privilege escalation flaw impacting the Windows Kernel as part of a cyber espionage campaign targeting the U.A.E. and the broader Gulf region.\n\"The group utilizes sophisticated tactics that include deploying a backdoor that leverages Microsoft Exchange servers for credentials theft, and exploiting vulnerabilities",
+          "link": "https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html",
+          "publishedOn": "2024-10-13T09:40:00.000Z",
+          "wordCount": null,
+          "title": "OilRig Exploits Windows Kernel Flaw in Espionage Campaign Targeting UAE and Gulf",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgskpQ2Z8QGDdL0reiqx7Mk0MpbEZJbyHowAj4p9FztvjX9Q6T2_6yhX3T4Q178QxJlC4XxCRttFPhfg-nzEq7W0LDVPq64YqEHN0BGyXiZZqCOb-HMLukDW5ivzQeHO13YTHE0AYMb2gcW25muR5XC0rKs4p1KFg4mnQ22vYOHn0D3SzBvytjWt0ycRKc7/s1600/cyberattac.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgskpQ2Z8QGDdL0reiqx7Mk0MpbEZJbyHowAj4p9FztvjX9Q6T2_6yhX3T4Q178QxJlC4XxCRttFPhfg-nzEq7W0LDVPq64YqEHN0BGyXiZZqCOb-HMLukDW5ivzQeHO13YTHE0AYMb2gcW25muR5XC0rKs4p1KFg4mnQ22vYOHn0D3SzBvytjWt0ycRKc7/s1600/cyberattac.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/fbi-creates-fake-cryptocurrency-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The U.S. Department of Justice (DoJ) has announced arrests and charges against several individuals and entities in connection with allegedly manipulating digital asset markets as part of a widespread fraud operation.\nThe law enforcement action – codenamed Operation Token Mirrors – is the result of the U.S. Federal Bureau of Investigation (FBI) taking the \"unprecedented step\" of creating its own",
