@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-14T08:50:35.180Z</updated>
+    <updated>2024-10-14T09:14:30.955Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Veeam Vulnerability Exploited to Spread Akira and Fog Ransomware]]></title>
+        <id>https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html</id>
+        <link href="https://thehackernews.com/2024/10/critical-veeam-vulnerability-exploited.html"/>
+        <updated>2024-10-14T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are actively attempting to exploit a now-patched security flaw in Veeam Backup & Replication to deploy Akira and Fog ransomware.
+Cybersecurity vendor Sophos said it has been tracking a series of attacks in the past month leveraging compromised VPN credentials and CVE-2024-40711 to create a local account and deploy the ransomware.
+CVE-2024-40711, rated 9.8 out of 10.0 on the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OilRig Exploits Windows Kernel Flaw in Espionage Campaign Targeting UAE and Gulf]]></title>
         <id>https://thehackernews.com/2024/10/oilrig-exploits-windows-kernel-flaw-in.html</id>
