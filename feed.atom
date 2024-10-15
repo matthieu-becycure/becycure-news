@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-15T08:38:39.080Z</updated>
+    <updated>2024-10-15T08:50:38.792Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China Accuses U.S. of Fabricating Volt Typhoon to Hide Its Own Hacking Campaigns]]></title>
+        <id>https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html</id>
+        <link href="https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html"/>
+        <updated>2024-10-15T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[China's National Computer Virus Emergency Response Center (CVERC) has doubled down on claims that the threat actor known as the Volt Typhoon is a fabrication of the U.S. and its allies.
+The agency, in collaboration with the National Engineering Laboratory for Computer Virus Prevention Technology, went on to accuse the U.S. federal government, intelligence agencies, and Five Eyes countries of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Hijack Loader Malware Using Stolen Code-Signing Certificates]]></title>
         <id>https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html</id>

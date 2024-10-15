@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "China's National Computer Virus Emergency Response Center (CVERC) has doubled down on claims that the threat actor known as the Volt Typhoon is a fabrication of the U.S. and its allies.\nThe agency, in collaboration with the National Engineering Laboratory for Computer Virus Prevention Technology, went on to accuse the U.S. federal government, intelligence agencies, and Five Eyes countries of",
+          "link": "https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html",
+          "publishedOn": "2024-10-15T08:03:00.000Z",
+          "wordCount": null,
+          "title": "China Accuses U.S. of Fabricating Volt Typhoon to Hide Its Own Hacking Campaigns",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiasqA856sUORlKVxn0VD5oEydRgnN-r58fkRV9rbC33IP4ZFHlA4LKtwsnNszgy8ivE-7gjulgzcyz0iRcjCODZL67kBGH2NaVpFkKxQpaw0BV2cpziWwsGO1TfcjaIZcaWrNpiPrxux4MiEgvMHukCTZ7soA798lsFaqSQHL9LrtEu3fkOFmKJGd7nYQ/s1600/china-us.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiasqA856sUORlKVxn0VD5oEydRgnN-r58fkRV9rbC33IP4ZFHlA4LKtwsnNszgy8ivE-7gjulgzcyz0iRcjCODZL67kBGH2NaVpFkKxQpaw0BV2cpziWwsGO1TfcjaIZcaWrNpiPrxux4MiEgvMHukCTZ7soA798lsFaqSQHL9LrtEu3fkOFmKJGd7nYQ/s1600/china-us.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have disclosed a new malware campaign that delivers Hijack Loader artifacts that are signed with legitimate code-signing certificates.\nFrench cybersecurity company HarfangLab, which detected the activity at the start of the month, said the attack chains aim to deploy an information stealer known as Lumma.\nHijack Loader, also known as DOILoader, IDAT Loader, and",
