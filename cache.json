@@ -2349,6 +2349,26 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0878/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0878/",
+          "publishedOn": "2024-10-15T05:28:29.000Z",
+          "wordCount": 846,
+          "title": "Multiples vulnérabilités dans les produits Splunk (15 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0877/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Mozilla Firefox. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0877/",
+          "publishedOn": "2024-10-15T05:16:57.000Z",
+          "wordCount": 307,
+          "title": "Vulnérabilité dans Mozilla Firefox (15 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0876/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Moodle. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
