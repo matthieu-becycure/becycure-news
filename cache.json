@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a new malware campaign that delivers Hijack Loader artifacts that are signed with legitimate code-signing certificates.\nFrench cybersecurity company HarfangLab, which detected the activity at the start of the month, said the attack chains aim to deploy an information stealer known as Lumma.\nHijack Loader, also known as DOILoader, IDAT Loader, and",
+          "link": "https://thehackernews.com/2024/10/researchers-uncover-hijack-loader.html",
+          "publishedOn": "2024-10-15T06:43:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Hijack Loader Malware Using Stolen Code-Signing Certificates",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTur4bRauJ4a4sfZVF_Mo4nxNvU7fxX7JXumILIQlGz1uawoihePf9IXd8btZzz4vkdcAJVR_ae2GVeUjQ4SC8YbhlF0G7qiqqhYb_H4QM7SMhhsGZMhVPIrJodY6QUPHb1eBU7hT90oC7UqqOvDp1qNHVUeTPER2FjjsUPyenbO7OF2Gl5DodgzBDh6W/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTur4bRauJ4a4sfZVF_Mo4nxNvU7fxX7JXumILIQlGz1uawoihePf9IXd8btZzz4vkdcAJVR_ae2GVeUjQ4SC8YbhlF0G7qiqqhYb_H4QM7SMhhsGZMhVPIrJodY6QUPHb1eBU7hT90oC7UqqOvDp1qNHVUeTPER2FjjsUPyenbO7OF2Gl5DodgzBDh6W/s1600/malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/wordpress-plugin-jetpack-patches-major.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The maintainers of the Jetpack WordPress plugin have released a security update to remediate a critical vulnerability that could allow logged-in users to access forms submitted by others on a site.\nJetpack, owned by WordPress maker Automattic, is an all-in-one plugin that offers a comprehensive suite of tools to improve site safety, performance, and traffic growth. It's used on 27 million",
