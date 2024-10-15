@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-15T19:11:23.356Z</updated>
+    <updated>2024-10-15T19:26:28.900Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2721,18 +2721,6 @@ Traditional incident response plans are like old maps in a new world. They]]></s
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple Drops Spyware Case Against NSO Group, Citing Risk of Threat Intelligence Exposure]]></title>
-        <id>https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html</id>
-        <link href="https://thehackernews.com/2024/09/apple-drops-spyware-case-against-nso.html"/>
-        <updated>2024-09-16T07:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple has filed a motion to "voluntarily" dismiss its lawsuit against commercial spyware vendor NSO Group, citing a shifting risk landscape that could lead to exposure of critical "threat intelligence" information.
-The development was first reported by The Washington Post on Friday.
-The iPhone maker said its efforts, coupled with those of others in the industry and national governments to tackle]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
