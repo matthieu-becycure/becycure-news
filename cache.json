@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In recent years, the number and sophistication of zero-day vulnerabilities have surged, posing a critical threat to organizations of all sizes. A zero-day vulnerability is a security flaw in software that is unknown to the vendor and remains unpatched at the time of discovery. Attackers exploit these flaws before any defensive measures can be implemented, making zero-days a potent weapon for",
+          "link": "https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html",
+          "publishedOn": "2024-10-15T11:00:00.000Z",
+          "wordCount": null,
+          "title": "The Rise of Zero-Day Vulnerabilities: Why Traditional Security Solutions Fall Short",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3mzAQ9nON_exI1ACR3GT4rBVD9iwpXze8o0Way8-s37y5b17pGGb0BsgCAdTN4XYCMLaGE266LJV_9gWtTI6ivtm3s2h3myoXSbT_adcPcn_zdlWwvUnXD6CRdvXB6QQVnoXvrJJniyU7EUp2Esu7Zz0LWev6qxfeAdyVIe14OwW8nGD2Y6jtg_GZQfc/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3mzAQ9nON_exI1ACR3GT4rBVD9iwpXze8o0Way8-s37y5b17pGGb0BsgCAdTN4XYCMLaGE266LJV_9gWtTI6ivtm3s2h3myoXSbT_adcPcn_zdlWwvUnXD6CRdvXB6QQVnoXvrJJniyU7EUp2Esu7Zz0LWev6qxfeAdyVIe14OwW8nGD2Y6jtg_GZQfc/s1600/main.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/china-accuses-us-of-fabricating-volt.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "China's National Computer Virus Emergency Response Center (CVERC) has doubled down on claims that the threat actor known as the Volt Typhoon is a fabrication of the U.S. and its allies.\nThe agency, in collaboration with the National Engineering Laboratory for Computer Virus Prevention Technology, went on to accuse the U.S. federal government, intelligence agencies, and Five Eyes countries of",
