@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-15T20:43:46.828Z</updated>
+    <updated>2024-10-15T21:12:26.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2691,36 +2691,6 @@ Traditional incident response plans are like old maps in a new world. They]]></s
         <summary type="html"><![CDATA[The PCI DSS landscape is evolving rapidly. With the Q1 2025 deadline looming ever larger, businesses are scrambling to meet the stringent new requirements of PCI DSS v4.0. Two sections in particular, 6.4.3 and 11.6.1, are troublesome as they demand that organizations rigorously monitor and manage payment page scripts and use a robust change detection mechanism. With the deadline fast approaching]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans MISP (16 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0783/"/>
-        <updated>2024-09-16T08:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans MISP. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans SolarWinds Access Rights Manager (16 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0782/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0782/"/>
-        <updated>2024-09-16T08:45:29.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans SolarWinds Access Rights Manager. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits Juniper Networks (16 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0781/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0781/"/>
-        <updated>2024-09-16T08:45:04.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Juniper Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>
