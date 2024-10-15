@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-15T15:44:02.038Z</updated>
+    <updated>2024-10-15T16:16:01.705Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT]]></title>
+        <id>https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html</id>
+        <link href="https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html"/>
+        <updated>2024-10-15T15:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a new malware campaign that leverages a malware loader named PureCrypter to deliver a commodity remote access trojan (RAT) called DarkVision RAT.
+The activity, observed by Zscaler ThreatLabz in July 2024, involves a multi-stage process to deliver the RAT payload.
+"DarkVision RAT communicates with its command-and-control (C2) server using a custom network]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists]]></title>
+        <id>https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html</id>
+        <link href="https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html"/>
+        <updated>2024-10-15T14:43:00.000Z</updated>
+        <summary type="html"><![CDATA[North Korean threat actors have been observed using a Linux variant of a known malware family called FASTCash to steal funds as part of a financially-motivated campaign.
+The malware is "installed on payment switches within compromised networks that handle card transactions for the means of facilitating the unauthorized withdrawal of cash from ATMs," a security researcher who goes by HaxRob said.]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Rise of Zero-Day Vulnerabilities: Why Traditional Security Solutions Fall Short]]></title>
         <id>https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html</id>

@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a new malware campaign that leverages a malware loader named PureCrypter to deliver a commodity remote access trojan (RAT) called DarkVision RAT.\nThe activity, observed by Zscaler ThreatLabz in July 2024, involves a multi-stage process to deliver the RAT payload.\n\"DarkVision RAT communicates with its command-and-control (C2) server using a custom network",
+          "link": "https://thehackernews.com/2024/10/new-malware-campaign-uses-purecrypter.html",
+          "publishedOn": "2024-10-15T15:20:00.000Z",
+          "wordCount": null,
+          "title": "New Malware Campaign Uses PureCrypter Loader to Deliver DarkVision RAT",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnurAlx-W1WbrhsGTfkR-5f9RFQvDm0l_jYjz5-xRZJXSAXSfCWFdi0Q0eOIFkcpJq1PADs1tSmZPrMxWzW79vWOXydhPD-DHCnPgyI25hGaGRUssZ8ymO7MuIHEVixmIWkh0bc9kmt5A2lExSpuTvH3rxPIdLdVNbc7CVlMCn2YGqbys9pBc95bGwtvuT/s1600/malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnurAlx-W1WbrhsGTfkR-5f9RFQvDm0l_jYjz5-xRZJXSAXSfCWFdi0Q0eOIFkcpJq1PADs1tSmZPrMxWzW79vWOXydhPD-DHCnPgyI25hGaGRUssZ8ymO7MuIHEVixmIWkh0bc9kmt5A2lExSpuTvH3rxPIdLdVNbc7CVlMCn2YGqbys9pBc95bGwtvuT/s1600/malware.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "North Korean threat actors have been observed using a Linux variant of a known malware family called FASTCash to steal funds as part of a financially-motivated campaign.\nThe malware is \"installed on payment switches within compromised networks that handle card transactions for the means of facilitating the unauthorized withdrawal of cash from ATMs,\" a security researcher who goes by HaxRob said.",
+          "link": "https://thehackernews.com/2024/10/new-linux-variant-of-fastcash-malware.html",
+          "publishedOn": "2024-10-15T14:43:00.000Z",
+          "wordCount": null,
+          "title": "New Linux Variant of FASTCash Malware Targets Payment Switches in ATM Heists",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEzGR2RPoOGclyL7MRzFDuPc-EWFmETckVdUHB6e53m_2MVDHy5YuLjG1jyl8GLj6mHsU1mLp5ZbYWFsOXbE5-QR0m-jbo6fN_BljPTGVg4VpJm2-m-rtxqcKJpsB3cTOBJxn7uxxLN_wAHhawuVyAVEww__XxDi__nFM7bZW9rEt-ukGU5eI4wBGGTfrF/s1600/linux-malware.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEzGR2RPoOGclyL7MRzFDuPc-EWFmETckVdUHB6e53m_2MVDHy5YuLjG1jyl8GLj6mHsU1mLp5ZbYWFsOXbE5-QR0m-jbo6fN_BljPTGVg4VpJm2-m-rtxqcKJpsB3cTOBJxn7uxxLN_wAHhawuVyAVEww__XxDi__nFM7bZW9rEt-ukGU5eI4wBGGTfrF/s1600/linux-malware.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/rise-of-zero-day-vulnerabilities.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In recent years, the number and sophistication of zero-day vulnerabilities have surged, posing a critical threat to organizations of all sizes. A zero-day vulnerability is a security flaw in software that is unknown to the vendor and remains unpatched at the time of discovery. Attackers exploit these flaws before any defensive measures can be implemented, making zero-days a potent weapon for",
