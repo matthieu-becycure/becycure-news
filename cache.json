@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieQKlRNudQzTkdKrKlcsv1Jnnf0Q1d2IxrWjkF9aWWA50I4gFM1rKwDk5jrnhYnP5dPoZmagCUGl015_cjhHnHc3AweRakgMtRvsbbscGklTQqetPzk0vc998ys8Oe7Kk6DrXTXTFcgx2Ti4HkOYzRJ-07ZK-a6L1RRFdlgdBQ0PIGzz1tA5gef_DMAlU8/s1600/iphone.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieQKlRNudQzTkdKrKlcsv1Jnnf0Q1d2IxrWjkF9aWWA50I4gFM1rKwDk5jrnhYnP5dPoZmagCUGl015_cjhHnHc3AweRakgMtRvsbbscGklTQqetPzk0vc998ys8Oe7Kk6DrXTXTFcgx2Ti4HkOYzRJ-07ZK-a6L1RRFdlgdBQ0PIGzz1tA5gef_DMAlU8/s1600/iphone.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/cybercriminals-exploit-http-headers-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have warned of ongoing phishing campaigns that abuse refresh entries in HTTP headers to deliver spoofed email login pages that are designed to harvest users' credentials.\n\"Unlike other phishing webpage distribution behavior through HTML content, these attacks use the response header sent by a server, which occurs before the processing of the HTML content,\" Palo Alto",
-          "link": "https://thehackernews.com/2024/09/cybercriminals-exploit-http-headers-for.html",
-          "publishedOn": "2024-09-16T04:23:00.000Z",
-          "wordCount": null,
-          "title": "Cybercriminals Exploit HTTP Headers for Credential Theft via Large-Scale Phishing Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4TKI76BfnQiObHlL3P4fWKz9GfMZnwXzj5IQHSKMTQi2YqtE5pLdJVua91ivG5Csozelm2KHCDdpUDJOC-hBlRVnBNZNA7-I2Y4NZBUDquawCk2F9XR1D-5bMxJlpwNCGOTe9fyUpVCgbCZHJtOwBrzMb-sADH9mmfuPXzE33EkYhlWdQkQQubJK9vJcy/s1600/email.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4TKI76BfnQiObHlL3P4fWKz9GfMZnwXzj5IQHSKMTQi2YqtE5pLdJVua91ivG5Csozelm2KHCDdpUDJOC-hBlRVnBNZNA7-I2Y4NZBUDquawCk2F9XR1D-5bMxJlpwNCGOTe9fyUpVCgbCZHJtOwBrzMb-sADH9mmfuPXzE33EkYhlWdQkQQubJK9vJcy/s1600/email.png"
         }
       ]
     },
