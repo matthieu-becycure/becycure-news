@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T16:14:43.732Z</updated>
+    <updated>2024-10-16T16:38:22.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity]]></title>
+        <id>https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html</id>
+        <link href="https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html"/>
+        <updated>2024-10-16T16:21:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are attempting to abuse the open-source EDRSilencer tool as part of efforts to tamper endpoint detection and response (EDR) solutions and hide malicious activity.
+Trend Micro said it detected "threat actors attempting to integrate EDRSilencer in their attacks, repurposing it as a means of evading detection."
+EDRSilencer, inspired by the NightHawk FireBlock tool from MDSec, is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms]]></title>
         <id>https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html</id>
@@ -2844,18 +2856,6 @@ The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been describ
         <updated>2024-09-17T07:18:00.000Z</updated>
         <summary type="html"><![CDATA[Cryptocurrency exchange Binance is warning of an "ongoing" global threat that's targeting cryptocurrency users with clipper malware with the goal of facilitating financial fraud.
 Clipper malware, also called ClipBankers, is a type of malware that Microsoft calls cryware, which comes with capabilities to monitor a victim's clipboard activity and steal sensitive data a user copies, including]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks]]></title>
-        <id>https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html</id>
-        <link href="https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html"/>
-        <updated>2024-09-17T04:34:00.000Z</updated>
-        <summary type="html"><![CDATA[SolarWinds has released fixes to address two security flaws in its Access Rights Manager (ARM) software, including a critical vulnerability that could result in remote code execution.
-The vulnerability, tracked as CVE-2024-28991, is rated 9.0 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an instance of deserialization of untrusted data. 
-"SolarWinds Access Rights]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

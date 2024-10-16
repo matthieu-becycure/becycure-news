@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors are attempting to abuse the open-source EDRSilencer tool as part of efforts to tamper endpoint detection and response (EDR) solutions and hide malicious activity.\nTrend Micro said it detected \"threat actors attempting to integrate EDRSilencer in their attacks, repurposing it as a means of evading detection.\"\nEDRSilencer, inspired by the NightHawk FireBlock tool from MDSec, is",
+          "link": "https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html",
+          "publishedOn": "2024-10-16T16:21:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYrop3Mz0QHVWdMYs0_HHvtf9HHKWYjXEmi0R1PxTxlKYT59cV2kO4hbPuLha7Sij993kI84aCOHKhjokeVS9StwxXsLXGxJ0T9UoafkQmdjnz-MI8nLhf1Wyr20HPS2ij7tQMbEg-bReXGQR3B6rE6XXha6oQEaivEvVE-ST7cJSkd-NOWFRCu_1FNHV/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLYrop3Mz0QHVWdMYs0_HHvtf9HHKWYjXEmi0R1PxTxlKYT59cV2kO4hbPuLha7Sij993kI84aCOHKhjokeVS9StwxXsLXGxJ0T9UoafkQmdjnz-MI8nLhf1Wyr20HPS2ij7tQMbEg-bReXGQR3B6rE6XXha6oQEaivEvVE-ST7cJSkd-NOWFRCu_1FNHV/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The FIDO Alliance said it's working to make passkeys and other credentials more easier to export across different providers and improve credential provider interoperability, as more than 12 billion online accounts become accessible with the passwordless sign-in method.\nTo that end, the alliance said it has published a draft for a new set of specifications for secure credential exchange,",
@@ -2388,22 +2404,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTGOsN7JQV461GH89gqnmJZStk0ZpPYrQX6NEtdE9bvrc5VyLsxNTeA6D5qaHzybqd4ijrDjlUisdv01yQUmnvsCXZlmMBnD-AwNV77WT3KbWQkOS79JLnMLCXrmtGkgmksiAp3pFeckVwrskf9YetFRPuS5Bbdu2J_5ARZ27q1nbMIgMHZgwhJnsp-ZqO/s1600/bitcoin.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTGOsN7JQV461GH89gqnmJZStk0ZpPYrQX6NEtdE9bvrc5VyLsxNTeA6D5qaHzybqd4ijrDjlUisdv01yQUmnvsCXZlmMBnD-AwNV77WT3KbWQkOS79JLnMLCXrmtGkgmksiAp3pFeckVwrskf9YetFRPuS5Bbdu2J_5ARZ27q1nbMIgMHZgwhJnsp-ZqO/s1600/bitcoin.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "SolarWinds has released fixes to address two security flaws in its Access Rights Manager (ARM) software, including a critical vulnerability that could result in remote code execution.\nThe vulnerability, tracked as CVE-2024-28991, is rated 9.0 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an instance of deserialization of untrusted data. \n\"SolarWinds Access Rights",
-          "link": "https://thehackernews.com/2024/09/solarwinds-issues-patch-for-critical.html",
-          "publishedOn": "2024-09-17T04:34:00.000Z",
-          "wordCount": null,
-          "title": "SolarWinds Issues Patch for Critical ARM Vulnerability Enabling RCE Attacks",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHud_Vtkl2QnIs5jTOatvm-n4z13vtPq6N3PvUqZCn30R06AkamFLJHEN85Lo-fM-sjLKC3VVATnPfdEXrvwS78iXxrDRjnRg6mELFsclnir-iPVCDc6o7C8HnZkYhj9ARrmCx4mM4uoKEuusAMKuDSGv_81LHEF9J5Mpt5Bd_JfleMPMeS323sG7KWMEa/s1600/solarwinds.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHud_Vtkl2QnIs5jTOatvm-n4z13vtPq6N3PvUqZCn30R06AkamFLJHEN85Lo-fM-sjLKC3VVATnPfdEXrvwS78iXxrDRjnRg6mELFsclnir-iPVCDc6o7C8HnZkYhj9ARrmCx4mM4uoKEuusAMKuDSGv_81LHEF9J5Mpt5Bd_JfleMPMeS323sG7KWMEa/s1600/solarwinds.png"
         }
       ]
     },
