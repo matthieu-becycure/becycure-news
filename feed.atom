@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T05:33:03.092Z</updated>
+    <updated>2024-10-16T05:43:55.506Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access]]></title>
+        <id>https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html</id>
+        <link href="https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html"/>
+        <updated>2024-10-16T05:06:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub has released security updates for Enterprise Server (GHES) to address multiple issues, including a critical bug that could allow unauthorized access to an instance.
+The vulnerability, tracked as CVE-2024-9487, carries a CVS score of 9.5 out of a maximum of 10.0
+"An attacker could bypass SAML single sign-on (SSO) authentication with the optional encrypted assertions feature, allowing]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html</id>
+        <link href="https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html"/>
+        <updated>2024-10-16T04:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+Tracked as CVE-2024-28987 (CVSS score: 9.1), the vulnerability relates to a case of hard-coded credentials that could be abused to gain]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TrickMo Banking Trojan Can Now Capture Android PINs and Unlock Patterns]]></title>
         <id>https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html</id>

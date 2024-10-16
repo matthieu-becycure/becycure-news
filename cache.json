@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "GitHub has released security updates for Enterprise Server (GHES) to address multiple issues, including a critical bug that could allow unauthorized access to an instance.\nThe vulnerability, tracked as CVE-2024-9487, carries a CVS score of 9.5 out of a maximum of 10.0\n\"An attacker could bypass SAML single sign-on (SSO) authentication with the optional encrypted assertions feature, allowing",
+          "link": "https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html",
+          "publishedOn": "2024-10-16T05:06:00.000Z",
+          "wordCount": null,
+          "title": "GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO4E-cqezCI79n7lQJVudzuTFuuUVJUX_at66iKQBhm3qef1iPirSBFJOfZnI44dUXxRV2_ADl44RUI0m2SNu-1mb2ajtVd-5YKxHfpnOXA7NOBKuPJRBbvmLSkY9cQUr1LjiE5KqPpsJ3l_ByjRf4fPUIQKYtD0tzVA9zqnCHJSnEQ5CLRM7dJ1H2JrBC/s1600/github.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO4E-cqezCI79n7lQJVudzuTFuuUVJUX_at66iKQBhm3qef1iPirSBFJOfZnI44dUXxRV2_ADl44RUI0m2SNu-1mb2ajtVd-5YKxHfpnOXA7NOBKuPJRBbvmLSkY9cQUr1LjiE5KqPpsJ3l_ByjRf4fPUIQKYtD0tzVA9zqnCHJSnEQ5CLRM7dJ1H2JrBC/s1600/github.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting SolarWinds Web Help Desk (WHD) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\nTracked as CVE-2024-28987 (CVSS score: 9.1), the vulnerability relates to a case of hard-coded credentials that could be abused to gain",
+          "link": "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-in.html",
+          "publishedOn": "2024-10-16T04:54:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Active Exploitation in SolarWinds Help Desk Software Vulnerability",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW2Sj8C06k2uFPW2TiXsb1qCKBKEo4NRIJLep3s6hzxKlqijzb3K09wHUJGyQipGJEDDiWuRXUiHEIz7I0jEOyxpyCcSHey32LxHyTOWJvXja2akOEuJl6Hrpbq00ZJQ__QijyfqS9VvuZHVaT1h17IBi5KvxRtxelgdsRc6wsoTSbneU13yznk3iAAhmY/s1600/cisa.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW2Sj8C06k2uFPW2TiXsb1qCKBKEo4NRIJLep3s6hzxKlqijzb3K09wHUJGyQipGJEDDiWuRXUiHEIz7I0jEOyxpyCcSHey32LxHyTOWJvXja2akOEuJl6Hrpbq00ZJQ__QijyfqS9VvuZHVaT1h17IBi5KvxRtxelgdsRc6wsoTSbneU13yznk3iAAhmY/s1600/cisa.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/trickmo-banking-trojan-can-now-capture.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "New variants of an Android banking trojan called TrickMo have been found to harbor previously undocumented features to steal a device's unlock pattern or PIN.\n\"This new addition enables the threat actor to operate on the device even while it is locked,\" Zimperium security researcher Aazim Yaswant said in an analysis published last week.\nFirst spotted in the wild in 2019, TrickMo is so named for",
