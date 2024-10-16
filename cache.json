@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The FIDO Alliance said it's working to make passkeys and other credentials more easier to export across different providers and improve credential provider interoperability, as more than 12 billion online accounts become accessible with the passwordless sign-in method.\nTo that end, the alliance said it has published a draft for a new set of specifications for secure credential exchange,",
+          "link": "https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html",
+          "publishedOn": "2024-10-16T13:23:00.000Z",
+          "wordCount": null,
+          "title": "FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUNqR_ZMcpChAtnJFVlvF9mqSnEFHQ7Ws3z7K818Y8rQLP19mNFWSSu3YSffiA92j82i3pT1vY-z0jkIRtUoeTyV7gYSBHE5cFix_wFInDiEjsPAZ-nTKU6D9xkqWQ_j8t_ywuKctn-nj1qsLrMYzhEDmuR52Nw5Zcd03UlyQcxJR_g9ie3-HloJe3X9JS/s1600/passkeys.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUNqR_ZMcpChAtnJFVlvF9mqSnEFHQ7Ws3z7K818Y8rQLP19mNFWSSu3YSffiA92j82i3pT1vY-z0jkIRtUoeTyV7gYSBHE5cFix_wFInDiEjsPAZ-nTKU6D9xkqWQ_j8t_ywuKctn-nj1qsLrMYzhEDmuR52Nw5Zcd03UlyQcxJR_g9ie3-HloJe3X9JS/s1600/passkeys.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "AI from the attacker’s perspective: See how cybercriminals are leveraging AI and exploiting its vulnerabilities to compromise systems, users, and even other AI applications\nCybercriminals and AI: The Reality vs. Hype\n“AI will not replace humans in the near future. But humans who know how to use AI are going to replace those humans who don't know how to use AI,” says Etay Maor, Chief Security",

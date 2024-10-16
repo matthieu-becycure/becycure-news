@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T14:12:04.754Z</updated>
+    <updated>2024-10-16T14:33:18.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FIDO Alliance Drafts New Protocol to Simplify Passkey Transfers Across Different Platforms]]></title>
+        <id>https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html</id>
+        <link href="https://thehackernews.com/2024/10/fido-alliance-drafts-new-protocol-to.html"/>
+        <updated>2024-10-16T13:23:00.000Z</updated>
+        <summary type="html"><![CDATA[The FIDO Alliance said it's working to make passkeys and other credentials more easier to export across different providers and improve credential provider interoperability, as more than 12 billion online accounts become accessible with the passwordless sign-in method.
+To that end, the alliance said it has published a draft for a new set of specifications for secure credential exchange,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Misuse to Abuse: AI Risks and Attacks]]></title>
         <id>https://thehackernews.com/2024/10/from-misuse-to-abuse-ai-risks-and.html</id>
