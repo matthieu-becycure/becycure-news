@@ -3525,16 +3525,6 @@
           "wordCount": 364,
           "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (18 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0785/",
-          "publishedOn": "2024-09-17T09:17:58.000Z",
-          "wordCount": 962,
-          "title": "Multiples vulnérabilités dans les produits Apple (17 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
