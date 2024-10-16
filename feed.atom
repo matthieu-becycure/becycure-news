@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T07:43:42.629Z</updated>
+    <updated>2024-10-16T08:17:16.347Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack]]></title>
+        <id>https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html</id>
+        <link href="https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html"/>
+        <updated>2024-10-16T07:20:00.000Z</updated>
+        <summary type="html"><![CDATA[A new spear-phishing campaign targeting Brazil has been found delivering a banking malware called Astaroth (aka Guildma) by making use of obfuscated JavaScript to slip past security guardrails.
+"The spear-phishing campaign's impact has targeted various industries, with manufacturing companies, retail firms, and government agencies being the most affected," Trend Micro said in a new analysis.
+"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Patches Critical Flaw in Enterprise Server Allowing Unauthorized Instance Access]]></title>
         <id>https://thehackernews.com/2024/10/github-patches-critical-flaw-in.html</id>
