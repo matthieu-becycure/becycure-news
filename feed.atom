@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T01:02:15.631Z</updated>
+    <updated>2024-10-16T02:33:38.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2635,18 +2635,6 @@ Clipper malware, also called ClipBankers, is a type of malware that Microsoft ca
         <summary type="html"><![CDATA[SolarWinds has released fixes to address two security flaws in its Access Rights Manager (ARM) software, including a critical vulnerability that could result in remote code execution.
 The vulnerability, tracked as CVE-2024-28991, is rated 9.0 out of a maximum of 10.0 on the CVSS scoring system. It has been described as an instance of deserialization of untrusted data. 
 "SolarWinds Access Rights]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html</id>
-        <link href="https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html"/>
-        <updated>2024-09-16T13:07:00.000Z</updated>
-        <summary type="html"><![CDATA[A now-patched critical security flaw impacting Google Cloud Platform (GCP) Composer could have been exploited to achieve remote code execution on cloud servers by means of a supply chain attack technique called dependency confusion.
-The vulnerability has been codenamed CloudImposer by Tenable Research.
-"The vulnerability could have allowed an attacker to hijack an internal software dependency]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

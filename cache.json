@@ -2292,22 +2292,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHud_Vtkl2QnIs5jTOatvm-n4z13vtPq6N3PvUqZCn30R06AkamFLJHEN85Lo-fM-sjLKC3VVATnPfdEXrvwS78iXxrDRjnRg6mELFsclnir-iPVCDc6o7C8HnZkYhj9ARrmCx4mM4uoKEuusAMKuDSGv_81LHEF9J5Mpt5Bd_JfleMPMeS323sG7KWMEa/s1600/solarwinds.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHud_Vtkl2QnIs5jTOatvm-n4z13vtPq6N3PvUqZCn30R06AkamFLJHEN85Lo-fM-sjLKC3VVATnPfdEXrvwS78iXxrDRjnRg6mELFsclnir-iPVCDc6o7C8HnZkYhj9ARrmCx4mM4uoKEuusAMKuDSGv_81LHEF9J5Mpt5Bd_JfleMPMeS323sG7KWMEa/s1600/solarwinds.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched critical security flaw impacting Google Cloud Platform (GCP) Composer could have been exploited to achieve remote code execution on cloud servers by means of a supply chain attack technique called dependency confusion.\nThe vulnerability has been codenamed CloudImposer by Tenable Research.\n\"The vulnerability could have allowed an attacker to hijack an internal software dependency",
-          "link": "https://thehackernews.com/2024/09/google-fixes-gcp-composer-flaw-that.html",
-          "publishedOn": "2024-09-16T13:07:00.000Z",
-          "wordCount": null,
-          "title": "Google Fixes GCP Composer Flaw That Could've Led to Remote Code Execution",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoDBfOdQJn_bHwmkL_f-lZ8TS1G0P_O06R2XrqEe9IdgoN3PVWkadlX-sra6zB-0PeKmsVNQlGbE5J-sNQ92P1txkhE0CXR61mdSh0fQVwyz98uERjUlT-I9ArEhakZ3QV6YUUrwUKnbYg7Q9xJgpd-qXLAvpydWvbRJt930wMu7JFvz4b9lCeIyovQoy/s1600/flaw.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoDBfOdQJn_bHwmkL_f-lZ8TS1G0P_O06R2XrqEe9IdgoN3PVWkadlX-sra6zB-0PeKmsVNQlGbE5J-sNQ92P1txkhE0CXR61mdSh0fQVwyz98uERjUlT-I9ArEhakZ3QV6YUUrwUKnbYg7Q9xJgpd-qXLAvpydWvbRJt930wMu7JFvz4b9lCeIyovQoy/s1600/flaw.png"
         }
       ]
     },
