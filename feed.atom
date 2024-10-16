@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T22:43:32.867Z</updated>
+    <updated>2024-10-16T23:12:36.853Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2815,16 +2815,6 @@ The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been describ
         <updated>2024-09-17T11:56:00.000Z</updated>
         <summary type="html"><![CDATA[Meta has announced that it will begin training its artificial intelligence (AI) systems using public content shared by adult users across Facebook and Instagram in the U.K. in the coming months.
 "This means that our generative AI models will reflect British culture, history, and idiom, and that UK companies and institutions will be able to utilize the latest technology," the social media]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Investigate ChatGPT activity in Google Workspace]]></title>
-        <id>https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html</id>
-        <link href="https://thehackernews.com/2024/09/how-to-investigate-chatgpt-activity-in.html"/>
-        <updated>2024-09-17T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Since launching ChatGPT in 2022, OpenAI has defied expectations with a steady stream of product announcements and enhancements. One such announcement came on May 16, 2024, and for most consumers, it probably felt innocuous. Titled “Improvements to data analysis in ChatGPT,” the post outlines how users can add files directly from Google Drive and Microsoft OneDrive. It’s worth mentioning]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
