@@ -2308,22 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoDBfOdQJn_bHwmkL_f-lZ8TS1G0P_O06R2XrqEe9IdgoN3PVWkadlX-sra6zB-0PeKmsVNQlGbE5J-sNQ92P1txkhE0CXR61mdSh0fQVwyz98uERjUlT-I9ArEhakZ3QV6YUUrwUKnbYg7Q9xJgpd-qXLAvpydWvbRJt930wMu7JFvz4b9lCeIyovQoy/s1600/flaw.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRoDBfOdQJn_bHwmkL_f-lZ8TS1G0P_O06R2XrqEe9IdgoN3PVWkadlX-sra6zB-0PeKmsVNQlGbE5J-sNQ92P1txkhE0CXR61mdSh0fQVwyz98uERjUlT-I9ArEhakZ3QV6YUUrwUKnbYg7Q9xJgpd-qXLAvpydWvbRJt930wMu7JFvz4b9lCeIyovQoy/s1600/flaw.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/north-korean-hackers-target.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers are continuing to warn about North Korean threat actors' attempts to target prospective victims on LinkedIn to deliver malware called RustDoor.\nThe latest advisory comes from Jamf Threat Labs, which said it spotted an attack attempt in which a user was contacted on the professional social network by claiming to be a recruiter for a legitimate decentralized",
-          "link": "https://thehackernews.com/2024/09/north-korean-hackers-target.html",
-          "publishedOn": "2024-09-16T12:00:00.000Z",
-          "wordCount": null,
-          "title": "North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMpF5rba8-SS0l3whfpajn8Yer55Vebq3pT85ohjYqTIPLqvN2_sROCYdIR20V8-4A03uqcVjJHxq6DtBBTtRlO-Yl4buRGTD_c-jlezgjYeyZApqa3ol-xf1XxcXr8Dsi6RVH6bs0I_5A6tvIWiV7SHWQDH8DPojvGpCVwzSFZ1bcoIHI61dADRerfGc0/s1600/linkedin.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMpF5rba8-SS0l3whfpajn8Yer55Vebq3pT85ohjYqTIPLqvN2_sROCYdIR20V8-4A03uqcVjJHxq6DtBBTtRlO-Yl4buRGTD_c-jlezgjYeyZApqa3ol-xf1XxcXr8Dsi6RVH6bs0I_5A6tvIWiV7SHWQDH8DPojvGpCVwzSFZ1bcoIHI61dADRerfGc0/s1600/linkedin.png"
         }
       ]
     },
@@ -3340,16 +3324,6 @@
           "publishedOn": "2024-09-17T07:34:07.000Z",
           "wordCount": 365,
           "title": "Vulnérabilité dans Ivanti Cloud Service Appliance (17 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-041/",
-          "author": null,
-          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
-          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-041/",
-          "publishedOn": "2024-09-16T12:40:00.000Z",
-          "wordCount": 1270,
-          "title": "Bulletin d'actualité CERTFR-2024-ACT-041 (16 septembre 2024)",
           "imageUrl": null
         }
       ]
