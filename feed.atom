@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T10:13:43.227Z</updated>
+    <updated>2024-10-16T10:35:24.408Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Techniques for Collecting Cyber Threat Intelligence]]></title>
+        <id>https://thehackernews.com/2024/10/5-techniques-for-collecting-cyber.html</id>
+        <link href="https://thehackernews.com/2024/10/5-techniques-for-collecting-cyber.html"/>
+        <updated>2024-10-16T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[To defend your organization against cyber threats, you need a clear picture of the current threat landscape. This means constantly expanding your knowledge about new and ongoing threats.
+There are many techniques analysts can use to collect crucial cyber threat intelligence. Let’s consider five that can greatly improve your threat investigations.
+Pivoting on С2 IP addresses to pinpoint malware]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astaroth Banking Malware Resurfaces in Brazil via Spear-Phishing Attack]]></title>
         <id>https://thehackernews.com/2024/10/astaroth-banking-malware-resurfaces-in.html</id>
