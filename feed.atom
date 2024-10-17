@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T09:14:07.361Z</updated>
+    <updated>2024-10-17T09:31:02.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Charges Two Sudanese Brothers for Record 35,000 DDoS Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/us-charges-two-sudanese-brothers-for.html</id>
+        <link href="https://thehackernews.com/2024/10/us-charges-two-sudanese-brothers-for.html"/>
+        <updated>2024-10-17T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Federal prosecutors in the U.S. have charged two Sudanese brothers with running a distributed denial-of-service (DDoS) botnet for hire that conducted a record 35,000 DDoS attacks in a single year, including those that targeted Microsoft's services in June 2023.
+The attacks, which were facilitated by Anonymous Sudan's "powerful DDoS tool," singled out critical infrastructure, corporate networks,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk]]></title>
         <id>https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html</id>
