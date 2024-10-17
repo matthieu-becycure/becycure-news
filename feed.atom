@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T21:28:54.608Z</updated>
+    <updated>2024-10-17T21:43:41.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2847,27 +2847,6 @@ Song Wu, 39, has been charged with 14 counts of wire fraud and 14 counts of aggr
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulnérabilité dans LibreOffice (18 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0787/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0787/"/>
-        <updated>2024-09-18T09:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware]]></title>
-        <id>https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html</id>
-        <link href="https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html"/>
-        <updated>2024-09-18T09:32:00.000Z</updated>
-        <summary type="html"><![CDATA[A North Korea-linked cyber-espionage group has been observed leveraging job-themed phishing lures to target prospective victims in energy and aerospace verticals and infect them with a previously undocumented backdoor dubbed MISTPEN.
-The activity cluster is being tracked by Google-owned Mandiant under the moniker UNC2970, which it said overlaps with a threat group known as TEMP.Hermit, which is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

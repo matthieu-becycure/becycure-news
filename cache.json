@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDESkolWOS-2cCphhia7U_VUlnqRsI0NSna1RmzCPYei0m03KYCFZ1rbg2LtgOKqYepxsz6PBLarGLwRr8_M-wl4ar3NjmxSlnXJhCursas-6-p7M4DSK4p8S0hZPs37DzFLJvyrzx5KAXw3kRIDjqrxGEuJGstuK_muDzy4c-rOxey6GvaQeTsA7ef5Q/s1600/pentera.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDESkolWOS-2cCphhia7U_VUlnqRsI0NSna1RmzCPYei0m03KYCFZ1rbg2LtgOKqYepxsz6PBLarGLwRr8_M-wl4ar3NjmxSlnXJhCursas-6-p7M4DSK4p8S0hZPs37DzFLJvyrzx5KAXw3kRIDjqrxGEuJGstuK_muDzy4c-rOxey6GvaQeTsA7ef5Q/s1600/pentera.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A North Korea-linked cyber-espionage group has been observed leveraging job-themed phishing lures to target prospective victims in energy and aerospace verticals and infect them with a previously undocumented backdoor dubbed MISTPEN.\nThe activity cluster is being tracked by Google-owned Mandiant under the moniker UNC2970, which it said overlaps with a threat group known as TEMP.Hermit, which is",
-          "link": "https://thehackernews.com/2024/09/north-korean-hackers-target-energy-and.html",
-          "publishedOn": "2024-09-18T09:32:00.000Z",
-          "wordCount": null,
-          "title": "North Korean Hackers Target Energy and Aerospace Industries with New MISTPEN Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZVk0j3SSHDWbBjq04CJsvU70D2emwrRaWsT9V9gkq80elsgzoDGETPYaG1rca60xV39TIyoP-s1RxHtaTKk_PXamb1KBHsuzeC5mzBZoF3ivj80ov-imrZ5pakcsYx7MWmtVr3TZ2JzxL6l94RTWDyk0ZUSYDRH2oD1tkFWaMD2xL1IxqlhzG9wFJihY/s1600/cyberattacl.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZVk0j3SSHDWbBjq04CJsvU70D2emwrRaWsT9V9gkq80elsgzoDGETPYaG1rca60xV39TIyoP-s1RxHtaTKk_PXamb1KBHsuzeC5mzBZoF3ivj80ov-imrZ5pakcsYx7MWmtVr3TZ2JzxL6l94RTWDyk0ZUSYDRH2oD1tkFWaMD2xL1IxqlhzG9wFJihY/s1600/cyberattacl.png"
         }
       ]
     },
@@ -3548,16 +3532,6 @@
           "publishedOn": "2024-09-18T09:43:49.000Z",
           "wordCount": 374,
           "title": "Multiples vulnérabilités dans les produits Atlassian (18 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0787/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans LibreOffice. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0787/",
-          "publishedOn": "2024-09-18T09:41:44.000Z",
-          "wordCount": 310,
-          "title": "Vulnérabilité dans LibreOffice (18 septembre 2024)",
           "imageUrl": null
         }
       ]
