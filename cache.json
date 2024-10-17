@@ -2324,54 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMC2DXqJkT9gUlSpCnH6er3vRFfu4PXM_XPALdbscs9PO53KS6LIajmxqL9OU6ASd9YqCONOEZOmQ9bysok7a3CQTA7Rbth8qQZhN-_dFZBsl6_F9WYiqcSq6zU-EK0-vVCNhOCmPYkAh-AMhndzm476610sCoREdf5GoS8OgGPxceUC7N1LU2T_rtnsuN/s1600/vmware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMC2DXqJkT9gUlSpCnH6er3vRFfu4PXM_XPALdbscs9PO53KS6LIajmxqL9OU6ASd9YqCONOEZOmQ9bysok7a3CQTA7Rbth8qQZhN-_dFZBsl6_F9WYiqcSq6zU-EK0-vVCNhOCmPYkAh-AMhndzm476610sCoREdf5GoS8OgGPxceUC7N1LU2T_rtnsuN/s1600/vmware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Google has announced that it will be switching from KYBER to ML-KEM in its Chrome web browser as part of its ongoing efforts to defend against the risk posed by cryptographically relevant quantum computers (CRQCs).\n\"Chrome will offer a key share prediction for hybrid ML-KEM (codepoint 0x11EC),\" David Adrian, David Benjamin, Bob Beck, and Devon O'Brien of the Chrome Team said. \"The",
-          "link": "https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html",
-          "publishedOn": "2024-09-17T12:22:00.000Z",
-          "wordCount": null,
-          "title": "Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgozGxO5Xh0pP0FPDVw-eKlkSsrp9EjNB6oCpqsTBCVW8dEWV1GwpJK0oyqtUSrnPAj6SFYLDNk-3zgQDn1zirEkqQLmXFm-orQrGqI1TFL4nba_TvTDuMJKb2rNp5LTCNhEaFFjECNP9IEYVwL8m54A0_bGdzY8uKSn_DYFF4FSUldRnOgYCpXYrZEhs7n/s1600/chrome.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgozGxO5Xh0pP0FPDVw-eKlkSsrp9EjNB6oCpqsTBCVW8dEWV1GwpJK0oyqtUSrnPAj6SFYLDNk-3zgQDn1zirEkqQLmXFm-orQrGqI1TFL4nba_TvTDuMJKb2rNp5LTCNhEaFFjECNP9IEYVwL8m54A0_bGdzY8uKSn_DYFF4FSUldRnOgYCpXYrZEhs7n/s1600/chrome.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The U.S. Department of Treasury has imposed fresh sanctions against five executives and one entity with ties to the Intellexa Consortium for their role in the development, operation, and distribution of a commercial spyware called Predator.\n\"The United States will not tolerate the reckless propagation of disruptive technologies that threatens our national security and undermines the privacy and",
-          "link": "https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html",
-          "publishedOn": "2024-09-17T12:06:00.000Z",
-          "wordCount": null,
-          "title": "U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ji8bweiMtp0NR_s6gTZcOsJTGXE3AWO5Xbt7n7B2esfISGbha_ezpvigJlZbQmYztGc-DvNxirq95_dCu6tWVQUWEN0nGtO-lQ9gwenBbJkGPMLewyoYAHiZSG_ejSXMnT5DEW5HGxEoUPVOGVxWrJI60KxANmhiOTnq-cy-zeyuZboVs4bPolCt7DOk/s1600/spyware.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0ji8bweiMtp0NR_s6gTZcOsJTGXE3AWO5Xbt7n7B2esfISGbha_ezpvigJlZbQmYztGc-DvNxirq95_dCu6tWVQUWEN0nGtO-lQ9gwenBbJkGPMLewyoYAHiZSG_ejSXMnT5DEW5HGxEoUPVOGVxWrJI60KxANmhiOTnq-cy-zeyuZboVs4bPolCt7DOk/s1600/spyware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Meta has announced that it will begin training its artificial intelligence (AI) systems using public content shared by adult users across Facebook and Instagram in the U.K. in the coming months.\n\"This means that our generative AI models will reflect British culture, history, and idiom, and that UK companies and institutions will be able to utilize the latest technology,\" the social media",
-          "link": "https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html",
-          "publishedOn": "2024-09-17T11:56:00.000Z",
-          "wordCount": null,
-          "title": "Meta to Train AI Models Using Public U.K. Facebook and Instagram Posts",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjjoklcLEMWQ-c0MR4cpo1-Kn4Z_2ZmkwFr_TenTS5ARaYFFOJFI8fAfllUPYRVrehdYWZFBI8SYyI9i5YIsdED4yd-4ape364g6pur3mgAYS_xLQ6gcZXjwtdjdi5elPzvsv_9CAC-o-23nAgXVyPcK5HyXSO3hfHmGoE5LUyKo4Qz7aF7O1qCcIGA4FG/s1600/facebook.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjjoklcLEMWQ-c0MR4cpo1-Kn4Z_2ZmkwFr_TenTS5ARaYFFOJFI8fAfllUPYRVrehdYWZFBI8SYyI9i5YIsdED4yd-4ape364g6pur3mgAYS_xLQ6gcZXjwtdjdi5elPzvsv_9CAC-o-23nAgXVyPcK5HyXSO3hfHmGoE5LUyKo4Qz7aF7O1qCcIGA4FG/s1600/facebook.png"
         }
       ]
     },

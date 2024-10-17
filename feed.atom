@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-16T23:43:34.860Z</updated>
+    <updated>2024-10-17T01:06:39.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2782,39 +2782,6 @@ The activity cluster is being tracked by Google-owned Mandiant under the moniker
         <summary type="html"><![CDATA[Broadcom on Tuesday released updates to address a critical security flaw impacting VMware vCenter Server that could pave the way for remote code execution.
 The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been described as a heap-overflow vulnerability in the DCE/RPC protocol.
 "A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Chrome Switches to ML-KEM for Post-Quantum Cryptography Defense]]></title>
-        <id>https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html</id>
-        <link href="https://thehackernews.com/2024/09/google-chrome-switches-to-ml-kem-for.html"/>
-        <updated>2024-09-17T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced that it will be switching from KYBER to ML-KEM in its Chrome web browser as part of its ongoing efforts to defend against the risk posed by cryptographically relevant quantum computers (CRQCs).
-"Chrome will offer a key share prediction for hybrid ML-KEM (codepoint 0x11EC)," David Adrian, David Benjamin, Bob Beck, and Devon O'Brien of the Chrome Team said. "The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Treasury Sanctions Executives Linked to Intellexa Predator Spyware Operation]]></title>
-        <id>https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html</id>
-        <link href="https://thehackernews.com/2024/09/us-treasury-sanctions-executives-linked.html"/>
-        <updated>2024-09-17T12:06:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Treasury has imposed fresh sanctions against five executives and one entity with ties to the Intellexa Consortium for their role in the development, operation, and distribution of a commercial spyware called Predator.
-"The United States will not tolerate the reckless propagation of disruptive technologies that threatens our national security and undermines the privacy and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta to Train AI Models Using Public U.K. Facebook and Instagram Posts]]></title>
-        <id>https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html</id>
-        <link href="https://thehackernews.com/2024/09/meta-to-train-ai-models-using-public-uk.html"/>
-        <updated>2024-09-17T11:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Meta has announced that it will begin training its artificial intelligence (AI) systems using public content shared by adult users across Facebook and Instagram in the U.K. in the coming months.
-"This means that our generative AI models will reflect British culture, history, and idiom, and that UK companies and institutions will be able to utilize the latest technology," the social media]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
