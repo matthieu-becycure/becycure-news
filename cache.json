@@ -3483,56 +3483,6 @@
           "wordCount": 354,
           "title": "Vulnérabilité dans Microsoft Office (20 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0792/",
-          "publishedOn": "2024-09-18T10:01:03.000Z",
-          "wordCount": 362,
-          "title": "Multiples vulnérabilités dans VMware vCenter Server (18 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans GitLab. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0791/",
-          "publishedOn": "2024-09-18T09:55:51.000Z",
-          "wordCount": 362,
-          "title": "Vulnérabilité dans GitLab (18 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0790/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0790/",
-          "publishedOn": "2024-09-18T09:52:59.000Z",
-          "wordCount": 345,
-          "title": "Multiples vulnérabilités dans Google Chrome (18 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0789/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Mozilla Firefox pour Android. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0789/",
-          "publishedOn": "2024-09-18T09:50:52.000Z",
-          "wordCount": 319,
-          "title": "Vulnérabilité dans Mozilla Firefox pour Android (18 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0788/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Atlassian. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0788/",
-          "publishedOn": "2024-09-18T09:43:49.000Z",
-          "wordCount": 374,
-          "title": "Multiples vulnérabilités dans les produits Atlassian (18 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
