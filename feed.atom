@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T06:41:06.712Z</updated>
+    <updated>2024-10-17T07:13:20.063Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk]]></title>
+        <id>https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html</id>
+        <link href="https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html"/>
+        <updated>2024-10-17T05:18:00.000Z</updated>
+        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the Kubernetes Image Builder that, if successfully exploited, could be abused to gain root access under certain circumstances.
+The vulnerability, tracked as CVE-2024-9486 (CVSS score: 9.8), has been addressed in version 0.1.38. The project maintainers acknowledged Nicolai Rybnikar for discovering and reporting the vulnerability.
+"A security issue]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hackers Abuse EDRSilencer Tool to Bypass Security and Hide Malicious Activity]]></title>
         <id>https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html</id>

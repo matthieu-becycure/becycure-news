@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A critical security flaw has been disclosed in the Kubernetes Image Builder that, if successfully exploited, could be abused to gain root access under certain circumstances.\nThe vulnerability, tracked as CVE-2024-9486 (CVSS score: 9.8), has been addressed in version 0.1.38. The project maintainers acknowledged Nicolai Rybnikar for discovering and reporting the vulnerability.\n\"A security issue",
+          "link": "https://thehackernews.com/2024/10/critical-kubernetes-image-builder.html",
+          "publishedOn": "2024-10-17T05:18:00.000Z",
+          "wordCount": null,
+          "title": "Critical Kubernetes Image Builder Vulnerability Exposes Nodes to Root Access Risk",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6z0Z6rpq4WCwdIaUl3G6Jlk5JOxCIMMCYbPs9v2rw-cY89ydIIODqeTrN9qWJxCpmlvyk_t1FPLIzGHRdedJ_wZYJFsN_OOF16Kl4KUZjc48LTkw016Ehe9r4ISpueIKgCfYb1C6hgZJ9WzrFLNCU7uiIiOH3rjQ8JTMRMj7Qs9uEzYuB2RWoJCJ3kM4N/s1600/flaws.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6z0Z6rpq4WCwdIaUl3G6Jlk5JOxCIMMCYbPs9v2rw-cY89ydIIODqeTrN9qWJxCpmlvyk_t1FPLIzGHRdedJ_wZYJFsN_OOF16Kl4KUZjc48LTkw016Ehe9r4ISpueIKgCfYb1C6hgZJ9WzrFLNCU7uiIiOH3rjQ8JTMRMj7Qs9uEzYuB2RWoJCJ3kM4N/s1600/flaws.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/hackers-abuse-edrsilencer-tool-to.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Threat actors are attempting to abuse the open-source EDRSilencer tool as part of efforts to tamper endpoint detection and response (EDR) solutions and hide malicious activity.\nTrend Micro said it detected \"threat actors attempting to integrate EDRSilencer in their attacks, repurposing it as a means of evading detection.\"\nEDRSilencer, inspired by the NightHawk FireBlock tool from MDSec, is",
