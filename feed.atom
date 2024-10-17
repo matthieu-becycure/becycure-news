@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T20:44:09.925Z</updated>
+    <updated>2024-10-17T21:12:37.983Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2866,27 +2866,6 @@ Song Wu, 39, has been charged with 14 counts of wire fraud and 14 counts of aggr
         <updated>2024-09-18T09:32:00.000Z</updated>
         <summary type="html"><![CDATA[A North Korea-linked cyber-espionage group has been observed leveraging job-themed phishing lures to target prospective victims in energy and aerospace verticals and infect them with a previously undocumented backdoor dubbed MISTPEN.
 The activity cluster is being tracked by Google-owned Mandiant under the moniker UNC2970, which it said overlaps with a threat group known as TEMP.Hermit, which is]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiples vulnérabilités dans les produits HPE Aruba Networking (18 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0786/</id>
-        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0786/"/>
-        <updated>2024-09-18T09:04:40.000Z</updated>
-        <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
-        <author>
-            <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Introduces One-Time Permissions and Enhanced Safety Check for Safer Browsing]]></title>
-        <id>https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html</id>
-        <link href="https://thehackernews.com/2024/09/chrome-introduces-one-time-permissions.html"/>
-        <updated>2024-09-18T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has announced that it's rolling out a new set of features to its Chrome browser that gives users more control over their data when surfing the internet and protects against online threats.
-"With the newest version of Chrome, you can take advantage of our upgraded Safety Check, opt out of unwanted website notifications more easily and grant select permissions to a site for one time only,"]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
