@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T16:40:19.646Z</updated>
+    <updated>2024-10-17T17:11:49.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2898,18 +2898,6 @@ The activity cluster is being tracked by Google-owned Mandiant under the moniker
         <updated>2024-09-18T06:18:00.000Z</updated>
         <summary type="html"><![CDATA[The GSM Association, the governing body that oversees the development of the Rich Communications Services (RCS) protocol, on Tuesday, said it's working towards implementing end-to-end encryption (E2EE) to secure messages sent between the Android and iOS ecosystems.
 "The next major milestone is for the RCS Universal Profile to add important user protections such as interoperable end-to-end]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution]]></title>
-        <id>https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html</id>
-        <link href="https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html"/>
-        <updated>2024-09-18T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Broadcom on Tuesday released updates to address a critical security flaw impacting VMware vCenter Server that could pave the way for remote code execution.
-The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), has been described as a heap-overflow vulnerability in the DCE/RPC protocol.
-"A malicious actor with network access to vCenter Server may trigger this vulnerability by sending a]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
