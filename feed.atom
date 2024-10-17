@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T13:44:59.286Z</updated>
+    <updated>2024-10-17T14:12:36.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Uncover Cicada3301 Ransomware Operations and Its Affiliate Program]]></title>
+        <id>https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html</id>
+        <link href="https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html"/>
+        <updated>2024-10-17T13:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have gleaned additional insights into a nascent ransomware-as-a-service (RaaS) called Cicada3301 after successfully gaining access to the group's affiliate panel on the dark web.
+Singapore-headquartered Group-IB said it contacted the threat actor behind the Cicada3301 persona on the RAMP cybercrime forum via the Tox messaging service after the latter put out an]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Ways to Reduce SaaS Security Risks]]></title>
         <id>https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html</id>

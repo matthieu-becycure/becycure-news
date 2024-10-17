@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have gleaned additional insights into a nascent ransomware-as-a-service (RaaS) called Cicada3301 after successfully gaining access to the group's affiliate panel on the dark web.\nSingapore-headquartered Group-IB said it contacted the threat actor behind the Cicada3301 persona on the RAMP cybercrime forum via the Tox messaging service after the latter put out an",
+          "link": "https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html",
+          "publishedOn": "2024-10-17T13:54:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Uncover Cicada3301 Ransomware Operations and Its Affiliate Program",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjot3buvzlVsmJYV9W6A6DsMhEcZyV8V-Z3f7yTP6dozYKtw1SUvqsWW_RQ35Ebc_-dlhfsG2UvZ8Zo1sLeiBct8gxk6HuWnYokGHHNb-kivqPZHQxKj9cJzNoEQLbXRnb0iPEAGHqlH_LOOhklm1WW8Jaj1tXfEsurTkWbMUQHhoKVlDehSWVY60egMLVD/s1600/linux.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjot3buvzlVsmJYV9W6A6DsMhEcZyV8V-Z3f7yTP6dozYKtw1SUvqsWW_RQ35Ebc_-dlhfsG2UvZ8Zo1sLeiBct8gxk6HuWnYokGHHNb-kivqPZHQxKj9cJzNoEQLbXRnb0iPEAGHqlH_LOOhklm1WW8Jaj1tXfEsurTkWbMUQHhoKVlDehSWVY60egMLVD/s1600/linux.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "As technology adoption has shifted to be employee-led, just in time, and from any location or device, IT and security teams have found themselves contending with an ever-sprawling SaaS attack surface, much of which is often unknown or unmanaged. This greatly increases the risk of identity-based threats, and according to a recent report from CrowdStrike, 80% of breaches today use compromised",
