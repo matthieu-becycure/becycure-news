@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The Russian threat actor known as RomCom has been linked to a new wave of cyber attacks aimed at Ukrainian government agencies and unknown Polish entities since at least late 2023.\nThe intrusions are characterized by the use of a variant of the RomCom RAT dubbed SingleCamper (aka SnipBot or RomCom 5.0), said Cisco Talos, which is monitoring the activity cluster under the moniker UAT-5647.\n\"This",
+          "link": "https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html",
+          "publishedOn": "2024-10-17T16:13:00.000Z",
+          "wordCount": null,
+          "title": "Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5dMTeOMD0V9jeonYAOxkOu9M4lAA-Hvi9oN0h1aTACQPCwNLArQEHwP6blMwOx4Kts5HQhMTl3k7mZmG7-5FYeaCq0-FyvzwH4D6cIBhG4hNYCsSO9oWeF0VbGMtFV6RIn8fYXke7U5pLxP6VPMgWzfl6kJ7fdfJ389xb-hVRlNJHRnc8KpoinckFho9Z/s1600/attack.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5dMTeOMD0V9jeonYAOxkOu9M4lAA-Hvi9oN0h1aTACQPCwNLArQEHwP6blMwOx4Kts5HQhMTl3k7mZmG7-5FYeaCq0-FyvzwH4D6cIBhG4hNYCsSO9oWeF0VbGMtFV6RIn8fYXke7U5pLxP6VPMgWzfl6kJ7fdfJ389xb-hVRlNJHRnc8KpoinckFho9Z/s1600/attack.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have gleaned additional insights into a nascent ransomware-as-a-service (RaaS) called Cicada3301 after successfully gaining access to the group's affiliate panel on the dark web.\nSingapore-headquartered Group-IB said it contacted the threat actor behind the Cicada3301 persona on the RAMP cybercrime forum via the Tox messaging service after the latter put out an",

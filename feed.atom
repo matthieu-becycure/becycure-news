@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-17T16:16:59.020Z</updated>
+    <updated>2024-10-17T16:40:19.646Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russian RomCom Attacks Target Ukrainian Government with New SingleCamper RAT Variant]]></title>
+        <id>https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html</id>
+        <link href="https://thehackernews.com/2024/10/russian-romcom-attacks-target-ukrainian.html"/>
+        <updated>2024-10-17T16:13:00.000Z</updated>
+        <summary type="html"><![CDATA[The Russian threat actor known as RomCom has been linked to a new wave of cyber attacks aimed at Ukrainian government agencies and unknown Polish entities since at least late 2023.
+The intrusions are characterized by the use of a variant of the RomCom RAT dubbed SingleCamper (aka SnipBot or RomCom 5.0), said Cisco Talos, which is monitoring the activity cluster under the moniker UAT-5647.
+"This]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Researchers Uncover Cicada3301 Ransomware Operations and Its Affiliate Program]]></title>
         <id>https://thehackernews.com/2024/10/cross-platform-cicada3301-ransomware.html</id>
