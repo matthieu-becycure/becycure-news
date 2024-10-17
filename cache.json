@@ -2397,6 +2397,66 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0898/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0898/",
+          "publishedOn": "2024-10-17T06:11:59.000Z",
+          "wordCount": 446,
+          "title": "Multiples vulnérabilités dans Google Pixel (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0897/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0897/",
+          "publishedOn": "2024-10-17T06:06:24.000Z",
+          "wordCount": 405,
+          "title": "Multiples vulnérabilités dans les produits Cisco (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0896/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans VMware HCX. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0896/",
+          "publishedOn": "2024-10-17T06:00:56.000Z",
+          "wordCount": 320,
+          "title": "Vulnérabilité dans VMware HCX (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0895/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans OpenSSL. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0895/",
+          "publishedOn": "2024-10-17T05:56:47.000Z",
+          "wordCount": 344,
+          "title": "Vulnérabilité dans OpenSSL (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0894/",
+          "author": null,
+          "description": "Une vulnérabilité ont été découverte dans Drupal Core. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0894/",
+          "publishedOn": "2024-10-17T05:51:21.000Z",
+          "wordCount": 302,
+          "title": "Vulnérabilité dans Drupal Core (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0893/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits F5. Elles permettent à un attaquant de provoquer une élévation de privilèges et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0893/",
+          "publishedOn": "2024-10-17T05:43:06.000Z",
+          "wordCount": 352,
+          "title": "Multiples vulnérabilités dans les produits F5 (17 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0892/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans les produits SolarWinds. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une injection de code indirecte à distance (XSS).",
