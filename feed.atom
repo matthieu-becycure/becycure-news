@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T11:43:28.526Z</updated>
+    <updated>2024-10-18T12:24:48.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Ultimate DSPM Guide: Webinar on Building a Strong Data Security Posture]]></title>
+        <id>https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html</id>
+        <link href="https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html"/>
+        <updated>2024-10-18T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Picture your company's data as a vast, complex jigsaw puzzle—scattered across clouds, devices, and networks. Some pieces are hidden, some misplaced, and others might even be missing entirely. Keeping your data secure in today’s fast-evolving landscape can feel like an impossible challenge.
+But there’s a game-changing solution: Data Security Posture Management (DSPM). Think of it as a high-tech,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. and Allies Warn of Iranian Cyberattacks on Critical Infrastructure in Year-Long Campaign]]></title>
+        <id>https://thehackernews.com/2024/10/us-and-allies-warn-of-iranian.html</id>
+        <link href="https://thehackernews.com/2024/10/us-and-allies-warn-of-iranian.html"/>
+        <updated>2024-10-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity and intelligence agencies from Australia, Canada, and the U.S. have warned about a year-long campaign undertaken by Iranian cyber actors to infiltrate critical infrastructure organizations via brute-force attacks.
+"Since October 2023, Iranian actors have used brute force and password spraying to compromise user accounts and obtain access to organizations in the healthcare and]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign]]></title>
         <id>https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html</id>
