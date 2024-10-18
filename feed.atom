@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T22:43:42.009Z</updated>
+    <updated>2024-10-18T23:12:09.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2874,16 +2874,6 @@ Targets of the emerging threat include plumbing, HVAC (heating,]]></summary>
         <updated>2024-09-19T13:27:00.000Z</updated>
         <summary type="html"><![CDATA[The cryptojacking operation known as TeamTNT has likely resurfaced as part of a new campaign targeting Virtual Private Server (VPS) infrastructures based on the CentOS operating system.
 "The initial access was accomplished via a Secure Shell (SSH) brute force attack on the victim's assets, during which the threat actor uploaded a malicious script," Group-IB researchers Vito Alfano and Nam Le]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Healthcare's Diagnosis is Critical: The Cure is Cybersecurity Hygiene]]></title>
-        <id>https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html</id>
-        <link href="https://thehackernews.com/2024/09/healthcares-diagnosis-is-critical-cure.html"/>
-        <updated>2024-09-19T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity in healthcare has never been more urgent. As the most vulnerable industry and largest target for cybercriminals, healthcare is facing an increasing wave of cyberattacks. When a hospital's systems are held hostage by ransomware, it’s not just data at risk — it’s the care of patients who depend on life-saving treatments. Imagine an attack that forces emergency care to halt, surgeries]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
