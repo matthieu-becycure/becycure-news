@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T03:49:03.742Z</updated>
+    <updated>2024-10-18T04:16:30.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2763,17 +2763,6 @@ The tech giant's threat intelligence team is tracking the activity under the nam
         <summary type="html"><![CDATA[GitLab has released patches to address a critical flaw impacting Community Edition (CE) and Enterprise Edition (EE) that could result in an authentication bypass.
 The vulnerability is rooted in the ruby-saml library (CVE-2024-45409, CVSS score: 10.0), which could allow an attacker to log in as an arbitrary user within the vulnerable system. It was addressed by the maintainers last week.
 The]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New "Raptor Train" IoT Botnet Compromises Over 200,000 Devices Worldwide]]></title>
-        <id>https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html</id>
-        <link href="https://thehackernews.com/2024/09/new-raptor-train-iot-botnet-compromises.html"/>
-        <updated>2024-09-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a never-before-seen botnet comprising an army of small office/home office (SOHO) and IoT devices that are likely operated by a Chinese nation-state threat actor called Flax Typhoon (aka Ethereal Panda or RedJuliett).
-The sophisticated botnet, dubbed Raptor Train by Lumen's Black Lotus Labs, is believed to have been operational since at least May 2020,]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
