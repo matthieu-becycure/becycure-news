@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T01:01:35.115Z</updated>
+    <updated>2024-10-18T02:32:33.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2774,17 +2774,6 @@ The]]></summary>
         <updated>2024-09-18T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Cybersecurity researchers have uncovered a never-before-seen botnet comprising an army of small office/home office (SOHO) and IoT devices that are likely operated by a Chinese nation-state threat actor called Flax Typhoon (aka Ethereal Panda or RedJuliett).
 The sophisticated botnet, dubbed Raptor Train by Lumen's Black Lotus Labs, is believed to have been operational since at least May 2020,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Engineer Charged in U.S. for Years-Long Cyber Espionage Targeting NASA and Military]]></title>
-        <id>https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html</id>
-        <link href="https://thehackernews.com/2024/09/chinese-engineer-charged-in-us-for.html"/>
-        <updated>2024-09-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Chinese national has been indicted in the U.S. on charges of conducting a "multi-year" spear-phishing campaign to obtain unauthorized access to computer software and source code created by the National Aeronautics and Space Administration (NASA), research universities, and private companies.
-Song Wu, 39, has been charged with 14 counts of wire fraud and 14 counts of aggravated identity theft.]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
