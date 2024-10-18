@@ -103,6 +103,53 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-18 datetime="2024-10-18T05:42:00.000Z">2024-10-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-18 datetime="2024-10-18T05:42:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >The Hacker News</button>
+                  <a class="source-heading__link" href="https://thehackernews.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghODlAyYIX3vb18PrrxaGzg0yqQhu2DZVq1FW3xwPwvX_AZFgFCDS_nc1KaVnVfmJtG7jhjO69kolMhUIVE0ZOGF8XExYUdMswiYkctt2KBc0eBN7Xph_MVWAcQzr0sMyOHflkUP_OmAGqTQ4PTF1fOZcF98ho6D6DhfnAqdpFHYPEbGFaWKrzp9RnEI9x/s1600/safari.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Microsoft has disclosed details about a now-patched security flaw in Apple&#x27;s Transparency, Consent, and Control (TCC) framework in macOS that has likely come under exploitation to get around a user&#x27;s privacy preferences and access data.
+The shortcoming, codenamed HM Surf by the tech giant, is tracked as CVE-2024-44133. It was addressed by Apple as part of macOS Sequoia 15 by removing the</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-10-17 datetime="2024-10-17T16:13:00.000Z">2024-10-17</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-10-17 datetime="2024-10-17T16:13:00.000Z"></time>
           </button>
@@ -6027,8 +6074,8 @@ The</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/matthieu-becycure/becycure-news/actions/runs/11398521554">
-        <time id="build-timestamp" datetime="2024-10-18T06:18:20.210Z">2024-10-18T06:18:20.210Z</time>
+      <a class="footer-link" href="https://github.com/matthieu-becycure/becycure-news/actions/runs/11398790960">
+        <time id="build-timestamp" datetime="2024-10-18T06:41:00.414Z">2024-10-18T06:41:00.414Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
