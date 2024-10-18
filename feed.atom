@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T10:47:22.896Z</updated>
+    <updated>2024-10-18T11:10:59.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beware: Fake Google Meet Pages Deliver Infostealers in Ongoing ClickFix Campaign]]></title>
+        <id>https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html</id>
+        <link href="https://thehackernews.com/2024/10/beware-fake-google-meet-pages-deliver.html"/>
+        <updated>2024-10-18T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors are leveraging fake Google Meet web pages as part of an ongoing malware campaign dubbed ClickFix to deliver infostealers targeting Windows and macOS systems.
+"This tactic involves displaying fake error messages in web browsers to deceive users into copying and executing a given malicious PowerShell code, finally infecting their systems," French cybersecurity company Sekoia said in]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Reveals macOS Vulnerability that Bypasses Privacy Controls in Safari Browser]]></title>
         <id>https://thehackernews.com/2024/10/microsoft-reveals-macos-vulnerability.html</id>
