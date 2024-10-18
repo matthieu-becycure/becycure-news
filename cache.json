@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "North Korean information technology (IT) workers who obtain employment under false identities in Western companies are not only stealing intellectual property, but are also stepping up by demanding ransoms in order to not leak it, marking a new twist to their financially motivated attacks.\n\"In some instances, fraudulent workers demanded ransom payments from their former employers after gaining",
+          "link": "https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html",
+          "publishedOn": "2024-10-18T13:52:00.000Z",
+          "wordCount": null,
+          "title": "North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilleKZkFdelhDoVbNhtZtk-Ocl5bfbSbxUpCYLe3LmMAR6nFV6UNyetmh2-KEP4fcVCTvOH8l_2iP5ihfoI2SUyCd6Zd6r4rr-bVmhhXnnE8Pa8MnNjp9QqxU1dFVrFIhrVLuSK06XVj1hLL-7fPh6fttYL-BQb553fYZzN2SXkR930MaLhyphenhyphen1MPBTNHZW4/s1600/server.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilleKZkFdelhDoVbNhtZtk-Ocl5bfbSbxUpCYLe3LmMAR6nFV6UNyetmh2-KEP4fcVCTvOH8l_2iP5ihfoI2SUyCd6Zd6r4rr-bVmhhXnnE8Pa8MnNjp9QqxU1dFVrFIhrVLuSK06XVj1hLL-7fPh6fttYL-BQb553fYZzN2SXkR930MaLhyphenhyphen1MPBTNHZW4/s1600/server.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/the-ultimate-dspm-guide-webinar-on.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Picture your company's data as a vast, complex jigsaw puzzle—scattered across clouds, devices, and networks. Some pieces are hidden, some misplaced, and others might even be missing entirely. Keeping your data secure in today’s fast-evolving landscape can feel like an impossible challenge.\nBut there’s a game-changing solution: Data Security Posture Management (DSPM). Think of it as a high-tech,",
