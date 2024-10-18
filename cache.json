@@ -2381,6 +2381,96 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0907/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0907/",
+          "publishedOn": "2024-10-18T12:04:02.000Z",
+          "wordCount": 1250,
+          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0906/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, un contournement de la politique de sécurité et un déni de service.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0906/",
+          "publishedOn": "2024-10-18T12:00:52.000Z",
+          "wordCount": 761,
+          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0905/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0905/",
+          "publishedOn": "2024-10-18T11:55:43.000Z",
+          "wordCount": 334,
+          "title": "Multiples vulnérabilités dans les produits Moxa (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0904/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans FoxIT PDF Editor. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0904/",
+          "publishedOn": "2024-10-18T11:46:48.000Z",
+          "wordCount": 445,
+          "title": "Multiples vulnérabilités dans Foxit PDF Editor (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0903/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits IBM. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0903/",
+          "publishedOn": "2024-10-18T06:34:50.000Z",
+          "wordCount": 984,
+          "title": "Multiples vulnérabilités dans les produits IBM (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0902/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0902/",
+          "publishedOn": "2024-10-18T06:09:24.000Z",
+          "wordCount": 1072,
+          "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0901/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0901/",
+          "publishedOn": "2024-10-18T06:02:18.000Z",
+          "wordCount": 820,
+          "title": "Multiples vulnérabilités dans Microsoft Edge (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0900/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Spring Framework. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0900/",
+          "publishedOn": "2024-10-18T05:53:36.000Z",
+          "wordCount": 364,
+          "title": "Multiples vulnérabilités dans Spring Framework (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0899/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Grafana. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0899/",
+          "publishedOn": "2024-10-18T05:48:29.000Z",
+          "wordCount": 316,
+          "title": "Vulnérabilité dans Grafana (18 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0898/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans Google Pixel. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service à distance.",
