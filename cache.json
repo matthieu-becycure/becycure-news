@@ -2372,22 +2372,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEgfwa-6xAfi-etxBXGJKj6LYK-n_7lJZ6KDdQ0E-1WktOGT47C6ZC2g0lWke7FqICvZEm2XSpt8r2n1TURjSuVphonD1sZOQYM9AbRtXY3WzoEEa5HXjBWD5KZXWodHge1L1B-PFUkjxR5OG40fVWhl-P7IGG0aQ21NFFRedvlNcJ39kwraY3NmRG2cs/s1600/rasomware.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEgfwa-6xAfi-etxBXGJKj6LYK-n_7lJZ6KDdQ0E-1WktOGT47C6ZC2g0lWke7FqICvZEm2XSpt8r2n1TURjSuVphonD1sZOQYM9AbRtXY3WzoEEa5HXjBWD5KZXWodHge1L1B-PFUkjxR5OG40fVWhl-P7IGG0aQ21NFFRedvlNcJ39kwraY3NmRG2cs/s1600/rasomware.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "GitLab has released patches to address a critical flaw impacting Community Edition (CE) and Enterprise Edition (EE) that could result in an authentication bypass.\nThe vulnerability is rooted in the ruby-saml library (CVE-2024-45409, CVSS score: 10.0), which could allow an attacker to log in as an arbitrary user within the vulnerable system. It was addressed by the maintainers last week.\nThe",
-          "link": "https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html",
-          "publishedOn": "2024-09-19T05:07:00.000Z",
-          "wordCount": null,
-          "title": "GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s1600/git.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH6m5pM1NPMMHNVkcJKEqLCHOEnt-BVymJmR1nFbrIxNSgOC-Q4e-GBp-pTXrJdhFThJjfar295vwO-BiPcXbHUac81BIMedhlsNNyUUn3Tvu4CugG0X-W7XUtD5s_vXaBgv0dcgj1oKMy2pp1drjCkLrX1HbWx5HyoKcrZeyr_e3_NMhiQmjpKxroxVDf/s1600/git.png"
         }
       ]
     },

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-18T16:49:43.387Z</updated>
+    <updated>2024-10-18T17:12:05.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2896,18 +2896,6 @@ Targets of the emerging threat include plumbing, HVAC (heating,]]></summary>
         <summary type="html"><![CDATA[Microsoft has revealed that a financially motivated threat actor has been observed using a ransomware strain called INC for the first time to target the healthcare sector in the U.S.
 The tech giant's threat intelligence team is tracking the activity under the name Vanilla Tempest (formerly DEV-0832).
 "Vanilla Tempest receives hand-offs from GootLoader infections by the threat actor Storm-0494,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Patches Critical SAML Authentication Bypass Flaw in CE and EE Editions]]></title>
-        <id>https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html</id>
-        <link href="https://thehackernews.com/2024/09/gitlab-patches-critical-saml.html"/>
-        <updated>2024-09-19T05:07:00.000Z</updated>
-        <summary type="html"><![CDATA[GitLab has released patches to address a critical flaw impacting Community Edition (CE) and Enterprise Edition (EE) that could result in an authentication bypass.
-The vulnerability is rooted in the ruby-saml library (CVE-2024-45409, CVSS score: 10.0), which could allow an attacker to log in as an arbitrary user within the vulnerable system. It was addressed by the maintainers last week.
-The]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
