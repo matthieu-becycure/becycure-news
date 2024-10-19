@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-19T01:01:09.548Z</updated>
+    <updated>2024-10-19T02:29:07.507Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2852,28 +2852,6 @@ The new vulnerability, assigned the CVE identifier CVE-2024-8963, carries a CVSS
         <summary type="html"><![CDATA[Threat actors have been observed targeting the construction sector by infiltrating the FOUNDATION Accounting Software, according to new findings from Huntress.
 "Attackers have been observed brute-forcing the software at scale, and gaining access simply by using the product’s default credentials," the cybersecurity company said.
 Targets of the emerging threat include plumbing, HVAC (heating,]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails]]></title>
-        <id>https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html</id>
-        <link href="https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html"/>
-        <updated>2024-09-19T14:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A previously undocumented malware called SambaSpy is exclusively targeting users in Italy via a phishing campaign orchestrated by a suspected Brazilian Portuguese-speaking threat actor.
-"Threat actors usually try to cast a wide net to maximize their profits, but these attackers are focused on just one country," Kaspersky said in a new analysis. "It's likely that the attackers are testing the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit]]></title>
-        <id>https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html</id>
-        <link href="https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html"/>
-        <updated>2024-09-19T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[The cryptojacking operation known as TeamTNT has likely resurfaced as part of a new campaign targeting Virtual Private Server (VPS) infrastructures based on the CentOS operating system.
-"The initial access was accomplished via a Secure Shell (SSH) brute force attack on the victim's assets, during which the threat actor uploaded a malicious script," Group-IB researchers Vito Alfano and Nam Le]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>

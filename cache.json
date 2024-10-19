@@ -2308,38 +2308,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s1600/hacking.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd1CFA89VkgwAHr_3CWIrWDaP1lUgLbudUFNEPtAr0vXHOoWi08LlmrKw5k1hkpgk3HrSeTpG3OfDZ_jAkvVtLeQ7YmUXyoysc7rw4Oo2khl7Zn_UQ7XkGn-4LMWRuTxevjJ_7MJfU4SrrWT_qdF1uDvUg29ICUR6XM6Cq4GpBV8HCR-gKvgWxH83pKVHJ/s1600/hacking.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A previously undocumented malware called SambaSpy is exclusively targeting users in Italy via a phishing campaign orchestrated by a suspected Brazilian Portuguese-speaking threat actor.\n\"Threat actors usually try to cast a wide net to maximize their profits, but these attackers are focused on just one country,\" Kaspersky said in a new analysis. \"It's likely that the attackers are testing the",
-          "link": "https://thehackernews.com/2024/09/new-brazilian-linked-sambaspy-malware.html",
-          "publishedOn": "2024-09-19T14:10:00.000Z",
-          "wordCount": null,
-          "title": "New Brazilian-Linked SambaSpy Malware Targets Italian Users via Phishing Emails",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujXDb6oqH-O0kJpddR0GkqHEcPlL0RQ0K0tVLK-GnO_LM0dSTLmqqbfwehFaEJKSgYlUU7gkKj8O4JR_X4953WIP9QYyGCHWwWpfdnDZzmRL5FAaePfFosQDpTH7P8rKchXb2PALeTzRszFQEBZJbkIHFHaN_k8dNUu__hosjbffSzgpQW2_ArKSyAhoD/s1600/CYBERATTAC.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujXDb6oqH-O0kJpddR0GkqHEcPlL0RQ0K0tVLK-GnO_LM0dSTLmqqbfwehFaEJKSgYlUU7gkKj8O4JR_X4953WIP9QYyGCHWwWpfdnDZzmRL5FAaePfFosQDpTH7P8rKchXb2PALeTzRszFQEBZJbkIHFHaN_k8dNUu__hosjbffSzgpQW2_ArKSyAhoD/s1600/CYBERATTAC.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "The cryptojacking operation known as TeamTNT has likely resurfaced as part of a new campaign targeting Virtual Private Server (VPS) infrastructures based on the CentOS operating system.\n\"The initial access was accomplished via a Secure Shell (SSH) brute force attack on the victim's assets, during which the threat actor uploaded a malicious script,\" Group-IB researchers Vito Alfano and Nam Le",
-          "link": "https://thehackernews.com/2024/09/new-teamtnt-cryptojacking-campaign.html",
-          "publishedOn": "2024-09-19T13:27:00.000Z",
-          "wordCount": null,
-          "title": "New TeamTNT Cryptojacking Campaign Targets CentOS Servers with Rootkit",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQJdANNLf6jZ3svP-n1iRIY6amvjG4FFO6IkcI0CXXXNgyGKbAVQQfFFhC7zVwFaFBRcBDgLKFVqFmi0_MUyN3RUTcGy_fPxzz-diwOSHHZXaddIg72oh72RYbLDTxiNU5WksFs8a253IbKeLM64Du0RBLs16MzwdJKWFrnH77InBXvlV4_Buz4sFVoRs/s1600/servers.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDQJdANNLf6jZ3svP-n1iRIY6amvjG4FFO6IkcI0CXXXNgyGKbAVQQfFFhC7zVwFaFBRcBDgLKFVqFmi0_MUyN3RUTcGy_fPxzz-diwOSHHZXaddIg72oh72RYbLDTxiNU5WksFs8a253IbKeLM64Du0RBLs16MzwdJKWFrnH77InBXvlV4_Buz4sFVoRs/s1600/servers.png"
         }
       ]
     },
