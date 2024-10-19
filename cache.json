@@ -3453,16 +3453,6 @@
           "wordCount": 554,
           "title": "Multiples vulnérabilités dans les produits IBM (20 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Ivanti Cloud Service Appliance (CSA). Elle permet à un attaquant de provoquer un contournement de la politique de sécurité. Ivanti déclare que la vulnérabilité CVE-2024-8963 est activement exploitée dans le cadre d'attaques ciblées, en combinaison avec la...",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0796/",
-          "publishedOn": "2024-09-20T09:16:33.000Z",
-          "wordCount": 381,
-          "title": "Vulnérabilité dans Ivanti Cloud Services Appliance (20 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
