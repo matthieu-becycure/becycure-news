@@ -3463,36 +3463,6 @@
           "wordCount": 381,
           "title": "Vulnérabilité dans Ivanti Cloud Services Appliance (20 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans les produits Microsoft. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0795/",
-          "publishedOn": "2024-09-20T09:11:48.000Z",
-          "wordCount": 328,
-          "title": "Vulnérabilité dans les produits Microsoft (20 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0793/",
-          "publishedOn": "2024-09-20T09:11:47.000Z",
-          "wordCount": 542,
-          "title": "Multiples vulnérabilités dans Microsoft Edge (20 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0794/",
-          "publishedOn": "2024-09-20T09:11:47.000Z",
-          "wordCount": 354,
-          "title": "Vulnérabilité dans Microsoft Office (20 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
