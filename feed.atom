@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-19T17:29:51.441Z</updated>
+    <updated>2024-10-19T17:43:33.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2829,18 +2829,6 @@ Google-owned Mandiant is tracking the activity cluster under the moniker UNC1860
         <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Users Can Now Sync Passkeys Across Devices with New Google PIN Feature]]></title>
-        <id>https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html</id>
-        <link href="https://thehackernews.com/2024/09/chrome-users-can-now-sync-passkeys.html"/>
-        <updated>2024-09-20T05:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Thursday unveiled a Password Manager PIN to let Chrome web users sync their passkeys across Windows, macOS, Linux, ChromeOS, and Android devices.
-"This PIN adds an additional layer of security to ensure your passkeys are end-to-end encrypted and can't be accessed by anyone, not even Google," Chrome product manager Chirag Desai said.
-The PIN is a six-digit code by default, although it's]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
