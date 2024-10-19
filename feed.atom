@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-19T07:43:31.285Z</updated>
+    <updated>2024-10-19T08:15:19.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crypt Ghouls Targets Russian Firms with LockBit 3.0 and Babuk Ransomware Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html</id>
+        <link href="https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html"/>
+        <updated>2024-10-19T07:39:00.000Z</updated>
+        <summary type="html"><![CDATA[A nascent threat actor known as Crypt Ghouls has been linked to a set of cyber attacks targeting Russian businesses and government agencies with ransomware with the twin goals of disrupting business operations and financial gain.
+"The group under review has a toolkit that includes utilities such as Mimikatz, XenAllPasswordPro, PingCastle, Localtonet, resocks, AnyDesk, PsExec, and others,"]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[North Korean IT Workers in Western Firms Now Demanding Ransom for Stolen Data]]></title>
         <id>https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html</id>

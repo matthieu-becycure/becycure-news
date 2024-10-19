@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A nascent threat actor known as Crypt Ghouls has been linked to a set of cyber attacks targeting Russian businesses and government agencies with ransomware with the twin goals of disrupting business operations and financial gain.\n\"The group under review has a toolkit that includes utilities such as Mimikatz, XenAllPasswordPro, PingCastle, Localtonet, resocks, AnyDesk, PsExec, and others,\"",
+          "link": "https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html",
+          "publishedOn": "2024-10-19T07:39:00.000Z",
+          "wordCount": null,
+          "title": "Crypt Ghouls Targets Russian Firms with LockBit 3.0 and Babuk Ransomware Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRV5GzR0sNMPEMuGzbEMjbxJhqbySnf3Y2FPIWDMDaGY1MCd36oz7kQORebmAFNmB3FRB8C80kcwqLdwqtXeA5gobDOPk8onhse8tsNA4v34jQgHaJtECq1p5Q-iqMaGT-16McWYPcOnAbmTm95v4998N7-cLL0kKFXZh1fc-Dru7N-f7j-cN75ceQ7vV/s1600/russia.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcRV5GzR0sNMPEMuGzbEMjbxJhqbySnf3Y2FPIWDMDaGY1MCd36oz7kQORebmAFNmB3FRB8C80kcwqLdwqtXeA5gobDOPk8onhse8tsNA4v34jQgHaJtECq1p5Q-iqMaGT-16McWYPcOnAbmTm95v4998N7-cLL0kKFXZh1fc-Dru7N-f7j-cN75ceQ7vV/s1600/russia.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/north-korean-it-workers-in-western.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "North Korean information technology (IT) workers who obtain employment under false identities in Western companies are not only stealing intellectual property, but are also stepping up by demanding ransoms in order to not leak it, marking a new twist to their financially motivated attacks.\n\"In some instances, fraudulent workers demanded ransom payments from their former employers after gaining",
