@@ -2244,22 +2244,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "In IT environments, some secrets are managed well and some fly under the radar. Here’s a quick checklist of what kinds of secrets companies typically manage, including one type they should manage:\n\nPasswords [x]\nTLS certificates [x]\nAccounts [x]\nSSH keys ???\n\nThe secrets listed above are typically secured with privileged access management (PAM) solutions or similar. Yet, most traditional PAM",
-          "link": "https://thehackernews.com/2024/09/passwordless-and-keyless-future-of.html",
-          "publishedOn": "2024-09-20T11:00:00.000Z",
-          "wordCount": null,
-          "title": "Passwordless AND Keyless: The Future of (Privileged) Access Management",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfHcvdCB-5xGGsFdT9NF048-Q6Em3XVl9BMWYyfOhYd0GAz6Us5A5BdmjUSjYRSwQMBm8_qEYEFJ-s9VR5sajQvQCgjVwXZVVyVsJ-sNPoJ6BFJOyZ1X81DUMh8UNX1tuf_azCgxSWlyKN_tk4w6ahydym-ov9o_5y0w8CwIOlJT0ptTG0sU2gWq0FlY/s1600/ssh-main.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTfHcvdCB-5xGGsFdT9NF048-Q6Em3XVl9BMWYyfOhYd0GAz6Us5A5BdmjUSjYRSwQMBm8_qEYEFJ-s9VR5sajQvQCgjVwXZVVyVsJ-sNPoJ6BFJOyZ1X81DUMh8UNX1tuf_azCgxSWlyKN_tk4w6ahydym-ov9o_5y0w8CwIOlJT0ptTG0sU2gWq0FlY/s1600/ssh-main.png"
         }
       ]
     },
