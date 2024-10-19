@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "In the modern enterprise, data security is often discussed using a complex lexicon of acronyms—DLP, DDR, DSPM, and many others. While these acronyms represent critical frameworks, architectures, and tools for protecting sensitive information, they can also overwhelm those trying to piece together an effective security strategy. This article aims to demystify some of the most important acronyms",
+          "link": "https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html",
+          "publishedOn": "2024-10-19T09:30:00.000Z",
+          "wordCount": null,
+          "title": "Acronym Overdose – Navigating the Complex Data Security Landscape",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCw-5BscPgwsAIHc-pRW4lYjTm6ns1c_sS4e6rVawDf2jC4nim5hbUajCGcHkFSWWO_zbQTjZGYmTvxmQjUOO1M3DfOZerR6bmmL6K3_cj-KeC14BH9Qbo-RGdOQe-O3F0rqu-UQL0Kz0Q8fwHX6veyv0H0kYirFsJUxSr0HMoSb6806NqFcW6Wpya_S6M/s1600/main.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCw-5BscPgwsAIHc-pRW4lYjTm6ns1c_sS4e6rVawDf2jC4nim5hbUajCGcHkFSWWO_zbQTjZGYmTvxmQjUOO1M3DfOZerR6bmmL6K3_cj-KeC14BH9Qbo-RGdOQe-O3F0rqu-UQL0Kz0Q8fwHX6veyv0H0kYirFsJUxSr0HMoSb6806NqFcW6Wpya_S6M/s1600/main.jpg"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "A nascent threat actor known as Crypt Ghouls has been linked to a set of cyber attacks targeting Russian businesses and government agencies with ransomware with the twin goals of disrupting business operations and financial gain.\n\"The group under review has a toolkit that includes utilities such as Mimikatz, XenAllPasswordPro, PingCastle, Localtonet, resocks, AnyDesk, PsExec, and others,\"",

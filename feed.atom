@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-19T09:43:28.309Z</updated>
+    <updated>2024-10-19T10:12:13.487Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Acronym Overdose – Navigating the Complex Data Security Landscape]]></title>
+        <id>https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html</id>
+        <link href="https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html"/>
+        <updated>2024-10-19T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[In the modern enterprise, data security is often discussed using a complex lexicon of acronyms—DLP, DDR, DSPM, and many others. While these acronyms represent critical frameworks, architectures, and tools for protecting sensitive information, they can also overwhelm those trying to piece together an effective security strategy. This article aims to demystify some of the most important acronyms]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypt Ghouls Targets Russian Firms with LockBit 3.0 and Babuk Ransomware Attacks]]></title>
         <id>https://thehackernews.com/2024/10/crypt-ghouls-targets-russian-firms-with.html</id>
