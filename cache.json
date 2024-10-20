@@ -2228,22 +2228,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCEWlFX41p4OGq5wJoAy8U5bE7lUSu7St3FFLpo8spx9yIj92K0QZJ-IIaZN-t7ouj0_mWPRzVUrQEalqVbjX2zY1fAUcOeJrfoVtL-142G26BlEChpYBc2GG9lh175UZwnS7Ss0o9arj8Ub6sKyCI0E0EiKKnJKAQ_PTImRSd-KQOYyf9NJNYW1qOvqX/s1600/telegram.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjCEWlFX41p4OGq5wJoAy8U5bE7lUSu7St3FFLpo8spx9yIj92K0QZJ-IIaZN-t7ouj0_mWPRzVUrQEalqVbjX2zY1fAUcOeJrfoVtL-142G26BlEChpYBc2GG9lh175UZwnS7Ss0o9arj8Ub6sKyCI0E0EiKKnJKAQ_PTImRSd-KQOYyf9NJNYW1qOvqX/s1600/telegram.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Law enforcement authorities have announced the takedown of an international criminal network that leveraged a phishing platform to unlock stolen or lost mobile phones.\nThe phishing-as-a-service (PhaaS) platform, called iServer, is estimated to have claimed more than 483,000 victims globally, led by Chile (77,000), Colombia (70,000), Ecuador (42,000), Peru (41,500), Spain (30,000), and Argentina",
-          "link": "https://thehackernews.com/2024/09/europol-shuts-down-major-phishing.html",
-          "publishedOn": "2024-09-20T12:58:00.000Z",
-          "wordCount": null,
-          "title": "Europol Shuts Down Major Phishing Scheme Targeting Mobile Phone Credentials",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiiWSXUGkBUwrVRNJipRjjFUxqQpiLeEE9L_YrP-KXYciCIPFgtIDfL_azFN0g05gL4DLvBMFR5lKXuRG12_kbEIxtPQEDjIUsLr9B76Jm2EvYQYZIIk_CM8tqXlS2DsDEfjburMZk6L4qCuoSBI-XVqHwRs58ETJ20sbsPnTKElX9oLhHvmWa4rvImO2N/s1600/cybercrime.png"
         }
       ]
     },
@@ -3380,26 +3364,6 @@
           "publishedOn": "2024-09-23T06:51:36.000Z",
           "wordCount": 505,
           "title": "Multiples vulnérabilités dans les produits ESET (23 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0800/",
-          "publishedOn": "2024-09-20T11:44:32.000Z",
-          "wordCount": 1577,
-          "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (20 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0799/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0799/",
-          "publishedOn": "2024-09-20T11:44:02.000Z",
-          "wordCount": 2679,
-          "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (20 septembre 2024)",
           "imageUrl": null
         }
       ]
