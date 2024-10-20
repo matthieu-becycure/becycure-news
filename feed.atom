@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-20T08:37:06.978Z</updated>
+    <updated>2024-10-20T08:47:40.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials]]></title>
+        <id>https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html</id>
+        <link href="https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html"/>
+        <updated>2024-10-20T07:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Unknown threat actors have been observed attempting to exploit a now-patched security flaw in the open-source Roundcube webmail software as part of a phishing attack designed to steal user credentials.
+Russian cybersecurity company Positive Technologies said it discovered last month that an email was sent to an unspecified governmental organization located in one of the Commonwealth of]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acronym Overdose – Navigating the Complex Data Security Landscape]]></title>
         <id>https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html</id>

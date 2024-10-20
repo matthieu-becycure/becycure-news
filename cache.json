@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Unknown threat actors have been observed attempting to exploit a now-patched security flaw in the open-source Roundcube webmail software as part of a phishing attack designed to steal user credentials.\nRussian cybersecurity company Positive Technologies said it discovered last month that an email was sent to an unspecified governmental organization located in one of the Commonwealth of",
+          "link": "https://thehackernews.com/2024/10/hackers-exploit-roundcube-webmail-xss.html",
+          "publishedOn": "2024-10-20T07:37:00.000Z",
+          "wordCount": null,
+          "title": "Hackers Exploit Roundcube Webmail XSS Vulnerability to Steal Login Credentials",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZuKNtFMMlMGAzijsvtVIkOReCPQTeJQlNx_ouQDXZPe1bFEDX3lEkVxauO40AhwqKaYCLIVYDBZumIsW5ERKfUQ9CvB-OVg10Dr0keC8ojAJ_jK6KTwQtKd8fblcO0FuXgMTWXotoCd9KgWPdsesmLTufSCkRLVNrWAv-25SZravKdgDF6jCNuNc6X0T/s1600/roundcube.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoZuKNtFMMlMGAzijsvtVIkOReCPQTeJQlNx_ouQDXZPe1bFEDX3lEkVxauO40AhwqKaYCLIVYDBZumIsW5ERKfUQ9CvB-OVg10Dr0keC8ojAJ_jK6KTwQtKd8fblcO0FuXgMTWXotoCd9KgWPdsesmLTufSCkRLVNrWAv-25SZravKdgDF6jCNuNc6X0T/s1600/roundcube.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/acronym-overdose-navigating-complex.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "In the modern enterprise, data security is often discussed using a complex lexicon of acronyms—DLP, DDR, DSPM, and many others. While these acronyms represent critical frameworks, architectures, and tools for protecting sensitive information, they can also overwhelm those trying to piece together an effective security strategy. This article aims to demystify some of the most important acronyms",
