@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/guide-ultimate-pentest-checklist-for.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Pentest Checklists Are More Important Than Ever\nGiven the expanding attack surface coupled with the increasing sophistication of attacker tactics and techniques, penetration testing checklists have become essential for ensuring thorough assessments across an organization’s attack surface, both internal and external. By providing a structured approach, these checklists help testers systematically",
+          "link": "https://thehackernews.com/2024/10/guide-ultimate-pentest-checklist-for.html",
+          "publishedOn": "2024-10-21T11:25:00.000Z",
+          "wordCount": null,
+          "title": "Guide:  The Ultimate Pentest Checklist for Full-Stack Security",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7xtZCPs1t__xxiXmyhwTeejgdiJMsR3dkEMk_K02QV331ikuX9iiXBKNLJabVPPEI8lV3whqRzeW_1-ECcWTXeQ49jKViUCS5besA-OS4AO0wQIQPbDd3fSHR_-9oVVKncItxQDz-7lFDQuBSqJT4GkqGCgVzLSGWvmGHcCy5uvkm1h8nNcGak6dGQrY/s1600/breacklock.jpg"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7xtZCPs1t__xxiXmyhwTeejgdiJMsR3dkEMk_K02QV331ikuX9iiXBKNLJabVPPEI8lV3whqRzeW_1-ECcWTXeQ49jKViUCS5besA-OS4AO0wQIQPbDd3fSHR_-9oVVKncItxQDz-7lFDQuBSqJT4GkqGCgVzLSGWvmGHcCy5uvkm1h8nNcGak6dGQrY/s1600/breacklock.jpg"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_21.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Hi there! Here’s your quick update on the latest in cybersecurity.\nHackers are using new tricks to break into systems we thought were secure—like finding hidden doors in locked houses. But the good news? Security experts are fighting back with smarter tools to keep data safe.\nSome big companies were hit with attacks, while others fixed their vulnerabilities just in time. It's a constant battle.",
+          "link": "https://thehackernews.com/2024/10/thn-cybersecurity-recap-top-threats_21.html",
+          "publishedOn": "2024-10-21T11:11:00.000Z",
+          "wordCount": null,
+          "title": "THN Cybersecurity Recap: Top Threats, Tools and News (Oct 14 - Oct 20)",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm5mfxnQuH2uKY8piPpr9yh9mb-0xQ3xKJ8PH-XTJHc1PuMfKKH3X3GVsspHUzbBdf_rJ-Q-FXmfIxK2pcPUcGtQo3AlnchGRCRivr7MJ0XwZrC5sBuwrX6Nb2nfJMRhcFhjWdgsYzkvA1ooIwh_hjsvybQNaDbQ_7G9DY7UgBgYEaNbAjs6Y31Jlx_5wZ/s1600/cybersecurity.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm5mfxnQuH2uKY8piPpr9yh9mb-0xQ3xKJ8PH-XTJHc1PuMfKKH3X3GVsspHUzbBdf_rJ-Q-FXmfIxK2pcPUcGtQo3AlnchGRCRivr7MJ0XwZrC5sBuwrX6Nb2nfJMRhcFhjWdgsYzkvA1ooIwh_hjsvybQNaDbQ_7G9DY7UgBgYEaNbAjs6Y31Jlx_5wZ/s1600/cybersecurity.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/researchers-discover-severe-security.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have discovered severe cryptographic issues in various end-to-end encrypted (E2EE) cloud storage platforms that could be exploited to leak sensitive data.\n\"The vulnerabilities range in severity: in many cases a malicious server can inject files, tamper with file data, and even gain direct access to plaintext,\" ETH Zurich researchers Jonas Hofmann and Kien Tuong Truong",
