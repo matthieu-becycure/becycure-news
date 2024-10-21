@@ -2269,6 +2269,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-046/",
+          "author": null,
+          "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
+          "link": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-046/",
+          "publishedOn": "2024-10-21T14:00:00.000Z",
+          "wordCount": 1148,
+          "title": "Bulletin d'actualité CERTFR-2024-ACT-046 (21 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0909/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Synology. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0909/",
+          "publishedOn": "2024-10-21T12:07:45.000Z",
+          "wordCount": 486,
+          "title": "Multiples vulnérabilités dans les produits Synology (21 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0908/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Microsoft Edge. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0908/",
+          "publishedOn": "2024-10-21T12:06:48.000Z",
+          "wordCount": 308,
+          "title": "Vulnérabilité dans Microsoft Edge (21 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0907/",
           "author": null,
           "description": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
