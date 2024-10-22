@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-22T06:40:47.314Z</updated>
+    <updated>2024-10-22T07:13:43.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability]]></title>
+        <id>https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html</id>
+        <link href="https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html"/>
+        <updated>2024-10-22T07:03:00.000Z</updated>
+        <summary type="html"><![CDATA[VMware has released software updates to address an already patched security flaw in vCenter Server that could pave the way for remote code execution.
+The vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), concerns a case of heap-overflow vulnerability in the implementation of the DCE/RPC protocol.
+"A malicious actor with network access to vCenter Server may trigger this vulnerability by]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack]]></title>
         <id>https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html</id>
