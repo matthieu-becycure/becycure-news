@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Two malware families that suffered setbacks in the aftermath of a coordinated law enforcement operation called Endgame have resurfaced as part of new phishing campaigns.\nBumblebee and Latrodectus, which are both malware loaders, are designed to steal personal data, along with downloading and executing additional payloads onto compromised hosts.\nTracked under the names BlackWidow, IceNova, Lotus,",
+          "link": "https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html",
+          "publishedOn": "2024-10-22T10:00:00.000Z",
+          "wordCount": null,
+          "title": "Bumblebee and Latrodectus Malware Return with Sophisticated Phishing Strategies",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR03YL5B5DP8-40UTIrVvhjfdaBCAKovrqRlIRVMIFcPVk0jQECTRH5y0VlzXsksvArwLTIuGdXIfG19VdQymqIduPJ73hAdspWxJnaIOAo2MMJ-ac9gpiw3SISbI7lVLMiV8AXvAYziEjBuYINAWDJCHIUFboDrZe7ARd7aAsAQCuVqJrvg3Dqx8CKaKz/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR03YL5B5DP8-40UTIrVvhjfdaBCAKovrqRlIRVMIFcPVk0jQECTRH5y0VlzXsksvArwLTIuGdXIfG19VdQymqIduPJ73hAdspWxJnaIOAo2MMJ-ac9gpiw3SISbI7lVLMiV8AXvAYziEjBuYINAWDJCHIUFboDrZe7ARd7aAsAQCuVqJrvg3Dqx8CKaKz/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/malicious-npm-packages-target.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have discovered a number of suspicious packages published to the npm registry that are designed to harvest Ethereum private keys and gain remote access to the machine via the secure shell (SSH) protocol.\nThe packages attempt to \"gain SSH access to the victim's machine by writing the attacker’s SSH public key in the root user’s authorized_keys file,\" software supply",
+          "link": "https://thehackernews.com/2024/10/malicious-npm-packages-target.html",
+          "publishedOn": "2024-10-22T09:33:00.000Z",
+          "wordCount": null,
+          "title": "Malicious npm Packages Target Developers' Ethereum Wallets with SSH Backdoor",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8NplkVO0QQMjwfqR7YOVpn1E-Y2EtfXc1Kn4UA7_CVidYJSYXvSGRpgLydR_u-XcbkPSEZFY__4nmfhDowsqt7eWJS3BhO_NzbpmfLM6sAylve_1sqcT2YKyxkEDYORvFx8QIBGsFJlA5KIqobW5cdhFSJBuzXiT4dm53eJDIh07LLuajfL6fuNPISQa3/s1600/ether.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8NplkVO0QQMjwfqR7YOVpn1E-Y2EtfXc1Kn4UA7_CVidYJSYXvSGRpgLydR_u-XcbkPSEZFY__4nmfhDowsqt7eWJS3BhO_NzbpmfLM6sAylve_1sqcT2YKyxkEDYORvFx8QIBGsFJlA5KIqobW5cdhFSJBuzXiT4dm53eJDIh07LLuajfL6fuNPISQa3/s1600/ether.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "VMware has released software updates to address an already patched security flaw in vCenter Server that could pave the way for remote code execution.\nThe vulnerability, tracked as CVE-2024-38812 (CVSS score: 9.8), concerns a case of heap-overflow vulnerability in the implementation of the DCE/RPC protocol.\n\"A malicious actor with network access to vCenter Server may trigger this vulnerability by",

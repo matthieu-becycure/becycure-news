@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-22T10:13:43.152Z</updated>
+    <updated>2024-10-22T10:33:26.509Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bumblebee and Latrodectus Malware Return with Sophisticated Phishing Strategies]]></title>
+        <id>https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html</id>
+        <link href="https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html"/>
+        <updated>2024-10-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Two malware families that suffered setbacks in the aftermath of a coordinated law enforcement operation called Endgame have resurfaced as part of new phishing campaigns.
+Bumblebee and Latrodectus, which are both malware loaders, are designed to steal personal data, along with downloading and executing additional payloads onto compromised hosts.
+Tracked under the names BlackWidow, IceNova, Lotus,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malicious npm Packages Target Developers' Ethereum Wallets with SSH Backdoor]]></title>
+        <id>https://thehackernews.com/2024/10/malicious-npm-packages-target.html</id>
+        <link href="https://thehackernews.com/2024/10/malicious-npm-packages-target.html"/>
+        <updated>2024-10-22T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered a number of suspicious packages published to the npm registry that are designed to harvest Ethereum private keys and gain remote access to the machine via the secure shell (SSH) protocol.
+The packages attempt to "gain SSH access to the victim's machine by writing the attacker’s SSH public key in the root user’s authorized_keys file," software supply]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware Releases vCenter Server Update to Fix Critical RCE Vulnerability]]></title>
         <id>https://thehackernews.com/2024/10/vmware-releases-vcenter-server-update.html</id>
