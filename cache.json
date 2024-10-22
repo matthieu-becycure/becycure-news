@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Service accounts are vital in any enterprise, running automated processes like managing applications or scripts. However, without proper monitoring, they can pose a significant security risk due to their elevated privileges. This guide will walk you through how to locate and secure these accounts within Active Directory (AD), and explore how Silverfort’s solutions can help enhance your",
+          "link": "https://thehackernews.com/2024/10/a-comprehensive-guide-to-finding.html",
+          "publishedOn": "2024-10-22T11:00:00.000Z",
+          "wordCount": null,
+          "title": "A Comprehensive Guide to Finding Service Accounts in Active Directory",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpe-vqHPI08or8S0OALxsFV09AXhN_CDNPV9G8PT1LA6k80nihNFjachpfh_mLkifhHD3xwchAXrR1Zj00WHjGM-TPUSwfWG-bduvFuCVh461qx11jhcUeKCpwOD9_gdFvmc_JmhJH-hFwhxaaBAinROnyu3Zju6MCSJVntCN98rehX_iuThNsE52t2_SX/s1600/AD-SECURE.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpe-vqHPI08or8S0OALxsFV09AXhN_CDNPV9G8PT1LA6k80nihNFjachpfh_mLkifhHD3xwchAXrR1Zj00WHjGM-TPUSwfWG-bduvFuCVh461qx11jhcUeKCpwOD9_gdFvmc_JmhJH-hFwhxaaBAinROnyu3Zju6MCSJVntCN98rehX_iuThNsE52t2_SX/s1600/AD-SECURE.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/bumblebee-and-latrodectus-malware.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Two malware families that suffered setbacks in the aftermath of a coordinated law enforcement operation called Endgame have resurfaced as part of new phishing campaigns.\nBumblebee and Latrodectus, which are both malware loaders, are designed to steal personal data, along with downloading and executing additional payloads onto compromised hosts.\nTracked under the names BlackWidow, IceNova, Lotus,",
