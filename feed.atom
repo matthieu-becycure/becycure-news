@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-22T21:43:34.379Z</updated>
+    <updated>2024-10-22T22:13:07.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2813,17 +2813,6 @@ The new version has been codenamed Octo2 by the malware author, Dutch security f
         <link href="https://thehackernews.com/2024/09/why-never-expire-passwords-can-be-risky.html"/>
         <updated>2024-09-23T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Password resets can be frustrating for end users. Nobody likes being interrupted by the ‘time to change your password’ notification – and they like it even less when the new passwords they create are rejected by their organization’s password policy. IT teams share the pain, with resetting passwords via service desk tickets and support calls being an everyday burden. Despite this, it’s commonly]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Flaw in Microchip ASF Exposes IoT Devices to Remote Code Execution Risk]]></title>
-        <id>https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html</id>
-        <link href="https://thehackernews.com/2024/09/critical-flaw-in-microchip-asf-exposes.html"/>
-        <updated>2024-09-23T09:58:00.000Z</updated>
-        <summary type="html"><![CDATA[A critical security flaw has been disclosed in the Microchip Advanced Software Framework (ASF) that, if successfully exploited, could lead to remote code execution.
-The vulnerability, tracked as CVE-2024-7490, carries a CVSS score of 9.5 out of a maximum of 10.0. It has been described as a stack-based overflow vulnerability in ASF's implementation of the tinydhcp server stemming from a lack of]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
