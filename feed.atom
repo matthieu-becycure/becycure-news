@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-22T17:43:30.471Z</updated>
+    <updated>2024-10-22T18:17:26.311Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans]]></title>
+        <id>https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html</id>
+        <link href="https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html"/>
+        <updated>2024-10-22T17:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Russian-speaking users have become the target of a new phishing campaign that leverages an open-source phishing toolkit called Gophish to deliver DarkCrystal RAT (aka DCRat) and a previously undocumented remote access trojan dubbed PowerRAT.
+"The campaign involves modular infection chains that are either Maldoc or HTML-based infections and require the victim's intervention to trigger the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Security Flaw in Styra's OPA Exposes NTLM Hashes to Remote Attackers]]></title>
         <id>https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html</id>

@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Russian-speaking users have become the target of a new phishing campaign that leverages an open-source phishing toolkit called Gophish to deliver DarkCrystal RAT (aka DCRat) and a previously undocumented remote access trojan dubbed PowerRAT.\n\"The campaign involves modular infection chains that are either Maldoc or HTML-based infections and require the victim's intervention to trigger the",
+          "link": "https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html",
+          "publishedOn": "2024-10-22T17:06:00.000Z",
+          "wordCount": null,
+          "title": "Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh219oGnY3AKVBPBCJm09TzH8EYdx_66SeJHCEn8FaubuYPzBFbrkbmyNaE01-CpVSPtfK7K0qr8cBe-MPp-1BPVA-CZ6F9g_MFU8B6g7BfkI4ol8BtJ2lVrFwQdSIJLdPk4TVPz1h3nVJ9dHkoMrY5ldZj5KESGl_gDEN8Fk0wy_F62GPm-wKbwKd9Cy/s1600/cisco.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyh219oGnY3AKVBPBCJm09TzH8EYdx_66SeJHCEn8FaubuYPzBFbrkbmyNaE01-CpVSPtfK7K0qr8cBe-MPp-1BPVA-CZ6F9g_MFU8B6g7BfkI4ol8BtJ2lVrFwQdSIJLdPk4TVPz1h3nVJ9dHkoMrY5ldZj5KESGl_gDEN8Fk0wy_F62GPm-wKbwKd9Cy/s1600/cisco.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/security-flaw-in-styras-opa-exposes.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Details have emerged about a now-patched security flaw in Styra's Open Policy Agent (OPA) that, if successfully exploited, could have led to leakage of New Technology LAN Manager (NTLM) hashes.\n\"The vulnerability could have allowed an attacker to leak the NTLM credentials of the OPA server's local user account to a remote server, potentially allowing the attacker to relay the authentication or",
