@@ -3533,26 +3533,6 @@
           "wordCount": 1099,
           "title": "Bulletin d'actualité CERTFR-2024-ACT-042 (23 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0802/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Moxa. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0802/",
-          "publishedOn": "2024-09-23T07:01:05.000Z",
-          "wordCount": 369,
-          "title": "Multiples vulnérabilités dans les produits Moxa (23 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0801/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits ESET. Elles permettent à un attaquant de provoquer une élévation de privilèges et un déni de service.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0801/",
-          "publishedOn": "2024-09-23T06:51:36.000Z",
-          "wordCount": 505,
-          "title": "Multiples vulnérabilités dans les produits ESET (23 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
