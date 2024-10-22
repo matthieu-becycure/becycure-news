@@ -2381,6 +2381,36 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0911/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0911/",
+          "publishedOn": "2024-10-22T11:15:40.000Z",
+          "wordCount": 355,
+          "title": "Vulnérabilité dans les produits Moxa (22 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0910/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans MongoDB. Elle permet à un attaquant de provoquer un déni de service à distance.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0910/",
+          "publishedOn": "2024-10-22T09:47:20.000Z",
+          "wordCount": 317,
+          "title": "Vulnérabilité dans MongoDB (22 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-013/",
+          "author": null,
+          "description": "Ivanti a publié plusieurs avis de sécurité sur des vulnérabilités affectant CSA qui sont activement exploitées : * le 10 septembre 2024, Ivanti a publié un avis de sécurité concernant la vulnérabilité CVE-2024-8190 qui permet à un attaquant, authentifié en tant qu'administrateur, d'exécuter du...",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-013/",
+          "publishedOn": "2024-10-22T02:00:00.000Z",
+          "wordCount": 1340,
+          "title": "Exploitations de vulnérabilités dans Ivanti Cloud Services Appliance (CSA) (22 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/actualite/CERTFR-2024-ACT-046/",
           "author": null,
           "description": "Ce bulletin d’actualité du CERT-FR revient sur les vulnérabilités significatives de la semaine passée pour souligner leurs criticités. Il ne remplace pas l’analyse de l’ensemble des avis et alertes publiés par le CERT-FR dans le cadre d’une analyse de risques pour prioriser l’application des...",
