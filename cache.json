@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical security flaw impacting ScienceLogic SL1 to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation as a zero-day.\nThe vulnerability in question, tracked as CVE-2024-9537 (CVSS v4 score: 9.3), refers to a bug involving an unspecified third-party component that could",
+          "link": "https://thehackernews.com/2024/10/cisa-adds-sciencelogic-sl1.html",
+          "publishedOn": "2024-10-22T04:47:00.000Z",
+          "wordCount": null,
+          "title": "CISA Adds ScienceLogic SL1 Vulnerability to Exploited Catalog After Active Zero-Day Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS84nYerRg8Ea9WWMPGu8COfaJB-dBonVjS7ayZvw5CCfN2OLMr-ETnVPC66oPqYYSzFNP5FxzZKcT2cXA3sOVBsr-5h1QGBE5K3oegwvW0iwa3W_6hsq5aQGIO0kfGxl5bHjx-yryjNEmfA3tV9k8S3WbEgF8jLy7Q-NZxor1hyphenhyphenaPKMWSblQT-vHj1OY-/s1600/hacker.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS84nYerRg8Ea9WWMPGu8COfaJB-dBonVjS7ayZvw5CCfN2OLMr-ETnVPC66oPqYYSzFNP5FxzZKcT2cXA3sOVBsr-5h1QGBE5K3oegwvW0iwa3W_6hsq5aQGIO0kfGxl5bHjx-yryjNEmfA3tV9k8S3WbEgF8jLy7Q-NZxor1hyphenhyphenaPKMWSblQT-vHj1OY-/s1600/hacker.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/chinese-nation-state-hackers-apt41-hit.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "The prolific Chinese nation-state actor known as APT41 (aka Brass Typhoon, Earth Baku, Wicked Panda, or Winnti) has been attributed to a sophisticated cyber attack targeting the gambling and gaming industry.\n\"Over a period of at least six months, the attackers stealthily gathered valuable information from the targeted company including, but not limited to, network configurations, user passwords,",
