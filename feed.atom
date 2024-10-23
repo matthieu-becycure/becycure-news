@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-23T17:43:37.305Z</updated>
+    <updated>2024-10-23T18:17:14.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Grandoreiro Banking Malware Variants Emerge with Advanced Tactics to Evade Detection]]></title>
+        <id>https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html</id>
+        <link href="https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html"/>
+        <updated>2024-10-23T17:33:00.000Z</updated>
+        <summary type="html"><![CDATA[New variants of a banking malware called Grandoreiro have been found to adopt new tactics in an effort to bypass anti-fraud measures, indicating that the malicious software is continuing to be actively developed despite law enforcement efforts to crack down on the operation.
+"Only part of this gang was arrested: the remaining operators behind Grandoreiro continue attacking users all over the]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Fortinet FortiManager (23 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/</id>
+        <link href="https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/"/>
+        <updated>2024-10-23T15:45:11.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Fortinet FortiManager. Elle permet à un attaquant non authentifié de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2024-47575 est activement exploitée. L'éditeur précise qu'en exploitant cette...]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulnérabilité dans Fortinet FortiManager (23 octobre 2024)]]></title>
+        <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0917/</id>
+        <link href="https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0917/"/>
+        <updated>2024-10-23T15:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Une vulnérabilité a été découverte dans Fortinet FortiManager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2024-47575 est activement exploitée.]]></summary>
+        <author>
+            <name>CERT-FR</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large]]></title>
         <id>https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html</id>

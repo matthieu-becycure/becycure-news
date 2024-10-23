@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "New variants of a banking malware called Grandoreiro have been found to adopt new tactics in an effort to bypass anti-fraud measures, indicating that the malicious software is continuing to be actively developed despite law enforcement efforts to crack down on the operation.\n\"Only part of this gang was arrested: the remaining operators behind Grandoreiro continue attacking users all over the",
+          "link": "https://thehackernews.com/2024/10/new-grandoreiro-banking-malware.html",
+          "publishedOn": "2024-10-23T17:33:00.000Z",
+          "wordCount": null,
+          "title": "New Grandoreiro Banking Malware Variants Emerge with Advanced Tactics to Evade Detection",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNcRp0ccI89MYGtCMPRySP8aeTXlOQO3q5Ntp_IehOyAWvYjwfqI15ZXxAuDMaCO97Tprj9EjSIg37ZoyKjKP1QeTlgqxFcio6FAB9-O9bP-s3HFmRSFcKh1OCX45SsC-xLufKhqyPU1QGPpcaz5BX6cHEhZTXZRhUCJmr8kR-Ie94nHVQv9NQZdyO59AF/s1600/trojan.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNcRp0ccI89MYGtCMPRySP8aeTXlOQO3q5Ntp_IehOyAWvYjwfqI15ZXxAuDMaCO97Tprj9EjSIg37ZoyKjKP1QeTlgqxFcio6FAB9-O9bP-s3HFmRSFcKh1OCX45SsC-xLufKhqyPU1QGPpcaz5BX6cHEhZTXZRhUCJmr8kR-Ie94nHVQv9NQZdyO59AF/s1600/trojan.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Identity security is front, and center given all the recent breaches that include Microsoft, Okta, Cloudflare and Snowflake to name a few. Organizations are starting to realize that a shake-up is needed in terms of the way we approach identity security both from a strategic but also a technology vantage point. \nIdentity security is more than just provisioning access \nThe conventional view",
@@ -2380,6 +2396,26 @@
       "feedUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
+        {
+          "id": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Fortinet FortiManager. Elle permet à un attaquant non authentifié de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2024-47575 est activement exploitée. L'éditeur précise qu'en exploitant cette...",
+          "link": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-014/",
+          "publishedOn": "2024-10-23T15:45:11.000Z",
+          "wordCount": 588,
+          "title": "Vulnérabilité dans Fortinet FortiManager (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0917/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans Fortinet FortiManager. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Fortinet indique que la vulnérabilité CVE-2024-47575 est activement exploitée.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0917/",
+          "publishedOn": "2024-10-23T15:38:46.000Z",
+          "wordCount": 356,
+          "title": "Vulnérabilité dans Fortinet FortiManager (23 octobre 2024)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0916/",
           "author": null,
