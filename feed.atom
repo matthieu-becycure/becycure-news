@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-23T20:45:17.308Z</updated>
+    <updated>2024-10-23T21:12:16.113Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2900,16 +2900,6 @@ If]]></summary>
 The new version has been codenamed Octo2 by the malware author, Dutch security firm ThreatFabric said in a report shared with The Hacker News, adding campaigns distributing the malware have]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exfiltration de données du secteur social - Retour d’expérience du CERT-FR (24 septembre 2024)]]></title>
-        <id>https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-009/</id>
-        <link href="https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-009/"/>
-        <updated>2024-09-24T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[L’année 2023 et le début de l’année 2024 ont été marqués par de nombreux incidents ciblant des entités du secteur social gérant des données à caractère personnel . Compte tenu des impacts qu’ont eu ces exfiltrations de données, le CERT-FR propose un retour d’expérience sur la gestion de ces...]]></summary>
-        <author>
-            <name>CERT-FR</name>
         </author>
     </entry>
 </feed>

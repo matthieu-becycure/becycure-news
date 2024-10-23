@@ -3599,16 +3599,6 @@
           "wordCount": 360,
           "title": "Vulnérabilité dans TheGreenBow VPN Client  (24 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-009/",
-          "author": null,
-          "description": "L’année 2023 et le début de l’année 2024 ont été marqués par de nombreux incidents ciblant des entités du secteur social gérant des données à caractère personnel . Compte tenu des impacts qu’ont eu ces exfiltrations de données, le CERT-FR propose un retour d’expérience sur la gestion de ces...",
-          "link": "https://www.cert.ssi.gouv.fr/cti/CERTFR-2024-CTI-009/",
-          "publishedOn": "2024-09-24T09:00:00.000Z",
-          "wordCount": 406,
-          "title": "Exfiltration de données du secteur social - Retour d’expérience du CERT-FR (24 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
