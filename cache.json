@@ -3557,16 +3557,6 @@
           "wordCount": 418,
           "title": "Vulnérabilité dans Stormshield Network Security (25 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans TheGreenBow VPN Client. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0803/",
-          "publishedOn": "2024-09-24T11:16:52.000Z",
-          "wordCount": 360,
-          "title": "Vulnérabilité dans TheGreenBow VPN Client  (24 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
