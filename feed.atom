@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-23T13:44:22.071Z</updated>
+    <updated>2024-10-23T14:12:26.278Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large]]></title>
+        <id>https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html</id>
+        <link href="https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html"/>
+        <updated>2024-10-23T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Identity security is front, and center given all the recent breaches that include Microsoft, Okta, Cloudflare and Snowflake to name a few. Organizations are starting to realize that a shake-up is needed in terms of the way we approach identity security both from a strategic but also a technology vantage point. 
+Identity security is more than just provisioning access 
+The conventional view]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability (CVE-2024-38094)]]></title>
+        <id>https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html</id>
+        <link href="https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html"/>
+        <updated>2024-10-23T12:54:00.000Z</updated>
+        <summary type="html"><![CDATA[A high-severity flaw impacting Microsoft SharePoint has been added to the Known Exploited Vulnerabilities (KEV) catalog by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday, citing evidence of active exploitation.
+The vulnerability, tracked as CVE-2024-38094 (CVSS score: 7.2), has been described as a deserialization vulnerability impacting SharePoint that could result]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multiples vulnérabilités dans le greffon pour Office 365 de Splunk (23 octobre 2024)]]></title>
         <id>https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0916/</id>

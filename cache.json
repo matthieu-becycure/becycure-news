@@ -6,6 +6,38 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Identity security is front, and center given all the recent breaches that include Microsoft, Okta, Cloudflare and Snowflake to name a few. Organizations are starting to realize that a shake-up is needed in terms of the way we approach identity security both from a strategic but also a technology vantage point. \nIdentity security is more than just provisioning access \nThe conventional view",
+          "link": "https://thehackernews.com/2024/10/permiso-state-of-identity-security-2024.html",
+          "publishedOn": "2024-10-23T13:03:00.000Z",
+          "wordCount": null,
+          "title": "Permiso State of Identity Security 2024: A Shake-up in Identity Security Is Looming Large",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimcj-Ucw0Wv4tV8kKEHBfqtgbCNUUVkstlvpmWISL-KJxjHrLD6K-SrXuKpm9A7lPbxWWfi9vHGdm-gy88Le9U2uCAkmXTEvNwfd3sNrCg579JD9IYy5UPRZ6ZYPmyxtIHU_SksDHTyHcIv_bTIhIRovIBFFOfkayvg0Q9SSdd8Rkco8vG2zJTXdvKNRG/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimcj-Ucw0Wv4tV8kKEHBfqtgbCNUUVkstlvpmWISL-KJxjHrLD6K-SrXuKpm9A7lPbxWWfi9vHGdm-gy88Le9U2uCAkmXTEvNwfd3sNrCg579JD9IYy5UPRZ6ZYPmyxtIHU_SksDHTyHcIv_bTIhIRovIBFFOfkayvg0Q9SSdd8Rkco8vG2zJTXdvKNRG/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "A high-severity flaw impacting Microsoft SharePoint has been added to the Known Exploited Vulnerabilities (KEV) catalog by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday, citing evidence of active exploitation.\nThe vulnerability, tracked as CVE-2024-38094 (CVSS score: 7.2), has been described as a deserialization vulnerability impacting SharePoint that could result",
+          "link": "https://thehackernews.com/2024/10/cisa-warns-of-active-exploitation-of.html",
+          "publishedOn": "2024-10-23T12:54:00.000Z",
+          "wordCount": null,
+          "title": "CISA Warns of Active Exploitation of Microsoft SharePoint Vulnerability (CVE-2024-38094)",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52MD6_T_XCBZxtphq84sfwvla0Nksi3UHWHY2eQdLscYrQ84fgUChxtZEeqDS21yRrDIiMZY0i4Pm5poSESinDE1sF9GWIUMTBN7m9wXHWFQBAJLaVmFoNEVAGF9QLTNRt6gxxfQBwUvIuX1ZoIJmkfZP89EXHtsZnJwmEJCI2jzEo-vTSXLbLA2CpyJ/s1600/exploit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-52MD6_T_XCBZxtphq84sfwvla0Nksi3UHWHY2eQdLscYrQ84fgUChxtZEeqDS21yRrDIiMZY0i4Pm5poSESinDE1sF9GWIUMTBN7m9wXHWFQBAJLaVmFoNEVAGF9QLTNRt6gxxfQBwUvIuX1ZoIJmkfZP89EXHtsZnJwmEJCI2jzEo-vTSXLbLA2CpyJ/s1600/exploit.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cybersecurity researchers have shed light on a new adversarial technique that could be used to jailbreak large language models (LLMs) during the course of an interactive conversation by sneaking in an undesirable instruction between benign ones.\nThe approach has been codenamed Deceptive Delight by Palo Alto Networks Unit 42, which described it as both simple and effective, achieving an average",
