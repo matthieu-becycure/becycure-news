@@ -2356,22 +2356,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4OVEZ19_jACDYa16brvC-5_M1H3lNsALKJOIh6eTUYpEbpDPZMrmHMYnXzu7sMCidOZuITQnMmMZddepou1b8zxKUBXVZeEnKg75jqLmIIWwGV6SaqLGXmPYKZLnqP-SrEZlh3_1VSeWJNbSCGVwCD56Cbb3yWcQ608FU9qrHy9j03B5PG79vhg2bBgA/s1600/sspm.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4OVEZ19_jACDYa16brvC-5_M1H3lNsALKJOIh6eTUYpEbpDPZMrmHMYnXzu7sMCidOZuITQnMmMZddepou1b8zxKUBXVZeEnKg75jqLmIIWwGV6SaqLGXmPYKZLnqP-SrEZlh3_1VSeWJNbSCGVwCD56Cbb3yWcQ608FU9qrHy9j03B5PG79vhg2bBgA/s1600/sspm.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/new-octo2-android-banking-trojan.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have discovered a new version of an Android banking trojan called Octo that comes with improved capabilities to conduct device takeover (DTO) and perform fraudulent transactions.\nThe new version has been codenamed Octo2 by the malware author, Dutch security firm ThreatFabric said in a report shared with The Hacker News, adding campaigns distributing the malware have",
-          "link": "https://thehackernews.com/2024/09/new-octo2-android-banking-trojan.html",
-          "publishedOn": "2024-09-24T09:37:00.000Z",
-          "wordCount": null,
-          "title": "New Octo2 Android Banking Trojan Emerges with Device Takeover Capabilities",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghg1DvEV7G4tPhfjLMTWPHXgftVLNlBcBd8b4M2otV-WeJThTwdpoxk7S_u1TEchTS_CZfgNUM17azRH7mL91xz9e5C2QRo9wHrB40gvo7TSiOPpve7J0upuq1b1eKq7JeH7aqVhoR2oM5NV0M7ZTtAXglXmOtPWhRPGtNfHKsLgZVJsd26vCVd_DQ7PH_/s1600/android-banking-trojan.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghg1DvEV7G4tPhfjLMTWPHXgftVLNlBcBd8b4M2otV-WeJThTwdpoxk7S_u1TEchTS_CZfgNUM17azRH7mL91xz9e5C2QRo9wHrB40gvo7TSiOPpve7J0upuq1b1eKq7JeH7aqVhoR2oM5NV0M7ZTtAXglXmOtPWhRPGtNfHKsLgZVJsd26vCVd_DQ7PH_/s1600/android-banking-trojan.png"
         }
       ]
     },
