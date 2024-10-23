@@ -6,6 +6,54 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have shed light on a new adversarial technique that could be used to jailbreak large language models (LLMs) during the course of an interactive conversation by sneaking in an undesirable instruction between benign ones.\nThe approach has been codenamed Deceptive Delight by Palo Alto Networks Unit 42, which described it as both simple and effective, achieving an average",
+          "link": "https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html",
+          "publishedOn": "2024-10-23T09:54:00.000Z",
+          "wordCount": null,
+          "title": "Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXfNXTkQAr1aDlzoXqJ48Ktr51E0gqdAnPDFDHDchi5EVz_Xx0QALUfFLeaGbBVxssqFh42YwEM7VNOExV3nJx76NWI4vh130RO_07OQ7JRLMmApLCp8ichhn1TmD5takVlNTyCOON6DR-p5bLMsHS4sNMGzVgalyI3-zbm1chyphenhyphenfcCJKH7h6MawOvROoMz/s1600/ai-jailbreak.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXfNXTkQAr1aDlzoXqJ48Ktr51E0gqdAnPDFDHDchi5EVz_Xx0QALUfFLeaGbBVxssqFh42YwEM7VNOExV3nJx76NWI4vh130RO_07OQ7JRLMmApLCp8ichhn1TmD5takVlNTyCOON6DR-p5bLMsHS4sNMGzVgalyI3-zbm1chyphenhyphenfcCJKH7h6MawOvROoMz/s1600/ai-jailbreak.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "It may come as a surprise to learn that 34% of security practitioners are in the dark about how many SaaS applications are deployed in their organizations. And it’s no wonder—the recent AppOmni 2024 State of SaaS Security Report reveals that only 15% of organizations centralize SaaS security within their cybersecurity teams. These statistics not only highlight a critical security blind spot,",
+          "link": "https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html",
+          "publishedOn": "2024-10-23T09:34:00.000Z",
+          "wordCount": null,
+          "title": "Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpY2cvvBbdWCZpZnD8OECQx3XlYkovKgaoJGXYl1b6pbS6y1j78W2AdDDNq9NxnxjWhO5MOlFVyHeab3wXplfFrOWc7IYt5jML2NoUkc0arb56birHuErGBDpQ4JEvW8P-XmBk6ea5hTVC3_GMJT6OfouY1j9ME6lW7Nffhw713dogn3KO9IQlc0BtkYI/s1600/main.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpY2cvvBbdWCZpZnD8OECQx3XlYkovKgaoJGXYl1b6pbS6y1j78W2AdDDNq9NxnxjWhO5MOlFVyHeab3wXplfFrOWc7IYt5jML2NoUkc0arb56birHuErGBDpQ4JEvW8P-XmBk6ea5hTVC3_GMJT6OfouY1j9ME6lW7Nffhw713dogn3KO9IQlc0BtkYI/s1600/main.png"
+        },
+        {
+          "id": "https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Threat actors have been observed abusing Amazon S3 (Simple Storage Service) Transfer Acceleration feature as part of ransomware attacks designed to exfiltrate victim data and upload them to S3 buckets under their control.\n\"Attempts were made to disguise the Golang ransomware as the notorious LockBit ransomware,\" Trend Micro researchers Jaromir Horejsi and Nitesh Surana said. \"However, such is",
+          "link": "https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html",
+          "publishedOn": "2024-10-23T09:30:00.000Z",
+          "wordCount": null,
+          "title": "Ransomware Gangs Use LockBit's Fame to Intimidate Victims in Latest Attacks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Ey1czMFb35WoYB85WsmA7xip2VvLVsQn6wyJqiyhMCBvrlBxDA4ZGYSs4CXrU2z_thKyboYx1rb0Ebrmy2gwM8A2Edt6J4_-4M4sprfEOh_EXaOKfFT8H-NSXYfwl9Nz2lElMQu2OOXmuYxWSzf0XeJt5LPaB2rUMXfsOhu9RnggkrARnFUbIvQT1Hpr/s1600/lockbit.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Ey1czMFb35WoYB85WsmA7xip2VvLVsQn6wyJqiyhMCBvrlBxDA4ZGYSs4CXrU2z_thKyboYx1rb0Ebrmy2gwM8A2Edt6J4_-4M4sprfEOh_EXaOKfFT8H-NSXYfwl9Nz2lElMQu2OOXmuYxWSzf0XeJt5LPaB2rUMXfsOhu9RnggkrARnFUbIvQT1Hpr/s1600/lockbit.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Russian-speaking users have become the target of a new phishing campaign that leverages an open-source phishing toolkit called Gophish to deliver DarkCrystal RAT (aka DCRat) and a previously undocumented remote access trojan dubbed PowerRAT.\n\"The campaign involves modular infection chains that are either Maldoc or HTML-based infections and require the victim's intervention to trigger the",

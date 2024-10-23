@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-23T10:13:33.360Z</updated>
+    <updated>2024-10-23T10:34:45.714Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Researchers Reveal 'Deceptive Delight' Method to Jailbreak AI Models]]></title>
+        <id>https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html</id>
+        <link href="https://thehackernews.com/2024/10/researchers-reveal-deceptive-delight.html"/>
+        <updated>2024-10-23T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have shed light on a new adversarial technique that could be used to jailbreak large language models (LLMs) during the course of an interactive conversation by sneaking in an undesirable instruction between benign ones.
+The approach has been codenamed Deceptive Delight by Palo Alto Networks Unit 42, which described it as both simple and effective, achieving an average]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Think You’re Secure? 49% of Enterprises Underestimate SaaS Risks]]></title>
+        <id>https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html</id>
+        <link href="https://thehackernews.com/2024/10/think-youre-secure-49-of-enterprises.html"/>
+        <updated>2024-10-23T09:34:00.000Z</updated>
+        <summary type="html"><![CDATA[It may come as a surprise to learn that 34% of security practitioners are in the dark about how many SaaS applications are deployed in their organizations. And it’s no wonder—the recent AppOmni 2024 State of SaaS Security Report reveals that only 15% of organizations centralize SaaS security within their cybersecurity teams. These statistics not only highlight a critical security blind spot,]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware Gangs Use LockBit's Fame to Intimidate Victims in Latest Attacks]]></title>
+        <id>https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html</id>
+        <link href="https://thehackernews.com/2024/10/ransomware-gangs-use-lockbits-fame-to.html"/>
+        <updated>2024-10-23T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Threat actors have been observed abusing Amazon S3 (Simple Storage Service) Transfer Acceleration feature as part of ransomware attacks designed to exfiltrate victim data and upload them to S3 buckets under their control.
+"Attempts were made to disguise the Golang ransomware as the notorious LockBit ransomware," Trend Micro researchers Jaromir Horejsi and Nitesh Surana said. "However, such is]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gophish Framework Used in Phishing Campaigns to Deploy Remote Access Trojans]]></title>
         <id>https://thehackernews.com/2024/10/gophish-framework-used-in-phishing.html</id>
