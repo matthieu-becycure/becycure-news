@@ -2349,6 +2349,56 @@
       "siteUrl": "https://www.cert.ssi.gouv.fr/feed/",
       "articles": [
         {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0916/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans le greffon pour Office 365 de Splunk. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0916/",
+          "publishedOn": "2024-10-23T11:44:11.000Z",
+          "wordCount": 379,
+          "title": "Multiples vulnérabilités dans le greffon pour Office 365 de Splunk (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0915/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans les produits Centreon. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une injection de code indirecte à distance (XSS).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0915/",
+          "publishedOn": "2024-10-23T11:37:48.000Z",
+          "wordCount": 408,
+          "title": "Multiples vulnérabilités dans les produits Centreon (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0914/",
+          "author": null,
+          "description": "Une vulnérabilité a été découverte dans les produits Spring. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0914/",
+          "publishedOn": "2024-10-23T07:09:56.000Z",
+          "wordCount": 378,
+          "title": "Vulnérabilité dans les produits Spring (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0913/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0913/",
+          "publishedOn": "2024-10-23T07:05:47.000Z",
+          "wordCount": 343,
+          "title": "Multiples vulnérabilités dans Google Chrome (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0912/",
+          "author": null,
+          "description": "De multiples vulnérabilités ont été découvertes dans Liferay. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0912/",
+          "publishedOn": "2024-10-23T06:57:39.000Z",
+          "wordCount": 452,
+          "title": "Multiples vulnérabilités dans Liferay (23 octobre 2024)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0911/",
           "author": null,
           "description": "Une vulnérabilité a été découverte dans les produits Moxa. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.",
