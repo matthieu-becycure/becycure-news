@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T23:13:02.222Z</updated>
+    <updated>2024-10-24T23:28:56.740Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2801,18 +2801,6 @@ The tech giant said focusing on Safe Coding for new features not only reduces th
         <summary type="html"><![CDATA[Cybersecurity researchers have flagged the discovery of a new post-exploitation red team tool called Splinter in the wild.
 Palo Alto Networks Unit 42 shared its findings after it discovered the program on several customers' systems.
 "It has a standard set of features commonly found in penetration testing tools and its developer created it using the Rust programming language," Unit 42's Dominik]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Expert Tips on How to Spot a Phishing Link]]></title>
-        <id>https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html</id>
-        <link href="https://thehackernews.com/2024/09/expert-tips-on-how-to-spot-phishing-link.html"/>
-        <updated>2024-09-25T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Phishing attacks are becoming more advanced and harder to detect, but there are still telltale signs that can help you spot them before it's too late. See these key indicators that security experts use to identify phishing links:1. Check Suspicious URLs 
-
-Phishing URLs are often long, confusing, or filled with random characters. Attackers use these to disguise the link's true destination]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
