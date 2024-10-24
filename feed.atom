@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-23T23:43:28.863Z</updated>
+    <updated>2024-10-24T01:01:25.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2841,31 +2841,6 @@ Wuta Camera - Nice Shot Always (com.benqu.wuta) - 10+ million]]></summary>
         <updated>2024-09-24T13:03:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Department of Commerce (DoC) said it's proposing a ban on the import or sale of connected vehicles that integrate software and hardware made by foreign adversaries, particularly that of the People's Republic of China (PRC) and Russia.
 "The proposed rule focuses on hardware and software integrated into the Vehicle Connectivity System (VCS) and software integrated into the Automated]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discover Latest Ransomware Tactics and Zero Trust Strategies in This Expert Webinar]]></title>
-        <id>https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html</id>
-        <link href="https://thehackernews.com/2024/09/discover-latest-ransomware-tactics-and.html"/>
-        <updated>2024-09-24T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware is no longer just a threat; it's an entire industry. Cybercriminals are growing more sophisticated, and their tactics are evolving rapidly.
-This persistent danger is a major concern for business leaders.
-But there's good news: you don't have to be defenseless. What if you could gain a strategic edge?
-Join our exclusive webinar, "Unpacking the 2024 Ransomware Landscape: Insights and]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaspersky Exits U.S., Automatically Replaces Software With UltraAV, Raising Concerns]]></title>
-        <id>https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html</id>
-        <link href="https://thehackernews.com/2024/09/kaspersky-exits-us-automatically.html"/>
-        <updated>2024-09-24T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Antivirus vendor Kaspersky has formally begun pulling back its offerings in the U.S., migrating existing users to UltraAV, effective September 19, 2024, ahead of its formal exit at the end of the month.
-"Kaspersky antivirus customers received a software update facilitating the transition to UltraAV," the company said in a post announcing the move on September 21.
-"This update ensured that users]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
