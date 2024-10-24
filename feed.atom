@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T17:11:27.129Z</updated>
+    <updated>2024-10-24T17:30:45.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Qilin.B Ransomware Variant Emerges with Improved Encryption and Evasion Tactics]]></title>
+        <id>https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html</id>
+        <link href="https://thehackernews.com/2024/10/new-qilinb-ransomware-variant-emerges.html"/>
+        <updated>2024-10-24T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have discovered an advanced version of the Qilin ransomware sporting increased sophistication and tactics to evade detection.
+The new variant is being tracked by cybersecurity firm Halcyon under the moniker Qilin.B.
+"Notably, Qilin.B now supports AES-256-CTR encryption for systems with AESNI capabilities, while still retaining Chacha20 for systems that lack this support]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account Takeover Risks]]></title>
         <id>https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html</id>
