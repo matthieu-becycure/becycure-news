@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T01:01:25.044Z</updated>
+    <updated>2024-10-24T02:31:30.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2830,17 +2830,6 @@ The vulnerability in question is CVE-2024-7593 (CVSS score: 9.8), which could be
 Kaspersky said some of the malicious apps have also been found on the Google Play Store. They have been cumulatively downloaded 11 million times. They include -
 
 Wuta Camera - Nice Shot Always (com.benqu.wuta) - 10+ million]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Proposes Ban on Connected Vehicles Using Chinese and Russian Tech]]></title>
-        <id>https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html</id>
-        <link href="https://thehackernews.com/2024/09/us-proposes-ban-on-connected-vehicles.html"/>
-        <updated>2024-09-24T13:03:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Department of Commerce (DoC) said it's proposing a ban on the import or sale of connected vehicles that integrate software and hardware made by foreign adversaries, particularly that of the People's Republic of China (PRC) and Russia.
-"The proposed rule focuses on hardware and software integrated into the Vehicle Connectivity System (VCS) and software integrated into the Automated]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
