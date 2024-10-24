@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T17:43:35.264Z</updated>
+    <updated>2024-10-24T18:17:26.750Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2918,17 +2918,6 @@ As many]]></summary>
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA Flags Critical Ivanti vTM Vulnerability Amid Active Exploitation Concerns]]></title>
-        <id>https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html</id>
-        <link href="https://thehackernews.com/2024/09/cisa-flags-critical-ivanti-vtm.html"/>
-        <updated>2024-09-25T06:01:00.000Z</updated>
-        <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Ivanti Virtual Traffic Manager (vTM) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
-The vulnerability in question is CVE-2024-7593 (CVSS score: 9.8), which could be exploited by a remote unauthenticated attacker to bypass the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>
