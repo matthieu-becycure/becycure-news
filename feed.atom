@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T13:44:30.930Z</updated>
+    <updated>2024-10-24T14:12:37.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account Takeover Risks]]></title>
+        <id>https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html</id>
+        <link href="https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html"/>
+        <updated>2024-10-24T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cybersecurity researchers have disclosed a security flaw impacting Amazon Web Services (AWS) Cloud Development Kit (CDK) that could have resulted in an account takeover under specific circumstances.
+"The impact of this issue could, in certain scenarios, allow an attacker to gain administrative access to a target AWS account, resulting in a full account takeover," Aqua said in a report shared]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack]]></title>
         <id>https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html</id>

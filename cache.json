@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cybersecurity researchers have disclosed a security flaw impacting Amazon Web Services (AWS) Cloud Development Kit (CDK) that could have resulted in an account takeover under specific circumstances.\n\"The impact of this issue could, in certain scenarios, allow an attacker to gain administrative access to a target AWS account, resulting in a full account takeover,\" Aqua said in a report shared",
+          "link": "https://thehackernews.com/2024/10/aws-cloud-development-kit-vulnerability.html",
+          "publishedOn": "2024-10-24T13:00:00.000Z",
+          "wordCount": null,
+          "title": "AWS Cloud Development Kit Vulnerability Exposes Users to Potential Account Takeover Risks",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL5NVEmKTP6X2tKMj96lHho7dAkEVrlk9ky6iMCSj1eFt3aeMM8UaL_1EJjVVeuBZj8OfdNuidPfi_9yVlIQj0P6BblJb7-2FM-LiMtY-9U3tko0p9RcnUJfkPKTjvC1NoACy4UV0Wn_eoCzycE8CK5ZUDBRsXhG2aEKf-_DtMfy4jnBXsjE6ztEkY4qR0/s1600/aws.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL5NVEmKTP6X2tKMj96lHho7dAkEVrlk9ky6iMCSj1eFt3aeMM8UaL_1EJjVVeuBZj8OfdNuidPfi_9yVlIQj0P6BblJb7-2FM-LiMtY-9U3tko0p9RcnUJfkPKTjvC1NoACy4UV0Wn_eoCzycE8CK5ZUDBRsXhG2aEKf-_DtMfy4jnBXsjE6ztEkY4qR0/s1600/aws.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Cisco on Wednesday said it has released updates to address an actively exploited security flaw in its Adaptive Security Appliance (ASA) that could lead to a denial-of-service (DoS) condition.\nThe vulnerability, tracked as CVE-2024-20481 (CVSS score: 5.8), affects the Remote Access VPN (RAVPN) service of Cisco ASA and Cisco Firepower Threat Defense (FTD) Software.\nArising due to resource",
