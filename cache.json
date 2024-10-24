@@ -2324,22 +2324,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqImNErPM4npuulQ1W9ebVK5Hjhl8aQxA4KG9zQ4fUB3L4XVOFxCSTjz4PbPtlhyphenhyphenqlxiucLb59YAU2lhfBcDixsPiEUOUSokfSKhyv8NKhQ_UbrNwwKWlPndvpX7nupX2pttI9ARCrqh00GC7QwJh3K4-LHhvSWirQMKh0NP85jOmpSNGuhhVXNBZPzrY/s1600/soc.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqImNErPM4npuulQ1W9ebVK5Hjhl8aQxA4KG9zQ4fUB3L4XVOFxCSTjz4PbPtlhyphenhyphenqlxiucLb59YAU2lhfBcDixsPiEUOUSokfSKhyv8NKhQ_UbrNwwKWlPndvpX7nupX2pttI9ARCrqh00GC7QwJh3K4-LHhvSWirQMKh0NP85jOmpSNGuhhVXNBZPzrY/s1600/soc.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "A now-patched security vulnerability in OpenAI's ChatGPT app for macOS could have made it possible for attackers to plant long-term persistent spyware into the artificial intelligence (AI) tool's memory.\nThe technique, dubbed SpAIware, could be abused to facilitate \"continuous data exfiltration of any information the user typed or responses received by ChatGPT, including any future chat sessions",
-          "link": "https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html",
-          "publishedOn": "2024-09-25T09:31:00.000Z",
-          "wordCount": null,
-          "title": "ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
         }
       ]
     },
