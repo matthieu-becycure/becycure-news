@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T03:46:36.091Z</updated>
+    <updated>2024-10-24T04:16:10.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2817,19 +2817,6 @@ As many]]></summary>
         <updated>2024-09-25T06:01:00.000Z</updated>
         <summary type="html"><![CDATA[The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Ivanti Virtual Traffic Manager (vTM) to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation.
 The vulnerability in question is CVE-2024-7593 (CVSS score: 9.8), which could be exploited by a remote unauthenticated attacker to bypass the]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Necro Android Malware Found in Popular Camera and Browser Apps on Play Store]]></title>
-        <id>https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html</id>
-        <link href="https://thehackernews.com/2024/09/necro-android-malware-found-in-popular.html"/>
-        <updated>2024-09-24T16:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Altered versions of legitimate Android apps associated with Spotify, WhatsApp, and Minecraft have been used to deliver a new version of a known malware loader called Necro.
-Kaspersky said some of the malicious apps have also been found on the Google Play Store. They have been cumulatively downloaded 11 million times. They include -
-
-Wuta Camera - Nice Shot Always (com.benqu.wuta) - 10+ million]]></summary>
         <author>
             <name>info@thehackernews.com (The Hacker News)</name>
         </author>
