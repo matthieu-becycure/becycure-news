@@ -3567,16 +3567,6 @@
           "wordCount": 375,
           "title": "Multiples vulnérabilités dans Nessus Network Monitor (25 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0806/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0806/",
-          "publishedOn": "2024-09-25T08:20:24.000Z",
-          "wordCount": 337,
-          "title": "Multiples vulnérabilités dans Google Chrome (25 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
