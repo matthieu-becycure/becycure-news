@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a now-patched security flaw in Google Chrome to seize control of infected devices.\nCybersecurity vendor Kaspersky said it discovered a novel attack chain in May 2024 that targeted the personal computer of an unnamed Russian national with the Manuscrypt backdoor.\nThis entails triggering the",
+          "link": "https://thehackernews.com/2024/10/lazarus-group-exploits-google-chrome.html",
+          "publishedOn": "2024-10-24T09:53:00.000Z",
+          "wordCount": null,
+          "title": "Lazarus Group Exploits Google Chrome Vulnerability to Control Infected Devices",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgKxtR3b2lXHj0iWCUVI0TFeZFDdQ_InHY4-RFYntaaZcCQfw2KxEykP4t9rwCRUwDwWjX0exJl5l5dIDzhOdbRExZO_sUfpBTjMmVYEaFHYyER2VklIlNnfEVzC3Ahxei5xgTFvaORcCTSnStm-J-3TpEd82AscS3xxRwnLkHP_dX7Q-pfkxYPwlKc-f/s1600/chrome.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgKxtR3b2lXHj0iWCUVI0TFeZFDdQ_InHY4-RFYntaaZcCQfw2KxEykP4t9rwCRUwDwWjX0exJl5l5dIDzhOdbRExZO_sUfpBTjMmVYEaFHYyER2VklIlNnfEVzC3Ahxei5xgTFvaORcCTSnStm-J-3TpEd82AscS3xxRwnLkHP_dX7Q-pfkxYPwlKc-f/s1600/chrome.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/fortinet-warns-of-critical.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Fortinet has confirmed details of a critical security flaw impacting FortiManager that has come under active exploitation in the wild.\nTracked as CVE-2024-47575 (CVSS score: 9.8), the vulnerability is also known as FortiJump and is rooted in the FortiGate to FortiManager (FGFM) protocol.\n\"A missing authentication for critical function vulnerability [CWE-306] in FortiManager fgfmd daemon may",
