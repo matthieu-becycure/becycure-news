@@ -3577,16 +3577,6 @@
           "wordCount": 337,
           "title": "Multiples vulnérabilités dans Google Chrome (25 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0805/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Nagios XI. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0805/",
-          "publishedOn": "2024-09-25T07:25:25.000Z",
-          "wordCount": 308,
-          "title": "Vulnérabilité dans Nagios XI (25 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
