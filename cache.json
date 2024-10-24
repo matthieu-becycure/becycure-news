@@ -2340,22 +2340,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRqKtDX9OvVhpFV6zY1cM7sOQTBRW1MUylXA0YO5D8GYCwZHUnNubtc5V7pq92tMrGsShYjdDjfQrr22vlFPGG3Ps8QStUsPar1wehNTTvYYiPcPSR-oj3wxw2JRRd5SpDV5qUjIlSurwvE-EJ7aDf6kAwEvf8qyKBDVPeHArHh86vFelYF8jMvyv281Kx/s1600/macos.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/transportation-companies-hit-by.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Transportation and logistics companies in North America are the target of a new phishing campaign that delivers a variety of information stealers and remote access trojans (RATs).\nThe activity cluster, per Proofpoint, makes use of compromised legitimate email accounts belonging to transportation and shipping companies so as to inject malicious content into existing email conversations.\nAs many",
-          "link": "https://thehackernews.com/2024/09/transportation-companies-hit-by.html",
-          "publishedOn": "2024-09-25T07:03:00.000Z",
-          "wordCount": null,
-          "title": "Transportation Companies Hit by Cyberattacks Using Lumma Stealer and NetSupport Malware",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Avdtp7bYOQRvkPs8sO8dFmUgTObatnpoad2ECTYvXL0rYb7gJIQmpAM61IH_X3jayIdcJ4LTtutckAnX04f3SGycMw6ZhuOVlQMDgtgk-Uu6SHw-x-KTVcYVg-fWrurGmY1KooA0gi_tcQWw271-bvXNTvAe8Pba-Pmms7rZBp6HM_WJA4WEFDnQYzAh/s1600/cyberattack.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6Avdtp7bYOQRvkPs8sO8dFmUgTObatnpoad2ECTYvXL0rYb7gJIQmpAM61IH_X3jayIdcJ4LTtutckAnX04f3SGycMw6ZhuOVlQMDgtgk-Uu6SHw-x-KTVcYVg-fWrurGmY1KooA0gi_tcQWw271-bvXNTvAe8Pba-Pmms7rZBp6HM_WJA4WEFDnQYzAh/s1600/cyberattack.png"
         }
       ]
     },
@@ -3602,16 +3586,6 @@
           "publishedOn": "2024-09-25T07:25:25.000Z",
           "wordCount": 308,
           "title": "Vulnérabilité dans Nagios XI (25 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0804/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Stormshield. Elles permettent à un attaquant de provoquer une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0804/",
-          "publishedOn": "2024-09-25T06:57:18.000Z",
-          "wordCount": 418,
-          "title": "Vulnérabilité dans Stormshield Network Security (25 septembre 2024)",
           "imageUrl": null
         }
       ]
