@@ -6,6 +6,22 @@
       "siteUrl": "https://thehackernews.com",
       "articles": [
         {
+          "id": "https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "description": "Cisco on Wednesday said it has released updates to address an actively exploited security flaw in its Adaptive Security Appliance (ASA) that could lead to a denial-of-service (DoS) condition.\nThe vulnerability, tracked as CVE-2024-20481 (CVSS score: 5.8), affects the Remote Access VPN (RAVPN) service of Cisco ASA and Cisco Firepower Threat Defense (FTD) Software.\nArising due to resource",
+          "link": "https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html",
+          "publishedOn": "2024-10-24T12:41:00.000Z",
+          "wordCount": null,
+          "title": "Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack",
+          "itunes": {},
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmwR1bNQjJHgFl1WtiCfrHUMpXKNYtjGMJ8jF0eh_VCAyu2u55qURyuBKNA1sxu49U0nT1juCs5VpXP-APLxHgSjbkAvi1DVWPjVCrOnQOKqnCW94_xTAtHXik-jn9w2nXdNbYbv7ATlQ59TpaoPXii2yC9tSuDQ9B2vrg1Su7WTAZJV4j3DMVJEaz7niw/s1600/cisco.png"
+          },
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmwR1bNQjJHgFl1WtiCfrHUMpXKNYtjGMJ8jF0eh_VCAyu2u55qURyuBKNA1sxu49U0nT1juCs5VpXP-APLxHgSjbkAvi1DVWPjVCrOnQOKqnCW94_xTAtHXik-jn9w2nXdNbYbv7ATlQ59TpaoPXii2yC9tSuDQ9B2vrg1Su7WTAZJV4j3DMVJEaz7niw/s1600/cisco.png"
+        },
+        {
           "id": "https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html",
           "author": "info@thehackernews.com (The Hacker News)",
           "description": "Sometimes, it turns out that the answers we struggled so hard to find were sitting right in front of us for so long that we somehow overlooked them. \nWhen the Department of Homeland Security, through the Cybersecurity and Infrastructure Security Agency (CISA), in coordination with the FBI, issues a cybersecurity warning and prescribes specific action, it’s a pretty good idea to at least read the",

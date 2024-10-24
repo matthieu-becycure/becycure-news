@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T12:25:26.599Z</updated>
+    <updated>2024-10-24T13:03:16.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco Issues Urgent Fix for ASA and FTD Software Vulnerability Under Active Attack]]></title>
+        <id>https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html</id>
+        <link href="https://thehackernews.com/2024/10/cisco-issues-urgent-fix-for-asa-and-ftd.html"/>
+        <updated>2024-10-24T12:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Cisco on Wednesday said it has released updates to address an actively exploited security flaw in its Adaptive Security Appliance (ASA) that could lead to a denial-of-service (DoS) condition.
+The vulnerability, tracked as CVE-2024-20481 (CVSS score: 5.8), affects the Remote Access VPN (RAVPN) service of Cisco ASA and Cisco Firepower Threat Defense (FTD) Software.
+Arising due to resource]]></summary>
+        <author>
+            <name>info@thehackernews.com (The Hacker News)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Phishing-Resistant MFA Is No Longer Optional: The Hidden Risks of Legacy MFA]]></title>
         <id>https://thehackernews.com/2024/10/why-phishing-resistant-mfa-is-no-longer.html</id>
