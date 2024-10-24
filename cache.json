@@ -3527,46 +3527,6 @@
           "wordCount": 465,
           "title": "Multiples vulnérabilités dans les produits Trend Micro (25 septembre 2024)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0810/",
-          "author": null,
-          "description": "Une vulnérabilité a été découverte dans Xen. Elle permet à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0810/",
-          "publishedOn": "2024-09-25T09:17:19.000Z",
-          "wordCount": 309,
-          "title": "Vulnérabilité dans Xen (25 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0809/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un déni de service à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0809/",
-          "publishedOn": "2024-09-25T09:10:50.000Z",
-          "wordCount": 340,
-          "title": "Multiples vulnérabilités dans les produits Citrix (25 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0808/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans les produits HPE Aruba Networking. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0808/",
-          "publishedOn": "2024-09-25T09:05:58.000Z",
-          "wordCount": 380,
-          "title": "Multiples vulnérabilités dans les produits HPE Aruba Networking (25 septembre 2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0807/",
-          "author": null,
-          "description": "De multiples vulnérabilités ont été découvertes dans Nessus Network Monitor. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une injection de code indirecte à distance (XSS) et un problème de sécurité non spécifié par l'éditeur.",
-          "link": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2024-AVI-0807/",
-          "publishedOn": "2024-09-25T09:02:21.000Z",
-          "wordCount": 375,
-          "title": "Multiples vulnérabilités dans Nessus Network Monitor (25 septembre 2024)",
-          "imageUrl": null
         }
       ]
     }
