@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://matthieu-becycure.github.io/becycure-news/index.html</id>
     <title>Becycure News</title>
-    <updated>2024-10-24T23:43:36.153Z</updated>
+    <updated>2024-10-25T01:02:15.622Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://matthieu-becycure.github.io/becycure-news/index.html"/>
     <link rel="self" href="https://matthieu-becycure.github.io/becycure-news/feed.atom"/>
@@ -2791,18 +2791,6 @@ The tech giant said focusing on Safe Coding for new features not only reduces th
         <summary type="html"><![CDATA[De multiples vulnérabilités ont été découvertes dans les produits Trend Micro. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une atteinte à la confidentialité des données.]]></summary>
         <author>
             <name>CERT-FR</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybersecurity Researchers Warn of New Rust-Based Splinter Post-Exploitation Tool]]></title>
-        <id>https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html</id>
-        <link href="https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html"/>
-        <updated>2024-09-25T12:38:00.000Z</updated>
-        <summary type="html"><![CDATA[Cybersecurity researchers have flagged the discovery of a new post-exploitation red team tool called Splinter in the wild.
-Palo Alto Networks Unit 42 shared its findings after it discovered the program on several customers' systems.
-"It has a standard set of features commonly found in penetration testing tools and its developer created it using the Rust programming language," Unit 42's Dominik]]></summary>
-        <author>
-            <name>info@thehackernews.com (The Hacker News)</name>
         </author>
     </entry>
 </feed>

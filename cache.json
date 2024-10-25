@@ -2276,22 +2276,6 @@
             "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurnd2U_6yaK4uRg8AZlMyHa5ud3MwqyWpEysZ44qJ_4bmoAtzbx8NVFk2x5IDZpOImY2sMAUan0aaKnbb5_5Wopk723MB0y6EovaKLLVO961cdea-Q-0kTNgct_0SgKZbW4nwW0pVawBE9ibGxSIBogBtVs9ijhFfVDMf3qKYwIEOXZqenpOe1Dyftp4G/s1600/firefox.png"
           },
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiurnd2U_6yaK4uRg8AZlMyHa5ud3MwqyWpEysZ44qJ_4bmoAtzbx8NVFk2x5IDZpOImY2sMAUan0aaKnbb5_5Wopk723MB0y6EovaKLLVO961cdea-Q-0kTNgct_0SgKZbW4nwW0pVawBE9ibGxSIBogBtVs9ijhFfVDMf3qKYwIEOXZqenpOe1Dyftp4G/s1600/firefox.png"
-        },
-        {
-          "id": "https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "description": "Cybersecurity researchers have flagged the discovery of a new post-exploitation red team tool called Splinter in the wild.\nPalo Alto Networks Unit 42 shared its findings after it discovered the program on several customers' systems.\n\"It has a standard set of features commonly found in penetration testing tools and its developer created it using the Rust programming language,\" Unit 42's Dominik",
-          "link": "https://thehackernews.com/2024/09/cybersecurity-researchers-warn-of-new.html",
-          "publishedOn": "2024-09-25T12:38:00.000Z",
-          "wordCount": null,
-          "title": "Cybersecurity Researchers Warn of New Rust-Based Splinter Post-Exploitation Tool",
-          "itunes": {},
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivIUFaqYClnCCCd931zR7KSCdQMkvmwBkMnu5i95H6QI8UI5D8NpSAQtsBkHunIwaJQR0IWP2O9tI2dWcCLqfCPBhxSVaFHAA9ma9D9SLac_8tFJoQehTGHC0bH9Q0OHwsqrFRNnBBIC2C2dHIcP_nfGzf9RA2zE7lCh5voxrH_5e279JTYNncnqAQCGXk/s1600/hacking-tool.png"
-          },
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivIUFaqYClnCCCd931zR7KSCdQMkvmwBkMnu5i95H6QI8UI5D8NpSAQtsBkHunIwaJQR0IWP2O9tI2dWcCLqfCPBhxSVaFHAA9ma9D9SLac_8tFJoQehTGHC0bH9Q0OHwsqrFRNnBBIC2C2dHIcP_nfGzf9RA2zE7lCh5voxrH_5e279JTYNncnqAQCGXk/s1600/hacking-tool.png"
         }
       ]
     },
